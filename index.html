@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#fff8ef">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Isoloir">
+  <title>Isoloir — la politique, sans pression</title>
+  <meta name="description" content="L'actualité politique expliquée simplement, avec ses sources, relue par un humain avant publication.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=10">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./" aria-label="Isoloir, accueil">
+        <span class="brand-mark" aria-hidden="true"><img src="logo-mark.png" alt="" width="34" height="36"></span><span class="brand-name">Isoloir</span>
+      </a>
+      <nav class="tabs" role="tablist" aria-label="Sections">
+        <button class="tab" role="tab" aria-selected="true" data-section="institutions">Institutions</button>
+        <button class="tab" role="tab" aria-selected="false" data-section="presidentielle">Présidentielle</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1 id="hero-title">La politique, sans <span class="mark">pression.</span></h1>
+      <p id="hero-text">Chaque jour, quelques sujets d'actualité expliqués simplement, avec les sources à un clic pour te faire ta propre idée.</p>
+      <div id="countdown" class="countdown" role="timer" hidden>
+        <div class="cd-unit"><span class="cd-num" id="cd-d">0</span><span class="cd-lab">jours</span></div>
+        <div class="cd-unit"><span class="cd-num" id="cd-h">00</span><span class="cd-lab">heures</span></div>
+        <div class="cd-unit"><span class="cd-num" id="cd-m">00</span><span class="cd-lab">minutes</span></div>
+        <div class="cd-unit"><span class="cd-num" id="cd-s" aria-hidden="true">00</span><span class="cd-lab" aria-hidden="true">secondes</span></div>
+      </div>
+      <p id="countdown-cap" class="cd-cap" hidden>avant le 18 avril 2027, premier jour du scrutin</p>
+      <ul class="pills" id="hero-pills">
+        <li>Sources cliquables</li>
+        <li>Relu avant publication</li>
+        <li>Sans prise de parti</li>
+      </ul>
+    </section>
+
+    <p id="meta" class="meta" aria-live="polite"></p>
+    <div id="feed" class="feed"></div>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <h2>Comment ça marche</h2>
+      <ul class="how">
+        <li><strong>Rédigé avec l'IA</strong>À partir d'extraits d'articles réels, sans rien ajouter d'extérieur aux sources.</li>
+        <li><strong>Relu par un humain</strong>Aucun sujet n'est publié sans avoir été vérifié.</li>
+        <li><strong>Neutre</strong>On ne dit pas pour qui voter. Chaque opinion est attribuée à son auteur.</li>
+        <li><strong>Sourcé</strong>On résume et on renvoie vers l'article original, à lire en entier.</li>
+      </ul>
+      <p class="small">Une erreur ? Un résumé déformé ? La correction fait partie du projet : le signalement arrive bientôt.</p>
+    </div>
+  </footer>
+
+  <script src="features.js?v=7"></script>
+  <script src="app.js?v=10"></script>
+  <script>if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");</script>
+</body>
+</html>
