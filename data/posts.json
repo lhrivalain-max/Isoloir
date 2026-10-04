@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T08:06:38+00:00",
+ "generated_at": "2026-10-04T09:36:14+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : primaire à gauche, Le Pen et la presse, Roussel, Attal",
@@ -97,7 +97,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 22.77,
+   "score": 21.77,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -351,7 +351,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.49,
+   "score": 11.94,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -508,7 +508,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.75,
+   "score": 11.24,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -650,7 +650,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.55,
+   "score": 9.13,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -687,6 +687,99 @@
      "url": "https://www.franceinfo.fr/economie/automobile/essence/100-millions-de-barils-du-g7-liberes-l-annonce-d-emmanuel-macron-va-t-elle-faire-baisser-les-prix-a-la-pompe_8220349.html#xtor=RSS-3-%5Bgeneral%5D",
      "published_at": "2026-10-02T19:07:40+00:00",
      "snippet": "C'est une annonce qui devrait soulager quelque peu les tensions sur les marchés pétroliers : les pays du G7 sont tombés d'accord pour puiser dans les stocks. Qu'est-ce que cela signifie concrètement ? Faut-il s'attendre à une baisse des prix à la pompe ?"
+    }
+   ]
+  },
+  {
+   "headline": "Budget 2027 : le PS demande à Lecornu de revoir son projet « sans délai »",
+   "chapo": "Des responsables du Parti socialiste ont écrit vendredi 2 octobre au Premier ministre Sébastien Lecornu. Ils lui demandent de modifier « sans délai » son projet de budget 2027. Ils dénoncent un manque d'« efforts de justice fiscale » et évoquent la censure.",
+   "points": [
+    {
+     "text": "Le courrier a été envoyé vendredi 2 octobre au Premier ministre. Libération indique qu'il est signé par trois responsables du PS, dont Boris Vallaud et Johanna Rolland. Le Monde et 20 Minutes parlent de « cadres » du parti.",
+     "sources": [
+      "1918da96bbbc",
+      "1fff38873175",
+      "29a32ab818aa"
+     ]
+    },
+    {
+     "text": "Selon Le Monde et 20 Minutes, les socialistes dénoncent un manque d'« efforts de justice fiscale » et demandent à Sébastien Lecornu de revoir sa copie.",
+     "sources": [
+      "29a32ab818aa",
+      "1fff38873175",
+      "1918da96bbbc"
+     ]
+    },
+    {
+     "text": "Les signataires veulent que le texte change « sans délai », donc possiblement avant son arrivée dans l'hémicycle. Selon Le Monde, son examen au Parlement doit commencer à partir du 13 octobre. Le PS présente cette modification comme un moyen de montrer la « volonté de compromis » du Premier ministre.",
+     "sources": [
+      "1fff38873175",
+      "29a32ab818aa"
+     ]
+    },
+    {
+     "text": "Libération relève que les socialistes brandissent la menace d'une censure, « comme pour les budgets 2025 et 2026 ». Pour 20 Minutes, cette révision du texte est la condition pour que le gouvernement puisse se passer du 49.3 ou éviter la censure.",
+     "sources": [
+      "1918da96bbbc",
+      "29a32ab818aa"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : les extraits ne disent pas si Sébastien Lecornu répondra à ce courrier ni s'il modifiera son texte avant le début de l'examen, à partir du 13 octobre. Ils ne précisent pas non plus quelles mesures de justice fiscale le PS réclame.",
+     "sources": [
+      "1fff38873175",
+      "29a32ab818aa",
+      "1918da96bbbc"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/02/476/0/8000/4000/644/322/60/0/44348f2_upload-1-qnmcgpqka62i-jmug261001066.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/10/02/budget-2027-le-ps-appelle-sebastien-lecornu-a-modifier-sans-delai-son-projet-pour-montrer-sa-volonte-de-compromis_6787159_823448.html",
+    "article_id": "1fff38873175",
+    "focus_x": 0.5848588648334619,
+    "focus_y": 0.11976255253481934
+   },
+   "id": 30,
+   "section": "institutions",
+   "reviewed_at": "2026-10-04T09:36:14+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "1918da96bbbc",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Le Parti socialiste appelle Lecornu à modifier «sans délai» son projet de budget",
+     "url": "https://www.liberation.fr/politique/le-parti-socialiste-appelle-lecornu-a-modifier-sans-delai-son-projet-de-budget-20261002_HDN7TGXD2ZCSJOCVW7UWJQZ2SA/",
+     "published_at": "2026-10-02T14:40:21+00:00",
+     "snippet": "Brandissant la censure, comme pour les budgets 2025 et 2026, trois responsables du parti de gauche dont Boris Vallaud et Johanna Rolland, ont écrit ce vendredi 2 octobre au Premier ministre pour lui réclamer de revoir sa copie."
+    },
+    {
+     "id": "1fff38873175",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget 2027 : le PS appelle Sébastien Lecornu à modifier « sans délai » son projet pour montrer sa « volonté de compromis »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/02/budget-2027-le-ps-appelle-sebastien-lecornu-a-modifier-sans-delai-son-projet-pour-montrer-sa-volonte-de-compromis_6787159_823448.html",
+     "published_at": "2026-10-02T14:24:44+00:00",
+     "snippet": "Dénonçant un manque d’« efforts de justice fiscale », les cadres du parti invitent le premier ministre à revoir son texte, avant le début de son examen au Parlement, à partir du 13 octobre."
+    },
+    {
+     "id": "29a32ab818aa",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Budget 2027 : Le PS appelle Lecornu à revoir sa copie « sans délais » s’il veut se passer du 49.3 (ou éviter la censure)",
+     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4250818-20261002-budget-2027-ps-appelle-lecornu-revoir-copie-delais-veut-passer-49-3-eviter-censure?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-02T14:57:06+00:00",
+     "snippet": "Dénonçant un manque d'« efforts de justice fiscale », plusieurs cadres socialistes ont appelé dans un courrier à modifier « sans délai » le texte, possiblement avant l’arrivée dans l’hémicycle"
     }
    ]
   },
@@ -747,7 +840,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.93,
+   "score": 4.82,
    "sources": [
     {
      "id": "44354c3553f6",
@@ -866,7 +959,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.55,
+   "score": 4.44,
    "sources": [
     {
      "id": "38533e06eb72",
