@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T16:00:04+00:00",
+ "generated_at": "2026-10-04T16:18:20+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : primaire à gauche, Mélenchon, Le Pen, Philippe, animalistes",
@@ -99,7 +99,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 29.24,
+   "score": 28.95,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -388,7 +388,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.34,
+   "score": 18.2,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -642,7 +642,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.06,
+   "score": 9.98,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -799,7 +799,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.47,
+   "score": 9.39,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -941,7 +941,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.69,
+   "score": 7.63,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -1043,7 +1043,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.11,
+   "score": 7.04,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -1071,6 +1071,81 @@
      "url": "https://www.20minutes.fr/politique/assemblee_nationale/4250818-20261002-budget-2027-ps-appelle-lecornu-revoir-copie-delais-veut-passer-49-3-eviter-censure?at_medium=display&at_campaign=149",
      "published_at": "2026-10-02T14:57:06+00:00",
      "snippet": "Dénonçant un manque d'« efforts de justice fiscale », plusieurs cadres socialistes ont appelé dans un courrier à modifier « sans délai » le texte, possiblement avant l’arrivée dans l’hémicycle"
+    }
+   ]
+  },
+  {
+   "headline": "Fonctionnaires : hausse du minimum de traitement, les syndicats parlent de « mesurettes »",
+   "chapo": "Trois jours après les grandes manifestations, le gouvernement propose de relever l'indice minimum des fonctionnaires. Les syndicats jugent ces mesures insuffisantes, alors que la valeur du point d'indice reste gelée en 2027.",
+   "points": [
+    {
+     "text": "Vendredi 2 octobre, le gouvernement a annoncé vouloir relever le « minimum de traitement » de la fonction publique. L'annonce intervient trois jours après les grandes manifestations. Elle répond à un pouvoir d'achat des fonctionnaires qui se réduit face à l'inflation.",
+     "sources": [
+      "1ecdf9948b9f",
+      "5a679f7a053d",
+      "a10b0b0d9665"
+     ]
+    },
+    {
+     "text": "Le ministre des Comptes publics, David Amiel, veut faire passer 400 000 agents au-dessus du smic. Il promet aussi des « injections pérennes de points d'indice » dans les premiers échelons. Selon lui, l'objectif est de « commencer à redonner de la valeur à l'avancement et à l'ancienneté ».",
+     "sources": [
+      "a10b0b0d9665"
+     ]
+    },
+    {
+     "text": "Les syndicats jugent la mesure insuffisante. Selon Le Monde, ils dénoncent des « mesurettes » et de « l'affichage », et restent échaudés par le gel, en 2027, de la valeur du point d'indice.",
+     "sources": [
+      "1ecdf9948b9f",
+      "5a679f7a053d",
+      "a10b0b0d9665"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://img.20mn.fr/3XswlYxRTQ-bBOZzkiZCEik/1200x768_a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-greve-et-manifestation-de-la-fonction-publique-avant-la-presentation-du-projet-de-loi-de-finances-pour-l-annee-2027-par-sebastien-lecornu-le-29-septembre-2026-de-la-place-de-la-republique-a-place-de-la-nation-a-paris-paris-france-29-09-2026-at-the-call-of-the-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-and-fa-fp-unions-a-strike-and-demonstration-by-public-sector-workers-will-take-place-before-the-presentation-of-the-2027-budget-bill-by-sebastien-lecornu-on-september-29-2026-paris-france-29-09-2026-harsin-manifintersyndicalefonctionpublique046-credit-isa-harsin-sipa-2609292213",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4250856-20261002-fonctionnaires-gouvernement-propose-relever-indice-minimum-syndicats-crient-mesurettes?at_medium=display&at_campaign=149",
+    "article_id": "1ecdf9948b9f"
+   },
+   "id": 33,
+   "section": "institutions",
+   "reviewed_at": "2026-10-04T16:18:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.0,
+   "sources": [
+    {
+     "id": "1ecdf9948b9f",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Fonctionnaires : Le gouvernement propose de relever l’indice minimum, les syndicats crient aux « mesurettes »",
+     "url": "https://www.20minutes.fr/politique/4250856-20261002-fonctionnaires-gouvernement-propose-relever-indice-minimum-syndicats-crient-mesurettes?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-02T16:43:17+00:00",
+     "snippet": "Trois jours après les grandes manifestations, le gouvernement a proposé une hausse de l’indice minimum des fonctionnaires, dont le pouvoir d’achat se réduit face à l’inflation"
+    },
+    {
+     "id": "5a679f7a053d",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Salaires des fonctionnaires : les mesures « ciblées » du gouvernement ne calment pas la colère des syndicats",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/02/salaires-des-fonctionnaires-les-mesures-ciblees-du-gouvernement-ne-calment-pas-la-colere-des-syndicats_6787165_823448.html",
+     "published_at": "2026-10-02T14:44:46+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "a10b0b0d9665",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Fonction publique : le gouvernement propose de relever l’indice minimal des agents, les syndicats déplorent « des mesurettes » et de « l’affichage »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/02/fonction-publique-le-gouvernement-propose-de-relever-l-indice-minimal-des-agents-les-syndicats-decus_6787177_823448.html",
+     "published_at": "2026-10-02T15:13:09+00:00",
+     "snippet": "Le ministre des comptes publics, David Amiel, veut faire passer 400 000 agents au-dessus du smic. « Ce relèvement s’accompagnera d’injections pérennes de points d’indice dans les premiers échelons, pour commencer à redonner de la valeur à l’avancement et à l’ancienneté », a-t-il également assuré."
     }
    ]
   },
@@ -1131,7 +1206,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.38,
+   "score": 4.36,
    "sources": [
     {
      "id": "44354c3553f6",
@@ -1250,7 +1325,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.05,
+   "score": 4.03,
    "sources": [
     {
      "id": "38533e06eb72",
