@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T16:18:20+00:00",
+ "generated_at": "2026-10-04T16:19:30+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : primaire à gauche, Mélenchon, Le Pen, Philippe, animalistes",
@@ -99,7 +99,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 28.95,
+   "score": 28.93,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -293,6 +293,158 @@
    ]
   },
   {
+   "headline": "Bardella : Mediapart détaille sa méthode d'authentification, le RN conteste et annonce une plainte",
+   "chapo": "Trois jours après ses révélations, Mediapart a publié des éléments censés authentifier des messages antisémites de 2013 attribués à Jordan Bardella. Le président du RN conteste en être l'auteur et annonce une plainte pour faux et usage de faux. Gérald Darmanin et Olivier Faure l'accusent de mentir.",
+   "points": [
+    {
+     "text": "Jeudi 1er octobre, trois jours après ses premières révélations, Mediapart a publié des extraits de conversations privées issues de Facebook Messenger. Ces messages datent de 2013 et sont attribués à Jordan Bardella. Le journal assure qu'ils n'ont pas pu être modifiés.",
+     "sources": [
+      "2c9e52c0085d",
+      "2a62e7257826",
+      "9e90a24ff3b3"
+     ]
+    },
+    {
+     "text": "Selon franceinfo, Mediapart justifie l'authentification par une extraction des données, un constat d'huissier et des e-mails. Le Monde indique que le journal est passé par Meta et un huissier. Franceinfo rappelle que Meta propose cette possibilité, en respectant les règles de l'Union européenne.",
+     "sources": [
+      "2c9e52c0085d",
+      "6a34beb37332",
+      "9e90a24ff3b3"
+     ]
+    },
+    {
+     "text": "Jordan Bardella continue de nier être l'auteur de ces messages. Il parle de « montages grossiers » et annonce une seconde plainte pour faux et usage de faux, après une première plainte pour diffamation.",
+     "sources": [
+      "c50fab9dd534",
+      "2a62e7257826",
+      "e5472b83880e",
+      "6a34beb37332"
+     ]
+    },
+    {
+     "text": "Gérald Darmanin accuse le président du RN de mentir « éhontément ». Olivier Faure le qualifie aussi de menteur et estime qu'« il ne peut plus prétendre à Matignon ». Selon le titre de franceinfo, la défense de Bardella ne convainc pas ses opposants.",
+     "sources": [
+      "6a34beb37332",
+      "6d381d1ec619",
+      "2a62e7257826"
+     ]
+    },
+    {
+     "text": "Le député LFI Éric Coquerel estime que Jordan Bardella « fait preuve des clichés antisémites les plus rances qui existent ». Il fait valoir que, lorsque Mediapart lance une affaire, le journal « a tous les éléments derrière ».",
+     "sources": [
+      "0973cac592dc"
+     ]
+    },
+    {
+     "text": "Selon Le Figaro, la preuve numérique sera la pièce maîtresse d'un « inévitable marathon judiciaire ». Le journal parle du début d'un long feuilleton judiciaire, avec la plainte pour faux et usage de faux annoncée par Bardella.",
+     "sources": [
+      "e5472b83880e"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : l'issue des procédures. Bardella annonce une seconde plainte pour faux et usage de faux après une première pour diffamation. Les extraits ne font état d'aucune décision de justice.",
+     "sources": [
+      "c50fab9dd534",
+      "e5472b83880e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 12,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/5p41Vanl3Xi7xlkkEBuD6vF8Cis/0x534:7416x4706/1500x843/2026/10/02/6abf6e89eb930609285611.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/jordan-bardella/extraction-des-donnees-constat-d-huissier-e-mails-comment-mediapart-justifie-l-authentification-des-messages-antisemites-attribues-a-jordan-bardella_8219347.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "2c9e52c0085d",
+    "focus_x": 0.5233333333333333,
+    "focus_y": 0.20491195551436514
+   },
+   "id": 32,
+   "section": "institutions",
+   "reviewed_at": "2026-10-04T16:19:30+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 20.0,
+   "sources": [
+    {
+     "id": "0973cac592dc",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Jordan Bardella \"fait preuve des clichés antisémites les plus rances qui existent\", commente Eric Coquerel après les nouvelles révélations de Mediapart",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-fait-preuve-des-cliches-antisemites-les-plus-rances-qui-existent-commente-eric-coquerel-apres-les-nouvelles-revelations-de-mediapart_8219422.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-02T08:21:11+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "2a62e7257826",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Ces preuves n'en sont pas\" : la défense de Jordan Bardella face aux preuves publiées de Mediapart ne convainc pas ses opposants",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/ces-preuves-n-en-sont-pas-la-defense-de-jordan-bardella-face-aux-preuves-publiees-de-mediapart-ne-convainc-pas-ses-opposants_8219836.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-02T13:19:49+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "2c9e52c0085d",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Extraction des données, constat d'huissier, e-mails... Comment Mediapart justifie l'authentification des messages antisémites attribués à Jordan Bardella",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/extraction-des-donnees-constat-d-huissier-e-mails-comment-mediapart-justifie-l-authentification-des-messages-antisemites-attribues-a-jordan-bardella_8219347.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-02T10:15:49+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6a34beb37332",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Enquête sur Jordan Bardella : Gérald Darmanin accuse le président du RN de mentir « éhontément »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/02/enquete-sur-jordan-bardella-gerald-darmanin-accuse-le-president-du-rn-de-mentir-ehontement_6787109_823448.html",
+     "published_at": "2026-10-02T07:52:44+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6d381d1ec619",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Bardella accusé d’antisémitisme : Pour Gérald Darmanin et Olivier Faure, le président du RN ment",
+     "url": "https://www.20minutes.fr/politique/4250630-20261002-bardella-accuse-antisemitisme-gerald-darmanin-olivier-faure-president-rn-ment?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-02T08:47:47+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "9e90a24ff3b3",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Enquête de Mediapart sur Jordan Bardella : n'importe qui peut-il demander à Meta l'historique de ses messages et publications ?",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/enquete-de-mediapart-sur-jordan-bardella-tout-le-monde-peut-il-demander-son-historique-de-messages-et-de-publications-a-meta_8219515.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-02T12:28:35+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c50fab9dd534",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Des montages grossiers\" : Jordan Bardella contre-attaque après les nouvelles révélations de Mediapart",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/des-montages-grossiers-jordan-bardella-contre-attaque-apres-les-nouvelles-revelations-de-mediapart_8219371.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-02T07:23:43+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "e5472b83880e",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "La preuve numérique, pièce maîtresse d’un inévitable marathon judiciaire pour Jordan Bardella",
+     "url": "https://www.lefigaro.fr/politique/la-preuve-numerique-piece-maitresse-d-un-inevitable-marathon-judiciaire-pour-jordan-bardella-20261002",
+     "published_at": "2026-10-02T17:59:32+00:00",
+     "snippet": "DÉCRYPTAGE - Le président du Rassemblement national, qui conteste être l’auteur des messages à caractère antisémite publiés par Mediapart, a annoncé vouloir déposer une plainte pour faux et usage de faux. Le début d’un long feuilleton judiciaire."
+    }
+   ]
+  },
+  {
    "headline": "Revue de campagne : primaire à gauche, Le Pen et la presse, Roussel, Attal",
    "chapo": "Le deuxième débat de la primaire de la gauche sociale-démocrate a opposé les cinq candidats sur LFI, Gaza et la suite à donner à l'affaire Bardella. Côté RN, les propos de Marine Le Pen sur Mediapart provoquent une réaction de 39 sociétés de journalistes. Fabien Roussel propose de nationaliser TotalEnergies, et Gabriel Attal critique le projet de retraites d'Édouard Philippe.",
    "points": [
@@ -388,7 +540,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.2,
+   "score": 18.19,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1043,7 +1195,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.04,
+   "score": 7.03,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -1118,7 +1270,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.0,
+   "score": 6.99,
    "sources": [
     {
      "id": "1ecdf9948b9f",
