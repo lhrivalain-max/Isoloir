@@ -197,14 +197,14 @@ function setCountdown(on) {
 
 const HERO = {
   institutions: () => ({
-    lead: "La politique, sans ",
-    mark: "pression.",
+    lead: "La politique, ",
+    mark: "pour tous.",
     text: "Chaque jour, quelques sujets d'actualité expliqués simplement, avec les sources à un clic pour te faire ta propre idée.",
     pills: ["Sources cliquables", "Relu avant publication", "Sans prise de parti"],
   }),
   presidentielle: () => ({
-    lead: "La présidentielle, sans ",
-    mark: "pression.",
+    lead: "La présidentielle, ",
+    mark: "pour tous.",
     text: "La campagne vue par plusieurs médias, avec les sources à un clic. Le scrutin aura lieu les 18 avril et 2 mai 2027.",
     pills: ["Sans consigne de vote", "Sources cliquables", "Relu avant publication"],
   }),

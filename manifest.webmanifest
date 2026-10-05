@@ -1,7 +1,7 @@
 {
   "name": "Isoloir",
   "short_name": "Isoloir",
-  "description": "La politique, sans pression : l'actualité expliquée avec ses sources, relue par un humain.",
+  "description": "La politique, pour tous : l'actualité expliquée avec ses sources, relue par un humain.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
