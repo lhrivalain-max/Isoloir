@@ -51,7 +51,7 @@ function sourceChip(id, byId) {
   return el("a", { class: "chip", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", title: s.title, text: s.name });
 }
 
-const SECTION_LABEL = { institutions: "Institutions", presidentielle: "Présidentielle" };
+const SECTION_LABEL = { institutions: "Actualités", presidentielle: "Présidentielle" };
 const TINTS = 6;
 
 // Image de l'article source (fournie par le média), cadrée sur le point choisi à la relecture.
