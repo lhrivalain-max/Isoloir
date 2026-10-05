@@ -1,5 +1,5 @@
-// Hors ligne : on garde le site en cache, mais les données (posts.json) sont toujours demandées d'abord au réseau.
-const CACHE = "isoloir-v2";
+// Hors ligne : le site reste lisible grâce au cache, mais le réseau est toujours interrogé en premier pour avoir la dernière version.
+const CACHE = "isoloir-v3";
 const SHELL = ["./", "index.html", "style.css?v=11", "app.js?v=11", "features.js?v=7", "logo-mark.png", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
@@ -16,5 +16,7 @@ self.addEventListener("fetch", (e) => {
       .catch(() => caches.match(e.request)));
     return;
   }
-  e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request)));
+  // réseau d'abord : les mises à jour du site arrivent tout de suite ; le cache ne sert qu'hors ligne
+  e.respondWith(fetch(e.request).then((r) => { if (r.ok) { const copy = r.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); } return r; })
+    .catch(() => caches.match(e.request)));
 });
