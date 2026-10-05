@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T07:37:57+00:00",
+ "generated_at": "2026-10-05T07:41:48+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : dernier débat de la primaire PS, Glucksmann, Bardella, pluralisme, fiscalité",
@@ -102,7 +102,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 38.0,
+   "score": 37.9,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -385,7 +385,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 30.24,
+   "score": 30.16,
    "sources": [
     {
      "id": "013937c8c7f3",
@@ -597,6 +597,78 @@
    ]
   },
   {
+   "headline": "« Casseurs-payeurs » : l'examen du texte au Sénat avancé à octobre",
+   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné par le Sénat dès octobre, plus tôt que prévu. Il prévoit de rendre collectivement responsables les participants à un attroupement où des dégradations sont commises. Le Figaro signale aussi une possible saisie de certaines prestations sociales.",
+   "points": [
+    {
+     "text": "L'examen du projet de loi « casseurs-payeurs » par le Sénat a été avancé au mois d'octobre. Le Monde parle d'un gouvernement qui « accélère le calendrier ». Le Figaro confirme que le texte passera devant les sénateurs plus tôt que prévu.",
+     "sources": [
+      "224ef3002ed2",
+      "7ba0cf4b46c9"
+     ]
+    },
+    {
+     "text": "Le texte pose un principe de responsabilité collective. Les personnes présentes dans un attroupement seraient toutes tenues pour responsables des dégradations qui y sont commises. Selon Le Monde, il ne serait pas nécessaire de prouver que chacune en est personnellement l'auteur.",
+     "sources": [
+      "7ba0cf4b46c9",
+      "224ef3002ed2"
+     ]
+    },
+    {
+     "text": "Selon Le Monde, cette responsabilité collective serait plafonnée à 10 000 euros. C'est le seul des deux médias à donner ce chiffre dans l'extrait fourni.",
+     "sources": [
+      "7ba0cf4b46c9"
+     ]
+    },
+    {
+     "text": "Le Figaro indique que le texte prévoit, dans certains cas, une saisie des allocations familiales et des APL. Les extraits ne précisent pas quels sont ces cas.",
+     "sources": [
+      "224ef3002ed2"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 2,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/04/d448a5e499ae263d94c4f2e95b82ecd3b5cb8089c3fca8ece612afc8c7857cfa.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
+    "article_id": "224ef3002ed2",
+    "focus_x": 0.48,
+    "focus_y": 0.16913946587537093
+   },
+   "id": 34,
+   "section": "institutions",
+   "reviewed_at": "2026-10-05T07:01:58+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 5.84,
+   "sources": [
+    {
+     "id": "224ef3002ed2",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Responsabilité collective, saisie des prestations sociales… Ce que contient la loi «casseurs payeurs», dont l’examen au Sénat a été avancé",
+     "url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
+     "published_at": "2026-10-04T13:15:26+00:00",
+     "snippet": "L’examen de ce texte par le Sénat a été avancé au mois d’octobre. Il prévoit notamment une saisie des allocations familiales et des APL dans certains cas."
+    },
+    {
+     "id": "7ba0cf4b46c9",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Projet de loi « casseurs-payeurs » : le gouvernement accélère le calendrier",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
+     "published_at": "2026-10-04T16:48:36+00:00",
+     "snippet": "Le texte prévoit de rendre les participants à un attroupement collectivement responsables des dégradations qui y sont commises, dans la limite de 10 000 euros, sans avoir à prouver qu’ils en sont personnellement les auteurs."
+    }
+   ]
+  },
+  {
    "headline": "Revue de campagne : primaire à gauche, Mélenchon, Le Pen, Philippe, animalistes",
    "chapo": "À gauche, la primaire PS-Place publique entre dans sa dernière ligne droite, marquée par des propos privés de Raphaël Glucksmann qui ont fuité. Jean-Luc Mélenchon s'engage dans la mobilisation lycéenne, Marine Le Pen présente une « règle d'or » budgétaire, et Édouard Philippe voit sa campagne perturbée par l'actualité. Le Parti animaliste a aussi désigné sa candidate.",
    "points": [
@@ -694,7 +766,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.3,
+   "score": 19.28,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -983,7 +1055,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.24,
+   "score": 13.22,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1234,7 +1306,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.21,
+   "score": 12.19,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -1389,7 +1461,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.26,
+   "score": 7.25,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -1546,7 +1618,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.83,
+   "score": 6.82,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -1628,78 +1700,6 @@
      "url": "https://www.lemonde.fr/politique/article/2026/10/01/budget-de-la-securite-sociale-2027-le-gouvernement-veut-diviser-par-deux-le-deficit-et-demande-des-efforts_6786508_823448.html",
      "published_at": "2026-10-01T11:38:10+00:00",
      "snippet": "Retraités, assurés sociaux et professionnels de santé sont mis à contribution pour atteindre les objectifs ambitieux fixés par le gouvernement de ramener le déficit à 12,7 milliards d’euros. Sous réserve d’un débat parlementaire qui s’annonce houleux."
-    }
-   ]
-  },
-  {
-   "headline": "« Casseurs-payeurs » : l'examen du texte au Sénat avancé à octobre",
-   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné par le Sénat dès octobre, plus tôt que prévu. Il prévoit de rendre collectivement responsables les participants à un attroupement où des dégradations sont commises. Le Figaro signale aussi une possible saisie de certaines prestations sociales.",
-   "points": [
-    {
-     "text": "L'examen du projet de loi « casseurs-payeurs » par le Sénat a été avancé au mois d'octobre. Le Monde parle d'un gouvernement qui « accélère le calendrier ». Le Figaro confirme que le texte passera devant les sénateurs plus tôt que prévu.",
-     "sources": [
-      "224ef3002ed2",
-      "7ba0cf4b46c9"
-     ]
-    },
-    {
-     "text": "Le texte pose un principe de responsabilité collective. Les personnes présentes dans un attroupement seraient toutes tenues pour responsables des dégradations qui y sont commises. Selon Le Monde, il ne serait pas nécessaire de prouver que chacune en est personnellement l'auteur.",
-     "sources": [
-      "7ba0cf4b46c9",
-      "224ef3002ed2"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, cette responsabilité collective serait plafonnée à 10 000 euros. C'est le seul des deux médias à donner ce chiffre dans l'extrait fourni.",
-     "sources": [
-      "7ba0cf4b46c9"
-     ]
-    },
-    {
-     "text": "Le Figaro indique que le texte prévoit, dans certains cas, une saisie des allocations familiales et des APL. Les extraits ne précisent pas quels sont ces cas.",
-     "sources": [
-      "224ef3002ed2"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 2,
-    "outlets": 2
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/04/d448a5e499ae263d94c4f2e95b82ecd3b5cb8089c3fca8ece612afc8c7857cfa.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
-    "article_id": "224ef3002ed2",
-    "focus_x": 0.48,
-    "focus_y": 0.16913946587537093
-   },
-   "id": 34,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T07:01:58+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.85,
-   "sources": [
-    {
-     "id": "224ef3002ed2",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Responsabilité collective, saisie des prestations sociales… Ce que contient la loi «casseurs payeurs», dont l’examen au Sénat a été avancé",
-     "url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
-     "published_at": "2026-10-04T13:15:26+00:00",
-     "snippet": "L’examen de ce texte par le Sénat a été avancé au mois d’octobre. Il prévoit notamment une saisie des allocations familiales et des APL dans certains cas."
-    },
-    {
-     "id": "7ba0cf4b46c9",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Projet de loi « casseurs-payeurs » : le gouvernement accélère le calendrier",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
-     "published_at": "2026-10-04T16:48:36+00:00",
-     "snippet": "Le texte prévoit de rendre les participants à un attroupement collectivement responsables des dégradations qui y sont commises, dans la limite de 10 000 euros, sans avoir à prouver qu’ils en sont personnellement les auteurs."
     }
    ]
   },
@@ -1937,7 +1937,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.27,
+   "score": 4.26,
    "sources": [
     {
      "id": "1ecdf9948b9f",
@@ -2144,7 +2144,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.32,
+   "score": 3.31,
    "sources": [
     {
      "id": "38533e06eb72",
