@@ -81,19 +81,20 @@ function renderPost(post, index) {
   card.append(el("h2", { text: post.headline }));
   card.append(el("p", { class: "chapo", text: post.chapo }));
 
+  const more = el("div", { class: "more", id: "more-" + post.id, hidden: "" });
   if (post.points?.length) {
-    card.append(el("h3", { text: "L'essentiel" }));
+    more.append(el("h3", { text: "L'essentiel" }));
     const ul = el("ul", { class: "points" });
     for (const p of post.points) {
       const li = el("li", { text: p.text });
       for (const id of p.sources || []) li.append(sourceChip(id, byId));
       ul.append(li);
     }
-    card.append(ul);
+    more.append(ul);
   }
 
   if (post.perspectives?.length) {
-    card.append(el("h3", { text: "Les points de vue" }));
+    more.append(el("h3", { text: "Les points de vue" }));
     const wrap = el("div", { class: "persp" });
     for (const p of post.perspectives) {
       const item = el("div", { class: "persp-item" },
@@ -103,7 +104,7 @@ function renderPost(post, index) {
       item.append(sourceChip(p.source, byId));
       wrap.append(item);
     }
-    card.append(wrap);
+    more.append(wrap);
   }
 
   if (post.sources?.length) {
@@ -119,9 +120,18 @@ function renderPost(post, index) {
       ul.append(li);
     }
     details.append(ul);
-    card.append(details);
+    more.append(details);
   }
-  card.append(el("p", { class: "disclosure", text: `Rédigé avec l'aide de l'IA, relu par un humain le ${formatDate(post.reviewed_at)}.` }));
+  more.append(el("p", { class: "disclosure", text: `Rédigé avec l'aide de l'IA, relu par un humain le ${formatDate(post.reviewed_at)}.` }));
+  card.append(el("p", { class: "meta-line", text: `${(post.sources || []).length} sources · ${post.coverage?.outlets || new Set((post.sources || []).map((s) => s.name)).size} médias` }));
+  const toggle = el("button", { class: "more-btn", type: "button", "aria-expanded": "false", "aria-controls": "more-" + post.id, text: "Voir plus" });
+  toggle.addEventListener("click", () => {
+    const open = more.hidden;
+    more.hidden = !open;
+    toggle.setAttribute("aria-expanded", String(open));
+    toggle.textContent = open ? "Voir moins" : "Voir plus";
+  });
+  card.append(toggle, more);
   return card;
 }
 

@@ -1,6 +1,6 @@
 // Hors ligne : on garde le site en cache, mais les données (posts.json) sont toujours demandées d'abord au réseau.
-const CACHE = "isoloir-v1";
-const SHELL = ["./", "index.html", "style.css?v=10", "app.js?v=10", "features.js?v=7", "logo-mark.png", "icons/icon-192.png"];
+const CACHE = "isoloir-v2";
+const SHELL = ["./", "index.html", "style.css?v=11", "app.js?v=11", "features.js?v=7", "logo-mark.png", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

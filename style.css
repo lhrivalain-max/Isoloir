@@ -174,3 +174,9 @@ details.srcs li { margin-bottom: 10px; }
   .card:nth-child(4) { animation-delay: .18s; }
   @keyframes rise { from { opacity: 0; transform: translateY(14px); } }
 }
+
+/* ---------- carte repliée + « Voir plus » ---------- */
+.meta-line { margin: 12px 0 0; color: var(--muted); font-size: 14.5px; font-weight: 700; }
+.more-btn { margin-top: 12px; border: 0; cursor: pointer; font: inherit; font-weight: 800; font-size: 15px; color: var(--ink); background: var(--tint); padding: 10px 20px; border-radius: 999px; transition: filter .2s; }
+.more-btn:hover { filter: brightness(.96); }
+.more[hidden] { display: none; }
