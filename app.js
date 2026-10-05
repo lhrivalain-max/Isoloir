@@ -61,7 +61,7 @@ function imageFigure(image) {
   return el("figure", { class: "card-photo" },
     img,
     el("figcaption", {},
-      "Image (recadrée) : ",
+      "Image : ",
       el("a", { href: safeUrl(image.article_url), target: "_blank", rel: "noopener noreferrer", text: image.source + ", voir l'article" }),
     ),
   );
