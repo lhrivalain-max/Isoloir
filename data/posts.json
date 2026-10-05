@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T11:43:11+00:00",
+ "generated_at": "2026-10-05T15:45:31+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : dernier débat de la primaire PS, Glucksmann, Bardella, pluralisme, fiscalité",
@@ -102,7 +102,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 32.47,
+   "score": 28.39,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -362,7 +362,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.06,
+   "score": 10.12,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -439,6 +439,149 @@
    ]
   },
   {
+   "headline": "Glucksmann s'excuse auprès de Ségolène Royal après la polémique sur la « danse du ventre »",
+   "chapo": "Une vidéo privée diffusée par « Le Média » montre Raphaël Glucksmann parler de ses adversaires, dont Ségolène Royal, de façon qualifiée de vulgaire par Libération. Royal a déploré des « insultes à connotation sexuelle ». Lors du dernier débat de la primaire sur BFMTV, Glucksmann a fini par présenter ses excuses, reconnaissant des « propos inélégants » à son égard, selon CNews.",
+   "points": [
+    {
+     "text": "Vendredi 2 octobre, « Le Média » a diffusé une vidéo d'une réunion avec des jeunes militants. Glucksmann y parle vulgairement de ses adversaires, selon Libération. Il y accuse notamment Ségolène Royal d'avoir fait « la danse du ventre à Emmanuel Macron » pour obtenir un poste, d'après BFMTV.",
+     "sources": [
+      "7941065351c3",
+      "8609d45c3549",
+      "5b8c79cc0a6b"
+     ]
+    },
+    {
+     "text": "Le sujet est revenu dimanche 4 octobre lors du dernier débat de la primaire sociale-démocrate sur BFMTV, en partenariat avec Libération. Y participaient les cinq candidats : Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Glucksmann. Le premier tour est prévu le week-end suivant.",
+     "sources": [
+      "5b8c79cc0a6b",
+      "cb333c3faafa",
+      "e846d193e69f"
+     ]
+    },
+    {
+     "text": "Ségolène Royal a répondu : « Je n'accepte pas qu'on puisse dégrader une femme ». Elle a déploré des « insultes à connotation sexuelle ». Franceinfo rapporte qu'elle dénonce « une agression à connotation sexuelle ».",
+     "sources": [
+      "8609d45c3549",
+      "ba67b568e799",
+      "5b8c79cc0a6b"
+     ]
+    },
+    {
+     "text": "Dans un premier temps, Glucksmann s'est défendu. Selon franceinfo et BFMTV, il a expliqué que les vidéos avaient été filmées « dans un cadre privé » et qu'« il n'y avait aucune connotation sexiste ».",
+     "sources": [
+      "ba67b568e799",
+      "cb333c3faafa"
+     ]
+    },
+    {
+     "text": "Olivier Faure, lui aussi candidat à la primaire, a estimé que « le plus simple, c'est de s'excuser ». Selon CNews, Glucksmann a ensuite présenté ses excuses dimanche soir. Il s'est dit « désolé » et a reconnu des « propos inélégants » envers Ségolène Royal.",
+     "sources": [
+      "e846d193e69f",
+      "f8607b5e1e83"
+     ]
+    },
+    {
+     "text": "Selon Libération, l'entourage de Glucksmann pense que la polémique ne le dessert pas, voire bien au contraire. Il juge que ses propos ne sont pas en « décalage sur le fond » avec ce que le candidat veut exprimer. CNews décrit au contraire un candidat « pris dans la tourmente » et « sous le feu des critiques ».",
+     "sources": [
+      "7941065351c3",
+      "f8607b5e1e83"
+     ]
+    },
+    {
+     "text": "Le premier tour de la primaire est prévu le week-end suivant le débat.",
+     "sources": [
+      "5b8c79cc0a6b",
+      "7941065351c3"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/34_tm-hqxWmOZV1iDTlzoHuRPOA=/0x0:1920x1080/800x0/images/La-candidate-a-la-primaire-sociale-democrate-Segolene-Royal-durant-le-debat-decisif-sur-BFMTV-le-dimanche-4-octobre-2359124.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/je-n-accepte-pas-qu-on-puisse-degrader-une-femme-segolene-royal-repond-a-raphael-glucksmann-qui-l-accusait-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron-pour-avoir-un-poste_AV-202610040412.html",
+    "article_id": "8609d45c3549",
+    "focus_x": 0.4666666666666667,
+    "focus_y": 0.09805555555555556
+   },
+   "id": 38,
+   "section": "institutions",
+   "reviewed_at": "2026-10-05T15:45:31+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "5b8c79cc0a6b",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Danse du ventre\": Ségolène Royal répond à Raphaël Glucksmann sur ses propos sur l'ancienne ministre",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-danse-du-ventre-segolene-royal-repond-a-raphael-glucksmann-sur-ses-propos-sur-l-ancienne-ministre_VN-202610040439.html",
+     "published_at": "2026-10-04T20:30:33+00:00",
+     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau. Interrogée sur les propos prononcés par Raphaël Glucksmann dans une vidéo privée, partagée sur les réseaux sociaux, qui indiquait que Ségolène Royal faisait \"la danse du ventre à Emmanuel Macron\", cette dernière fait part de "
+    },
+    {
+     "id": "7941065351c3",
+     "name": "Libération",
+     "kind": "media",
+     "title": "«Pisser» sur LFI et «danse du ventre» de Royal : le camp Glucksmann pense que la polémique ne le dessert pas, bien au contraire",
+     "url": "https://www.liberation.fr/politique/pisser-sur-lfi-et-danse-du-ventre-de-royal-le-camp-glucksmann-pense-que-la-polemique-ne-le-dessert-pas-bien-au-contraire-20261005_MPYA53G4ONG5XGDTM4XAWMPVCM/",
+     "published_at": "2026-10-05T10:20:12+00:00",
+     "snippet": "Après la diffusion vendredi 2 octobre par «le Média» d’une vidéo où le candidat parle vulgairement de ses adversaires, son entourage estime que ses propos ne sont pas en «décalage sur le fond avec ce qu’il veut exprimer»."
+    },
+    {
+     "id": "8609d45c3549",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Je n'accepte pas qu'on puisse dégrader une femme\": Ségolène Royal répond à Raphaël Glucksmann, qui l'accusait d'avoir fait la \"danse du ventre\" auprès d'Emmanuel Macron pour avoir un poste",
+     "url": "https://www.bfmtv.com/politique/je-n-accepte-pas-qu-on-puisse-degrader-une-femme-segolene-royal-repond-a-raphael-glucksmann-qui-l-accusait-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron-pour-avoir-un-poste_AV-202610040412.html",
+     "published_at": "2026-10-04T19:44:00+00:00",
+     "snippet": "L'ancienne ministre de la Transition écologique a déploré des \"insultes à connotation sexuelle\" que le président de Place publique a prononcé, en privé, durant une réunion avec des jeunes militants."
+    },
+    {
+     "id": "ba67b568e799",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Ségolène Royal dénonce \"une agression à connotation sexuelle\" après que Raphaël Glucksmann l'a accusé d'avoir fait \"la danse du ventre\" auprès d'Emmanuel Macron",
+     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/segolene-royal-denonce-une-agression-a-connotation-sexuelle-apres-que-raphael-glucksmann-l-a-accuse-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron_8222578.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-04T19:50:24+00:00",
+     "snippet": "Le candidat Place publique s'est défendu dimanche en expliquant que les vidéos diffusées par \"Le Media\" ont été filmées \"dans un cadre privé\" et en assurant qu'il \"n'y avait aucune connotation sexiste\"."
+    },
+    {
+     "id": "cb333c3faafa",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Il n'y avait aucune connotation sexiste\":Raphaël Glucksmann se justifie après avoir accusé, dans une vidéo sortie sur les réseaux sociaux, Ségolène Royal d'avoir fait \"la danse du ventre à Emmanuel Macron\"",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-avait-aucune-connotation-sexiste-raphael-glucksmann-se-justifie-apres-avoir-accuse-dans-une-video-sortie-sur-les-reseaux-sociaux-segolene-royal-d-avoir-fait-la-danse-du-ventre-a-emmanuel-macron_VN-202610040405.html",
+     "published_at": "2026-10-04T19:25:16+00:00",
+     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau."
+    },
+    {
+     "id": "e846d193e69f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Le plus simple, c'est de s'excuser\": Olivier Faure exhorte Raphaël Glucksmann à présenter ses excuses à Ségolène Royal après ses propos sur l'ancienne ministre",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-plus-simple-c-est-de-s-excuser-olivier-faure-exhorte-raphael-glucksmann-a-presenter-ses-excuses-a-segolene-royal-apres-ses-propos-sur-l-ancienne-ministre_VN-202610040406.html",
+     "published_at": "2026-10-04T19:27:28+00:00",
+     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau."
+    },
+    {
+     "id": "f8607b5e1e83",
+     "name": "CNews",
+     "kind": "media",
+     "title": "«Danse du ventre à Emmanuel Macron» : Raphael Glucksmann se dit «désolé» après ses propos «inélégants» sur Ségolène Royal",
+     "url": "https://www.cnews.fr/france/2026-10-05/danse-du-ventre-emmanuel-macron-raphael-glucksmann-se-dit-desole-apres-ses-propos",
+     "published_at": "2026-10-05T04:54:37+00:00",
+     "snippet": "Pris dans la tourmente après la diffusion d’anciennes vidéos où il attaque plusieurs figures politiques, Raphaël Glucksmann a fini par présenter ses excuses dimanche soir lors du dernier débat de la primaire de la gauche, reconnaissant des «propos inélégants» à l’égard de Ségolène Royal. Raphaël Glucksmann sous le feu des critiques. Lors du dernier débat de la primaire de la gauche sociale-démocrate sur BFMTV dimanche, l’eurodéputé et candidat à l'élection présidentielle est revenu sur ses propos tenus lors d’une réunion militante, dans lesquels il reprochait notamment à Ségolène Royal d’avoir"
+    }
+   ]
+  },
+  {
    "headline": "« Casseurs-payeurs » : l'examen du texte au Sénat avancé à octobre",
    "chapo": "Le projet de loi « casseurs-payeurs » sera examiné par le Sénat dès octobre, plus tôt que prévu. Il prévoit de rendre collectivement responsables les participants à un attroupement où des dégradations sont commises. Le Figaro signale aussi une possible saisie de certaines prestations sociales.",
    "points": [
@@ -488,7 +631,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.02,
+   "score": 4.4,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -608,7 +751,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.73,
+   "score": 16.41,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -897,7 +1040,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.34,
+   "score": 11.57,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1151,7 +1294,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.77,
+   "score": 6.34,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -1308,7 +1451,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.37,
+   "score": 5.97,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -1450,7 +1593,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.18,
+   "score": 4.85,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -1552,7 +1695,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.31,
+   "score": 3.99,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -1627,7 +1770,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.87,
+   "score": 3.54,
    "sources": [
     {
      "id": "1ecdf9948b9f",
@@ -1715,7 +1858,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.43,
+   "score": 3.29,
    "sources": [
     {
      "id": "44354c3553f6",
@@ -1834,7 +1977,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.17,
+   "score": 3.03,
    "sources": [
     {
      "id": "38533e06eb72",
