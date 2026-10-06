@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T08:00:05+00:00",
+ "generated_at": "2026-10-06T08:00:25+00:00",
  "posts": [
   {
    "headline": "Revue de campagne : dernier débat de la primaire PS, Glucksmann, Bardella, pluralisme, fiscalité",
@@ -103,7 +103,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.86,
+   "score": 18.85,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -455,6 +455,86 @@
    ]
   },
   {
+   "headline": "Sénat : le RN forme son premier groupe, LR reste en tête",
+   "chapo": "Après les sénatoriales du 27 septembre, le Sénat a officialisé lundi sa nouvelle répartition en groupes politiques. Les équilibres n'ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à constituer son propre groupe.",
+   "points": [
+    {
+     "text": "Le 27 septembre, 178 sièges étaient en jeu au Sénat. La plupart des sortants qui se représentaient ont été réélus, et selon Le Monde, les équilibres n'ont pas été bouleversés.",
+     "sources": [
+      "39a4df5d24e0"
+     ]
+    },
+    {
+     "text": "Le Rassemblement national a réussi à former un groupe au Sénat, une première pour le parti. Le Monde et franceinfo soulignent le caractère inédit de cette étape dans la chambre haute.",
+     "sources": [
+      "39a4df5d24e0",
+      "01ecb22ad588"
+     ]
+    },
+    {
+     "text": "La majorité de droite et du centre conserve une très nette avance sur la gauche, selon franceinfo, dans son infographie sur la nouvelle composition de l'hémicycle.",
+     "sources": [
+      "01ecb22ad588"
+     ]
+    },
+    {
+     "text": "Les groupes ont été officialisés lundi, après une semaine de tractations. Les Républicains restent le plus gros groupe. Selon Libération, l'Union centriste devance le PS « d'un rien ».",
+     "sources": [
+      "bcbb4739abb5"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/oQO9aOHDhkw_RLBjuG-Uci4BkK8/0x615:5904x3936/432x243/filters:format(jpg)/2026/10/05/6ac3aee806739132803994.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "01ecb22ad588",
+    "focus_x": 0.22666666666666666,
+    "focus_y": 0.45564814814814814
+   },
+   "id": 39,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T08:00:25+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.0,
+   "sources": [
+    {
+     "id": "01ecb22ad588",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "INFOGRAPHIE. Sénatoriales 2026 : découvrez la nouvelle composition de l'Hémicycle avec les différents groupes politiques",
+     "url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T17:41:16+00:00",
+     "snippet": "La majorité de droite et du centre conserve une très nette avance sur la gauche au sein de la chambre haute, où le RN est parvenu à se constituer un groupe pour la première fois de son histoire."
+    },
+    {
+     "id": "39a4df5d24e0",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Sénatoriales : quels sont les nouveaux groupes au Palais du Luxembourg ?",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/05/senatoriales-quels-sont-les-nouveaux-groupes-au-palais-du-luxembourg_6788573_4355770.html",
+     "published_at": "2026-10-05T17:55:52+00:00",
+     "snippet": "Sur les 178 sièges en jeu au Sénat le 27 septembre, la plupart des sortants qui s’étaient présentés à leur succession l’ont emporté. Les équilibres n’ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à former un groupe."
+    },
+    {
+     "id": "bcbb4739abb5",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Sénat : LR reste le plus gros groupe après une semaine de tractations, l’Union centriste devance d’un rien le PS",
+     "url": "https://www.liberation.fr/politique/elections/senat-lr-reste-le-plus-gros-groupe-apres-une-semaine-de-tractations-lunion-centriste-devance-dun-rien-le-ps-20261005_DS46VJME4FEA5ON2I67GULOEFI/",
+     "published_at": "2026-10-05T18:28:17+00:00",
+     "snippet": "Quelques mois avant l’élection présidentielle, la plus haute chambre du pays a officialisé ce lundi sa nouvelle répartition après les élections qui se sont tenues le 27 septembre."
+    }
+   ]
+  },
+  {
    "headline": "Glucksmann s'excuse auprès de Ségolène Royal après la polémique sur la « danse du ventre »",
    "chapo": "Une vidéo privée diffusée par « Le Média » montre Raphaël Glucksmann parler de ses adversaires, dont Ségolène Royal, de façon qualifiée de vulgaire par Libération. Royal a déploré des « insultes à connotation sexuelle ». Lors du dernier débat de la primaire sur BFMTV, Glucksmann a fini par présenter ses excuses, reconnaissant des « propos inélégants » à son égard, selon CNews.",
    "points": [
@@ -530,7 +610,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.95,
+   "score": 8.94,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
