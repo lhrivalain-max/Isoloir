@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:32:53+00:00",
+ "generated_at": "2026-10-06T15:57:59+00:00",
  "posts": [
   {
    "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
@@ -60,7 +60,9 @@
     "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BPBlghKA92nm33AC_GI-a2PWkeQ=/0x0:1280x720/800x0/images/Presidentielle-Marine-Le-Pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032-2360109.jpg",
     "source": "BFMTV",
     "article_url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
-    "article_id": "7a320e0366e2"
+    "article_id": "7a320e0366e2",
+    "focus_x": 0.42,
+    "focus_y": 0.1025925925925926
    },
    "id": 41,
    "section": "institutions",
@@ -68,7 +70,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 35.0,
+   "score": 34.4,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -225,7 +227,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 24.48,
+   "score": 24.16,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -452,7 +454,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 30.19,
+   "score": 29.69,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -724,7 +726,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.0,
+   "score": 15.73,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -849,7 +851,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.61,
+   "score": 7.51,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -982,7 +984,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.31,
+   "score": 16.19,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -1257,7 +1259,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.56,
+   "score": 12.45,
    "sources": [
     {
      "id": "3566bb310543",
@@ -1409,7 +1411,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.47,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -1526,7 +1528,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.55,
+   "score": 2.53,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -1646,7 +1648,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.4,
+   "score": 11.34,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -1935,7 +1937,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.44,
+   "score": 8.4,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -2186,7 +2188,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.74,
+   "score": 6.7,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2341,7 +2343,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.63,
+   "score": 4.61,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -2498,7 +2500,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.36,
+   "score": 4.34,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -2640,7 +2642,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.54,
+   "score": 3.52,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -2742,7 +2744,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.77,
+   "score": 2.76,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -2817,7 +2819,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.36,
+   "score": 2.34,
    "sources": [
     {
      "id": "1ecdf9948b9f",
