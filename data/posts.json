@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T17:40:13+00:00",
+ "generated_at": "2026-10-06T17:40:42+00:00",
  "posts": [
   {
    "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
@@ -68,7 +68,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 32.16,
+   "score": 32.15,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -225,7 +225,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 22.93,
+   "score": 22.92,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -452,7 +452,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 27.8,
+   "score": 27.79,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -664,6 +664,135 @@
    ]
   },
   {
+   "headline": "Casseurs-payeurs : le texte vise les aides sociales, Panot dénonce une « répression massive »",
+   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné en première lecture au Sénat à partir du 27 octobre. Il doit permettre de faire payer les dégâts liés aux violences autour du mouvement lycéen. La présidente du groupe LFI à l'Assemblée, Mathilde Panot, y voit une « présomption de culpabilité ».",
+   "points": [
+    {
+     "text": "La porte-parole du gouvernement, Maud Bregeon, a annoncé lundi sur CNews l'examen du texte au Sénat dès le 27 octobre. Le gouvernement le présente comme une réponse aux violences liées au mouvement lycéen, étendu à toute la France. Mardi 6 octobre, le président LR du Sénat, Gérard Larcher, a confirmé sur BFMTV et RMC un examen « avant la fin du mois ».",
+     "sources": [
+      "2cf07b3fa22a",
+      "e55c04ab809f",
+      "ca6c4110c79d"
+     ]
+    },
+    {
+     "text": "Le texte vise à permettre de faire payer les dégâts à leurs auteurs. Selon BFMTV, le gouvernement veut garantir que les amendes soient payées « en totalité », quitte à « piocher dans les aides sociales, les APL ». Le gouvernement parle de « responsabilité collective ». Une « co-responsabilité » pourrait aussi être engagée pour certaines personnes présentes, mais l'extrait de BFMTV ne détaille pas les conditions.",
+     "sources": [
+      "2cf07b3fa22a",
+      "e55c04ab809f"
+     ]
+    },
+    {
+     "text": "L'objectif affiché par le gouvernement est d'arrêter que « les impôts (des Français) paient pour les dégradations d'une minorité violente ». Cet argument est rapporté par BFMTV.",
+     "sources": [
+      "e55c04ab809f"
+     ]
+    },
+    {
+     "text": "Mathilde Panot juge le texte « une arme de répression massive contre toutes les manifestations ». Elle estime qu'il instaure « une présomption de culpabilité ».",
+     "sources": [
+      "47168a3252b3"
+     ]
+    },
+    {
+     "text": "À Tours, un lycéen de 16 ans a perdu l'usage de son œil droit mercredi 30 septembre, vraisemblablement à cause d'un tir de LBD, selon Libération. Les insoumis, socialistes, écologistes et communistes d'Indre-et-Loire ont dénoncé ces violences dans un texte commun, que Libération qualifie de rare.",
+     "sources": [
+      "274f55af3ab2"
+     ]
+    },
+    {
+     "text": "Le Figaro consacre deux portraits à des porte-parole de 18 ans de la mobilisation. Nathanaël Combary, président du conseil d'administration de Renouveau lycéen, est adhérent de Renaissance. Jean-Luc Mélenchon l'accuse de masquer ses engagements politiques. Ryad Rani, président de l'Union syndicale lycéenne, est présenté comme proche de La France insoumise.",
+     "sources": [
+      "8aca37d1c0b5",
+      "60a201688565"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 10,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2a27vj-taille1200_6ac3e3d6667a1.jpg?itok=k7MuvIau",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
+    "article_id": "2cf07b3fa22a"
+   },
+   "id": 46,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T17:40:42+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 22.0,
+   "sources": [
+    {
+     "id": "274f55af3ab2",
+     "name": "Libération",
+     "kind": "media",
+     "title": "De LFI au PS, la gauche s’unit à Tours contre les violences policières sur les lycéens : «On peut se retrouver sur des sujets de fond»",
+     "url": "https://www.liberation.fr/politique/de-lfi-au-ps-la-gauche-sunit-a-tours-contre-les-violences-policieres-sur-les-lyceens-on-peut-se-retrouver-sur-des-sujets-de-fond-20261005_I44Z7IWIF5APFGT7OCDSKXQDQE/",
+     "published_at": "2026-10-05T15:01:22+00:00",
+     "snippet": "Un lycéen de 16 ans a perdu l’usage de son œil droit mercredi 30 septembre à Tours, vraisemblablement à cause d’un tir de LBD. Insoumis, socialistes, écolos et communistes d’Indre-et-Loire ont dénoncé ces violences dans un rare texte commun."
+    },
+    {
+     "id": "2cf07b3fa22a",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Blocus des lycées : que prévoit la loi «casseurs-payeurs» présentée au Sénat le 27 octobre prochain",
+     "url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
+     "published_at": "2026-10-05T20:31:48+00:00",
+     "snippet": "Face aux violences liées au mouvement lycéen, qui s’est étendu à toute la France, le gouvernement a annoncé l’examen au Sénat, le 27 octobre, du projet de loi «casseurs-payeurs». Un texte qui prévoit une «forme de responsabilité collective». Agir face aux violences. Invitée sur CNEWS ce lundi, la porte-parole du gouvernement Maud Bregeon a annoncé l’examen du projet de loi «casseurs-payeurs» en première lecture au Sénat dès le 27 octobre prochain. Une décision qui fait suite aux violences autour du mouvement lycéen. Ce texte vise à donner la possibilité de faire payer des dégâts, y compris par"
+    },
+    {
+     "id": "47168a3252b3",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le projet de loi \"casseurs-payeurs\" est \"une arme de répression massive contre toutes les manifestations\", estime Mathilde Panot",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-projet-de-loi-casseurs-payeurs-est-une-arme-de-repression-massive-contre-toutes-les-manifestations-estime-mathilde-panot_8223037.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T07:56:20+00:00",
+     "snippet": "La présidente du groupe des députés de La France insoumise estime que le texte instaure \"une présomption de culpabilité\"."
+    },
+    {
+     "id": "60a201688565",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "«Il a une capacité à réseauter impressionnante» : qui est Ryad Rani, le président de l’Union syndicale lycéenne, proche de La France Insoumise ?",
+     "url": "https://www.lefigaro.fr/actualite-france/il-a-une-capacite-a-reseauter-impressionnante-qui-est-ryad-rani-le-president-de-l-union-syndicale-lyceenne-proche-de-la-france-insoumise-20261006",
+     "published_at": "2026-10-06T12:29:51+00:00",
+     "snippet": "PORTRAIT – À seulement 18 ans, le jeune homme a été projeté sur le devant de la scène en devenant l’un des principaux porte-parole du mouvement lycéen."
+    },
+    {
+     "id": "8aca37d1c0b5",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
+     "url": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
+     "published_at": "2026-10-05T19:43:48+00:00",
+     "snippet": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon de masquer ses engagements politiques."
+    },
+    {
+     "id": "ca6c4110c79d",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Projet de loi “casseurs-payeurs”: Gérard Larcher, président LR du Sénat, confirme un examen “avant la fin du mois”",
+     "url": "https://www.bfmtv.com/politique/video-projet-de-loi-casseurs-payeurs-gerard-larcher-president-lr-du-senat-confirme-un-examen-avant-la-fin-du-mois_VN-202610060244.html",
+     "published_at": "2026-10-06T06:45:57+00:00",
+     "snippet": "Gérard Larcher, président LR du Sénat, était l’invité du Face-à-Face sur BFMTV et RMC ce mardi 06 octobre 2026."
+    },
+    {
+     "id": "e55c04ab809f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "LES ÉCLAIREURS - Qui va payer les dégâts liés aux blocages des lycées?",
+     "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
+     "published_at": "2026-10-05T08:49:58+00:00",
+     "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
+    }
+   ]
+  },
+  {
    "headline": "Assemblée : Lecornu vise LFI sur les lycées, unités de police votées sur les violences sexuelles",
    "chapo": "Le Premier ministre Sébastien Lecornu a accusé La France insoumise de « mensonges » mardi 6 octobre, lors de la reprise des questions au gouvernement. Les députés ont aussi adopté la création d'unités spécialisées de police dans la loi intégrale contre les violences sexistes et sexuelles.",
    "points": [
@@ -724,7 +853,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.7,
+   "score": 14.69,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -862,7 +991,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.99,
    "sources": [
     {
      "id": "0b82ee618cad",
