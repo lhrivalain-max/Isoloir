@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:59:00+00:00",
+ "generated_at": "2026-10-06T15:59:01+00:00",
  "posts": [
   {
    "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
@@ -61,8 +61,8 @@
     "source": "CNews",
     "article_url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
     "article_id": "a1c54071d453",
-    "focus_x": 0.2966666666666667,
-    "focus_y": 0.16777777777777778
+    "focus_x": 0.77,
+    "focus_y": 0.47
    },
    "id": 41,
    "section": "institutions",
@@ -1411,7 +1411,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.47,
+   "score": 7.46,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
