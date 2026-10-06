@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T14:54:15+00:00",
+ "generated_at": "2026-10-06T15:32:49+00:00",
  "posts": [
   {
    "headline": "Lycéens : Lecornu annonce une suspension des cours en fin de semaine",
@@ -98,7 +98,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 31.0,
+   "score": 30.19,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -390,7 +390,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 24.99,
+   "score": 24.48,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -521,6 +521,143 @@
    ]
   },
   {
+   "headline": "Assemblée : Lecornu vise LFI sur les lycées, unités de police votées sur les violences sexuelles",
+   "chapo": "Le Premier ministre Sébastien Lecornu a accusé La France insoumise de « mensonges » mardi 6 octobre, lors de la reprise des questions au gouvernement. Les députés ont aussi adopté la création d'unités spécialisées de police dans la loi intégrale contre les violences sexistes et sexuelles.",
+   "points": [
+    {
+     "text": "La séance de questions au gouvernement a repris mardi 6 octobre à l'Assemblée. CNews s'attendait à des échanges houleux sur le blocus des lycées, la canicule et le budget. La session parlementaire sera plus courte que d'habitude à cause de la présidentielle.",
+     "sources": [
+      "802953a348e0"
+     ]
+    },
+    {
+     "text": "Interrogé sur la colère des lycéens, Sébastien Lecornu a mis en cause La France insoumise. BFMTV titre qu'il dénonce « les mensonges de La France insoumise » et l'accuse d'avoir le « projet politique de bordeliser le pays ».",
+     "sources": [
+      "9c5695f26b20",
+      "6503e7ff14f0"
+     ]
+    },
+    {
+     "text": "Lecornu a aussi annoncé une suspension des cours en fin de semaine pour « un temps de démocratie interne », selon BFMTV. À propos des manifestations lycéennes, il a déclaré : « Je les accueille avec soulagement ». Les extraits ne détaillent pas ces annonces.",
+     "sources": [
+      "382fa76e1627",
+      "69f9f2b95ada"
+     ]
+    },
+    {
+     "text": "L'examen de la loi intégrale sur les violences sexistes et sexuelles a commencé lundi 5 octobre. La députée LFI Sarah Legrain y a déclaré : « La perpétuité ne protège pas les victimes ».",
+     "sources": [
+      "f8f0a66b683f",
+      "802953a348e0"
+     ]
+    },
+    {
+     "text": "Les députés ont adopté la création d'unités spécialisées au sein de la police, mesure phare du texte. Le ministre de l'Intérieur Laurent Nuñez a échoué à l'écarter, car il jugeait le dispositif pas « opérationnel ». Selon Le Monde, la mesure a toutefois été partiellement vidée de sa substance.",
+     "sources": [
+      "1c1ba278c731"
+     ]
+    },
+    {
+     "text": "Dans une tribune au Monde, un collectif dont Camille Kouchner et Romain Lemire critique le volet soins du texte. La proposition de loi prévoit un parcours de soins remboursé par la solidarité nationale pour les mineurs. Les signataires déplorent que ce droit soit refusé aux adultes et estiment que le texte « exclut la majorité des victimes ».",
+     "sources": [
+      "30f6fe16829d"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 10,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/075_pinto-childpro260721_npfkb-taille1200_6ac3bb3395982.jpg?itok=Q4UsxO6X",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-canicule-budget-lexecutif-face-aux-deputes-lors-de-la-reprise",
+    "article_id": "802953a348e0"
+   },
+   "id": 43,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T15:32:49+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 16.0,
+   "sources": [
+    {
+     "id": "1c1ba278c731",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Loi intégrale contre les violences sexuelles : les députés adoptent la création d’unités spécialisées au sein de la police",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/06/loi-integrale-contre-les-violences-sexuelles-les-deputes-adoptent-la-creation-d-unites-speciales-au-sein-de-la-police_6788655_3224.html",
+     "published_at": "2026-10-06T00:12:51+00:00",
+     "snippet": "Cette mesure phare de la proposition de loi, que le ministre de l’intérieur Laurent Nuñez a échoué à écarter, jugeant le dispositif pas « opérationnel », a néanmoins été partiellement vidée de sa substance."
+    },
+    {
+     "id": "30f6fe16829d",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Loi intégrale contre les violences sexuelles et sexistes : « En réservant la prise en charge du parcours de soins aux mineurs, le texte exclut la majorité des victimes »",
+     "url": "https://www.lemonde.fr/idees/article/2026/10/06/loi-integrale-contre-les-violences-sexuelles-et-sexistes-en-reservant-la-prise-en-charge-du-parcours-de-soins-aux-mineurs-le-texte-exclut-la-majorite-des-victimes_6789000_3232.html",
+     "published_at": "2026-10-06T13:00:16+00:00",
+     "snippet": "La proposition de loi, débattue à l’Assemblée nationale, propose aux mineurs un parcours de soins remboursé par la solidarité nationale. Dans une tribune au « Monde », un collectif de personnalités, dont Camille Kouchner et Romain Lemire, déplore que le texte refuse ce droit aux adultes."
+    },
+    {
+     "id": "382fa76e1627",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Lycées: suspension des cours en fin de semaine pour \"un temps de démocratie interne\", annonce Sébastien Lecornu",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-lycees-suspension-des-cours-en-fin-de-semaine-pour-un-temps-de-democratie-interne-annonce-sebastien-lecornu_VN-202610060627.html",
+     "published_at": "2026-10-06T13:27:13+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a répondu à une question à l'Assemblée nationale sur la colère des lycéens, lors de la séance de questions au gouvernement mardi 6 octobre."
+    },
+    {
+     "id": "6503e7ff14f0",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Sébastien Lecornu accuse LFI d'avoir le \"projet politique de bordeliser le pays\" avant la présidentielle",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-sebastien-lecornu-accuse-lfi-d-avoir-le-projet-politique-de-bordeliser-le-pays-avant-la-presidentielle_VN-202610060639.html",
+     "published_at": "2026-10-06T13:38:47+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a répondu à une question à l'Assemblée nationale sur la colère des lycéens, lors de la séance de questions au gouvernement mardi 6 octobre."
+    },
+    {
+     "id": "69f9f2b95ada",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Manifestations lycéennes: \"Je les accueille avec soulagement\" , répond Sébastien Lecornu",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-manifestations-lyceennes-je-les-accueille-avec-soulagement-repond-sebastien-lecornu_VN-202610060620.html",
+     "published_at": "2026-10-06T13:17:36+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a répondu à une question à l'Assemblée nationale sur la colère des lycéens, lors de la séance de questions au gouvernement mardi 6 octobre."
+    },
+    {
+     "id": "802953a348e0",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Blocus des lycées, canicule, Budget… L’exécutif face aux députés lors de la reprise des questions au gouvernement",
+     "url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-canicule-budget-lexecutif-face-aux-deputes-lors-de-la-reprise",
+     "published_at": "2026-10-06T04:20:08+00:00",
+     "snippet": "La traditionnelle séance de questions au gouvernement reprend ce mardi à l’Assemblée nationale. Au-delà de l’élection présidentielle, plusieurs sujets estivaux ou actuels, devraient provoquer des échanges houleux. Une journée qui s’annonce électrique. Si l’Assemblée nationale a déjà repris ses travaux, par l’examen de la loi intégrale contre les violences sexistes et sexuelles, l’exécutif fait son retour sur les bancs à l’occasion de la traditionnelle séance de questions au gouvernement. Alors que cette session parlementaire s’annonce plus courte, en raison de l’élection présidentielle, celle-"
+    },
+    {
+     "id": "9c5695f26b20",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: Sébastien Lecornu dénonce \"les mensonges de La France insoumise\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-des-lyceens-sebastien-lecornu-denonce-les-mensonges-de-la-france-insoumise_VN-202610060618.html",
+     "published_at": "2026-10-06T13:16:27+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a répondu à une question à l'Assemblée nationale sur la colère des lycéens, lors de la séance de questions au gouvernement mardi 6 octobre."
+    },
+    {
+     "id": "f8f0a66b683f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Examen de la loi intégrale: \"La perpétuité ne protège pas les victimes\", déclare la députée LFI Sarah Legrain",
+     "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-examen-de-la-loi-integrale-la-perpetuite-ne-protege-pas-les-victimes-declare-la-deputee-lfi-sarah-legrain_VN-202610050801.html",
+     "published_at": "2026-10-05T17:27:12+00:00",
+     "snippet": "La députée du groupe La France insoumise, Sarah Legrain, s'exprime ce lundi 5 octobre à l'Assemblée nationale à l'occasion du début de l'examen de la loi dite \"intégrale\" sur les violences sexistes et sexuelles."
+    }
+   ]
+  },
+  {
    "headline": "Sénat : le RN forme son premier groupe, LR reste en tête",
    "chapo": "Après les sénatoriales du 27 septembre, le Sénat a officialisé lundi sa nouvelle répartition en groupes politiques. Les équilibres n'ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à constituer son propre groupe.",
    "points": [
@@ -569,7 +706,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.77,
+   "score": 7.61,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -702,7 +839,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.5,
+   "score": 16.31,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -977,7 +1114,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.73,
+   "score": 12.56,
    "sources": [
     {
      "id": "3566bb310543",
@@ -1129,7 +1266,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.64,
+   "score": 7.53,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -1246,7 +1383,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.58,
+   "score": 2.55,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -1366,7 +1503,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.49,
+   "score": 11.4,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -1655,7 +1792,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.51,
+   "score": 8.44,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1906,7 +2043,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.8,
+   "score": 6.74,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2061,7 +2198,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.66,
+   "score": 4.63,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -2218,7 +2355,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.39,
+   "score": 4.36,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -2360,7 +2497,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.57,
+   "score": 3.54,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -2462,7 +2599,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.79,
+   "score": 2.77,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -2537,7 +2674,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.38,
+   "score": 2.36,
    "sources": [
     {
      "id": "1ecdf9948b9f",
