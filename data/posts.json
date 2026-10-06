@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:58:52+00:00",
+ "generated_at": "2026-10-06T15:58:59+00:00",
  "posts": [
   {
    "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
@@ -60,7 +60,9 @@
     "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-09-13t141055z_1767211584_rc2einaj5iob_rtrmadp_3_france-politics-rn_1_-taille1200_6ac3c6a37b5bf.jpg?h=d23e7ba4&itok=aY8K24MG",
     "source": "CNews",
     "article_url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-    "article_id": "a1c54071d453"
+    "article_id": "a1c54071d453",
+    "focus_x": 0.29333333333333333,
+    "focus_y": 0.2625925925925926
    },
    "id": 41,
    "section": "institutions",
@@ -225,7 +227,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 24.15,
+   "score": 24.14,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -724,7 +726,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.72,
+   "score": 15.71,
    "sources": [
     {
      "id": "1c1ba278c731",
