@@ -1,6 +1,455 @@
 {
- "generated_at": "2026-10-06T08:00:25+00:00",
+ "generated_at": "2026-10-06T08:10:26+00:00",
  "posts": [
+  {
+   "headline": "Revue de campagne : primaire PS, lycées, Attal, Ruffin, RN, logement",
+   "chapo": "À un peu plus de six mois de la présidentielle, la primaire à gauche se tient les 9 et 10 octobre. Pendant ce temps, la mobilisation lycéenne s'invite dans les discours, le centre et la droite parlent de rassemblement, et une tribune au Monde pointe la quasi-absence du logement dans la campagne.",
+   "points": [
+    {
+     "text": "Près de 130 000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj les 9 et 10 octobre, selon 20 Minutes. franceinfo donne un chiffre préliminaire de près de 128 000 inscrits, qui sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit.",
+     "sources": [
+      "9e3f5832492c",
+      "ade8d254cba9"
+     ]
+    },
+    {
+     "text": "Le Monde juge que le documentaire « Primaires, une machine à perdre ? », diffusé sur LCP, « tombe à pic » alors que cinq candidats sont en lice à gauche. Il y recueille les analyses de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse et Manuel Valls sur ce mode de scrutin. L'Express consacre de son côté un article au sujet, titré sur la primaire comme « mal-aimée ».",
+     "sources": [
+      "0c63841fff3f",
+      "80d0b5036453"
+     ]
+    },
+    {
+     "text": "Candidate à la primaire socialiste, Ségolène Royal a réagi aux violences en marge des manifestations lycéennes : « Il faut aimer les jeunes au lieu de les frapper ». Elle regrette aussi qu'il y ait eu huit ministres de l'Éducation en dix ans, qui ont tous mené des réformes allant dans tous les sens. Le Parisien consacre par ailleurs un article à la manière dont elle a chahuté la primaire de gauche.",
+     "sources": [
+      "105e10d43fa2",
+      "e13c29a27ecd"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon (LFI) a comparé lundi 5 octobre la mobilisation lycéenne et étudiante à mai 1968, parlant du « plus puissant mouvement de jeunesse lycéenne et étudiante » depuis cette date. Invité d'HEC Débats pour parler de son programme économique et de la mobilisation, il dénonce une répression qu'il juge inadmissible et s'en prend au maintien de l'ordre lors des manifestations. Il affirme aussi : « Nous ne sommes pas l'avant-garde du mouvement lycéen ».",
+     "sources": [
+      "1884da9e2d18",
+      "d2cd6f3de7c1",
+      "d9c6187a3026"
+     ]
+    },
+    {
+     "text": "Gabriel Attal, candidat Renaissance, a dressé un premier bilan de son opération « 1.000 bistrots », lancée le 7 septembre pour aller à la rencontre des électeurs. Selon CNews, qui titre sur 17 221 participants et 354 propositions, le parti présidentiel a dévoilé ces chiffres un mois après le lancement. CNews ajoute que cette façon de faire campagne, fondée sur la proximité et les rencontres de terrain, a beaucoup fait réagir.",
+     "sources": [
+      "20b410c2a4e7"
+     ]
+    },
+    {
+     "text": "Selon Libération, Édouard Philippe et Gabriel Attal, qu'il présente comme les deux candidats de la droite et du centre, jouent à « rassemble-moi si tu peux ». Chacun s'estime le mieux placé pour unir des camps politiques très différents.",
+     "sources": [
+      "02ae0980f556"
+     ]
+    },
+    {
+     "text": "François Ruffin, candidat à la présidentielle, veut « passer du Front populaire au CNR », selon Libération. Dans une interview à l'Humanité le 5 octobre, il confirme son rapprochement avec Dominique de Villepin. Selon Libération, il appelle de nouveau à un rassemblement élargi face à ce que le journal nomme le « péril de l'extrême droite ».",
+     "sources": [
+      "ee3cb8e010c9"
+     ]
+    },
+    {
+     "text": "Selon RFI, l'affaire du moment est l'accusation d'antisémitisme visant le président du RN Jordan Bardella, après des révélations de Mediapart. Le parti la nie et fait bloc. RFI relève que Marine Le Pen, candidate dans la course à l'Élysée, fait la course en tête dans les sondages malgré sa condamnation en justice, et s'interroge dans son titre sur la popularité du Rassemblement national.",
+     "sources": [
+      "029fa60d169a"
+     ]
+    },
+    {
+     "text": "Catherine Sabbah, déléguée générale du laboratoire d'idées Idheal, déplore dans une tribune au Monde la quasi-absence du logement dans la campagne. Selon elle, la question n'apparaît jamais très haut dans les programmes et plus rarement encore dans les débats télévisés. Elle estime qu'elle témoigne du type de société défendue ou critiquée : accueillante et plus égalitaire, ou excluante et gardienne des intérêts installés.",
+     "sources": [
+      "81b50eb25603"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 14,
+    "outlets": 9
+   },
+   "image": {
+    "url": "https://img.20mn.fr/DDVTg1seTsKDDpHT4rexAyk/1200x768_les-candidats-du-ps-socialiste-et-des-partis-de-centre-gauche-place-publique-pp-priment-avant-l-election-presidentielle-francaise-de-2027-de-gauche-a-droite-olivier-faure-emmanuel-maurel-segolene-royal-raphael-glucksmann-et-jerome-guedj-se-tiennent-devant-le-debut-d-un-debat-televise-et-radiophonique-en-direct-avec-quatre-autres-candidats-a-la-presidentielle-diffuse-sur-la-chaine-de-television-publique-francaise-france-2-et-la-radio-publique-france-inter-a-la-maison-de-la-radio-et-de-la-musique-siege-de-radio-france-a-paris-le-1er-octobre-2026-accorsinijeanne-debate-0033-credit-jeanne-accorsini-sipa-2610012245",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
+    "article_id": "9e3f5832492c"
+   },
+   "id": 40,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-06T08:10:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 32.0,
+   "sources": [
+    {
+     "id": "029fa60d169a",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Rassemblement national : une popularité inébranlable?",
+     "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261005-rassemblement-national-une-popularit%C3%A9-in%C3%A9branlable",
+     "published_at": "2026-10-05T17:56:35+00:00",
+     "snippet": "C’est la grande affaire politique du moment en France et elle intervient à un peu plus de six mois du premier tour de l’élection présidentielle. Le Président du Rassemblement national Jordan Bardella est accusé d’antisémitisme selon des révélations du site d’investigation Mediapart. Le parti nie et fait bloc. À l’image de Marine Le Pen, candidate dans la course à l’Elysée et qui fait la course en tête dans les sondages malgré sa condamnation en justice."
+    },
+    {
+     "id": "02ae0980f556",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux",
+     "url": "https://www.liberation.fr/politique/presidentielle-2027-edouard-philippe-et-gabriel-attal-jouent-a-rassemble-moi-si-tu-peux-20261005_RIBLAXBATZFE3GCI5FVM224GGQ/",
+     "published_at": "2026-10-05T09:22:13+00:00",
+     "snippet": "Les deux candidats de la droite et du centre tentent de ratisser large, s’estimant chacun être le mieux placé pour unir des camps politiques très différents."
+    },
+    {
+     "id": "0c63841fff3f",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Primaires, une machine à perdre ? », sur LCP : une mise en perspective qui tombe à pic",
+     "url": "https://www.lemonde.fr/culture/article/2026/10/05/primaires-une-machine-a-perdre-sur-lcp-une-mise-en-perspective-qui-tombe-a-pic_6788548_3246.html",
+     "published_at": "2026-10-05T15:30:03+00:00",
+     "snippet": "Alors que cinq candidats sont en lice pour la primaire à gauche, les analyses franches de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse, Manuel Valls sur ce mode de scrutin."
+    },
+    {
+     "id": "105e10d43fa2",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Il faut aimer les jeunes au lieu de les frapper\", lance Ségolène Royal après les violences en marge des manifestations lycéennes",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-aimer-les-jeunes-au-lieu-de-les-frapper-lance-segolene-royal-apres-les-violences-en-marge-des-manifestations-lyceennes_8223013.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T07:38:04+00:00",
+     "snippet": "La candidate à la primaire socialiste regrette aussi qu'il y ait eu \"huit ministres de l'Education en dix ans, qui ont tous fait des réformes allant dans tous les sens.\""
+    },
+    {
+     "id": "1884da9e2d18",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Jean-Luc Mélenchon affirme qu'il s'agit du \"plus puissant mouvement de jeunesse lycéenne et étudiante\" depuis mai 1968",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/colere-lyceenne-jean-luc-melenchon-affirme-qu-il-s-agit-du-plus-puissant-mouvement-de-jeunesse-lyceenne-et-etudiante-depuis-mai-1968_AV-202610050935.html",
+     "published_at": "2026-10-05T21:27:56+00:00",
+     "snippet": "Leader de la France insoumise et candidat à la présidentielle, Jean-Luc Mélenchon a comparé ce lundi 5 octobre la mobilisation lycéenne et étudiante actuelle à celle de mai 1968. Il dénonce une répression \"inadmissible\"."
+    },
+    {
+     "id": "20b410c2a4e7",
+     "name": "CNews",
+     "kind": "media",
+     "title": "17.221 participants, 354 propositions... Gabriel Attal dévoile le bilan de son opération «1.000 bistrots»",
+     "url": "https://www.cnews.fr/france/2026-10-05/17221-participants-354-propositions-gabriel-attal-devoile-le-bilan-de-son",
+     "published_at": "2026-10-05T15:35:35+00:00",
+     "snippet": "Le candidat Renaissance à la présidentielle Gabriel Attal a dressé un premier bilan de son opération «1.000 bistrots», ayant pour objectif d’aller «à la rencontre des électeurs». Une manière de faire campagne qui a fait beaucoup réagir. Le 7 septembre dernier, Gabriel Attal annonçait le lancement de son opération «1.000 bistrots». Une série de déplacements pour aller à «la rencontre des Français» et mener une campagne présidentielle basée sur la proximité et «les rencontres de terrain». Un mois plus tard, le parti présidentiel Renaissance a révélé les premiers chiffres de cette opération. En e"
+    },
+    {
+     "id": "80d0b5036453",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la primaire, histoire d'une mal-aimée",
+     "url": "https://www.lexpress.fr/politique/presidentielle-2027-la-primaire-histoire-dune-mal-aimee-EBCRUSQSAVBW3AOTH5GZOQPALM/",
+     "published_at": "2026-10-05T05:00:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "81b50eb25603",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Le logement n’apparaît jamais très haut dans les programmes électoraux, et plus rarement encore dans les débats télévisés pour les présidentielles »",
+     "url": "https://www.lemonde.fr/idees/article/2026/10/05/le-logement-n-apparait-jamais-tres-haut-dans-les-programmes-electoraux-et-plus-rarement-encore-dans-les-debats-televises-pour-les-presidentielles_6788496_3232.html",
+     "published_at": "2026-10-05T08:00:05+00:00",
+     "snippet": "Catherine Sabbah, déléguée générale du laboratoire d’idées Idheal, déplore, dans une tribune au « Monde », la quasi-absence dans la campagne électorale de la question du logement, alors que celle-ci témoigne « du type de société défendue ou critiquée : accueillante et plus égalitaire ou excluante et gardienne des intérêts bien installés »."
+    },
+    {
+     "id": "9e3f5832492c",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : Près de 130.000 personnes inscrites pour voter les 9 et 10 octobre",
+     "url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-05T18:30:41+00:00",
+     "snippet": "Près de 130.000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj lors du scrutin des 9 et 10 octobre"
+    },
+    {
+     "id": "ade8d254cba9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Primaire socialiste : près de 128 000 personnes sont inscrites pour voter, selon un chiffre préliminaire",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T19:20:53+00:00",
+     "snippet": "Le chiffre sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit."
+    },
+    {
+     "id": "d2cd6f3de7c1",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Nous ne sommes pas l'avant-garde du mouvement lycéen\", déclare Jean-Luc Mélenchon",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-ne-sommes-pas-l-avant-garde-du-mouvement-lyceen-declare-jean-luc-melenchon_VN-202610050907.html",
+     "published_at": "2026-10-05T20:41:19+00:00",
+     "snippet": "Le candidat à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
+    },
+    {
+     "id": "d9c6187a3026",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Cette troupe n'est plus tenue\": la colère de Jean-Luc Mélenchon sur le maintien de l'ordre lors des manifestations lycéennes",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-cette-troupe-n-est-plus-tenue-la-colere-de-jean-luc-melenchon-sur-le-maintien-de-l-ordre-lors-des-manifestations-lyceennes_VN-202610050862.html",
+     "published_at": "2026-10-05T18:58:57+00:00",
+     "snippet": "Le candidat LFI à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
+    },
+    {
+     "id": "e13c29a27ecd",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Sans elle, la campagne aurait été bien fade » : comment Ségolène Royal a chahuté la primaire de gauche",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sans-elle-la-campagne-aurait-ete-bien-fade-comment-segolene-royal-a-chahute-la-primaire-de-gauche-05-10-2026-LD2JBB3RTJH4LJNXDRQDZ5A2R4.php",
+     "published_at": "2026-10-05T21:12:48+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ee3cb8e010c9",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
+     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
+     "published_at": "2026-10-05T16:09:37+00:00",
+     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
+    }
+   ]
+  },
+  {
+   "headline": "Colère lycéenne : Lecornu confie cinq chantiers à ses ministres, décisions d'ici fin octobre",
+   "chapo": "Dimanche 4 octobre, Sébastien Lecornu a envoyé une lettre à plusieurs de ses ministres. Il leur confie cinq chantiers issus des sujets remontés par les conseils académiques de la vie lycéenne et attend des décisions avant la fin du mois. Lundi, plus de 400 établissements sont perturbés en début de journée, et Mathilde Panot dénonce de la « gesticulation ».",
+   "points": [
+    {
+     "text": "Le Premier ministre a adressé dimanche 4 octobre une lettre à plusieurs de ses ministres, cinq selon franceinfo. Selon BFMTV, il leur a confié « une feuille de route avec cinq chantiers » pour répondre à la colère lycéenne. Franceinfo parle aussi d'une feuille de route de cinq chantiers, et 20 Minutes d'une liste de cinq chantiers prioritaires.",
+     "sources": [
+      "d63337f3cf75",
+      "3ced4b48c597",
+      "5b7af36a2ee9",
+      "69c70969ddb2",
+      "d64e56d47934"
+     ]
+    },
+    {
+     "text": "Selon Le Monde, ces cinq chantiers sont issus des sujets remontés par les conseils académiques de la vie lycéenne. Le Monde cite des « premières décisions attendues avant la fin du mois ». 20 Minutes et franceinfo parlent aussi de résultats ou de décisions attendus à la fin d'octobre.",
+     "sources": [
+      "d63337f3cf75",
+      "5b7af36a2ee9",
+      "63145e97bde9"
+     ]
+    },
+    {
+     "text": "Lecornu affirme que « le dialogue doit produire des changements visibles dans les lycées ». Le titre de franceinfo cite, parmi les sujets concernés, l'amélioration des locaux et le remplacement des professeurs. Les extraits disponibles ne détaillent pas les cinq chantiers.",
+     "sources": [
+      "63145e97bde9"
+     ]
+    },
+    {
+     "text": "Le chef du gouvernement demande aussi que les cours reprennent dès lundi « partout » où la sécurité le permet. Franceinfo décrit un retour progressif des cours à partir de lundi, et précise que Lecornu appelle les lycéens à travailler.",
+     "sources": [
+      "d63337f3cf75",
+      "3ced4b48c597"
+     ]
+    },
+    {
+     "text": "Dimanche, le ministre de l'Éducation nationale a annoncé que les cours seraient « totalement ou partiellement » suspendus lundi 5 octobre dans « 400 à 500 » lycées, où les conditions de sécurité « ne sont pas réunies ». BFMTV indique que plus de 400 établissements étaient perturbés en début de journée lundi.",
+     "sources": [
+      "ebaac4ec512a",
+      "69c70969ddb2",
+      "3566bb310543"
+     ]
+    },
+    {
+     "text": "Édouard Geffray, ministre de l'Éducation nationale, a déclaré que « 190 élèves ont été blessés depuis le début » de la mobilisation. De son côté, Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur, juge les interventions des forces de l'ordre « proportionnées ».",
+     "sources": [
+      "69c70969ddb2",
+      "3566bb310543",
+      "ebaac4ec512a"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : le contenu précis des décisions promises avant la fin du mois. Une manifestation réunissant organisations lycéennes, universitaires et intersyndicale a lieu le lendemain de l'interview de Mathilde Panot. Les extraits ne disent pas comment le gouvernement y répondra.",
+     "sources": [
+      "d63337f3cf75",
+      "d64e56d47934"
+     ]
+    }
+   ],
+   "perspectives": [
+    {
+     "source": "d64e56d47934",
+     "position": "critique",
+     "text": "Pour Mathilde Panot, invitée de franceinfo, la lettre de Lecornu relève de la « gesticulation ». Elle remet en cause les chiffres avancés par le Premier ministre."
+    }
+   ],
+   "coverage": {
+    "articles": 17,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/04/644/0/7737/3868/644/322/60/0/77f61fa_ftp-1-5bghnjneqewy-5262903-01-06.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+    "article_id": "d63337f3cf75"
+   },
+   "id": 37,
+   "section": "institutions",
+   "reviewed_at": "2026-10-05T15:46:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.85,
+   "sources": [
+    {
+     "id": "3566bb310543",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: \"190 élèves ont été blessés depuis le début\" de la mobilisation, détaille Édouard Geffray, ministre de l'Éducation nationale",
+     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-detaille-edouard-geffray-ministre-de-l-education-nationale_VN-202610050641.html",
+     "published_at": "2026-10-05T14:56:31+00:00",
+     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
+    },
+    {
+     "id": "3ced4b48c597",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Face à la colère lycéenne, Sébastien Lecornu demande à ses ministres le lancement de cinq chantiers",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-colere-lyceenne-sebastien-lecornu-demande-a-ses-ministres-le-lancement-de-cinq-chantiers_8222899.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T05:41:53+00:00",
+     "snippet": "Sébastien Lecornu a adressé une feuille de route de cinq chantiers à ses ministres, dimanche 4 octobre. Le chef du gouvernement souhaite un retour progressif des cours à partir de lundi et appelle les lycéens à travailler."
+    },
+    {
+     "id": "5b7af36a2ee9",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Blocus des lycées : Quelles sont les consignes données par Lecornu aux ministres pour régler le problème ?",
+     "url": "https://www.20minutes.fr/politique/4251382-20261005-blocus-lycees-consignes-donnees-lecornu-ministres-regler-probleme?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-05T07:15:23+00:00",
+     "snippet": "Le Premier ministre a établi une liste de cinq chantiers prioritaires avec des résultats attendus dès la fin du mois d’octobre"
+    },
+    {
+     "id": "63145e97bde9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T10:17:11+00:00",
+     "snippet": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\"."
+    },
+    {
+     "id": "69c70969ddb2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray: \"190 élèves ont été blessés depuis le début\" de la mobilisation lycéenne",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-lyceenne_VN-202610050651.html",
+     "published_at": "2026-10-05T14:57:45+00:00",
+     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
+    },
+    {
+     "id": "d63337f3cf75",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
+     "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+     "published_at": "2026-10-04T19:03:33+00:00",
+     "snippet": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne, avec « de premières décisions attendues avant la fin du mois »."
+    },
+    {
+     "id": "d64e56d47934",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Mathilde Panot, invitée du 8.30 franceinfo",
+     "url": "https://www.franceinfo.fr/politique/mathilde-panot-invitee-du-8-30-franceinfo_8223379.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T14:00:02+00:00",
+     "snippet": "À la veille d'une manifestation réunissant organisations lycéennes, universitaires, intersyndicale, Mathilde Panot est revenue ce matin sur la lettre envoyée hier par Sébastien Lecornu à cinq de ses ministres, en guise de réponse au mécontentement des lycéens. De la \"gesticulation\" dit Mathilde Panot ,qui remet en cause les chiffres du Premier ministre."
+    },
+    {
+     "id": "ebaac4ec512a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: les interventions des forces de l'ordre sont \"proportionnées\", affirme Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
+     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-les-interventions-des-forces-de-l-ordre-sont-proportionnees-affirme-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_VN-202610050342.html",
+     "published_at": "2026-10-05T08:13:27+00:00",
+     "snippet": "Les cours seront \"totalement ou partiellement\" suspendus ce lundi 5 octobre dans \"400 à 500\" lycées où les conditions de sécurité \"ne sont pas réunies\", a annoncé dimanche le ministre de l'Éducation nationale, alors que le chef du gouvernement tente une sortie de crise en mettant sur la table \"cinq chantiers\" et réclamant des \"décisions\" avant la fin du mois."
+    }
+   ]
+  },
+  {
+   "headline": "Sénat : le RN forme son premier groupe, LR reste en tête",
+   "chapo": "Après les sénatoriales du 27 septembre, le Sénat a officialisé lundi sa nouvelle répartition en groupes politiques. Les équilibres n'ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à constituer son propre groupe.",
+   "points": [
+    {
+     "text": "Le 27 septembre, 178 sièges étaient en jeu au Sénat. La plupart des sortants qui se représentaient ont été réélus, et selon Le Monde, les équilibres n'ont pas été bouleversés.",
+     "sources": [
+      "39a4df5d24e0"
+     ]
+    },
+    {
+     "text": "Le Rassemblement national a réussi à former un groupe au Sénat, une première pour le parti. Le Monde et franceinfo soulignent le caractère inédit de cette étape dans la chambre haute.",
+     "sources": [
+      "39a4df5d24e0",
+      "01ecb22ad588"
+     ]
+    },
+    {
+     "text": "La majorité de droite et du centre conserve une très nette avance sur la gauche, selon franceinfo, dans son infographie sur la nouvelle composition de l'hémicycle.",
+     "sources": [
+      "01ecb22ad588"
+     ]
+    },
+    {
+     "text": "Les groupes ont été officialisés lundi, après une semaine de tractations. Les Républicains restent le plus gros groupe. Selon Libération, l'Union centriste devance le PS « d'un rien ».",
+     "sources": [
+      "bcbb4739abb5"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/oQO9aOHDhkw_RLBjuG-Uci4BkK8/0x615:5904x3936/432x243/filters:format(jpg)/2026/10/05/6ac3aee806739132803994.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "01ecb22ad588",
+    "focus_x": 0.22666666666666666,
+    "focus_y": 0.45564814814814814
+   },
+   "id": 39,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T08:00:25+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.93,
+   "sources": [
+    {
+     "id": "01ecb22ad588",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "INFOGRAPHIE. Sénatoriales 2026 : découvrez la nouvelle composition de l'Hémicycle avec les différents groupes politiques",
+     "url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T17:41:16+00:00",
+     "snippet": "La majorité de droite et du centre conserve une très nette avance sur la gauche au sein de la chambre haute, où le RN est parvenu à se constituer un groupe pour la première fois de son histoire."
+    },
+    {
+     "id": "39a4df5d24e0",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Sénatoriales : quels sont les nouveaux groupes au Palais du Luxembourg ?",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/05/senatoriales-quels-sont-les-nouveaux-groupes-au-palais-du-luxembourg_6788573_4355770.html",
+     "published_at": "2026-10-05T17:55:52+00:00",
+     "snippet": "Sur les 178 sièges en jeu au Sénat le 27 septembre, la plupart des sortants qui s’étaient présentés à leur succession l’ont emporté. Les équilibres n’ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à former un groupe."
+    },
+    {
+     "id": "bcbb4739abb5",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Sénat : LR reste le plus gros groupe après une semaine de tractations, l’Union centriste devance d’un rien le PS",
+     "url": "https://www.liberation.fr/politique/elections/senat-lr-reste-le-plus-gros-groupe-apres-une-semaine-de-tractations-lunion-centriste-devance-dun-rien-le-ps-20261005_DS46VJME4FEA5ON2I67GULOEFI/",
+     "published_at": "2026-10-05T18:28:17+00:00",
+     "snippet": "Quelques mois avant l’élection présidentielle, la plus haute chambre du pays a officialisé ce lundi sa nouvelle répartition après les élections qui se sont tenues le 27 septembre."
+    }
+   ]
+  },
   {
    "headline": "Revue de campagne : dernier débat de la primaire PS, Glucksmann, Bardella, pluralisme, fiscalité",
    "chapo": "Le troisième et dernier débat de la primaire socialiste et sociale-démocrate a eu lieu dimanche 4 octobre ; France 24 y voit un Jean-Luc Mélenchon « encore et toujours au centre des débats », et Raphaël Glucksmann a présenté ses excuses à Ségolène Royal. À l'extrême droite, Marine Le Pen a réaffirmé son soutien à Jordan Bardella après les révélations de Mediapart. Le pluralisme dans les médias et la fiscalité animent aussi la campagne.",
@@ -103,7 +552,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.85,
+   "score": 18.79,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -297,244 +746,6 @@
    ]
   },
   {
-   "headline": "Colère lycéenne : Lecornu confie cinq chantiers à ses ministres, décisions d'ici fin octobre",
-   "chapo": "Dimanche 4 octobre, Sébastien Lecornu a envoyé une lettre à plusieurs de ses ministres. Il leur confie cinq chantiers issus des sujets remontés par les conseils académiques de la vie lycéenne et attend des décisions avant la fin du mois. Lundi, plus de 400 établissements sont perturbés en début de journée, et Mathilde Panot dénonce de la « gesticulation ».",
-   "points": [
-    {
-     "text": "Le Premier ministre a adressé dimanche 4 octobre une lettre à plusieurs de ses ministres, cinq selon franceinfo. Selon BFMTV, il leur a confié « une feuille de route avec cinq chantiers » pour répondre à la colère lycéenne. Franceinfo parle aussi d'une feuille de route de cinq chantiers, et 20 Minutes d'une liste de cinq chantiers prioritaires.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597",
-      "5b7af36a2ee9",
-      "69c70969ddb2",
-      "d64e56d47934"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, ces cinq chantiers sont issus des sujets remontés par les conseils académiques de la vie lycéenne. Le Monde cite des « premières décisions attendues avant la fin du mois ». 20 Minutes et franceinfo parlent aussi de résultats ou de décisions attendus à la fin d'octobre.",
-     "sources": [
-      "d63337f3cf75",
-      "5b7af36a2ee9",
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Lecornu affirme que « le dialogue doit produire des changements visibles dans les lycées ». Le titre de franceinfo cite, parmi les sujets concernés, l'amélioration des locaux et le remplacement des professeurs. Les extraits disponibles ne détaillent pas les cinq chantiers.",
-     "sources": [
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Le chef du gouvernement demande aussi que les cours reprennent dès lundi « partout » où la sécurité le permet. Franceinfo décrit un retour progressif des cours à partir de lundi, et précise que Lecornu appelle les lycéens à travailler.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597"
-     ]
-    },
-    {
-     "text": "Dimanche, le ministre de l'Éducation nationale a annoncé que les cours seraient « totalement ou partiellement » suspendus lundi 5 octobre dans « 400 à 500 » lycées, où les conditions de sécurité « ne sont pas réunies ». BFMTV indique que plus de 400 établissements étaient perturbés en début de journée lundi.",
-     "sources": [
-      "ebaac4ec512a",
-      "69c70969ddb2",
-      "3566bb310543"
-     ]
-    },
-    {
-     "text": "Édouard Geffray, ministre de l'Éducation nationale, a déclaré que « 190 élèves ont été blessés depuis le début » de la mobilisation. De son côté, Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur, juge les interventions des forces de l'ordre « proportionnées ».",
-     "sources": [
-      "69c70969ddb2",
-      "3566bb310543",
-      "ebaac4ec512a"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : le contenu précis des décisions promises avant la fin du mois. Une manifestation réunissant organisations lycéennes, universitaires et intersyndicale a lieu le lendemain de l'interview de Mathilde Panot. Les extraits ne disent pas comment le gouvernement y répondra.",
-     "sources": [
-      "d63337f3cf75",
-      "d64e56d47934"
-     ]
-    }
-   ],
-   "perspectives": [
-    {
-     "source": "d64e56d47934",
-     "position": "critique",
-     "text": "Pour Mathilde Panot, invitée de franceinfo, la lettre de Lecornu relève de la « gesticulation ». Elle remet en cause les chiffres avancés par le Premier ministre."
-    }
-   ],
-   "coverage": {
-    "articles": 17,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/04/644/0/7737/3868/644/322/60/0/77f61fa_ftp-1-5bghnjneqewy-5262903-01-06.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-    "article_id": "d63337f3cf75"
-   },
-   "id": 37,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T15:46:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 14.91,
-   "sources": [
-    {
-     "id": "3566bb310543",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: \"190 élèves ont été blessés depuis le début\" de la mobilisation, détaille Édouard Geffray, ministre de l'Éducation nationale",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-detaille-edouard-geffray-ministre-de-l-education-nationale_VN-202610050641.html",
-     "published_at": "2026-10-05T14:56:31+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "3ced4b48c597",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Face à la colère lycéenne, Sébastien Lecornu demande à ses ministres le lancement de cinq chantiers",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-colere-lyceenne-sebastien-lecornu-demande-a-ses-ministres-le-lancement-de-cinq-chantiers_8222899.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T05:41:53+00:00",
-     "snippet": "Sébastien Lecornu a adressé une feuille de route de cinq chantiers à ses ministres, dimanche 4 octobre. Le chef du gouvernement souhaite un retour progressif des cours à partir de lundi et appelle les lycéens à travailler."
-    },
-    {
-     "id": "5b7af36a2ee9",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Blocus des lycées : Quelles sont les consignes données par Lecornu aux ministres pour régler le problème ?",
-     "url": "https://www.20minutes.fr/politique/4251382-20261005-blocus-lycees-consignes-donnees-lecornu-ministres-regler-probleme?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-05T07:15:23+00:00",
-     "snippet": "Le Premier ministre a établi une liste de cinq chantiers prioritaires avec des résultats attendus dès la fin du mois d’octobre"
-    },
-    {
-     "id": "63145e97bde9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T10:17:11+00:00",
-     "snippet": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\"."
-    },
-    {
-     "id": "69c70969ddb2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray: \"190 élèves ont été blessés depuis le début\" de la mobilisation lycéenne",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-lyceenne_VN-202610050651.html",
-     "published_at": "2026-10-05T14:57:45+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "d63337f3cf75",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
-     "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-     "published_at": "2026-10-04T19:03:33+00:00",
-     "snippet": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne, avec « de premières décisions attendues avant la fin du mois »."
-    },
-    {
-     "id": "d64e56d47934",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Mathilde Panot, invitée du 8.30 franceinfo",
-     "url": "https://www.franceinfo.fr/politique/mathilde-panot-invitee-du-8-30-franceinfo_8223379.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T14:00:02+00:00",
-     "snippet": "À la veille d'une manifestation réunissant organisations lycéennes, universitaires, intersyndicale, Mathilde Panot est revenue ce matin sur la lettre envoyée hier par Sébastien Lecornu à cinq de ses ministres, en guise de réponse au mécontentement des lycéens. De la \"gesticulation\" dit Mathilde Panot ,qui remet en cause les chiffres du Premier ministre."
-    },
-    {
-     "id": "ebaac4ec512a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: les interventions des forces de l'ordre sont \"proportionnées\", affirme Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-les-interventions-des-forces-de-l-ordre-sont-proportionnees-affirme-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_VN-202610050342.html",
-     "published_at": "2026-10-05T08:13:27+00:00",
-     "snippet": "Les cours seront \"totalement ou partiellement\" suspendus ce lundi 5 octobre dans \"400 à 500\" lycées où les conditions de sécurité \"ne sont pas réunies\", a annoncé dimanche le ministre de l'Éducation nationale, alors que le chef du gouvernement tente une sortie de crise en mettant sur la table \"cinq chantiers\" et réclamant des \"décisions\" avant la fin du mois."
-    }
-   ]
-  },
-  {
-   "headline": "Sénat : le RN forme son premier groupe, LR reste en tête",
-   "chapo": "Après les sénatoriales du 27 septembre, le Sénat a officialisé lundi sa nouvelle répartition en groupes politiques. Les équilibres n'ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à constituer son propre groupe.",
-   "points": [
-    {
-     "text": "Le 27 septembre, 178 sièges étaient en jeu au Sénat. La plupart des sortants qui se représentaient ont été réélus, et selon Le Monde, les équilibres n'ont pas été bouleversés.",
-     "sources": [
-      "39a4df5d24e0"
-     ]
-    },
-    {
-     "text": "Le Rassemblement national a réussi à former un groupe au Sénat, une première pour le parti. Le Monde et franceinfo soulignent le caractère inédit de cette étape dans la chambre haute.",
-     "sources": [
-      "39a4df5d24e0",
-      "01ecb22ad588"
-     ]
-    },
-    {
-     "text": "La majorité de droite et du centre conserve une très nette avance sur la gauche, selon franceinfo, dans son infographie sur la nouvelle composition de l'hémicycle.",
-     "sources": [
-      "01ecb22ad588"
-     ]
-    },
-    {
-     "text": "Les groupes ont été officialisés lundi, après une semaine de tractations. Les Républicains restent le plus gros groupe. Selon Libération, l'Union centriste devance le PS « d'un rien ».",
-     "sources": [
-      "bcbb4739abb5"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/oQO9aOHDhkw_RLBjuG-Uci4BkK8/0x615:5904x3936/432x243/filters:format(jpg)/2026/10/05/6ac3aee806739132803994.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "01ecb22ad588",
-    "focus_x": 0.22666666666666666,
-    "focus_y": 0.45564814814814814
-   },
-   "id": 39,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T08:00:25+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 10.0,
-   "sources": [
-    {
-     "id": "01ecb22ad588",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "INFOGRAPHIE. Sénatoriales 2026 : découvrez la nouvelle composition de l'Hémicycle avec les différents groupes politiques",
-     "url": "https://www.franceinfo.fr/elections/senatoriales/infographie-senatoriales-2026-decouvrez-la-nouvelle-composition-de-l-hemicycle-avec-les-differents-groupes-politiques_8223352.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T17:41:16+00:00",
-     "snippet": "La majorité de droite et du centre conserve une très nette avance sur la gauche au sein de la chambre haute, où le RN est parvenu à se constituer un groupe pour la première fois de son histoire."
-    },
-    {
-     "id": "39a4df5d24e0",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Sénatoriales : quels sont les nouveaux groupes au Palais du Luxembourg ?",
-     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/05/senatoriales-quels-sont-les-nouveaux-groupes-au-palais-du-luxembourg_6788573_4355770.html",
-     "published_at": "2026-10-05T17:55:52+00:00",
-     "snippet": "Sur les 178 sièges en jeu au Sénat le 27 septembre, la plupart des sortants qui s’étaient présentés à leur succession l’ont emporté. Les équilibres n’ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à former un groupe."
-    },
-    {
-     "id": "bcbb4739abb5",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Sénat : LR reste le plus gros groupe après une semaine de tractations, l’Union centriste devance d’un rien le PS",
-     "url": "https://www.liberation.fr/politique/elections/senat-lr-reste-le-plus-gros-groupe-apres-une-semaine-de-tractations-lunion-centriste-devance-dun-rien-le-ps-20261005_DS46VJME4FEA5ON2I67GULOEFI/",
-     "published_at": "2026-10-05T18:28:17+00:00",
-     "snippet": "Quelques mois avant l’élection présidentielle, la plus haute chambre du pays a officialisé ce lundi sa nouvelle répartition après les élections qui se sont tenues le 27 septembre."
-    }
-   ]
-  },
-  {
    "headline": "Glucksmann s'excuse auprès de Ségolène Royal après la polémique sur la « danse du ventre »",
    "chapo": "Une vidéo privée diffusée par « Le Média » montre Raphaël Glucksmann parler de ses adversaires, dont Ségolène Royal, de façon qualifiée de vulgaire par Libération. Royal a déploré des « insultes à connotation sexuelle ». Lors du dernier débat de la primaire sur BFMTV, Glucksmann a fini par présenter ses excuses, reconnaissant des « propos inélégants » à son égard, selon CNews.",
    "points": [
@@ -610,7 +821,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.94,
+   "score": 8.91,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -727,7 +938,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.94,
+   "score": 2.93,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -847,7 +1058,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.62,
+   "score": 12.59,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -1136,7 +1347,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.23,
+   "score": 9.21,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1387,7 +1598,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.54,
+   "score": 7.52,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -1542,7 +1753,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.06,
+   "score": 5.05,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -1699,7 +1910,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.77,
+   "score": 4.76,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -1841,7 +2052,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.87,
+   "score": 3.86,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -1943,7 +2154,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.07,
+   "score": 3.06,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -2018,7 +2229,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.64,
+   "score": 2.63,
    "sources": [
     {
      "id": "1ecdf9948b9f",
