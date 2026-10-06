@@ -1,6 +1,360 @@
 {
- "generated_at": "2026-10-06T15:32:49+00:00",
+ "generated_at": "2026-10-06T15:32:53+00:00",
  "posts": [
+  {
+   "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
+   "chapo": "Marine Le Pen et Jordan Bardella ont présenté mardi 6 octobre le contre-budget du RN, censé s'appliquer en cas de victoire à la présidentielle. Les médias avancent 125 milliards d'euros d'économies sur cinq ans, ou 140 milliards nets d'ici 2032. La conférence de presse s'est terminée sur des questions autour des écrits antisémites attribués à Jordan Bardella.",
+   "points": [
+    {
+     "text": "La présentation a eu lieu mardi 6 octobre lors d'une conférence de presse des deux dirigeants du RN, depuis le Palais-Bourbon. Le budget présenté est celui que Marine Le Pen défendrait si elle accédait à l'Élysée, en mai prochain selon Le Figaro.",
+     "sources": [
+      "7a320e0366e2",
+      "b25b93a18747",
+      "b9bb0603a91b",
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "Les chiffres diffèrent selon les médias. CNews et Libération annoncent un plan de 125 milliards d'euros d'économies, que CNews décrit comme une trajectoire sur cinq ans. BFMTV titre sur « 140 milliards d'euros nets d'économies » d'ici 2032 promis par Marine Le Pen. Les extraits ne permettent pas d'expliquer l'écart entre ces deux montants.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4",
+      "7a320e0366e2"
+     ]
+    },
+    {
+     "text": "Le Figaro indique que le plan touche notamment aux retraites, à la réforme de l'État et à l'immigration, sous le titre « la renaissance de la France », et précise que Marine Le Pen a détaillé plusieurs mesures économiques. Le Parisien évoque dans son titre des économies, des impôts et la retraite, ainsi que son projet budgétaire pour 2027.",
+     "sources": [
+      "b9bb0603a91b",
+      "dc1c9791fe02"
+     ]
+    },
+    {
+     "text": "Cette présentation tombe le jour où le projet de loi de finances et celui de financement de la Sécurité sociale doivent être présentés en commission à l'Assemblée. Dimanche, le député Jean-Philippe Tanguy était invité sur CNews.",
+     "sources": [
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "CNews et Libération décrivent un parti en quête de crédibilité sur l'économie. Libération ajoute que le RN a été ébranlé par les écrits antisémites attribués à Jordan Bardella et espère convaincre de son sérieux avec ce plan.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4"
+     ]
+    },
+    {
+     "text": "La conférence de presse s'est terminée sur des questions au sujet des révélations de Mediapart. Jordan Bardella a contesté de nouveau « formellement » les éléments d'authentification publiés par le site. Il a rejeté vivement des accusations lui attribuant des messages antisémites datant de 2013. franceinfo notait avant l'événement que la conférence risquait d'être rattrapée par cette affaire.",
+     "sources": [
+      "a94aa1d7023b",
+      "8a45ce97c561",
+      "b25b93a18747"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 19,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BPBlghKA92nm33AC_GI-a2PWkeQ=/0x0:1280x720/800x0/images/Presidentielle-Marine-Le-Pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032-2360109.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
+    "article_id": "7a320e0366e2"
+   },
+   "id": 41,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T15:32:53+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 35.0,
+   "sources": [
+    {
+     "id": "4e841ee21bf4",
+     "name": "Libération",
+     "kind": "media",
+     "title": "En quête de crédibilité, le RN va présenter son contre-budget",
+     "url": "https://www.liberation.fr/politique/en-quete-de-credibilite-le-rn-va-presenter-son-contre-budget-20261005_PUBTT7GPRBE3PNKA5KHOPVPTCY/",
+     "published_at": "2026-10-05T15:02:24+00:00",
+     "snippet": "Alors que le parti a été ébranlé par les écrits antisémites de Jordan Bardella, le binôme du RN doit détailler son plan de 125 milliards, espérant ainsi convaincre de son sérieux."
+    },
+    {
+     "id": "7a320e0366e2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Présidentielle: Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 2032",
+     "url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
+     "published_at": "2026-10-06T08:15:58+00:00",
+     "snippet": "Marine Le Pen et Jordan Bardella présentent ce mardi 6 octobre le contre-budget du Rassemblement national qui sera appliqué en cas de victoire lors de l'élection présidentielle."
+    },
+    {
+     "id": "8a45ce97c561",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
+     "url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T11:51:23+00:00",
+     "snippet": "Le président du Rassemblement national a vivement rejeté, ce mardi, les accusations lui attribuant des messages antisémites datant de 2013"
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
+    },
+    {
+     "id": "a94aa1d7023b",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Ecrits antisémites : Jordan Bardella conteste à nouveau « formellement » les éléments d’authentification de « Mediapart »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-jordan-bardella-conteste-a-nouveau-formellement-les-elements-d-authentification-de-mediapart_6788982_823448.html",
+     "published_at": "2026-10-06T10:44:39+00:00",
+     "snippet": "Alors que le RN tenait une conférence de presse pour présenter son contre-budget, mardi, la fin des échanges a été marquée par des questions sur les révélations du site d’investigation."
+    },
+    {
+     "id": "b25b93a18747",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le RN va présenter son contre-budget, en pleine \"affaire Bardella\"",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T04:59:45+00:00",
+     "snippet": "Les deux dirigeants du Rassemblement national tiendront une conférence de presse mardi pour présenter le budget que Marine Le Pen défendra si elle arrive au pouvoir. Mais celle-ci risque d'être rattrapée par la polémique sur les propos antisémites attribués à Jordan Bardella."
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
+    },
+    {
+     "id": "dc1c9791fe02",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Baisser le déficit laissé par Macron » : économies, impôts, retraite… Marine Le Pen dévoile son projet budgétaire pour 2027",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-06-10-2026-WEEBR3S7GBAZZAISUMADMUI4P4.php",
+     "published_at": "2026-10-06T11:27:39+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Revue de campagne : primaire PS, lycées, Attal, Ruffin, RN, logement",
+   "chapo": "À un peu plus de six mois de la présidentielle, la primaire à gauche se tient les 9 et 10 octobre. Pendant ce temps, la mobilisation lycéenne s'invite dans les discours, le centre et la droite parlent de rassemblement, et une tribune au Monde pointe la quasi-absence du logement dans la campagne.",
+   "points": [
+    {
+     "text": "Près de 130 000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj les 9 et 10 octobre, selon 20 Minutes. franceinfo donne un chiffre préliminaire de près de 128 000 inscrits, qui sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit.",
+     "sources": [
+      "9e3f5832492c",
+      "ade8d254cba9"
+     ]
+    },
+    {
+     "text": "Le Monde juge que le documentaire « Primaires, une machine à perdre ? », diffusé sur LCP, « tombe à pic » alors que cinq candidats sont en lice à gauche. Il y recueille les analyses de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse et Manuel Valls sur ce mode de scrutin. L'Express consacre de son côté un article au sujet, titré sur la primaire comme « mal-aimée ».",
+     "sources": [
+      "0c63841fff3f",
+      "80d0b5036453"
+     ]
+    },
+    {
+     "text": "Candidate à la primaire socialiste, Ségolène Royal a réagi aux violences en marge des manifestations lycéennes : « Il faut aimer les jeunes au lieu de les frapper ». Elle regrette aussi qu'il y ait eu huit ministres de l'Éducation en dix ans, qui ont tous mené des réformes allant dans tous les sens. Le Parisien consacre par ailleurs un article à la manière dont elle a chahuté la primaire de gauche.",
+     "sources": [
+      "105e10d43fa2",
+      "e13c29a27ecd"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon (LFI) a comparé lundi 5 octobre la mobilisation lycéenne et étudiante à mai 1968, parlant du « plus puissant mouvement de jeunesse lycéenne et étudiante » depuis cette date. Invité d'HEC Débats pour parler de son programme économique et de la mobilisation, il dénonce une répression qu'il juge inadmissible et s'en prend au maintien de l'ordre lors des manifestations. Il affirme aussi : « Nous ne sommes pas l'avant-garde du mouvement lycéen ».",
+     "sources": [
+      "1884da9e2d18",
+      "d2cd6f3de7c1",
+      "d9c6187a3026"
+     ]
+    },
+    {
+     "text": "Gabriel Attal, candidat Renaissance, a dressé un premier bilan de son opération « 1.000 bistrots », lancée le 7 septembre pour aller à la rencontre des électeurs. Selon CNews, qui titre sur 17 221 participants et 354 propositions, le parti présidentiel a dévoilé ces chiffres un mois après le lancement. CNews ajoute que cette façon de faire campagne, fondée sur la proximité et les rencontres de terrain, a beaucoup fait réagir.",
+     "sources": [
+      "20b410c2a4e7"
+     ]
+    },
+    {
+     "text": "Selon Libération, Édouard Philippe et Gabriel Attal, qu'il présente comme les deux candidats de la droite et du centre, jouent à « rassemble-moi si tu peux ». Chacun s'estime le mieux placé pour unir des camps politiques très différents.",
+     "sources": [
+      "02ae0980f556"
+     ]
+    },
+    {
+     "text": "François Ruffin, candidat à la présidentielle, veut « passer du Front populaire au CNR », selon Libération. Dans une interview à l'Humanité le 5 octobre, il confirme son rapprochement avec Dominique de Villepin. Selon Libération, il appelle de nouveau à un rassemblement élargi face à ce que le journal nomme le « péril de l'extrême droite ».",
+     "sources": [
+      "ee3cb8e010c9"
+     ]
+    },
+    {
+     "text": "Selon RFI, l'affaire du moment est l'accusation d'antisémitisme visant le président du RN Jordan Bardella, après des révélations de Mediapart. Le parti la nie et fait bloc. RFI relève que Marine Le Pen, candidate dans la course à l'Élysée, fait la course en tête dans les sondages malgré sa condamnation en justice, et s'interroge dans son titre sur la popularité du Rassemblement national.",
+     "sources": [
+      "029fa60d169a"
+     ]
+    },
+    {
+     "text": "Catherine Sabbah, déléguée générale du laboratoire d'idées Idheal, déplore dans une tribune au Monde la quasi-absence du logement dans la campagne. Selon elle, la question n'apparaît jamais très haut dans les programmes et plus rarement encore dans les débats télévisés. Elle estime qu'elle témoigne du type de société défendue ou critiquée : accueillante et plus égalitaire, ou excluante et gardienne des intérêts installés.",
+     "sources": [
+      "81b50eb25603"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 14,
+    "outlets": 9
+   },
+   "image": {
+    "url": "https://img.20mn.fr/DDVTg1seTsKDDpHT4rexAyk/1200x768_les-candidats-du-ps-socialiste-et-des-partis-de-centre-gauche-place-publique-pp-priment-avant-l-election-presidentielle-francaise-de-2027-de-gauche-a-droite-olivier-faure-emmanuel-maurel-segolene-royal-raphael-glucksmann-et-jerome-guedj-se-tiennent-devant-le-debut-d-un-debat-televise-et-radiophonique-en-direct-avec-quatre-autres-candidats-a-la-presidentielle-diffuse-sur-la-chaine-de-television-publique-francaise-france-2-et-la-radio-publique-france-inter-a-la-maison-de-la-radio-et-de-la-musique-siege-de-radio-france-a-paris-le-1er-octobre-2026-accorsinijeanne-debate-0033-credit-jeanne-accorsini-sipa-2610012245",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
+    "article_id": "9e3f5832492c"
+   },
+   "id": 40,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-06T08:10:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 24.48,
+   "sources": [
+    {
+     "id": "029fa60d169a",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Rassemblement national : une popularité inébranlable?",
+     "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261005-rassemblement-national-une-popularit%C3%A9-in%C3%A9branlable",
+     "published_at": "2026-10-05T17:56:35+00:00",
+     "snippet": "C’est la grande affaire politique du moment en France et elle intervient à un peu plus de six mois du premier tour de l’élection présidentielle. Le Président du Rassemblement national Jordan Bardella est accusé d’antisémitisme selon des révélations du site d’investigation Mediapart. Le parti nie et fait bloc. À l’image de Marine Le Pen, candidate dans la course à l’Elysée et qui fait la course en tête dans les sondages malgré sa condamnation en justice."
+    },
+    {
+     "id": "02ae0980f556",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux",
+     "url": "https://www.liberation.fr/politique/presidentielle-2027-edouard-philippe-et-gabriel-attal-jouent-a-rassemble-moi-si-tu-peux-20261005_RIBLAXBATZFE3GCI5FVM224GGQ/",
+     "published_at": "2026-10-05T09:22:13+00:00",
+     "snippet": "Les deux candidats de la droite et du centre tentent de ratisser large, s’estimant chacun être le mieux placé pour unir des camps politiques très différents."
+    },
+    {
+     "id": "0c63841fff3f",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Primaires, une machine à perdre ? », sur LCP : une mise en perspective qui tombe à pic",
+     "url": "https://www.lemonde.fr/culture/article/2026/10/05/primaires-une-machine-a-perdre-sur-lcp-une-mise-en-perspective-qui-tombe-a-pic_6788548_3246.html",
+     "published_at": "2026-10-05T15:30:03+00:00",
+     "snippet": "Alors que cinq candidats sont en lice pour la primaire à gauche, les analyses franches de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse, Manuel Valls sur ce mode de scrutin."
+    },
+    {
+     "id": "105e10d43fa2",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Il faut aimer les jeunes au lieu de les frapper\", lance Ségolène Royal après les violences en marge des manifestations lycéennes",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-aimer-les-jeunes-au-lieu-de-les-frapper-lance-segolene-royal-apres-les-violences-en-marge-des-manifestations-lyceennes_8223013.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T07:38:04+00:00",
+     "snippet": "La candidate à la primaire socialiste regrette aussi qu'il y ait eu \"huit ministres de l'Education en dix ans, qui ont tous fait des réformes allant dans tous les sens.\""
+    },
+    {
+     "id": "1884da9e2d18",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Jean-Luc Mélenchon affirme qu'il s'agit du \"plus puissant mouvement de jeunesse lycéenne et étudiante\" depuis mai 1968",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/colere-lyceenne-jean-luc-melenchon-affirme-qu-il-s-agit-du-plus-puissant-mouvement-de-jeunesse-lyceenne-et-etudiante-depuis-mai-1968_AV-202610050935.html",
+     "published_at": "2026-10-05T21:27:56+00:00",
+     "snippet": "Leader de la France insoumise et candidat à la présidentielle, Jean-Luc Mélenchon a comparé ce lundi 5 octobre la mobilisation lycéenne et étudiante actuelle à celle de mai 1968. Il dénonce une répression \"inadmissible\"."
+    },
+    {
+     "id": "20b410c2a4e7",
+     "name": "CNews",
+     "kind": "media",
+     "title": "17.221 participants, 354 propositions... Gabriel Attal dévoile le bilan de son opération «1.000 bistrots»",
+     "url": "https://www.cnews.fr/france/2026-10-05/17221-participants-354-propositions-gabriel-attal-devoile-le-bilan-de-son",
+     "published_at": "2026-10-05T15:35:35+00:00",
+     "snippet": "Le candidat Renaissance à la présidentielle Gabriel Attal a dressé un premier bilan de son opération «1.000 bistrots», ayant pour objectif d’aller «à la rencontre des électeurs». Une manière de faire campagne qui a fait beaucoup réagir. Le 7 septembre dernier, Gabriel Attal annonçait le lancement de son opération «1.000 bistrots». Une série de déplacements pour aller à «la rencontre des Français» et mener une campagne présidentielle basée sur la proximité et «les rencontres de terrain». Un mois plus tard, le parti présidentiel Renaissance a révélé les premiers chiffres de cette opération. En e"
+    },
+    {
+     "id": "80d0b5036453",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la primaire, histoire d'une mal-aimée",
+     "url": "https://www.lexpress.fr/politique/presidentielle-2027-la-primaire-histoire-dune-mal-aimee-EBCRUSQSAVBW3AOTH5GZOQPALM/",
+     "published_at": "2026-10-05T05:00:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "81b50eb25603",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Le logement n’apparaît jamais très haut dans les programmes électoraux, et plus rarement encore dans les débats télévisés pour les présidentielles »",
+     "url": "https://www.lemonde.fr/idees/article/2026/10/05/le-logement-n-apparait-jamais-tres-haut-dans-les-programmes-electoraux-et-plus-rarement-encore-dans-les-debats-televises-pour-les-presidentielles_6788496_3232.html",
+     "published_at": "2026-10-05T08:00:05+00:00",
+     "snippet": "Catherine Sabbah, déléguée générale du laboratoire d’idées Idheal, déplore, dans une tribune au « Monde », la quasi-absence dans la campagne électorale de la question du logement, alors que celle-ci témoigne « du type de société défendue ou critiquée : accueillante et plus égalitaire ou excluante et gardienne des intérêts bien installés »."
+    },
+    {
+     "id": "9e3f5832492c",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : Près de 130.000 personnes inscrites pour voter les 9 et 10 octobre",
+     "url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-05T18:30:41+00:00",
+     "snippet": "Près de 130.000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj lors du scrutin des 9 et 10 octobre"
+    },
+    {
+     "id": "ade8d254cba9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Primaire socialiste : près de 128 000 personnes sont inscrites pour voter, selon un chiffre préliminaire",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T19:20:53+00:00",
+     "snippet": "Le chiffre sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit."
+    },
+    {
+     "id": "d2cd6f3de7c1",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Nous ne sommes pas l'avant-garde du mouvement lycéen\", déclare Jean-Luc Mélenchon",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-ne-sommes-pas-l-avant-garde-du-mouvement-lyceen-declare-jean-luc-melenchon_VN-202610050907.html",
+     "published_at": "2026-10-05T20:41:19+00:00",
+     "snippet": "Le candidat à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
+    },
+    {
+     "id": "d9c6187a3026",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Cette troupe n'est plus tenue\": la colère de Jean-Luc Mélenchon sur le maintien de l'ordre lors des manifestations lycéennes",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-cette-troupe-n-est-plus-tenue-la-colere-de-jean-luc-melenchon-sur-le-maintien-de-l-ordre-lors-des-manifestations-lyceennes_VN-202610050862.html",
+     "published_at": "2026-10-05T18:58:57+00:00",
+     "snippet": "Le candidat LFI à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
+    },
+    {
+     "id": "e13c29a27ecd",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Sans elle, la campagne aurait été bien fade » : comment Ségolène Royal a chahuté la primaire de gauche",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sans-elle-la-campagne-aurait-ete-bien-fade-comment-segolene-royal-a-chahute-la-primaire-de-gauche-05-10-2026-LD2JBB3RTJH4LJNXDRQDZ5A2R4.php",
+     "published_at": "2026-10-05T21:12:48+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ee3cb8e010c9",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
+     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
+     "published_at": "2026-10-05T16:09:37+00:00",
+     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
+    }
+   ]
+  },
   {
    "headline": "Lycéens : Lecornu annonce une suspension des cours en fin de semaine",
    "chapo": "Devant l'Assemblée nationale, mardi 6 octobre, Sébastien Lecornu a annoncé une suspension des cours en fin de semaine pour \"un temps de démocratie interne\". Il s'exprimait le jour de l'« acte III » de la mobilisation lycéenne, avec des cortèges dans tout le pays. Le Premier ministre a aussi livré un bilan des blessés et rejeté les accusations de répression.",
@@ -306,217 +660,6 @@
      "url": "https://www.bfmtv.com/politique/video-des-accidents-peuvent-ils-arriver-oui-sebastien-lecornu-revient-la-politique-de-maintien-de-l-ordre-face-a-la-mobilisation-lyceenne_VN-202610060629.html",
      "published_at": "2026-10-06T13:25:59+00:00",
      "snippet": "Le Premier ministre Sébastien Lecornu s'exprime sur la mobilisation lycéenne lors de la séance de questions au gouvernement, mardi 6 octobre."
-    }
-   ]
-  },
-  {
-   "headline": "Revue de campagne : primaire PS, lycées, Attal, Ruffin, RN, logement",
-   "chapo": "À un peu plus de six mois de la présidentielle, la primaire à gauche se tient les 9 et 10 octobre. Pendant ce temps, la mobilisation lycéenne s'invite dans les discours, le centre et la droite parlent de rassemblement, et une tribune au Monde pointe la quasi-absence du logement dans la campagne.",
-   "points": [
-    {
-     "text": "Près de 130 000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj les 9 et 10 octobre, selon 20 Minutes. franceinfo donne un chiffre préliminaire de près de 128 000 inscrits, qui sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit.",
-     "sources": [
-      "9e3f5832492c",
-      "ade8d254cba9"
-     ]
-    },
-    {
-     "text": "Le Monde juge que le documentaire « Primaires, une machine à perdre ? », diffusé sur LCP, « tombe à pic » alors que cinq candidats sont en lice à gauche. Il y recueille les analyses de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse et Manuel Valls sur ce mode de scrutin. L'Express consacre de son côté un article au sujet, titré sur la primaire comme « mal-aimée ».",
-     "sources": [
-      "0c63841fff3f",
-      "80d0b5036453"
-     ]
-    },
-    {
-     "text": "Candidate à la primaire socialiste, Ségolène Royal a réagi aux violences en marge des manifestations lycéennes : « Il faut aimer les jeunes au lieu de les frapper ». Elle regrette aussi qu'il y ait eu huit ministres de l'Éducation en dix ans, qui ont tous mené des réformes allant dans tous les sens. Le Parisien consacre par ailleurs un article à la manière dont elle a chahuté la primaire de gauche.",
-     "sources": [
-      "105e10d43fa2",
-      "e13c29a27ecd"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon (LFI) a comparé lundi 5 octobre la mobilisation lycéenne et étudiante à mai 1968, parlant du « plus puissant mouvement de jeunesse lycéenne et étudiante » depuis cette date. Invité d'HEC Débats pour parler de son programme économique et de la mobilisation, il dénonce une répression qu'il juge inadmissible et s'en prend au maintien de l'ordre lors des manifestations. Il affirme aussi : « Nous ne sommes pas l'avant-garde du mouvement lycéen ».",
-     "sources": [
-      "1884da9e2d18",
-      "d2cd6f3de7c1",
-      "d9c6187a3026"
-     ]
-    },
-    {
-     "text": "Gabriel Attal, candidat Renaissance, a dressé un premier bilan de son opération « 1.000 bistrots », lancée le 7 septembre pour aller à la rencontre des électeurs. Selon CNews, qui titre sur 17 221 participants et 354 propositions, le parti présidentiel a dévoilé ces chiffres un mois après le lancement. CNews ajoute que cette façon de faire campagne, fondée sur la proximité et les rencontres de terrain, a beaucoup fait réagir.",
-     "sources": [
-      "20b410c2a4e7"
-     ]
-    },
-    {
-     "text": "Selon Libération, Édouard Philippe et Gabriel Attal, qu'il présente comme les deux candidats de la droite et du centre, jouent à « rassemble-moi si tu peux ». Chacun s'estime le mieux placé pour unir des camps politiques très différents.",
-     "sources": [
-      "02ae0980f556"
-     ]
-    },
-    {
-     "text": "François Ruffin, candidat à la présidentielle, veut « passer du Front populaire au CNR », selon Libération. Dans une interview à l'Humanité le 5 octobre, il confirme son rapprochement avec Dominique de Villepin. Selon Libération, il appelle de nouveau à un rassemblement élargi face à ce que le journal nomme le « péril de l'extrême droite ».",
-     "sources": [
-      "ee3cb8e010c9"
-     ]
-    },
-    {
-     "text": "Selon RFI, l'affaire du moment est l'accusation d'antisémitisme visant le président du RN Jordan Bardella, après des révélations de Mediapart. Le parti la nie et fait bloc. RFI relève que Marine Le Pen, candidate dans la course à l'Élysée, fait la course en tête dans les sondages malgré sa condamnation en justice, et s'interroge dans son titre sur la popularité du Rassemblement national.",
-     "sources": [
-      "029fa60d169a"
-     ]
-    },
-    {
-     "text": "Catherine Sabbah, déléguée générale du laboratoire d'idées Idheal, déplore dans une tribune au Monde la quasi-absence du logement dans la campagne. Selon elle, la question n'apparaît jamais très haut dans les programmes et plus rarement encore dans les débats télévisés. Elle estime qu'elle témoigne du type de société défendue ou critiquée : accueillante et plus égalitaire, ou excluante et gardienne des intérêts installés.",
-     "sources": [
-      "81b50eb25603"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 14,
-    "outlets": 9
-   },
-   "image": {
-    "url": "https://img.20mn.fr/DDVTg1seTsKDDpHT4rexAyk/1200x768_les-candidats-du-ps-socialiste-et-des-partis-de-centre-gauche-place-publique-pp-priment-avant-l-election-presidentielle-francaise-de-2027-de-gauche-a-droite-olivier-faure-emmanuel-maurel-segolene-royal-raphael-glucksmann-et-jerome-guedj-se-tiennent-devant-le-debut-d-un-debat-televise-et-radiophonique-en-direct-avec-quatre-autres-candidats-a-la-presidentielle-diffuse-sur-la-chaine-de-television-publique-francaise-france-2-et-la-radio-publique-france-inter-a-la-maison-de-la-radio-et-de-la-musique-siege-de-radio-france-a-paris-le-1er-octobre-2026-accorsinijeanne-debate-0033-credit-jeanne-accorsini-sipa-2610012245",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
-    "article_id": "9e3f5832492c"
-   },
-   "id": 40,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-06T08:10:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 24.48,
-   "sources": [
-    {
-     "id": "029fa60d169a",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Rassemblement national : une popularité inébranlable?",
-     "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261005-rassemblement-national-une-popularit%C3%A9-in%C3%A9branlable",
-     "published_at": "2026-10-05T17:56:35+00:00",
-     "snippet": "C’est la grande affaire politique du moment en France et elle intervient à un peu plus de six mois du premier tour de l’élection présidentielle. Le Président du Rassemblement national Jordan Bardella est accusé d’antisémitisme selon des révélations du site d’investigation Mediapart. Le parti nie et fait bloc. À l’image de Marine Le Pen, candidate dans la course à l’Elysée et qui fait la course en tête dans les sondages malgré sa condamnation en justice."
-    },
-    {
-     "id": "02ae0980f556",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux",
-     "url": "https://www.liberation.fr/politique/presidentielle-2027-edouard-philippe-et-gabriel-attal-jouent-a-rassemble-moi-si-tu-peux-20261005_RIBLAXBATZFE3GCI5FVM224GGQ/",
-     "published_at": "2026-10-05T09:22:13+00:00",
-     "snippet": "Les deux candidats de la droite et du centre tentent de ratisser large, s’estimant chacun être le mieux placé pour unir des camps politiques très différents."
-    },
-    {
-     "id": "0c63841fff3f",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "« Primaires, une machine à perdre ? », sur LCP : une mise en perspective qui tombe à pic",
-     "url": "https://www.lemonde.fr/culture/article/2026/10/05/primaires-une-machine-a-perdre-sur-lcp-une-mise-en-perspective-qui-tombe-a-pic_6788548_3246.html",
-     "published_at": "2026-10-05T15:30:03+00:00",
-     "snippet": "Alors que cinq candidats sont en lice pour la primaire à gauche, les analyses franches de François Hollande, Jean-François Copé, Alain Juppé, Valérie Pécresse, Manuel Valls sur ce mode de scrutin."
-    },
-    {
-     "id": "105e10d43fa2",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Il faut aimer les jeunes au lieu de les frapper\", lance Ségolène Royal après les violences en marge des manifestations lycéennes",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-aimer-les-jeunes-au-lieu-de-les-frapper-lance-segolene-royal-apres-les-violences-en-marge-des-manifestations-lyceennes_8223013.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T07:38:04+00:00",
-     "snippet": "La candidate à la primaire socialiste regrette aussi qu'il y ait eu \"huit ministres de l'Education en dix ans, qui ont tous fait des réformes allant dans tous les sens.\""
-    },
-    {
-     "id": "1884da9e2d18",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: Jean-Luc Mélenchon affirme qu'il s'agit du \"plus puissant mouvement de jeunesse lycéenne et étudiante\" depuis mai 1968",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/colere-lyceenne-jean-luc-melenchon-affirme-qu-il-s-agit-du-plus-puissant-mouvement-de-jeunesse-lyceenne-et-etudiante-depuis-mai-1968_AV-202610050935.html",
-     "published_at": "2026-10-05T21:27:56+00:00",
-     "snippet": "Leader de la France insoumise et candidat à la présidentielle, Jean-Luc Mélenchon a comparé ce lundi 5 octobre la mobilisation lycéenne et étudiante actuelle à celle de mai 1968. Il dénonce une répression \"inadmissible\"."
-    },
-    {
-     "id": "20b410c2a4e7",
-     "name": "CNews",
-     "kind": "media",
-     "title": "17.221 participants, 354 propositions... Gabriel Attal dévoile le bilan de son opération «1.000 bistrots»",
-     "url": "https://www.cnews.fr/france/2026-10-05/17221-participants-354-propositions-gabriel-attal-devoile-le-bilan-de-son",
-     "published_at": "2026-10-05T15:35:35+00:00",
-     "snippet": "Le candidat Renaissance à la présidentielle Gabriel Attal a dressé un premier bilan de son opération «1.000 bistrots», ayant pour objectif d’aller «à la rencontre des électeurs». Une manière de faire campagne qui a fait beaucoup réagir. Le 7 septembre dernier, Gabriel Attal annonçait le lancement de son opération «1.000 bistrots». Une série de déplacements pour aller à «la rencontre des Français» et mener une campagne présidentielle basée sur la proximité et «les rencontres de terrain». Un mois plus tard, le parti présidentiel Renaissance a révélé les premiers chiffres de cette opération. En e"
-    },
-    {
-     "id": "80d0b5036453",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la primaire, histoire d'une mal-aimée",
-     "url": "https://www.lexpress.fr/politique/presidentielle-2027-la-primaire-histoire-dune-mal-aimee-EBCRUSQSAVBW3AOTH5GZOQPALM/",
-     "published_at": "2026-10-05T05:00:00+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "81b50eb25603",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "« Le logement n’apparaît jamais très haut dans les programmes électoraux, et plus rarement encore dans les débats télévisés pour les présidentielles »",
-     "url": "https://www.lemonde.fr/idees/article/2026/10/05/le-logement-n-apparait-jamais-tres-haut-dans-les-programmes-electoraux-et-plus-rarement-encore-dans-les-debats-televises-pour-les-presidentielles_6788496_3232.html",
-     "published_at": "2026-10-05T08:00:05+00:00",
-     "snippet": "Catherine Sabbah, déléguée générale du laboratoire d’idées Idheal, déplore, dans une tribune au « Monde », la quasi-absence dans la campagne électorale de la question du logement, alors que celle-ci témoigne « du type de société défendue ou critiquée : accueillante et plus égalitaire ou excluante et gardienne des intérêts bien installés »."
-    },
-    {
-     "id": "9e3f5832492c",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : Près de 130.000 personnes inscrites pour voter les 9 et 10 octobre",
-     "url": "https://www.20minutes.fr/politique/4251626-20261005-primaire-gauche-pres-130-000-personnes-inscrites-voter-9-10-octobre?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-05T18:30:41+00:00",
-     "snippet": "Près de 130.000 électeurs sont appelés à départager Ségolène Royal, Emmanuel Maurel, Raphaël Glucksmann, Olivier Faure et Jérôme Guedj lors du scrutin des 9 et 10 octobre"
-    },
-    {
-     "id": "ade8d254cba9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Primaire socialiste : près de 128 000 personnes sont inscrites pour voter, selon un chiffre préliminaire",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-socialiste-pres-de-128-000-personnes-sont-inscrites-pour-voter-selon-un-chiffre-preliminaire_8223943.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T19:20:53+00:00",
-     "snippet": "Le chiffre sera mis à jour mardi matin, la clôture des inscriptions étant fixée à minuit."
-    },
-    {
-     "id": "d2cd6f3de7c1",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Nous ne sommes pas l'avant-garde du mouvement lycéen\", déclare Jean-Luc Mélenchon",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-ne-sommes-pas-l-avant-garde-du-mouvement-lyceen-declare-jean-luc-melenchon_VN-202610050907.html",
-     "published_at": "2026-10-05T20:41:19+00:00",
-     "snippet": "Le candidat à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
-    },
-    {
-     "id": "d9c6187a3026",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Cette troupe n'est plus tenue\": la colère de Jean-Luc Mélenchon sur le maintien de l'ordre lors des manifestations lycéennes",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-cette-troupe-n-est-plus-tenue-la-colere-de-jean-luc-melenchon-sur-le-maintien-de-l-ordre-lors-des-manifestations-lyceennes_VN-202610050862.html",
-     "published_at": "2026-10-05T18:58:57+00:00",
-     "snippet": "Le candidat LFI à l'élection présidentielle, Jean-Luc Mélenchon, est l'invité d'HEC Débats ce lundi 5 octobre afin d'évoquer son programme économique et la mobilisation lycéenne actuelle en France."
-    },
-    {
-     "id": "e13c29a27ecd",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Sans elle, la campagne aurait été bien fade » : comment Ségolène Royal a chahuté la primaire de gauche",
-     "url": "https://www.leparisien.fr/elections/presidentielle/sans-elle-la-campagne-aurait-ete-bien-fade-comment-segolene-royal-a-chahute-la-primaire-de-gauche-05-10-2026-LD2JBB3RTJH4LJNXDRQDZ5A2R4.php",
-     "published_at": "2026-10-05T21:12:48+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "ee3cb8e010c9",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
-     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
-     "published_at": "2026-10-05T16:09:37+00:00",
-     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
     }
    ]
   },
