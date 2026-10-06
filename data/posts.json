@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T16:00:05+00:00",
+ "generated_at": "2026-10-06T17:40:13+00:00",
  "posts": [
   {
    "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
@@ -68,7 +68,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 34.35,
+   "score": 32.16,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -225,7 +225,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 24.13,
+   "score": 22.93,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -452,7 +452,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 29.64,
+   "score": 27.8,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -724,7 +724,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.7,
+   "score": 14.7,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -801,6 +801,117 @@
    ]
   },
   {
+   "headline": "Rima Hassan accusée d'avoir renversé des drapeaux au Parlement européen",
+   "chapo": "L'eurodéputée LFI Rima Hassan est accusée d'avoir renversé des drapeaux israélien et européen lors d'une exposition sur le 7-Octobre au Parlement européen, lundi 5 octobre. Elle reconnaît avoir retiré le drapeau israélien mais nie l'avoir piétiné. La présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions.",
+   "points": [
+    {
+     "text": "L'incident s'est produit lundi 5 octobre lors d'une exposition sur le 7-Octobre organisée par la droite européenne, selon Libération. Le Monde écrit que Rima Hassan est accusée d'avoir « dégradé une exposition ». Libération titre en se demandant si elle a renversé et piétiné les drapeaux.",
+     "sources": [
+      "edcb7b2d8c60",
+      "b75c4a257b5f",
+      "d12bd4b09170"
+     ]
+    },
+    {
+     "text": "Rima Hassan reconnaît avoir retiré le drapeau israélien, selon Libération. Selon Le Monde, il était sur un support, et son équipe a expliqué à l'AFP que le drapeau européen était tombé accidentellement. Selon franceinfo, cette équipe affirme qu'« aucun drapeau n'a été piétiné ni détérioré ».",
+     "sources": [
+      "edcb7b2d8c60",
+      "b75c4a257b5f",
+      "0b82ee618cad"
+     ]
+    },
+    {
+     "text": "Selon franceinfo, l'équipe de l'eurodéputée présente le geste comme une « dénonciation du génocide » à Gaza. Selon Le Monde, qui cite l'AFP, cette équipe dit que le geste s'inscrivait « dans la dénonciation du génocide toujours en cours mené par le gouvernement israélien ».",
+     "sources": [
+      "0b82ee618cad",
+      "b75c4a257b5f"
+     ]
+    },
+    {
+     "text": "Selon franceinfo, le Parlement européen dit prendre l'affaire « extrêmement au sérieux ». Selon 20 Minutes, la présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions, et le média parle d'un « incident sérieux ».",
+     "sources": [
+      "0b82ee618cad",
+      "dcf7add07aaa",
+      "d12bd4b09170"
+     ]
+    },
+    {
+     "text": "Selon Libération, aucun enregistrement vidéo ne permet pour l'instant de trancher. Les extraits ne disent rien de l'issue de la procédure ouverte par Roberta Metsola.",
+     "sources": [
+      "edcb7b2d8c60",
+      "d12bd4b09170"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/21j82-oHRsaH7BMuR4OUlSk/1200x768_rally-in-support-of-rima-hassan-a-franco-palestinian-lfi-member-of-the-national-assembly-who-is-on-trial-for-glorifying-terrorism-this-case-is-one-of-a-series-of-16-legal-proceedings-brought-against-her-over-the-past-two-years-13-of-which-were-dismissed-paris-7-juillet-2026-le-proces-de-rima-hassan-s-est-ouvert-sous-haute-tension-plusieurs-centaines-de-personnes-se-sont-rassemblees-mardi-sur-le-parvis-du-tribunal-correctionnel-de-paris-pour-soutenir-l-eurodeputee-lfi-poursuivie-pour-apologie-du-terrorisme-urman-urman0711-credit-lionel-urman-sipa-2607071705",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251816-20261006-attaques-7-octobre-drapeau-israelien-renverse-rima-hassan-incident-serieux-parlement-europeen?at_medium=display&at_campaign=149",
+    "article_id": "d12bd4b09170",
+    "focus_x": 0.5633333333333334,
+    "focus_y": 0.24324544270833334
+   },
+   "id": 44,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T17:40:13+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "0b82ee618cad",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Rima Hassan accusée d'avoir renversé des drapeaux israélien et européen exposés en commémoration du 7-Octobre au Parlement européen, qui dit prendre l'affaire \"extrêmement au sérieux\"",
+     "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-parlement-europeen-prend-extremement-au-serieux-la-polemique-entourant-rima-hassan-accusee-d-avoir-renverse-des-drapeaux-europeen-et-israelien_8225038.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T11:47:22+00:00",
+     "snippet": "\"Aucun drapeau n'a été piétiné ni détérioré\", a affirmé l'équipe de l'eurodéputée La France insoumise pour contredire certaines accusations. Elle revendique avoir voulu retirer le drapeau de l'Etat hébreu dans un \"geste\" de \"dénonciation du génocide\" à Gaza."
+    },
+    {
+     "id": "b75c4a257b5f",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Rima Hassan accusée d’avoir « dégradé une exposition » sur le 7-Octobre au Parlement européen après avoir retiré un drapeau israélien de son support",
+     "url": "https://www.lemonde.fr/international/article/2026/10/06/rima-hassan-accusee-de-degradation-d-une-exposition-sur-le-7-octobre-au-parlement-europeen_6788993_3210.html",
+     "published_at": "2026-10-06T12:04:23+00:00",
+     "snippet": "En visitant une exposition consacrée au 7-Octobre, lundi, l’eurodéputée LFI a retiré un drapeau israélien de son support, faisant accidentellement tomber celui de l’Union européenne, a expliqué son équipe à l’AFP, soulignant que ce geste s’inscrivait « dans la dénonciation du génocide toujours en cours mené par le gouvernement israélien »."
+    },
+    {
+     "id": "d12bd4b09170",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Attaques du 7-Octobre : Drapeau israélien renversé… Rima Hassan au centre d’un « incident sérieux » au Parlement européen",
+     "url": "https://www.20minutes.fr/politique/4251816-20261006-attaques-7-octobre-drapeau-israelien-renverse-rima-hassan-incident-serieux-parlement-europeen?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T11:25:06+00:00",
+     "snippet": "L’eurodéputée LFI Rima Hassan est accusée d’avoir renversé des drapeaux israélien et européen en marge d’une exposition commémorative au Parlement européen. La présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions"
+    },
+    {
+     "id": "dcf7add07aaa",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Rima Hassan accusée d’avoir renversé les drapeaux israélien et européen au Parlement européen, l’incident pris « extrêmement au sérieux » à Bruxelles",
+     "url": "https://www.leparisien.fr/politique/rima-hassan-accusee-davoir-renverse-les-drapeaux-israelien-et-europeen-au-parlement-europeen-lincident-pris-extremement-au-serieux-a-bruxelles-06-10-2026-WHDVH3RJHZBPFCULPVEOK44OIE.php",
+     "published_at": "2026-10-06T11:27:39+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "edcb7b2d8c60",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Rima Hassan a-t-elle renversé et piétiné les drapeaux d’Israël et de l’UE lors d’un hommage aux victimes du 7 Octobre au Parlement européen ?",
+     "url": "https://www.liberation.fr/checknews/rima-hassan-a-t-elle-renverse-et-pietine-les-drapeaux-disrael-et-de-lue-lors-dun-hommage-aux-victimes-du-7-octobre-au-parlement-europeen-20261006_4MJUU73SM5DGXBVOSWYL3SQHOA/",
+     "published_at": "2026-10-06T12:59:13+00:00",
+     "snippet": "L’élue LFI reconnaît avoir retiré un drapeau israélien lors d’une exposition organisée par la droite européenne lundi 5 octobre, mais nie l’avoir piétiné. Aucun enregistrement vidéo ne permet pour l’instant de trancher."
+    }
+   ]
+  },
+  {
    "headline": "Sénat : le RN forme son premier groupe, LR reste en tête",
    "chapo": "Après les sénatoriales du 27 septembre, le Sénat a officialisé lundi sa nouvelle répartition en groupes politiques. Les équilibres n'ont pas été bouleversés, mais le Rassemblement national parvient pour la première fois à constituer son propre groupe.",
    "points": [
@@ -849,7 +960,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.5,
+   "score": 7.13,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -982,7 +1093,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.18,
+   "score": 15.71,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -1257,7 +1368,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.44,
+   "score": 12.02,
    "sources": [
     {
      "id": "3566bb310543",
@@ -1409,7 +1520,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.46,
+   "score": 7.21,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -1526,7 +1637,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.53,
+   "score": 2.46,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -1646,7 +1757,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.33,
+   "score": 11.09,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -1935,7 +2046,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.4,
+   "score": 8.24,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -2186,7 +2297,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.7,
+   "score": 6.54,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2341,7 +2452,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.61,
+   "score": 4.52,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -2498,7 +2609,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.34,
+   "score": 4.26,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -2640,7 +2751,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.52,
+   "score": 3.46,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -2742,7 +2853,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.76,
+   "score": 2.7,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -2817,7 +2928,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.34,
+   "score": 2.29,
    "sources": [
     {
      "id": "1ecdf9948b9f",
