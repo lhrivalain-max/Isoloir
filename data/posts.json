@@ -1,164 +1,6 @@
 {
- "generated_at": "2026-10-05T16:24:16+00:00",
+ "generated_at": "2026-10-06T08:00:05+00:00",
  "posts": [
-  {
-   "headline": "Colère lycéenne : Lecornu confie cinq chantiers à ses ministres, décisions d'ici fin octobre",
-   "chapo": "Dimanche 4 octobre, Sébastien Lecornu a envoyé une lettre à plusieurs de ses ministres. Il leur confie cinq chantiers issus des sujets remontés par les conseils académiques de la vie lycéenne et attend des décisions avant la fin du mois. Lundi, plus de 400 établissements sont perturbés en début de journée, et Mathilde Panot dénonce de la « gesticulation ».",
-   "points": [
-    {
-     "text": "Le Premier ministre a adressé dimanche 4 octobre une lettre à plusieurs de ses ministres, cinq selon franceinfo. Selon BFMTV, il leur a confié « une feuille de route avec cinq chantiers » pour répondre à la colère lycéenne. Franceinfo parle aussi d'une feuille de route de cinq chantiers, et 20 Minutes d'une liste de cinq chantiers prioritaires.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597",
-      "5b7af36a2ee9",
-      "69c70969ddb2",
-      "d64e56d47934"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, ces cinq chantiers sont issus des sujets remontés par les conseils académiques de la vie lycéenne. Le Monde cite des « premières décisions attendues avant la fin du mois ». 20 Minutes et franceinfo parlent aussi de résultats ou de décisions attendus à la fin d'octobre.",
-     "sources": [
-      "d63337f3cf75",
-      "5b7af36a2ee9",
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Lecornu affirme que « le dialogue doit produire des changements visibles dans les lycées ». Le titre de franceinfo cite, parmi les sujets concernés, l'amélioration des locaux et le remplacement des professeurs. Les extraits disponibles ne détaillent pas les cinq chantiers.",
-     "sources": [
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Le chef du gouvernement demande aussi que les cours reprennent dès lundi « partout » où la sécurité le permet. Franceinfo décrit un retour progressif des cours à partir de lundi, et précise que Lecornu appelle les lycéens à travailler.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597"
-     ]
-    },
-    {
-     "text": "Dimanche, le ministre de l'Éducation nationale a annoncé que les cours seraient « totalement ou partiellement » suspendus lundi 5 octobre dans « 400 à 500 » lycées, où les conditions de sécurité « ne sont pas réunies ». BFMTV indique que plus de 400 établissements étaient perturbés en début de journée lundi.",
-     "sources": [
-      "ebaac4ec512a",
-      "69c70969ddb2",
-      "3566bb310543"
-     ]
-    },
-    {
-     "text": "Édouard Geffray, ministre de l'Éducation nationale, a déclaré que « 190 élèves ont été blessés depuis le début » de la mobilisation. De son côté, Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur, juge les interventions des forces de l'ordre « proportionnées ».",
-     "sources": [
-      "69c70969ddb2",
-      "3566bb310543",
-      "ebaac4ec512a"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : le contenu précis des décisions promises avant la fin du mois. Une manifestation réunissant organisations lycéennes, universitaires et intersyndicale a lieu le lendemain de l'interview de Mathilde Panot. Les extraits ne disent pas comment le gouvernement y répondra.",
-     "sources": [
-      "d63337f3cf75",
-      "d64e56d47934"
-     ]
-    }
-   ],
-   "perspectives": [
-    {
-     "source": "d64e56d47934",
-     "position": "critique",
-     "text": "Pour Mathilde Panot, invitée de franceinfo, la lettre de Lecornu relève de la « gesticulation ». Elle remet en cause les chiffres avancés par le Premier ministre."
-    }
-   ],
-   "coverage": {
-    "articles": 17,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/04/644/0/7737/3868/644/322/60/0/77f61fa_ftp-1-5bghnjneqewy-5262903-01-06.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-    "article_id": "d63337f3cf75"
-   },
-   "id": 37,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T15:46:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 24.36,
-   "sources": [
-    {
-     "id": "3566bb310543",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: \"190 élèves ont été blessés depuis le début\" de la mobilisation, détaille Édouard Geffray, ministre de l'Éducation nationale",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-detaille-edouard-geffray-ministre-de-l-education-nationale_VN-202610050641.html",
-     "published_at": "2026-10-05T14:56:31+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "3ced4b48c597",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Face à la colère lycéenne, Sébastien Lecornu demande à ses ministres le lancement de cinq chantiers",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-colere-lyceenne-sebastien-lecornu-demande-a-ses-ministres-le-lancement-de-cinq-chantiers_8222899.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T05:41:53+00:00",
-     "snippet": "Sébastien Lecornu a adressé une feuille de route de cinq chantiers à ses ministres, dimanche 4 octobre. Le chef du gouvernement souhaite un retour progressif des cours à partir de lundi et appelle les lycéens à travailler."
-    },
-    {
-     "id": "5b7af36a2ee9",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Blocus des lycées : Quelles sont les consignes données par Lecornu aux ministres pour régler le problème ?",
-     "url": "https://www.20minutes.fr/politique/4251382-20261005-blocus-lycees-consignes-donnees-lecornu-ministres-regler-probleme?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-05T07:15:23+00:00",
-     "snippet": "Le Premier ministre a établi une liste de cinq chantiers prioritaires avec des résultats attendus dès la fin du mois d’octobre"
-    },
-    {
-     "id": "63145e97bde9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T10:17:11+00:00",
-     "snippet": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\"."
-    },
-    {
-     "id": "69c70969ddb2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray: \"190 élèves ont été blessés depuis le début\" de la mobilisation lycéenne",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-lyceenne_VN-202610050651.html",
-     "published_at": "2026-10-05T14:57:45+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "d63337f3cf75",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
-     "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-     "published_at": "2026-10-04T19:03:33+00:00",
-     "snippet": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne, avec « de premières décisions attendues avant la fin du mois »."
-    },
-    {
-     "id": "d64e56d47934",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Mathilde Panot, invitée du 8.30 franceinfo",
-     "url": "https://www.franceinfo.fr/politique/mathilde-panot-invitee-du-8-30-franceinfo_8223379.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T14:00:02+00:00",
-     "snippet": "À la veille d'une manifestation réunissant organisations lycéennes, universitaires, intersyndicale, Mathilde Panot est revenue ce matin sur la lettre envoyée hier par Sébastien Lecornu à cinq de ses ministres, en guise de réponse au mécontentement des lycéens. De la \"gesticulation\" dit Mathilde Panot ,qui remet en cause les chiffres du Premier ministre."
-    },
-    {
-     "id": "ebaac4ec512a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: les interventions des forces de l'ordre sont \"proportionnées\", affirme Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-les-interventions-des-forces-de-l-ordre-sont-proportionnees-affirme-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_VN-202610050342.html",
-     "published_at": "2026-10-05T08:13:27+00:00",
-     "snippet": "Les cours seront \"totalement ou partiellement\" suspendus ce lundi 5 octobre dans \"400 à 500\" lycées où les conditions de sécurité \"ne sont pas réunies\", a annoncé dimanche le ministre de l'Éducation nationale, alors que le chef du gouvernement tente une sortie de crise en mettant sur la table \"cinq chantiers\" et réclamant des \"décisions\" avant la fin du mois."
-    }
-   ]
-  },
   {
    "headline": "Revue de campagne : dernier débat de la primaire PS, Glucksmann, Bardella, pluralisme, fiscalité",
    "chapo": "Le troisième et dernier débat de la primaire socialiste et sociale-démocrate a eu lieu dimanche 4 octobre ; France 24 y voit un Jean-Luc Mélenchon « encore et toujours au centre des débats », et Raphaël Glucksmann a présenté ses excuses à Ségolène Royal. À l'extrême droite, Marine Le Pen a réaffirmé son soutien à Jordan Bardella après les révélations de Mediapart. Le pluralisme dans les médias et la fiscalité animent aussi la campagne.",
@@ -261,7 +103,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 27.83,
+   "score": 18.86,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -455,6 +297,164 @@
    ]
   },
   {
+   "headline": "Colère lycéenne : Lecornu confie cinq chantiers à ses ministres, décisions d'ici fin octobre",
+   "chapo": "Dimanche 4 octobre, Sébastien Lecornu a envoyé une lettre à plusieurs de ses ministres. Il leur confie cinq chantiers issus des sujets remontés par les conseils académiques de la vie lycéenne et attend des décisions avant la fin du mois. Lundi, plus de 400 établissements sont perturbés en début de journée, et Mathilde Panot dénonce de la « gesticulation ».",
+   "points": [
+    {
+     "text": "Le Premier ministre a adressé dimanche 4 octobre une lettre à plusieurs de ses ministres, cinq selon franceinfo. Selon BFMTV, il leur a confié « une feuille de route avec cinq chantiers » pour répondre à la colère lycéenne. Franceinfo parle aussi d'une feuille de route de cinq chantiers, et 20 Minutes d'une liste de cinq chantiers prioritaires.",
+     "sources": [
+      "d63337f3cf75",
+      "3ced4b48c597",
+      "5b7af36a2ee9",
+      "69c70969ddb2",
+      "d64e56d47934"
+     ]
+    },
+    {
+     "text": "Selon Le Monde, ces cinq chantiers sont issus des sujets remontés par les conseils académiques de la vie lycéenne. Le Monde cite des « premières décisions attendues avant la fin du mois ». 20 Minutes et franceinfo parlent aussi de résultats ou de décisions attendus à la fin d'octobre.",
+     "sources": [
+      "d63337f3cf75",
+      "5b7af36a2ee9",
+      "63145e97bde9"
+     ]
+    },
+    {
+     "text": "Lecornu affirme que « le dialogue doit produire des changements visibles dans les lycées ». Le titre de franceinfo cite, parmi les sujets concernés, l'amélioration des locaux et le remplacement des professeurs. Les extraits disponibles ne détaillent pas les cinq chantiers.",
+     "sources": [
+      "63145e97bde9"
+     ]
+    },
+    {
+     "text": "Le chef du gouvernement demande aussi que les cours reprennent dès lundi « partout » où la sécurité le permet. Franceinfo décrit un retour progressif des cours à partir de lundi, et précise que Lecornu appelle les lycéens à travailler.",
+     "sources": [
+      "d63337f3cf75",
+      "3ced4b48c597"
+     ]
+    },
+    {
+     "text": "Dimanche, le ministre de l'Éducation nationale a annoncé que les cours seraient « totalement ou partiellement » suspendus lundi 5 octobre dans « 400 à 500 » lycées, où les conditions de sécurité « ne sont pas réunies ». BFMTV indique que plus de 400 établissements étaient perturbés en début de journée lundi.",
+     "sources": [
+      "ebaac4ec512a",
+      "69c70969ddb2",
+      "3566bb310543"
+     ]
+    },
+    {
+     "text": "Édouard Geffray, ministre de l'Éducation nationale, a déclaré que « 190 élèves ont été blessés depuis le début » de la mobilisation. De son côté, Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur, juge les interventions des forces de l'ordre « proportionnées ».",
+     "sources": [
+      "69c70969ddb2",
+      "3566bb310543",
+      "ebaac4ec512a"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : le contenu précis des décisions promises avant la fin du mois. Une manifestation réunissant organisations lycéennes, universitaires et intersyndicale a lieu le lendemain de l'interview de Mathilde Panot. Les extraits ne disent pas comment le gouvernement y répondra.",
+     "sources": [
+      "d63337f3cf75",
+      "d64e56d47934"
+     ]
+    }
+   ],
+   "perspectives": [
+    {
+     "source": "d64e56d47934",
+     "position": "critique",
+     "text": "Pour Mathilde Panot, invitée de franceinfo, la lettre de Lecornu relève de la « gesticulation ». Elle remet en cause les chiffres avancés par le Premier ministre."
+    }
+   ],
+   "coverage": {
+    "articles": 17,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/04/644/0/7737/3868/644/322/60/0/77f61fa_ftp-1-5bghnjneqewy-5262903-01-06.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+    "article_id": "d63337f3cf75"
+   },
+   "id": 37,
+   "section": "institutions",
+   "reviewed_at": "2026-10-05T15:46:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.91,
+   "sources": [
+    {
+     "id": "3566bb310543",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: \"190 élèves ont été blessés depuis le début\" de la mobilisation, détaille Édouard Geffray, ministre de l'Éducation nationale",
+     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-detaille-edouard-geffray-ministre-de-l-education-nationale_VN-202610050641.html",
+     "published_at": "2026-10-05T14:56:31+00:00",
+     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
+    },
+    {
+     "id": "3ced4b48c597",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Face à la colère lycéenne, Sébastien Lecornu demande à ses ministres le lancement de cinq chantiers",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-colere-lyceenne-sebastien-lecornu-demande-a-ses-ministres-le-lancement-de-cinq-chantiers_8222899.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T05:41:53+00:00",
+     "snippet": "Sébastien Lecornu a adressé une feuille de route de cinq chantiers à ses ministres, dimanche 4 octobre. Le chef du gouvernement souhaite un retour progressif des cours à partir de lundi et appelle les lycéens à travailler."
+    },
+    {
+     "id": "5b7af36a2ee9",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Blocus des lycées : Quelles sont les consignes données par Lecornu aux ministres pour régler le problème ?",
+     "url": "https://www.20minutes.fr/politique/4251382-20261005-blocus-lycees-consignes-donnees-lecornu-ministres-regler-probleme?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-05T07:15:23+00:00",
+     "snippet": "Le Premier ministre a établi une liste de cinq chantiers prioritaires avec des résultats attendus dès la fin du mois d’octobre"
+    },
+    {
+     "id": "63145e97bde9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T10:17:11+00:00",
+     "snippet": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\"."
+    },
+    {
+     "id": "69c70969ddb2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray: \"190 élèves ont été blessés depuis le début\" de la mobilisation lycéenne",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-lyceenne_VN-202610050651.html",
+     "published_at": "2026-10-05T14:57:45+00:00",
+     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
+    },
+    {
+     "id": "d63337f3cf75",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
+     "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
+     "published_at": "2026-10-04T19:03:33+00:00",
+     "snippet": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne, avec « de premières décisions attendues avant la fin du mois »."
+    },
+    {
+     "id": "d64e56d47934",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Mathilde Panot, invitée du 8.30 franceinfo",
+     "url": "https://www.franceinfo.fr/politique/mathilde-panot-invitee-du-8-30-franceinfo_8223379.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T14:00:02+00:00",
+     "snippet": "À la veille d'une manifestation réunissant organisations lycéennes, universitaires, intersyndicale, Mathilde Panot est revenue ce matin sur la lettre envoyée hier par Sébastien Lecornu à cinq de ses ministres, en guise de réponse au mécontentement des lycéens. De la \"gesticulation\" dit Mathilde Panot ,qui remet en cause les chiffres du Premier ministre."
+    },
+    {
+     "id": "ebaac4ec512a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: les interventions des forces de l'ordre sont \"proportionnées\", affirme Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
+     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-les-interventions-des-forces-de-l-ordre-sont-proportionnees-affirme-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_VN-202610050342.html",
+     "published_at": "2026-10-05T08:13:27+00:00",
+     "snippet": "Les cours seront \"totalement ou partiellement\" suspendus ce lundi 5 octobre dans \"400 à 500\" lycées où les conditions de sécurité \"ne sont pas réunies\", a annoncé dimanche le ministre de l'Éducation nationale, alors que le chef du gouvernement tente une sortie de crise en mettant sur la table \"cinq chantiers\" et réclamant des \"décisions\" avant la fin du mois."
+    }
+   ]
+  },
+  {
    "headline": "Glucksmann s'excuse auprès de Ségolène Royal après la polémique sur la « danse du ventre »",
    "chapo": "Une vidéo privée diffusée par « Le Média » montre Raphaël Glucksmann parler de ses adversaires, dont Ségolène Royal, de façon qualifiée de vulgaire par Libération. Royal a déploré des « insultes à connotation sexuelle ». Lors du dernier débat de la primaire sur BFMTV, Glucksmann a fini par présenter ses excuses, reconnaissant des « propos inélégants » à son égard, selon CNews.",
    "points": [
@@ -530,7 +530,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.61,
+   "score": 8.95,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -647,7 +647,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.32,
+   "score": 2.94,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -767,7 +767,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.21,
+   "score": 12.62,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -1056,7 +1056,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.45,
+   "score": 9.23,
    "sources": [
     {
      "id": "073fa1e4180e",
@@ -1307,7 +1307,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.98,
+   "score": 7.54,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -1462,7 +1462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.28,
+   "score": 5.06,
    "sources": [
     {
      "id": "11ba34a5372c",
@@ -1619,7 +1619,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.91,
+   "score": 4.77,
    "sources": [
     {
      "id": "04e3c7ca8528",
@@ -1761,7 +1761,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.8,
+   "score": 3.87,
    "sources": [
     {
      "id": "281cc3b52e2d",
@@ -1863,7 +1863,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.94,
+   "score": 3.07,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -1938,7 +1938,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.49,
+   "score": 2.64,
    "sources": [
     {
      "id": "1ecdf9948b9f",
@@ -1966,240 +1966,6 @@
      "url": "https://www.lemonde.fr/politique/article/2026/10/02/fonction-publique-le-gouvernement-propose-de-relever-l-indice-minimal-des-agents-les-syndicats-decus_6787177_823448.html",
      "published_at": "2026-10-02T15:13:09+00:00",
      "snippet": "Le ministre des comptes publics, David Amiel, veut faire passer 400 000 agents au-dessus du smic. « Ce relèvement s’accompagnera d’injections pérennes de points d’indice dans les premiers échelons, pour commencer à redonner de la valeur à l’avancement et à l’ancienneté », a-t-il également assuré."
-    }
-   ]
-  },
-  {
-   "headline": "Gérard Larcher réélu président du Sénat pour un sixième mandat",
-   "chapo": "Le sénateur des Yvelines Gérard Larcher a été réélu jeudi 1er octobre à la présidence du Sénat, sans surprise. Son mandat court jusqu'en 2029, dans une chambre où le Rassemblement national vient de faire une percée.",
-   "points": [
-    {
-     "text": "Gérard Larcher, 77 ans, a été réélu jeudi 1er octobre à la présidence du Sénat dès le premier tour de scrutin. C'est son sixième mandat à la tête du Palais du Luxembourg. Le Monde et 20 Minutes soulignent que cette réélection n'a surpris personne.",
-     "sources": [
-      "7c405099a6e6",
-      "44354c3553f6",
-      "d0c4903d4908"
-     ]
-    },
-    {
-     "text": "Son nouveau mandat court jusqu'en 2029. 20 Minutes le surnomme « l'inamovible » Gérard Larcher.",
-     "sources": [
-      "44354c3553f6",
-      "d0c4903d4908"
-     ]
-    },
-    {
-     "text": "Le Monde souligne que le Sénat pourrait jouer un rôle très important après l'élection présidentielle de 2027. Le journal indique que Gérard Larcher est prêt à activer le « verrou » constitutionnel en cas de victoire du RN. Les extraits fournis ne détaillent pas ce mécanisme.",
-     "sources": [
-      "7c405099a6e6"
-     ]
-    },
-    {
-     "text": "Cette réélection suit les sénatoriales de dimanche, où le Rassemblement national a fait une percée. Selon franceinfo, le parti de Marine Le Pen et Jordan Bardella est passé de 3 à 15 sénateurs. Franceinfo présente ce résultat comme important à quelques mois de la présidentielle.",
-     "sources": [
-      "cc32602ea3bf"
-     ]
-    },
-    {
-     "text": "Libération relève un autre élu de ce scrutin. Paul Mougenot, ancien militant de l'Action française, mouvement de Charles Maurras, a été élu sénateur de l'Aisne le 27 septembre. Il pourrait siéger au sein du groupe LR. Libération est le seul média du lot à rapporter ce fait.",
-     "sources": [
-      "4d5155f7459b"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.20mn.fr/o8-Byo6bQ_S9SpMZ_fS2KSk/1200x768_25-septembre-2026-paris-france-le-pape-visite-le-palais-de-l-elysee-le-president-francais-emmanuel-macron-et-la-premiere-dame-brigitte-macron-accueillent-le-pape-leon-xiv-lors-de-sa-visite-a-l-elysee-sur-la-photo-gerard-larcher-agf-editorial-tey250926-136-credit-pierre-teyssot-agf-sipa-2609251626",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4250491-20261001-inamovible-gerard-larcher-reelu-presidence-senat-jusqu-2029?at_medium=display&at_campaign=149",
-    "article_id": "44354c3553f6",
-    "focus_x": 0.37333333333333335,
-    "focus_y": 0.012125651041666666
-   },
-   "id": 24,
-   "section": "institutions",
-   "reviewed_at": "2026-10-02T16:48:57+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.26,
-   "sources": [
-    {
-     "id": "44354c3553f6",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "L’inamovible Gérard Larcher réélu à la présidence du Sénat jusqu’en 2029",
-     "url": "https://www.20minutes.fr/politique/4250491-20261001-inamovible-gerard-larcher-reelu-presidence-senat-jusqu-2029?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-01T16:23:14+00:00",
-     "snippet": "Sans surprise, le président du Sénat Gérard Larcher a été réélu jeudi pour un nouveau mandat aux commandes de la chambre haute"
-    },
-    {
-     "id": "4d5155f7459b",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Un ancien militant de l’Action française devient sénateur dans l’Aisne",
-     "url": "https://www.liberation.fr/politique/un-ancien-militant-de-laction-francaise-devient-senateur-dans-laisne-20261001_M5NADMK4UFBT5K4E6L2ETWGQEI/",
-     "published_at": "2026-10-01T08:50:44+00:00",
-     "snippet": "Ex-membre du mouvement de Charles Maurras, Paul Mougenot a été élu au Sénat, dimanche 27 septembre. Et il pourrait siéger au sein du groupe LR."
-    },
-    {
-     "id": "7c405099a6e6",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Gérard Larcher réélu président du Sénat, prêt à activer le « verrou » constitutionnel en cas de victoire du RN en 2027",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/01/gerard-larcher-reelu-president-du-senat-pret-a-activer-le-verrou-constitutionnel-en-cas-de-victoire-du-rn-en-2027_6786545_823448.html",
-     "published_at": "2026-10-01T15:02:01+00:00",
-     "snippet": "Le sénateur des Yvelines a été réélu, sans surprise, jeudi 1ᵉʳ octobre, pour un sixième mandat à la présidence du Palais du Luxembourg, une institution dont le rôle pourrait être très important à l’issue de l’élection présidentielle."
-    },
-    {
-     "id": "cc32602ea3bf",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Plus de sénateurs RN, ça change quoi ?",
-     "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/plus-de-senateurs-rn-ca-change-quoi_8216254.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-01T05:00:02+00:00",
-     "snippet": "Le Rassemblement national a fait une percée aux élections sénatoriales de dimanche. Le parti de Marine Le Pen et Jordan Bardella est passé de 3 à 15 sénateurs. On t’explique ce que ça change et pourquoi c’est important quelques mois avant l’élection présidentielle."
-    },
-    {
-     "id": "d0c4903d4908",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Gérard Larcher reconduit à la tête du Sénat",
-     "url": "https://www.liberation.fr/politique/elections/gerard-larcher-reconduit-a-la-tete-du-senat-20261001_JJG7F427EJH2HAFN62GWLBB33U/",
-     "published_at": "2026-10-01T15:50:47+00:00",
-     "snippet": "L’élu des Yvelines de 77 ans a été réélu à la présidence du Palais du Luxembourg dès le premier tour de scrutin, ce jeudi. Son nouveau mandat courra jusqu’à 2029."
-    }
-   ]
-  },
-  {
-   "headline": "Lycées bloqués : le gouvernement et Retailleau visent LFI, qui crie au complotisme",
-   "chapo": "Face au mouvement de blocage des lycées, Matignon accuse La France insoumise de l'avoir organisé. Bruno Retailleau veut aller jusqu'à poser la question de l'interdiction du mouvement. LFI dénonce du « complotisme ».",
-   "points": [
-    {
-     "text": "Jeudi matin, la situation s'est tendue, avec plusieurs incendies devant des établissements scolaires et des échauffourées entre lycéens et forces de l'ordre. Le Premier ministre a présidé en début d'après-midi une cellule interministérielle de crise à Matignon.",
-     "sources": [
-      "d6cc3770ee03"
-     ]
-    },
-    {
-     "text": "L'entourage du Premier ministre qualifie le mouvement de « manœuvre organisée par LFI et ses proxys de l'ultragauche ». Édouard Philippe évoque lui aussi une « responsabilité politique que les Insoumis devront assumer ».",
-     "sources": [
-      "38533e06eb72",
-      "d6cc3770ee03",
-      "cd9f5da9c88b"
-     ]
-    },
-    {
-     "text": "Sur France 2, la ministre Aurore Bergé a affirmé que Jean-Luc Mélenchon « a appelé à une forme d'insurrection ». Selon elle, LFI met « une cible dans le dos de nos enfants », mais aussi des policiers et des gendarmes.",
-     "sources": [
-      "ad7ebde953f5"
-     ]
-    },
-    {
-     "text": "Le candidat LR à la présidentielle Bruno Retailleau a accusé jeudi LFI d'« organiser l'insurrection » autour du mouvement lycéen. Il a mis « dans le débat public la question de l'interdiction » du mouvement de Jean-Luc Mélenchon.",
-     "sources": [
-      "be0ec0fc4769",
-      "92e33fcb25a7"
-     ]
-    },
-    {
-     "text": "Manuel Bompard, coordinateur de LFI, appelle à ne pas « sombrer dans le complotisme ». Il demande aussi que le Premier ministre « renonce à jouer la stratégie du pourrissement et de la provocation ». Jean-Luc Mélenchon et plusieurs élus LFI contestent les affirmations du gouvernement. Leurs élus soutiennent les blocages.",
-     "sources": [
-      "38533e06eb72",
-      "cd9f5da9c88b",
-      "d6cc3770ee03"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : franceinfo se demande si les élus LFI ne sont pas désormais dépassés par le mouvement. Les extraits ne disent pas si la proposition d'interdiction aura une suite.",
-     "sources": [
-      "38533e06eb72",
-      "92e33fcb25a7"
-     ]
-    }
-   ],
-   "perspectives": [
-    {
-     "source": "92e33fcb25a7",
-     "position": "critique",
-     "text": "Pour Libération, la proposition de Bruno Retailleau est « aussi injuste qu'absurde et illégale » et l'éloigne « encore davantage » des « rives républicaines »."
-    }
-   ],
-   "coverage": {
-    "articles": 6,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/FzxhS6vHRsGhIGA_iM7fzik/1200x768_bruno-retailleau-derouda-derouda2631-credit-franck-derouda-sipa-2609300635",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4250559-20261001-blocage-lycees-bruno-retailleau-veut-faire-interdire-lfi?at_medium=display&at_campaign=149",
-    "article_id": "be0ec0fc4769"
-   },
-   "id": 25,
-   "section": "institutions",
-   "reviewed_at": "2026-10-02T16:48:41+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.01,
-   "sources": [
-    {
-     "id": "38533e06eb72",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "La France insoumise derrière la mobilisation lycéenne ? Jean-Luc Mélenchon et plusieurs élus LFI contestent les affirmations du gouvernement",
-     "url": "https://www.franceinfo.fr/economie/greve/la-france-insoumise-derriere-la-mobilisation-lyceenne-jean-luc-melenchon-et-plusieurs-elus-lfi-contestent-les-affirmations-du-gouvernement_8218846.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-01T20:23:27+00:00",
-     "snippet": "Qui porte la responsabilité des débordements en marge de la mobilisation des lycéens ? Matignon emploie des mots particulièrement durs : une \"manœuvre organisée par LFI et ses proxys de l’ultragauche\", dit l'entourage du Premier ministre. Édouard Philippe évoque lui aussi une \"responsabilité politique que les Insoumis devront assumer\". De son côté, La France insoumise dénonce du \"complotisme\", ses élus soutiennent les blocages, mais sont-ils désormais dépassés par le mouvement ?"
-    },
-    {
-     "id": "92e33fcb25a7",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Interdire LFI» ? Bruno Retailleau dérive toujours plus loin pour se faire entendre",
-     "url": "https://www.liberation.fr/politique/interdire-lfi-bruno-retailleau-derive-toujours-plus-loin-pour-se-faire-entendre-20261001_ILH23KY5DFEFHH5YBRRFSCCSH4/",
-     "published_at": "2026-10-01T17:58:49+00:00",
-     "snippet": "Le candidat Les Républicains à la présidentielle a mis, ce jeudi 1er octobre, «dans le débat public la question de l’interdiction» du mouvement de Jean-Luc Mélenchon. Une proposition aussi injuste qu’absurde et illégale, qui éloigne encore davantage le Vendéen des rives républicaines."
-    },
-    {
-     "id": "ad7ebde953f5",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Blocage des lycées : \"Jean-Luc Mélenchon a appelé à une forme d'insurrection\" selon Aurore Bergé",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees-jean-luc-melenchon-a-appele-a-une-forme-d-insurrection-selon-aurore-berge_8217793.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-01T06:47:19+00:00",
-     "snippet": "Invitée des \"4 Vérités\" sur France 2 ce jeudi 1er octobre, Aurore Bergé est revenue sur la mobilisation sociale des lycéens. La ministre de l'Égalité femme homme et de la Lutte contre les discriminations accuse La France insoumise de mettre \"une cible dans le dos de nos enfants\", mais aussi des policiers et des gendarmes. Elle a également évoqué la loi intégrale à l'occasion de l'ouverture des débats à l'Assemblée nationale."
-    },
-    {
-     "id": "be0ec0fc4769",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Blocage des lycées : Bruno Retailleau veut faire interdire LFI",
-     "url": "https://www.20minutes.fr/politique/4250559-20261001-blocage-lycees-bruno-retailleau-veut-faire-interdire-lfi?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-01T20:30:53+00:00",
-     "snippet": "Le candidat LR à la présidentielle Bruno Retailleau a accusé, jeudi, La France insoumise d’« organiser l’insurrection » autour du mouvement des lycéens"
-    },
-    {
-     "id": "cd9f5da9c88b",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Matignon qualifie le mouvement de blocage des lycées de \"manœuvre organisée par LFI et ses proxys de l'ultragauche\", Manuel Bompard appelle à ne pas \"sombrer dans le complotisme\"",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/matignon-qualifie-le-mouvement-de-blocage-des-lycees-de-man-uvre-organisee-par-lfi-et-ses-proxys-de-l-ultra-gauche-manuel-bompard-appelle-a-ne-pas-sombrer-dans-le-complotisme_8218519.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-01T16:12:48+00:00",
-     "snippet": "\"Il est temps que le Premier Ministre renonce à jouer la stratégie du pourrissement et de la provocation\", a aussi déclaré à l'AFP le coordinateur de La France insoumise."
-    },
-    {
-     "id": "d6cc3770ee03",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "DIRECT. Blocage des lycées : Matignon estime que le mouvement est \"organisé par LFI et ses proxys de l'ultragauche\", Manuel Bompard accuse le gouvernement de \"complotisme\"",
-     "url": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/direct-blocage-des-lycees-les-eleves-et-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-malgre-les-violences_8217775.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-01T14:55:10+00:00",
-     "snippet": "La situation s'est tendue jeudi matin, avec plusieurs incendies devant des établissements scolaires et des échauffourées entre lycéens et forces de l'ordre. Le Premier ministre a présidé une cellule interministérielle de crise en début d'après-midi à Matignon."
     }
    ]
   }
