@@ -1,149 +1,6 @@
 {
- "generated_at": "2026-10-07T08:14:09+00:00",
+ "generated_at": "2026-10-07T10:23:20+00:00",
  "posts": [
-  {
-   "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
-   "chapo": "Marine Le Pen et Jordan Bardella ont présenté mardi 6 octobre le contre-budget du RN, censé s'appliquer en cas de victoire à la présidentielle. Les médias avancent 125 milliards d'euros d'économies sur cinq ans, ou 140 milliards nets d'ici 2032. La conférence de presse s'est terminée sur des questions autour des écrits antisémites attribués à Jordan Bardella.",
-   "points": [
-    {
-     "text": "La présentation a eu lieu mardi 6 octobre lors d'une conférence de presse des deux dirigeants du RN, depuis le Palais-Bourbon. Le budget présenté est celui que Marine Le Pen défendrait si elle accédait à l'Élysée, en mai prochain selon Le Figaro.",
-     "sources": [
-      "7a320e0366e2",
-      "b25b93a18747",
-      "b9bb0603a91b",
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "Les chiffres diffèrent selon les médias. CNews et Libération annoncent un plan de 125 milliards d'euros d'économies, que CNews décrit comme une trajectoire sur cinq ans. BFMTV titre sur « 140 milliards d'euros nets d'économies » d'ici 2032 promis par Marine Le Pen. Les extraits ne permettent pas d'expliquer l'écart entre ces deux montants.",
-     "sources": [
-      "a1c54071d453",
-      "4e841ee21bf4",
-      "7a320e0366e2"
-     ]
-    },
-    {
-     "text": "Le Figaro indique que le plan touche notamment aux retraites, à la réforme de l'État et à l'immigration, sous le titre « la renaissance de la France », et précise que Marine Le Pen a détaillé plusieurs mesures économiques. Le Parisien évoque dans son titre des économies, des impôts et la retraite, ainsi que son projet budgétaire pour 2027.",
-     "sources": [
-      "b9bb0603a91b",
-      "dc1c9791fe02"
-     ]
-    },
-    {
-     "text": "Cette présentation tombe le jour où le projet de loi de finances et celui de financement de la Sécurité sociale doivent être présentés en commission à l'Assemblée. Dimanche, le député Jean-Philippe Tanguy était invité sur CNews.",
-     "sources": [
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "CNews et Libération décrivent un parti en quête de crédibilité sur l'économie. Libération ajoute que le RN a été ébranlé par les écrits antisémites attribués à Jordan Bardella et espère convaincre de son sérieux avec ce plan.",
-     "sources": [
-      "a1c54071d453",
-      "4e841ee21bf4"
-     ]
-    },
-    {
-     "text": "La conférence de presse s'est terminée sur des questions au sujet des révélations de Mediapart. Jordan Bardella a contesté de nouveau « formellement » les éléments d'authentification publiés par le site. Il a rejeté vivement des accusations lui attribuant des messages antisémites datant de 2013. franceinfo notait avant l'événement que la conférence risquait d'être rattrapée par cette affaire.",
-     "sources": [
-      "a94aa1d7023b",
-      "8a45ce97c561",
-      "b25b93a18747"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 19,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://img.20mn.fr/mhzUeZEQTveO0HwhtFO6eyk/1200x768_conference-de-presse-de-presentation-du-contre-budget-et-de-la-trajectoire-budgetaire-du-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-francia-06-10-2026-conference-de-presse-pour-presenter-la-strategie-budgetaire-et-fiscale-alternative-du-parti-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-francaise-de-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-france-06-10-2026-harsin-confpresselepencontrebudget-035-credit-isa-harsin-sipa-2610061156",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
-    "article_id": "8a45ce97c561"
-   },
-   "id": 41,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T15:32:53+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 20.65,
-   "sources": [
-    {
-     "id": "4e841ee21bf4",
-     "name": "Libération",
-     "kind": "media",
-     "title": "En quête de crédibilité, le RN va présenter son contre-budget",
-     "url": "https://www.liberation.fr/politique/en-quete-de-credibilite-le-rn-va-presenter-son-contre-budget-20261005_PUBTT7GPRBE3PNKA5KHOPVPTCY/",
-     "published_at": "2026-10-05T15:02:24+00:00",
-     "snippet": "Alors que le parti a été ébranlé par les écrits antisémites de Jordan Bardella, le binôme du RN doit détailler son plan de 125 milliards, espérant ainsi convaincre de son sérieux."
-    },
-    {
-     "id": "7a320e0366e2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Présidentielle: Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 2032",
-     "url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
-     "published_at": "2026-10-06T08:15:58+00:00",
-     "snippet": "Marine Le Pen et Jordan Bardella présentent ce mardi 6 octobre le contre-budget du Rassemblement national qui sera appliqué en cas de victoire lors de l'élection présidentielle."
-    },
-    {
-     "id": "8a45ce97c561",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
-     "url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T11:51:23+00:00",
-     "snippet": "Le président du Rassemblement national a vivement rejeté, ce mardi, les accusations lui attribuant des messages antisémites datant de 2013"
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
-    },
-    {
-     "id": "a94aa1d7023b",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Ecrits antisémites : Jordan Bardella conteste à nouveau « formellement » les éléments d’authentification de « Mediapart »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-jordan-bardella-conteste-a-nouveau-formellement-les-elements-d-authentification-de-mediapart_6788982_823448.html",
-     "published_at": "2026-10-06T10:44:39+00:00",
-     "snippet": "Alors que le RN tenait une conférence de presse pour présenter son contre-budget, mardi, la fin des échanges a été marquée par des questions sur les révélations du site d’investigation."
-    },
-    {
-     "id": "b25b93a18747",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le RN va présenter son contre-budget, en pleine \"affaire Bardella\"",
-     "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-06T04:59:45+00:00",
-     "snippet": "Les deux dirigeants du Rassemblement national tiendront une conférence de presse mardi pour présenter le budget que Marine Le Pen défendra si elle arrive au pouvoir. Mais celle-ci risque d'être rattrapée par la polémique sur les propos antisémites attribués à Jordan Bardella."
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
-    },
-    {
-     "id": "dc1c9791fe02",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Baisser le déficit laissé par Macron » : économies, impôts, retraite… Marine Le Pen dévoile son projet budgétaire pour 2027",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-06-10-2026-WEEBR3S7GBAZZAISUMADMUI4P4.php",
-     "published_at": "2026-10-06T11:27:39+00:00",
-     "snippet": ""
-    }
-   ]
-  },
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
    "chapo": "Le RN a présenté le 6 octobre un contre-budget qui promet 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. David Lisnard annonce au moins 200 milliards, dont 80 dès la première année ; ses chiffres viennent du site de Nouvelle Énergie. Le RN prévoit des baisses de TVA et de taxes et de nouvelles dépenses, et vise un déficit sous 3 % du PIB dès 2030. Lisnard annonce une règle de partage fixée à l'avance, en pourcentages.",
@@ -271,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 26.0,
+   "score": 23.86,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -384,6 +241,253 @@
    ]
   },
   {
+   "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
+   "chapo": "Marine Le Pen et Jordan Bardella ont présenté mardi 6 octobre le contre-budget du RN, censé s'appliquer en cas de victoire à la présidentielle. Les médias avancent 125 milliards d'euros d'économies sur cinq ans, ou 140 milliards nets d'ici 2032. La conférence de presse s'est terminée sur des questions autour des écrits antisémites attribués à Jordan Bardella.",
+   "points": [
+    {
+     "text": "La présentation a eu lieu mardi 6 octobre lors d'une conférence de presse des deux dirigeants du RN, depuis le Palais-Bourbon. Le budget présenté est celui que Marine Le Pen défendrait si elle accédait à l'Élysée, en mai prochain selon Le Figaro.",
+     "sources": [
+      "7a320e0366e2",
+      "b25b93a18747",
+      "b9bb0603a91b",
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "Les chiffres diffèrent selon les médias. CNews et Libération annoncent un plan de 125 milliards d'euros d'économies, que CNews décrit comme une trajectoire sur cinq ans. BFMTV titre sur « 140 milliards d'euros nets d'économies » d'ici 2032 promis par Marine Le Pen. Les extraits ne permettent pas d'expliquer l'écart entre ces deux montants.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4",
+      "7a320e0366e2"
+     ]
+    },
+    {
+     "text": "Le Figaro indique que le plan touche notamment aux retraites, à la réforme de l'État et à l'immigration, sous le titre « la renaissance de la France », et précise que Marine Le Pen a détaillé plusieurs mesures économiques. Le Parisien évoque dans son titre des économies, des impôts et la retraite, ainsi que son projet budgétaire pour 2027.",
+     "sources": [
+      "b9bb0603a91b",
+      "dc1c9791fe02"
+     ]
+    },
+    {
+     "text": "Cette présentation tombe le jour où le projet de loi de finances et celui de financement de la Sécurité sociale doivent être présentés en commission à l'Assemblée. Dimanche, le député Jean-Philippe Tanguy était invité sur CNews.",
+     "sources": [
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "CNews et Libération décrivent un parti en quête de crédibilité sur l'économie. Libération ajoute que le RN a été ébranlé par les écrits antisémites attribués à Jordan Bardella et espère convaincre de son sérieux avec ce plan.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4"
+     ]
+    },
+    {
+     "text": "La conférence de presse s'est terminée sur des questions au sujet des révélations de Mediapart. Jordan Bardella a contesté de nouveau « formellement » les éléments d'authentification publiés par le site. Il a rejeté vivement des accusations lui attribuant des messages antisémites datant de 2013. franceinfo notait avant l'événement que la conférence risquait d'être rattrapée par cette affaire.",
+     "sources": [
+      "a94aa1d7023b",
+      "8a45ce97c561",
+      "b25b93a18747"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 19,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://img.20mn.fr/mhzUeZEQTveO0HwhtFO6eyk/1200x768_conference-de-presse-de-presentation-du-contre-budget-et-de-la-trajectoire-budgetaire-du-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-francia-06-10-2026-conference-de-presse-pour-presenter-la-strategie-budgetaire-et-fiscale-alternative-du-parti-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-francaise-de-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-france-06-10-2026-harsin-confpresselepencontrebudget-035-credit-isa-harsin-sipa-2610061156",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
+    "article_id": "8a45ce97c561"
+   },
+   "id": 41,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T15:32:53+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.61,
+   "sources": [
+    {
+     "id": "4e841ee21bf4",
+     "name": "Libération",
+     "kind": "media",
+     "title": "En quête de crédibilité, le RN va présenter son contre-budget",
+     "url": "https://www.liberation.fr/politique/en-quete-de-credibilite-le-rn-va-presenter-son-contre-budget-20261005_PUBTT7GPRBE3PNKA5KHOPVPTCY/",
+     "published_at": "2026-10-05T15:02:24+00:00",
+     "snippet": "Alors que le parti a été ébranlé par les écrits antisémites de Jordan Bardella, le binôme du RN doit détailler son plan de 125 milliards, espérant ainsi convaincre de son sérieux."
+    },
+    {
+     "id": "7a320e0366e2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Présidentielle: Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 2032",
+     "url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
+     "published_at": "2026-10-06T08:15:58+00:00",
+     "snippet": "Marine Le Pen et Jordan Bardella présentent ce mardi 6 octobre le contre-budget du Rassemblement national qui sera appliqué en cas de victoire lors de l'élection présidentielle."
+    },
+    {
+     "id": "8a45ce97c561",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
+     "url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T11:51:23+00:00",
+     "snippet": "Le président du Rassemblement national a vivement rejeté, ce mardi, les accusations lui attribuant des messages antisémites datant de 2013"
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
+    },
+    {
+     "id": "a94aa1d7023b",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Ecrits antisémites : Jordan Bardella conteste à nouveau « formellement » les éléments d’authentification de « Mediapart »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-jordan-bardella-conteste-a-nouveau-formellement-les-elements-d-authentification-de-mediapart_6788982_823448.html",
+     "published_at": "2026-10-06T10:44:39+00:00",
+     "snippet": "Alors que le RN tenait une conférence de presse pour présenter son contre-budget, mardi, la fin des échanges a été marquée par des questions sur les révélations du site d’investigation."
+    },
+    {
+     "id": "b25b93a18747",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le RN va présenter son contre-budget, en pleine \"affaire Bardella\"",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T04:59:45+00:00",
+     "snippet": "Les deux dirigeants du Rassemblement national tiendront une conférence de presse mardi pour présenter le budget que Marine Le Pen défendra si elle arrive au pouvoir. Mais celle-ci risque d'être rattrapée par la polémique sur les propos antisémites attribués à Jordan Bardella."
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
+    },
+    {
+     "id": "dc1c9791fe02",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Baisser le déficit laissé par Macron » : économies, impôts, retraite… Marine Le Pen dévoile son projet budgétaire pour 2027",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-06-10-2026-WEEBR3S7GBAZZAISUMADMUI4P4.php",
+     "published_at": "2026-10-06T11:27:39+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Lycéens : Nuñez et les députés LFI s'affrontent, Panot demande sa démission",
+   "chapo": "Dans la nuit du lundi 5 au mardi 6 octobre, le ministre de l'Intérieur Laurent Nuñez et des députées LFI se sont affrontés à l'Assemblée sur le maintien de l'ordre pendant la mobilisation lycéenne. Mathilde Panot, présidente du groupe LFI, a appelé à sa démission. Nuñez est auditionné ce mercredi 7 octobre à 15 h par la commission des lois.",
+   "points": [
+    {
+     "text": "L'échange a eu lieu pendant l'examen de la loi intégrale contre les violences sexuelles et sexistes. La députée LFI Sarah Legrain a dit vouloir que le ministre puisse « rendre des comptes » aux parlementaires. Elle a cité un lycéen au visage fracassé à Saint-Ouen-l'Aumône (Val-d'Oise), un policier de Perpignan et un policier de Metz.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    },
+    {
+     "text": "À Perpignan, un policier est accusé d'avoir tenu des propos racistes et d'avoir dit à une enseignante que ça lui plaisait de la toucher. À Metz, un policier est accusé d'avoir touché la poitrine et les cheveux d'une jeune femme maintenue au sol. Une enquête de l'IGPN a été ouverte dans l'affaire de Metz, selon RMC cité par LCP.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    },
+    {
+     "text": "Nuñez a promis de rendre des comptes sur sa façon de maintenir l'ordre public. Il a indiqué qu'une procédure disciplinaire est lancée dans l'affaire de Perpignan, « comme à chaque fois ». Il a aussi demandé aux élus LFI : « Vous, quand allez-vous rendre des comptes sur le fait que vous vous rendez sur les barrages lycéens pour les inciter à commettre des violences ? »",
+     "sources": [
+      "0ec36a23850e",
+      "ce91f6e32c8d"
+     ]
+    },
+    {
+     "text": "Interrogé par Danièle Obono (LFI), Nuñez a nié toute impunité dans la police. Il a lancé : « Arrêtez de vivre dans ces fantasmes de violences policières systémiques, de violences sexistes systémiques dans la police ». Il a dénoncé chez LFI une « détestation » de la police et de la gendarmerie.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    },
+    {
+     "text": "Nuñez a précisé sa doctrine. Pour lui, l'absence de retenue consisterait à ne pas intervenir face aux violences et aux dégradations, ce qu'il refuse. Il prône « la retenue dans la proportionnalité des interventions ». Il a cité un chiffre : plus de 6 000 interpellations pour seulement quelques saisines de l'IGPN.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    },
+    {
+     "text": "Caroline Yadan (apparentée Ensemble pour la République) a accusé LFI « d'instrumentaliser un texte sur les violences sexistes et sexuelles » et qualifié Jean-Luc Mélenchon de « gourou ». Clémentine Autain a regretté qu'elle puisse « déverser sa haine bien connue contre les insoumis ». Gabrielle Cathala (LFI) a critiqué le « spectacle » donné.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    },
+    {
+     "text": "Mathilde Panot a appelé à la démission de Nuñez. Selon elle, il permet « une répression jamais vue » des forces de l'ordre contre les lycéens. BFMTV titre sur ses mots « Il se déshonore » et « permet le pire ».",
+     "sources": [
+      "3b7932978ba3"
+     ]
+    },
+    {
+     "text": "Nuñez sera auditionné ce mercredi 7 octobre à 15 h par la commission des lois de l'Assemblée sur la mobilisation lycéenne.",
+     "sources": [
+      "0ec36a23850e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/nunez%205%2010%2026.jpg?itok=JtUNFt4E",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/a-l-assemblee-la-mobilisation-lyceenne-enflamme-les-debats-laurent-nunez-promet-de",
+    "article_id": "0ec36a23850e",
+    "focus_x": 0.4766666666666667,
+    "focus_y": 0.08889094440847285
+   },
+   "id": 60,
+   "section": "institutions",
+   "reviewed_at": "2026-10-07T10:23:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.0,
+   "sources": [
+    {
+     "id": "0ec36a23850e",
+     "name": "LCP",
+     "kind": "media",
+     "title": "À l'Assemblée, la mobilisation lycéenne enflamme les débats, Laurent Nuñez promet de « rendre des comptes »",
+     "url": "https://lcp.fr/actualites/a-l-assemblee-la-mobilisation-lyceenne-enflamme-les-debats-laurent-nunez-promet-de",
+     "published_at": "2026-10-06T11:40:00+00:00",
+     "snippet": "Le ministre de l'Intérieur, Laurent Nuñez, a répondu dans l'hémicycle de l'Assemblée nationale, lundi 5 octobre au soir, à des députées de La France insoumise qui l'interrogeaient sur sa doctrine de maintien de l'ordre et l'action des forces de l'ordre dans le cadre de la mobilisation lycéenne, alor"
+    },
+    {
+     "id": "3b7932978ba3",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Il se déshonore\": Mathilde Panot appelle à la démission de Laurent Nuñez qui \"permet le pire\" face aux mobilisations des lycéens",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/il-se-deshonore-mathilde-panot-appelle-a-la-demission-de-laurent-nunez-qui-permet-le-pire-face-aux-mobilisations-des-lyceens_AN-202610060566.html",
+     "published_at": "2026-10-06T12:27:34+00:00",
+     "snippet": "La présidente du groupe La France insoumise à l'Assemblée nationale, Mathilde Panot, a appelé à la démission du ministre de l'Intérieur Laurent Nuñez estimant qu'il permettait \"une répression jamais vue\" des forces de l'ordre contre les lycéens."
+    },
+    {
+     "id": "ce91f6e32c8d",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Quand allez-vous rendre des comptes?\": la colère de Laurent Nuñez face aux députés de La France insoumise",
+     "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-quand-allez-vous-rendre-des-comptes-la-colere-de-laurent-nunez-face-aux-deputes-de-la-france-insoumise_VN-202610050921.html",
+     "published_at": "2026-10-05T21:12:24+00:00",
+     "snippet": "Le ministre de l'Intérieur, Laurent Nuñez, s'insurge contre les députés de La France insoumise, ce lundi 5 octobre à l'Assemblée nationale, à propos de la mobilisation lycéenne et de la lutte contre les violences sexuelles."
+    }
+   ]
+  },
+  {
    "headline": "Revue de campagne : primaire PS, lycées, Attal, Ruffin, RN, logement",
    "chapo": "À un peu plus de six mois de la présidentielle, la primaire à gauche se tient les 9 et 10 octobre. Pendant ce temps, la mobilisation lycéenne s'invite dans les discours, le centre et la droite parlent de rassemblement, et une tribune au Monde pointe la quasi-absence du logement dans la campagne.",
    "points": [
@@ -464,7 +568,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.98,
+   "score": 15.29,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -691,7 +795,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.11,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -959,7 +1063,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.69,
+   "score": 12.97,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -1087,7 +1191,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.44,
+   "score": 8.96,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -1225,7 +1329,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.33,
+   "score": 8.84,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -1323,7 +1427,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.98,
+   "score": 4.76,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -1456,7 +1560,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.56,
+   "score": 12.2,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -1731,7 +1835,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.31,
+   "score": 9.01,
    "sources": [
     {
      "id": "3566bb310543",
@@ -1883,7 +1987,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.58,
+   "score": 5.4,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -2000,7 +2104,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.97,
+   "score": 1.91,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -2019,297 +2123,6 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
      "published_at": "2026-10-04T16:48:36+00:00",
      "snippet": "Le texte prévoit de rendre les participants à un attroupement collectivement responsables des dégradations qui y sont commises, dans la limite de 10 000 euros, sans avoir à prouver qu’ils en sont personnellement les auteurs."
-    }
-   ]
-  },
-  {
-   "headline": "Revue de campagne : primaire à gauche, Mélenchon, Le Pen, Philippe, animalistes",
-   "chapo": "À gauche, la primaire PS-Place publique entre dans sa dernière ligne droite, marquée par des propos privés de Raphaël Glucksmann qui ont fuité. Jean-Luc Mélenchon s'engage dans la mobilisation lycéenne, Marine Le Pen présente une « règle d'or » budgétaire, et Édouard Philippe voit sa campagne perturbée par l'actualité. Le Parti animaliste a aussi désigné sa candidate.",
-   "points": [
-    {
-     "text": "Des vidéos privées, diffusées par Le Média selon 20 Minutes et franceinfo, montrent Raphaël Glucksmann (Place publique) tenant des propos virulents sur Jean-Luc Mélenchon et Ségolène Royal. Selon franceinfo, il déclare notamment que Ségolène Royal, son adversaire dans la primaire, a fait « la danse du ventre à Macron ». Mélenchon et Royal ont répliqué à la veille du dernier débat. RFI indique que les intéressés n'ont pas apprécié du tout ces propos, formulés dans des termes qu'elle juge peu délicats.",
-     "sources": [
-      "01b3cb5feb14",
-      "d2cc7e131439",
-      "3f4a268e991c"
-     ]
-    },
-    {
-     "text": "Cinq candidats sont en lice dans la primaire : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Ils ont débattu jeudi soir sur France 2, puis un troisième et dernier débat est prévu dimanche 4 octobre sur BFM TV, en partenariat avec Libération. Selon franceinfo, près de 90 000 votants étaient déjà inscrits à une semaine du premier tour.",
-     "sources": [
-      "c422952b7cd8",
-      "0c2d8050430e",
-      "eb5774930357"
-     ]
-    },
-    {
-     "text": "Le rapport à La France insoumise est un sujet de profonds clivages. Libération juge les candidats « moins unis que jamais » et note que le second débat a « à nouveau » souligné ces divisions. Jérôme Guedj défend une rupture franche avec LFI au profit du « compromis républicain », ainsi qu'une réforme de la Sécurité sociale. Emmanuel Maurel (Gauche républicaine et socialiste) propose de son côté un grand emprunt citoyen pour financer la réindustrialisation et la transition écologique.",
-     "sources": [
-      "ab6f6d9dc0fb",
-      "c422952b7cd8",
-      "d7d6682f86b8",
-      "f49a2dc2b4f7"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon, candidat insoumis, appelle les parents à porter des brassards blancs pour protéger les manifestants lycéens lors de la journée de mobilisation de mardi 6 octobre. Selon lui, quand des adultes « se sont interposés, ça se passe bien ». Le Figaro y voit un retour à sa stratégie de « conflictualisation » après une période où il se voulait plus fédérateur. Selon le quotidien, il assume de mener une campagne « à coups de marteau ».",
-     "sources": [
-      "25f55e002541",
-      "3c6af8d8a977"
-     ]
-    },
-    {
-     "text": "Sur le mouvement lycéen, Philippe Moreau-Chevrolet, enseignant en communication politique à Sciences Po, juge sur France 24 les revendications des lycéens légitimes. Il estime toutefois que la mobilisation est rattrapée par un climat de colère et de défiance, avec des éléments plus violents et des attaques contre les médias. Selon lui, les lycéens sont pris dans un contexte politique tendu à l'approche de la présidentielle.",
-     "sources": [
-      "eb8c0659f19c"
-     ]
-    },
-    {
-     "text": "Marine Le Pen, candidate du RN, propose une « règle d'or » budgétaire. Selon Le Monde, ce projet serait soumis à référendum et viserait à faire revenir progressivement la dette à 60 % du produit intérieur brut, par l'intermédiaire d'un seuil à respecter évoluant chaque année. Le titre du Monde présente cette mesure comme destinée à rassurer les marchés sur son sérieux budgétaire.",
-     "sources": [
-      "915678edbb8e"
-     ]
-    },
-    {
-     "text": "Sur l'affaire Bardella, Le Monde rapporte que Marine Le Pen a réaffirmé sa confiance en Jordan Bardella. C'est sa première réaction depuis les nouveaux éléments publiés par Mediapart pour authentifier des messages antisémites qui lui sont attribués. Jordan Bardella nie toujours en être l'auteur. Selon 20 Minutes, il a choisi, parmi plusieurs possibilités, la procédure la plus longue pour attaquer Mediapart en diffamation.",
-     "sources": [
-      "5d0fd35de79a",
-      "9661ceeaac63",
-      "1e5503f1ed2b"
-     ]
-    },
-    {
-     "text": "La campagne d'Édouard Philippe (Horizons) est décrite comme perturbée par l'actualité. Le Figaro évoque des déplacements écourtés et des prises de parole reportées, alors que sa semaine était centrée sur la retraite à 65 ans et le narcotrafic. L'Express titre sur une campagne « à contretemps ». Côté retraites, RFI estime que le projet reste orienté vers la recherche d'économies, avec des mesures difficiles, au risque de ne pas faire adhérer les Français.",
-     "sources": [
-      "382fca5ed4a0",
-      "2325492edcc2",
-      "388c3e0d152d"
-     ]
-    },
-    {
-     "text": "Le Parti animaliste a annoncé la candidature de Mira Markovic. Elle succède à Hélène Thouy, qui n'avait pas obtenu assez de parrainages pour figurer sur la ligne de départ en 2022.",
-     "sources": [
-      "ca970be87249"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : l'issue de la primaire, dont le premier tour approche selon franceinfo. Libération pose aussi la question de savoir qui pourra concurrencer Mélenchon. Enfin, 20 Minutes s'interroge, dans le titre de son article, sur la possibilité que l'affaire Bardella soit jugée avant la présidentielle.",
-     "sources": [
-      "eb5774930357",
-      "2114b0d608d2",
-      "9661ceeaac63"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 21,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://s.rfi.fr/media/display/925c5866-bc07-11f1-b9ea-11fa9f8a3b4f/w:1024/p:16x9/Jordan-Bardella-pre%CC%81sident-du-Rassemblement-national-parti-d-extre%CC%82me-droite-franc%CC%A7ais-re%CC%81pond-aux-journalistes-a%CC%80-l-issue-d-une-re%CC%81union-le-lundi-6-octobre-2025-a%CC%80-Paris.jpg",
-    "source": "RFI",
-    "article_url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261002-faut-il-croire-mediapart-apr%C3%A8s-ses-r%C3%A9v%C3%A9lations-sur-les-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-jordan-bardella",
-    "article_id": "1e5503f1ed2b",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.02801405325443787
-   },
-   "id": 31,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-04T09:37:58+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.39,
-   "sources": [
-    {
-     "id": "01b3cb5feb14",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Des propos privés de Raphaël Glucksmann font vivement réagir Mélenchon et Royal",
-     "url": "https://www.20minutes.fr/politique/4251044-20261003-presidentielle-2027-propos-prives-raphael-glucksmann-font-vivement-reagir-melenchon-royal?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-03T19:15:20+00:00",
-     "snippet": "Des vidéos privées diffusées par Le Média montrent Raphaël Glucksmann tenant des propos virulents envers Jean-Luc Mélenchon et Ségolène Royal. À la veille du dernier débat de la primaire à gauche, les deux cibles ont répliqué"
-    },
-    {
-     "id": "0c2d8050430e",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire socialiste et sociale-démocrate : le débat sur la refondation de la gauche s’invite dans la campagne",
-     "url": "https://www.liberation.fr/politique/primaire-socialiste-et-sociale-democrate-le-debat-sur-la-refondation-de-la-gauche-sinvite-dans-la-campagne-20261002_7VHE77FRNFAYPLQ6OP4NJYC74U/",
-     "published_at": "2026-10-02T19:06:20+00:00",
-     "snippet": "Le troisième et dernier débat télévisé avant la primaire est attendu dimanche 4 octobre lors d’une émission spéciale sur BFM TV, en partenariat avec «Libération». Au-delà de l’enjeu présidentiel, les candidats divergent sur la manière de refonder le camp socialiste et sur ses alliances."
-    },
-    {
-     "id": "1e5503f1ed2b",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Faut-il croire Mediapart après ses révélations sur les propos antisémites attribués à Jordan Bardella?",
-     "url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261002-faut-il-croire-mediapart-apr%C3%A8s-ses-r%C3%A9v%C3%A9lations-sur-les-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-jordan-bardella",
-     "published_at": "2026-10-02T22:02:22+00:00",
-     "snippet": "Ce sont des informations fracassantes qui bousculent le début de campagne, à quelques mois de la présidentielle en France. Le journal en ligne Mediapart a été, cette semaine, au centre de révélations sur le passé antisémite de Jordan Bardella. Pourtant, le président du Rassemblement national nie les propos qui lui sont attribués."
-    },
-    {
-     "id": "2114b0d608d2",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Dernier débat pour la primaire socialiste : quelle vie en rose ?",
-     "url": "https://www.liberation.fr/idees-et-debats/editorial/dernier-debat-pour-la-primaire-socialiste-quelle-vie-en-rose-20261002_PDXTOL4ZVRCCHGDLPZ54EFW2PE/",
-     "published_at": "2026-10-02T18:47:36+00:00",
-     "snippet": "Les cinq candidats à l’investiture pour la présidentielle se retrouvent dimanche soir sur BFM, en partenariat avec «Libé». Avec une question, derrière les propositions et les divisions : qui pourra concurrencer Mélenchon ?"
-    },
-    {
-     "id": "2325492edcc2",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Edouard Philippe, la campagne à contretemps",
-     "url": "https://www.lexpress.fr/politique/presidentielle-2027-edouard-philippe-la-campagne-a-contretemps-2EODHZM5NBDUXMXF5OFAAL3KVQ/",
-     "published_at": "2026-10-03T10:29:25+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "25f55e002541",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Jean-Luc Mélenchon appelle les parents à porter des brassards blancs pour protéger les manifestants lycéens",
-     "url": "https://www.liberation.fr/politique/jean-luc-melenchon-appelle-les-parents-a-porter-des-brassards-blancs-pour-proteger-les-manifestants-lyceens-20261003_C4ZDXRRYNBFG5PHPAXRTBOAIME/",
-     "published_at": "2026-10-03T17:58:35+00:00",
-     "snippet": "Le candidat insoumis à la présidentielle a lancé cet appel en vue de la journée de mobilisation lycéenne prévue mardi 6 octobre, estimant que lorsque des adultes «se sont interposés, ça se passe bien»."
-    },
-    {
-     "id": "382fca5ed4a0",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Édouard Philippe, une campagne sans cesse bousculée par l’actualité",
-     "url": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-une-campagne-sans-cesse-bousculee-par-l-actualite-20261002",
-     "published_at": "2026-10-02T16:10:52+00:00",
-     "snippet": "REPORTAGE - Déplacements écourtés, prises de parole reportées… Le candidat d’Horizons, qui a axé cette semaine sa campagne sur la retraite à 65 ans et la lutte contre le narcotrafic, fait face à la difficulté de tenir un agenda mis à mal par les crises."
-    },
-    {
-     "id": "388c3e0d152d",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Édouard Philippe essaie de ne pas buter sur les retraites",
-     "url": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261003-%C3%A9douard-philippe-essaie-de-ne-pas-buter-sur-les-retraites",
-     "published_at": "2026-10-03T06:50:46+00:00",
-     "snippet": "Édouard Philippe a enfin présenté cette semaine son projet de réforme des retraites. Le candidat Horizons à la présidentielle était très attendu sur cette question sensible depuis qu'il avait évoqué la possibilité de fixer l'âge de départ à 67 ans. Finalement, il place la barre à 65 ans mais sa réforme reste orientée vers la recherche d'économies avec des mesures difficiles, au risque de ne pas faire adhérer les Français."
-    },
-    {
-     "id": "3c6af8d8a977",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Jean-Luc Mélenchon cherche à attiser la fureur lycéenne",
-     "url": "https://www.lefigaro.fr/politique/presidentielle-2027-jean-luc-melenchon-cherche-a-attiser-la-fureur-lyceenne-20261002",
-     "published_at": "2026-10-03T06:18:21+00:00",
-     "snippet": "DÉCRYPTAGE - Le quadruple candidat, jusque-là soucieux de se montrer plus fédérateur, renoue avec sa stratégie de conflictualisation et assume de mener une campagne « à coups de marteau »."
-    },
-    {
-     "id": "3f4a268e991c",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Primaire à gauche: les propos embarrassants de Glucksmann à l'encontre de Royal et Mélenchon",
-     "url": "https://www.rfi.fr/fr/france/20261003-primaire-%C3%A0-gauche-les-propos-g%C3%AAnants-et-peu-d%C3%A9licats-de-glucksmann-%C3%A0-l-encore-de-royal-et-m%C3%A9lenchon",
-     "published_at": "2026-10-03T21:28:18+00:00",
-     "snippet": "Dans une vidéo qui circule sur les réseaux sociaux, on entend le candidat Place publique Raphaël Glucksmann s’en prendre à Ségolène Royal et Jean-Luc Mélenchon dans des termes peu délicats que les intéressés n’ont pas appréciés du tout."
-    },
-    {
-     "id": "5d0fd35de79a",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html",
-     "published_at": "2026-10-03T19:41:57+00:00",
-     "snippet": "La candidate du RN à la présidentielle réagit pour la première fois depuis la publication par « Mediapart » de nouveaux éléments visant à authentifier les messages antisémites attribués à Jordan Bardella, qui nie toujours en être l’auteur."
-    },
-    {
-     "id": "915678edbb8e",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Marine Le Pen propose une « règle d’or » pour rassurer les marchés sur son sérieux budgétaire",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/marine-le-pen-propose-une-regle-d-or-sophistiquee-pour-rassurer-les-marches-sur-son-serieux-budgetaire_6787178_823448.html",
-     "published_at": "2026-10-02T15:18:38+00:00",
-     "snippet": "Le projet de la candidate du RN à la présidentielle, qui serait soumis à référendum, viserait à faire revenir progressivement la dette à 60 % du produit intérieur brut, par l’intermédiaire d’un seuil à respecter évoluant chaque année."
-    },
-    {
-     "id": "9661ceeaac63",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Bardella accusé d’antisémitisme : L’affaire pourrait-elle être jugée avant la présidentielle ?",
-     "url": "https://www.20minutes.fr/politique/4250740-20261002-bardella-accuse-antisemitisme-affaire-pourrait-etre-jugee-avant-presidentielle?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-02T15:59:42+00:00",
-     "snippet": "Parmi plusieurs possibilités, Jordan Bardella a choisi la procédure la plus longue pour attaquer Mediapart en diffamation après l’enquête du média lui attribuant des propos antisémites"
-    },
-    {
-     "id": "ab6f6d9dc0fb",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : des candidats irréconciliables… et ce n’est peut-être pas un drame",
-     "url": "https://www.liberation.fr/politique/primaire-sociale-democrate-des-candidats-irreconciliables-et-ce-nest-peut-etre-pas-un-drame-20261002_42GMG5FUDJFRNCXBX7WPTLJ5UY/",
-     "published_at": "2026-10-02T08:24:53+00:00",
-     "snippet": "Le second débat des candidats, jeudi, a à nouveau souligné les profonds clivages autour du rapport à LFI. Si ce scrutin interne peine encore à emballer, on peut au moins se réjouir de voir le sujet clairement sur la table, et les électeurs appelés à le trancher."
-    },
-    {
-     "id": "c422952b7cd8",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Revivez le deuxième débat de la primaire de gauche : des candidats moins unis que jamais",
-     "url": "https://www.liberation.fr/politique/elections/en-direct-primaire-de-la-gauche-sociale-democrate-suivez-le-deuxieme-debat-sur-liberationfr-20261001_WRIVWX3CDFBJXBZVMUK46FXJ7A/",
-     "published_at": "2026-10-01T21:17:03+00:00",
-     "snippet": "Une semaine après le premier, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se sont retrouvés pour un deuxième débat sur France 2."
-    },
-    {
-     "id": "ca970be87249",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : le Parti animaliste annonce la candidature de Mira Markovic",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/presidentielle-2027-le-parti-animaliste-annonce-la-candidature-de-mira-markovic_6787208_823448.html",
-     "published_at": "2026-10-02T17:27:40+00:00",
-     "snippet": "Mira Markovic succède à Hélène Thouy, qui n’avait pas obtenu assez de parrainages pour être sur la ligne de départ en 2022."
-    },
-    {
-     "id": "d2cc7e131439",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Jean-Luc Mélenchon et Ségolène Royal s'insurgent des propos de Raphaël Glucksmann tenus dans une conversation diffusée par \"Le Media\"",
-     "url": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-03T17:11:34+00:00",
-     "snippet": "Dans ces échanges destinés à rester privés, Raphaël Glucksmann, déclare notamment que Ségolène Royal, son adversaire pour la primaire socialiste, a fait \"la danse du ventre à Macron\"."
-    },
-    {
-     "id": "d7d6682f86b8",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Jérôme Guedj, candidat à la primaire sociale-démocrate : «Le PS crève de ses ambiguïtés»",
-     "url": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/",
-     "published_at": "2026-10-03T03:30:00+00:00",
-     "snippet": "Candidat à la primaire socialiste et sociale-démocrate, le député de l’Essonne défend une rupture franche avec La France insoumise au profit du «compromis républicain» et une réforme de la Sécurité sociale."
-    },
-    {
-     "id": "eb5774930357",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Votants, dates… Les chiffres de la primaire PS-Place publique une semaine avant le premier tour",
-     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/votants-dates-les-chiffres-de-la-primaire-ps-place-publique-une-semaine-avant-le-premier-tour_8220427.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T20:49:39+00:00",
-     "snippet": "Qui représentera la gauche sociale-démocrate lors de l'élection présidentielle ? Les cinq candidats ont débattu jeudi soir sur France 2. À une semaine du premier tour, près de 90 000 votants sont déjà inscrits. Retour sur les dessous du scrutin."
-    },
-    {
-     "id": "eb8c0659f19c",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Lycées bloqués : quand la colère étudiante change de nature",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-lyc%C3%A9es-bloqu%C3%A9s-quand-la-col%C3%A8re-%C3%A9tudiante-change-de-nature",
-     "published_at": "2026-10-02T13:45:52+00:00",
-     "snippet": "Le mouvement lycéen se poursuit depuis plusieurs jours, avec des blocages dans plusieurs établissements en France. Pour Philippe Moreau-Chevrolet, professeur de communication politique à Sciences Po et invité de France 24, les revendications des lycéens sont légitimes, mais la mobilisation est désormais rattrapée par un climat de colère et de défiance, avec des éléments plus violents et des attaques contre les médias. Selon lui, les lycéens se retrouvent ainsi pris dans un contexte politique tendu, à l’approche de la présidentielle."
-    },
-    {
-     "id": "f49a2dc2b4f7",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Emmanuel Maurel, candidat à la primaire sociale-démocrate : «Mon pari, c’est que cette primaire va marcher»",
-     "url": "https://www.liberation.fr/politique/emmanuel-maurel-candidat-a-la-primaire-sociale-democrate-mon-pari-cest-que-cette-primaire-va-marcher-20261003_L2JY4YJROREMVFSI7HIG2MFPVU/",
-     "published_at": "2026-10-03T04:05:00+00:00",
-     "snippet": "En lice sous la bannière de son parti Gauche républicaine et socialiste, le député du Val-d’Oise propose un grand emprunt citoyen pour financer la réindustrialisation et la transition écologique."
     }
    ]
   },
@@ -2389,7 +2202,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.46,
+   "score": 5.33,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2466,99 +2279,6 @@
    ]
   },
   {
-   "headline": "Budget 2027 : le PS demande à Lecornu de revoir son projet « sans délai »",
-   "chapo": "Des responsables du Parti socialiste ont écrit vendredi 2 octobre au Premier ministre Sébastien Lecornu. Ils lui demandent de modifier « sans délai » son projet de budget 2027. Ils dénoncent un manque d'« efforts de justice fiscale » et évoquent la censure.",
-   "points": [
-    {
-     "text": "Le courrier a été envoyé vendredi 2 octobre au Premier ministre. Libération indique qu'il est signé par trois responsables du PS, dont Boris Vallaud et Johanna Rolland. Le Monde et 20 Minutes parlent de « cadres » du parti.",
-     "sources": [
-      "1918da96bbbc",
-      "1fff38873175",
-      "29a32ab818aa"
-     ]
-    },
-    {
-     "text": "Selon Le Monde et 20 Minutes, les socialistes dénoncent un manque d'« efforts de justice fiscale » et demandent à Sébastien Lecornu de revoir sa copie.",
-     "sources": [
-      "29a32ab818aa",
-      "1fff38873175",
-      "1918da96bbbc"
-     ]
-    },
-    {
-     "text": "Les signataires veulent que le texte change « sans délai », donc possiblement avant son arrivée dans l'hémicycle. Selon Le Monde, son examen au Parlement doit commencer à partir du 13 octobre. Le PS présente cette modification comme un moyen de montrer la « volonté de compromis » du Premier ministre.",
-     "sources": [
-      "1fff38873175",
-      "29a32ab818aa"
-     ]
-    },
-    {
-     "text": "Libération relève que les socialistes brandissent la menace d'une censure, « comme pour les budgets 2025 et 2026 ». Pour 20 Minutes, cette révision du texte est la condition pour que le gouvernement puisse se passer du 49.3 ou éviter la censure.",
-     "sources": [
-      "1918da96bbbc",
-      "29a32ab818aa"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : les extraits ne disent pas si Sébastien Lecornu répondra à ce courrier ni s'il modifiera son texte avant le début de l'examen, à partir du 13 octobre. Ils ne précisent pas non plus quelles mesures de justice fiscale le PS réclame.",
-     "sources": [
-      "1fff38873175",
-      "29a32ab818aa",
-      "1918da96bbbc"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/02/476/0/8000/4000/644/322/60/0/44348f2_upload-1-qnmcgpqka62i-jmug261001066.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/02/budget-2027-le-ps-appelle-sebastien-lecornu-a-modifier-sans-delai-son-projet-pour-montrer-sa-volonte-de-compromis_6787159_823448.html",
-    "article_id": "1fff38873175",
-    "focus_x": 0.5848588648334619,
-    "focus_y": 0.11976255253481934
-   },
-   "id": 30,
-   "section": "institutions",
-   "reviewed_at": "2026-10-04T09:36:17+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.28,
-   "sources": [
-    {
-     "id": "1918da96bbbc",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Le Parti socialiste appelle Lecornu à modifier «sans délai» son projet de budget",
-     "url": "https://www.liberation.fr/politique/le-parti-socialiste-appelle-lecornu-a-modifier-sans-delai-son-projet-de-budget-20261002_HDN7TGXD2ZCSJOCVW7UWJQZ2SA/",
-     "published_at": "2026-10-02T14:40:21+00:00",
-     "snippet": "Brandissant la censure, comme pour les budgets 2025 et 2026, trois responsables du parti de gauche dont Boris Vallaud et Johanna Rolland, ont écrit ce vendredi 2 octobre au Premier ministre pour lui réclamer de revoir sa copie."
-    },
-    {
-     "id": "1fff38873175",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : le PS appelle Sébastien Lecornu à modifier « sans délai » son projet pour montrer sa « volonté de compromis »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/budget-2027-le-ps-appelle-sebastien-lecornu-a-modifier-sans-delai-son-projet-pour-montrer-sa-volonte-de-compromis_6787159_823448.html",
-     "published_at": "2026-10-02T14:24:44+00:00",
-     "snippet": "Dénonçant un manque d’« efforts de justice fiscale », les cadres du parti invitent le premier ministre à revoir son texte, avant le début de son examen au Parlement, à partir du 13 octobre."
-    },
-    {
-     "id": "29a32ab818aa",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Budget 2027 : Le PS appelle Lecornu à revoir sa copie « sans délais » s’il veut se passer du 49.3 (ou éviter la censure)",
-     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4250818-20261002-budget-2027-ps-appelle-lecornu-revoir-copie-delais-veut-passer-49-3-eviter-censure?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-02T14:57:06+00:00",
-     "snippet": "Dénonçant un manque d'« efforts de justice fiscale », plusieurs cadres socialistes ont appelé dans un courrier à modifier « sans délai » le texte, possiblement avant l’arrivée dans l’hémicycle"
-    }
-   ]
-  },
-  {
    "headline": "Fonctionnaires : hausse du minimum de traitement, les syndicats parlent de « mesurettes »",
    "chapo": "Trois jours après les grandes manifestations, le gouvernement propose de relever l'indice minimum des fonctionnaires. Les syndicats jugent ces mesures insuffisantes, alors que la valeur du point d'indice reste gelée en 2027.",
    "points": [
@@ -2602,7 +2322,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.91,
+   "score": 1.86,
    "sources": [
     {
      "id": "1ecdf9948b9f",
