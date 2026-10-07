@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:06:20+00:00",
+ "generated_at": "2026-10-07T16:06:54+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.58,
+   "score": 19.57,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -237,115 +237,6 @@
      "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
      "published_at": "2026-10-06T17:55:24+00:00",
      "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
-    }
-   ]
-  },
-  {
-   "headline": "Ruffin et Villepin réclament ensemble la fin de Parcoursup et le vote à 16 ans",
-   "chapo": "Lundi 5 octobre, François Ruffin et Dominique de Villepin se sont affichés ensemble avec des lycéens, à la veille de l'« acte III » de la mobilisation. Ils demandent la fin de Parcoursup, le droit de vote dès 16 ans, un budget de l'Éducation nationale sanctuarisé et l'arrêt des LBD et des grenades de désencerclement contre les lycéens.",
-   "points": [
-    {
-     "text": "Les deux responsables politiques ont formé un tandem dans une brasserie parisienne, avec plusieurs lycéens et des représentants d'organisations de jeunesse. François Ruffin est candidat déclaré à la présidentielle ; Dominique de Villepin souhaite l'être.",
-     "sources": [
-      "ca1f1b5c6620",
-      "fde0e09892c4"
-     ]
-    },
-    {
-     "text": "Ils dénoncent la politique de maintien de l'ordre du gouvernement, alors qu'un jeune de 15 ans a eu la main arrachée par une grenade policière à Lens lundi. Villepin demande qu'elle prenne en compte la situation particulière d'un mouvement lycéen et fustige les « politiques de nasse » et les charges des forces de l'ordre. Les deux demandent la fin des LBD et des grenades de désencerclement lors des mouvements de lycéens.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Pour Ruffin, « il faut une réponse politique », pas policière. Il veut que la part du budget de l'Éducation nationale dans le budget de l'État soit sanctuarisée, même si le nombre d'élèves diminue, et un plan de rénovation d'urgence des bâtiments scolaires. Il s'indigne de l'état des salles de classe, une revendication qu'il dit avoir entendue à de nombreuses reprises ces derniers jours.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Ils plaident aussi pour le droit de vote dès 16 ans et la suppression de Parcoursup. « L'avenir ne peut pas être géré par un algorithme », explique Ruffin, qui veut mettre l'accent sur l'accompagnement de l'enseignement professionnel.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Ruffin assume leurs différences : « Le rassemblement doit primer sur le déchirement ». Villepin juge de son côté que la jeunesse est au-dessus de tout ce qui peut les diviser.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Le même jour, Ruffin confirme dans une interview à l'Humanité son rapprochement avec Villepin et appelle à un rassemblement élargi face à l'extrême droite ; Libération titre sur sa volonté de passer du Front populaire au CNR. Sur BFMTV, il dit : « Nous avons poursuivi nos discussions ».",
-     "sources": [
-      "ee3cb8e010c9",
-      "573133300860"
-     ]
-    },
-    {
-     "text": "La forme de ce rapprochement n'est pas précisée : alliance, soutien ou candidature commune. Villepin n'est pas candidat déclaré.",
-     "sources": [
-      "ca1f1b5c6620",
-      "ee3cb8e010c9"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/d19jRfSgSwO8t8oompoCCSk/1200x768_francois-ruffin-et-dominique-de-villepin-derouda-2026-09-02-debateruffinvillepin-076-credit-franck-derouda-sipa-2609022342",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
-    "article_id": "ca1f1b5c6620",
-    "focus_x": 0.5266666666666666,
-    "focus_y": 0.022298177083333332
-   },
-   "id": 61,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-07T16:06:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 10.0,
-   "sources": [
-    {
-     "id": "573133300860",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Nous avons poursuivi nos discussions\", confie François Ruffin à propos de son rapprochement avec Dominique de Villepin",
-     "url": "https://www.bfmtv.com/politique/video-nous-avons-poursuivi-nos-discussions-confie-francois-ruffin-a-propos-de-son-rapprochement-avec-dominique-de-villepin_VN-202610050855.html",
-     "published_at": "2026-10-05T18:46:39+00:00",
-     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
-    },
-    {
-     "id": "ca1f1b5c6620",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Colère des lycéens : Villepin et Ruffin vent debout ensemble contre Parcoursup",
-     "url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T03:58:06+00:00",
-     "snippet": "Dominique de Villepin et François Ruffin se sont une nouvelle fois affichés ensemble pour demander un budget de l’Education nationale sanctuarisé, le droit de vote à 16 ans et la fin de Parcoursup"
-    },
-    {
-     "id": "ee3cb8e010c9",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
-     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
-     "published_at": "2026-10-05T16:09:37+00:00",
-     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
-    },
-    {
-     "id": "fde0e09892c4",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Blocage des lycées: \"Il ne devrait pas y avoir de charges, il ne devrait pas y avoir de présence massive de la police\", affirme Dominique de Villepin",
-     "url": "https://www.bfmtv.com/politique/video-blocage-des-lycees-il-ne-devrait-pas-y-avoir-de-charges-il-ne-devrait-pas-y-avoir-de-presence-massive-de-la-police-affirme-dominique-de-villepin_VN-202610050852.html",
-     "published_at": "2026-10-05T18:44:30+00:00",
-     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
     }
    ]
   },
@@ -470,6 +361,220 @@
      "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
      "published_at": "2026-10-05T08:49:58+00:00",
      "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
+    }
+   ]
+  },
+  {
+   "headline": "Inceste : les députés créent une infraction spécifique et l'étendent aux cousins germains",
+   "chapo": "Mardi 6 octobre, les députés ont voté à l'unanimité la création d'une infraction d'inceste dans le Code pénal. Ils ont aussi élargi sa définition aux cousins germains. Ces mesures font partie de la loi « intégrale » contre les violences sexistes et sexuelles, dont le vote solennel est prévu le 13 octobre.",
+   "points": [
+    {
+     "text": "L'inceste aura son propre paragraphe dans le Code pénal, avec des dispositions et des peines propres. Jusqu'ici, il était surtout pris en compte comme circonstance aggravante du viol, depuis une réforme de 2021. Le vote a été unanime.",
+     "sources": [
+      "747af744f050",
+      "3ae89168e264"
+     ]
+    },
+    {
+     "text": "La définition s'élargit aux cousins germains. La députée socialiste Florence Herouin-Léautey cite des chiffres : le cousin est identifié comme auteur des violences dans 13 % des cas chez les victimes féminines et 16 % chez les victimes masculines. Elle rappelle que sept millions de Français auraient été victimes d'inceste au cours de leur vie.",
+     "sources": [
+      "747af744f050",
+      "3ae89168e264"
+     ]
+    },
+    {
+     "text": "Le RN a défendu la création de l'infraction : Gabriel Tomatis y voit « une attente forte des victimes ». Son groupe proposait la réclusion à perpétuité pour le viol incestueux ; l'amendement n'a pas été adopté. L'écologiste Sandrine Rousseau s'y est opposée : de telles peines pourraient « avoir l'effet inverse et empêcher la parole » des victimes.",
+     "sources": [
+      "747af744f050"
+     ]
+    },
+    {
+     "text": "La loi « intégrale » compte plus de 70 articles et vise toute la chaîne : prévention, accompagnement des victimes, sanction des auteurs. Elle est discutée dans l'hémicycle depuis jeudi. Le Parisien en détaille d'autres mesures dans son titre : un entretien à l'école pour détecter les violences dès 2032, et l'interdiction du mariage entre cousins.",
+     "sources": [
+      "521e9cfda091",
+      "747af744f050",
+      "944aa3fb1cd0"
+     ]
+    },
+    {
+     "text": "Le vote solennel sur l'ensemble du texte a lieu le 13 octobre. Ce jour-là, un collectif d'associations et d'institutions, dont la Fondation des Femmes et la mairie de Paris, appelle les femmes à « suspendre leurs activités professionnelles et domestiques ». Minute de silence à 13 h, rassemblement à Paris place de la Bastille dès 11 h 30, et rassemblements annoncés dans treize villes dont Nice, Bordeaux, Lyon, Rennes et Marseille.",
+     "sources": [
+      "521e9cfda091"
+     ]
+    },
+    {
+     "text": "Les peines de la nouvelle infraction ne sont pas encore connues : seul le principe de peines propres est voté. Le texte entier doit encore être adopté le 13 octobre.",
+     "sources": [
+      "747af744f050",
+      "521e9cfda091"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.20mn.fr/cKy40ecwSKuswduCCngwPSk/1200x768_des-personnes-participent-a-un-rassemblement-devant-la-cite-judiciaire-de-rennes-dans-l-ouest-de-la-france-le-8-juin-2026-apres-la-mort-de-lyhanna-une-collegienne-de-11-ans-retrouvee-morte-le-4-juin-dans-le-gers-apres-avoir-ete-signalee-disparue-le-29-mai-plusieurs-organisations-et-citoyens-se-sont-reunis-pour-rendre-hommage-a-l-enfant-et-denoncer-les-violences-faites-aux-mineurs-une-femme-montre-a-un-enfant-des-pancartes-deposees-au-sol-devant-la-cite-judiciaire-de-rennes-lors-du-rassemblement-en-hommage-a-lyhanna-plusieurs-inscriptions-sont-visibles-dont-l-inceste-tue-etat-francais-coupable-complice-et-il-peut-y-avoir-des-enfants-consentants-people-attend-a-rally-outside-the-rennes-courthouse-western-france-on-june-8-2026-following-the-death-of-lyhanna-an-11-year-old-schoolgirl-whose-body-was-found-on-june-4-in-southwestern-france-after-she-was-reported-missing-on-may-29-citizens-and-advocacy-groups-gathered-to-pay-tribute-to-the-child-and-denounce-violence-against-minors-a-woman-shows-a-child-placards-laid-on-the-ground-outside-the-rennes-courthouse-during-the-tribute-rally-for-lyhanna-several-messages-can-be-seen-including-incest-kills-french-state-guilty-and-complicit-and-there-can-be-consenting-children-picaudjustin-7x6a7510-credit-justin-picaud-sipa-2606082147",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251973-20261006-inceste-deputes-votent-elargir-definition-cousins-germains?at_medium=display&at_campaign=149",
+    "article_id": "747af744f050",
+    "focus_x": 0.45666666666666667,
+    "focus_y": 0.07389322916666667
+   },
+   "id": 57,
+   "section": "institutions",
+   "reviewed_at": "2026-10-07T16:06:54+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "3ae89168e264",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Inceste : les députés votent pour créer une infraction spécifique et élargir sa définition aux cousins",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/inceste-les-deputes-votent-pour-creer-une-infraction-specifique-et-elargir-sa-definition-aux-cousins_6789127_823448.html",
+     "published_at": "2026-10-06T19:29:08+00:00",
+     "snippet": "Adoptée dans le cadre de la loi « intégrale » contre les violences sexistes et sexuelles, la mesure étend aussi la définition de l’inceste aux cousins germains, alors que 7 millions de Français en auraient été victimes."
+    },
+    {
+     "id": "521e9cfda091",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Les femmes appelées à \"suspendre leurs activités\" le 13 octobre, jour du vote solennel à l'Assemblée sur la loi intégrale",
+     "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-femmes-appelees-a-suspendre-leurs-activites-le-13-octobre-jour-du-vote-solennel-a-l-assemblee-sur-la-loi-integrale_8226208.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-07T04:27:26+00:00",
+     "snippet": "L'objectif de cette loi intégrale est de transformer la façon dont ce sujet est traité. Prévention, accompagnement des victimes, sanction des auteurs… Le texte entend s'attaquer à l'ensemble de la chaîne des violences."
+    },
+    {
+     "id": "747af744f050",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Inceste : Les députés votent pour élargir sa définition aux cousins germains",
+     "url": "https://www.20minutes.fr/politique/4251973-20261006-inceste-deputes-votent-elargir-definition-cousins-germains?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T19:01:19+00:00",
+     "snippet": "Les députés ont voté mardi l’élargissement de la définition de l’inceste aux cousins germains, ainsi que la création d’une infraction spécifique dans le Code pénal"
+    },
+    {
+     "id": "944aa3fb1cd0",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Entretien à l’école pour détecter les violences… dès 2032, mariage interdit entre cousins : la loi « intégrale » se précise",
+     "url": "https://www.leparisien.fr/societe/entretien-a-lecole-pour-detecter-les-violences-en-2032-mariage-interdit-entre-cousins-la-loi-integrale-se-precise-07-10-2026-X6YNOZVTYVBQBFVQCXQXIDS4WA.php",
+     "published_at": "2026-10-07T08:02:45+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Ruffin et Villepin réclament ensemble la fin de Parcoursup et le vote à 16 ans",
+   "chapo": "Lundi 5 octobre, François Ruffin et Dominique de Villepin se sont affichés ensemble avec des lycéens, à la veille de l'« acte III » de la mobilisation. Ils demandent la fin de Parcoursup, le droit de vote dès 16 ans, un budget de l'Éducation nationale sanctuarisé et l'arrêt des LBD et des grenades de désencerclement contre les lycéens.",
+   "points": [
+    {
+     "text": "Les deux responsables politiques ont formé un tandem dans une brasserie parisienne, avec plusieurs lycéens et des représentants d'organisations de jeunesse. François Ruffin est candidat déclaré à la présidentielle ; Dominique de Villepin souhaite l'être.",
+     "sources": [
+      "ca1f1b5c6620",
+      "fde0e09892c4"
+     ]
+    },
+    {
+     "text": "Ils dénoncent la politique de maintien de l'ordre du gouvernement, alors qu'un jeune de 15 ans a eu la main arrachée par une grenade policière à Lens lundi. Villepin demande qu'elle prenne en compte la situation particulière d'un mouvement lycéen et fustige les « politiques de nasse » et les charges des forces de l'ordre. Les deux demandent la fin des LBD et des grenades de désencerclement lors des mouvements de lycéens.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Pour Ruffin, « il faut une réponse politique », pas policière. Il veut que la part du budget de l'Éducation nationale dans le budget de l'État soit sanctuarisée, même si le nombre d'élèves diminue, et un plan de rénovation d'urgence des bâtiments scolaires. Il s'indigne de l'état des salles de classe, une revendication qu'il dit avoir entendue à de nombreuses reprises ces derniers jours.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Ils plaident aussi pour le droit de vote dès 16 ans et la suppression de Parcoursup. « L'avenir ne peut pas être géré par un algorithme », explique Ruffin, qui veut mettre l'accent sur l'accompagnement de l'enseignement professionnel.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Ruffin assume leurs différences : « Le rassemblement doit primer sur le déchirement ». Villepin juge de son côté que la jeunesse est au-dessus de tout ce qui peut les diviser.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Le même jour, Ruffin confirme dans une interview à l'Humanité son rapprochement avec Villepin et appelle à un rassemblement élargi face à l'extrême droite ; Libération titre sur sa volonté de passer du Front populaire au CNR. Sur BFMTV, il dit : « Nous avons poursuivi nos discussions ».",
+     "sources": [
+      "ee3cb8e010c9",
+      "573133300860"
+     ]
+    },
+    {
+     "text": "La forme de ce rapprochement n'est pas précisée : alliance, soutien ou candidature commune. Villepin n'est pas candidat déclaré.",
+     "sources": [
+      "ca1f1b5c6620",
+      "ee3cb8e010c9"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/d19jRfSgSwO8t8oompoCCSk/1200x768_francois-ruffin-et-dominique-de-villepin-derouda-2026-09-02-debateruffinvillepin-076-credit-franck-derouda-sipa-2609022342",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
+    "article_id": "ca1f1b5c6620",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.022298177083333332
+   },
+   "id": 61,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-07T16:06:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.0,
+   "sources": [
+    {
+     "id": "573133300860",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Nous avons poursuivi nos discussions\", confie François Ruffin à propos de son rapprochement avec Dominique de Villepin",
+     "url": "https://www.bfmtv.com/politique/video-nous-avons-poursuivi-nos-discussions-confie-francois-ruffin-a-propos-de-son-rapprochement-avec-dominique-de-villepin_VN-202610050855.html",
+     "published_at": "2026-10-05T18:46:39+00:00",
+     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
+    },
+    {
+     "id": "ca1f1b5c6620",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Colère des lycéens : Villepin et Ruffin vent debout ensemble contre Parcoursup",
+     "url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T03:58:06+00:00",
+     "snippet": "Dominique de Villepin et François Ruffin se sont une nouvelle fois affichés ensemble pour demander un budget de l’Education nationale sanctuarisé, le droit de vote à 16 ans et la fin de Parcoursup"
+    },
+    {
+     "id": "ee3cb8e010c9",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
+     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
+     "published_at": "2026-10-05T16:09:37+00:00",
+     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
+    },
+    {
+     "id": "fde0e09892c4",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Blocage des lycées: \"Il ne devrait pas y avoir de charges, il ne devrait pas y avoir de présence massive de la police\", affirme Dominique de Villepin",
+     "url": "https://www.bfmtv.com/politique/video-blocage-des-lycees-il-ne-devrait-pas-y-avoir-de-charges-il-ne-devrait-pas-y-avoir-de-presence-massive-de-la-police-affirme-dominique-de-villepin_VN-202610050852.html",
+     "published_at": "2026-10-05T18:44:30+00:00",
+     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
     }
    ]
   },
