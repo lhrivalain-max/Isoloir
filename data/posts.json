@@ -1,6 +1,388 @@
 {
- "generated_at": "2026-10-07T08:01:32+00:00",
+ "generated_at": "2026-10-07T08:14:09+00:00",
  "posts": [
+  {
+   "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
+   "chapo": "Marine Le Pen et Jordan Bardella ont présenté mardi 6 octobre le contre-budget du RN, censé s'appliquer en cas de victoire à la présidentielle. Les médias avancent 125 milliards d'euros d'économies sur cinq ans, ou 140 milliards nets d'ici 2032. La conférence de presse s'est terminée sur des questions autour des écrits antisémites attribués à Jordan Bardella.",
+   "points": [
+    {
+     "text": "La présentation a eu lieu mardi 6 octobre lors d'une conférence de presse des deux dirigeants du RN, depuis le Palais-Bourbon. Le budget présenté est celui que Marine Le Pen défendrait si elle accédait à l'Élysée, en mai prochain selon Le Figaro.",
+     "sources": [
+      "7a320e0366e2",
+      "b25b93a18747",
+      "b9bb0603a91b",
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "Les chiffres diffèrent selon les médias. CNews et Libération annoncent un plan de 125 milliards d'euros d'économies, que CNews décrit comme une trajectoire sur cinq ans. BFMTV titre sur « 140 milliards d'euros nets d'économies » d'ici 2032 promis par Marine Le Pen. Les extraits ne permettent pas d'expliquer l'écart entre ces deux montants.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4",
+      "7a320e0366e2"
+     ]
+    },
+    {
+     "text": "Le Figaro indique que le plan touche notamment aux retraites, à la réforme de l'État et à l'immigration, sous le titre « la renaissance de la France », et précise que Marine Le Pen a détaillé plusieurs mesures économiques. Le Parisien évoque dans son titre des économies, des impôts et la retraite, ainsi que son projet budgétaire pour 2027.",
+     "sources": [
+      "b9bb0603a91b",
+      "dc1c9791fe02"
+     ]
+    },
+    {
+     "text": "Cette présentation tombe le jour où le projet de loi de finances et celui de financement de la Sécurité sociale doivent être présentés en commission à l'Assemblée. Dimanche, le député Jean-Philippe Tanguy était invité sur CNews.",
+     "sources": [
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "CNews et Libération décrivent un parti en quête de crédibilité sur l'économie. Libération ajoute que le RN a été ébranlé par les écrits antisémites attribués à Jordan Bardella et espère convaincre de son sérieux avec ce plan.",
+     "sources": [
+      "a1c54071d453",
+      "4e841ee21bf4"
+     ]
+    },
+    {
+     "text": "La conférence de presse s'est terminée sur des questions au sujet des révélations de Mediapart. Jordan Bardella a contesté de nouveau « formellement » les éléments d'authentification publiés par le site. Il a rejeté vivement des accusations lui attribuant des messages antisémites datant de 2013. franceinfo notait avant l'événement que la conférence risquait d'être rattrapée par cette affaire.",
+     "sources": [
+      "a94aa1d7023b",
+      "8a45ce97c561",
+      "b25b93a18747"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 19,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://img.20mn.fr/mhzUeZEQTveO0HwhtFO6eyk/1200x768_conference-de-presse-de-presentation-du-contre-budget-et-de-la-trajectoire-budgetaire-du-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-francia-06-10-2026-conference-de-presse-pour-presenter-la-strategie-budgetaire-et-fiscale-alternative-du-parti-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-francaise-de-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-france-06-10-2026-harsin-confpresselepencontrebudget-035-credit-isa-harsin-sipa-2610061156",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
+    "article_id": "8a45ce97c561"
+   },
+   "id": 41,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T15:32:53+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 20.65,
+   "sources": [
+    {
+     "id": "4e841ee21bf4",
+     "name": "Libération",
+     "kind": "media",
+     "title": "En quête de crédibilité, le RN va présenter son contre-budget",
+     "url": "https://www.liberation.fr/politique/en-quete-de-credibilite-le-rn-va-presenter-son-contre-budget-20261005_PUBTT7GPRBE3PNKA5KHOPVPTCY/",
+     "published_at": "2026-10-05T15:02:24+00:00",
+     "snippet": "Alors que le parti a été ébranlé par les écrits antisémites de Jordan Bardella, le binôme du RN doit détailler son plan de 125 milliards, espérant ainsi convaincre de son sérieux."
+    },
+    {
+     "id": "7a320e0366e2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Présidentielle: Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 2032",
+     "url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
+     "published_at": "2026-10-06T08:15:58+00:00",
+     "snippet": "Marine Le Pen et Jordan Bardella présentent ce mardi 6 octobre le contre-budget du Rassemblement national qui sera appliqué en cas de victoire lors de l'élection présidentielle."
+    },
+    {
+     "id": "8a45ce97c561",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
+     "url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T11:51:23+00:00",
+     "snippet": "Le président du Rassemblement national a vivement rejeté, ce mardi, les accusations lui attribuant des messages antisémites datant de 2013"
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
+    },
+    {
+     "id": "a94aa1d7023b",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Ecrits antisémites : Jordan Bardella conteste à nouveau « formellement » les éléments d’authentification de « Mediapart »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-jordan-bardella-conteste-a-nouveau-formellement-les-elements-d-authentification-de-mediapart_6788982_823448.html",
+     "published_at": "2026-10-06T10:44:39+00:00",
+     "snippet": "Alors que le RN tenait une conférence de presse pour présenter son contre-budget, mardi, la fin des échanges a été marquée par des questions sur les révélations du site d’investigation."
+    },
+    {
+     "id": "b25b93a18747",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le RN va présenter son contre-budget, en pleine \"affaire Bardella\"",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T04:59:45+00:00",
+     "snippet": "Les deux dirigeants du Rassemblement national tiendront une conférence de presse mardi pour présenter le budget que Marine Le Pen défendra si elle arrive au pouvoir. Mais celle-ci risque d'être rattrapée par la polémique sur les propos antisémites attribués à Jordan Bardella."
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
+    },
+    {
+     "id": "dc1c9791fe02",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Baisser le déficit laissé par Macron » : économies, impôts, retraite… Marine Le Pen dévoile son projet budgétaire pour 2027",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-06-10-2026-WEEBR3S7GBAZZAISUMADMUI4P4.php",
+     "published_at": "2026-10-06T11:27:39+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
+   "chapo": "Le RN a présenté le 6 octobre un contre-budget qui promet 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. David Lisnard annonce au moins 200 milliards, dont 80 dès la première année ; ses chiffres viennent du site de Nouvelle Énergie. Le RN prévoit des baisses de TVA et de taxes et de nouvelles dépenses, et vise un déficit sous 3 % du PIB dès 2030. Lisnard annonce une règle de partage fixée à l'avance, en pourcentages.",
+   "points": [
+    {
+     "text": "Le RN annonce 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. Jean-Philippe Tanguy avait parlé de 125 milliards d'ici 2032 sur CNews, le dimanche précédent. Marine Le Pen justifie les 140 par la hausse des taux et le budget que proposent Sébastien Lecornu et Emmanuel Macron. Le RN vise aussi un déficit sous 3 % du PIB dès 2030, contre 5,4 % attendus par le gouvernement en 2026. Selon Nouvelle Énergie, Lisnard annonce au moins 200 milliards d'euros de baisse de dépense en trajectoire, dont 80 dès la première année. Son objectif de départ était de 300 milliards : il dit ne pas encore pouvoir documenter entièrement les 100 restants et continuer d'y travailler.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61"
+     ]
+    },
+    {
+     "text": "Côté RN, l'État absorberait 24 milliards d'euros d'efforts : révision générale des crédits, fin de leur reconduction automatique et suppression d'agences publiques. Tanguy défend d'abord l'interdiction des dépenses reconduites automatiquement, qui représentent selon lui des dizaines de milliards. La Sécurité sociale subirait une compression de 20 milliards. La priorité nationale sur les prestations et le durcissement de l'accès pour les étrangers rapporteraient 12 à 15 milliards la première année et 29 milliards à terme selon Planet (d'après l'AFP).",
+     "sources": [
+      "01e4e7ff14f4",
+      "a1c54071d453",
+      "8b8ce9581b2e"
+     ]
+    },
+    {
+     "text": "Sur la contribution française à l'Union européenne, les montants diffèrent. Planet (d'après l'AFP) parle d'une réduction de 9 milliards d'euros. TIME écrit que le RN veut la limiter à 5 milliards, contre près de 29 milliards prévus cette année. Le RN compte aussi sur le prélèvement à la source de la TVA : Marine Le Pen dit qu'il permettrait de récupérer environ 26 milliards d'euros de fraude, selon TIME. Les effectifs publics baisseraient : certains agents seraient réaffectés, d'autres ne seraient pas remplacés à leur départ en retraite. Le RN veut aussi supprimer la quasi-totalité des agences, une allocation sociale unique et une forte baisse de l'aide publique au développement.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "8b8ce9581b2e"
+     ]
+    },
+    {
+     "text": "Côté dépenses, le RN veut ramener la TVA de 20 % à 5,5 % sur l'électricité, le gaz et les carburants. CNews ajoute le bois et le fioul, et la suppression de la TVA sur les produits de première nécessité. L'allègement fiscal annoncé est de 30 milliards d'euros sur le quinquennat, avec la suppression de plus de 120 taxes. Pour les familles : une subvention pour le troisième enfant à l'horizon 2031, une part fiscale pleine dès le deuxième enfant et le permis de conduire gratuit pour les jeunes éligibles à partir de 2028. Pour la santé : 2 milliards de plus pour les proches aidants et 1,4 milliard pour les soins dentaires. Sur les retraites, Le Pen annonce 15 à 20 milliards d'économies à terme, sur des mesures qui seront détaillées dans les semaines à venir. Elle veut aussi un « pilier de capitalisation » et ramener l'âge de départ à 62 ans, voire 60.",
+     "sources": [
+      "01e4e7ff14f4",
+      "8b8ce9581b2e",
+      "9e0518d47528"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Économie Roland Lescure estime qu'« avec un budget Le Pen, on rêverait en couleurs et on raserait gratis ». Il juge certaines propositions inapplicables. Sur le plan juridique, Planet (d'après l'AFP) écrit que la priorité nationale sur les allocations contrevient aux principes constitutionnels d'égalité et au droit européen. Réduire la contribution à Bruxelles exigerait de renégocier les traités, sans garantie d'aboutir.",
+     "sources": [
+      "9e0518d47528",
+      "01e4e7ff14f4"
+     ]
+    },
+    {
+     "text": "Lisnard désigne d'abord environ 1 200 agences et opérateurs créés en vingt-cinq ans. Ils ont recruté de 420 000 à 440 000 agents selon ses chiffrages successifs et dépensent de 83 à 100 milliards d'euros. Il ne veut pas tous les supprimer, car un État de droit a besoin d'autorités indépendantes. Il vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer, et les agences régionales de santé. Il propose aussi de cesser de surtransposer les directives européennes, et de confier à une équipe placée sous l'autorité du président ou du premier ministre le retrait des normes existantes.",
+     "sources": [
+      "2535be60bb08",
+      "5ca8662ed393",
+      "54385708659c"
+     ]
+    },
+    {
+     "text": "Sur 1 700 milliards d'euros de dépense publique, environ 900 milliards sont sociaux, rappelle Lisnard. Il cite le plafonnement de certains revenus sociaux et la désindexation des retraites au-delà d'un seuil, de l'ordre de 2 000 euros mensuels. Il avance aussi son bilan à Cannes : effectifs réduits de près de 20 % et dette baissée de 82 millions d'euros. Il ne présente pas ce résultat comme transposable tel quel, une ville n'ayant ni prestations sociales ni assurance maladie à sa charge.",
+     "sources": [
+      "2535be60bb08",
+      "5ca8662ed393",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Selon Nouvelle Énergie, les 200 milliards sont répartis d'avance : 120 milliards rendus aux actifs en salaire net (60 %), 40 milliards en baisse des impôts de production (20 %) et 40 milliards pour la dette ou la modernisation de l'État (20 %). La baisse des impôts de production commence par la suppression de la C3S, une contribution assise sur le chiffre d'affaires, due même par une entreprise qui perd de l'argent. Les 80 milliards de la première année suivent la même clé. Lisnard refuse d'augmenter l'impôt pour réduire la dette : il cite le record de prélèvements et 92 % de dette portée par l'État et les comptes sociaux. Sa règle interdit que les économies financent de nouvelles dépenses.",
+     "sources": [
+      "247565372a61",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Ce qu'ils ont en commun : tous deux s'attaquent aux agences de l'État (le RN en supprimerait la quasi-totalité, Lisnard vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer et les agences régionales de santé) et à ses effectifs (des départs en retraite non remplacés chez le RN, moins de règles donc moins de bureaucrates chez Lisnard). Tous deux touchent à la fiscalité : le RN supprime plus de 120 taxes, Lisnard commence par la C3S. Et tous deux annoncent que la dépense baisse d'abord : Lisnard refuse d'augmenter l'impôt pour réduire la dette, le RN annonce 30 milliards d'allègement fiscal.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61",
+      "5ca8662ed393",
+      "54385708659c",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Ce qui les sépare. Retraites : le RN veut revenir à 62 ans, voire 60, et ajouter une part de capitalisation, avec 15 à 20 milliards d'économies à trouver ; Lisnard cite la désindexation des retraites au-delà d'environ 2 000 euros par mois. Immigration : le RN chiffre la priorité nationale à 12-15 milliards dès la première année et 29 à terme ; Lisnard n'en fait pas un poste d'économies. Europe : le RN réduit la contribution de la France à l'Union européenne ; Lisnard veut cesser de surtransposer les directives. Destination de l'argent : le RN baisse la TVA sur l'énergie et finance des mesures famille et santé ; Lisnard fixe 60 % en salaire net, 20 % en baisse d'impôts de production, 20 % pour la dette. Enfin, le RN a détaillé son plan en conférence de presse le 6 octobre ; Lisnard s'appuie sur des annonces de campagne reprises sur le site de son parti, et personne n'a vérifié ces chiffres de l'extérieur.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61",
+      "5ca8662ed393",
+      "54385708659c",
+      "6ccfce1a2ac3"
+     ]
+    }
+   ],
+   "perspectives": [
+    {
+     "source": "c0b636b0ba19",
+     "position": "critique",
+     "text": "Libération juge le projet du RN « au doigt mouillé » et relève que ses cibles sont les étrangers, la fonction publique et l'Union européenne."
+    }
+   ],
+   "coverage": {
+    "articles": 12,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://www.planet.fr/sites/default/files/2026-10/ABACA_1021750_020-20261006145219-8d76af6b.jpg",
+    "source": "Planet.fr (d'après l'AFP)",
+    "article_url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+    "article_id": "01e4e7ff14f4"
+   },
+   "id": 55,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-07T08:14:09+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 26.0,
+   "sources": [
+    {
+     "id": "01e4e7ff14f4",
+     "name": "Planet.fr (d'après l'AFP)",
+     "kind": "media",
+     "title": "Marine Le Pen a présenté son « contre-budget » pour dégager 140 milliards d'euros d'économies",
+     "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+     "published_at": "2026-10-06T14:52:00+00:00",
+     "snippet": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies | Planet.fr Aller au contenu principal Accueil\nabacapress © Szwarc Henri/ABACA Le Rassemblement national a dévoilé sa feuille de route budgétaire, promettant 140 milliards d'euros d'économies nettes d'ici 203"
+    },
+    {
+     "id": "247565372a61",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que ferait David Lisnard des 200 milliards d’économies annoncés ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue ferait David Lisnard des 200 milliards d’économies annoncés ? | Nouvelle ÉnergieAller au contenuQue ferait David Lisnard des 200 milliards d’écon"
+    },
+    {
+     "id": "2535be60bb08",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Quelles économies propose David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "Quelles économies propose David Lisnard ? | Nouvelle ÉnergieAller au contenuQuelles économies propose David Lisnard ?Trois gisements nommés : les quelque 1 200 agences et opérateurs publics créés en vingt-cinq ans, la bureaucratie et les procédures, et la dépense sociale, par le plafonnement de cert"
+    },
+    {
+     "id": "54385708659c",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que veut faire David Lisnard contre l’excès de normes ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-veut-faire-david-lisnard-contre-l-exces-de-normes/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue veut faire David Lisnard contre l’excès de normes ? | Nouvelle ÉnergieAller au contenuQue veut faire David Lisnard contre l’excès de normes ?Reti"
+    },
+    {
+     "id": "5ca8662ed393",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Où passe l’argent public selon David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/ou-passe-l-argent-public-selon-david-lisnard/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nOù passe l’argent public selon David Lisnard ? | Nouvelle ÉnergieAller au contenuOù passe l’argent public selon David Lisnard ?Dans la bureaucratie, "
+    },
+    {
+     "id": "6ccfce1a2ac3",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que propose David Lisnard face à la dette publique ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-a-la-dette-publique/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "Que propose David Lisnard face à la dette publique ? | Nouvelle ÉnergieAller au contenuQue propose David Lisnard face à la dette publique ?Baisser la dépense, jamais augmenter l’impôt : 80 milliards d’euros dès la première année, au moins 200 milliards en trajectoire, dont 40 affectés au désendettem"
+    },
+    {
+     "id": "6dab58c97222",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Marine Le Pen et le RN présentent leur contre-budget, avec « 140 milliards d’euros nets d’économies » en cinq ans",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_6788959_823448.html",
+     "published_at": "2026-10-06T08:26:03+00:00",
+     "snippet": "Cette trajectoire budgétaire « sera confortée par l’adoption d’une règle d’or budgétaire constitutionnelle adoptée par référendum », a précisé la cheffe de file du parti d’extrême droite."
+    },
+    {
+     "id": "8b8ce9581b2e",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national",
+     "url": "https://www.cnews.fr/france/2026-10-06/baisse-de-la-tva-preference-nationale-simplification-administrative-que-contient",
+     "published_at": "2026-10-06T10:43:00+00:00",
+     "snippet": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national Par CNEWS Publié le 06/10/2026 à 10:43 - Mis à jour le 06/10/2026 à 11:24 Ajouter CNEWS à mes favoris Google Lors d’une conférence de presse, la présidente des députés "
+    },
+    {
+     "id": "9e0518d47528",
+     "name": "TIME France",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget",
+     "url": "https://www.timefrance.fr/politique/presidentielle-2027-marine-le-pen-devoile-son-contre-budget/",
+     "published_at": "2026-10-06T12:00:00+00:00",
+     "snippet": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget Aller au contenu Politique\n« 140 milliards d’euros nets d’économies » d’ici à 2032 : c’est l’objectif annoncé par Marine Le Pen lors de la présentation du contre-budget du Rassemblement national. Entre chiffres et graphiques, la candidate"
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
+    },
+    {
+     "id": "c0b636b0ba19",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Le RN présente un contre-budget garanti avec trucages",
+     "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
+     "published_at": "2026-10-06T17:55:24+00:00",
+     "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
+    }
+   ]
+  },
   {
    "headline": "Revue de campagne : primaire PS, lycées, Attal, Ruffin, RN, logement",
    "chapo": "À un peu plus de six mois de la présidentielle, la primaire à gauche se tient les 9 et 10 octobre. Pendant ce temps, la mobilisation lycéenne s'invite dans les discours, le centre et la droite parlent de rassemblement, et une tribune au Monde pointe la quasi-absence du logement dans la campagne.",
@@ -82,7 +464,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.05,
+   "score": 15.98,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -213,149 +595,6 @@
    ]
   },
   {
-   "headline": "Contre-budget du RN : 125 ou 140 milliards d'économies selon les médias",
-   "chapo": "Marine Le Pen et Jordan Bardella ont présenté mardi 6 octobre le contre-budget du RN, censé s'appliquer en cas de victoire à la présidentielle. Les médias avancent 125 milliards d'euros d'économies sur cinq ans, ou 140 milliards nets d'ici 2032. La conférence de presse s'est terminée sur des questions autour des écrits antisémites attribués à Jordan Bardella.",
-   "points": [
-    {
-     "text": "La présentation a eu lieu mardi 6 octobre lors d'une conférence de presse des deux dirigeants du RN, depuis le Palais-Bourbon. Le budget présenté est celui que Marine Le Pen défendrait si elle accédait à l'Élysée, en mai prochain selon Le Figaro.",
-     "sources": [
-      "7a320e0366e2",
-      "b25b93a18747",
-      "b9bb0603a91b",
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "Les chiffres diffèrent selon les médias. CNews et Libération annoncent un plan de 125 milliards d'euros d'économies, que CNews décrit comme une trajectoire sur cinq ans. BFMTV titre sur « 140 milliards d'euros nets d'économies » d'ici 2032 promis par Marine Le Pen. Les extraits ne permettent pas d'expliquer l'écart entre ces deux montants.",
-     "sources": [
-      "a1c54071d453",
-      "4e841ee21bf4",
-      "7a320e0366e2"
-     ]
-    },
-    {
-     "text": "Le Figaro indique que le plan touche notamment aux retraites, à la réforme de l'État et à l'immigration, sous le titre « la renaissance de la France », et précise que Marine Le Pen a détaillé plusieurs mesures économiques. Le Parisien évoque dans son titre des économies, des impôts et la retraite, ainsi que son projet budgétaire pour 2027.",
-     "sources": [
-      "b9bb0603a91b",
-      "dc1c9791fe02"
-     ]
-    },
-    {
-     "text": "Cette présentation tombe le jour où le projet de loi de finances et celui de financement de la Sécurité sociale doivent être présentés en commission à l'Assemblée. Dimanche, le député Jean-Philippe Tanguy était invité sur CNews.",
-     "sources": [
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "CNews et Libération décrivent un parti en quête de crédibilité sur l'économie. Libération ajoute que le RN a été ébranlé par les écrits antisémites attribués à Jordan Bardella et espère convaincre de son sérieux avec ce plan.",
-     "sources": [
-      "a1c54071d453",
-      "4e841ee21bf4"
-     ]
-    },
-    {
-     "text": "La conférence de presse s'est terminée sur des questions au sujet des révélations de Mediapart. Jordan Bardella a contesté de nouveau « formellement » les éléments d'authentification publiés par le site. Il a rejeté vivement des accusations lui attribuant des messages antisémites datant de 2013. franceinfo notait avant l'événement que la conférence risquait d'être rattrapée par cette affaire.",
-     "sources": [
-      "a94aa1d7023b",
-      "8a45ce97c561",
-      "b25b93a18747"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 19,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://img.20mn.fr/mhzUeZEQTveO0HwhtFO6eyk/1200x768_conference-de-presse-de-presentation-du-contre-budget-et-de-la-trajectoire-budgetaire-du-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-francia-06-10-2026-conference-de-presse-pour-presenter-la-strategie-budgetaire-et-fiscale-alternative-du-parti-rassemblement-national-avec-marine-le-pen-candidate-a-l-election-presidentielle-francaise-de-2027-jordan-bardella-et-jean-philippe-tanguy-au-siege-du-parti-le-6-octobre-2026-a-paris-paris-france-06-10-2026-harsin-confpresselepencontrebudget-035-credit-isa-harsin-sipa-2610061156",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
-    "article_id": "8a45ce97c561"
-   },
-   "id": 41,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T15:32:53+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 20.75,
-   "sources": [
-    {
-     "id": "4e841ee21bf4",
-     "name": "Libération",
-     "kind": "media",
-     "title": "En quête de crédibilité, le RN va présenter son contre-budget",
-     "url": "https://www.liberation.fr/politique/en-quete-de-credibilite-le-rn-va-presenter-son-contre-budget-20261005_PUBTT7GPRBE3PNKA5KHOPVPTCY/",
-     "published_at": "2026-10-05T15:02:24+00:00",
-     "snippet": "Alors que le parti a été ébranlé par les écrits antisémites de Jordan Bardella, le binôme du RN doit détailler son plan de 125 milliards, espérant ainsi convaincre de son sérieux."
-    },
-    {
-     "id": "7a320e0366e2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Présidentielle: Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 2032",
-     "url": "https://www.bfmtv.com/politique/front-national/video-presidentielle-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_VN-202610060351.html",
-     "published_at": "2026-10-06T08:15:58+00:00",
-     "snippet": "Marine Le Pen et Jordan Bardella présentent ce mardi 6 octobre le contre-budget du Rassemblement national qui sera appliqué en cas de victoire lors de l'élection présidentielle."
-    },
-    {
-     "id": "8a45ce97c561",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Bardella accusé d’antisémitisme : Le président du RN dément à nouveau « formellement » les preuves de Mediapart",
-     "url": "https://www.20minutes.fr/politique/4251825-20261006-bardella-accuse-antisemitisme-president-rn-dement-nouveau-formellement-preuves-mediapart?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T11:51:23+00:00",
-     "snippet": "Le président du Rassemblement national a vivement rejeté, ce mardi, les accusations lui attribuant des messages antisémites datant de 2013"
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
-    },
-    {
-     "id": "a94aa1d7023b",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Ecrits antisémites : Jordan Bardella conteste à nouveau « formellement » les éléments d’authentification de « Mediapart »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-jordan-bardella-conteste-a-nouveau-formellement-les-elements-d-authentification-de-mediapart_6788982_823448.html",
-     "published_at": "2026-10-06T10:44:39+00:00",
-     "snippet": "Alors que le RN tenait une conférence de presse pour présenter son contre-budget, mardi, la fin des échanges a été marquée par des questions sur les révélations du site d’investigation."
-    },
-    {
-     "id": "b25b93a18747",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le RN va présenter son contre-budget, en pleine \"affaire Bardella\"",
-     "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-06T04:59:45+00:00",
-     "snippet": "Les deux dirigeants du Rassemblement national tiendront une conférence de presse mardi pour présenter le budget que Marine Le Pen défendra si elle arrive au pouvoir. Mais celle-ci risque d'être rattrapée par la polémique sur les propos antisémites attribués à Jordan Bardella."
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
-    },
-    {
-     "id": "dc1c9791fe02",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Baisser le déficit laissé par Macron » : économies, impôts, retraite… Marine Le Pen dévoile son projet budgétaire pour 2027",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-deuros-nets-deconomies-dici-2032-06-10-2026-WEEBR3S7GBAZZAISUMADMUI4P4.php",
-     "published_at": "2026-10-06T11:27:39+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
    "headline": "Lycéens : Lecornu annonce une suspension des cours en fin de semaine",
    "chapo": "Devant l'Assemblée nationale, mardi 6 octobre, Sébastien Lecornu a annoncé une suspension des cours en fin de semaine pour \"un temps de démocratie interne\". Il s'exprimait le jour de l'« acte III » de la mobilisation lycéenne, avec des cortèges dans tout le pays. Le Premier ministre a aussi livré un bilan des blessés et rejeté les accusations de répression.",
    "points": [
@@ -452,7 +691,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.09,
+   "score": 18.0,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -720,7 +959,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.77,
+   "score": 13.69,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -848,7 +1087,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.49,
+   "score": 9.44,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -986,7 +1225,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.39,
+   "score": 9.33,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -1084,7 +1323,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.0,
+   "score": 4.98,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -1217,7 +1456,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.6,
+   "score": 12.56,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -1492,7 +1731,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.34,
+   "score": 9.31,
    "sources": [
     {
      "id": "3566bb310543",
@@ -1644,7 +1883,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.6,
+   "score": 5.58,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -1881,7 +2120,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.41,
+   "score": 9.39,
    "sources": [
     {
      "id": "01b3cb5feb14",
@@ -2150,7 +2389,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.46,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2288,7 +2527,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.29,
+   "score": 2.28,
    "sources": [
     {
      "id": "1918da96bbbc",
@@ -2363,7 +2602,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.92,
+   "score": 1.91,
    "sources": [
     {
      "id": "1ecdf9948b9f",
