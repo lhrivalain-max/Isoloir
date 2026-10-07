@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:06:12+00:00",
+ "generated_at": "2026-10-07T16:06:20+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -237,6 +237,115 @@
      "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
      "published_at": "2026-10-06T17:55:24+00:00",
      "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
+    }
+   ]
+  },
+  {
+   "headline": "Ruffin et Villepin réclament ensemble la fin de Parcoursup et le vote à 16 ans",
+   "chapo": "Lundi 5 octobre, François Ruffin et Dominique de Villepin se sont affichés ensemble avec des lycéens, à la veille de l'« acte III » de la mobilisation. Ils demandent la fin de Parcoursup, le droit de vote dès 16 ans, un budget de l'Éducation nationale sanctuarisé et l'arrêt des LBD et des grenades de désencerclement contre les lycéens.",
+   "points": [
+    {
+     "text": "Les deux responsables politiques ont formé un tandem dans une brasserie parisienne, avec plusieurs lycéens et des représentants d'organisations de jeunesse. François Ruffin est candidat déclaré à la présidentielle ; Dominique de Villepin souhaite l'être.",
+     "sources": [
+      "ca1f1b5c6620",
+      "fde0e09892c4"
+     ]
+    },
+    {
+     "text": "Ils dénoncent la politique de maintien de l'ordre du gouvernement, alors qu'un jeune de 15 ans a eu la main arrachée par une grenade policière à Lens lundi. Villepin demande qu'elle prenne en compte la situation particulière d'un mouvement lycéen et fustige les « politiques de nasse » et les charges des forces de l'ordre. Les deux demandent la fin des LBD et des grenades de désencerclement lors des mouvements de lycéens.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Pour Ruffin, « il faut une réponse politique », pas policière. Il veut que la part du budget de l'Éducation nationale dans le budget de l'État soit sanctuarisée, même si le nombre d'élèves diminue, et un plan de rénovation d'urgence des bâtiments scolaires. Il s'indigne de l'état des salles de classe, une revendication qu'il dit avoir entendue à de nombreuses reprises ces derniers jours.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Ils plaident aussi pour le droit de vote dès 16 ans et la suppression de Parcoursup. « L'avenir ne peut pas être géré par un algorithme », explique Ruffin, qui veut mettre l'accent sur l'accompagnement de l'enseignement professionnel.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Ruffin assume leurs différences : « Le rassemblement doit primer sur le déchirement ». Villepin juge de son côté que la jeunesse est au-dessus de tout ce qui peut les diviser.",
+     "sources": [
+      "ca1f1b5c6620"
+     ]
+    },
+    {
+     "text": "Le même jour, Ruffin confirme dans une interview à l'Humanité son rapprochement avec Villepin et appelle à un rassemblement élargi face à l'extrême droite ; Libération titre sur sa volonté de passer du Front populaire au CNR. Sur BFMTV, il dit : « Nous avons poursuivi nos discussions ».",
+     "sources": [
+      "ee3cb8e010c9",
+      "573133300860"
+     ]
+    },
+    {
+     "text": "La forme de ce rapprochement n'est pas précisée : alliance, soutien ou candidature commune. Villepin n'est pas candidat déclaré.",
+     "sources": [
+      "ca1f1b5c6620",
+      "ee3cb8e010c9"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/d19jRfSgSwO8t8oompoCCSk/1200x768_francois-ruffin-et-dominique-de-villepin-derouda-2026-09-02-debateruffinvillepin-076-credit-franck-derouda-sipa-2609022342",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
+    "article_id": "ca1f1b5c6620",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.022298177083333332
+   },
+   "id": 61,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-07T16:06:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.0,
+   "sources": [
+    {
+     "id": "573133300860",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Nous avons poursuivi nos discussions\", confie François Ruffin à propos de son rapprochement avec Dominique de Villepin",
+     "url": "https://www.bfmtv.com/politique/video-nous-avons-poursuivi-nos-discussions-confie-francois-ruffin-a-propos-de-son-rapprochement-avec-dominique-de-villepin_VN-202610050855.html",
+     "published_at": "2026-10-05T18:46:39+00:00",
+     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
+    },
+    {
+     "id": "ca1f1b5c6620",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Colère des lycéens : Villepin et Ruffin vent debout ensemble contre Parcoursup",
+     "url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-06T03:58:06+00:00",
+     "snippet": "Dominique de Villepin et François Ruffin se sont une nouvelle fois affichés ensemble pour demander un budget de l’Education nationale sanctuarisé, le droit de vote à 16 ans et la fin de Parcoursup"
+    },
+    {
+     "id": "ee3cb8e010c9",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
+     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
+     "published_at": "2026-10-05T16:09:37+00:00",
+     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
+    },
+    {
+     "id": "fde0e09892c4",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Blocage des lycées: \"Il ne devrait pas y avoir de charges, il ne devrait pas y avoir de présence massive de la police\", affirme Dominique de Villepin",
+     "url": "https://www.bfmtv.com/politique/video-blocage-des-lycees-il-ne-devrait-pas-y-avoir-de-charges-il-ne-devrait-pas-y-avoir-de-presence-massive-de-la-police-affirme-dominique-de-villepin_VN-202610050852.html",
+     "published_at": "2026-10-05T18:44:30+00:00",
+     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
     }
    ]
   },
@@ -2017,7 +2126,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.3,
+   "score": 8.29,
    "sources": [
     {
      "id": "3566bb310543",
