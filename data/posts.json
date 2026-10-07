@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:00:04+00:00",
+ "generated_at": "2026-10-07T16:06:07+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.64,
+   "score": 19.58,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -297,7 +297,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.4,
+   "score": 11.37,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -361,6 +361,99 @@
      "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
      "published_at": "2026-10-05T08:49:58+00:00",
      "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
+    }
+   ]
+  },
+  {
+   "headline": "Boissons énergisantes : un rapport parlementaire propose de les interdire aux moins de 16 ans",
+   "chapo": "Une mission parlementaire recommande d'interdire la vente de boissons énergisantes (Red Bull, Monster, Crazy Tiger, Ciao Energy) aux moins de 16 ans. Le gouvernement se dit ouvert à étudier la mesure, mais ne soutient pas d'interdiction immédiate.",
+   "points": [
+    {
+     "text": "Le rapport, dévoilé mercredi 7 octobre, est copiloté par les députés Sandrine Runel (PS) et Yannick Neuder (LR), ancien ministre de la Santé. Il est soumis à l'adoption de la commission des affaires sociales. Ces boissons « ne posent pas de risque sanitaire en population générale » en quantité raisonnable, mais leur consommation est jugée excessive en France.",
+     "sources": [
+      "95a376c78ab7",
+      "f4cadee988fb"
+     ]
+    },
+    {
+     "text": "Chez les enfants et adolescents, la consommation « peut bel et bien engendrer des effets nocifs », souligne le rapport. Des effets indésirables ont déjà été signalés en France, symptômes cardiovasculaires ou psychologiques, principalement liés à une consommation excessive de caféine, parfois couplée à de l'alcool.",
+     "sources": [
+      "95a376c78ab7",
+      "4857f7a7677e"
+     ]
+    },
+    {
+     "text": "Pour Yannick Neuder, « le rôle du législateur est de pouvoir informer les parents, qui, souvent, n'ont pas conscience qu'ils donnent une boisson qui est pire que le Coca en teneur en sucre et en calories ». Sandrine Runel veut faire de la pédagogie pour expliquer aux jeunes qu'ils n'ont pas besoin de ces boissons sucrées pour se maintenir en forme et lutter contre la fatigue.",
+     "sources": [
+      "95a376c78ab7",
+      "4857f7a7677e"
+     ]
+    },
+    {
+     "text": "Les boissons alcoolisées prêtes à boire sont aussi visées, comme le Vody, mélange de vodka, café et taurine. Le rapport les juge « nocives pour la santé » et attractives pour les jeunes par leur marketing et leur prix. Il propose d'étendre la taxe prémix à toutes les boissons prêtes à boire de plus de 12 % d'alcool, de renforcer l'interdiction de vente d'alcool aux mineurs avec des tests de vente, et de mettre fin à la publicité pour les boissons alcooliques en ligne.",
+     "sources": [
+      "95a376c78ab7"
+     ]
+    },
+    {
+     "text": "Plusieurs mesures, dont l'interdiction, seront inscrites dans le projet de loi de financement de la Sécurité sociale et dans une proposition de loi. Le rapport doit nourrir des amendements au budget de la Sécurité sociale pour 2027.",
+     "sources": [
+      "95a376c78ab7",
+      "4857f7a7677e"
+     ]
+    },
+    {
+     "text": "Le gouvernement affiche une « position d'ouverture à l'étude de cette mesure », selon BFMTV. Le ministère ne voit pas aujourd'hui d'élément pour soutenir explicitement une interdiction immédiate, et met en avant des études de l'Anses sur les risques sanitaires. L'entourage de la ministre Stéphanie Rist rappelle que le Québec (2026) et la Norvège interdisent la vente aux moins de 16 ans, et que la Lituanie, la Lettonie, la Pologne, la Roumanie, la Hongrie et la Bulgarie l'ont fait pour les mineurs.",
+     "sources": [
+      "4857f7a7677e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/dSlFMtIle2GqALy-EMNR-SB0ZaY=/4x42:1252x744/800x0/images/-162432.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/gouvernement/vers-une-interdiction-des-boissons-energisantes-aux-moins-de-16-ans-le-gouvernement-pret-a-etudier-la-mesure_AV-202610070587.html",
+    "article_id": "4857f7a7677e"
+   },
+   "id": 63,
+   "section": "institutions",
+   "reviewed_at": "2026-10-07T16:06:07+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "4857f7a7677e",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Vers une interdiction des boissons énergisantes aux moins de 16 ans? Le gouvernement prêt à étudier la mesure",
+     "url": "https://www.bfmtv.com/politique/gouvernement/vers-une-interdiction-des-boissons-energisantes-aux-moins-de-16-ans-le-gouvernement-pret-a-etudier-la-mesure_AV-202610070587.html",
+     "published_at": "2026-10-07T13:49:49+00:00",
+     "snippet": "Si l'exécutif précise qu'il \"n'existe pas aujourd'hui d'élément permettant au ministère de soutenir explicitement une interdiction immédiate des boissons énergisantes aux moins de 16 ans\", comme recommandé par des députés, il affiche une \"position d'ouverture\"."
+    },
+    {
+     "id": "95a376c78ab7",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Un rapport parlementaire recommande d'interdire la vente des boissons énergisantes aux moins de 16 ans",
+     "url": "https://www.franceinfo.fr/sante/un-rapport-parlementaire-recommande-d-interdire-la-vente-des-boissons-energisantes-aux-moins-de-16-ans_8226559.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-07T11:48:34+00:00",
+     "snippet": "La consommation de ces boissons \"peut bel et bien engendrer des effets nocifs\" chez les jeunes, soulignent les auteurs du rapport, dévoilé mercredi."
+    },
+    {
+     "id": "f4cadee988fb",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Interdire la vente des boissons énergisantes aux moins de 16 ans et les retirer des distributeurs automatiques, la proposition d’un rapport parlementaire",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/07/red-bull-monster-energy-crazy-tiger-un-rapport-parlementaire-recommande-d-interdire-la-vente-de-boissons-energisantes-aux-moins-de-16-ans_6789568_823448.html",
+     "published_at": "2026-10-07T08:13:41+00:00",
+     "snippet": "Red Bull, Monster Energy, Crazy Tiger… la consommation de ces boissons « peut bel et bien engendrer des effets nocifs » chez les jeunes, souligne ce rapport, dévoilé mercredi et soumis à l’adoption de la commission des affaires sociales."
     }
    ]
   },
@@ -437,7 +530,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.67,
+   "score": 5.65,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -535,7 +628,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.34,
+   "score": 17.3,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -692,7 +785,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.76,
+   "score": 13.73,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -919,7 +1012,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.15,
+   "score": 15.12,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -1191,7 +1284,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.92,
+   "score": 7.91,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -1329,7 +1422,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.77,
+   "score": 7.75,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -1427,7 +1520,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.29,
+   "score": 4.28,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -1560,7 +1653,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.35,
+   "score": 11.33,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -1835,7 +1928,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.31,
+   "score": 8.3,
    "sources": [
     {
      "id": "3566bb310543",
@@ -2202,7 +2295,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.02,
+   "score": 5.01,
    "sources": [
     {
      "id": "0973cac592dc",
@@ -2322,7 +2415,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.76,
+   "score": 1.75,
    "sources": [
     {
      "id": "1ecdf9948b9f",
