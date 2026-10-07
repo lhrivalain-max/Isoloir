@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:06:07+00:00",
+ "generated_at": "2026-10-07T16:06:12+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -558,6 +558,95 @@
      "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-quand-allez-vous-rendre-des-comptes-la-colere-de-laurent-nunez-face-aux-deputes-de-la-france-insoumise_VN-202610050921.html",
      "published_at": "2026-10-05T21:12:24+00:00",
      "snippet": "Le ministre de l'Intérieur, Laurent Nuñez, s'insurge contre les députés de La France insoumise, ce lundi 5 octobre à l'Assemblée nationale, à propos de la mobilisation lycéenne et de la lutte contre les violences sexuelles."
+    }
+   ]
+  },
+  {
+   "headline": "Sénat : le RN obtient pour la première fois un poste de vice-président",
+   "chapo": "Le Bureau du Sénat, ratifié mardi 6 octobre, accorde au RN et à ses alliés de l'UDR un poste de vice-président, une première dans l'histoire de la Ve République. Il sera partagé à tour de rôle avec deux autres groupes pendant trois ans.",
+   "points": [
+    {
+     "text": "Après les sénatoriales du 27 septembre, le RN et ses alliés de l'Union des droites pour la République (UDR) comptent 15 sénateurs. Ils obtiennent un poste de vice-président du Sénat, qu'ils occuperont à tour de rôle avec deux autres groupes lors des trois prochaines années.",
+     "sources": [
+      "068789211545",
+      "1c66ebef5c2b"
+     ]
+    },
+    {
+     "text": "Le sénateur RN du Pas-de-Calais Christopher Szczurek, désigné par son groupe, sera d'abord secrétaire du Bureau pendant deux ans. Il pourra diriger des séances dans l'hémicycle comme vice-président à partir du 1er octobre 2028.",
+     "sources": [
+      "068789211545",
+      "1c66ebef5c2b"
+     ]
+    },
+    {
+     "text": "Le règlement du Sénat prévoit une représentation proportionnelle des groupes au Bureau. Le groupe RN-UDR est arrivé ex aequo avec les Indépendants et le groupe écologiste, 15 membres chacun : le poste est donc partagé entre les trois.",
+     "sources": [
+      "068789211545",
+      "1c66ebef5c2b"
+     ]
+    },
+    {
+     "text": "Les six autres groupes obtiennent une vice-présidence. Les Républicains, première force avec 124 sénateurs, en ont deux : Roger Karoutchi (Hauts-de-Seine) et Laurence Garnier (Loire-Atlantique), proche de Bruno Retailleau. Le Bureau est présidé par Gérard Larcher (LR), réélu jeudi. Les trois questeurs sont reconduits : Antoine Lefèvre (LR), Olivier Cigolotti (centriste) et Marie-Arlette Carlotti (PS).",
+     "sources": [
+      "068789211545"
+     ]
+    },
+    {
+     "text": "Le groupe écologiste a désigné le sénateur Place publique Bernard Jomier comme vice-président. Soutien de Raphaël Glucksmann, il vient de quitter le groupe socialiste pour siéger chez les écologistes, une décision qui a suscité le mécontentement du PS, qui affirme ne pas l'avoir validée.",
+     "sources": [
+      "068789211545"
+     ]
+    },
+    {
+     "text": "La présidente du groupe écologiste, Mélanie Vogel, a écrit aux autres présidents de groupe pour appeler à un « cordon sanitaire » vis-à-vis de l'extrême droite : ne pas collaborer avec le groupe, ne cosigner aucun texte ni amendement avec ses membres, ne voter aucune de ses initiatives. Elle regrette le règlement du Sénat, qui empêche selon elle toute opposition à l'arrivée du RN au Bureau.",
+     "sources": [
+      "068789211545"
+     ]
+    },
+    {
+     "text": "Le président du groupe socialiste, Patrick Kanner, a aussi regretté l'application automatique de ces dispositions, dans un courrier à Gérard Larcher. Il appelle à « dresser une séparation étanche » avec le groupe RN-UDR. À l'Assemblée nationale, un vote est possible si les chefs de groupe ne s'accordent pas sur la composition du Bureau ; le RN y compte deux vice-présidents.",
+     "sources": [
+      "068789211545"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 2,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ySr6uiYGrQFnXZ6RtWUaAG2q1cI=/0x40:768x472/800x0/images/Le-Senat-le-21-juillet-2026-a-Paris-2355100.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/le-rassemblement-national-obtient-pour-la-premiere-fois-un-poste-de-vice-president-du-senat-avec-ses-allies-de-l-udr_AD-202610060729.html",
+    "article_id": "068789211545"
+   },
+   "id": 62,
+   "section": "institutions",
+   "reviewed_at": "2026-10-07T16:06:12+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.0,
+   "sources": [
+    {
+     "id": "068789211545",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Le Rassemblement national obtient pour la première fois un poste de vice-président du Sénat avec ses alliés de l'UDR",
+     "url": "https://www.bfmtv.com/politique/front-national/le-rassemblement-national-obtient-pour-la-premiere-fois-un-poste-de-vice-president-du-senat-avec-ses-allies-de-l-udr_AD-202610060729.html",
+     "published_at": "2026-10-06T15:29:14+00:00",
+     "snippet": "Après sa percée aux dernières élections sénatoriales, le Rassemblement national fait une entrée inédite dans les instances du Sénat. D'après la composition du Bureau ratifiée ce mardi 6 octobre, le parti obtient un poste de vice-président avec ses alliés de l'Union des droites pour la République."
+    },
+    {
+     "id": "1c66ebef5c2b",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le Rassemblement national fait son entrée dans les instances du Sénat, une première dans l'histoire de la Ve République",
+     "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-rassemblement-national-fait-son-entree-dans-les-instances-du-senat-une-premiere-dans-l-histoire-de-la-ve-republique_8225143.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T14:40:05+00:00",
+     "snippet": "Le sénateur RN du Pas-de-Calais Christopher Szczurek occupera un poste de vice-président de la Haute assemblée à tour de rôle avec deux autres groupes."
     }
    ]
   },
