@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T06:20:20+00:00",
+ "generated_at": "2026-10-08T06:58:47+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.53,
+   "score": 13.35,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -305,7 +305,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.41,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -342,6 +342,99 @@
      "url": "https://www.leparisien.fr/societe/entretien-a-lecole-pour-detecter-les-violences-en-2032-mariage-interdit-entre-cousins-la-loi-integrale-se-precise-07-10-2026-X6YNOZVTYVBQBFVQCXQXIDS4WA.php",
      "published_at": "2026-10-07T08:02:45+00:00",
      "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Grenades assourdissantes suspendues pour le mouvement lycéen, des policiers s'en inquiètent",
+   "chapo": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a suspendu l'usage des grenades assourdissantes dans le cadre du mouvement lycéen, après la main d'un adolescent arrachée à Lens. Une enquête de l'IGPN est ouverte, et la mesure est mal perçue dans la police, selon Le Figaro.",
+   "points": [
+    {
+     "text": "Nuñez a annoncé la suspension sur RTL : « Je suspends leur usage pour le mouvement des lycéens tant que la lumière n'a pas été faite sur ce qui s'est passé dans cette affaire ». Il précise que la mesure vaut uniquement pour le mouvement lycéen, le temps de comprendre. L'adolescent de Lens, quinze ans selon Le Figaro, 16 ans selon BFMTV, a eu la main arrachée lundi par une grenade.",
+     "sources": [
+      "18f2c597fe77",
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Une enquête de l'IGPN doit établir si le lycéen a ramassé cette munition, si elle a atterri sur lui et si le tir était réglementaire, selon Le Figaro, qui parle de circonstances encore indéterminées. Nuñez a aussi indiqué que 18 enquêtes de l'IGPN sont ouvertes depuis le début du mouvement.",
+     "sources": [
+      "18f2c597fe77",
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Un autre adolescent, Eden, 14 ans, a été blessé au visage à Saint-Ouen-l'Aumône (Val-d'Oise) après avoir été atteint à la tête par le tir d'un lanceur de grenade lacrymogène, selon l'avocat de sa famille.",
+     "sources": [
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Dans la police, la décision est mal perçue : Le Figaro y voit « un mauvais signal » au sein des forces de l'ordre, et titre sur l'apostrophe de policiers au chef de l'État : « L'empathie ? Commencez par en avoir pour nos collègues ».",
+     "sources": [
+      "18f2c597fe77"
+     ]
+    },
+    {
+     "text": "À gauche, la critique porte sur la doctrine d'emploi de la force. Jean-Luc Mélenchon écrit sur X : « Il faut que ça cesse. Le commandement doit reprendre le contrôle des cowboys sadiques qui mutilent nos enfants ». L'ancienne ministre de l'Éducation Najat Vallaud-Belkacem juge que le gouvernement a eu une doctrine qui a ramassé trop large et n'a pas été efficace.",
+     "sources": [
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Le communiste Guillaume Roubaud-Quashie, lui, déplore : « Il a fallu que la police arrache une main à un enfant pour qu'on comprenne ».",
+     "sources": [
+      "dc463d6ab668"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/07/f156251604f1d37ec25d916db83a451b0355a24fe7e0ca664831bc2a24addb39.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/actualite-france/l-empathie-commencez-par-en-avoir-pour-nos-collegues-l-apostrophe-des-policiers-au-chef-de-l-etat-20261007",
+    "article_id": "18f2c597fe77",
+    "focus_x": 0.5033333333333333,
+    "focus_y": 0.0365625
+   },
+   "id": 65,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T06:58:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.0,
+   "sources": [
+    {
+     "id": "18f2c597fe77",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« L’empathie ? Commencez par en avoir pour nos collègues » : l’apostrophe des policiers au chef de l’État",
+     "url": "https://www.lefigaro.fr/actualite-france/l-empathie-commencez-par-en-avoir-pour-nos-collegues-l-apostrophe-des-policiers-au-chef-de-l-etat-20261007",
+     "published_at": "2026-10-07T17:00:00+00:00",
+     "snippet": "DÉCRYPTAGE - À fleur de peau, la profession a en outre mal perçu, ce mercredi, la suspension temporaire des grenades assourdissantes, dont l’une a arraché lundi dernier la main d’un adolescent à Lens."
+    },
+    {
+     "id": "dc463d6ab668",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Suspension de l'usage des grenades assourdissantes: \"Il a fallu que la police arrache une main à un enfant pour qu'on comprenne\", déplore Guillaume Roubaud-Quashie (PCF)",
+     "url": "https://www.bfmtv.com/politique/video-suspension-de-l-usage-des-grenades-assourdissantes-il-a-fallu-que-la-police-arrache-une-main-a-un-enfant-pour-qu-on-comprenne-deplore-guillaume-roubaud-quashie-pcf_VN-202610070349.html",
+     "published_at": "2026-10-07T08:03:02+00:00",
+     "snippet": "Le ministre de l'Intérieur annonce ce mercredi 7 octobre que les forces de l'ordre n'utiliseront plus de grenades assourdissantes \"dans le cadre du mouvement lycéen\", deux jours après la grave blessure d'un lycéen à Lens."
+    },
+    {
+     "id": "eecdd71ed6ca",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Sébastien Lecornu assure que \"les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
+     "published_at": "2026-10-07T16:58:30+00:00",
+     "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
     }
    ]
   },
@@ -414,7 +507,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.28,
+   "score": 6.17,
    "sources": [
     {
      "id": "573133300860",
@@ -516,7 +609,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.65,
+   "score": 5.56,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -620,7 +713,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.82,
+   "score": 3.77,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -718,7 +811,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.77,
+   "score": 3.7,
    "sources": [
     {
      "id": "068789211545",
@@ -807,7 +900,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.38,
+   "score": 13.24,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -964,7 +1057,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.95,
+   "score": 10.85,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -1191,7 +1284,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.73,
+   "score": 11.61,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -1466,7 +1559,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.7,
+   "score": 8.61,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -1594,7 +1687,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.12,
+   "score": 6.05,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -1732,7 +1825,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.93,
+   "score": 5.87,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -1830,7 +1923,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.41,
+   "score": 3.38,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -1963,7 +2056,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.63,
+   "score": 9.57,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -2238,7 +2331,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.93,
+   "score": 6.88,
    "sources": [
     {
      "id": "3566bb310543",
@@ -2390,7 +2483,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.16,
+   "score": 4.13,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -2507,7 +2600,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.51,
+   "score": 1.5,
    "sources": [
     {
      "id": "224ef3002ed2",
