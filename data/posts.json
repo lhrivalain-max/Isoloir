@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T06:59:18+00:00",
+ "generated_at": "2026-10-08T07:00:33+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.35,
+   "score": 13.34,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -316,7 +316,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.98,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -429,6 +429,114 @@
    ]
   },
   {
+   "headline": "Lycées : Geffray et Nuñez auditionnés à l'Assemblée, les régions chiffrent les dégâts",
+   "chapo": "Le ministre de l'Éducation, Édouard Geffray, a été entendu mercredi 7 octobre à 10 h à l'Assemblée sur le blocage des lycées, et le ministre de l'Intérieur, Laurent Nuñez, à 15 h sur la gestion de l'ordre public. Les régions chiffrent déjà les dégâts en millions d'euros.",
+   "points": [
+    {
+     "text": "Édouard Geffray a été entendu à 10 h en commission des Affaires culturelles et de l'Éducation « sur le blocage des lycées ». Laurent Nuñez l'a été à 15 h en commission des Lois sur la gestion de l'ordre public et la protection des personnes face aux violences. Les deux ministres ont déjà été longuement interpellés mardi lors des questions au gouvernement.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Depuis mi-septembre, 215 élèves ont été blessés, une majorité dans le cadre d'accidents ou par le fait d'autres personnes extérieures, selon Matignon. 715 policiers ou gendarmes l'ont aussi été. Geffray dénonce 85 personnels blessés en huit jours, 24 bâtiments saccagés et incendiés, et 30 000 élèves privés de cours.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Un lycéen de 16 ans a perdu l'usage d'un œil lors d'un blocage, et un adolescent de 15 ans a eu la main arrachée par une grenade à Lens. À gauche, des députés dénoncent la répression ; l'écologiste Benjamin Lucas-Lundy a réclamé la démission de Nuñez, qui répond : « On va continuer à faire ce que nous faisons, à maintenir l'ordre, à intervenir chaque fois qu'il y a des violences avec proportionnalité ». Le socialiste Roger Vicot pose la question de la doctrine d'emploi des forces de l'ordre.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Les régions ont la charge de la construction, de l'entretien et de la rénovation des lycées. En moyenne, les lycées ont plus de 70 ans et à peine 15 % du parc a été rénové en dix ans. En mai 2026, 200 000 lycéens professionnels ont passé leur bac dans des salles surchauffées, en pleine canicule.",
+     "sources": [
+      "85cb4fd53231"
+     ]
+    },
+    {
+     "text": "Les présidents de région chiffrent les dégâts : au moins 3 millions d'euros dans les Pays de la Loire, 7 millions en Île-de-France et entre 25 et 30 millions en Rhône-Alpes, selon une première estimation. Les régions disent manquer de marges : le projet de budget 2027 réduit de cinq milliards d'euros l'enveloppe des collectivités locales.",
+     "sources": [
+      "85cb4fd53231"
+     ]
+    },
+    {
+     "text": "Interrogé mardi sur franceinfo, Édouard Geffray a détaillé les réponses du gouvernement aux revendications des lycéens : professeurs absents, journées trop longues, emplois du temps, locaux vétustes et Parcoursup. Le Parisien titre qu'il espère une reprise des cours à partir de mercredi.",
+     "sources": [
+      "bd1fc7c7841b",
+      "9f8a40f81014"
+     ]
+    },
+    {
+     "text": "Les chiffres des régions ne sont qu'une première estimation.",
+     "sources": [
+      "637cd573a004",
+      "85cb4fd53231"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_c9uf8xl-taille1200_6ac4fe4f25f99.jpg?itok=x5OT6MZP",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-07/blocus-des-lycees-les-ministres-laurent-nunez-et-edouard-geffray-auditionnes",
+    "article_id": "637cd573a004",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.018518518518518517
+   },
+   "id": 58,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T07:00:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.0,
+   "sources": [
+    {
+     "id": "637cd573a004",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Blocus des lycées : les ministres Laurent Nuñez et Edouard Geffray auditionnés à l'Assemblée nationale ce mercredi",
+     "url": "https://www.cnews.fr/france/2026-10-07/blocus-des-lycees-les-ministres-laurent-nunez-et-edouard-geffray-auditionnes",
+     "published_at": "2026-10-07T04:06:22+00:00",
+     "snippet": "Sur le devant de la scène depuis le début de la mobilisation dans les lycées, Laurent Nuñez et Édouard Geffray seront auditionnés par les députés ce mercredi à l'Assemblée nationale. Une période compliquée pour les deux ministres. Les ministres de l'Intérieur, Laurent Nuñez, et de l'Education nationale, Édouard Geffray, seront auditionnés ce mercredi par les députés à l'Assemblée nationale, au lendemain de l'acte III d'un vaste mouvement lycéen sous haute tension. Edouard Geffray sera entendu à 10h «sur le blocage des lycées» en commission des Affaires culturelles et de l'Education. Laurent Nu"
+    },
+    {
+     "id": "85cb4fd53231",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Les lycéens réclament de meilleures conditions d'études, mais les régions redoutent le coût de la facture",
+     "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-lyceens-reclament-de-meilleures-conditions-d-etudes-mais-les-regions-redoutent-le-cout-de-la-facture_8203916.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T06:05:02+00:00",
+     "snippet": "Bâtiments vétustes, salles mal chauffées ou surchauffées : les conditions matérielles figurent parmi les revendications des lycéens. Mais les régions, chargées des établissements, assurent disposer de peu de marges financières."
+    },
+    {
+     "id": "9f8a40f81014",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Blocus des lycées : Édouard Geffray espère une reprise des cours à partir de mercredi",
+     "url": "https://www.leparisien.fr/yvelines-78/blocus-des-lycees-edouard-geffray-espere-une-reprise-des-cours-a-partir-de-mercredi-05-10-2026-NVS47PRDHBDL7KNX67JMEUTYTY.php",
+     "published_at": "2026-10-05T21:12:48+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "bd1fc7c7841b",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Blocage des lycées, vétusté des locaux, violences recensées depuis le début du mouvement... Le \"8h30 franceinfo\" d'Édouard Geffray",
+     "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/blocage-des-lycees-vetuste-des-locaux-violences-recensees-depuis-le-debut-du-mouvement-le-8h30-franceinfo-d-edouard-geffray_8203937.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T06:54:55+00:00",
+     "snippet": "Édouard Geffray, ministre de l'Éducation nationale, est dans le \"8h30 franceinfo\"."
+    }
+   ]
+  },
+  {
    "headline": "Grenades assourdissantes suspendues pour le mouvement lycéen, des policiers s'en inquiètent",
    "chapo": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a suspendu l'usage des grenades assourdissantes dans le cadre du mouvement lycéen, après la main d'un adolescent arrachée à Lens. Une enquête de l'IGPN est ouverte, et la mesure est mal perçue dans la police, selon Le Figaro.",
    "points": [
@@ -490,7 +598,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.0,
+   "score": 6.99,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -586,7 +694,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.41,
+   "score": 7.4,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -1245,7 +1353,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.85,
+   "score": 10.84,
    "sources": [
     {
      "id": "029fa60d169a",
