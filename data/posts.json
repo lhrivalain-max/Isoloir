@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:06:54+00:00",
+ "generated_at": "2026-10-08T06:20:20+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.57,
+   "score": 13.53,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -241,130 +241,6 @@
    ]
   },
   {
-   "headline": "Casseurs-payeurs : le texte vise les aides sociales, Panot dénonce une « répression massive »",
-   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné en première lecture au Sénat à partir du 27 octobre. Il doit permettre de faire payer les dégâts liés aux violences autour du mouvement lycéen. La présidente du groupe LFI à l'Assemblée, Mathilde Panot, y voit une « présomption de culpabilité ».",
-   "points": [
-    {
-     "text": "La porte-parole du gouvernement, Maud Bregeon, a annoncé lundi sur CNews l'examen du texte au Sénat dès le 27 octobre. Le gouvernement le présente comme une réponse aux violences liées au mouvement lycéen, étendu à toute la France. Mardi 6 octobre, le président LR du Sénat, Gérard Larcher, a confirmé sur BFMTV et RMC un examen « avant la fin du mois ».",
-     "sources": [
-      "2cf07b3fa22a",
-      "e55c04ab809f",
-      "ca6c4110c79d"
-     ]
-    },
-    {
-     "text": "Le texte vise à permettre de faire payer les dégâts à leurs auteurs. Selon BFMTV, le gouvernement veut garantir que les amendes soient payées « en totalité », quitte à « piocher dans les aides sociales, les APL ». Le gouvernement parle de « responsabilité collective ». Une « co-responsabilité » pourrait aussi être engagée pour certaines personnes présentes, mais l'extrait de BFMTV ne détaille pas les conditions.",
-     "sources": [
-      "2cf07b3fa22a",
-      "e55c04ab809f"
-     ]
-    },
-    {
-     "text": "L'objectif affiché par le gouvernement est d'arrêter que « les impôts (des Français) paient pour les dégradations d'une minorité violente ». Cet argument est rapporté par BFMTV.",
-     "sources": [
-      "e55c04ab809f"
-     ]
-    },
-    {
-     "text": "Mathilde Panot juge le texte « une arme de répression massive contre toutes les manifestations ». Elle estime qu'il instaure « une présomption de culpabilité ».",
-     "sources": [
-      "47168a3252b3"
-     ]
-    },
-    {
-     "text": "À Tours, un lycéen de 16 ans a perdu l'usage de son œil droit mercredi 30 septembre, vraisemblablement à cause d'un tir de LBD, selon Libération. Les insoumis, socialistes, écologistes et communistes d'Indre-et-Loire ont dénoncé ces violences dans un texte commun, que Libération qualifie de rare.",
-     "sources": [
-      "274f55af3ab2"
-     ]
-    },
-    {
-     "text": "Le Figaro consacre deux portraits à des porte-parole de 18 ans de la mobilisation. Nathanaël Combary, président du conseil d'administration de Renouveau lycéen, est adhérent de Renaissance. Jean-Luc Mélenchon l'accuse de masquer ses engagements politiques. Ryad Rani, président de l'Union syndicale lycéenne, est présenté comme proche de La France insoumise.",
-     "sources": [
-      "8aca37d1c0b5",
-      "60a201688565"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 10,
-    "outlets": 6
-   },
-   "image": null,
-   "id": 46,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T17:40:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.37,
-   "sources": [
-    {
-     "id": "274f55af3ab2",
-     "name": "Libération",
-     "kind": "media",
-     "title": "De LFI au PS, la gauche s’unit à Tours contre les violences policières sur les lycéens : «On peut se retrouver sur des sujets de fond»",
-     "url": "https://www.liberation.fr/politique/de-lfi-au-ps-la-gauche-sunit-a-tours-contre-les-violences-policieres-sur-les-lyceens-on-peut-se-retrouver-sur-des-sujets-de-fond-20261005_I44Z7IWIF5APFGT7OCDSKXQDQE/",
-     "published_at": "2026-10-05T15:01:22+00:00",
-     "snippet": "Un lycéen de 16 ans a perdu l’usage de son œil droit mercredi 30 septembre à Tours, vraisemblablement à cause d’un tir de LBD. Insoumis, socialistes, écolos et communistes d’Indre-et-Loire ont dénoncé ces violences dans un rare texte commun."
-    },
-    {
-     "id": "2cf07b3fa22a",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Blocus des lycées : que prévoit la loi «casseurs-payeurs» présentée au Sénat le 27 octobre prochain",
-     "url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
-     "published_at": "2026-10-05T20:31:48+00:00",
-     "snippet": "Face aux violences liées au mouvement lycéen, qui s’est étendu à toute la France, le gouvernement a annoncé l’examen au Sénat, le 27 octobre, du projet de loi «casseurs-payeurs». Un texte qui prévoit une «forme de responsabilité collective». Agir face aux violences. Invitée sur CNEWS ce lundi, la porte-parole du gouvernement Maud Bregeon a annoncé l’examen du projet de loi «casseurs-payeurs» en première lecture au Sénat dès le 27 octobre prochain. Une décision qui fait suite aux violences autour du mouvement lycéen. Ce texte vise à donner la possibilité de faire payer des dégâts, y compris par"
-    },
-    {
-     "id": "47168a3252b3",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le projet de loi \"casseurs-payeurs\" est \"une arme de répression massive contre toutes les manifestations\", estime Mathilde Panot",
-     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-projet-de-loi-casseurs-payeurs-est-une-arme-de-repression-massive-contre-toutes-les-manifestations-estime-mathilde-panot_8223037.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T07:56:20+00:00",
-     "snippet": "La présidente du groupe des députés de La France insoumise estime que le texte instaure \"une présomption de culpabilité\"."
-    },
-    {
-     "id": "60a201688565",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "«Il a une capacité à réseauter impressionnante» : qui est Ryad Rani, le président de l’Union syndicale lycéenne, proche de La France Insoumise ?",
-     "url": "https://www.lefigaro.fr/actualite-france/il-a-une-capacite-a-reseauter-impressionnante-qui-est-ryad-rani-le-president-de-l-union-syndicale-lyceenne-proche-de-la-france-insoumise-20261006",
-     "published_at": "2026-10-06T12:29:51+00:00",
-     "snippet": "PORTRAIT – À seulement 18 ans, le jeune homme a été projeté sur le devant de la scène en devenant l’un des principaux porte-parole du mouvement lycéen."
-    },
-    {
-     "id": "8aca37d1c0b5",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
-     "url": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
-     "published_at": "2026-10-05T19:43:48+00:00",
-     "snippet": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon de masquer ses engagements politiques."
-    },
-    {
-     "id": "ca6c4110c79d",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Projet de loi “casseurs-payeurs”: Gérard Larcher, président LR du Sénat, confirme un examen “avant la fin du mois”",
-     "url": "https://www.bfmtv.com/politique/video-projet-de-loi-casseurs-payeurs-gerard-larcher-president-lr-du-senat-confirme-un-examen-avant-la-fin-du-mois_VN-202610060244.html",
-     "published_at": "2026-10-06T06:45:57+00:00",
-     "snippet": "Gérard Larcher, président LR du Sénat, était l’invité du Face-à-Face sur BFMTV et RMC ce mardi 06 octobre 2026."
-    },
-    {
-     "id": "e55c04ab809f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "LES ÉCLAIREURS - Qui va payer les dégâts liés aux blocages des lycées?",
-     "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
-     "published_at": "2026-10-05T08:49:58+00:00",
-     "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
-    }
-   ]
-  },
-  {
    "headline": "Inceste : les députés créent une infraction spécifique et l'étendent aux cousins germains",
    "chapo": "Mardi 6 octobre, les députés ont voté à l'unanimité la création d'une infraction d'inceste dans le Code pénal. Ils ont aussi élargi sa définition aux cousins germains. Ces mesures font partie de la loi « intégrale » contre les violences sexistes et sexuelles, dont le vote solennel est prévu le 13 octobre.",
    "points": [
@@ -429,7 +305,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 7.53,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -538,7 +414,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.0,
+   "score": 6.28,
    "sources": [
     {
      "id": "573133300860",
@@ -640,7 +516,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 5.65,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -744,7 +620,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.65,
+   "score": 3.82,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -842,7 +718,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.0,
+   "score": 3.77,
    "sources": [
     {
      "id": "068789211545",
@@ -931,7 +807,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.3,
+   "score": 13.38,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -1088,7 +964,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.73,
+   "score": 10.95,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -1315,7 +1191,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.12,
+   "score": 11.73,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -1527,6 +1403,137 @@
    ]
   },
   {
+   "headline": "Casseurs-payeurs : le texte vise les aides sociales, Panot dénonce une « répression massive »",
+   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné en première lecture au Sénat à partir du 27 octobre. Il doit permettre de faire payer les dégâts liés aux violences autour du mouvement lycéen. La présidente du groupe LFI à l'Assemblée, Mathilde Panot, y voit une « présomption de culpabilité ».",
+   "points": [
+    {
+     "text": "La porte-parole du gouvernement, Maud Bregeon, a annoncé lundi sur CNews l'examen du texte au Sénat dès le 27 octobre. Le gouvernement le présente comme une réponse aux violences liées au mouvement lycéen, étendu à toute la France. Mardi 6 octobre, le président LR du Sénat, Gérard Larcher, a confirmé sur BFMTV et RMC un examen « avant la fin du mois ».",
+     "sources": [
+      "2cf07b3fa22a",
+      "e55c04ab809f",
+      "ca6c4110c79d"
+     ]
+    },
+    {
+     "text": "Le texte vise à permettre de faire payer les dégâts à leurs auteurs. Selon BFMTV, le gouvernement veut garantir que les amendes soient payées « en totalité », quitte à « piocher dans les aides sociales, les APL ». Le gouvernement parle de « responsabilité collective ». Une « co-responsabilité » pourrait aussi être engagée pour certaines personnes présentes, mais l'extrait de BFMTV ne détaille pas les conditions.",
+     "sources": [
+      "2cf07b3fa22a",
+      "e55c04ab809f"
+     ]
+    },
+    {
+     "text": "L'objectif affiché par le gouvernement est d'arrêter que « les impôts (des Français) paient pour les dégradations d'une minorité violente ». Cet argument est rapporté par BFMTV.",
+     "sources": [
+      "e55c04ab809f"
+     ]
+    },
+    {
+     "text": "Mathilde Panot juge le texte « une arme de répression massive contre toutes les manifestations ». Elle estime qu'il instaure « une présomption de culpabilité ».",
+     "sources": [
+      "47168a3252b3"
+     ]
+    },
+    {
+     "text": "À Tours, un lycéen de 16 ans a perdu l'usage de son œil droit mercredi 30 septembre, vraisemblablement à cause d'un tir de LBD, selon Libération. Les insoumis, socialistes, écologistes et communistes d'Indre-et-Loire ont dénoncé ces violences dans un texte commun, que Libération qualifie de rare.",
+     "sources": [
+      "274f55af3ab2"
+     ]
+    },
+    {
+     "text": "Le Figaro consacre deux portraits à des porte-parole de 18 ans de la mobilisation. Nathanaël Combary, président du conseil d'administration de Renouveau lycéen, est adhérent de Renaissance. Jean-Luc Mélenchon l'accuse de masquer ses engagements politiques. Ryad Rani, président de l'Union syndicale lycéenne, est présenté comme proche de La France insoumise.",
+     "sources": [
+      "8aca37d1c0b5",
+      "60a201688565"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 10,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2a27vj-taille1200_6ac3e3d6667a1.jpg?itok=k7MuvIau",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
+    "article_id": "2cf07b3fa22a",
+    "focus_x": 0.5,
+    "focus_y": 0.3
+   },
+   "id": 46,
+   "section": "institutions",
+   "reviewed_at": "2026-10-06T17:40:42+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 8.7,
+   "sources": [
+    {
+     "id": "274f55af3ab2",
+     "name": "Libération",
+     "kind": "media",
+     "title": "De LFI au PS, la gauche s’unit à Tours contre les violences policières sur les lycéens : «On peut se retrouver sur des sujets de fond»",
+     "url": "https://www.liberation.fr/politique/de-lfi-au-ps-la-gauche-sunit-a-tours-contre-les-violences-policieres-sur-les-lyceens-on-peut-se-retrouver-sur-des-sujets-de-fond-20261005_I44Z7IWIF5APFGT7OCDSKXQDQE/",
+     "published_at": "2026-10-05T15:01:22+00:00",
+     "snippet": "Un lycéen de 16 ans a perdu l’usage de son œil droit mercredi 30 septembre à Tours, vraisemblablement à cause d’un tir de LBD. Insoumis, socialistes, écolos et communistes d’Indre-et-Loire ont dénoncé ces violences dans un rare texte commun."
+    },
+    {
+     "id": "2cf07b3fa22a",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Blocus des lycées : que prévoit la loi «casseurs-payeurs» présentée au Sénat le 27 octobre prochain",
+     "url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
+     "published_at": "2026-10-05T20:31:48+00:00",
+     "snippet": "Face aux violences liées au mouvement lycéen, qui s’est étendu à toute la France, le gouvernement a annoncé l’examen au Sénat, le 27 octobre, du projet de loi «casseurs-payeurs». Un texte qui prévoit une «forme de responsabilité collective». Agir face aux violences. Invitée sur CNEWS ce lundi, la porte-parole du gouvernement Maud Bregeon a annoncé l’examen du projet de loi «casseurs-payeurs» en première lecture au Sénat dès le 27 octobre prochain. Une décision qui fait suite aux violences autour du mouvement lycéen. Ce texte vise à donner la possibilité de faire payer des dégâts, y compris par"
+    },
+    {
+     "id": "47168a3252b3",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le projet de loi \"casseurs-payeurs\" est \"une arme de répression massive contre toutes les manifestations\", estime Mathilde Panot",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-projet-de-loi-casseurs-payeurs-est-une-arme-de-repression-massive-contre-toutes-les-manifestations-estime-mathilde-panot_8223037.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-05T07:56:20+00:00",
+     "snippet": "La présidente du groupe des députés de La France insoumise estime que le texte instaure \"une présomption de culpabilité\"."
+    },
+    {
+     "id": "60a201688565",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "«Il a une capacité à réseauter impressionnante» : qui est Ryad Rani, le président de l’Union syndicale lycéenne, proche de La France Insoumise ?",
+     "url": "https://www.lefigaro.fr/actualite-france/il-a-une-capacite-a-reseauter-impressionnante-qui-est-ryad-rani-le-president-de-l-union-syndicale-lyceenne-proche-de-la-france-insoumise-20261006",
+     "published_at": "2026-10-06T12:29:51+00:00",
+     "snippet": "PORTRAIT – À seulement 18 ans, le jeune homme a été projeté sur le devant de la scène en devenant l’un des principaux porte-parole du mouvement lycéen."
+    },
+    {
+     "id": "8aca37d1c0b5",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
+     "url": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
+     "published_at": "2026-10-05T19:43:48+00:00",
+     "snippet": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon de masquer ses engagements politiques."
+    },
+    {
+     "id": "ca6c4110c79d",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Projet de loi “casseurs-payeurs”: Gérard Larcher, président LR du Sénat, confirme un examen “avant la fin du mois”",
+     "url": "https://www.bfmtv.com/politique/video-projet-de-loi-casseurs-payeurs-gerard-larcher-president-lr-du-senat-confirme-un-examen-avant-la-fin-du-mois_VN-202610060244.html",
+     "published_at": "2026-10-06T06:45:57+00:00",
+     "snippet": "Gérard Larcher, président LR du Sénat, était l’invité du Face-à-Face sur BFMTV et RMC ce mardi 06 octobre 2026."
+    },
+    {
+     "id": "e55c04ab809f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "LES ÉCLAIREURS - Qui va payer les dégâts liés aux blocages des lycées?",
+     "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
+     "published_at": "2026-10-05T08:49:58+00:00",
+     "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
+    }
+   ]
+  },
+  {
    "headline": "Assemblée : Lecornu vise LFI sur les lycées, unités de police votées sur les violences sexuelles",
    "chapo": "Le Premier ministre Sébastien Lecornu a accusé La France insoumise de « mensonges » mardi 6 octobre, lors de la reprise des questions au gouvernement. Les députés ont aussi adopté la création d'unités spécialisées de police dans la loi intégrale contre les violences sexistes et sexuelles.",
    "points": [
@@ -1587,7 +1594,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.91,
+   "score": 6.12,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -1725,7 +1732,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.75,
+   "score": 5.93,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -1823,7 +1830,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.28,
+   "score": 3.41,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -1956,7 +1963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.33,
+   "score": 9.63,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -2231,7 +2238,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.29,
+   "score": 6.93,
    "sources": [
     {
      "id": "3566bb310543",
@@ -2383,7 +2390,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.98,
+   "score": 4.16,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -2500,7 +2507,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.78,
+   "score": 1.51,
    "sources": [
     {
      "id": "224ef3002ed2",
@@ -2519,233 +2526,6 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
      "published_at": "2026-10-04T16:48:36+00:00",
      "snippet": "Le texte prévoit de rendre les participants à un attroupement collectivement responsables des dégradations qui y sont commises, dans la limite de 10 000 euros, sans avoir à prouver qu’ils en sont personnellement les auteurs."
-    }
-   ]
-  },
-  {
-   "headline": "Bardella : Mediapart détaille sa méthode d'authentification, le RN conteste et annonce une plainte",
-   "chapo": "Trois jours après ses révélations, Mediapart a publié des éléments censés authentifier des messages antisémites de 2013 attribués à Jordan Bardella. Le président du RN conteste en être l'auteur et annonce une plainte pour faux et usage de faux. Gérald Darmanin et Olivier Faure l'accusent de mentir.",
-   "points": [
-    {
-     "text": "Jeudi 1er octobre, trois jours après ses premières révélations, Mediapart a publié des extraits de conversations privées issues de Facebook Messenger. Ces messages datent de 2013 et sont attribués à Jordan Bardella. Le journal assure qu'ils n'ont pas pu être modifiés.",
-     "sources": [
-      "2c9e52c0085d",
-      "2a62e7257826",
-      "9e90a24ff3b3"
-     ]
-    },
-    {
-     "text": "Selon franceinfo, Mediapart justifie l'authentification par une extraction des données, un constat d'huissier et des e-mails. Le Monde indique que le journal est passé par Meta et un huissier. Franceinfo rappelle que Meta propose cette possibilité, en respectant les règles de l'Union européenne.",
-     "sources": [
-      "2c9e52c0085d",
-      "6a34beb37332",
-      "9e90a24ff3b3"
-     ]
-    },
-    {
-     "text": "Jordan Bardella continue de nier être l'auteur de ces messages. Il parle de « montages grossiers » et annonce une seconde plainte pour faux et usage de faux, après une première plainte pour diffamation.",
-     "sources": [
-      "c50fab9dd534",
-      "2a62e7257826",
-      "e5472b83880e",
-      "6a34beb37332"
-     ]
-    },
-    {
-     "text": "Gérald Darmanin accuse le président du RN de mentir « éhontément ». Olivier Faure le qualifie aussi de menteur et estime qu'« il ne peut plus prétendre à Matignon ». Selon le titre de franceinfo, la défense de Bardella ne convainc pas ses opposants.",
-     "sources": [
-      "6a34beb37332",
-      "6d381d1ec619",
-      "2a62e7257826"
-     ]
-    },
-    {
-     "text": "Le député LFI Éric Coquerel estime que Jordan Bardella « fait preuve des clichés antisémites les plus rances qui existent ». Il fait valoir que, lorsque Mediapart lance une affaire, le journal « a tous les éléments derrière ».",
-     "sources": [
-      "0973cac592dc"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, la preuve numérique sera la pièce maîtresse d'un « inévitable marathon judiciaire ». Le journal parle du début d'un long feuilleton judiciaire, avec la plainte pour faux et usage de faux annoncée par Bardella.",
-     "sources": [
-      "e5472b83880e"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : l'issue des procédures. Bardella annonce une seconde plainte pour faux et usage de faux après une première pour diffamation. Les extraits ne font état d'aucune décision de justice.",
-     "sources": [
-      "c50fab9dd534",
-      "e5472b83880e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 12,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/5p41Vanl3Xi7xlkkEBuD6vF8Cis/0x534:7416x4706/1500x843/2026/10/02/6abf6e89eb930609285611.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/jordan-bardella/extraction-des-donnees-constat-d-huissier-e-mails-comment-mediapart-justifie-l-authentification-des-messages-antisemites-attribues-a-jordan-bardella_8219347.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "2c9e52c0085d",
-    "focus_x": 0.5233333333333333,
-    "focus_y": 0.20491195551436514
-   },
-   "id": 32,
-   "section": "institutions",
-   "reviewed_at": "2026-10-04T16:19:30+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.01,
-   "sources": [
-    {
-     "id": "0973cac592dc",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Jordan Bardella \"fait preuve des clichés antisémites les plus rances qui existent\", commente Eric Coquerel après les nouvelles révélations de Mediapart",
-     "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-fait-preuve-des-cliches-antisemites-les-plus-rances-qui-existent-commente-eric-coquerel-apres-les-nouvelles-revelations-de-mediapart_8219422.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T08:21:11+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "2a62e7257826",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Ces preuves n'en sont pas\" : la défense de Jordan Bardella face aux preuves publiées de Mediapart ne convainc pas ses opposants",
-     "url": "https://www.franceinfo.fr/politique/jordan-bardella/ces-preuves-n-en-sont-pas-la-defense-de-jordan-bardella-face-aux-preuves-publiees-de-mediapart-ne-convainc-pas-ses-opposants_8219836.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T13:19:49+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "2c9e52c0085d",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Extraction des données, constat d'huissier, e-mails... Comment Mediapart justifie l'authentification des messages antisémites attribués à Jordan Bardella",
-     "url": "https://www.franceinfo.fr/politique/jordan-bardella/extraction-des-donnees-constat-d-huissier-e-mails-comment-mediapart-justifie-l-authentification-des-messages-antisemites-attribues-a-jordan-bardella_8219347.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T10:15:49+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6a34beb37332",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Enquête sur Jordan Bardella : Gérald Darmanin accuse le président du RN de mentir « éhontément »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/enquete-sur-jordan-bardella-gerald-darmanin-accuse-le-president-du-rn-de-mentir-ehontement_6787109_823448.html",
-     "published_at": "2026-10-02T07:52:44+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6d381d1ec619",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Bardella accusé d’antisémitisme : Pour Gérald Darmanin et Olivier Faure, le président du RN ment",
-     "url": "https://www.20minutes.fr/politique/4250630-20261002-bardella-accuse-antisemitisme-gerald-darmanin-olivier-faure-president-rn-ment?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-02T08:47:47+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "9e90a24ff3b3",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Enquête de Mediapart sur Jordan Bardella : n'importe qui peut-il demander à Meta l'historique de ses messages et publications ?",
-     "url": "https://www.franceinfo.fr/politique/jordan-bardella/enquete-de-mediapart-sur-jordan-bardella-tout-le-monde-peut-il-demander-son-historique-de-messages-et-de-publications-a-meta_8219515.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T12:28:35+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c50fab9dd534",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Des montages grossiers\" : Jordan Bardella contre-attaque après les nouvelles révélations de Mediapart",
-     "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/des-montages-grossiers-jordan-bardella-contre-attaque-apres-les-nouvelles-revelations-de-mediapart_8219371.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-02T07:23:43+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "e5472b83880e",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "La preuve numérique, pièce maîtresse d’un inévitable marathon judiciaire pour Jordan Bardella",
-     "url": "https://www.lefigaro.fr/politique/la-preuve-numerique-piece-maitresse-d-un-inevitable-marathon-judiciaire-pour-jordan-bardella-20261002",
-     "published_at": "2026-10-02T17:59:32+00:00",
-     "snippet": "DÉCRYPTAGE - Le président du Rassemblement national, qui conteste être l’auteur des messages à caractère antisémite publiés par Mediapart, a annoncé vouloir déposer une plainte pour faux et usage de faux. Le début d’un long feuilleton judiciaire."
-    }
-   ]
-  },
-  {
-   "headline": "Fonctionnaires : hausse du minimum de traitement, les syndicats parlent de « mesurettes »",
-   "chapo": "Trois jours après les grandes manifestations, le gouvernement propose de relever l'indice minimum des fonctionnaires. Les syndicats jugent ces mesures insuffisantes, alors que la valeur du point d'indice reste gelée en 2027.",
-   "points": [
-    {
-     "text": "Vendredi 2 octobre, le gouvernement a annoncé vouloir relever le « minimum de traitement » de la fonction publique. L'annonce intervient trois jours après les grandes manifestations. Elle répond à un pouvoir d'achat des fonctionnaires qui se réduit face à l'inflation.",
-     "sources": [
-      "1ecdf9948b9f",
-      "5a679f7a053d",
-      "a10b0b0d9665"
-     ]
-    },
-    {
-     "text": "Le ministre des Comptes publics, David Amiel, veut faire passer 400 000 agents au-dessus du smic. Il promet aussi des « injections pérennes de points d'indice » dans les premiers échelons. Selon lui, l'objectif est de « commencer à redonner de la valeur à l'avancement et à l'ancienneté ».",
-     "sources": [
-      "a10b0b0d9665"
-     ]
-    },
-    {
-     "text": "Les syndicats jugent la mesure insuffisante. Selon Le Monde, ils dénoncent des « mesurettes » et de « l'affichage », et restent échaudés par le gel, en 2027, de la valeur du point d'indice.",
-     "sources": [
-      "1ecdf9948b9f",
-      "5a679f7a053d",
-      "a10b0b0d9665"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 2
-   },
-   "image": {
-    "url": "https://img.20mn.fr/3XswlYxRTQ-bBOZzkiZCEik/1200x768_a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-greve-et-manifestation-de-la-fonction-publique-avant-la-presentation-du-projet-de-loi-de-finances-pour-l-annee-2027-par-sebastien-lecornu-le-29-septembre-2026-de-la-place-de-la-republique-a-place-de-la-nation-a-paris-paris-france-29-09-2026-at-the-call-of-the-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-and-fa-fp-unions-a-strike-and-demonstration-by-public-sector-workers-will-take-place-before-the-presentation-of-the-2027-budget-bill-by-sebastien-lecornu-on-september-29-2026-paris-france-29-09-2026-harsin-manifintersyndicalefonctionpublique046-credit-isa-harsin-sipa-2609292213",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4250856-20261002-fonctionnaires-gouvernement-propose-relever-indice-minimum-syndicats-crient-mesurettes?at_medium=display&at_campaign=149",
-    "article_id": "1ecdf9948b9f"
-   },
-   "id": 33,
-   "section": "institutions",
-   "reviewed_at": "2026-10-04T16:18:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.75,
-   "sources": [
-    {
-     "id": "1ecdf9948b9f",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Fonctionnaires : Le gouvernement propose de relever l’indice minimum, les syndicats crient aux « mesurettes »",
-     "url": "https://www.20minutes.fr/politique/4250856-20261002-fonctionnaires-gouvernement-propose-relever-indice-minimum-syndicats-crient-mesurettes?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-02T16:43:17+00:00",
-     "snippet": "Trois jours après les grandes manifestations, le gouvernement a proposé une hausse de l’indice minimum des fonctionnaires, dont le pouvoir d’achat se réduit face à l’inflation"
-    },
-    {
-     "id": "5a679f7a053d",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Salaires des fonctionnaires : les mesures « ciblées » du gouvernement ne calment pas la colère des syndicats",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/salaires-des-fonctionnaires-les-mesures-ciblees-du-gouvernement-ne-calment-pas-la-colere-des-syndicats_6787165_823448.html",
-     "published_at": "2026-10-02T14:44:46+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "a10b0b0d9665",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Fonction publique : le gouvernement propose de relever l’indice minimal des agents, les syndicats déplorent « des mesurettes » et de « l’affichage »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/02/fonction-publique-le-gouvernement-propose-de-relever-l-indice-minimal-des-agents-les-syndicats-decus_6787177_823448.html",
-     "published_at": "2026-10-02T15:13:09+00:00",
-     "snippet": "Le ministre des comptes publics, David Amiel, veut faire passer 400 000 agents au-dessus du smic. « Ce relèvement s’accompagnera d’injections pérennes de points d’indice dans les premiers échelons, pour commencer à redonner de la valeur à l’avancement et à l’ancienneté », a-t-il également assuré."
     }
    ]
   }
