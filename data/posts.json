@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T15:00:13+00:00",
+ "generated_at": "2026-10-08T16:06:12+00:00",
  "posts": [
   {
    "headline": "Marine Le Pen : aucune banque française n'accepte de financer sa campagne, le gouvernement cherche une solution",
@@ -79,14 +79,13 @@
     "article_url": "https://www.20minutes.fr/politique/4252408-20261008-presidentielle-2027-elles-toutes-refuse-marine-pen-cherche-toujours-banque-campagne?at_medium=display&at_campaign=149",
     "article_id": "95dea150e718"
    },
-   "social_requested": "2026-10-08T14:59:53+00:00",
    "id": 71,
    "section": "presidentielle",
    "reviewed_at": "2026-10-08T15:00:09+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 11.47,
    "sources": [
     {
      "id": "047109bba606",
@@ -98,15 +97,6 @@
      "snippet": "Le Rassemblement national déplore être confronté à des refus de prêts de la part des banques françaises en vue de financer la campagne présidentielle de la candidate, ou du candidat, qui portera ses couleurs l'année prochaine. Une situation qui pose la question du financement de la vie politique et "
     },
     {
-     "id": "3c48cc970b51",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Au Sommet de l’élevage, Marine Le Pen espère prendre du champ avec « l’affaire Bardella »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/au-sommet-de-lelevage-marine-le-pen-espere-prendre-du-champ-avec-laffaire-bardella-07-10-2026-AKB3SKHJNFFQXPLZEJQGXBRLFQ.php",
-     "published_at": "2026-10-07T19:25:39+00:00",
-     "snippet": ""
-    },
-    {
      "id": "81cd8cc3a84a",
      "name": "franceinfo",
      "kind": "media",
@@ -114,15 +104,6 @@
      "url": "https://www.franceinfo.fr/politique/marine-le-pen/pourquoi-le-premier-ministre-cherche-a-convaincre-les-banques-francaises-d-accorder-un-pret-a-marine-le-pen-pour-la-presidentielle_8125397.html",
      "published_at": "2026-07-29T05:56:00+00:00",
      "snippet": "Sébastien Lecornu a réuni plusieurs grandes banques françaises, lundi, pour les inciter à financer les campagnes présidentielles de 2027, y compris celle de la candidate du Rassemblement national, qui peine à décrocher un emprunt dans l'Hexagone.\nPour sauvegarder cet article, connectez-vous ou créez"
-    },
-    {
-     "id": "90d1ef407b5d",
-     "name": "Libération",
-     "kind": "media",
-     "title": "En déplacement à Cournon, Marine Le Pen tente d’échapper à l’affaire Bardella",
-     "url": "https://www.liberation.fr/politique/accusations-dantisemitisme-marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-20261007_WTWZEN2HVNAULHAGRDYXLRT4IY/",
-     "published_at": "2026-10-07T18:04:45+00:00",
-     "snippet": "La candidate, au salon de l’élevage ce mercredi 7 octobre, a renouvelé sa confiance envers le patron du RN, après les révélations de «Mediapart». Une pause, alors que la campagne est percutée par ces écrits antisémites."
     },
     {
      "id": "95dea150e718",
@@ -150,15 +131,6 @@
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-campagne-presidentielle-les-banques-ont-toutes-refuse-les-demandes-de-financement-du-rn-declare-marine-le-pen_VN-202610080294.html",
      "published_at": "2026-10-08T07:30:02+00:00",
      "snippet": "La candidate RN à l'élection présidentielle s'exprime sur la campagne de l'élection présidentielle 2027, lors de sa conférence de presse de présentation de la proposition de budget du RN, mardi 6 octobre à Paris."
-    },
-    {
-     "id": "d2ce6bb90f9d",
-     "name": "Orange (6Médias, d'après BFM Business et L'Express)",
-     "kind": "media",
-     "title": "Financement de campagne : refusée par toutes les banques françaises, Marine Le Pen veut autoriser les prêts de particuliers",
-     "url": "https://actu.orange.fr/politique/financement-de-campagne-refusee-par-toutes-les-banques-francaises-marine-le-pen-veut-autoriser-les-prets-de-particuliers-magic-CNT000002spmiS.html",
-     "published_at": "2026-10-08T07:36:00+00:00",
-     "snippet": "Faute de financements par les banques françaises, Marine Le Pen plaide pour autoriser les prêts de particuliers à la présidentielle. Le gouvernement, lui, étudie un pool de banques garanti par l'État.\nLargement en tête des intentions de vote à un peu plus de six mois du premier tour du scrutin, Mari"
     }
    ]
   },
@@ -237,7 +209,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.49,
+   "score": 13.05,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -414,14 +386,13 @@
     "focus_x": 0.6166666666666667,
     "focus_y": 0.10709635416666667
    },
-   "social_requested": "2026-10-08T14:59:43+00:00",
    "id": 70,
    "section": "institutions",
    "reviewed_at": "2026-10-08T15:00:13+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.34,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -556,7 +527,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.5,
+   "score": 7.25,
    "sources": [
     {
      "id": "637cd573a004",
@@ -650,7 +621,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.28,
+   "score": 5.1,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -743,7 +714,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.25,
+   "score": 5.07,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -901,7 +872,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.39,
+   "score": 11.17,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -1078,7 +1049,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.14,
+   "score": 6.0,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -1187,7 +1158,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.12,
+   "score": 5.0,
    "sources": [
     {
      "id": "573133300860",
@@ -1289,7 +1260,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.61,
+   "score": 4.5,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -1393,7 +1364,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.19,
+   "score": 3.13,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -1491,7 +1462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.07,
+   "score": 3.0,
    "sources": [
     {
      "id": "068789211545",
@@ -1580,7 +1551,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.76,
+   "score": 11.58,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -1737,7 +1708,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.74,
+   "score": 9.61,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -1964,7 +1935,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.32,
+   "score": 10.16,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -2239,7 +2210,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.62,
+   "score": 7.5,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -2367,7 +2338,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.37,
+   "score": 5.29,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -2505,7 +2476,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.19,
+   "score": 5.11,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -2603,7 +2574,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.04,
+   "score": 3.0,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -2631,307 +2602,6 @@
      "url": "https://www.liberation.fr/politique/elections/senat-lr-reste-le-plus-gros-groupe-apres-une-semaine-de-tractations-lunion-centriste-devance-dun-rien-le-ps-20261005_DS46VJME4FEA5ON2I67GULOEFI/",
      "published_at": "2026-10-05T18:28:17+00:00",
      "snippet": "Quelques mois avant l’élection présidentielle, la plus haute chambre du pays a officialisé ce lundi sa nouvelle répartition après les élections qui se sont tenues le 27 septembre."
-    }
-   ]
-  },
-  {
-   "headline": "Colère lycéenne : Lecornu confie cinq chantiers à ses ministres, décisions d'ici fin octobre",
-   "chapo": "Dimanche 4 octobre, Sébastien Lecornu a envoyé une lettre à plusieurs de ses ministres. Il leur confie cinq chantiers issus des sujets remontés par les conseils académiques de la vie lycéenne et attend des décisions avant la fin du mois. Lundi, plus de 400 établissements sont perturbés en début de journée, et Mathilde Panot dénonce de la « gesticulation ».",
-   "points": [
-    {
-     "text": "Le Premier ministre a adressé dimanche 4 octobre une lettre à plusieurs de ses ministres, cinq selon franceinfo. Selon BFMTV, il leur a confié « une feuille de route avec cinq chantiers » pour répondre à la colère lycéenne. Franceinfo parle aussi d'une feuille de route de cinq chantiers, et 20 Minutes d'une liste de cinq chantiers prioritaires.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597",
-      "5b7af36a2ee9",
-      "69c70969ddb2",
-      "d64e56d47934"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, ces cinq chantiers sont issus des sujets remontés par les conseils académiques de la vie lycéenne. Le Monde cite des « premières décisions attendues avant la fin du mois ». 20 Minutes et franceinfo parlent aussi de résultats ou de décisions attendus à la fin d'octobre.",
-     "sources": [
-      "d63337f3cf75",
-      "5b7af36a2ee9",
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Lecornu affirme que « le dialogue doit produire des changements visibles dans les lycées ». Le titre de franceinfo cite, parmi les sujets concernés, l'amélioration des locaux et le remplacement des professeurs. Les extraits disponibles ne détaillent pas les cinq chantiers.",
-     "sources": [
-      "63145e97bde9"
-     ]
-    },
-    {
-     "text": "Le chef du gouvernement demande aussi que les cours reprennent dès lundi « partout » où la sécurité le permet. Franceinfo décrit un retour progressif des cours à partir de lundi, et précise que Lecornu appelle les lycéens à travailler.",
-     "sources": [
-      "d63337f3cf75",
-      "3ced4b48c597"
-     ]
-    },
-    {
-     "text": "Dimanche, le ministre de l'Éducation nationale a annoncé que les cours seraient « totalement ou partiellement » suspendus lundi 5 octobre dans « 400 à 500 » lycées, où les conditions de sécurité « ne sont pas réunies ». BFMTV indique que plus de 400 établissements étaient perturbés en début de journée lundi.",
-     "sources": [
-      "ebaac4ec512a",
-      "69c70969ddb2",
-      "3566bb310543"
-     ]
-    },
-    {
-     "text": "Édouard Geffray, ministre de l'Éducation nationale, a déclaré que « 190 élèves ont été blessés depuis le début » de la mobilisation. De son côté, Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur, juge les interventions des forces de l'ordre « proportionnées ».",
-     "sources": [
-      "69c70969ddb2",
-      "3566bb310543",
-      "ebaac4ec512a"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : le contenu précis des décisions promises avant la fin du mois. Une manifestation réunissant organisations lycéennes, universitaires et intersyndicale a lieu le lendemain de l'interview de Mathilde Panot. Les extraits ne disent pas comment le gouvernement y répondra.",
-     "sources": [
-      "d63337f3cf75",
-      "d64e56d47934"
-     ]
-    }
-   ],
-   "perspectives": [
-    {
-     "source": "d64e56d47934",
-     "position": "critique",
-     "text": "Pour Mathilde Panot, invitée de franceinfo, la lettre de Lecornu relève de la « gesticulation ». Elle remet en cause les chiffres avancés par le Premier ministre."
-    }
-   ],
-   "coverage": {
-    "articles": 17,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/04/644/0/7737/3868/644/322/60/0/77f61fa_ftp-1-5bghnjneqewy-5262903-01-06.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-    "article_id": "d63337f3cf75"
-   },
-   "id": 37,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T15:46:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 6.3,
-   "sources": [
-    {
-     "id": "3566bb310543",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: \"190 élèves ont été blessés depuis le début\" de la mobilisation, détaille Édouard Geffray, ministre de l'Éducation nationale",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-detaille-edouard-geffray-ministre-de-l-education-nationale_VN-202610050641.html",
-     "published_at": "2026-10-05T14:56:31+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "3ced4b48c597",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Face à la colère lycéenne, Sébastien Lecornu demande à ses ministres le lancement de cinq chantiers",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-colere-lyceenne-sebastien-lecornu-demande-a-ses-ministres-le-lancement-de-cinq-chantiers_8222899.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T05:41:53+00:00",
-     "snippet": "Sébastien Lecornu a adressé une feuille de route de cinq chantiers à ses ministres, dimanche 4 octobre. Le chef du gouvernement souhaite un retour progressif des cours à partir de lundi et appelle les lycéens à travailler."
-    },
-    {
-     "id": "5b7af36a2ee9",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Blocus des lycées : Quelles sont les consignes données par Lecornu aux ministres pour régler le problème ?",
-     "url": "https://www.20minutes.fr/politique/4251382-20261005-blocus-lycees-consignes-donnees-lecornu-ministres-regler-probleme?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-05T07:15:23+00:00",
-     "snippet": "Le Premier ministre a établi une liste de cinq chantiers prioritaires avec des résultats attendus dès la fin du mois d’octobre"
-    },
-    {
-     "id": "63145e97bde9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Amélioration des locaux, remplacement des profs... Quels sont les cinq chantiers lancés par Sébastien Lecornu pour répondre à la colère des lycéens ?",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/amelioration-des-locaux-remplacement-des-profs-quels-sont-les-cinq-chantiers-lances-par-sebastien-lecornu-pour-repondre-a-la-colere-des-lyceens_8222902.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T10:17:11+00:00",
-     "snippet": "Le Premier ministre a déclaré dimanche que \"le dialogue doit produire des changements visibles dans les lycées\". Il promet des décisions \"avant la fin du mois\"."
-    },
-    {
-     "id": "69c70969ddb2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray: \"190 élèves ont été blessés depuis le début\" de la mobilisation lycéenne",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-190-eleves-ont-ete-blesses-depuis-le-debut-de-la-mobilisation-lyceenne_VN-202610050651.html",
-     "published_at": "2026-10-05T14:57:45+00:00",
-     "snippet": "La colère lycéenne continue ce lundi 5 octobre, avec plus de 400 établissements scolaires perturbés en début de journée. Pour sortir de la crise, Sébastien Lecornu a confié à ses ministres \"une feuille de route avec cinq chantiers\"."
-    },
-    {
-     "id": "d63337f3cf75",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
-     "url": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-     "published_at": "2026-10-04T19:03:33+00:00",
-     "snippet": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne, avec « de premières décisions attendues avant la fin du mois »."
-    },
-    {
-     "id": "d64e56d47934",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Mathilde Panot, invitée du 8.30 franceinfo",
-     "url": "https://www.franceinfo.fr/politique/mathilde-panot-invitee-du-8-30-franceinfo_8223379.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T14:00:02+00:00",
-     "snippet": "À la veille d'une manifestation réunissant organisations lycéennes, universitaires, intersyndicale, Mathilde Panot est revenue ce matin sur la lettre envoyée hier par Sébastien Lecornu à cinq de ses ministres, en guise de réponse au mécontentement des lycéens. De la \"gesticulation\" dit Mathilde Panot ,qui remet en cause les chiffres du Premier ministre."
-    },
-    {
-     "id": "ebaac4ec512a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère lycéenne: les interventions des forces de l'ordre sont \"proportionnées\", affirme Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
-     "url": "https://www.bfmtv.com/politique/video-colere-lyceenne-les-interventions-des-forces-de-l-ordre-sont-proportionnees-affirme-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_VN-202610050342.html",
-     "published_at": "2026-10-05T08:13:27+00:00",
-     "snippet": "Les cours seront \"totalement ou partiellement\" suspendus ce lundi 5 octobre dans \"400 à 500\" lycées où les conditions de sécurité \"ne sont pas réunies\", a annoncé dimanche le ministre de l'Éducation nationale, alors que le chef du gouvernement tente une sortie de crise en mettant sur la table \"cinq chantiers\" et réclamant des \"décisions\" avant la fin du mois."
-    }
-   ]
-  },
-  {
-   "headline": "Glucksmann s'excuse auprès de Ségolène Royal après la polémique sur la « danse du ventre »",
-   "chapo": "Une vidéo privée diffusée par « Le Média » montre Raphaël Glucksmann parler de ses adversaires, dont Ségolène Royal, de façon qualifiée de vulgaire par Libération. Royal a déploré des « insultes à connotation sexuelle ». Lors du dernier débat de la primaire sur BFMTV, Glucksmann a fini par présenter ses excuses, reconnaissant des « propos inélégants » à son égard, selon CNews.",
-   "points": [
-    {
-     "text": "Vendredi 2 octobre, « Le Média » a diffusé une vidéo d'une réunion avec des jeunes militants. Glucksmann y parle vulgairement de ses adversaires, selon Libération. Il y accuse notamment Ségolène Royal d'avoir fait « la danse du ventre à Emmanuel Macron » pour obtenir un poste, d'après BFMTV.",
-     "sources": [
-      "7941065351c3",
-      "8609d45c3549",
-      "5b8c79cc0a6b"
-     ]
-    },
-    {
-     "text": "Le sujet est revenu dimanche 4 octobre lors du dernier débat de la primaire sociale-démocrate sur BFMTV, en partenariat avec Libération. Y participaient les cinq candidats : Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Glucksmann. Le premier tour est prévu le week-end suivant.",
-     "sources": [
-      "5b8c79cc0a6b",
-      "cb333c3faafa",
-      "e846d193e69f"
-     ]
-    },
-    {
-     "text": "Ségolène Royal a répondu : « Je n'accepte pas qu'on puisse dégrader une femme ». Elle a déploré des « insultes à connotation sexuelle ». Franceinfo rapporte qu'elle dénonce « une agression à connotation sexuelle ».",
-     "sources": [
-      "8609d45c3549",
-      "ba67b568e799",
-      "5b8c79cc0a6b"
-     ]
-    },
-    {
-     "text": "Dans un premier temps, Glucksmann s'est défendu. Selon franceinfo et BFMTV, il a expliqué que les vidéos avaient été filmées « dans un cadre privé » et qu'« il n'y avait aucune connotation sexiste ».",
-     "sources": [
-      "ba67b568e799",
-      "cb333c3faafa"
-     ]
-    },
-    {
-     "text": "Olivier Faure, lui aussi candidat à la primaire, a estimé que « le plus simple, c'est de s'excuser ». Selon CNews, Glucksmann a ensuite présenté ses excuses dimanche soir. Il s'est dit « désolé » et a reconnu des « propos inélégants » envers Ségolène Royal.",
-     "sources": [
-      "e846d193e69f",
-      "f8607b5e1e83"
-     ]
-    },
-    {
-     "text": "Selon Libération, l'entourage de Glucksmann pense que la polémique ne le dessert pas, voire bien au contraire. Il juge que ses propos ne sont pas en « décalage sur le fond » avec ce que le candidat veut exprimer. CNews décrit au contraire un candidat « pris dans la tourmente » et « sous le feu des critiques ».",
-     "sources": [
-      "7941065351c3",
-      "f8607b5e1e83"
-     ]
-    },
-    {
-     "text": "Le premier tour de la primaire est prévu le week-end suivant le débat.",
-     "sources": [
-      "5b8c79cc0a6b",
-      "7941065351c3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/34_tm-hqxWmOZV1iDTlzoHuRPOA=/0x0:1920x1080/800x0/images/La-candidate-a-la-primaire-sociale-democrate-Segolene-Royal-durant-le-debat-decisif-sur-BFMTV-le-dimanche-4-octobre-2359124.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/je-n-accepte-pas-qu-on-puisse-degrader-une-femme-segolene-royal-repond-a-raphael-glucksmann-qui-l-accusait-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron-pour-avoir-un-poste_AV-202610040412.html",
-    "article_id": "8609d45c3549",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.09805555555555556
-   },
-   "id": 38,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T15:45:31+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.78,
-   "sources": [
-    {
-     "id": "5b8c79cc0a6b",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Danse du ventre\": Ségolène Royal répond à Raphaël Glucksmann sur ses propos sur l'ancienne ministre",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-danse-du-ventre-segolene-royal-repond-a-raphael-glucksmann-sur-ses-propos-sur-l-ancienne-ministre_VN-202610040439.html",
-     "published_at": "2026-10-04T20:30:33+00:00",
-     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau. Interrogée sur les propos prononcés par Raphaël Glucksmann dans une vidéo privée, partagée sur les réseaux sociaux, qui indiquait que Ségolène Royal faisait \"la danse du ventre à Emmanuel Macron\", cette dernière fait part de "
-    },
-    {
-     "id": "7941065351c3",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Pisser» sur LFI et «danse du ventre» de Royal : le camp Glucksmann pense que la polémique ne le dessert pas, bien au contraire",
-     "url": "https://www.liberation.fr/politique/pisser-sur-lfi-et-danse-du-ventre-de-royal-le-camp-glucksmann-pense-que-la-polemique-ne-le-dessert-pas-bien-au-contraire-20261005_MPYA53G4ONG5XGDTM4XAWMPVCM/",
-     "published_at": "2026-10-05T10:20:12+00:00",
-     "snippet": "Après la diffusion vendredi 2 octobre par «le Média» d’une vidéo où le candidat parle vulgairement de ses adversaires, son entourage estime que ses propos ne sont pas en «décalage sur le fond avec ce qu’il veut exprimer»."
-    },
-    {
-     "id": "8609d45c3549",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Je n'accepte pas qu'on puisse dégrader une femme\": Ségolène Royal répond à Raphaël Glucksmann, qui l'accusait d'avoir fait la \"danse du ventre\" auprès d'Emmanuel Macron pour avoir un poste",
-     "url": "https://www.bfmtv.com/politique/je-n-accepte-pas-qu-on-puisse-degrader-une-femme-segolene-royal-repond-a-raphael-glucksmann-qui-l-accusait-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron-pour-avoir-un-poste_AV-202610040412.html",
-     "published_at": "2026-10-04T19:44:00+00:00",
-     "snippet": "L'ancienne ministre de la Transition écologique a déploré des \"insultes à connotation sexuelle\" que le président de Place publique a prononcé, en privé, durant une réunion avec des jeunes militants."
-    },
-    {
-     "id": "ba67b568e799",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Ségolène Royal dénonce \"une agression à connotation sexuelle\" après que Raphaël Glucksmann l'a accusé d'avoir fait \"la danse du ventre\" auprès d'Emmanuel Macron",
-     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/segolene-royal-denonce-une-agression-a-connotation-sexuelle-apres-que-raphael-glucksmann-l-a-accuse-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron_8222578.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-04T19:50:24+00:00",
-     "snippet": "Le candidat Place publique s'est défendu dimanche en expliquant que les vidéos diffusées par \"Le Media\" ont été filmées \"dans un cadre privé\" et en assurant qu'il \"n'y avait aucune connotation sexiste\"."
-    },
-    {
-     "id": "cb333c3faafa",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Il n'y avait aucune connotation sexiste\":Raphaël Glucksmann se justifie après avoir accusé, dans une vidéo sortie sur les réseaux sociaux, Ségolène Royal d'avoir fait \"la danse du ventre à Emmanuel Macron\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-avait-aucune-connotation-sexiste-raphael-glucksmann-se-justifie-apres-avoir-accuse-dans-une-video-sortie-sur-les-reseaux-sociaux-segolene-royal-d-avoir-fait-la-danse-du-ventre-a-emmanuel-macron_VN-202610040405.html",
-     "published_at": "2026-10-04T19:25:16+00:00",
-     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau."
-    },
-    {
-     "id": "e846d193e69f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Le plus simple, c'est de s'excuser\": Olivier Faure exhorte Raphaël Glucksmann à présenter ses excuses à Ségolène Royal après ses propos sur l'ancienne ministre",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-plus-simple-c-est-de-s-excuser-olivier-faure-exhorte-raphael-glucksmann-a-presenter-ses-excuses-a-segolene-royal-apres-ses-propos-sur-l-ancienne-ministre_VN-202610040406.html",
-     "published_at": "2026-10-04T19:27:28+00:00",
-     "snippet": "À quelques mois de la présidentielle, les cinq candidats à la primaire sociale-démocrate, dont le premier tour est prévu le week-end prochain, débattent sur BFMTV, en partenariat avec Libération, ce dimanche 4 octobre. Ségolène Royal, Olivier Faure, Emmanuel Maurel, Jérôme Guedj et Raphaël Glucksmann seront ensuite interrogés par un panel de Français, présents en plateau."
-    },
-    {
-     "id": "f8607b5e1e83",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«Danse du ventre à Emmanuel Macron» : Raphael Glucksmann se dit «désolé» après ses propos «inélégants» sur Ségolène Royal",
-     "url": "https://www.cnews.fr/france/2026-10-05/danse-du-ventre-emmanuel-macron-raphael-glucksmann-se-dit-desole-apres-ses-propos",
-     "published_at": "2026-10-05T04:54:37+00:00",
-     "snippet": "Pris dans la tourmente après la diffusion d’anciennes vidéos où il attaque plusieurs figures politiques, Raphaël Glucksmann a fini par présenter ses excuses dimanche soir lors du dernier débat de la primaire de la gauche, reconnaissant des «propos inélégants» à l’égard de Ségolène Royal. Raphaël Glucksmann sous le feu des critiques. Lors du dernier débat de la primaire de la gauche sociale-démocrate sur BFMTV dimanche, l’eurodéputé et candidat à l'élection présidentielle est revenu sur ses propos tenus lors d’une réunion militante, dans lesquels il reprochait notamment à Ségolène Royal d’avoir"
     }
    ]
   }
