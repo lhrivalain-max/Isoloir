@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T07:00:33+00:00",
+ "generated_at": "2026-10-08T07:10:33+00:00",
  "posts": [
   {
    "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
@@ -128,7 +128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.34,
+   "score": 13.29,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -309,14 +309,13 @@
     "focus_x": 0.5433333333333333,
     "focus_y": 0.20916666666666667
    },
-   "social_requested": "2026-10-08T06:59:01+00:00",
    "id": 64,
    "section": "institutions",
    "reviewed_at": "2026-10-08T06:59:18+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.98,
+   "score": 17.86,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -496,7 +495,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.0,
+   "score": 9.93,
    "sources": [
     {
      "id": "637cd573a004",
@@ -537,6 +536,91 @@
    ]
   },
   {
+   "headline": "Mélenchon promet de poursuivre le gouverneur de la Banque de France pour « trahison »",
+   "chapo": "Mardi 6 octobre, Jean-Luc Mélenchon a promis que le gouverneur de la Banque de France, Emmanuel Moulin, serait poursuivi en justice pour « trahison » si LFI arrive au pouvoir en 2027. Mercredi, Moulin a répondu sur France Inter : « Je ne me laisserai pas intimider ».",
+   "points": [
+    {
+     "text": "Le candidat LFI écrit sur X : « C'est un acte de trahison. Il n'y aura pas de prescription en 2027. Il sera poursuivi pour cela. » Il reproche au banquier central, ancien collaborateur direct de Macron, de prendre publiquement parti contre son pays à l'étranger en appelant implicitement les spéculateurs à sanctionner la France à cause de ses propositions.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "Mélenchon semble viser une interview d'Emmanuel Moulin publiée lundi par le Financial Times. Le gouverneur y estime que la France risque d'être « étranglée par les taux d'intérêt » si elle ne redresse pas ses finances publiques. Il ne mentionne ni Mélenchon ni La France insoumise, et précise que la France n'est pas la Grèce au moment de la crise de la zone euro.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "Mercredi sur France Inter, Moulin répond : « Je ne me laisserai pas intimider ». Il dit qu'il continuera à dire ce qu'il pense dans le cadre de son mandat et pour défendre l'institution qu'il préside. Il compare ces propos aux pressions de Donald Trump sur l'ex-banquier central américain Jerome Powell : il disait ne connaître jusque-là qu'un pays où l'on cherchait à intimider le banquier central, l'Amérique de Trump.",
+     "sources": [
+      "975b9d52d19c",
+      "d5615c6d38b9"
+     ]
+    },
+    {
+     "text": "Les Insoumis et le gouverneur s'opposent depuis plusieurs mois sur la dette. Moulin avait jugé « illégale, dangereuse et inutile » la proposition de Mélenchon d'annuler la part de la dette française détenue par la Banque centrale européenne.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "20 Minutes rappelle quelques cas de personnalités condamnées pour trahison en France : Louis XVI en 1793, le capitaine Alfred Dreyfus fin 1894 (innocenté et réhabilité en 1906), le maréchal Pétain par la Haute Cour de justice en 1945, et Georges Pâques en 1964.",
+     "sources": [
+      "a08b83018706"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://img.20mn.fr/YLkWRA7WTMyRwTZ6t2Pa9Ck/1200x768_jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle-2027-accompagne-de-deputes-de-la-france-insoumise-clemence-guette-daniele-obono-manuel-bompard-a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-greve-et-manifestation-de-la-fonction-publique-avant-la-presentation-du-projet-de-loi-de-finances-pour-l-annee-2027-par-sebastien-lecornu-le-29-septembre-2026-de-la-place-de-la-republique-a-la-place-de-la-nation-a-paris-paris-france-29-septembre-2026-jean-luc-melenchon-candidat-a-l-election-presidentielle-francaise-de-2027-avec-des-deputes-du-parti-la-france-insoumise-clemence-guette-daniele-obono-manuel-bompard-a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-une-greve-et-une-manifestation-des-travailleurs-du-secteur-public-auront-lieu-avant-la-presentation-du-projet-de-loi-de-finances-2027-par-sebastien-lecornu-le-29-septembre-2026-paris-france-29-09-2026-harsin-jlmelenchon-maniffonction-publique-020-credit-isa-harsin-sipa-2609292243",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4252042-20261007-dette-melenchon-veut-poursuivre-gouverneur-banque-france-trahison?at_medium=display&at_campaign=149",
+    "article_id": "975b9d52d19c"
+   },
+   "social_requested": "2026-10-08T07:10:06+00:00",
+   "id": 66,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T07:10:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.0,
+   "sources": [
+    {
+     "id": "975b9d52d19c",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Dette : Mélenchon veut poursuivre le gouverneur de la Banque de France, qui « refuse de se laisser intimider »",
+     "url": "https://www.20minutes.fr/politique/4252042-20261007-dette-melenchon-veut-poursuivre-gouverneur-banque-france-trahison?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-07T07:00:03+00:00",
+     "snippet": "Le candidat LFI accuse Emmanuel Moulin à inciter « implicitement les spéculateurs à sanctionner la France à cause de mes propositions »"
+    },
+    {
+     "id": "a08b83018706",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?",
+     "url": "https://www.20minutes.fr/politique/4252117-20261007-melenchon-vs-gouverneur-banque-france-petain-dreyfus-condamne-trahison-france?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-07T12:23:04+00:00",
+     "snippet": "De l’affaire Dreyfus au roi Louis XVI, retour sur ces figures de l’histoire française condamnées pour trahison"
+    },
+    {
+     "id": "d5615c6d38b9",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Je ne me laisserai pas intimider » : le gouverneur de la Banque de France répond à Mélenchon, qui veut le poursuivre pour « trahison »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/je-ne-me-laisserai-pas-intimider-le-gouverneur-de-la-banque-de-france-repond-a-melenchon-qui-veut-le-poursuivre-pour-trahison-07-10-2026-T4E6C2KNEFCLXBB2FIX7EBBMFE.php",
+     "published_at": "2026-10-07T15:58:34+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
    "headline": "Grenades assourdissantes suspendues pour le mouvement lycéen, des policiers s'en inquiètent",
    "chapo": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a suspendu l'usage des grenades assourdissantes dans le cadre du mouvement lycéen, après la main d'un adolescent arrachée à Lens. Une enquête de l'IGPN est ouverte, et la mesure est mal perçue dans la police, selon Le Figaro.",
    "points": [
@@ -555,7 +639,7 @@
      ]
     },
     {
-     "text": "Un autre adolescent, Eden, 14 ans, a été blessé au visage à Saint-Ouen-l'Aumône (Val-d'Oise) après avoir été atteint à la tête par le tir d'un lanceur de grenade lacrymogène, selon l'avocat de sa famille.",
+     "text": "Un autre adolescent, 14 ans, a été blessé au visage à Saint-Ouen-l'Aumône (Val-d'Oise) après avoir été atteint à la tête par le tir d'un lanceur de grenade lacrymogène, selon l'avocat de sa famille.",
      "sources": [
       "eecdd71ed6ca"
      ]
@@ -598,7 +682,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.99,
+   "score": 6.94,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -694,7 +778,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.4,
+   "score": 7.37,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -803,7 +887,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.17,
+   "score": 6.14,
    "sources": [
     {
      "id": "573133300860",
@@ -905,7 +989,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.55,
+   "score": 5.53,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -1009,7 +1093,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.77,
+   "score": 3.75,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -1107,7 +1191,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.7,
+   "score": 3.69,
    "sources": [
     {
      "id": "068789211545",
@@ -1196,7 +1280,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.24,
+   "score": 13.2,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -1353,7 +1437,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.84,
+   "score": 10.82,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -1580,7 +1664,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.61,
+   "score": 11.58,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -1855,7 +1939,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.61,
+   "score": 8.59,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -1983,7 +2067,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.05,
+   "score": 6.03,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -2121,7 +2205,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.87,
+   "score": 5.85,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -2219,7 +2303,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.38,
+   "score": 3.37,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -2352,7 +2436,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.56,
+   "score": 9.55,
    "sources": [
     {
      "id": "232cc35ff6ee",
@@ -2627,7 +2711,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.88,
+   "score": 6.86,
    "sources": [
     {
      "id": "3566bb310543",
@@ -2779,7 +2863,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.13,
+   "score": 4.12,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
@@ -2843,78 +2927,6 @@
      "url": "https://www.cnews.fr/france/2026-10-05/danse-du-ventre-emmanuel-macron-raphael-glucksmann-se-dit-desole-apres-ses-propos",
      "published_at": "2026-10-05T04:54:37+00:00",
      "snippet": "Pris dans la tourmente après la diffusion d’anciennes vidéos où il attaque plusieurs figures politiques, Raphaël Glucksmann a fini par présenter ses excuses dimanche soir lors du dernier débat de la primaire de la gauche, reconnaissant des «propos inélégants» à l’égard de Ségolène Royal. Raphaël Glucksmann sous le feu des critiques. Lors du dernier débat de la primaire de la gauche sociale-démocrate sur BFMTV dimanche, l’eurodéputé et candidat à l'élection présidentielle est revenu sur ses propos tenus lors d’une réunion militante, dans lesquels il reprochait notamment à Ségolène Royal d’avoir"
-    }
-   ]
-  },
-  {
-   "headline": "« Casseurs-payeurs » : l'examen du texte au Sénat avancé à octobre",
-   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné par le Sénat dès octobre, plus tôt que prévu. Il prévoit de rendre collectivement responsables les participants à un attroupement où des dégradations sont commises. Le Figaro signale aussi une possible saisie de certaines prestations sociales.",
-   "points": [
-    {
-     "text": "L'examen du projet de loi « casseurs-payeurs » par le Sénat a été avancé au mois d'octobre. Le Monde parle d'un gouvernement qui « accélère le calendrier ». Le Figaro confirme que le texte passera devant les sénateurs plus tôt que prévu.",
-     "sources": [
-      "224ef3002ed2",
-      "7ba0cf4b46c9"
-     ]
-    },
-    {
-     "text": "Le texte pose un principe de responsabilité collective. Les personnes présentes dans un attroupement seraient toutes tenues pour responsables des dégradations qui y sont commises. Selon Le Monde, il ne serait pas nécessaire de prouver que chacune en est personnellement l'auteur.",
-     "sources": [
-      "7ba0cf4b46c9",
-      "224ef3002ed2"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, cette responsabilité collective serait plafonnée à 10 000 euros. C'est le seul des deux médias à donner ce chiffre dans l'extrait fourni.",
-     "sources": [
-      "7ba0cf4b46c9"
-     ]
-    },
-    {
-     "text": "Le Figaro indique que le texte prévoit, dans certains cas, une saisie des allocations familiales et des APL. Les extraits ne précisent pas quels sont ces cas.",
-     "sources": [
-      "224ef3002ed2"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 2,
-    "outlets": 2
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/04/d448a5e499ae263d94c4f2e95b82ecd3b5cb8089c3fca8ece612afc8c7857cfa.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
-    "article_id": "224ef3002ed2",
-    "focus_x": 0.48,
-    "focus_y": 0.16913946587537093
-   },
-   "id": 34,
-   "section": "institutions",
-   "reviewed_at": "2026-10-05T07:01:58+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.5,
-   "sources": [
-    {
-     "id": "224ef3002ed2",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Responsabilité collective, saisie des prestations sociales… Ce que contient la loi «casseurs payeurs», dont l’examen au Sénat a été avancé",
-     "url": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
-     "published_at": "2026-10-04T13:15:26+00:00",
-     "snippet": "L’examen de ce texte par le Sénat a été avancé au mois d’octobre. Il prévoit notamment une saisie des allocations familiales et des APL dans certains cas."
-    },
-    {
-     "id": "7ba0cf4b46c9",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Projet de loi « casseurs-payeurs » : le gouvernement accélère le calendrier",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/04/projet-de-loi-casseurs-payeurs-le-gouvernement-accelere-le-calendrier_6788320_3224.html",
-     "published_at": "2026-10-04T16:48:36+00:00",
-     "snippet": "Le texte prévoit de rendre les participants à un attroupement collectivement responsables des dégradations qui y sont commises, dans la limite de 10 000 euros, sans avoir à prouver qu’ils en sont personnellement les auteurs."
     }
    ]
   }
