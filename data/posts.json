@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T15:00:09+00:00",
+ "generated_at": "2026-10-08T15:00:13+00:00",
  "posts": [
   {
    "headline": "Marine Le Pen : aucune banque française n'accepte de financer sa campagne, le gouvernement cherche une solution",
@@ -346,6 +346,145 @@
      "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-sur-les-lycees-alexis-corbiere-depute-l-apres-assure-que-ca-fait-un-moment-que-ca-alerte_VN-202610070796.html",
      "published_at": "2026-10-07T17:45:43+00:00",
      "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    }
+   ]
+  },
+  {
+   "headline": "Ciotti demande la « révocation » du maire de Saint-Denis Bally Bagayoko, devenu une image de la mobilisation lycéenne",
+   "chapo": "Mardi 6 octobre, Éric Ciotti a demandé la « révocation » du maire LFI de Saint-Denis Bally Bagayoko, qu'il accuse d'« attiser la violence » pendant les blocages de lycées. Le même jour, une vidéo de Bagayoko s'interposant entre des lycéens et la police à Paris faisait le tour du monde. Mercredi, Laurent Nuñez a répondu qu'il n'y avait pas de dossier de révocation en cours.",
+   "points": [
+    {
+     "text": "Sur CNews, Ciotti, maire UDR de Nice et allié du RN, demande la révocation de Bagayoko en Conseil des ministres, qui a la faculté de la décider « quand un maire trahit sa charge ». Il lui reproche notamment sa position alors qu'un maire est officier de police judiciaire.",
+     "sources": [
+      "4b3746725ac1",
+      "f784c023a00b",
+      "bb218a16b41b"
+     ]
+    },
+    {
+     "text": "Bagayoko est visé depuis la semaine précédente par un signalement à la justice du préfet de police de Paris, Patrice Faure, pour des faits présumés de provocation à commettre un délit. En soutenant les lycéens, il avait déclaré que « la violence, à un moment donné, peut être légitime », avant d'ajouter : « Mais chaque fois qu'on peut l'éviter, c'est mieux ».",
+     "sources": [
+      "4b3746725ac1",
+      "f784c023a00b"
+     ]
+    },
+    {
+     "text": "Ciotti met aussi en cause Sébastien Lecornu : il doute de la sincérité de sa colère, tout en reconnaissant que « sur le fond, il a totalement raison », et lui reproche un double discours envers LFI. Il affirme que si LFI arrivait au pouvoir, « nous serions immédiatement dans une dictature sanguinaire ». Ce sont des propos de Ciotti, pas des faits établis.",
+     "sources": [
+      "4b3746725ac1"
+     ]
+    },
+    {
+     "text": "Mercredi, Laurent Nuñez a clarifié : « Il n'y a pas de dossier de révocation du maire de Saint-Denis en cours ».",
+     "sources": [
+      "a23a302e81f7"
+     ]
+    },
+    {
+     "text": "Le même mardi 6 octobre, dans le cortège parisien, Bagayoko s'est dressé entre de jeunes manifestants et les forces de l'ordre : « Arrêtez! Reculez! Arrêtez de pousser! », a-t-il crié, alors que les policiers avançaient. Des tirs de gaz lacrymogène ont suivi ; des images le montrent recevoir du sérum physiologique dans les yeux.",
+     "sources": [
+      "fde0edf96bc8"
+     ]
+    },
+    {
+     "text": "Il raconte à Reuters que les policiers ont décidé de charger les lycéens, « dont la plupart n'ont montré aucune agressivité ». À CNN, il dit que la police s'est contenue après l'avoir identifié, alors qu'il ne portait pas son écharpe d'élu, et qu'il ne s'est pas senti en danger.",
+     "sources": [
+      "fde0edf96bc8"
+     ]
+    },
+    {
+     "text": "Les images ont été reprises par El Mundo, qui parle d'une « icône de la révolte étudiante », par CNN, selon qui il a utilisé son corps comme bouclier, ainsi que par la BBC, Al Jazeera, La Stampa et la chaîne saoudienne Al-Arabiya. Libération et Le Parisien titrent sur cet écho à l'étranger.",
+     "sources": [
+      "fde0edf96bc8",
+      "c63a19952fec",
+      "d1c9d348c11f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.20mn.fr/zUV3_nCmQC2HgRy1yy3iqSk/1200x768_eric-ciotti-president-du-parti-udr-s-entretient-avec-des-journalistes-apres-la-reunion-d-urgence-a-huis-clos-du-president-francais-avec-les-dirigeants-des-partis-politiques-palais-de-l-elysee-paris-france-vendredi-18-septembre-2026-accorsini-jeanne-leave-0065-credit-jeanne-accorsini-sipa-2609181442",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4252303-20261007-colere-lyceens-ciotti-accuse-bagayoko-attiser-violence-demande-revocation?at_medium=display&at_campaign=149",
+    "article_id": "4b3746725ac1",
+    "focus_x": 0.6166666666666667,
+    "focus_y": 0.10709635416666667
+   },
+   "social_requested": "2026-10-08T14:59:43+00:00",
+   "id": 70,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T15:00:13+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "4b3746725ac1",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Colère des lycéens : Ciotti accuse Bagayoko d’« attiser la violence » et demande « sa révocation »",
+     "url": "https://www.20minutes.fr/politique/4252303-20261007-colere-lyceens-ciotti-accuse-bagayoko-attiser-violence-demande-revocation?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-07T16:34:19+00:00",
+     "snippet": "Eric Ciotti a demandé, mardi, au Conseil des ministres de révoquer Bally Bagayoko, maire LFI de Saint-Denis, après ses propos sur la légitimation de la « violence » lors des blocages de lycées"
+    },
+    {
+     "id": "a23a302e81f7",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Il n'y a pas de dossier de révocation du maire de Saint-Denis en cours\", clarifie Laurent Nuñez",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-il-n-y-a-pas-de-dossier-de-revocation-du-maire-de-saint-denis-en-cours-clarifie-laurent-nunez_VN-202610070655.html",
+     "published_at": "2026-10-07T15:33:28+00:00",
+     "snippet": "Bally Bagayoko, maire LFI de Saint-Denis, s'est rendu à plusieurs reprises au lycée Paul-Eluard, et le préfet de police de Paris a saisi la justice contre lui pour des faits présumés de provocation à commettre un délit. Dans ce contexte, l'UDR, parti d'Eric Ciotti, réclame sa révocation. Une demande que réfute le ministre de l'Intérieur."
+    },
+    {
+     "id": "bb218a16b41b",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Quand un maire trahit sa charge… » : Éric Ciotti demande la « révocation » de Bally Bagayoko",
+     "url": "https://www.leparisien.fr/politique/quand-un-maire-trahit-sa-charge-eric-ciotti-demande-la-revocation-de-bally-bagayoko-06-10-2026-WDIMUFJTBZBVTJCKJ2UVYFZSAU.php",
+     "published_at": "2026-10-06T18:58:01+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c63a19952fec",
+     "name": "Libération",
+     "kind": "media",
+     "title": "«L’icône de la révolte» : dans les médias étrangers, Bally Bagayoko érigé en «figure emblématique» des manifestations lycéennes",
+     "url": "https://www.liberation.fr/politique/licone-de-la-revolte-dans-les-medias-etrangers-bally-bagayoko-erige-en-figure-emblematique-des-manifestations-lyceennes-20261008_2NCMS4I72ZBQJOEB3NMC67DESA/",
+     "published_at": "2026-10-08T11:11:04+00:00",
+     "snippet": "Le maire LFI de Saint-Denis a tenté de s’interposer entre policiers et protestataires lors de la manifestation à Paris en soutien au mouvement social des lycées, mardi. Une séquence qui fait le tour de la presse internationale."
+    },
+    {
+     "id": "d1c9d348c11f",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Jeunes cagoulés, gaz lacrymogène… Bally Bagayoko sur le devant de la scène lors de la manifestation lycéenne à Paris",
+     "url": "https://www.leparisien.fr/seine-saint-denis-93/saint-denis-93200/jeunes-cagoules-gaz-lacrymogene-bally-bagayoko-sur-le-devant-de-la-scene-lors-de-la-manifestation-lyceenne-a-paris-07-10-2026-DNIB5UTQQZFCZP4URWS7SGM2EQ.php",
+     "published_at": "2026-10-07T15:58:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "f784c023a00b",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: Éric Ciotti demande la \"révocation\" du maire de Saint-Denis Bally Bagayoko qui \"incite et attise la violence\"",
+     "url": "https://www.bfmtv.com/politique/colere-lyceenne-eric-ciotti-demande-la-revocation-du-maire-de-saint-denis-bally-bagayoko-qui-incite-et-attise-la-violence_AD-202610070147.html",
+     "published_at": "2026-10-07T05:26:06+00:00",
+     "snippet": "Le maire (UDR) de Nice accuse l'édile insoumis dyonisien \"d'attiser la violence\" lors des blocages de lycéens en colère, assurant aussi que si LFI arrivait au pouvoir \"nous serions immédiatement dans une dictature sanguinaire\"."
+    },
+    {
+     "id": "fde0edf96bc8",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Arrêtez! Reculez!\": les images de Bally Bagayoko s'interposant entre lycéens et forces de l'ordre à Paris font le tour de la presse internationale",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/arretez-reculez-les-images-de-bally-bagayoko-s-interposant-entre-lyceens-et-forces-de-l-ordre-a-paris-font-le-tour-de-la-presse-internationale_AN-202610080201.html",
+     "published_at": "2026-10-08T06:18:30+00:00",
+     "snippet": "Les images de Bally Bagayoko tentant de calmer les tensions entre des jeunes manifestants et les forces de l'ordre lors du cortège parisien du 6 octobre ont fait le tour du monde. Le maire insoumis a pris la parole dans plusieurs médias pour raconter ce moment devenu viral."
     }
    ]
   },
