@@ -1,242 +1,164 @@
 {
- "generated_at": "2026-10-08T08:00:05+00:00",
+ "generated_at": "2026-10-08T15:00:09+00:00",
  "posts": [
   {
-   "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
-   "chapo": "Le RN a présenté le 6 octobre un contre-budget qui promet 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. David Lisnard annonce au moins 200 milliards, dont 80 dès la première année ; ses chiffres viennent du site de Nouvelle Énergie. Le RN prévoit des baisses de TVA et de taxes et de nouvelles dépenses, et vise un déficit sous 3 % du PIB dès 2030. Lisnard annonce une règle de partage fixée à l'avance, en pourcentages.",
+   "headline": "Marine Le Pen : aucune banque française n'accepte de financer sa campagne, le gouvernement cherche une solution",
+   "chapo": "Mardi 6 octobre, Marine Le Pen a expliqué n'avoir trouvé aucune banque française pour financer sa campagne présidentielle : « Elles ont toutes refusé ». Elle propose d'autoriser les prêts de particuliers, ce qui demanderait de changer la loi. Le gouvernement étudie, lui, un pool de banques avec une garantie de l'État sur une partie du risque, une piste que critiquent les oppositions de gauche.",
    "points": [
     {
-     "text": "Le RN annonce 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. Jean-Philippe Tanguy avait parlé de 125 milliards d'ici 2032 sur CNews, le dimanche précédent. Marine Le Pen justifie les 140 par la hausse des taux et le budget que proposent Sébastien Lecornu et Emmanuel Macron. Le RN vise aussi un déficit sous 3 % du PIB dès 2030, contre 5,4 % attendus par le gouvernement en 2026. Selon Nouvelle Énergie, Lisnard annonce au moins 200 milliards d'euros de baisse de dépense en trajectoire, dont 80 dès la première année. Son objectif de départ était de 300 milliards : il dit ne pas encore pouvoir documenter entièrement les 100 restants et continuer d'y travailler.",
+     "text": "Selon Marine Le Pen, le RN a contacté toutes les banques françaises : « Nous (les) avons toutes contactées. Elles ont toutes refusé ». Elle dit avoir fait part de ces difficultés au gouvernement. Mercredi 7 octobre, elle a défendu une réforme pour autoriser les prêts de particuliers aux candidats à l'Élysée, la solution « la plus rapide et la plus simple » à ses yeux.",
      "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61"
+      "95dea150e718",
+      "ce1e8eade47a"
      ]
     },
     {
-     "text": "Côté RN, l'État absorberait 24 milliards d'euros d'efforts : révision générale des crédits, fin de leur reconduction automatique et suppression d'agences publiques. Tanguy défend d'abord l'interdiction des dépenses reconduites automatiquement, qui représentent selon lui des dizaines de milliards. La Sécurité sociale subirait une compression de 20 milliards. La priorité nationale sur les prestations et le durcissement de l'accès pour les étrangers rapporteraient 12 à 15 milliards la première année et 29 milliards à terme selon Planet (d'après l'AFP).",
+     "text": "La présidentielle est la seule élection pour laquelle les prêts de particuliers sont interdits ; les dons sont limités à 4 600 euros par personne. Il faudrait donc changer la loi. Les candidats qui dépassent 5 % des suffrages exprimés au premier tour sont remboursés par l'État à hauteur de 8 millions d'euros maximum, et de 10,7 millions s'ils se qualifient pour le second tour, sous réserve de la validation de leurs comptes par la Commission nationale des comptes de campagne.",
      "sources": [
-      "01e4e7ff14f4",
-      "a1c54071d453",
-      "8b8ce9581b2e"
+      "95dea150e718",
+      "81cd8cc3a84a",
+      "ab437610bd0a"
      ]
     },
     {
-     "text": "Sur la contribution française à l'Union européenne, les montants diffèrent. Planet (d'après l'AFP) parle d'une réduction de 9 milliards d'euros. TIME écrit que le RN veut la limiter à 5 milliards, contre près de 29 milliards prévus cette année. Le RN compte aussi sur le prélèvement à la source de la TVA : Marine Le Pen dit qu'il permettrait de récupérer environ 26 milliards d'euros de fraude, selon TIME. Les effectifs publics baisseraient : certains agents seraient réaffectés, d'autres ne seraient pas remplacés à leur départ en retraite. Le RN veut aussi supprimer la quasi-totalité des agences, une allocation sociale unique et une forte baisse de l'aide publique au développement.",
+     "text": "Le RN cherche à emprunter 10,7 millions d'euros. Il démarche depuis des mois des établissements français et européens, en Italie, en Allemagne, en Hongrie et au Royaume-Uni, en vain à ce stade, a confirmé son trésorier Kévin Pfeffer à franceinfo début juillet. Le parti ne peut pas s'autofinancer : il doit encore rembourser une dette contractée à l'époque où son financement public était très limité, selon LCP.",
      "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "8b8ce9581b2e"
+      "81cd8cc3a84a",
+      "047109bba606"
      ]
     },
     {
-     "text": "Côté dépenses, le RN veut ramener la TVA de 20 % à 5,5 % sur l'électricité, le gaz et les carburants. CNews ajoute le bois et le fioul, et la suppression de la TVA sur les produits de première nécessité. L'allègement fiscal annoncé est de 30 milliards d'euros sur le quinquennat, avec la suppression de plus de 120 taxes. Pour les familles : une subvention pour le troisième enfant à l'horizon 2031, une part fiscale pleine dès le deuxième enfant et le permis de conduire gratuit pour les jeunes éligibles à partir de 2028. Pour la santé : 2 milliards de plus pour les proches aidants et 1,4 milliard pour les soins dentaires. Sur les retraites, Le Pen annonce 15 à 20 milliards d'économies à terme, sur des mesures qui seront détaillées dans les semaines à venir. Elle veut aussi un « pilier de capitalisation » et ramener l'âge de départ à 62 ans, voire 60.",
+     "text": "Fin avril, le député RN Sébastien Chenu jugeait la situation « indécente » : « Qui peut accepter que le premier parti de France en nombre d'adhérents, en nombre de parlementaires, en score aux dernières élections, en sondages aux prochaines élections ne puisse pas se financer ? ». Marine Le Pen avait posté sur X : « Donc, on fait quoi ? ». Le RN avait déjà dû emprunter à une banque russe en 2014 et à une banque hongroise en 2022.",
      "sources": [
-      "01e4e7ff14f4",
-      "8b8ce9581b2e",
-      "9e0518d47528"
+      "047109bba606"
      ]
     },
     {
-     "text": "Le ministre de l'Économie Roland Lescure estime qu'« avec un budget Le Pen, on rêverait en couleurs et on raserait gratis ». Il juge certaines propositions inapplicables. Sur le plan juridique, Planet (d'après l'AFP) écrit que la priorité nationale sur les allocations contrevient aux principes constitutionnels d'égalité et au droit européen. Réduire la contribution à Bruxelles exigerait de renégocier les traités, sans garantie d'aboutir.",
+     "text": "Côté banques, l'une d'elles confie à franceinfo que « Prêter à des candidats à la présidentielle est devenu bien plus risqué ». Le président de la Fédération bancaire française, Daniel Baal, reconnaissait fin avril un « problème », qui relève selon lui des pouvoirs publics. Les banques invoquent le seuil de 5 % et le risque qu'une commission invalide des comptes, comme pour Nicolas Sarkozy.",
      "sources": [
-      "9e0518d47528",
-      "01e4e7ff14f4"
+      "81cd8cc3a84a",
+      "047109bba606",
+      "ab437610bd0a"
      ]
     },
     {
-     "text": "Lisnard désigne d'abord environ 1 200 agences et opérateurs créés en vingt-cinq ans. Ils ont recruté de 420 000 à 440 000 agents selon ses chiffrages successifs et dépensent de 83 à 100 milliards d'euros. Il ne veut pas tous les supprimer, car un État de droit a besoin d'autorités indépendantes. Il vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer, et les agences régionales de santé. Il propose aussi de cesser de surtransposer les directives européennes, et de confier à une équipe placée sous l'autorité du président ou du premier ministre le retrait des normes existantes.",
+     "text": "Marine Le Pen a été condamnée en appel le 7 juillet pour détournement de fonds publics, et s'est pourvue en cassation. Une source bancaire dit à franceinfo que cela n'est pas de nature à rassurer les banques ; Reuters évoque d'abord des motifs réputationnels. Olivier Gavalda, du Crédit Agricole, explique que le devoir d'un banquier est de prêter avec la certitude d'être remboursé, et que l'aléa est ici trop important. Il présente le problème comme général : il touche aussi LFI.",
      "sources": [
-      "2535be60bb08",
-      "5ca8662ed393",
-      "54385708659c"
+      "81cd8cc3a84a",
+      "ab437610bd0a"
      ]
     },
     {
-     "text": "Sur 1 700 milliards d'euros de dépense publique, environ 900 milliards sont sociaux, rappelle Lisnard. Il cite le plafonnement de certains revenus sociaux et la désindexation des retraites au-delà d'un seuil, de l'ordre de 2 000 euros mensuels. Il avance aussi son bilan à Cannes : effectifs réduits de près de 20 % et dette baissée de 82 millions d'euros. Il ne présente pas ce résultat comme transposable tel quel, une ville n'ayant ni prestations sociales ni assurance maladie à sa charge.",
+     "text": "Le Premier ministre Sébastien Lecornu a réuni les grandes banques le 20 juillet. Matignon a proposé un accord entre plusieurs banques dans lequel l'État couvrirait une partie du risque de non-recouvrement. Son entourage dit vouloir « que tous les candidats, quel que soit leur bord politique, puissent accéder à des financements français », pour éviter les financements étrangers : Marine Le Pen avait emprunté plus de 9 millions d'euros à une banque russe en 2014, puis un peu plus de 10 millions à une banque hongroise en 2022. L'exécutif espère concrétiser cette piste à l'automne, dans la loi de finances.",
      "sources": [
-      "2535be60bb08",
-      "5ca8662ed393",
-      "6ccfce1a2ac3"
+      "81cd8cc3a84a",
+      "ab437610bd0a"
      ]
     },
     {
-     "text": "Selon Nouvelle Énergie, les 200 milliards sont répartis d'avance : 120 milliards rendus aux actifs en salaire net (60 %), 40 milliards en baisse des impôts de production (20 %) et 40 milliards pour la dette ou la modernisation de l'État (20 %). La baisse des impôts de production commence par la suppression de la C3S, une contribution assise sur le chiffre d'affaires, due même par une entreprise qui perd de l'argent. Les 80 milliards de la première année suivent la même clé. Lisnard refuse d'augmenter l'impôt pour réduire la dette : il cite le record de prélèvements et 92 % de dette portée par l'État et les comptes sociaux. Sa règle interdit que les économies financent de nouvelles dépenses.",
+     "text": "La FBF a demandé officiellement des garanties d'État. Selon Reuters, Olivier Gavalda juge que le pool, qui évite tout problème réputationnel pour chaque banque, est la meilleure solution. À l'inverse, l'idée de ce consortium est critiquée par les oppositions de gauche, qui dénoncent un appui indu à la candidate d'extrême droite.",
      "sources": [
-      "247565372a61",
-      "6ccfce1a2ac3"
+      "ab437610bd0a"
      ]
     },
     {
-     "text": "Ce qu'ils ont en commun : tous deux s'attaquent aux agences de l'État (le RN en supprimerait la quasi-totalité, Lisnard vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer et les agences régionales de santé) et à ses effectifs (des départs en retraite non remplacés chez le RN, moins de règles donc moins de bureaucrates chez Lisnard). Tous deux touchent à la fiscalité : le RN supprime plus de 120 taxes, Lisnard commence par la C3S. Et tous deux annoncent que la dépense baisse d'abord : Lisnard refuse d'augmenter l'impôt pour réduire la dette, le RN annonce 30 milliards d'allègement fiscal.",
+     "text": "20 Minutes rappelle que la candidate du RN est donnée largement en tête dans les sondages à un peu plus de six mois du premier tour.",
      "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61",
-      "5ca8662ed393",
-      "54385708659c",
-      "6ccfce1a2ac3"
-     ]
-    },
-    {
-     "text": "Ce qui les sépare. Retraites : le RN veut revenir à 62 ans, voire 60, et ajouter une part de capitalisation, avec 15 à 20 milliards d'économies à trouver ; Lisnard cite la désindexation des retraites au-delà d'environ 2 000 euros par mois. Immigration : le RN chiffre la priorité nationale à 12-15 milliards dès la première année et 29 à terme ; Lisnard n'en fait pas un poste d'économies. Europe : le RN réduit la contribution de la France à l'Union européenne ; Lisnard veut cesser de surtransposer les directives. Destination de l'argent : le RN baisse la TVA sur l'énergie et finance des mesures famille et santé ; Lisnard fixe 60 % en salaire net, 20 % en baisse d'impôts de production, 20 % pour la dette. Enfin, le RN a détaillé son plan en conférence de presse le 6 octobre ; Lisnard s'appuie sur des annonces de campagne reprises sur le site de son parti, et personne n'a vérifié ces chiffres de l'extérieur.",
-     "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61",
-      "5ca8662ed393",
-      "54385708659c",
-      "6ccfce1a2ac3"
+      "95dea150e718"
      ]
     }
    ],
-   "perspectives": [
-    {
-     "source": "c0b636b0ba19",
-     "position": "critique",
-     "text": "Libération juge le projet du RN « au doigt mouillé » et relève que ses cibles sont les étrangers, la fonction publique et l'Union européenne."
-    }
-   ],
+   "perspectives": [],
    "coverage": {
-    "articles": 12,
-    "outlets": 7
+    "articles": 4,
+    "outlets": 4
    },
    "image": {
-    "url": "https://www.planet.fr/sites/default/files/2026-10/ABACA_1021750_020-20261006145219-8d76af6b.jpg",
-    "source": "Planet.fr (d'après l'AFP)",
-    "article_url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
-    "article_id": "01e4e7ff14f4"
+    "url": "https://img.20mn.fr/0dHM2pHVQt-6dv7BJYhz5yk/1200x768_visite-de-marine-le-pen-deputee-du-rassemblement-national-au-sommet-de-l-elevage-de-clermont-ferrand-le-mercredi-7-octobre-2025-photographies-de-maxime-fraisse-sipa-deplacement-de-marine-lepen-issue-du-rassemblement-national-au-sommet-de-l-elevage-de-clermont-ferrand-le-mercredi-07-octobre-2025-photographies-de-maxime-fraisse-sipa-francia-clermont-ferrand-fraissemaxime-08130008-credit-maxime-fraisse-sipa-2510100815",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4252408-20261008-presidentielle-2027-elles-toutes-refuse-marine-pen-cherche-toujours-banque-campagne?at_medium=display&at_campaign=149",
+    "article_id": "95dea150e718"
    },
-   "id": 55,
+   "social_requested": "2026-10-08T14:59:53+00:00",
+   "id": 71,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-07T08:14:09+00:00",
+   "reviewed_at": "2026-10-08T15:00:09+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.06,
+   "score": 12.0,
    "sources": [
     {
-     "id": "01e4e7ff14f4",
-     "name": "Planet.fr (d'après l'AFP)",
+     "id": "047109bba606",
+     "name": "LCP",
      "kind": "media",
-     "title": "Marine Le Pen a présenté son « contre-budget » pour dégager 140 milliards d'euros d'économies",
-     "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
-     "published_at": "2026-10-06T14:52:00+00:00",
-     "snippet": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies | Planet.fr Aller au contenu principal Accueil\nabacapress © Szwarc Henri/ABACA Le Rassemblement national a dévoilé sa feuille de route budgétaire, promettant 140 milliards d'euros d'économies nettes d'ici 203"
+     "title": "« On fait quoi ? » : le RN dénonce les refus de prêts bancaires pour financer sa campagne de 2027",
+     "url": "https://lcp.fr/actualites/on-fait-quoi-le-rn-denonce-les-refus-de-prets-bancaires-pour-financer-sa-campagne-de",
+     "published_at": "2026-04-29T18:30:00+00:00",
+     "snippet": "Le Rassemblement national déplore être confronté à des refus de prêts de la part des banques françaises en vue de financer la campagne présidentielle de la candidate, ou du candidat, qui portera ses couleurs l'année prochaine. Une situation qui pose la question du financement de la vie politique et "
     },
     {
-     "id": "247565372a61",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que ferait David Lisnard des 200 milliards d’économies annoncés ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue ferait David Lisnard des 200 milliards d’économies annoncés ? | Nouvelle ÉnergieAller au contenuQue ferait David Lisnard des 200 milliards d’écon"
-    },
-    {
-     "id": "2535be60bb08",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Quelles économies propose David Lisnard ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "Quelles économies propose David Lisnard ? | Nouvelle ÉnergieAller au contenuQuelles économies propose David Lisnard ?Trois gisements nommés : les quelque 1 200 agences et opérateurs publics créés en vingt-cinq ans, la bureaucratie et les procédures, et la dépense sociale, par le plafonnement de cert"
-    },
-    {
-     "id": "54385708659c",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que veut faire David Lisnard contre l’excès de normes ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-veut-faire-david-lisnard-contre-l-exces-de-normes/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue veut faire David Lisnard contre l’excès de normes ? | Nouvelle ÉnergieAller au contenuQue veut faire David Lisnard contre l’excès de normes ?Reti"
-    },
-    {
-     "id": "5ca8662ed393",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Où passe l’argent public selon David Lisnard ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/ou-passe-l-argent-public-selon-david-lisnard/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nOù passe l’argent public selon David Lisnard ? | Nouvelle ÉnergieAller au contenuOù passe l’argent public selon David Lisnard ?Dans la bureaucratie, "
-    },
-    {
-     "id": "6ccfce1a2ac3",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que propose David Lisnard face à la dette publique ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-a-la-dette-publique/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "Que propose David Lisnard face à la dette publique ? | Nouvelle ÉnergieAller au contenuQue propose David Lisnard face à la dette publique ?Baisser la dépense, jamais augmenter l’impôt : 80 milliards d’euros dès la première année, au moins 200 milliards en trajectoire, dont 40 affectés au désendettem"
-    },
-    {
-     "id": "6dab58c97222",
-     "name": "Le Monde",
+     "id": "3c48cc970b51",
+     "name": "Le Parisien",
      "kind": "media",
-     "title": "Présidentielle 2027 : Marine Le Pen et le RN présentent leur contre-budget, avec « 140 milliards d’euros nets d’économies » en cinq ans",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_6788959_823448.html",
-     "published_at": "2026-10-06T08:26:03+00:00",
-     "snippet": "Cette trajectoire budgétaire « sera confortée par l’adoption d’une règle d’or budgétaire constitutionnelle adoptée par référendum », a précisé la cheffe de file du parti d’extrême droite."
+     "title": "Au Sommet de l’élevage, Marine Le Pen espère prendre du champ avec « l’affaire Bardella »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/au-sommet-de-lelevage-marine-le-pen-espere-prendre-du-champ-avec-laffaire-bardella-07-10-2026-AKB3SKHJNFFQXPLZEJQGXBRLFQ.php",
+     "published_at": "2026-10-07T19:25:39+00:00",
+     "snippet": ""
     },
     {
-     "id": "8b8ce9581b2e",
-     "name": "CNews",
+     "id": "81cd8cc3a84a",
+     "name": "franceinfo",
      "kind": "media",
-     "title": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national",
-     "url": "https://www.cnews.fr/france/2026-10-06/baisse-de-la-tva-preference-nationale-simplification-administrative-que-contient",
-     "published_at": "2026-10-06T10:43:00+00:00",
-     "snippet": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national Par CNEWS Publié le 06/10/2026 à 10:43 - Mis à jour le 06/10/2026 à 11:24 Ajouter CNEWS à mes favoris Google Lors d’une conférence de presse, la présidente des députés "
+     "title": "Pourquoi le Premier ministre cherche à convaincre les banques françaises d'accorder un prêt à Marine Le Pen pour la présidentielle",
+     "url": "https://www.franceinfo.fr/politique/marine-le-pen/pourquoi-le-premier-ministre-cherche-a-convaincre-les-banques-francaises-d-accorder-un-pret-a-marine-le-pen-pour-la-presidentielle_8125397.html",
+     "published_at": "2026-07-29T05:56:00+00:00",
+     "snippet": "Sébastien Lecornu a réuni plusieurs grandes banques françaises, lundi, pour les inciter à financer les campagnes présidentielles de 2027, y compris celle de la candidate du Rassemblement national, qui peine à décrocher un emprunt dans l'Hexagone.\nPour sauvegarder cet article, connectez-vous ou créez"
     },
     {
-     "id": "9e0518d47528",
-     "name": "TIME France",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget",
-     "url": "https://www.timefrance.fr/politique/presidentielle-2027-marine-le-pen-devoile-son-contre-budget/",
-     "published_at": "2026-10-06T12:00:00+00:00",
-     "snippet": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget Aller au contenu Politique\n« 140 milliards d’euros nets d’économies » d’ici à 2032 : c’est l’objectif annoncé par Marine Le Pen lors de la présentation du contre-budget du Rassemblement national. Entre chiffres et graphiques, la candidate"
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
-    },
-    {
-     "id": "c0b636b0ba19",
+     "id": "90d1ef407b5d",
      "name": "Libération",
      "kind": "media",
-     "title": "Le RN présente un contre-budget garanti avec trucages",
-     "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
-     "published_at": "2026-10-06T17:55:24+00:00",
-     "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
+     "title": "En déplacement à Cournon, Marine Le Pen tente d’échapper à l’affaire Bardella",
+     "url": "https://www.liberation.fr/politique/accusations-dantisemitisme-marine-le-pen-maintient-a-1-000-sa-confiance-en-jordan-bardella-20261007_WTWZEN2HVNAULHAGRDYXLRT4IY/",
+     "published_at": "2026-10-07T18:04:45+00:00",
+     "snippet": "La candidate, au salon de l’élevage ce mercredi 7 octobre, a renouvelé sa confiance envers le patron du RN, après les révélations de «Mediapart». Une pause, alors que la campagne est percutée par ces écrits antisémites."
+    },
+    {
+     "id": "95dea150e718",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : « Elles ont toutes refusé »… Marine Le Pen cherche toujours une banque pour sa campagne",
+     "url": "https://www.20minutes.fr/politique/4252408-20261008-presidentielle-2027-elles-toutes-refuse-marine-pen-cherche-toujours-banque-campagne?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-08T08:33:57+00:00",
+     "snippet": "La candidate du RN a déclaré mardi n’avoir trouvé aucune banque française acceptant de financer sa campagne pour la présidentielle de 2027, bien qu’elle soit donnée largement en tête dans tous les sondages à six mois du premier tour"
+    },
+    {
+     "id": "ab437610bd0a",
+     "name": "Reuters (via Boursorama)",
+     "kind": "media",
+     "title": "Les banques veulent des garanties pour les prêts aux candidats à la présidentielle de 2027, confirme Gavalda",
+     "url": "https://www.boursorama.com/bourse/actualites/les-banques-veulent-des-garanties-pour-les-prets-aux-candidats-a-la-presidentielle-de-2027-confirme-gavalda-d27dc07a4b448b99ff164ca6f705f465",
+     "published_at": "2026-07-31T11:07:00+00:00",
+     "snippet": "Les banques françaises exigent des garanties pour assurer le financement des campagnes ‌des candidats à l'élection présidentielle de 2027, a déclaré Olivier Gavalda, futur patron de la Fédération bancaire française (FBF), alors que la cheffe de file du Rassemblement ​national (RN) Marine Le Pen cher"
+    },
+    {
+     "id": "ce1e8eade47a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Campagne présidentielle: les banques \"ont toutes refusé\" les demandes de financement du RN, déclare Marine Le Pen",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-campagne-presidentielle-les-banques-ont-toutes-refuse-les-demandes-de-financement-du-rn-declare-marine-le-pen_VN-202610080294.html",
+     "published_at": "2026-10-08T07:30:02+00:00",
+     "snippet": "La candidate RN à l'élection présidentielle s'exprime sur la campagne de l'élection présidentielle 2027, lors de sa conférence de presse de présentation de la proposition de budget du RN, mardi 6 octobre à Paris."
+    },
+    {
+     "id": "d2ce6bb90f9d",
+     "name": "Orange (6Médias, d'après BFM Business et L'Express)",
+     "kind": "media",
+     "title": "Financement de campagne : refusée par toutes les banques françaises, Marine Le Pen veut autoriser les prêts de particuliers",
+     "url": "https://actu.orange.fr/politique/financement-de-campagne-refusee-par-toutes-les-banques-francaises-marine-le-pen-veut-autoriser-les-prets-de-particuliers-magic-CNT000002spmiS.html",
+     "published_at": "2026-10-08T07:36:00+00:00",
+     "snippet": "Faute de financements par les banques françaises, Marine Le Pen plaide pour autoriser les prêts de particuliers à la présidentielle. Le gouvernement, lui, étudie un pool de banques garanti par l'État.\nLargement en tête des intentions de vote à un peu plus de six mois du premier tour du scrutin, Mari"
     }
    ]
   },
@@ -315,7 +237,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.27,
+   "score": 13.49,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -495,7 +417,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.6,
+   "score": 7.5,
    "sources": [
     {
      "id": "637cd573a004",
@@ -589,7 +511,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.77,
+   "score": 5.28,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -682,7 +604,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.71,
+   "score": 5.25,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -710,6 +632,245 @@
      "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
      "published_at": "2026-10-07T16:58:30+00:00",
      "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
+    }
+   ]
+  },
+  {
+   "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
+   "chapo": "Le RN a présenté le 6 octobre un contre-budget qui promet 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. David Lisnard annonce au moins 200 milliards, dont 80 dès la première année ; ses chiffres viennent du site de Nouvelle Énergie. Le RN prévoit des baisses de TVA et de taxes et de nouvelles dépenses, et vise un déficit sous 3 % du PIB dès 2030. Lisnard annonce une règle de partage fixée à l'avance, en pourcentages.",
+   "points": [
+    {
+     "text": "Le RN annonce 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. Jean-Philippe Tanguy avait parlé de 125 milliards d'ici 2032 sur CNews, le dimanche précédent. Marine Le Pen justifie les 140 par la hausse des taux et le budget que proposent Sébastien Lecornu et Emmanuel Macron. Le RN vise aussi un déficit sous 3 % du PIB dès 2030, contre 5,4 % attendus par le gouvernement en 2026. Selon Nouvelle Énergie, Lisnard annonce au moins 200 milliards d'euros de baisse de dépense en trajectoire, dont 80 dès la première année. Son objectif de départ était de 300 milliards : il dit ne pas encore pouvoir documenter entièrement les 100 restants et continuer d'y travailler.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61"
+     ]
+    },
+    {
+     "text": "Côté RN, l'État absorberait 24 milliards d'euros d'efforts : révision générale des crédits, fin de leur reconduction automatique et suppression d'agences publiques. Tanguy défend d'abord l'interdiction des dépenses reconduites automatiquement, qui représentent selon lui des dizaines de milliards. La Sécurité sociale subirait une compression de 20 milliards. La priorité nationale sur les prestations et le durcissement de l'accès pour les étrangers rapporteraient 12 à 15 milliards la première année et 29 milliards à terme selon Planet (d'après l'AFP).",
+     "sources": [
+      "01e4e7ff14f4",
+      "a1c54071d453",
+      "8b8ce9581b2e"
+     ]
+    },
+    {
+     "text": "Sur la contribution française à l'Union européenne, les montants diffèrent. Planet (d'après l'AFP) parle d'une réduction de 9 milliards d'euros. TIME écrit que le RN veut la limiter à 5 milliards, contre près de 29 milliards prévus cette année. Le RN compte aussi sur le prélèvement à la source de la TVA : Marine Le Pen dit qu'il permettrait de récupérer environ 26 milliards d'euros de fraude, selon TIME. Les effectifs publics baisseraient : certains agents seraient réaffectés, d'autres ne seraient pas remplacés à leur départ en retraite. Le RN veut aussi supprimer la quasi-totalité des agences, une allocation sociale unique et une forte baisse de l'aide publique au développement.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "8b8ce9581b2e"
+     ]
+    },
+    {
+     "text": "Côté dépenses, le RN veut ramener la TVA de 20 % à 5,5 % sur l'électricité, le gaz et les carburants. CNews ajoute le bois et le fioul, et la suppression de la TVA sur les produits de première nécessité. L'allègement fiscal annoncé est de 30 milliards d'euros sur le quinquennat, avec la suppression de plus de 120 taxes. Pour les familles : une subvention pour le troisième enfant à l'horizon 2031, une part fiscale pleine dès le deuxième enfant et le permis de conduire gratuit pour les jeunes éligibles à partir de 2028. Pour la santé : 2 milliards de plus pour les proches aidants et 1,4 milliard pour les soins dentaires. Sur les retraites, Le Pen annonce 15 à 20 milliards d'économies à terme, sur des mesures qui seront détaillées dans les semaines à venir. Elle veut aussi un « pilier de capitalisation » et ramener l'âge de départ à 62 ans, voire 60.",
+     "sources": [
+      "01e4e7ff14f4",
+      "8b8ce9581b2e",
+      "9e0518d47528"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Économie Roland Lescure estime qu'« avec un budget Le Pen, on rêverait en couleurs et on raserait gratis ». Il juge certaines propositions inapplicables. Sur le plan juridique, Planet (d'après l'AFP) écrit que la priorité nationale sur les allocations contrevient aux principes constitutionnels d'égalité et au droit européen. Réduire la contribution à Bruxelles exigerait de renégocier les traités, sans garantie d'aboutir.",
+     "sources": [
+      "9e0518d47528",
+      "01e4e7ff14f4"
+     ]
+    },
+    {
+     "text": "Lisnard désigne d'abord environ 1 200 agences et opérateurs créés en vingt-cinq ans. Ils ont recruté de 420 000 à 440 000 agents selon ses chiffrages successifs et dépensent de 83 à 100 milliards d'euros. Il ne veut pas tous les supprimer, car un État de droit a besoin d'autorités indépendantes. Il vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer, et les agences régionales de santé. Il propose aussi de cesser de surtransposer les directives européennes, et de confier à une équipe placée sous l'autorité du président ou du premier ministre le retrait des normes existantes.",
+     "sources": [
+      "2535be60bb08",
+      "5ca8662ed393",
+      "54385708659c"
+     ]
+    },
+    {
+     "text": "Sur 1 700 milliards d'euros de dépense publique, environ 900 milliards sont sociaux, rappelle Lisnard. Il cite le plafonnement de certains revenus sociaux et la désindexation des retraites au-delà d'un seuil, de l'ordre de 2 000 euros mensuels. Il avance aussi son bilan à Cannes : effectifs réduits de près de 20 % et dette baissée de 82 millions d'euros. Il ne présente pas ce résultat comme transposable tel quel, une ville n'ayant ni prestations sociales ni assurance maladie à sa charge.",
+     "sources": [
+      "2535be60bb08",
+      "5ca8662ed393",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Selon Nouvelle Énergie, les 200 milliards sont répartis d'avance : 120 milliards rendus aux actifs en salaire net (60 %), 40 milliards en baisse des impôts de production (20 %) et 40 milliards pour la dette ou la modernisation de l'État (20 %). La baisse des impôts de production commence par la suppression de la C3S, une contribution assise sur le chiffre d'affaires, due même par une entreprise qui perd de l'argent. Les 80 milliards de la première année suivent la même clé. Lisnard refuse d'augmenter l'impôt pour réduire la dette : il cite le record de prélèvements et 92 % de dette portée par l'État et les comptes sociaux. Sa règle interdit que les économies financent de nouvelles dépenses.",
+     "sources": [
+      "247565372a61",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Ce qu'ils ont en commun : tous deux s'attaquent aux agences de l'État (le RN en supprimerait la quasi-totalité, Lisnard vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer et les agences régionales de santé) et à ses effectifs (des départs en retraite non remplacés chez le RN, moins de règles donc moins de bureaucrates chez Lisnard). Tous deux touchent à la fiscalité : le RN supprime plus de 120 taxes, Lisnard commence par la C3S. Et tous deux annoncent que la dépense baisse d'abord : Lisnard refuse d'augmenter l'impôt pour réduire la dette, le RN annonce 30 milliards d'allègement fiscal.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61",
+      "5ca8662ed393",
+      "54385708659c",
+      "6ccfce1a2ac3"
+     ]
+    },
+    {
+     "text": "Ce qui les sépare. Retraites : le RN veut revenir à 62 ans, voire 60, et ajouter une part de capitalisation, avec 15 à 20 milliards d'économies à trouver ; Lisnard cite la désindexation des retraites au-delà d'environ 2 000 euros par mois. Immigration : le RN chiffre la priorité nationale à 12-15 milliards dès la première année et 29 à terme ; Lisnard n'en fait pas un poste d'économies. Europe : le RN réduit la contribution de la France à l'Union européenne ; Lisnard veut cesser de surtransposer les directives. Destination de l'argent : le RN baisse la TVA sur l'énergie et finance des mesures famille et santé ; Lisnard fixe 60 % en salaire net, 20 % en baisse d'impôts de production, 20 % pour la dette. Enfin, le RN a détaillé son plan en conférence de presse le 6 octobre ; Lisnard s'appuie sur des annonces de campagne reprises sur le site de son parti, et personne n'a vérifié ces chiffres de l'extérieur.",
+     "sources": [
+      "01e4e7ff14f4",
+      "9e0518d47528",
+      "6dab58c97222",
+      "a1c54071d453",
+      "8b8ce9581b2e",
+      "b9bb0603a91b",
+      "2535be60bb08",
+      "247565372a61",
+      "5ca8662ed393",
+      "54385708659c",
+      "6ccfce1a2ac3"
+     ]
+    }
+   ],
+   "perspectives": [
+    {
+     "source": "c0b636b0ba19",
+     "position": "critique",
+     "text": "Libération juge le projet du RN « au doigt mouillé » et relève que ses cibles sont les étrangers, la fonction publique et l'Union européenne."
+    }
+   ],
+   "coverage": {
+    "articles": 12,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://www.planet.fr/sites/default/files/2026-10/ABACA_1021750_020-20261006145219-8d76af6b.jpg",
+    "source": "Planet.fr (d'après l'AFP)",
+    "article_url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+    "article_id": "01e4e7ff14f4"
+   },
+   "id": 55,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-07T08:14:09+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.39,
+   "sources": [
+    {
+     "id": "01e4e7ff14f4",
+     "name": "Planet.fr (d'après l'AFP)",
+     "kind": "media",
+     "title": "Marine Le Pen a présenté son « contre-budget » pour dégager 140 milliards d'euros d'économies",
+     "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
+     "published_at": "2026-10-06T14:52:00+00:00",
+     "snippet": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies | Planet.fr Aller au contenu principal Accueil\nabacapress © Szwarc Henri/ABACA Le Rassemblement national a dévoilé sa feuille de route budgétaire, promettant 140 milliards d'euros d'économies nettes d'ici 203"
+    },
+    {
+     "id": "247565372a61",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que ferait David Lisnard des 200 milliards d’économies annoncés ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue ferait David Lisnard des 200 milliards d’économies annoncés ? | Nouvelle ÉnergieAller au contenuQue ferait David Lisnard des 200 milliards d’écon"
+    },
+    {
+     "id": "2535be60bb08",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Quelles économies propose David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "Quelles économies propose David Lisnard ? | Nouvelle ÉnergieAller au contenuQuelles économies propose David Lisnard ?Trois gisements nommés : les quelque 1 200 agences et opérateurs publics créés en vingt-cinq ans, la bureaucratie et les procédures, et la dépense sociale, par le plafonnement de cert"
+    },
+    {
+     "id": "54385708659c",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que veut faire David Lisnard contre l’excès de normes ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-veut-faire-david-lisnard-contre-l-exces-de-normes/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue veut faire David Lisnard contre l’excès de normes ? | Nouvelle ÉnergieAller au contenuQue veut faire David Lisnard contre l’excès de normes ?Reti"
+    },
+    {
+     "id": "5ca8662ed393",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Où passe l’argent public selon David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/ou-passe-l-argent-public-selon-david-lisnard/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nOù passe l’argent public selon David Lisnard ? | Nouvelle ÉnergieAller au contenuOù passe l’argent public selon David Lisnard ?Dans la bureaucratie, "
+    },
+    {
+     "id": "6ccfce1a2ac3",
+     "name": "Nouvelle Énergie (site officiel)",
+     "kind": "institution",
+     "title": "Que propose David Lisnard face à la dette publique ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-a-la-dette-publique/",
+     "published_at": "2026-10-06T00:00:00+00:00",
+     "snippet": "Que propose David Lisnard face à la dette publique ? | Nouvelle ÉnergieAller au contenuQue propose David Lisnard face à la dette publique ?Baisser la dépense, jamais augmenter l’impôt : 80 milliards d’euros dès la première année, au moins 200 milliards en trajectoire, dont 40 affectés au désendettem"
+    },
+    {
+     "id": "6dab58c97222",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Marine Le Pen et le RN présentent leur contre-budget, avec « 140 milliards d’euros nets d’économies » en cinq ans",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_6788959_823448.html",
+     "published_at": "2026-10-06T08:26:03+00:00",
+     "snippet": "Cette trajectoire budgétaire « sera confortée par l’adoption d’une règle d’or budgétaire constitutionnelle adoptée par référendum », a précisé la cheffe de file du parti d’extrême droite."
+    },
+    {
+     "id": "8b8ce9581b2e",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national",
+     "url": "https://www.cnews.fr/france/2026-10-06/baisse-de-la-tva-preference-nationale-simplification-administrative-que-contient",
+     "published_at": "2026-10-06T10:43:00+00:00",
+     "snippet": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national Par CNEWS Publié le 06/10/2026 à 10:43 - Mis à jour le 06/10/2026 à 11:24 Ajouter CNEWS à mes favoris Google Lors d’une conférence de presse, la présidente des députés "
+    },
+    {
+     "id": "9e0518d47528",
+     "name": "TIME France",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget",
+     "url": "https://www.timefrance.fr/politique/presidentielle-2027-marine-le-pen-devoile-son-contre-budget/",
+     "published_at": "2026-10-06T12:00:00+00:00",
+     "snippet": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget Aller au contenu Politique\n« 140 milliards d’euros nets d’économies » d’ici à 2032 : c’est l’objectif annoncé par Marine Le Pen lors de la présentation du contre-budget du Rassemblement national. Entre chiffres et graphiques, la candidate"
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
+    },
+    {
+     "id": "c0b636b0ba19",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Le RN présente un contre-budget garanti avec trucages",
+     "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
+     "published_at": "2026-10-06T17:55:24+00:00",
+     "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
     }
    ]
   },
@@ -778,7 +939,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.22,
+   "score": 6.14,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -887,7 +1048,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.02,
+   "score": 5.12,
    "sources": [
     {
      "id": "573133300860",
@@ -989,7 +1150,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.41,
+   "score": 4.61,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -1093,7 +1254,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.68,
+   "score": 3.19,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -1191,7 +1352,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.61,
+   "score": 3.07,
    "sources": [
     {
      "id": "068789211545",
@@ -1280,7 +1441,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.03,
+   "score": 11.76,
    "sources": [
     {
      "id": "4e841ee21bf4",
@@ -1437,7 +1598,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.69,
+   "score": 9.74,
    "sources": [
     {
      "id": "029fa60d169a",
@@ -1664,7 +1825,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.43,
+   "score": 10.32,
    "sources": [
     {
      "id": "012918a20c8a",
@@ -1939,7 +2100,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.47,
+   "score": 7.62,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -2067,7 +2228,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.96,
+   "score": 5.37,
    "sources": [
     {
      "id": "1c1ba278c731",
@@ -2205,7 +2366,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.78,
+   "score": 5.19,
    "sources": [
     {
      "id": "0b82ee618cad",
@@ -2303,7 +2464,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.33,
+   "score": 3.04,
    "sources": [
     {
      "id": "01ecb22ad588",
@@ -2416,7 +2577,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.8,
+   "score": 6.3,
    "sources": [
     {
      "id": "3566bb310543",
@@ -2568,7 +2729,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.78,
    "sources": [
     {
      "id": "5b8c79cc0a6b",
