@@ -1,6 +1,223 @@
 {
- "generated_at": "2026-10-09T17:39:00+00:00",
+ "generated_at": "2026-10-09T17:40:21+00:00",
  "posts": [
+  {
+   "headline": "Affaire Bardella : nouvelles accusations de Mediapart et du Canard enchaîné, l'intéressé dément et porte plainte",
+   "chapo": "Depuis dix jours, Mediapart accuse Jordan Bardella d'avoir tenu des propos antisémites en 2013, à 17 ans. Vendredi 9 octobre, le site et Le Canard enchaîné publient de nouveaux éléments. Le président du RN conteste farouchement les faits, et son entourage dénonce des manipulations.",
+   "points": [
+    {
+     "text": "Mediapart accuse Jordan Bardella d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, quand il avait 17 ans. Il répond : « Je n'ai jamais tenu ces propos ignobles », et refuse de parler d'« erreur de jeunesse pour des positions qui ne sont pas les (siennes) ». Il a déposé plainte pour diffamation contre le site.",
+     "sources": [
+      "78b0bffd6d04",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Vendredi 9 octobre, Mediapart affirme avoir pu établir « un lien direct » entre l'ancien compte Facebook personnel de Jordan Bardella et son compte officiel sur X, alors Twitter. Le site dit avoir trouvé des messages similaires, fautes d'orthographe incluses, à quelques minutes d'intervalle, selon France Inter, qui relève la même faute d'orthographe dans les deux messages, par exemple sur « le conseiller économique de François Hollande, employé par la banque Rotschild ».",
+     "sources": [
+      "0c736ad7e222",
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "d75fb41f433c",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "L'entourage de Jordan Bardella juge que « ce nouvel article est grotesque ». Il rejette aussi les rapprochements faits par le site à propos de messages sur Pétain.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Le Canard enchaîné affirme, de son côté, disposer d'« extractions de conversations privées » prouvant que « toutes les données » d'un ancien compte Facebook militant ont été effacées entre le 28 septembre et le 2 octobre, dans la foulée des premiers articles de Mediapart. BFMTV précise que ce compte n'est pas celui à partir duquel il est accusé d'avoir échangé les messages de 2013. Le Canard enchaîné, dans son propre article, s'interroge : pourquoi s'être connecté à l'un de ces comptes entre le 28 septembre et le 2 octobre ? France Inter précise que, selon l'hebdomadaire, le président du RN en aurait plusieurs.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "3a6f3763fac0",
+      "356ed54adeb0",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "Le parti dément : « Jordan Bardella ne s'est jamais connecté à aucun compte Facebook ni (n'a) supprimé aucun message », ce qui est « bien la preuve des manipulations en cours ». Une plainte en diffamation doit être déposée « dans les prochaines heures ».",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "356ed54adeb0",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "BFMTV et 20 Minutes estiment que ces éléments mettent à mal sa défense, car il affirmait encore mardi n'avoir « pas de compte Facebook » et ne plus l'utiliser depuis très longtemps. Le compte évoqué par Le Canard enchaîné n'est toutefois pas celui des messages de 2013.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Jeudi 8 octobre sur LCI, Jordan Bardella a dénoncé une « opération de déstabilisation » et une « affaire dont tout le monde se moque ». Il accuse Mediapart de vouloir l'« assassiner politiquement » et dit « préparer » une plainte pour faux et usage de faux. Il assure n'avoir jamais rencontré Alain Soral.",
+     "sources": [
+      "78b0bffd6d04"
+     ]
+    },
+    {
+     "text": "Selon un sondage Ifop pour LCI mené mardi et mercredi auprès de 1 000 personnes en âge de voter, 61 % ne sont pas convaincues par ses dénégations. Trois quarts des sondés (74 %) jugent les accusations « graves » et 21 % disent avoir une image « détériorée » de lui.",
+     "sources": [
+      "78b0bffd6d04"
+     ]
+    },
+    {
+     "text": "Le Monde, Libération, Le Parisien, France 24 et L'Express rapportent aussi ces éléments. France 24 écrit que Jordan Bardella « aurait effacé » les données d'un compte Facebook, au conditionnel.",
+     "sources": [
+      "0cd30c7a91bd",
+      "4927b683db64",
+      "5f9098cd854f",
+      "067eb2bcd3a1",
+      "2821373b048a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/c4tnQchXkuWZwvMnAo8QGqWZckA=/0x106:2048x1258/800x0/images/BARDELLA-2362078.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
+    "article_id": "78b0bffd6d04",
+    "focus_x": 0.7233333333333334,
+    "focus_y": 0.7541666666666667
+   },
+   "id": 80,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-09T17:40:21+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.0,
+   "sources": [
+    {
+     "id": "067eb2bcd3a1",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Jordan Bardella aurait effacé les données d'un compte Facebook après les révélations de Mediapart",
+     "url": "https://www.france24.com/fr/france/20261009-jordan-bardella-aurait-effac%C3%A9-les-donn%C3%A9es-d-un-compte-facebook-apr%C3%A8s-les-r%C3%A9v%C3%A9lations-de-mediapart",
+     "published_at": "2026-10-09T12:55:34+00:00",
+     "snippet": "Selon de nouvelles informations publiées vendredi par le Canard enchaîné, Jordan Bardella aurait effacé les données d'un ancien compte Facebook militant dès la divulgation par Mediapart des écrits de jeunesse antisémites dont il nie être l'auteur. Des informations de nouveau démenties en bloc par le Rassemblement national."
+    },
+    {
+     "id": "0c736ad7e222",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/messages-antisemites-attribues-a-jordan-bardella-mediapart-publie-de-nouveaux-elements-mettant-a-mal-la-defense-du-president-du-rn_8229829.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T10:01:58+00:00",
+     "snippet": "Le site d'investigation assure avoir \"pu établir un lien direct\" entre le compte Twitter officiel du président du RN et le fil de conversation Messenger \"sur lequel il déversait ses idées antisémites\"."
+    },
+    {
+     "id": "0cd30c7a91bd",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Mediapart » publie de nouvelles preuves visant à confirmer des écrits antisémites de Jordan Bardella",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/mediapart-publie-de-nouvelles-preuves-visant-a-confirmer-des-ecrits-antisemites-de-jordan-bardella_6790549_823448.html",
+     "published_at": "2026-10-09T09:44:20+00:00",
+     "snippet": "Le journal d’investigation dit avoir pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel apparaissaient ses propos antisémites."
+    },
+    {
+     "id": "2821373b048a",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "\"Le plan B, c’était de défendre l’erreur de jeunesse\" : affaire Bardella, les jours d’après au RN",
+     "url": "https://www.lexpress.fr/politique/affaire-bardella-les-jours-dapres-au-rassemblement-national-ULRPQWYZ5JCKTBM3LE7MJBVNAQ/",
+     "published_at": "2026-10-08T04:45:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "356ed54adeb0",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Jordan Bardella aurait effacé un profil Facebook après les révélations de Mediapart",
+     "url": "https://www.la-croix.com/politique/jordan-bardella-aurait-efface-un-profil-facebook-apres-les-revelations-de-mediapart-20261009",
+     "published_at": "2026-10-09T13:50:09+00:00",
+     "snippet": "Le Canard Enchaîné a affirmé ce vendredi 9 octobre que le président du RN a effacé les données d’un de ses comptes Facebook après les révélations de Mediapart sur d’anciens écrits antisémites dont il nie être l’auteur. Une nouvelle information que le Rassemblement national dément."
+    },
+    {
+     "id": "3a6f3763fac0",
+     "name": "Le Canard enchaîné",
+     "kind": "media",
+     "title": "Ecrits antisémites Jordan Bardella a effacé un profil Facebook pour tenter de sauver sa tête",
+     "url": "https://www.lecanardenchaine.fr/politique/55149-jordan-bardella-a-efface-un-profil-facebook-pour-tenter-de-sauver-sa-tete",
+     "published_at": "2026-10-09T08:25:00+00:00",
+     "snippet": "Le président du RN continue d’affirmer que ses comptes Facebook personnels n’existent plus depuis longtemps. Mais alors, pourquoi s’est-il connecté à l’un d’eux entre le 28 septembre et le 2 octobre et fait effacer tout le contenu de sa messagerie privée…"
+    },
+    {
+     "id": "4927b683db64",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Ecrits antisémites : contrairement à ce qu’affirme Jordan Bardella, un compte Facebook associé à un de ses mails personnels existe toujours",
+     "url": "https://www.liberation.fr/checknews/ecrits-antisemites-contrairement-a-ce-quaffirme-jordan-bardella-un-compte-facebook-associe-a-un-de-ses-mails-personnels-existe-toujours-20261009_VRU6HCTBXNDTBIYGFG2LNWFR2Y/",
+     "published_at": "2026-10-09T13:19:58+00:00",
+     "snippet": "Le président du RN assure ne plus pouvoir extraire ses données de Facebook, car il n’a «pas de compte» sur le réseau social. Or une adresse mail de Jordan Bardella, retrouvée par «CheckNews», est toujours associée à un compte Facebook."
+    },
+    {
+     "id": "5f9098cd854f",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Affaire Bardella : accusé d’antisémitisme, le président du RN balaie « une affaire dont tout le monde se moque »",
+     "url": "https://www.leparisien.fr/politique/affaire-bardella-accuse-dantisemitisme-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque-09-10-2026-AZKEZAO2J5AZJBVALEYXZTULBA.php",
+     "published_at": "2026-10-09T10:53:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "61e0bbfe5e8b",
+     "name": "France Inter",
+     "kind": "media",
+     "title": "Affaire Bardella : des messages publiés sur X et Messenger contredisent sa version des faits",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/affaire-bardella-la-pression-ne-retombe-pas-6765935",
+     "published_at": "2026-10-09T11:30:00+00:00",
+     "snippet": "Le président du Rassemblement national est accusé d'avoir menti dans sa défense ces derniers jours face aux propos antisémites que lui prête Mediapart. Le média d'investigation et Le Canard enchaîné publient ce vendredi des articles pour déconstruire les arguments de l'eurodéputé."
+    },
+    {
+     "id": "78b0bffd6d04",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Écrits antisémites attribués à Jordan Bardella: le président du RN balaie \"une affaire dont tout le monde se moque\"",
+     "url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
+     "published_at": "2026-10-09T04:59:27+00:00",
+     "snippet": "Le président du RN, Jordan Bardella, accusé par Mediapart d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, continue de contester les faits et accuse le site d'investigation de complot."
+    },
+    {
+     "id": "7c2287d311d1",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Jordan Bardella accusé d’antisémitisme : Compte effacé, contenus relayés sur X… De nouvelles révélations",
+     "url": "https://www.20minutes.fr/politique/4252863-20261009-jordan-bardella-accuse-antisemitisme-compte-efface-contenus-relayes-x-nouvelles-revelations?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T12:09:35+00:00",
+     "snippet": "« Le Canard enchaîné » révèle que Jordan Bardella a effacé les données d’un ancien compte Facebook militant dès le début de l’affaire d’antisémitisme"
+    },
+    {
+     "id": "cfd2045751fc",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Propos antisémites attribués à Jordan Bardella: le président du RN va porter plainte en diffamation après de nouvelles révélations du Canard Enchaîné",
+     "url": "https://www.bfmtv.com/politique/front-national/propos-antisemites-attribues-a-jordan-bardella-le-president-du-rn-va-porter-plainte-en-diffamation-apres-de-nouvelles-revelations-du-canard-enchaine_AD-202610090541.html",
+     "published_at": "2026-10-09T12:37:41+00:00",
+     "snippet": "Selon Le Canard Enchaîné, le président du RN a effacé les données d'un ancien compte Facebook militant juste après la divulgation par Mediapart d'écrits de jeunesse antisémites qui lui sont attribués, mais dont il nie être l'auteur."
+    },
+    {
+     "id": "d75fb41f433c",
+     "name": "Mediapart",
+     "kind": "media",
+     "title": "Écrits antisémites sur Messenger: Jordan Bardella trahi par lui-même",
+     "url": "https://www.mediapart.fr/journal/france/091026/ecrits-antisemites-sur-messenger-jordan-bardella-trahi-par-lui-meme",
+     "published_at": "2026-10-09T09:09:10+00:00",
+     "snippet": "«Mediapart» a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémites. Après les preuves techniques et les recoupements biographiques, Jordan Bardella se démasque involontairement."
+    }
+   ]
+  },
   {
    "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
    "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à samedi soir.",
@@ -87,7 +304,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.26,
+   "score": 19.25,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -286,7 +503,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.25,
+   "score": 15.23,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -656,7 +873,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.11,
+   "score": 7.1,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -807,7 +1024,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.69,
+   "score": 5.68,
    "sources": [
     {
      "id": "047109bba606",
@@ -2009,117 +2226,6 @@
      "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
      "published_at": "2026-10-05T08:49:58+00:00",
      "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
-    }
-   ]
-  },
-  {
-   "headline": "Rima Hassan accusée d'avoir renversé des drapeaux au Parlement européen",
-   "chapo": "L'eurodéputée LFI Rima Hassan est accusée d'avoir renversé des drapeaux israélien et européen lors d'une exposition sur le 7-Octobre au Parlement européen, lundi 5 octobre. Elle reconnaît avoir retiré le drapeau israélien mais nie l'avoir piétiné. La présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions.",
-   "points": [
-    {
-     "text": "L'incident s'est produit lundi 5 octobre lors d'une exposition sur le 7-Octobre organisée par la droite européenne, selon Libération. Le Monde écrit que Rima Hassan est accusée d'avoir « dégradé une exposition ». Libération titre en se demandant si elle a renversé et piétiné les drapeaux.",
-     "sources": [
-      "edcb7b2d8c60",
-      "b75c4a257b5f",
-      "d12bd4b09170"
-     ]
-    },
-    {
-     "text": "Rima Hassan reconnaît avoir retiré le drapeau israélien, selon Libération. Selon Le Monde, il était sur un support, et son équipe a expliqué à l'AFP que le drapeau européen était tombé accidentellement. Selon franceinfo, cette équipe affirme qu'« aucun drapeau n'a été piétiné ni détérioré ».",
-     "sources": [
-      "edcb7b2d8c60",
-      "b75c4a257b5f",
-      "0b82ee618cad"
-     ]
-    },
-    {
-     "text": "Selon franceinfo, l'équipe de l'eurodéputée présente le geste comme une « dénonciation du génocide » à Gaza. Selon Le Monde, qui cite l'AFP, cette équipe dit que le geste s'inscrivait « dans la dénonciation du génocide toujours en cours mené par le gouvernement israélien ».",
-     "sources": [
-      "0b82ee618cad",
-      "b75c4a257b5f"
-     ]
-    },
-    {
-     "text": "Selon franceinfo, le Parlement européen dit prendre l'affaire « extrêmement au sérieux ». Selon 20 Minutes, la présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions, et le média parle d'un « incident sérieux ».",
-     "sources": [
-      "0b82ee618cad",
-      "dcf7add07aaa",
-      "d12bd4b09170"
-     ]
-    },
-    {
-     "text": "Selon Libération, aucun enregistrement vidéo ne permet pour l'instant de trancher. Les extraits ne disent rien de l'issue de la procédure ouverte par Roberta Metsola.",
-     "sources": [
-      "edcb7b2d8c60",
-      "d12bd4b09170"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/21j82-oHRsaH7BMuR4OUlSk/1200x768_rally-in-support-of-rima-hassan-a-franco-palestinian-lfi-member-of-the-national-assembly-who-is-on-trial-for-glorifying-terrorism-this-case-is-one-of-a-series-of-16-legal-proceedings-brought-against-her-over-the-past-two-years-13-of-which-were-dismissed-paris-7-juillet-2026-le-proces-de-rima-hassan-s-est-ouvert-sous-haute-tension-plusieurs-centaines-de-personnes-se-sont-rassemblees-mardi-sur-le-parvis-du-tribunal-correctionnel-de-paris-pour-soutenir-l-eurodeputee-lfi-poursuivie-pour-apologie-du-terrorisme-urman-urman0711-credit-lionel-urman-sipa-2607071705",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251816-20261006-attaques-7-octobre-drapeau-israelien-renverse-rima-hassan-incident-serieux-parlement-europeen?at_medium=display&at_campaign=149",
-    "article_id": "d12bd4b09170",
-    "focus_x": 0.5633333333333334,
-    "focus_y": 0.24324544270833334
-   },
-   "id": 44,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T17:40:13+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.75,
-   "sources": [
-    {
-     "id": "0b82ee618cad",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Rima Hassan accusée d'avoir renversé des drapeaux israélien et européen exposés en commémoration du 7-Octobre au Parlement européen, qui dit prendre l'affaire \"extrêmement au sérieux\"",
-     "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-parlement-europeen-prend-extremement-au-serieux-la-polemique-entourant-rima-hassan-accusee-d-avoir-renverse-des-drapeaux-europeen-et-israelien_8225038.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-06T11:47:22+00:00",
-     "snippet": "\"Aucun drapeau n'a été piétiné ni détérioré\", a affirmé l'équipe de l'eurodéputée La France insoumise pour contredire certaines accusations. Elle revendique avoir voulu retirer le drapeau de l'Etat hébreu dans un \"geste\" de \"dénonciation du génocide\" à Gaza."
-    },
-    {
-     "id": "b75c4a257b5f",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Rima Hassan accusée d’avoir « dégradé une exposition » sur le 7-Octobre au Parlement européen après avoir retiré un drapeau israélien de son support",
-     "url": "https://www.lemonde.fr/international/article/2026/10/06/rima-hassan-accusee-de-degradation-d-une-exposition-sur-le-7-octobre-au-parlement-europeen_6788993_3210.html",
-     "published_at": "2026-10-06T12:04:23+00:00",
-     "snippet": "En visitant une exposition consacrée au 7-Octobre, lundi, l’eurodéputée LFI a retiré un drapeau israélien de son support, faisant accidentellement tomber celui de l’Union européenne, a expliqué son équipe à l’AFP, soulignant que ce geste s’inscrivait « dans la dénonciation du génocide toujours en cours mené par le gouvernement israélien »."
-    },
-    {
-     "id": "d12bd4b09170",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Attaques du 7-Octobre : Drapeau israélien renversé… Rima Hassan au centre d’un « incident sérieux » au Parlement européen",
-     "url": "https://www.20minutes.fr/politique/4251816-20261006-attaques-7-octobre-drapeau-israelien-renverse-rima-hassan-incident-serieux-parlement-europeen?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T11:25:06+00:00",
-     "snippet": "L’eurodéputée LFI Rima Hassan est accusée d’avoir renversé des drapeaux israélien et européen en marge d’une exposition commémorative au Parlement européen. La présidente Roberta Metsola a ouvert une procédure pouvant mener à des sanctions"
-    },
-    {
-     "id": "dcf7add07aaa",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Rima Hassan accusée d’avoir renversé les drapeaux israélien et européen au Parlement européen, l’incident pris « extrêmement au sérieux » à Bruxelles",
-     "url": "https://www.leparisien.fr/politique/rima-hassan-accusee-davoir-renverse-les-drapeaux-israelien-et-europeen-au-parlement-europeen-lincident-pris-extremement-au-serieux-a-bruxelles-06-10-2026-WHDVH3RJHZBPFCULPVEOK44OIE.php",
-     "published_at": "2026-10-06T11:27:39+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "edcb7b2d8c60",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Rima Hassan a-t-elle renversé et piétiné les drapeaux d’Israël et de l’UE lors d’un hommage aux victimes du 7 Octobre au Parlement européen ?",
-     "url": "https://www.liberation.fr/checknews/rima-hassan-a-t-elle-renverse-et-pietine-les-drapeaux-disrael-et-de-lue-lors-dun-hommage-aux-victimes-du-7-octobre-au-parlement-europeen-20261006_4MJUU73SM5DGXBVOSWYL3SQHOA/",
-     "published_at": "2026-10-06T12:59:13+00:00",
-     "snippet": "L’élue LFI reconnaît avoir retiré un drapeau israélien lors d’une exposition organisée par la droite européenne lundi 5 octobre, mais nie l’avoir piétiné. Aucun enregistrement vidéo ne permet pour l’instant de trancher."
     }
    ]
   }
