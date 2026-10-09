@@ -160,7 +160,23 @@ function render() {
     return;
   }
   meta.textContent = `${list.length} sujet${list.length > 1 ? "s" : ""} relu${list.length > 1 ? "s" : ""}`;
-  list.forEach((p, i) => feed.append(renderPost(p, i)));
+  // Les récaps sont regroupés par jour (le plus récent en haut), sans changer l'ordre d'importance à l'intérieur d'un jour.
+  const paris = (iso) => new Date(iso || Date.now()).toLocaleDateString("fr-CA", { timeZone: "Europe/Paris" });
+  const dayKeys = list.map((p) => paris(p.reviewed_at));
+  const order = list.map((p, i) => i).sort((a, b) => (dayKeys[a] < dayKeys[b] ? 1 : dayKeys[a] > dayKeys[b] ? -1 : a - b));
+  const today = paris(), yesterday = paris(Date.now() - 86400000);
+  let lastDay = null;
+  order.forEach((idx, rank) => {
+    const day = dayKeys[idx];
+    if (day !== lastDay) {
+      const date = new Date(day + "T12:00:00");
+      const text = date.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long" });
+      const prefix = day === today ? "Aujourd'hui · " : day === yesterday ? "Hier · " : "";
+      feed.append(el("div", { class: "day-sep", role: "heading", "aria-level": "2", text: prefix + text }));
+      lastDay = day;
+    }
+    feed.append(renderPost(list[idx], rank));
+  });
 }
 
 // En-tête propre à chaque onglet. Dates du scrutin : 18 avril et 2 mai 2027 (source : France 24).
