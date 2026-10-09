@@ -1,223 +1,6 @@
 {
- "generated_at": "2026-10-09T17:40:21+00:00",
+ "generated_at": "2026-10-09T17:41:41+00:00",
  "posts": [
-  {
-   "headline": "Affaire Bardella : nouvelles accusations de Mediapart et du Canard enchaîné, l'intéressé dément et porte plainte",
-   "chapo": "Depuis dix jours, Mediapart accuse Jordan Bardella d'avoir tenu des propos antisémites en 2013, à 17 ans. Vendredi 9 octobre, le site et Le Canard enchaîné publient de nouveaux éléments. Le président du RN conteste farouchement les faits, et son entourage dénonce des manipulations.",
-   "points": [
-    {
-     "text": "Mediapart accuse Jordan Bardella d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, quand il avait 17 ans. Il répond : « Je n'ai jamais tenu ces propos ignobles », et refuse de parler d'« erreur de jeunesse pour des positions qui ne sont pas les (siennes) ». Il a déposé plainte pour diffamation contre le site.",
-     "sources": [
-      "78b0bffd6d04",
-      "7c2287d311d1"
-     ]
-    },
-    {
-     "text": "Vendredi 9 octobre, Mediapart affirme avoir pu établir « un lien direct » entre l'ancien compte Facebook personnel de Jordan Bardella et son compte officiel sur X, alors Twitter. Le site dit avoir trouvé des messages similaires, fautes d'orthographe incluses, à quelques minutes d'intervalle, selon France Inter, qui relève la même faute d'orthographe dans les deux messages, par exemple sur « le conseiller économique de François Hollande, employé par la banque Rotschild ».",
-     "sources": [
-      "0c736ad7e222",
-      "cfd2045751fc",
-      "7c2287d311d1",
-      "d75fb41f433c",
-      "61e0bbfe5e8b"
-     ]
-    },
-    {
-     "text": "L'entourage de Jordan Bardella juge que « ce nouvel article est grotesque ». Il rejette aussi les rapprochements faits par le site à propos de messages sur Pétain.",
-     "sources": [
-      "cfd2045751fc",
-      "7c2287d311d1"
-     ]
-    },
-    {
-     "text": "Le Canard enchaîné affirme, de son côté, disposer d'« extractions de conversations privées » prouvant que « toutes les données » d'un ancien compte Facebook militant ont été effacées entre le 28 septembre et le 2 octobre, dans la foulée des premiers articles de Mediapart. BFMTV précise que ce compte n'est pas celui à partir duquel il est accusé d'avoir échangé les messages de 2013. Le Canard enchaîné, dans son propre article, s'interroge : pourquoi s'être connecté à l'un de ces comptes entre le 28 septembre et le 2 octobre ? France Inter précise que, selon l'hebdomadaire, le président du RN en aurait plusieurs.",
-     "sources": [
-      "cfd2045751fc",
-      "7c2287d311d1",
-      "3a6f3763fac0",
-      "356ed54adeb0",
-      "61e0bbfe5e8b"
-     ]
-    },
-    {
-     "text": "Le parti dément : « Jordan Bardella ne s'est jamais connecté à aucun compte Facebook ni (n'a) supprimé aucun message », ce qui est « bien la preuve des manipulations en cours ». Une plainte en diffamation doit être déposée « dans les prochaines heures ».",
-     "sources": [
-      "cfd2045751fc",
-      "7c2287d311d1",
-      "356ed54adeb0",
-      "61e0bbfe5e8b"
-     ]
-    },
-    {
-     "text": "BFMTV et 20 Minutes estiment que ces éléments mettent à mal sa défense, car il affirmait encore mardi n'avoir « pas de compte Facebook » et ne plus l'utiliser depuis très longtemps. Le compte évoqué par Le Canard enchaîné n'est toutefois pas celui des messages de 2013.",
-     "sources": [
-      "cfd2045751fc",
-      "7c2287d311d1"
-     ]
-    },
-    {
-     "text": "Jeudi 8 octobre sur LCI, Jordan Bardella a dénoncé une « opération de déstabilisation » et une « affaire dont tout le monde se moque ». Il accuse Mediapart de vouloir l'« assassiner politiquement » et dit « préparer » une plainte pour faux et usage de faux. Il assure n'avoir jamais rencontré Alain Soral.",
-     "sources": [
-      "78b0bffd6d04"
-     ]
-    },
-    {
-     "text": "Selon un sondage Ifop pour LCI mené mardi et mercredi auprès de 1 000 personnes en âge de voter, 61 % ne sont pas convaincues par ses dénégations. Trois quarts des sondés (74 %) jugent les accusations « graves » et 21 % disent avoir une image « détériorée » de lui.",
-     "sources": [
-      "78b0bffd6d04"
-     ]
-    },
-    {
-     "text": "Le Monde, Libération, Le Parisien, France 24 et L'Express rapportent aussi ces éléments. France 24 écrit que Jordan Bardella « aurait effacé » les données d'un compte Facebook, au conditionnel.",
-     "sources": [
-      "0cd30c7a91bd",
-      "4927b683db64",
-      "5f9098cd854f",
-      "067eb2bcd3a1",
-      "2821373b048a"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/c4tnQchXkuWZwvMnAo8QGqWZckA=/0x106:2048x1258/800x0/images/BARDELLA-2362078.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
-    "article_id": "78b0bffd6d04",
-    "focus_x": 0.7233333333333334,
-    "focus_y": 0.7541666666666667
-   },
-   "id": 80,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-09T17:40:21+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 19.0,
-   "sources": [
-    {
-     "id": "067eb2bcd3a1",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Jordan Bardella aurait effacé les données d'un compte Facebook après les révélations de Mediapart",
-     "url": "https://www.france24.com/fr/france/20261009-jordan-bardella-aurait-effac%C3%A9-les-donn%C3%A9es-d-un-compte-facebook-apr%C3%A8s-les-r%C3%A9v%C3%A9lations-de-mediapart",
-     "published_at": "2026-10-09T12:55:34+00:00",
-     "snippet": "Selon de nouvelles informations publiées vendredi par le Canard enchaîné, Jordan Bardella aurait effacé les données d'un ancien compte Facebook militant dès la divulgation par Mediapart des écrits de jeunesse antisémites dont il nie être l'auteur. Des informations de nouveau démenties en bloc par le Rassemblement national."
-    },
-    {
-     "id": "0c736ad7e222",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
-     "url": "https://www.franceinfo.fr/politique/jordan-bardella/messages-antisemites-attribues-a-jordan-bardella-mediapart-publie-de-nouveaux-elements-mettant-a-mal-la-defense-du-president-du-rn_8229829.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T10:01:58+00:00",
-     "snippet": "Le site d'investigation assure avoir \"pu établir un lien direct\" entre le compte Twitter officiel du président du RN et le fil de conversation Messenger \"sur lequel il déversait ses idées antisémites\"."
-    },
-    {
-     "id": "0cd30c7a91bd",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "« Mediapart » publie de nouvelles preuves visant à confirmer des écrits antisémites de Jordan Bardella",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/mediapart-publie-de-nouvelles-preuves-visant-a-confirmer-des-ecrits-antisemites-de-jordan-bardella_6790549_823448.html",
-     "published_at": "2026-10-09T09:44:20+00:00",
-     "snippet": "Le journal d’investigation dit avoir pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel apparaissaient ses propos antisémites."
-    },
-    {
-     "id": "2821373b048a",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "\"Le plan B, c’était de défendre l’erreur de jeunesse\" : affaire Bardella, les jours d’après au RN",
-     "url": "https://www.lexpress.fr/politique/affaire-bardella-les-jours-dapres-au-rassemblement-national-ULRPQWYZ5JCKTBM3LE7MJBVNAQ/",
-     "published_at": "2026-10-08T04:45:00+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "356ed54adeb0",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Jordan Bardella aurait effacé un profil Facebook après les révélations de Mediapart",
-     "url": "https://www.la-croix.com/politique/jordan-bardella-aurait-efface-un-profil-facebook-apres-les-revelations-de-mediapart-20261009",
-     "published_at": "2026-10-09T13:50:09+00:00",
-     "snippet": "Le Canard Enchaîné a affirmé ce vendredi 9 octobre que le président du RN a effacé les données d’un de ses comptes Facebook après les révélations de Mediapart sur d’anciens écrits antisémites dont il nie être l’auteur. Une nouvelle information que le Rassemblement national dément."
-    },
-    {
-     "id": "3a6f3763fac0",
-     "name": "Le Canard enchaîné",
-     "kind": "media",
-     "title": "Ecrits antisémites Jordan Bardella a effacé un profil Facebook pour tenter de sauver sa tête",
-     "url": "https://www.lecanardenchaine.fr/politique/55149-jordan-bardella-a-efface-un-profil-facebook-pour-tenter-de-sauver-sa-tete",
-     "published_at": "2026-10-09T08:25:00+00:00",
-     "snippet": "Le président du RN continue d’affirmer que ses comptes Facebook personnels n’existent plus depuis longtemps. Mais alors, pourquoi s’est-il connecté à l’un d’eux entre le 28 septembre et le 2 octobre et fait effacer tout le contenu de sa messagerie privée…"
-    },
-    {
-     "id": "4927b683db64",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Ecrits antisémites : contrairement à ce qu’affirme Jordan Bardella, un compte Facebook associé à un de ses mails personnels existe toujours",
-     "url": "https://www.liberation.fr/checknews/ecrits-antisemites-contrairement-a-ce-quaffirme-jordan-bardella-un-compte-facebook-associe-a-un-de-ses-mails-personnels-existe-toujours-20261009_VRU6HCTBXNDTBIYGFG2LNWFR2Y/",
-     "published_at": "2026-10-09T13:19:58+00:00",
-     "snippet": "Le président du RN assure ne plus pouvoir extraire ses données de Facebook, car il n’a «pas de compte» sur le réseau social. Or une adresse mail de Jordan Bardella, retrouvée par «CheckNews», est toujours associée à un compte Facebook."
-    },
-    {
-     "id": "5f9098cd854f",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Affaire Bardella : accusé d’antisémitisme, le président du RN balaie « une affaire dont tout le monde se moque »",
-     "url": "https://www.leparisien.fr/politique/affaire-bardella-accuse-dantisemitisme-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque-09-10-2026-AZKEZAO2J5AZJBVALEYXZTULBA.php",
-     "published_at": "2026-10-09T10:53:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "61e0bbfe5e8b",
-     "name": "France Inter",
-     "kind": "media",
-     "title": "Affaire Bardella : des messages publiés sur X et Messenger contredisent sa version des faits",
-     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/affaire-bardella-la-pression-ne-retombe-pas-6765935",
-     "published_at": "2026-10-09T11:30:00+00:00",
-     "snippet": "Le président du Rassemblement national est accusé d'avoir menti dans sa défense ces derniers jours face aux propos antisémites que lui prête Mediapart. Le média d'investigation et Le Canard enchaîné publient ce vendredi des articles pour déconstruire les arguments de l'eurodéputé."
-    },
-    {
-     "id": "78b0bffd6d04",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Écrits antisémites attribués à Jordan Bardella: le président du RN balaie \"une affaire dont tout le monde se moque\"",
-     "url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
-     "published_at": "2026-10-09T04:59:27+00:00",
-     "snippet": "Le président du RN, Jordan Bardella, accusé par Mediapart d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, continue de contester les faits et accuse le site d'investigation de complot."
-    },
-    {
-     "id": "7c2287d311d1",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Jordan Bardella accusé d’antisémitisme : Compte effacé, contenus relayés sur X… De nouvelles révélations",
-     "url": "https://www.20minutes.fr/politique/4252863-20261009-jordan-bardella-accuse-antisemitisme-compte-efface-contenus-relayes-x-nouvelles-revelations?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T12:09:35+00:00",
-     "snippet": "« Le Canard enchaîné » révèle que Jordan Bardella a effacé les données d’un ancien compte Facebook militant dès le début de l’affaire d’antisémitisme"
-    },
-    {
-     "id": "cfd2045751fc",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Propos antisémites attribués à Jordan Bardella: le président du RN va porter plainte en diffamation après de nouvelles révélations du Canard Enchaîné",
-     "url": "https://www.bfmtv.com/politique/front-national/propos-antisemites-attribues-a-jordan-bardella-le-president-du-rn-va-porter-plainte-en-diffamation-apres-de-nouvelles-revelations-du-canard-enchaine_AD-202610090541.html",
-     "published_at": "2026-10-09T12:37:41+00:00",
-     "snippet": "Selon Le Canard Enchaîné, le président du RN a effacé les données d'un ancien compte Facebook militant juste après la divulgation par Mediapart d'écrits de jeunesse antisémites qui lui sont attribués, mais dont il nie être l'auteur."
-    },
-    {
-     "id": "d75fb41f433c",
-     "name": "Mediapart",
-     "kind": "media",
-     "title": "Écrits antisémites sur Messenger: Jordan Bardella trahi par lui-même",
-     "url": "https://www.mediapart.fr/journal/france/091026/ecrits-antisemites-sur-messenger-jordan-bardella-trahi-par-lui-meme",
-     "published_at": "2026-10-09T09:09:10+00:00",
-     "snippet": "«Mediapart» a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémites. Après les preuves techniques et les recoupements biographiques, Jordan Bardella se démasque involontairement."
-    }
-   ]
-  },
   {
    "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
    "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à samedi soir.",
@@ -304,7 +87,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.25,
+   "score": 19.23,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -503,7 +286,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.23,
+   "score": 15.22,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -612,6 +395,223 @@
      "url": "https://www.humanite.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-est-il-un-nicolas-sarkozy-2-0",
      "published_at": "2026-10-09T13:58:03+00:00",
      "snippet": "Lors de son passage à l’émission « L’heure de vérité » sur France 2, l’ancien premier ministre et candidat à l’élection présidentielle Édouard Philippe a présenté plusieurs propositions, s’inscrivant dans les pas de Nicolas Sarkozy : « travailler plus pour gagner plus », aider les familles de la classe moyenne et restreindre l’immigration. Il envisage un recours massif aux ordonnances."
+    }
+   ]
+  },
+  {
+   "headline": "Affaire Bardella : nouvelles accusations de Mediapart et du Canard enchaîné, l'intéressé dément et porte plainte",
+   "chapo": "Depuis dix jours, Mediapart accuse Jordan Bardella d'avoir tenu des propos antisémites en 2013, à 17 ans. Vendredi 9 octobre, le site et Le Canard enchaîné publient de nouveaux éléments. Le président du RN conteste farouchement les faits, et son entourage dénonce des manipulations.",
+   "points": [
+    {
+     "text": "Mediapart accuse Jordan Bardella d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, quand il avait 17 ans. Il répond : « Je n'ai jamais tenu ces propos ignobles », et refuse de parler d'« erreur de jeunesse pour des positions qui ne sont pas les (siennes) ». Il a déposé plainte pour diffamation contre le site.",
+     "sources": [
+      "78b0bffd6d04",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Vendredi 9 octobre, Mediapart affirme avoir pu établir « un lien direct » entre l'ancien compte Facebook personnel de Jordan Bardella et son compte officiel sur X, alors Twitter. Le site dit avoir trouvé des messages similaires, fautes d'orthographe incluses, à quelques minutes d'intervalle, selon France Inter, qui relève la même faute d'orthographe dans les deux messages, par exemple sur « le conseiller économique de François Hollande, employé par la banque Rotschild ».",
+     "sources": [
+      "0c736ad7e222",
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "d75fb41f433c",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "L'entourage de Jordan Bardella juge que « ce nouvel article est grotesque ». Il rejette aussi les rapprochements faits par le site à propos de messages sur Pétain.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Le Canard enchaîné affirme, de son côté, disposer d'« extractions de conversations privées » prouvant que « toutes les données » d'un ancien compte Facebook militant ont été effacées entre le 28 septembre et le 2 octobre, dans la foulée des premiers articles de Mediapart. BFMTV précise que ce compte n'est pas celui à partir duquel il est accusé d'avoir échangé les messages de 2013. Le Canard enchaîné, dans son propre article, s'interroge : pourquoi s'être connecté à l'un de ces comptes entre le 28 septembre et le 2 octobre ? France Inter précise que, selon l'hebdomadaire, le président du RN en aurait plusieurs.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "3a6f3763fac0",
+      "356ed54adeb0",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "Le parti dément : « Jordan Bardella ne s'est jamais connecté à aucun compte Facebook ni (n'a) supprimé aucun message », ce qui est « bien la preuve des manipulations en cours ». Une plainte en diffamation doit être déposée « dans les prochaines heures ».",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1",
+      "356ed54adeb0",
+      "61e0bbfe5e8b"
+     ]
+    },
+    {
+     "text": "BFMTV et 20 Minutes estiment que ces éléments mettent à mal sa défense, car il affirmait encore mardi n'avoir « pas de compte Facebook » et ne plus l'utiliser depuis très longtemps. Le compte évoqué par Le Canard enchaîné n'est toutefois pas celui des messages de 2013.",
+     "sources": [
+      "cfd2045751fc",
+      "7c2287d311d1"
+     ]
+    },
+    {
+     "text": "Jeudi 8 octobre sur LCI, Jordan Bardella a dénoncé une « opération de déstabilisation » et une « affaire dont tout le monde se moque ». Il accuse Mediapart de vouloir l'« assassiner politiquement » et dit « préparer » une plainte pour faux et usage de faux. Il assure n'avoir jamais rencontré Alain Soral.",
+     "sources": [
+      "78b0bffd6d04"
+     ]
+    },
+    {
+     "text": "Selon un sondage Ifop pour LCI mené mardi et mercredi auprès de 1 000 personnes en âge de voter, 61 % ne sont pas convaincues par ses dénégations. Trois quarts des sondés (74 %) jugent les accusations « graves » et 21 % disent avoir une image « détériorée » de lui.",
+     "sources": [
+      "78b0bffd6d04"
+     ]
+    },
+    {
+     "text": "Le Monde, Libération, Le Parisien, France 24 et L'Express rapportent aussi ces éléments. France 24 écrit que Jordan Bardella « aurait effacé » les données d'un compte Facebook, au conditionnel.",
+     "sources": [
+      "0cd30c7a91bd",
+      "4927b683db64",
+      "5f9098cd854f",
+      "067eb2bcd3a1",
+      "2821373b048a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/c4tnQchXkuWZwvMnAo8QGqWZckA=/0x106:2048x1258/800x0/images/BARDELLA-2362078.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
+    "article_id": "78b0bffd6d04",
+    "focus_x": 0.7233333333333334,
+    "focus_y": 0.7541666666666667
+   },
+   "id": 80,
+   "section": "institutions",
+   "reviewed_at": "2026-10-09T17:40:21+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.98,
+   "sources": [
+    {
+     "id": "067eb2bcd3a1",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Jordan Bardella aurait effacé les données d'un compte Facebook après les révélations de Mediapart",
+     "url": "https://www.france24.com/fr/france/20261009-jordan-bardella-aurait-effac%C3%A9-les-donn%C3%A9es-d-un-compte-facebook-apr%C3%A8s-les-r%C3%A9v%C3%A9lations-de-mediapart",
+     "published_at": "2026-10-09T12:55:34+00:00",
+     "snippet": "Selon de nouvelles informations publiées vendredi par le Canard enchaîné, Jordan Bardella aurait effacé les données d'un ancien compte Facebook militant dès la divulgation par Mediapart des écrits de jeunesse antisémites dont il nie être l'auteur. Des informations de nouveau démenties en bloc par le Rassemblement national."
+    },
+    {
+     "id": "0c736ad7e222",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Messages antisémites attribués à Jordan Bardella : Mediapart publie de nouveaux éléments mettant à mal la défense du président du RN",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/messages-antisemites-attribues-a-jordan-bardella-mediapart-publie-de-nouveaux-elements-mettant-a-mal-la-defense-du-president-du-rn_8229829.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T10:01:58+00:00",
+     "snippet": "Le site d'investigation assure avoir \"pu établir un lien direct\" entre le compte Twitter officiel du président du RN et le fil de conversation Messenger \"sur lequel il déversait ses idées antisémites\"."
+    },
+    {
+     "id": "0cd30c7a91bd",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "« Mediapart » publie de nouvelles preuves visant à confirmer des écrits antisémites de Jordan Bardella",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/mediapart-publie-de-nouvelles-preuves-visant-a-confirmer-des-ecrits-antisemites-de-jordan-bardella_6790549_823448.html",
+     "published_at": "2026-10-09T09:44:20+00:00",
+     "snippet": "Le journal d’investigation dit avoir pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel apparaissaient ses propos antisémites."
+    },
+    {
+     "id": "2821373b048a",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "\"Le plan B, c’était de défendre l’erreur de jeunesse\" : affaire Bardella, les jours d’après au RN",
+     "url": "https://www.lexpress.fr/politique/affaire-bardella-les-jours-dapres-au-rassemblement-national-ULRPQWYZ5JCKTBM3LE7MJBVNAQ/",
+     "published_at": "2026-10-08T04:45:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "356ed54adeb0",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Jordan Bardella aurait effacé un profil Facebook après les révélations de Mediapart",
+     "url": "https://www.la-croix.com/politique/jordan-bardella-aurait-efface-un-profil-facebook-apres-les-revelations-de-mediapart-20261009",
+     "published_at": "2026-10-09T13:50:09+00:00",
+     "snippet": "Le Canard Enchaîné a affirmé ce vendredi 9 octobre que le président du RN a effacé les données d’un de ses comptes Facebook après les révélations de Mediapart sur d’anciens écrits antisémites dont il nie être l’auteur. Une nouvelle information que le Rassemblement national dément."
+    },
+    {
+     "id": "3a6f3763fac0",
+     "name": "Le Canard enchaîné",
+     "kind": "media",
+     "title": "Ecrits antisémites Jordan Bardella a effacé un profil Facebook pour tenter de sauver sa tête",
+     "url": "https://www.lecanardenchaine.fr/politique/55149-jordan-bardella-a-efface-un-profil-facebook-pour-tenter-de-sauver-sa-tete",
+     "published_at": "2026-10-09T08:25:00+00:00",
+     "snippet": "Le président du RN continue d’affirmer que ses comptes Facebook personnels n’existent plus depuis longtemps. Mais alors, pourquoi s’est-il connecté à l’un d’eux entre le 28 septembre et le 2 octobre et fait effacer tout le contenu de sa messagerie privée…"
+    },
+    {
+     "id": "4927b683db64",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Ecrits antisémites : contrairement à ce qu’affirme Jordan Bardella, un compte Facebook associé à un de ses mails personnels existe toujours",
+     "url": "https://www.liberation.fr/checknews/ecrits-antisemites-contrairement-a-ce-quaffirme-jordan-bardella-un-compte-facebook-associe-a-un-de-ses-mails-personnels-existe-toujours-20261009_VRU6HCTBXNDTBIYGFG2LNWFR2Y/",
+     "published_at": "2026-10-09T13:19:58+00:00",
+     "snippet": "Le président du RN assure ne plus pouvoir extraire ses données de Facebook, car il n’a «pas de compte» sur le réseau social. Or une adresse mail de Jordan Bardella, retrouvée par «CheckNews», est toujours associée à un compte Facebook."
+    },
+    {
+     "id": "5f9098cd854f",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Affaire Bardella : accusé d’antisémitisme, le président du RN balaie « une affaire dont tout le monde se moque »",
+     "url": "https://www.leparisien.fr/politique/affaire-bardella-accuse-dantisemitisme-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque-09-10-2026-AZKEZAO2J5AZJBVALEYXZTULBA.php",
+     "published_at": "2026-10-09T10:53:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "61e0bbfe5e8b",
+     "name": "France Inter",
+     "kind": "media",
+     "title": "Affaire Bardella : des messages publiés sur X et Messenger contredisent sa version des faits",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/affaire-bardella-la-pression-ne-retombe-pas-6765935",
+     "published_at": "2026-10-09T11:30:00+00:00",
+     "snippet": "Le président du Rassemblement national est accusé d'avoir menti dans sa défense ces derniers jours face aux propos antisémites que lui prête Mediapart. Le média d'investigation et Le Canard enchaîné publient ce vendredi des articles pour déconstruire les arguments de l'eurodéputé."
+    },
+    {
+     "id": "78b0bffd6d04",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Écrits antisémites attribués à Jordan Bardella: le président du RN balaie \"une affaire dont tout le monde se moque\"",
+     "url": "https://www.bfmtv.com/politique/front-national/ecrits-antisemites-attribues-a-jordan-bardella-le-president-du-rn-balaie-une-affaire-dont-tout-le-monde-se-moque_AD-202610090121.html",
+     "published_at": "2026-10-09T04:59:27+00:00",
+     "snippet": "Le président du RN, Jordan Bardella, accusé par Mediapart d'avoir écrit des messages antisémites dans des échanges sur Facebook Messenger en 2013, continue de contester les faits et accuse le site d'investigation de complot."
+    },
+    {
+     "id": "7c2287d311d1",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Jordan Bardella accusé d’antisémitisme : Compte effacé, contenus relayés sur X… De nouvelles révélations",
+     "url": "https://www.20minutes.fr/politique/4252863-20261009-jordan-bardella-accuse-antisemitisme-compte-efface-contenus-relayes-x-nouvelles-revelations?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T12:09:35+00:00",
+     "snippet": "« Le Canard enchaîné » révèle que Jordan Bardella a effacé les données d’un ancien compte Facebook militant dès le début de l’affaire d’antisémitisme"
+    },
+    {
+     "id": "cfd2045751fc",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Propos antisémites attribués à Jordan Bardella: le président du RN va porter plainte en diffamation après de nouvelles révélations du Canard Enchaîné",
+     "url": "https://www.bfmtv.com/politique/front-national/propos-antisemites-attribues-a-jordan-bardella-le-president-du-rn-va-porter-plainte-en-diffamation-apres-de-nouvelles-revelations-du-canard-enchaine_AD-202610090541.html",
+     "published_at": "2026-10-09T12:37:41+00:00",
+     "snippet": "Selon Le Canard Enchaîné, le président du RN a effacé les données d'un ancien compte Facebook militant juste après la divulgation par Mediapart d'écrits de jeunesse antisémites qui lui sont attribués, mais dont il nie être l'auteur."
+    },
+    {
+     "id": "d75fb41f433c",
+     "name": "Mediapart",
+     "kind": "media",
+     "title": "Écrits antisémites sur Messenger: Jordan Bardella trahi par lui-même",
+     "url": "https://www.mediapart.fr/journal/france/091026/ecrits-antisemites-sur-messenger-jordan-bardella-trahi-par-lui-meme",
+     "published_at": "2026-10-09T09:09:10+00:00",
+     "snippet": "«Mediapart» a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémites. Après les preuves techniques et les recoupements biographiques, Jordan Bardella se démasque involontairement."
     }
    ]
   },
@@ -1663,7 +1663,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.92,
+   "score": 3.91,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -2095,137 +2095,6 @@
      "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-rassemblement-national-fait-son-entree-dans-les-instances-du-senat-une-premiere-dans-l-histoire-de-la-ve-republique_8225143.html#xtor=RSS-3-%5Bgeneral%5D",
      "published_at": "2026-10-06T14:40:05+00:00",
      "snippet": "Le sénateur RN du Pas-de-Calais Christopher Szczurek occupera un poste de vice-président de la Haute assemblée à tour de rôle avec deux autres groupes."
-    }
-   ]
-  },
-  {
-   "headline": "Casseurs-payeurs : le texte vise les aides sociales, Panot dénonce une « répression massive »",
-   "chapo": "Le projet de loi « casseurs-payeurs » sera examiné en première lecture au Sénat à partir du 27 octobre. Il doit permettre de faire payer les dégâts liés aux violences autour du mouvement lycéen. La présidente du groupe LFI à l'Assemblée, Mathilde Panot, y voit une « présomption de culpabilité ».",
-   "points": [
-    {
-     "text": "La porte-parole du gouvernement, Maud Bregeon, a annoncé lundi sur CNews l'examen du texte au Sénat dès le 27 octobre. Le gouvernement le présente comme une réponse aux violences liées au mouvement lycéen, étendu à toute la France. Mardi 6 octobre, le président LR du Sénat, Gérard Larcher, a confirmé sur BFMTV et RMC un examen « avant la fin du mois ».",
-     "sources": [
-      "2cf07b3fa22a",
-      "e55c04ab809f",
-      "ca6c4110c79d"
-     ]
-    },
-    {
-     "text": "Le texte vise à permettre de faire payer les dégâts à leurs auteurs. Selon BFMTV, le gouvernement veut garantir que les amendes soient payées « en totalité », quitte à « piocher dans les aides sociales, les APL ». Le gouvernement parle de « responsabilité collective ». Une « co-responsabilité » pourrait aussi être engagée pour certaines personnes présentes, mais l'extrait de BFMTV ne détaille pas les conditions.",
-     "sources": [
-      "2cf07b3fa22a",
-      "e55c04ab809f"
-     ]
-    },
-    {
-     "text": "L'objectif affiché par le gouvernement est d'arrêter que « les impôts (des Français) paient pour les dégradations d'une minorité violente ». Cet argument est rapporté par BFMTV.",
-     "sources": [
-      "e55c04ab809f"
-     ]
-    },
-    {
-     "text": "Mathilde Panot juge le texte « une arme de répression massive contre toutes les manifestations ». Elle estime qu'il instaure « une présomption de culpabilité ».",
-     "sources": [
-      "47168a3252b3"
-     ]
-    },
-    {
-     "text": "À Tours, un lycéen de 16 ans a perdu l'usage de son œil droit mercredi 30 septembre, vraisemblablement à cause d'un tir de LBD, selon Libération. Les insoumis, socialistes, écologistes et communistes d'Indre-et-Loire ont dénoncé ces violences dans un texte commun, que Libération qualifie de rare.",
-     "sources": [
-      "274f55af3ab2"
-     ]
-    },
-    {
-     "text": "Le Figaro consacre deux portraits à des porte-parole de 18 ans de la mobilisation. Nathanaël Combary, président du conseil d'administration de Renouveau lycéen, est adhérent de Renaissance. Jean-Luc Mélenchon l'accuse de masquer ses engagements politiques. Ryad Rani, président de l'Union syndicale lycéenne, est présenté comme proche de La France insoumise.",
-     "sources": [
-      "8aca37d1c0b5",
-      "60a201688565"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 10,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2a27vj-taille1200_6ac3e3d6667a1.jpg?itok=k7MuvIau",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
-    "article_id": "2cf07b3fa22a",
-    "focus_x": 0.5,
-    "focus_y": 0.3
-   },
-   "id": 46,
-   "section": "institutions",
-   "reviewed_at": "2026-10-06T17:40:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.5,
-   "sources": [
-    {
-     "id": "274f55af3ab2",
-     "name": "Libération",
-     "kind": "media",
-     "title": "De LFI au PS, la gauche s’unit à Tours contre les violences policières sur les lycéens : «On peut se retrouver sur des sujets de fond»",
-     "url": "https://www.liberation.fr/politique/de-lfi-au-ps-la-gauche-sunit-a-tours-contre-les-violences-policieres-sur-les-lyceens-on-peut-se-retrouver-sur-des-sujets-de-fond-20261005_I44Z7IWIF5APFGT7OCDSKXQDQE/",
-     "published_at": "2026-10-05T15:01:22+00:00",
-     "snippet": "Un lycéen de 16 ans a perdu l’usage de son œil droit mercredi 30 septembre à Tours, vraisemblablement à cause d’un tir de LBD. Insoumis, socialistes, écolos et communistes d’Indre-et-Loire ont dénoncé ces violences dans un rare texte commun."
-    },
-    {
-     "id": "2cf07b3fa22a",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Blocus des lycées : que prévoit la loi «casseurs-payeurs» présentée au Sénat le 27 octobre prochain",
-     "url": "https://www.cnews.fr/france/2026-10-05/blocus-des-lycees-que-prevoit-la-loi-casseurs-payeurs-presentee-au-senat-le-27",
-     "published_at": "2026-10-05T20:31:48+00:00",
-     "snippet": "Face aux violences liées au mouvement lycéen, qui s’est étendu à toute la France, le gouvernement a annoncé l’examen au Sénat, le 27 octobre, du projet de loi «casseurs-payeurs». Un texte qui prévoit une «forme de responsabilité collective». Agir face aux violences. Invitée sur CNEWS ce lundi, la porte-parole du gouvernement Maud Bregeon a annoncé l’examen du projet de loi «casseurs-payeurs» en première lecture au Sénat dès le 27 octobre prochain. Une décision qui fait suite aux violences autour du mouvement lycéen. Ce texte vise à donner la possibilité de faire payer des dégâts, y compris par"
-    },
-    {
-     "id": "47168a3252b3",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le projet de loi \"casseurs-payeurs\" est \"une arme de répression massive contre toutes les manifestations\", estime Mathilde Panot",
-     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-projet-de-loi-casseurs-payeurs-est-une-arme-de-repression-massive-contre-toutes-les-manifestations-estime-mathilde-panot_8223037.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-05T07:56:20+00:00",
-     "snippet": "La présidente du groupe des députés de La France insoumise estime que le texte instaure \"une présomption de culpabilité\"."
-    },
-    {
-     "id": "60a201688565",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "«Il a une capacité à réseauter impressionnante» : qui est Ryad Rani, le président de l’Union syndicale lycéenne, proche de La France Insoumise ?",
-     "url": "https://www.lefigaro.fr/actualite-france/il-a-une-capacite-a-reseauter-impressionnante-qui-est-ryad-rani-le-president-de-l-union-syndicale-lyceenne-proche-de-la-france-insoumise-20261006",
-     "published_at": "2026-10-06T12:29:51+00:00",
-     "snippet": "PORTRAIT – À seulement 18 ans, le jeune homme a été projeté sur le devant de la scène en devenant l’un des principaux porte-parole du mouvement lycéen."
-    },
-    {
-     "id": "8aca37d1c0b5",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
-     "url": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
-     "published_at": "2026-10-05T19:43:48+00:00",
-     "snippet": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon de masquer ses engagements politiques."
-    },
-    {
-     "id": "ca6c4110c79d",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Projet de loi “casseurs-payeurs”: Gérard Larcher, président LR du Sénat, confirme un examen “avant la fin du mois”",
-     "url": "https://www.bfmtv.com/politique/video-projet-de-loi-casseurs-payeurs-gerard-larcher-president-lr-du-senat-confirme-un-examen-avant-la-fin-du-mois_VN-202610060244.html",
-     "published_at": "2026-10-06T06:45:57+00:00",
-     "snippet": "Gérard Larcher, président LR du Sénat, était l’invité du Face-à-Face sur BFMTV et RMC ce mardi 06 octobre 2026."
-    },
-    {
-     "id": "e55c04ab809f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "LES ÉCLAIREURS - Qui va payer les dégâts liés aux blocages des lycées?",
-     "url": "https://www.bfmtv.com/politique/video-les-eclaireurs-qui-va-payer-les-degats-lies-aux-blocages-des-lycees_VN-202610050369.html",
-     "published_at": "2026-10-05T08:49:58+00:00",
-     "snippet": "Le gouvernement envisage de \"piocher dans les aides sociales\" pour rembourser les dégâts, le projet présenté le 27 octobre au Sénat. La loi aura pour objectif, selon le gouvernement, d'arrêter que \"les impôts (des Français) paient pour les dégradations d'une minorité violente\", notamment en garantissant que les \"amendes soient payées en totalité\" par les auteurs d'infraction, quitte à \"piocher dans les aides sociales, les APL\". L'idée est de créer \"une responsabilité collective\" avec cette mesure, alors que pourra être engagée \"une co-responsabilité\" pour toute personne qui sera restée \"dans u"
     }
    ]
   }
