@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:08:53+00:00",
+ "generated_at": "2026-10-09T17:30:13+00:00",
  "posts": [
   {
    "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
@@ -29,18 +29,21 @@
      ]
     },
     {
-     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote se déroule sur deux jours, jusqu'à samedi soir vers 20 h.",
+     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote se déroule sur deux jours, jusqu'à samedi soir vers 20 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
      "sources": [
       "13611f0b1864",
-      "6c21731f029e"
+      "6c21731f029e",
+      "a1a08d3e0428"
      ]
     },
     {
-     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave.",
+     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
      "sources": [
       "f6e5817baafb",
       "13611f0b1864",
-      "6c21731f029e"
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "a6a2dc35e0ba"
      ]
     },
     {
@@ -84,7 +87,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 20.28,
+   "score": 19.36,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -150,6 +153,24 @@
      "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
     },
     {
+     "id": "a1a08d3e0428",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
+     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+     "published_at": "2026-10-09T14:28:56+00:00",
+     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
+    },
+    {
+     "id": "a6a2dc35e0ba",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
+     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
+    },
+    {
      "id": "f6e5817baafb",
      "name": "franceinfo",
      "kind": "media",
@@ -165,11 +186,12 @@
    "chapo": "Invité du premier numéro de « L'Heure de vérité » sur France 2, jeudi 8 octobre, Édouard Philippe a détaillé ce qu'il ferait s'il était élu : dissoudre l'Assemblée, présenter une vingtaine d'ordonnances dès juillet 2027, créer une allocation familiale unique de 350 euros par mois et relever l'âge de départ à la retraite à 65 ans.",
    "points": [
     {
-     "text": "Pendant plus de deux heures, le candidat Horizons a répondu aux questions des journalistes sur la mobilisation lycéenne, le pouvoir d'achat, les retraites et les guerres en Ukraine et au Moyen-Orient. Interrogé sur sa stratégie pour s'imposer au centre droit, il écarte à nouveau l'hypothèse d'une primaire : il veut un rassemblement « de la droite et du centre, et peut-être, le moment venu, au-delà ». Libération y voit une tentative de « renouer avec les Français ».",
+     "text": "Pendant plus de deux heures, le candidat Horizons a répondu aux questions de Caroline Roux et de cinq journalistes, dont Eugénie Bastié et Benjamin Duhamel, sur la mobilisation lycéenne, le pouvoir d'achat, les retraites et les guerres en Ukraine et au Moyen-Orient. Interrogé sur sa stratégie pour s'imposer au centre droit, il écarte à nouveau l'hypothèse d'une primaire : il veut un rassemblement « de la droite et du centre, et peut-être, le moment venu, au-delà ». Libération y voit une tentative de « renouer avec les Français ».",
      "sources": [
       "43fcf99cbf7d",
       "4532a0164680",
-      "1574c0f140f9"
+      "1574c0f140f9",
+      "6cb4957acab5"
      ]
     },
     {
@@ -189,12 +211,12 @@
      ]
     },
     {
-     "text": "Il veut une allocation familiale unique de 350 euros par mois dès le premier enfant, dégressive avec l'impôt sur le revenu, une réduction d'impôt d'environ 3 000 euros pendant les trois années suivant une naissance, et un prêt à taux zéro pour les familles qui changent d'appartement après un enfant.",
+     "text": "Il veut « revoir totalement le système des allocations familiales » : une allocation unique de 350 euros par mois dès le premier enfant, y compris pour les familles monoparentales, dégressive avec l'impôt sur le revenu. Il propose aussi une réduction d'impôt d'environ 3 000 euros pendant les trois années suivant une naissance : selon LCP, les foyers qui paient moins de 3 000 euros d'impôt en seraient exonérés pendant trois ans. S'y ajoute un prêt à taux zéro pour les familles qui changent d'appartement après un enfant.",
      "sources": [
       "43fcf99cbf7d",
+      "6990dec7cf1a",
       "4532a0164680",
-      "32fed0cb6c56",
-      "8a43eabf883b"
+      "32fed0cb6c56"
      ]
     },
     {
@@ -213,9 +235,10 @@
      ]
     },
     {
-     "text": "Sur l'immigration, il veut « diviser par deux l'immigration légale », pour revenir sous 200 000 titres de séjour par an. Il juge que l'immigration est trop importante, n'écarte pas totalement un référendum et maintient sa proposition de dénoncer l'accord franco-algérien de 1968.",
+     "text": "Sur l'immigration, il veut « diviser par deux l'immigration légale », pour revenir à « largement inférieur à 200.000 » titres de séjour par an, comme avant 2010. Il précise que son intention n'est pas de « ramener [l'immigration] à zéro » : « on va continuer à avoir besoin de dizaines de milliers de personnes qui viennent travailler en France ». Il propose aussi un moratoire sur le regroupement familial pendant le quinquennat, n'écarte pas totalement un référendum et maintient sa proposition de dénoncer l'accord franco-algérien de 1968.",
      "sources": [
       "43fcf99cbf7d",
+      "c079e44a0ab8",
       "4532a0164680"
      ]
     },
@@ -230,6 +253,12 @@
      "sources": [
       "4532a0164680",
       "43fcf99cbf7d"
+     ]
+    },
+    {
+     "text": "À gauche, L'Humanité se demande si Édouard Philippe est « un Nicolas Sarkozy 2.0 ».",
+     "sources": [
+      "fa033bbe5458"
      ]
     },
     {
@@ -257,7 +286,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.05,
+   "score": 15.32,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -267,15 +296,6 @@
      "url": "https://www.liberation.fr/politique/edouard-philippe-un-passage-a-lheure-de-verite-pour-tenter-de-renouer-avec-les-francais-20261008_MM7X7BQ5YRHMRLV4G5OB2MODH4/",
      "published_at": "2026-10-08T06:11:59+00:00",
      "snippet": "Alors qu’il enchaîne interviews classiques et formats plus intimes, le candidat Horizons à la présidentielle étrenne ce jeudi le retour de l’émission politique culte sur France 2. Deux heures pour vendre notamment sa réforme des retraites."
-    },
-    {
-     "id": "1af7c0c89596",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Défiscalisation des heures sup' et allocation familiale unique de 350 euros dès le premier enfant : Edouard Philippe ouvre (un peu) le carnet de chèque",
-     "url": "https://www.liberation.fr/politique/elections/defiscalisation-des-heures-sup-et-allocation-familiale-unique-de-350-euros-des-le-premier-enfant-edouard-philippe-ouvre-un-peu-le-carnet-de-cheque-20261008_BBNCC4756JFTPG7P3HBE7WIE5E/",
-     "published_at": "2026-10-08T20:17:53+00:00",
-     "snippet": "Premier invité de la nouvelle version de L’Heure de vérité sur France 2, le candidat Horizons à la présidentielle a annoncé plusieurs mesures destinées à adoucir la potion économique amère qu’il propose aux Français."
     },
     {
      "id": "2581e1834699",
@@ -323,6 +343,24 @@
      "snippet": "Interviewé ce jeudi soir, le candidat à l'élection présidentielle 2027 Édouard Philippe a annoncé qu'en cas de victoire, il ne résiderait pas au palais de l'Élysée. Il se projette déjà en vainqueur. Si Édouard Philippe venait à gagner l'élection présidentielle 2027, il ne s'installerait pas au palais de l'Élysée. C'est ce qu'a annoncé le candidat lors d'un long entretien dans l'émission l'Heure de Vérité sur France 2. Pour justifier ce choix, Édouard Philippe a expliqué qu'il avait fait de même après avoir été nommé Premier ministre en 2017 : «Comme je faisais quand j’étais à Matignon. Il m’ar"
     },
     {
+     "id": "6990dec7cf1a",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Allocations familiales: Édouard Philippe propose 350 euros dès le premier enfant",
+     "url": "https://lcp.fr/actualites/allocations-familiales-edouard-philippe-propose-350-euros-des-le-premier-enfant-443576",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 09:15 Sur France 2 jeudi soir, Édouard Philippe a défendu son projet d'\"allocation familiale unique\", qui atteindrait un montant de 350 euros par mois dès le premier enfant, afin de soutenir le pouvoir d'achat et la natalité. Il propose également une réduction d'impôt à hauteur de 3.000 euros durant les trois premières années de l'enfant. Prétendant à l' Élysée, l'actuel maire du Havre, Édouard Philippe, souhaite \"revoir totalement le système des allocations familiales\". \"Il faut aider les familles, y compris les familles monoparentales, bien"
+    },
+    {
+     "id": "6cb4957acab5",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Le retour de « L’Heure de Vérité » sur France 2, émission culte des années 1980 : « Elle a été le moment mitterrandien de notre télévision »",
+     "url": "https://www.publicsenat.fr/actualites/culture/le-retour-de-lheure-de-verite-sur-france-2-emission-culte-des-annees-1980-elle-a-ete-le-moment-mitterrandien-de-notre-television",
+     "published_at": "2026-10-08T15:50:07+00:00",
+     "snippet": "Indissociable de la vie politique des années 1980, « L’Heure de Vérité » revient sur France 2, avec Edouard Philippe comme premier invité. Pendant 13 ans, cette émission culte a façonné les grands moments du jeu politique télévisuel français. Mais elle a aussi été pointée du doigt, comme le rappelle Alexis Lévrier, historien de la presse et des médias, pour avoir participé à l’essor de Jean-Marie Le Pen."
+    },
+    {
      "id": "81e07dcc8d30",
      "name": "BFMTV",
      "kind": "media",
@@ -332,15 +370,6 @@
      "snippet": "Invité dans l'émission L'Heure de vérité sur France 2 ce jeudi 8 octobre, Édouard Philippe a dit vouloir présenter une vingtaine d'ordonnances \"dès juillet\" 2027 s'il est élu président de la République."
     },
     {
-     "id": "8a43eabf883b",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Edouard Philippe propose de réviser « totalement » le système des allocations familiales et de « diviser par deux » l’immigration légale",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/08/edouard-philippe-proprose-de-reviser-totalement-le-systeme-des-allocations-familiales_6790287_823448.html",
-     "published_at": "2026-10-08T20:10:51+00:00",
-     "snippet": "Invité de l’émission « L’Heure de vérité » sur France 2, le candidat Horizons à l’élection présidentielle a dit vouloir aider les familles dès le premier enfant » et a proposé « une réduction d’impôt d’environ 3 000 euros » pour « les classes moyennes »."
-    },
-    {
      "id": "98b3ffb5db3e",
      "name": "BFMTV",
      "kind": "media",
@@ -348,6 +377,24 @@
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/defier-edouard-philippe-jean-luc-melenchon-en-meeting-au-havre-le-5-decembre-en-vue-de-la-presidentielle-2027_AD-202610080335.html",
      "published_at": "2026-10-08T07:59:31+00:00",
      "snippet": "Candidat LFI à la présidentielle 2027, Jean-Luc Mélenchon, tiendra un meeting au Havre (Seine-Maritime) le 5 décembre, soit dans la ville du maire Horizons Édouard Philippe, également candidat pour 2027."
+    },
+    {
+     "id": "c079e44a0ab8",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Édouard Philippe veut \"diviser par deux\" l'immigration légale et propose un moratoire sur le regroupement familial",
+     "url": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 08:45 L'ancien Premier ministre et candidat Horizons à l'élection présidentielle, Édouard Philippe, a proposé jeudi soir sur France 2 de \"diviser par deux l'immigration légale\", avant d'évoquer \"un moratoire\" concernant les entrées sur le territoire français résultant du regroupement familial. \"Admettre que l'immigration est trop importante, et se fixer des objectifs pour la maîtriser\". C'est ce pour quoi a plaidé Édouard Philippe jeudi soir, lors de son grand oral dans le premier numéro de L'Heure de vérité , sur France 2 . \"Notre politique "
+    },
+    {
+     "id": "fa033bbe5458",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Édouard Philippe est-il un Nicolas Sarkozy 2.0 ?",
+     "url": "https://www.humanite.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-est-il-un-nicolas-sarkozy-2-0",
+     "published_at": "2026-10-09T13:58:03+00:00",
+     "snippet": "Lors de son passage à l’émission « L’heure de vérité » sur France 2, l’ancien premier ministre et candidat à l’élection présidentielle Édouard Philippe a présenté plusieurs propositions, s’inscrivant dans les pas de Nicolas Sarkozy : « travailler plus pour gagner plus », aider les familles de la classe moyenne et restreindre l’immigration. Il envisage un recours massif aux ordonnances."
     }
    ]
   },
@@ -426,7 +473,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.56,
+   "score": 7.38,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -609,7 +656,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.33,
+   "score": 7.13,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -760,7 +807,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.86,
+   "score": 5.7,
    "sources": [
     {
      "id": "047109bba606",
@@ -877,7 +924,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.2,
+   "score": 4.1,
    "sources": [
     {
      "id": "637cd573a004",
@@ -971,7 +1018,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.95,
+   "score": 2.88,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -1064,7 +1111,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.94,
+   "score": 2.87,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -1222,7 +1269,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.81,
+   "score": 7.68,
    "sources": [
     {
      "id": "01e4e7ff14f4",
@@ -1399,7 +1446,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.0,
+   "score": 3.92,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -1508,7 +1555,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.33,
+   "score": 3.27,
    "sources": [
     {
      "id": "573133300860",
@@ -1610,7 +1657,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.0,
+   "score": 2.94,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -1714,7 +1761,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.16,
+   "score": 2.12,
    "sources": [
     {
      "id": "0ec36a23850e",
@@ -1812,7 +1859,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.0,
+   "score": 1.96,
    "sources": [
     {
      "id": "068789211545",
@@ -1898,7 +1945,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.59,
+   "score": 5.51,
    "sources": [
     {
      "id": "274f55af3ab2",
@@ -2027,7 +2074,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.81,
+   "score": 3.76,
    "sources": [
     {
      "id": "0b82ee618cad",
