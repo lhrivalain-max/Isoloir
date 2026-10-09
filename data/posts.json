@@ -1,186 +1,6 @@
 {
- "generated_at": "2026-10-09T23:33:53+00:00",
+ "generated_at": "2026-10-09T23:35:01+00:00",
  "posts": [
-  {
-   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
-   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à samedi soir.",
-   "points": [
-    {
-     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
-     "sources": [
-      "f6e5817baafb",
-      "6c21731f029e",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote se déroule sur deux jours, jusqu'à samedi soir vers 20 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
-     "sources": [
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428"
-     ]
-    },
-    {
-     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "a6a2dc35e0ba"
-     ]
-    },
-    {
-     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat devrait être connu samedi soir.",
-     "sources": [
-      "024363e8ba85",
-      "f6e5817baafb",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
-     "sources": [
-      "024363e8ba85"
-     ]
-    },
-    {
-     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
-     "sources": [
-      "7f3d9532dc29",
-      "9f694cefad33",
-      "0ab953af061b",
-      "5c8839f79a6c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "f6e5817baafb"
-   },
-   "id": 73,
-   "section": "institutions",
-   "reviewed_at": "2026-10-09T11:44:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 16.08,
-   "sources": [
-    {
-     "id": "024363e8ba85",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T09:26:54+00:00",
-     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
-    },
-    {
-     "id": "0ab953af061b",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
-     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
-     "published_at": "2026-10-09T10:29:32+00:00",
-     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
-    },
-    {
-     "id": "13611f0b1864",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
-     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
-     "published_at": "2026-10-09T09:29:23+00:00",
-     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
-    },
-    {
-     "id": "5c8839f79a6c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
-     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
-     "published_at": "2026-10-09T10:53:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6c21731f029e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
-     "published_at": "2026-10-09T09:20:15+00:00",
-     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
-    },
-    {
-     "id": "7f3d9532dc29",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
-     "published_at": "2026-10-09T10:33:04+00:00",
-     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
-    },
-    {
-     "id": "9f694cefad33",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
-     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
-     "published_at": "2026-10-09T10:17:58+00:00",
-     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
-    },
-    {
-     "id": "a1a08d3e0428",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
-     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
-     "published_at": "2026-10-09T14:28:56+00:00",
-     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
-    },
-    {
-     "id": "a6a2dc35e0ba",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
-     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
-    },
-    {
-     "id": "f6e5817baafb",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T09:29:40+00:00",
-     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
-    }
-   ]
-  },
   {
    "headline": "Édouard Philippe à « L'Heure de vérité » : ordonnances en juillet 2027, allocation familiale unique, retraites à 65 ans",
    "chapo": "Invité du premier numéro de « L'Heure de vérité » sur France 2, jeudi 8 octobre, Édouard Philippe a détaillé ce qu'il ferait s'il était élu : dissoudre l'Assemblée, présenter une vingtaine d'ordonnances dès juillet 2027, créer une allocation familiale unique de 350 euros par mois et relever l'âge de départ à la retraite à 65 ans.",
@@ -286,7 +106,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.73,
+   "score": 12.72,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -395,6 +215,186 @@
      "url": "https://www.humanite.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-est-il-un-nicolas-sarkozy-2-0",
      "published_at": "2026-10-09T13:58:03+00:00",
      "snippet": "Lors de son passage à l’émission « L’heure de vérité » sur France 2, l’ancien premier ministre et candidat à l’élection présidentielle Édouard Philippe a présenté plusieurs propositions, s’inscrivant dans les pas de Nicolas Sarkozy : « travailler plus pour gagner plus », aider les familles de la classe moyenne et restreindre l’immigration. Il envisage un recours massif aux ordonnances."
+    }
+   ]
+  },
+  {
+   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
+   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à samedi soir.",
+   "points": [
+    {
+     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e"
+     ]
+    },
+    {
+     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
+     "sources": [
+      "f6e5817baafb",
+      "6c21731f029e",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote se déroule sur deux jours, jusqu'à samedi soir vers 20 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
+     "sources": [
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428"
+     ]
+    },
+    {
+     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "a6a2dc35e0ba"
+     ]
+    },
+    {
+     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat devrait être connu samedi soir.",
+     "sources": [
+      "024363e8ba85",
+      "f6e5817baafb",
+      "6c21731f029e"
+     ]
+    },
+    {
+     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
+     "sources": [
+      "024363e8ba85"
+     ]
+    },
+    {
+     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
+     "sources": [
+      "7f3d9532dc29",
+      "9f694cefad33",
+      "0ab953af061b",
+      "5c8839f79a6c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "f6e5817baafb"
+   },
+   "id": 73,
+   "section": "institutions",
+   "reviewed_at": "2026-10-09T11:44:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 16.07,
+   "sources": [
+    {
+     "id": "024363e8ba85",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T09:26:54+00:00",
+     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
+    },
+    {
+     "id": "0ab953af061b",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
+     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
+     "published_at": "2026-10-09T10:29:32+00:00",
+     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
+    },
+    {
+     "id": "13611f0b1864",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
+     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
+     "published_at": "2026-10-09T09:29:23+00:00",
+     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
+    },
+    {
+     "id": "5c8839f79a6c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
+     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
+     "published_at": "2026-10-09T10:53:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6c21731f029e",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
+     "published_at": "2026-10-09T09:20:15+00:00",
+     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
+    },
+    {
+     "id": "7f3d9532dc29",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
+     "published_at": "2026-10-09T10:33:04+00:00",
+     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
+    },
+    {
+     "id": "9f694cefad33",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
+     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
+     "published_at": "2026-10-09T10:17:58+00:00",
+     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
+    },
+    {
+     "id": "a1a08d3e0428",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
+     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+     "published_at": "2026-10-09T14:28:56+00:00",
+     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
+    },
+    {
+     "id": "a6a2dc35e0ba",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
+     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
+    },
+    {
+     "id": "f6e5817baafb",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T09:29:40+00:00",
+     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
     }
    ]
   },
@@ -1486,7 +1486,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.15,
+   "score": 7.14,
    "sources": [
     {
      "id": "01e4e7ff14f4",
