@@ -1,197 +1,6 @@
 {
- "generated_at": "2026-10-10T23:45:40+00:00",
+ "generated_at": "2026-10-10T23:46:28+00:00",
  "posts": [
-  {
-   "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
-   "chapo": "Les organisateurs de la primaire de la gauche sociale-démocrate ont décidé vendredi 9 octobre de repousser la clôture du premier tour à dimanche 11 octobre à 18 h, au lieu de samedi 20 h, après une cyberattaque qui a ralenti le vote. Les résultats sont annoncés pour dimanche à 18 h 30.",
-   "points": [
-    {
-     "text": "Le vote du premier tour, uniquement en ligne, était prévu jusqu'à samedi 20 h. Il est prolongé jusqu'à dimanche à 18 h, et les résultats ne seront pas connus samedi soir mais dimanche à 18 h 30, selon la commission d'organisation de Patrick Mennucci.",
-     "sources": [
-      "f5c8cc7a308d",
-      "fff528d9bb9f",
-      "85e95b9883b5"
-     ]
-    },
-    {
-     "text": "La décision vise à « permettre aux militantes et militants, sympathisantes et sympathisants de voter sereinement ». Elle a été annoncée dans un communiqué signé par le président de la commission et par les cinq candidats : Olivier Faure, Jérôme Guedj, Emmanuel Maurel, Raphaël Glucksmann et Ségolène Royal.",
-     "sources": [
-      "f5c8cc7a308d"
-     ]
-    },
-    {
-     "text": "La cyberattaque a créé un « afflux massif et fictif de connexions » qui a considérablement ralenti le scrutin sans l'interrompre. Selon les organisateurs, seuls 20 000 électeurs avaient pu voter vendredi à 19 h, sur 140 000 inscrits ; le vote a repris « normalement à 18h45 ».",
-     "sources": [
-      "fff528d9bb9f",
-      "68029c6c98a1"
-     ]
-    },
-    {
-     "text": "Samedi à 8 h, 71 250 personnes avaient voté, soit plus de la moitié des inscrits, d'après 20 Minutes. Un responsable socialiste a fait état d'une « longue file d'attente » vendredi.",
-     "sources": [
-      "68029c6c98a1",
-      "fff528d9bb9f"
-     ]
-    },
-    {
-     "text": "Selon les organisateurs, « l'intervention d'experts techniques a confirmé l'absence d'altération de la sincérité du scrutin et le bon enregistrement des votes ». La commission assure aussi que l'intégrité des votes enregistrés n'est pas compromise.",
-     "sources": [
-      "f5c8cc7a308d",
-      "fff528d9bb9f"
-     ]
-    },
-    {
-     "text": "Une plainte a été déposée vendredi à midi, a annoncé Patrick Mennucci sur franceinfo, qui qualifie l'attaque de « scandaleuse » et dit : « Cela ne vient pas d'une chambre d'un étudiant qui s'amuserait, c'est quelque chose de beaucoup plus organisé ». Il dit penser que c'est « destiné à contrer la dynamique que nous avons créée avec cette primaire ». Ces propos n'établissent pas qui est derrière l'attaque.",
-     "sources": [
-      "e3588f01cf9d"
-     ]
-    },
-    {
-     "text": "Les trois formations organisatrices (PS, Place publique et GRS) ont saisi la justice, et l'Agence nationale de la sécurité des systèmes d'information (Anssi) a été saisie, selon les services du Premier ministre.",
-     "sources": [
-      "fff528d9bb9f"
-     ]
-    },
-    {
-     "text": "Quelque 140 000 électeurs choisissent entre cinq candidats, dont Raphaël Glucksmann, présenté comme le favori, et Olivier Faure. Si un second tour est nécessaire, il aura lieu les 16 et 17 octobre.",
-     "sources": [
-      "68029c6c98a1",
-      "e3588f01cf9d"
-     ]
-    },
-    {
-     "text": "Le Monde, Libération, Le Parisien, France 24, BFMTV et franceinfo rapportent aussi cette prolongation du vote. Libération parle d'un vote « enrayé mais prolongé ».",
-     "sources": [
-      "bb33cb9041c4",
-      "ba3212b27538",
-      "f789fac67c0b",
-      "be03f08c1e93",
-      "87c5ae8f4ba6",
-      "992984ef7433"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 11,
-    "outlets": 9
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-09/D%C3%A9bat%20de%20la%20primaire.jpeg?h=8f5e88e5&itok=OGC0k2FP",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
-    "article_id": "f5c8cc7a308d"
-   },
-   "social_requested": "2026-10-10T14:21:30+00:00",
-   "id": 82,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-10T14:21:32+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 20.84,
-   "sources": [
-    {
-     "id": "68029c6c98a1",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : Après la cyberattaque, le vote prolongé d’une journée mobilise déjà plus de 70.000 votants",
-     "url": "https://www.20minutes.fr/politique/4253062-20261010-primaire-gauche-apres-cyberattaque-vote-prolonge-journee-mobilise-deja-plus-70-000-votants?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-10T08:32:26+00:00",
-     "snippet": "Le scrutin, prolongé d’une journée après une cyberattaque, a déjà mobilisé plus de la moitié des 140.000 inscrits à la primaire de la gauche, ce samedi matin"
-    },
-    {
-     "id": "85e95b9883b5",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : Perturbé par une cyberattaque, le vote prolongé jusqu’à dimanche soir",
-     "url": "https://www.20minutes.fr/politique/4252996-20261009-primaire-gauche-perturbe-cyberattaque-vote-prolonge-jusqu-dimanche-soir?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T19:04:37+00:00",
-     "snippet": "Quelque 140.000 électeurs sont appelés à départager cinq candidats de la primaire de la gauche. Les résultats sont attendus dimanche, après un scrutin électronique perturbé par une cyberattaque"
-    },
-    {
-     "id": "87c5ae8f4ba6",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate: le vote est prolongé jusqu'à dimanche 18h",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/video-primaire-sociale-democrate-le-vote-est-prolonge-jusqu-a-dimanche-18h_VN-202610090854.html",
-     "published_at": "2026-10-09T19:33:42+00:00",
-     "snippet": "Le vote de la primaire sociale-démocrate est finalement prolongé jusqu'à dimanche à 18h après une cyberattaque."
-    },
-    {
-     "id": "992984ef7433",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-gauche-la-plateforme-piratee-le-vote-prolonge_8230804.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T21:06:05+00:00",
-     "snippet": "La plateforme de vote pour la primaire de la gauche a été “victime d’une cyberattaque“, annonce la commission d’organisation. Le scrutin qui devait prendre fin samedi sera prolongé jusqu'à dimanche 11 octobre à 18 heures."
-    },
-    {
-     "id": "ba3212b27538",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Cyberattaque contre la primaire PS : le vote enrayé mais prolongé jusqu’à dimanche",
-     "url": "https://www.liberation.fr/politique/elections/cyberattaque-contre-la-primaire-ps-le-vote-enraye-mais-prolonge-jusqua-dimanche-20261009_FX7I2EVBCZB5RLQBOVCN3KBQVE/",
-     "published_at": "2026-10-09T18:11:34+00:00",
-     "snippet": "Après l’attaque qui a fortement ralenti le système, les organisateurs annoncent ce vendredi soir la prolongation du scrutin jusqu’à dimanche, 18 heures. Pendant cette première journée chaotique, seulement 20 000 personnes ont pu voter sur les 140 000 inscrits."
-    },
-    {
-     "id": "bb33cb9041c4",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison de la cyberattaque qui a visé la plateforme",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html",
-     "published_at": "2026-10-09T17:49:57+00:00",
-     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie. A 19 heures, vendredi soir, le scrutin ne comptait que 20 000 votants sur 140 000 inscrits."
-    },
-    {
-     "id": "be03f08c1e93",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261010-primaire-sociale-d%C3%A9mocrate-le-vote-prolong%C3%A9-jusqu-%C3%A0-dimanche-soir",
-     "published_at": "2026-10-10T09:56:38+00:00",
-     "snippet": "Le vote du premier tour de la primaire sociale-démocrate, cible vendredi d'une cyberattaque, est prolongé jusqu'à dimanche 18H00 à cause d'un fort ralentissement des votes."
-    },
-    {
-     "id": "e3588f01cf9d",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Une plainte déposée après la cyberattaque visant la plateforme de vote de la primaire de la gauche",
-     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/une-plainte-deposee-apres-la-cyberattaque-visant-la-plateforme-de-vote-de-la-primaire-de-la-gauche_8230606.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T17:17:02+00:00",
-     "snippet": "\"Cela ne vient pas d'une chambre d'un étudiant qui s'amuserait, c'est quelque chose de beaucoup plus organisé\", assure Patrick Mennucci, le président de la commission d'organisation de la primaire, vendredi sur franceinfo."
-    },
-    {
-     "id": "f5c8cc7a308d",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
-     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
-     "published_at": "2026-10-09T18:54:10+00:00",
-     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
-    },
-    {
-     "id": "f789fac67c0b",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Primaire à gauche : après une cyberattaque, le vote en ligne prolongé jusqu’à dimanche 18 heures",
-     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-du-ps-apres-une-cyberattaque-le-vote-en-ligne-prolonge-jusqua-dimanche-18-heures-09-10-2026-6TLNLEA5JRAOBDDQG7E5PK2EIY.php",
-     "published_at": "2026-10-09T18:54:03+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "fff528d9bb9f",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
-     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
-     "published_at": "2026-10-09T17:45:00+00:00",
-     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
-    }
-   ]
-  },
   {
    "headline": "Octobre rose : Mathilde Panot refuse de porter le ruban, une polémique de gauche à droite",
    "chapo": "Vendredi 9 octobre, la présidente du groupe LFI à l'Assemblée, Mathilde Panot, a expliqué dans une vidéo pourquoi elle ne porterait pas le ruban rose du dépistage du cancer du sein. Vue plus d'un million de fois sur X, elle a provoqué de vives réactions à gauche comme à droite. Plusieurs médias ont vérifié les origines d'Octobre rose.",
@@ -343,6 +152,197 @@
    ]
   },
   {
+   "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
+   "chapo": "Les organisateurs de la primaire de la gauche sociale-démocrate ont décidé vendredi 9 octobre de repousser la clôture du premier tour à dimanche 11 octobre à 18 h, au lieu de samedi 20 h, après une cyberattaque qui a ralenti le vote. Les résultats sont annoncés pour dimanche à 18 h 30.",
+   "points": [
+    {
+     "text": "Le vote du premier tour, uniquement en ligne, était prévu jusqu'à samedi 20 h. Il est prolongé jusqu'à dimanche à 18 h, et les résultats ne seront pas connus samedi soir mais dimanche à 18 h 30, selon la commission d'organisation de Patrick Mennucci.",
+     "sources": [
+      "f5c8cc7a308d",
+      "fff528d9bb9f",
+      "85e95b9883b5"
+     ]
+    },
+    {
+     "text": "La décision vise à « permettre aux militantes et militants, sympathisantes et sympathisants de voter sereinement ». Elle a été annoncée dans un communiqué signé par le président de la commission et par les cinq candidats : Olivier Faure, Jérôme Guedj, Emmanuel Maurel, Raphaël Glucksmann et Ségolène Royal.",
+     "sources": [
+      "f5c8cc7a308d"
+     ]
+    },
+    {
+     "text": "La cyberattaque a créé un « afflux massif et fictif de connexions » qui a considérablement ralenti le scrutin sans l'interrompre. Selon les organisateurs, seuls 20 000 électeurs avaient pu voter vendredi à 19 h, sur 140 000 inscrits ; le vote a repris « normalement à 18h45 ».",
+     "sources": [
+      "fff528d9bb9f",
+      "68029c6c98a1"
+     ]
+    },
+    {
+     "text": "Samedi à 8 h, 71 250 personnes avaient voté, soit plus de la moitié des inscrits, d'après 20 Minutes. Un responsable socialiste a fait état d'une « longue file d'attente » vendredi.",
+     "sources": [
+      "68029c6c98a1",
+      "fff528d9bb9f"
+     ]
+    },
+    {
+     "text": "Selon les organisateurs, « l'intervention d'experts techniques a confirmé l'absence d'altération de la sincérité du scrutin et le bon enregistrement des votes ». La commission assure aussi que l'intégrité des votes enregistrés n'est pas compromise.",
+     "sources": [
+      "f5c8cc7a308d",
+      "fff528d9bb9f"
+     ]
+    },
+    {
+     "text": "Une plainte a été déposée vendredi à midi, a annoncé Patrick Mennucci sur franceinfo, qui qualifie l'attaque de « scandaleuse » et dit : « Cela ne vient pas d'une chambre d'un étudiant qui s'amuserait, c'est quelque chose de beaucoup plus organisé ». Il dit penser que c'est « destiné à contrer la dynamique que nous avons créée avec cette primaire ». Ces propos n'établissent pas qui est derrière l'attaque.",
+     "sources": [
+      "e3588f01cf9d"
+     ]
+    },
+    {
+     "text": "Les trois formations organisatrices (PS, Place publique et GRS) ont saisi la justice, et l'Agence nationale de la sécurité des systèmes d'information (Anssi) a été saisie, selon les services du Premier ministre.",
+     "sources": [
+      "fff528d9bb9f"
+     ]
+    },
+    {
+     "text": "Quelque 140 000 électeurs choisissent entre cinq candidats, dont Raphaël Glucksmann, présenté comme le favori, et Olivier Faure. Si un second tour est nécessaire, il aura lieu les 16 et 17 octobre.",
+     "sources": [
+      "68029c6c98a1",
+      "e3588f01cf9d"
+     ]
+    },
+    {
+     "text": "Le Monde, Libération, Le Parisien, France 24, BFMTV et franceinfo rapportent aussi cette prolongation du vote. Libération parle d'un vote « enrayé mais prolongé ».",
+     "sources": [
+      "bb33cb9041c4",
+      "ba3212b27538",
+      "f789fac67c0b",
+      "be03f08c1e93",
+      "87c5ae8f4ba6",
+      "992984ef7433"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 11,
+    "outlets": 9
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-09/D%C3%A9bat%20de%20la%20primaire.jpeg?h=8f5e88e5&itok=OGC0k2FP",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
+    "article_id": "f5c8cc7a308d"
+   },
+   "social_requested": "2026-10-10T14:21:30+00:00",
+   "id": 82,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-10T14:21:32+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 20.83,
+   "sources": [
+    {
+     "id": "68029c6c98a1",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : Après la cyberattaque, le vote prolongé d’une journée mobilise déjà plus de 70.000 votants",
+     "url": "https://www.20minutes.fr/politique/4253062-20261010-primaire-gauche-apres-cyberattaque-vote-prolonge-journee-mobilise-deja-plus-70-000-votants?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-10T08:32:26+00:00",
+     "snippet": "Le scrutin, prolongé d’une journée après une cyberattaque, a déjà mobilisé plus de la moitié des 140.000 inscrits à la primaire de la gauche, ce samedi matin"
+    },
+    {
+     "id": "85e95b9883b5",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : Perturbé par une cyberattaque, le vote prolongé jusqu’à dimanche soir",
+     "url": "https://www.20minutes.fr/politique/4252996-20261009-primaire-gauche-perturbe-cyberattaque-vote-prolonge-jusqu-dimanche-soir?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T19:04:37+00:00",
+     "snippet": "Quelque 140.000 électeurs sont appelés à départager cinq candidats de la primaire de la gauche. Les résultats sont attendus dimanche, après un scrutin électronique perturbé par une cyberattaque"
+    },
+    {
+     "id": "87c5ae8f4ba6",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Primaire sociale-démocrate: le vote est prolongé jusqu'à dimanche 18h",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/video-primaire-sociale-democrate-le-vote-est-prolonge-jusqu-a-dimanche-18h_VN-202610090854.html",
+     "published_at": "2026-10-09T19:33:42+00:00",
+     "snippet": "Le vote de la primaire sociale-démocrate est finalement prolongé jusqu'à dimanche à 18h après une cyberattaque."
+    },
+    {
+     "id": "992984ef7433",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-gauche-la-plateforme-piratee-le-vote-prolonge_8230804.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T21:06:05+00:00",
+     "snippet": "La plateforme de vote pour la primaire de la gauche a été “victime d’une cyberattaque“, annonce la commission d’organisation. Le scrutin qui devait prendre fin samedi sera prolongé jusqu'à dimanche 11 octobre à 18 heures."
+    },
+    {
+     "id": "ba3212b27538",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Cyberattaque contre la primaire PS : le vote enrayé mais prolongé jusqu’à dimanche",
+     "url": "https://www.liberation.fr/politique/elections/cyberattaque-contre-la-primaire-ps-le-vote-enraye-mais-prolonge-jusqua-dimanche-20261009_FX7I2EVBCZB5RLQBOVCN3KBQVE/",
+     "published_at": "2026-10-09T18:11:34+00:00",
+     "snippet": "Après l’attaque qui a fortement ralenti le système, les organisateurs annoncent ce vendredi soir la prolongation du scrutin jusqu’à dimanche, 18 heures. Pendant cette première journée chaotique, seulement 20 000 personnes ont pu voter sur les 140 000 inscrits."
+    },
+    {
+     "id": "bb33cb9041c4",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison de la cyberattaque qui a visé la plateforme",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html",
+     "published_at": "2026-10-09T17:49:57+00:00",
+     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie. A 19 heures, vendredi soir, le scrutin ne comptait que 20 000 votants sur 140 000 inscrits."
+    },
+    {
+     "id": "be03f08c1e93",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Primaire sociale-démocrate : le vote prolongé jusqu'à dimanche soir",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261010-primaire-sociale-d%C3%A9mocrate-le-vote-prolong%C3%A9-jusqu-%C3%A0-dimanche-soir",
+     "published_at": "2026-10-10T09:56:38+00:00",
+     "snippet": "Le vote du premier tour de la primaire sociale-démocrate, cible vendredi d'une cyberattaque, est prolongé jusqu'à dimanche 18H00 à cause d'un fort ralentissement des votes."
+    },
+    {
+     "id": "e3588f01cf9d",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Une plainte déposée après la cyberattaque visant la plateforme de vote de la primaire de la gauche",
+     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/une-plainte-deposee-apres-la-cyberattaque-visant-la-plateforme-de-vote-de-la-primaire-de-la-gauche_8230606.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T17:17:02+00:00",
+     "snippet": "\"Cela ne vient pas d'une chambre d'un étudiant qui s'amuserait, c'est quelque chose de beaucoup plus organisé\", assure Patrick Mennucci, le président de la commission d'organisation de la primaire, vendredi sur franceinfo."
+    },
+    {
+     "id": "f5c8cc7a308d",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
+     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
+     "published_at": "2026-10-09T18:54:10+00:00",
+     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
+    },
+    {
+     "id": "f789fac67c0b",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Primaire à gauche : après une cyberattaque, le vote en ligne prolongé jusqu’à dimanche 18 heures",
+     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-du-ps-apres-une-cyberattaque-le-vote-en-ligne-prolonge-jusqua-dimanche-18-heures-09-10-2026-6TLNLEA5JRAOBDDQG7E5PK2EIY.php",
+     "published_at": "2026-10-09T18:54:03+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "fff528d9bb9f",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
+     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
+     "published_at": "2026-10-09T17:45:00+00:00",
+     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
+    }
+   ]
+  },
+  {
    "headline": "Lecornu annonce 50 millions d'euros pour les communes rurales et une aide aux stations-service isolées",
    "chapo": "Samedi 10 octobre, dans une vidéo diffusée au congrès des maires ruraux à Auch, le Premier ministre Sébastien Lecornu a annoncé une nouvelle dotation de 50 millions d'euros pour près de 9 000 communes rurales et une « réponse spécifique » pour 339 stations-service isolées, afin qu'elles baissent leurs prix du gazole.",
    "points": [
@@ -423,7 +423,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.13,
+   "score": 13.12,
    "sources": [
     {
      "id": "01516d0832b5",
@@ -557,7 +557,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.8,
+   "score": 10.79,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -856,7 +856,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.64,
+   "score": 8.63,
    "sources": [
     {
      "id": "4961abc0c541",
