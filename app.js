@@ -216,13 +216,11 @@ const HERO = {
     lead: "La politique, ",
     mark: "pour tous.",
     text: "Chaque jour, quelques sujets d'actualité expliqués simplement, avec les sources à un clic pour te faire ta propre idée.",
-    pills: ["Sources cliquables", "Relu avant publication", "Sans prise de parti"],
   }),
   presidentielle: () => ({
     lead: "La présidentielle, ",
     mark: "pour tous.",
     text: "La campagne vue par plusieurs médias, avec les sources à un clic. Le scrutin aura lieu les 18 avril et 2 mai 2027.",
-    pills: ["Sans consigne de vote", "Sources cliquables", "Relu avant publication"],
   }),
 };
 
@@ -231,7 +229,6 @@ function renderHero() {
   const title = document.getElementById("hero-title");
   title.replaceChildren(hero.lead, el("span", { class: "mark", text: hero.mark }));
   document.getElementById("hero-text").textContent = hero.text;
-  document.getElementById("hero-pills").replaceChildren(...hero.pills.map((t) => el("li", { text: t })));
   setCountdown(current === "presidentielle");
 }
 
