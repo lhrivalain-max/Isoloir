@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T16:00:03+00:00",
+ "generated_at": "2026-10-10T20:20:20+00:00",
  "posts": [
   {
    "headline": "Attal et Mélenchon se défient par meetings interposés : Parcoursup et colère lycéenne au cœur de l'échange",
@@ -86,7 +86,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.25,
+   "score": 9.62,
    "sources": [
     {
      "id": "4961abc0c541",
@@ -214,7 +214,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 27.14,
+   "score": 23.22,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -318,6 +318,137 @@
    ]
   },
   {
+   "headline": "Lecornu annonce 50 millions d'euros pour les communes rurales et une aide aux stations-service isolées",
+   "chapo": "Samedi 10 octobre, dans une vidéo diffusée au congrès des maires ruraux à Auch, le Premier ministre Sébastien Lecornu a annoncé une nouvelle dotation de 50 millions d'euros pour près de 9 000 communes rurales et une « réponse spécifique » pour 339 stations-service isolées, afin qu'elles baissent leurs prix du gazole.",
+   "points": [
+    {
+     "text": "Le gouvernement va « créer une dotation nouvelle, originale » pour les communes rurales, qui « représentera 50 millions d'euros pour près de 9 000 communes, dont 381 dans le département du Gers ». Le message a été diffusé en vidéo devant le congrès de l'Association des maires ruraux de France à Auch.",
+     "sources": [
+      "7fcbe52aa7aa",
+      "01516d0832b5",
+      "47761cf40ea6"
+     ]
+    },
+    {
+     "text": "Pour justifier cette aide, Sébastien Lecornu dit : « Moins d'habitants, cela ne fait pas moins de kilomètres ou d'espaces naturels à entretenir. Les routes, les chemins, les hameaux restent là, mais les habitants sont moins nombreux pour en partager le coût ».",
+     "sources": [
+      "7fcbe52aa7aa",
+      "e7c66153d2c2",
+      "01516d0832b5"
+     ]
+    },
+    {
+     "text": "Cette dotation s'ajoute à la hausse de 150 millions d'euros de la dotation globale de fonctionnement des collectivités locales, prévue dans le projet de budget 2027.",
+     "sources": [
+      "7fcbe52aa7aa",
+      "e7c66153d2c2",
+      "47761cf40ea6"
+     ]
+    },
+    {
+     "text": "Les préfectures vont contacter les 339 stations-service repérées comme isolées pour leur proposer « une solution ad hoc » et « tenir compte de leurs contraintes » d'approvisionnement. Le but : qu'elles puissent répercuter la baisse attendue de 12 à 18 centimes par litre de gazole.",
+     "sources": [
+      "7fcbe52aa7aa",
+      "e7c66153d2c2",
+      "01516d0832b5"
+     ]
+    },
+    {
+     "text": "Cette baisse attendue vient du déblocage, sur trois mois, de 10 millions de barils de gazole issus des stocks stratégiques de l'État. Sébastien Lecornu doit recevoir les distributeurs de carburants lundi à Matignon.",
+     "sources": [
+      "7fcbe52aa7aa",
+      "e7c66153d2c2"
+     ]
+    },
+    {
+     "text": "La Dépêche du Midi note que certaines stations rurales pourraient avoir du mal à répercuter cette baisse en raison de leurs contraintes d'approvisionnement, d'où cette mesure ciblée.",
+     "sources": [
+      "e7c66153d2c2"
+     ]
+    },
+    {
+     "text": "L'Humanité y voit un contraste : selon le journal, le Premier ministre est « plus prompt à répondre aux élus ruraux qu'aux lycéens ». Il n'est pas venu en personne, car les membres du gouvernement ont pour consigne d'éviter les déplacements publics depuis le mouvement lycéen.",
+     "sources": [
+      "9c18db4c6900"
+     ]
+    },
+    {
+     "text": "Le congrès de l'AMRF doit aussi marquer le retour de Michel Fournier, ancien ministre de la Ruralité, à la présidence de l'association.",
+     "sources": [
+      "e7c66153d2c2"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://media.letelegramme.fr/api/v1/images/view/6aca15441be392b5db05b5be/web_golden_xxl/6aca15441be392b5db05b5be.1",
+    "source": "Le Télégramme",
+    "article_url": "https://www.letelegramme.fr/pouvoir-d-achat/dotation-de-50-millions-aide-aux-stations-service-quelles-sont-les-dernieres-annonces-de-sebastien-lecornu-pour-les-communes-rurales-7135469.php",
+    "article_id": "01516d0832b5",
+    "focus_x": 0.6066666666666667,
+    "focus_y": 0.012083333333333333
+   },
+   "social_requested": "2026-10-10T20:20:19+00:00",
+   "id": 87,
+   "section": "institutions",
+   "reviewed_at": "2026-10-10T20:20:20+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "01516d0832b5",
+     "name": "Le Télégramme",
+     "kind": "media",
+     "title": "Dotation de 50 millions, aide aux stations-service… Quelles sont les dernières annonces de Sébastien Lecornu pour les communes rurales ?",
+     "url": "https://www.letelegramme.fr/pouvoir-d-achat/dotation-de-50-millions-aide-aux-stations-service-quelles-sont-les-dernieres-annonces-de-sebastien-lecornu-pour-les-communes-rurales-7135469.php",
+     "published_at": "2026-10-10T10:32:00+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a annoncé ce samedi une nouvelle dotation de 50 millions d’euros pour les communes rurales, ainsi qu’une aide ciblée pour les stations-service rurales afin de réduire le prix du gazole."
+    },
+    {
+     "id": "47761cf40ea6",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Politique. Sébastien Lecornu annonce 50 millions pour les communes rurales et une aide aux petites stations-service",
+     "url": "https://www.leprogres.fr/economie/2026/10/10/lecornu-annonce-50-millions-pour-les-communes-rurales-et-une-aide-aux-petites-stations-service",
+     "published_at": "2026-10-10T10:32:00+00:00",
+     "snippet": "Le gouvernement va « créer une dotation nouvelle, originale » pour les communes rurales qui « représentera 50 millions d'euros pour près de 9 000 communes. Face à la hausse des prix des carburants, qui affecte particulièrement les stations-service en zones rurales, Sébastien Lecornu a également promis de les aider à baisser leurs prix sur le gazole."
+    },
+    {
+     "id": "7fcbe52aa7aa",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le Premier ministre Sébastien Lecornu annonce une nouvelle dotation de 50 millions pour les communes rurales",
+     "url": "https://www.franceinfo.fr/economie/automobile/essence/le-premier-ministre-sebastien-lecornu-annonce-une-nouvelle-dotation-de-50-millions-pour-les-communes-rurales_8231461.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-10T10:08:43+00:00",
+     "snippet": "Il a également promis une réponse spécifique aux stations-service des communes les plus isolées, afin qu'elles puissent baisser les prix du gazole."
+    },
+    {
+     "id": "9c18db4c6900",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Lecornu accorde 50 millions aux communes rurales et promet une « réponse spécifique » aux stations-service",
+     "url": "https://www.humanite.fr/politique/sebastien-lecornu/lecornu-accorde-50-millions-aux-communes-rurales-et-promet-une-reponse-specifique-aux-stations-service",
+     "published_at": "2026-10-10T14:50:24+00:00",
+     "snippet": "Le premier ministre est plus prompt à répondre aux élus ruraux qu’aux lycéens : devant le congrès de l’Association des maires ruraux de France, Sébastien Lecornu a annoncé samedi que les communes rurales bénéficieraient d’une dotation nouvelle de 50 millions d’euros et qu’il allait apporter une « réponse spécifique » aux stations-service de leurs territoires pour qu’elles puissent baisser les prix du gazole."
+    },
+    {
+     "id": "e7c66153d2c2",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Prix des carburants : Sébastien Lecornu annonce une aide pour les stations-service isolées et 50 millions d'euros pour les communes rurales",
+     "url": "https://www.ladepeche.fr/2026/10/10/prix-des-carburants-sebastien-lecornu-annonce-une-aide-pour-les-stations-service-isolees-et-50-millions-deuros-pour-les-communes-rurales-13594723.php",
+     "published_at": "2026-10-10T14:19:33+00:00",
+     "snippet": "Sébastien Lecornu a annoncé, samedi 10 octobre, des mesures pour faire baisser le prix du gazole dans les stations-service rurales les plus isolées. Le Premier ministre a également promis une aide de 50 millions..."
+    }
+   ]
+  },
+  {
    "headline": "Lycées : comment les 3 000 profs remplaçants seront déployés, Parcoursup « perfectible », Matignon mise sur les vacances",
    "chapo": "Une semaine après l'annonce du ministre Édouard Geffray, les questions portent sur le déploiement des 3 024 professeurs remplaçants, sur l'avenir de Parcoursup et sur la suite du mouvement lycéen. L'intersyndicale appelle à une nouvelle journée de mobilisation mardi 13 octobre ; le gouvernement veut tenir jusqu'aux vacances, le 17 octobre.",
    "points": [
@@ -402,7 +533,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.07,
+   "score": 12.03,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -558,7 +689,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.12,
+   "score": 11.22,
    "sources": [
     {
      "id": "0d2c29a247fa",
@@ -705,7 +836,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.02,
+   "score": 10.18,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -913,7 +1044,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.84,
+   "score": 9.0,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -1139,7 +1270,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.73,
+   "score": 8.06,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -1326,7 +1457,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.33,
+   "score": 5.06,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -1509,7 +1640,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.93,
+   "score": 4.66,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -1660,7 +1791,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.95,
+   "score": 3.72,
    "sources": [
     {
      "id": "047109bba606",
@@ -1777,7 +1908,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.96,
+   "score": 2.81,
    "sources": [
     {
      "id": "637cd573a004",
@@ -1871,7 +2002,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.08,
+   "score": 1.97,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -1964,7 +2095,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.07,
+   "score": 1.97,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -1992,402 +2123,6 @@
      "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
      "published_at": "2026-10-07T16:58:30+00:00",
      "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
-    }
-   ]
-  },
-  {
-   "headline": "Inceste : les députés créent une infraction spécifique et l'étendent aux cousins germains",
-   "chapo": "Mardi 6 octobre, les députés ont voté à l'unanimité la création d'une infraction d'inceste dans le Code pénal. Ils ont aussi élargi sa définition aux cousins germains. Ces mesures font partie de la loi « intégrale » contre les violences sexistes et sexuelles, dont le vote solennel est prévu le 13 octobre.",
-   "points": [
-    {
-     "text": "L'inceste aura son propre paragraphe dans le Code pénal, avec des dispositions et des peines propres. Jusqu'ici, il était surtout pris en compte comme circonstance aggravante du viol, depuis une réforme de 2021. Le vote a été unanime.",
-     "sources": [
-      "747af744f050",
-      "3ae89168e264"
-     ]
-    },
-    {
-     "text": "La définition s'élargit aux cousins germains. La députée socialiste Florence Herouin-Léautey cite des chiffres : le cousin est identifié comme auteur des violences dans 13 % des cas chez les victimes féminines et 16 % chez les victimes masculines. Elle rappelle que sept millions de Français auraient été victimes d'inceste au cours de leur vie.",
-     "sources": [
-      "747af744f050",
-      "3ae89168e264"
-     ]
-    },
-    {
-     "text": "Le RN a défendu la création de l'infraction : Gabriel Tomatis y voit « une attente forte des victimes ». Son groupe proposait la réclusion à perpétuité pour le viol incestueux ; l'amendement n'a pas été adopté. L'écologiste Sandrine Rousseau s'y est opposée : de telles peines pourraient « avoir l'effet inverse et empêcher la parole » des victimes.",
-     "sources": [
-      "747af744f050"
-     ]
-    },
-    {
-     "text": "La loi « intégrale » compte plus de 70 articles et vise toute la chaîne : prévention, accompagnement des victimes, sanction des auteurs. Elle est discutée dans l'hémicycle depuis jeudi. Le Parisien en détaille d'autres mesures dans son titre : un entretien à l'école pour détecter les violences dès 2032, et l'interdiction du mariage entre cousins.",
-     "sources": [
-      "521e9cfda091",
-      "747af744f050",
-      "944aa3fb1cd0"
-     ]
-    },
-    {
-     "text": "Le vote solennel sur l'ensemble du texte a lieu le 13 octobre. Ce jour-là, un collectif d'associations et d'institutions, dont la Fondation des Femmes et la mairie de Paris, appelle les femmes à « suspendre leurs activités professionnelles et domestiques ». Minute de silence à 13 h, rassemblement à Paris place de la Bastille dès 11 h 30, et rassemblements annoncés dans treize villes dont Nice, Bordeaux, Lyon, Rennes et Marseille.",
-     "sources": [
-      "521e9cfda091"
-     ]
-    },
-    {
-     "text": "Les peines de la nouvelle infraction ne sont pas encore connues : seul le principe de peines propres est voté. Le texte entier doit encore être adopté le 13 octobre.",
-     "sources": [
-      "747af744f050",
-      "521e9cfda091"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.20mn.fr/cKy40ecwSKuswduCCngwPSk/1200x768_des-personnes-participent-a-un-rassemblement-devant-la-cite-judiciaire-de-rennes-dans-l-ouest-de-la-france-le-8-juin-2026-apres-la-mort-de-lyhanna-une-collegienne-de-11-ans-retrouvee-morte-le-4-juin-dans-le-gers-apres-avoir-ete-signalee-disparue-le-29-mai-plusieurs-organisations-et-citoyens-se-sont-reunis-pour-rendre-hommage-a-l-enfant-et-denoncer-les-violences-faites-aux-mineurs-une-femme-montre-a-un-enfant-des-pancartes-deposees-au-sol-devant-la-cite-judiciaire-de-rennes-lors-du-rassemblement-en-hommage-a-lyhanna-plusieurs-inscriptions-sont-visibles-dont-l-inceste-tue-etat-francais-coupable-complice-et-il-peut-y-avoir-des-enfants-consentants-people-attend-a-rally-outside-the-rennes-courthouse-western-france-on-june-8-2026-following-the-death-of-lyhanna-an-11-year-old-schoolgirl-whose-body-was-found-on-june-4-in-southwestern-france-after-she-was-reported-missing-on-may-29-citizens-and-advocacy-groups-gathered-to-pay-tribute-to-the-child-and-denounce-violence-against-minors-a-woman-shows-a-child-placards-laid-on-the-ground-outside-the-rennes-courthouse-during-the-tribute-rally-for-lyhanna-several-messages-can-be-seen-including-incest-kills-french-state-guilty-and-complicit-and-there-can-be-consenting-children-picaudjustin-7x6a7510-credit-justin-picaud-sipa-2606082147",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251973-20261006-inceste-deputes-votent-elargir-definition-cousins-germains?at_medium=display&at_campaign=149",
-    "article_id": "747af744f050",
-    "focus_x": 0.45666666666666667,
-    "focus_y": 0.07389322916666667
-   },
-   "id": 57,
-   "section": "institutions",
-   "reviewed_at": "2026-10-07T16:06:54+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.0,
-   "sources": [
-    {
-     "id": "3ae89168e264",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Inceste : les députés votent pour créer une infraction spécifique et élargir sa définition aux cousins",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/06/inceste-les-deputes-votent-pour-creer-une-infraction-specifique-et-elargir-sa-definition-aux-cousins_6789127_823448.html",
-     "published_at": "2026-10-06T19:29:08+00:00",
-     "snippet": "Adoptée dans le cadre de la loi « intégrale » contre les violences sexistes et sexuelles, la mesure étend aussi la définition de l’inceste aux cousins germains, alors que 7 millions de Français en auraient été victimes."
-    },
-    {
-     "id": "521e9cfda091",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Les femmes appelées à \"suspendre leurs activités\" le 13 octobre, jour du vote solennel à l'Assemblée sur la loi intégrale",
-     "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-femmes-appelees-a-suspendre-leurs-activites-le-13-octobre-jour-du-vote-solennel-a-l-assemblee-sur-la-loi-integrale_8226208.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-07T04:27:26+00:00",
-     "snippet": "L'objectif de cette loi intégrale est de transformer la façon dont ce sujet est traité. Prévention, accompagnement des victimes, sanction des auteurs… Le texte entend s'attaquer à l'ensemble de la chaîne des violences."
-    },
-    {
-     "id": "747af744f050",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Inceste : Les députés votent pour élargir sa définition aux cousins germains",
-     "url": "https://www.20minutes.fr/politique/4251973-20261006-inceste-deputes-votent-elargir-definition-cousins-germains?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T19:01:19+00:00",
-     "snippet": "Les députés ont voté mardi l’élargissement de la définition de l’inceste aux cousins germains, ainsi que la création d’une infraction spécifique dans le Code pénal"
-    },
-    {
-     "id": "944aa3fb1cd0",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Entretien à l’école pour détecter les violences… dès 2032, mariage interdit entre cousins : la loi « intégrale » se précise",
-     "url": "https://www.leparisien.fr/societe/entretien-a-lecole-pour-detecter-les-violences-en-2032-mariage-interdit-entre-cousins-la-loi-integrale-se-precise-07-10-2026-X6YNOZVTYVBQBFVQCXQXIDS4WA.php",
-     "published_at": "2026-10-07T08:02:45+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Ruffin et Villepin réclament ensemble la fin de Parcoursup et le vote à 16 ans",
-   "chapo": "Lundi 5 octobre, François Ruffin et Dominique de Villepin se sont affichés ensemble avec des lycéens, à la veille de l'« acte III » de la mobilisation. Ils demandent la fin de Parcoursup, le droit de vote dès 16 ans, un budget de l'Éducation nationale sanctuarisé et l'arrêt des LBD et des grenades de désencerclement contre les lycéens.",
-   "points": [
-    {
-     "text": "Les deux responsables politiques ont formé un tandem dans une brasserie parisienne, avec plusieurs lycéens et des représentants d'organisations de jeunesse. François Ruffin est candidat déclaré à la présidentielle ; Dominique de Villepin souhaite l'être.",
-     "sources": [
-      "ca1f1b5c6620",
-      "fde0e09892c4"
-     ]
-    },
-    {
-     "text": "Ils dénoncent la politique de maintien de l'ordre du gouvernement, alors qu'un jeune de 15 ans a eu la main arrachée par une grenade policière à Lens lundi. Villepin demande qu'elle prenne en compte la situation particulière d'un mouvement lycéen et fustige les « politiques de nasse » et les charges des forces de l'ordre. Les deux demandent la fin des LBD et des grenades de désencerclement lors des mouvements de lycéens.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Pour Ruffin, « il faut une réponse politique », pas policière. Il veut que la part du budget de l'Éducation nationale dans le budget de l'État soit sanctuarisée, même si le nombre d'élèves diminue, et un plan de rénovation d'urgence des bâtiments scolaires. Il s'indigne de l'état des salles de classe, une revendication qu'il dit avoir entendue à de nombreuses reprises ces derniers jours.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Ils plaident aussi pour le droit de vote dès 16 ans et la suppression de Parcoursup. « L'avenir ne peut pas être géré par un algorithme », explique Ruffin, qui veut mettre l'accent sur l'accompagnement de l'enseignement professionnel.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Ruffin assume leurs différences : « Le rassemblement doit primer sur le déchirement ». Villepin juge de son côté que la jeunesse est au-dessus de tout ce qui peut les diviser.",
-     "sources": [
-      "ca1f1b5c6620"
-     ]
-    },
-    {
-     "text": "Le même jour, Ruffin confirme dans une interview à l'Humanité son rapprochement avec Villepin et appelle à un rassemblement élargi face à l'extrême droite ; Libération titre sur sa volonté de passer du Front populaire au CNR. Sur BFMTV, il dit : « Nous avons poursuivi nos discussions ».",
-     "sources": [
-      "ee3cb8e010c9",
-      "573133300860"
-     ]
-    },
-    {
-     "text": "La forme de ce rapprochement n'est pas précisée : alliance, soutien ou candidature commune. Villepin n'est pas candidat déclaré.",
-     "sources": [
-      "ca1f1b5c6620",
-      "ee3cb8e010c9"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/d19jRfSgSwO8t8oompoCCSk/1200x768_francois-ruffin-et-dominique-de-villepin-derouda-2026-09-02-debateruffinvillepin-076-credit-franck-derouda-sipa-2609022342",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
-    "article_id": "ca1f1b5c6620",
-    "focus_x": 0.5266666666666666,
-    "focus_y": 0.022298177083333332
-   },
-   "id": 61,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-07T16:06:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.5,
-   "sources": [
-    {
-     "id": "573133300860",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Nous avons poursuivi nos discussions\", confie François Ruffin à propos de son rapprochement avec Dominique de Villepin",
-     "url": "https://www.bfmtv.com/politique/video-nous-avons-poursuivi-nos-discussions-confie-francois-ruffin-a-propos-de-son-rapprochement-avec-dominique-de-villepin_VN-202610050855.html",
-     "published_at": "2026-10-05T18:46:39+00:00",
-     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
-    },
-    {
-     "id": "ca1f1b5c6620",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Colère des lycéens : Villepin et Ruffin vent debout ensemble contre Parcoursup",
-     "url": "https://www.20minutes.fr/politique/4251677-20261006-colere-lyceens-villepin-ruffin-vent-debout-ensemble-contre-parcoursup?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-06T03:58:06+00:00",
-     "snippet": "Dominique de Villepin et François Ruffin se sont une nouvelle fois affichés ensemble pour demander un budget de l’Education nationale sanctuarisé, le droit de vote à 16 ans et la fin de Parcoursup"
-    },
-    {
-     "id": "ee3cb8e010c9",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Présidentielle 2027 : François Ruffin veut «passer du Front populaire au CNR»",
-     "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-veut-passer-du-front-populaire-au-cnr-20261005_2ZMIHR55BFGSLOJ6PAWBNUJMKY/",
-     "published_at": "2026-10-05T16:09:37+00:00",
-     "snippet": "Dans une interview à «l’Humanité» ce lundi 5 octobre, le candidat à la présidentielle confirme son rapprochement avec Dominique de Villepin. Et appelle de nouveau à un rassemblement élargi face au péril de l’extrême droite."
-    },
-    {
-     "id": "fde0e09892c4",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Blocage des lycées: \"Il ne devrait pas y avoir de charges, il ne devrait pas y avoir de présence massive de la police\", affirme Dominique de Villepin",
-     "url": "https://www.bfmtv.com/politique/video-blocage-des-lycees-il-ne-devrait-pas-y-avoir-de-charges-il-ne-devrait-pas-y-avoir-de-presence-massive-de-la-police-affirme-dominique-de-villepin_VN-202610050852.html",
-     "published_at": "2026-10-05T18:44:30+00:00",
-     "snippet": "Face aux récentes mobilisations et à la colère lycéenne, le candidat à la présidentielle François Ruffin et l'ancien Premier ministre Dominique de Villepin réagissent d'une seule voix, ce lundi 5 octobre, pour appeler à une refonte des politiques de la jeunesse."
-    }
-   ]
-  },
-  {
-   "headline": "Boissons énergisantes : un rapport parlementaire propose de les interdire aux moins de 16 ans",
-   "chapo": "Une mission parlementaire recommande d'interdire la vente de boissons énergisantes (Red Bull, Monster, Crazy Tiger, Ciao Energy) aux moins de 16 ans. Le gouvernement se dit ouvert à étudier la mesure, mais ne soutient pas d'interdiction immédiate.",
-   "points": [
-    {
-     "text": "Le rapport, dévoilé mercredi 7 octobre, est copiloté par les députés Sandrine Runel (PS) et Yannick Neuder (LR), ancien ministre de la Santé. Il est soumis à l'adoption de la commission des affaires sociales. Ces boissons « ne posent pas de risque sanitaire en population générale » en quantité raisonnable, mais leur consommation est jugée excessive en France.",
-     "sources": [
-      "95a376c78ab7",
-      "f4cadee988fb"
-     ]
-    },
-    {
-     "text": "Chez les enfants et adolescents, la consommation « peut bel et bien engendrer des effets nocifs », souligne le rapport. Des effets indésirables ont déjà été signalés en France, symptômes cardiovasculaires ou psychologiques, principalement liés à une consommation excessive de caféine, parfois couplée à de l'alcool.",
-     "sources": [
-      "95a376c78ab7",
-      "4857f7a7677e"
-     ]
-    },
-    {
-     "text": "Pour Yannick Neuder, « le rôle du législateur est de pouvoir informer les parents, qui, souvent, n'ont pas conscience qu'ils donnent une boisson qui est pire que le Coca en teneur en sucre et en calories ». Sandrine Runel veut faire de la pédagogie pour expliquer aux jeunes qu'ils n'ont pas besoin de ces boissons sucrées pour se maintenir en forme et lutter contre la fatigue.",
-     "sources": [
-      "95a376c78ab7",
-      "4857f7a7677e"
-     ]
-    },
-    {
-     "text": "Les boissons alcoolisées prêtes à boire sont aussi visées, comme le Vody, mélange de vodka, café et taurine. Le rapport les juge « nocives pour la santé » et attractives pour les jeunes par leur marketing et leur prix. Il propose d'étendre la taxe prémix à toutes les boissons prêtes à boire de plus de 12 % d'alcool, de renforcer l'interdiction de vente d'alcool aux mineurs avec des tests de vente, et de mettre fin à la publicité pour les boissons alcooliques en ligne.",
-     "sources": [
-      "95a376c78ab7"
-     ]
-    },
-    {
-     "text": "Plusieurs mesures, dont l'interdiction, seront inscrites dans le projet de loi de financement de la Sécurité sociale et dans une proposition de loi. Le rapport doit nourrir des amendements au budget de la Sécurité sociale pour 2027.",
-     "sources": [
-      "95a376c78ab7",
-      "4857f7a7677e"
-     ]
-    },
-    {
-     "text": "Le gouvernement affiche une « position d'ouverture à l'étude de cette mesure », selon BFMTV. Le ministère ne voit pas aujourd'hui d'élément pour soutenir explicitement une interdiction immédiate, et met en avant des études de l'Anses sur les risques sanitaires. L'entourage de la ministre Stéphanie Rist rappelle que le Québec (2026) et la Norvège interdisent la vente aux moins de 16 ans, et que la Lituanie, la Lettonie, la Pologne, la Roumanie, la Hongrie et la Bulgarie l'ont fait pour les mineurs.",
-     "sources": [
-      "4857f7a7677e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/dSlFMtIle2GqALy-EMNR-SB0ZaY=/4x42:1252x744/800x0/images/-162432.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/gouvernement/vers-une-interdiction-des-boissons-energisantes-aux-moins-de-16-ans-le-gouvernement-pret-a-etudier-la-mesure_AV-202610070587.html",
-    "article_id": "4857f7a7677e"
-   },
-   "id": 63,
-   "section": "institutions",
-   "reviewed_at": "2026-10-07T16:06:07+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.25,
-   "sources": [
-    {
-     "id": "4857f7a7677e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Vers une interdiction des boissons énergisantes aux moins de 16 ans? Le gouvernement prêt à étudier la mesure",
-     "url": "https://www.bfmtv.com/politique/gouvernement/vers-une-interdiction-des-boissons-energisantes-aux-moins-de-16-ans-le-gouvernement-pret-a-etudier-la-mesure_AV-202610070587.html",
-     "published_at": "2026-10-07T13:49:49+00:00",
-     "snippet": "Si l'exécutif précise qu'il \"n'existe pas aujourd'hui d'élément permettant au ministère de soutenir explicitement une interdiction immédiate des boissons énergisantes aux moins de 16 ans\", comme recommandé par des députés, il affiche une \"position d'ouverture\"."
-    },
-    {
-     "id": "95a376c78ab7",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Un rapport parlementaire recommande d'interdire la vente des boissons énergisantes aux moins de 16 ans",
-     "url": "https://www.franceinfo.fr/sante/un-rapport-parlementaire-recommande-d-interdire-la-vente-des-boissons-energisantes-aux-moins-de-16-ans_8226559.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-07T11:48:34+00:00",
-     "snippet": "La consommation de ces boissons \"peut bel et bien engendrer des effets nocifs\" chez les jeunes, soulignent les auteurs du rapport, dévoilé mercredi."
-    },
-    {
-     "id": "f4cadee988fb",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Interdire la vente des boissons énergisantes aux moins de 16 ans et les retirer des distributeurs automatiques, la proposition d’un rapport parlementaire",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/07/red-bull-monster-energy-crazy-tiger-un-rapport-parlementaire-recommande-d-interdire-la-vente-de-boissons-energisantes-aux-moins-de-16-ans_6789568_823448.html",
-     "published_at": "2026-10-07T08:13:41+00:00",
-     "snippet": "Red Bull, Monster Energy, Crazy Tiger… la consommation de ces boissons « peut bel et bien engendrer des effets nocifs » chez les jeunes, souligne ce rapport, dévoilé mercredi et soumis à l’adoption de la commission des affaires sociales."
-    }
-   ]
-  },
-  {
-   "headline": "Sénat : le RN obtient pour la première fois un poste de vice-président",
-   "chapo": "Le Bureau du Sénat, ratifié mardi 6 octobre, accorde au RN et à ses alliés de l'UDR un poste de vice-président, une première dans l'histoire de la Ve République. Il sera partagé à tour de rôle avec deux autres groupes pendant trois ans.",
-   "points": [
-    {
-     "text": "Après les sénatoriales du 27 septembre, le RN et ses alliés de l'Union des droites pour la République (UDR) comptent 15 sénateurs. Ils obtiennent un poste de vice-président du Sénat, qu'ils occuperont à tour de rôle avec deux autres groupes lors des trois prochaines années.",
-     "sources": [
-      "068789211545",
-      "1c66ebef5c2b"
-     ]
-    },
-    {
-     "text": "Le sénateur RN du Pas-de-Calais Christopher Szczurek, désigné par son groupe, sera d'abord secrétaire du Bureau pendant deux ans. Il pourra diriger des séances dans l'hémicycle comme vice-président à partir du 1er octobre 2028.",
-     "sources": [
-      "068789211545",
-      "1c66ebef5c2b"
-     ]
-    },
-    {
-     "text": "Le règlement du Sénat prévoit une représentation proportionnelle des groupes au Bureau. Le groupe RN-UDR est arrivé ex aequo avec les Indépendants et le groupe écologiste, 15 membres chacun : le poste est donc partagé entre les trois.",
-     "sources": [
-      "068789211545",
-      "1c66ebef5c2b"
-     ]
-    },
-    {
-     "text": "Les six autres groupes obtiennent une vice-présidence. Les Républicains, première force avec 124 sénateurs, en ont deux : Roger Karoutchi (Hauts-de-Seine) et Laurence Garnier (Loire-Atlantique), proche de Bruno Retailleau. Le Bureau est présidé par Gérard Larcher (LR), réélu jeudi. Les trois questeurs sont reconduits : Antoine Lefèvre (LR), Olivier Cigolotti (centriste) et Marie-Arlette Carlotti (PS).",
-     "sources": [
-      "068789211545"
-     ]
-    },
-    {
-     "text": "Le groupe écologiste a désigné le sénateur Place publique Bernard Jomier comme vice-président. Soutien de Raphaël Glucksmann, il vient de quitter le groupe socialiste pour siéger chez les écologistes, une décision qui a suscité le mécontentement du PS, qui affirme ne pas l'avoir validée.",
-     "sources": [
-      "068789211545"
-     ]
-    },
-    {
-     "text": "La présidente du groupe écologiste, Mélanie Vogel, a écrit aux autres présidents de groupe pour appeler à un « cordon sanitaire » vis-à-vis de l'extrême droite : ne pas collaborer avec le groupe, ne cosigner aucun texte ni amendement avec ses membres, ne voter aucune de ses initiatives. Elle regrette le règlement du Sénat, qui empêche selon elle toute opposition à l'arrivée du RN au Bureau.",
-     "sources": [
-      "068789211545"
-     ]
-    },
-    {
-     "text": "Le président du groupe socialiste, Patrick Kanner, a aussi regretté l'application automatique de ces dispositions, dans un courrier à Gérard Larcher. Il appelle à « dresser une séparation étanche » avec le groupe RN-UDR. À l'Assemblée nationale, un vote est possible si les chefs de groupe ne s'accordent pas sur la composition du Bureau ; le RN y compte deux vice-présidents.",
-     "sources": [
-      "068789211545"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 2,
-    "outlets": 2
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ySr6uiYGrQFnXZ6RtWUaAG2q1cI=/0x40:768x472/800x0/images/Le-Senat-le-21-juillet-2026-a-Paris-2355100.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/front-national/le-rassemblement-national-obtient-pour-la-premiere-fois-un-poste-de-vice-president-du-senat-avec-ses-allies-de-l-udr_AD-202610060729.html",
-    "article_id": "068789211545"
-   },
-   "id": 62,
-   "section": "institutions",
-   "reviewed_at": "2026-10-07T16:06:12+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.5,
-   "sources": [
-    {
-     "id": "068789211545",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Le Rassemblement national obtient pour la première fois un poste de vice-président du Sénat avec ses alliés de l'UDR",
-     "url": "https://www.bfmtv.com/politique/front-national/le-rassemblement-national-obtient-pour-la-premiere-fois-un-poste-de-vice-president-du-senat-avec-ses-allies-de-l-udr_AD-202610060729.html",
-     "published_at": "2026-10-06T15:29:14+00:00",
-     "snippet": "Après sa percée aux dernières élections sénatoriales, le Rassemblement national fait une entrée inédite dans les instances du Sénat. D'après la composition du Bureau ratifiée ce mardi 6 octobre, le parti obtient un poste de vice-président avec ses alliés de l'Union des droites pour la République."
-    },
-    {
-     "id": "1c66ebef5c2b",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le Rassemblement national fait son entrée dans les instances du Sénat, une première dans l'histoire de la Ve République",
-     "url": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-rassemblement-national-fait-son-entree-dans-les-instances-du-senat-une-premiere-dans-l-histoire-de-la-ve-republique_8225143.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-06T14:40:05+00:00",
-     "snippet": "Le sénateur RN du Pas-de-Calais Christopher Szczurek occupera un poste de vice-président de la Haute assemblée à tour de rôle avec deux autres groupes."
     }
    ]
   }
