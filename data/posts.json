@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T14:24:49+00:00",
+ "generated_at": "2026-10-10T14:25:58+00:00",
  "posts": [
   {
    "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
@@ -84,12 +84,12 @@
    },
    "social_requested": "2026-10-10T14:21:30+00:00",
    "id": 82,
-   "section": "presidentielle",
+   "section": "institutions",
    "reviewed_at": "2026-10-10T14:21:32+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 28.93,
+   "score": 28.91,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -180,6 +180,631 @@
      "url": "https://www.leparisien.fr/elections/presidentielle/primaire-du-ps-apres-une-cyberattaque-le-vote-en-ligne-prolonge-jusqua-dimanche-18-heures-09-10-2026-6TLNLEA5JRAOBDDQG7E5PK2EIY.php",
      "published_at": "2026-10-09T18:54:03+00:00",
      "snippet": ""
+    },
+    {
+     "id": "fff528d9bb9f",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
+     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
+     "published_at": "2026-10-09T17:45:00+00:00",
+     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
+    }
+   ]
+  },
+  {
+   "headline": "Attal et Mélenchon se défient par meetings interposés : Parcoursup et colère lycéenne au cœur de l'échange",
+   "chapo": "Ce week-end, Gabriel Attal tient un meeting à Lyon samedi 10 octobre et Jean-Luc Mélenchon un autre à Clermont-Ferrand dimanche. Le chef de La France insoumise juge son rival « personnellement responsable » d'une partie de la révolte lycéenne à cause de Parcoursup ; Gabriel Attal lui répond par un message très dur.",
+   "points": [
+    {
+     "text": "Un meeting samedi à Lyon pour Gabriel Attal, un autre dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon : la région Auvergne-Rhône-Alpes sert de scène à un affrontement à distance, que les deux candidats assument, entre leurs programmes.",
+     "sources": [
+      "805c6a40f4d2",
+      "4961abc0c541"
+     ]
+    },
+    {
+     "text": "Dans un entretien aux journaux du groupe Ebra, Jean-Luc Mélenchon accuse Gabriel Attal d'être « personnellement responsable » d'une partie de la révolte lycéenne, parce qu'il « a été le rapporteur de la loi créant Parcoursup ».",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Il lui reproche d'avoir affirmé que Parcoursup ne provoquerait aucune exclusion : « Comment en arrive-t-on alors à 100.000 bacheliers sans débouché? ». Gabriel Attal a été ministre de l'Éducation nationale de juillet 2023 à janvier 2024 ; selon le chef de La France insoumise, devenu ministre, « qu'a-t-il fait pour les corriger? Rien ».",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon dit que Parcoursup « sera un marqueur de la présidentielle », car ses « inventeurs », Gabriel Attal et Édouard Philippe, sont « tous les deux candidats ». Il voit « un plan délibéré » derrière ces réformes : « la marchandisation de l'éducation et du savoir ». Les partis de gauche promettent d'abroger la plateforme.",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Gabriel Attal répond sur X : « Du vent, des cris, @JLMelenchon érige la démagogie en projet politique. 0 solution, 100 % bordélisation. Derrière les postures de LFI se cache une seule réalité : la sélection par l'échec pour toute une génération. Votre cynisme est une insulte à l'avenir de notre jeunesse. »",
+     "sources": [
+      "4961abc0c541"
+     ]
+    },
+    {
+     "text": "L'entourage de Gabriel Attal explique qu'il y aura à Lyon « une partie consacrée à La France insoumise », car il a toujours dit que ses adversaires étaient Jean-Luc Mélenchon et Marine Le Pen. Son discours sera axé sur l'éducation, avec « un nouveau pacte pour la jeunesse, autour de droits et de devoirs ». Il veut se démarquer de LFI qui « instrumentalise » la jeunesse et du Rassemblement national qui « l'essentialise ».",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "La France insoumise revendique sa proximité avec les jeunes. Manuel Bompard annonce plus de 400.000 parrainages citoyens pour Jean-Luc Mélenchon, dont 30 % de 18 à 24 ans et 30 % de 25 à 34 ans parmi les 20.000 derniers, et promet de donner « la parole à des voix lycéennes » à Clermont-Ferrand.",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "Selon l'étude Mentalo, menée par l'Inserm et l'Université Paris-Cité auprès de 20.000 jeunes de 11 à 24 ans, Parcoursup est associée à « une forte diminution » du bien-être mental pour 70 % des jeunes. La plateforme est jugée opaque et discriminatoire par les jeunes, rapporte BFMTV.",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Le calendrier se poursuit : le Congrès du Rassemblement national aura lieu les 25 et 26 octobre, la convention de La France insoumise le 7 novembre, et le mouvement ira « confronter Édouard Philippe dans sa mairie » du Havre le 5 décembre. L'intersyndicale lycéenne appelle à une nouvelle journée de grève et de manifestation mardi 13 octobre.",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "Le Monde écrit qu'en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon.",
+     "sources": [
+      "fa810edc7956"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/attal-m%C3%A9lenchon.jpg?h=d1cb525d&itok=TCqL2BId",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
+    "article_id": "805c6a40f4d2",
+    "focus_x": 0.47,
+    "focus_y": 0.06703703703703703
+   },
+   "id": 84,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-10T14:24:43+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.99,
+   "sources": [
+    {
+     "id": "4961abc0c541",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : \"0 solution, 100 % bordélisation\", Attal répond à Mélenchon qui l'a accusé d'être \"personnellement responsable\" d'une partie de la révolte lycéenne",
+     "url": "https://www.ladepeche.fr/2026/10/10/direct-presidentielle-2027-cible-par-une-cyberattaque-le-vote-du-premier-tour-de-la-primaire-sociale-democrate-est-prolonge-jusqua-dimanche-18-h-13594458.php",
+     "published_at": "2026-10-10T12:30:21+00:00",
+     "snippet": "Suivez l'actualité politique de ce samedi 10 octobre 2026 en direct sur ladepeche.fr"
+    },
+    {
+     "id": "805c6a40f4d2",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: ce week-end, Gabriel Attal et Jean-Luc Mélenchon se défient par meetings interposés",
+     "url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
+     "published_at": "2026-10-10T14:12:20+00:00",
+     "snippet": "Par Maxence Kagni Anne-Charlotte Dusseaulx, le Samedi 10 octobre 2026 à 08:20 Un meeting samedi à Lyon pour Gabriel Attal, un meeting dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon. La région Auvergne-Rhône-Alpes sera ce week-end le théâtre d'un affrontement à distance entre les deux candidats à l'élection présidentielle, qui assument leur volonté de confronter leurs programmes. D'un côté, Gabriel Attal à Lyon samedi ; de l'autre, Jean-Luc Mélenchon à Clermont-Ferrand dimanche. Les deux candidats à l'élection présidentielle vont mettre en scène leur face-à-face ce week-end. \"Il y aura une"
+    },
+    {
+     "id": "e000dc7df590",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
+     "published_at": "2026-10-09T17:55:54+00:00",
+     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
+    },
+    {
+     "id": "fa810edc7956",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l’affrontement avec Jean-Luc Mélenchon pour relancer sa campagne",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
+     "published_at": "2026-10-10T05:00:18+00:00",
+     "snippet": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée."
+    }
+   ]
+  },
+  {
+   "headline": "Lycées : comment les 3 000 profs remplaçants seront déployés, Parcoursup « perfectible », Matignon mise sur les vacances",
+   "chapo": "Une semaine après l'annonce du ministre Édouard Geffray, les questions portent sur le déploiement des 3 024 professeurs remplaçants, sur l'avenir de Parcoursup et sur la suite du mouvement lycéen. L'intersyndicale appelle à une nouvelle journée de mobilisation mardi 13 octobre ; le gouvernement veut tenir jusqu'aux vacances, le 17 octobre.",
+   "points": [
+    {
+     "text": "Le plan d'urgence comprend 3 024 professeurs remplaçants, l'autorisation donnée aux recteurs de recruter « quelques centaines » de contractuels supplémentaires, et « plusieurs centaines de milliers d'heures supplémentaires » prises par anticipation sur le budget 2027 du pacte enseignant. Avec tout cela, dit le ministre vendredi à Cachan, « on tutoiera probablement les 4 000 équivalents temps plein ».",
+     "sources": [
+      "4ec4edc453b2"
+     ]
+    },
+    {
+     "text": "Pourquoi ne pas les avoir mobilisés plus tôt ? Il existe 10 000 titulaires sur zone de remplacement, dont tous ne sont pas affectés en début d'année, quand les arrêts maladie sont encore limités, et les rectorats en gardent une partie en réserve. Ces enseignants auraient peut-être été « affectés dans trois semaines ou dans un mois », a expliqué le ministre.",
+     "sources": [
+      "4ec4edc453b2"
+     ]
+    },
+    {
+     "text": "Bruno Bobkiewicz (SNPDEN-Unsa, syndicat des personnels de direction) interroge sur franceinfo : « Pourquoi ne l'a-t-on pas fait avant ? ». Son syndicat avait relevé à la rentrée qu'il manquait au moins un enseignant « dans 65 % des établissements ».",
+     "sources": [
+      "4ec4edc453b2"
+     ]
+    },
+    {
+     "text": "Élisabeth Allain-Moreno (SE-Unsa) pointe « les difficultés pour gérer les remplacements par les services des rectorats qui sont déficitaires en termes de personnel ». Le ministre compte sur un logiciel dopé à l'intelligence artificielle, qui géolocalise les enseignants remplaçants et évalue leur temps de transport.",
+     "sources": [
+      "4ec4edc453b2"
+     ]
+    },
+    {
+     "text": "La Croix note que les absences non remplacées sont l'une des principales revendications des lycéens, mobilisés depuis plus de trois semaines, et que l'annonce a laissé les syndicats dubitatifs.",
+     "sources": [
+      "4cc8c1f3d58b"
+     ]
+    },
+    {
+     "text": "Sur Parcoursup, le Premier ministre Sébastien Lecornu veut « rendre Parcoursup plus transparent et intelligible » : « Tout ce qu'on peut corriger, de bonne foi, nous le corrigerons ». La ministre Sabrina Roubache dit : « Il faut perfectionner Parcoursup », et le ministre Philippe Baptiste : « Il faut faire évoluer l'outil », tout en s'opposant à sa suppression.",
+     "sources": [
+      "f47d20a6f31b"
+     ]
+    },
+    {
+     "text": "Sur la plateforme de concertation ouverte par le gouvernement, la question des emplois du temps arrive en tête des premières contributions, devant Parcoursup et l'interdiction des téléphones portables, d'après une synthèse nationale des premières dizaines de milliers de contributions rapportée par Le Monde.",
+     "sources": [
+      "a22f4930d14a"
+     ]
+    },
+    {
+     "text": "Édouard Geffray met en garde : si Parcoursup est abrogé sans système de remplacement, on reviendrait à « quelque chose qui comporte des risques très sérieux d'assignation sociale et territoriale ». À l'inverse, les Insoumis, « comme tous les partis de gauche », promettent d'abroger la plateforme, selon BFMTV.",
+     "sources": [
+      "f47d20a6f31b",
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Dans une tribune publiée par L'Humanité, Rodolphe Portolès, conseiller régional d'Occitanie, écrit que le gouvernement appelle à rénover les établissements tout en prévoyant, selon lui, de réduire de 5,4 milliards d'euros les dotations aux collectivités territoriales. Il défend de dégager de nouvelles recettes « en faisant davantage contribuer les grandes fortunes et les grandes entreprises ».",
+     "sources": [
+      "4eb100f40404"
+     ]
+    },
+    {
+     "text": "Le gouvernement espère faire retomber la pression avant les vacances de la Toussaint. L'intersyndicale appelle à un regain de mobilisation mardi 13 octobre, mais Matignon veut tenir jusqu'au 17 octobre, début des congés scolaires, selon Europe 1. Il y avait moins de blocages et de violences vendredi.",
+     "sources": [
+      "6536608082cc"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://i.la-croix.com/x/2026/10/09/2557650-le-ministre-de-l-education-nationale-edouard-geffr.jpg",
+    "source": "La Croix",
+    "article_url": "https://www.la-croix.com/societe/d-ou-viennent-les-3-000-professeurs-remplacants-annonces-par-le-ministre-de-leducation-nationale-20261010",
+    "article_id": "4cc8c1f3d58b",
+    "focus_x": 0.5133333333333333,
+    "focus_y": 0.07324691550835546
+   },
+   "id": 85,
+   "section": "institutions",
+   "reviewed_at": "2026-10-10T14:24:49+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.99,
+   "sources": [
+    {
+     "id": "4cc8c1f3d58b",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "D’où viennent les 3 000 professeurs remplaçants annoncés par le ministre de l’éducation nationale ?",
+     "url": "https://www.la-croix.com/societe/d-ou-viennent-les-3-000-professeurs-remplacants-annonces-par-le-ministre-de-leducation-nationale-20261010",
+     "published_at": "2026-10-10T10:43:43+00:00",
+     "snippet": "Édouard Geffray, le ministre de l’éducation nationale, a annoncé le déploiement de 3 000 professeurs remplaçants, sans toutefois préciser si leurs zones d’affectation et leurs matières correspondaient aux besoins des établissements les plus en tension. Explications."
+    },
+    {
+     "id": "4eb100f40404",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Oui, les collectivités territoriales doivent rénover les lycées. Mais avec quel argent, M. le premier ministre ?",
+     "url": "https://www.humanite.fr/en-debat/lycees/oui-les-collectivites-territoriales-doivent-renover-les-lycees-mais-avec-quel-argent-m-le-premier-ministre",
+     "published_at": "2026-10-09T13:05:06+00:00",
+     "snippet": "Alors que Sébastien Lecornu appelle à rénover les établissements scolaires, son gouvernement prévoit de réduire de 5,4 milliards d’euros les dotations aux collectivités territoriales. L’urgence est de rompre avec les politiques d’austérité et de dégager de nouvelles recettes en faisant davantage contribuer les grandes fortunes et les grandes entreprises. Par Rodolphe Portolès, conseiller régional d’Occitanie, président de la commission Éducation, Orientation et Jeunesse."
+    },
+    {
+     "id": "4ec4edc453b2",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Éducation. Crise des lycées : comment seront déployés les 3 000 profs remplaçants promis par le gouvernement ?",
+     "url": "https://www.leprogres.fr/education/2026/10/09/crise-des-lycees-comment-seront-deployes-les-3-000-profs-remplacants-promis-par-le-gouvernement",
+     "published_at": "2026-10-09T18:01:00+00:00",
+     "snippet": "Première mesure pour répondre à la colère des lycéens, le plan d’urgence du ministre Édouard Geffray pour remplacer les professeurs absents suscite des interrogations."
+    },
+    {
+     "id": "6536608082cc",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisation lycéenne : le gouvernement mise sur les vacances pour éviter l’enlisement",
+     "url": "https://www.europe1.fr/politique/mobilisation-lyceenne-le-gouvernement-mise-sur-les-vacances-pour-eviter-lenlisement-1134737?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-09T19:04:00+00:00",
+     "snippet": "Après plusieurs jours de mobilisation lycéenne, le gouvernement espère faire retomber la pression avant les vacances de la Toussaint. L’intersyndicale appelle à un regain de mobilisation mardi 13 octobre, mais Matignon veut tenir jusqu’au 17 octobre, date du début des congés scolaires. Moins de blocages ce vendredi, moins de violences aussi. Mais le mouvement lycéen n’est pas terminé. Après plusieurs jours de mobilisation, l’intersyndicale appelle déjà à un regain de mobilisation mardi prochain, le 13 octobre. Les manifestations lycéennes pourraient donc de nouveau s’inviter à la une de l’actu"
+    },
+    {
+     "id": "a22f4930d14a",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Mobilisation lycéenne : les premières surprises de la plateforme de concertation",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/mobilisation-lyceenne-les-premieres-surprises-de-la-plateforme-de-concertation_6790617_823448.html",
+     "published_at": "2026-10-09T16:50:40+00:00",
+     "snippet": "La question des emplois du temps arrive en tête, devant Parcoursup et l’interdiction des téléphones portables, d’après une synthèse nationale des premières dizaines de milliers de contributions postées sur la plateforme ouverte par le gouvernement."
+    },
+    {
+     "id": "e000dc7df590",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
+     "published_at": "2026-10-09T17:55:54+00:00",
+     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
+    },
+    {
+     "id": "f47d20a6f31b",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Parcoursup : face à la mobilisation des lycéens, le gouvernement ouvre la voie à une réforme",
+     "url": "https://lcp.fr/actualites/parcoursup-face-a-la-mobilisation-des-lyceens-le-gouvernement-ouvre-la-voie-a-une",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Maxence Kagni , le Jeudi 8 octobre 2026 à 12:54 Dans le sillage de Sébastien Lecornu, qui promet de \"rendre Parcoursup plus transparent et intelligible\", plusieurs ministres évoquent une réforme de la plateforme d'inscription à l'Université, qui concentre de nombreuses critiques dans le cadre de la mobilisation lycéenne. Parcoursup va-t-il être réformé sous la pression des lycéens ? Depuis quelques jours, les ministres multiplient les déclarations visant à promettre une amélioration de la plateforme d'inscription à l'université, qui effectue une sélection des élèves dans des conditions par"
+    }
+   ]
+  },
+  {
+   "headline": "Budget 2027 : la partie « recettes » rejetée en commission, débat dans l'hémicycle dès mardi 13 octobre",
+   "chapo": "Vendredi 9 octobre, la commission des finances de l'Assemblée a largement rejeté la première partie du budget 2027, consacrée aux recettes, par 31 voix contre 3 et 2 abstentions. Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre, à partir de la version initiale du gouvernement.",
+   "points": [
+    {
+     "text": "La commission des finances a rejeté la partie « recettes » du projet de loi de finances pour 2027 par 31 voix contre, 3 pour et 2 abstentions. Les oppositions fustigent la copie du gouvernement de Sébastien Lecornu ; l'essentiel du camp gouvernemental déplore les amendements ajoutés par les oppositions.",
+     "sources": [
+      "e6af1c1471a9",
+      "d77034c3327f",
+      "d7e46497ebf8",
+      "e88f8733367c"
+     ]
+    },
+    {
+     "text": "Cette première partie, largement amendée, n'a été votée que par les députés d'Ensemble pour la République. Paul Midy estime qu'il vaut « mieux un mauvais budget que pas de budget ». Horizons et la Droite républicaine ont voté contre, en dénonçant une « surenchère fiscale ». Les Démocrates se sont abstenus.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Le rapporteur général, Philippe Juvin (Droite républicaine), estime que les mesures adoptées ou rejetées cette semaine aggraveraient le déficit public d'environ 10 milliards d'euros. Ce serait un déficit de 5,35 à 5,4 % du produit intérieur brut, alors que l'exécutif vise 5 %. Il précise que ce n'est qu'un point d'étape.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Les députés ont notamment supprimé le coup de rabot sur l'abattement fiscal de 10 % des retraités, que le gouvernement voulait ramener de 4 439 à 3 000 euros, pour 1,4 milliard d'euros d'économies. Selon la Droite républicaine, la mesure aurait touché 4,6 millions de foyers.",
+     "sources": [
+      "e6af1c1471a9",
+      "0d2c29a247fa"
+     ]
+    },
+    {
+     "text": "Dans le débat du 7 octobre, Claire Marais-Beuil (RN) refuse que le redressement des comptes se fasse « sur le dos des retraités », et Aurélien Le Coq (La France insoumise) parle d'une mesure qui toucherait les retraités gagnant plus de 1 250 euros. Guillaume Kasbarian (Ensemble pour la République) défend le rabot et dénonce un « vent d'électoralisme primaire ».",
+     "sources": [
+      "0d2c29a247fa"
+     ]
+    },
+    {
+     "text": "À gauche, les quatre groupes critiquent la copie du gouvernement et déplorent une « nouvelle grande alliance entre le Rassemblement national et la macronie ». La socialiste Estelle Mercier dénonce une alliance qui a repoussé « toute forme d'imposition des grandes fortunes ». Aurélien Le Coq (La France insoumise) prévient qu'un recours au 49.3 entraînerait une censure de son groupe.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Paul Midy (Ensemble pour la République) répond que « comme l'année dernière, on a vu le Rassemblement national et La France insoumise voter main dans la main des dizaines de milliards d'euros de fiscalité supplémentaire sur les entreprises ». Jean-Philippe Tanguy (RN) dit que son groupe s'oppose à un budget sans économies : « Hors de question de voter des hausses d'impôts ».",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "L'économiste Gabriel Zucman avait jugé, après la présentation du budget, que le gouvernement protège les plus riches : « Nous avons avant tout un problème de recettes publiques et non de dépenses publiques ». Il défend sa taxe de 2 % sur les patrimoines de plus de 100 millions d'euros, qui rapporterait selon lui 20 milliards d'euros.",
+     "sources": [
+      "f25c9875ed33"
+     ]
+    },
+    {
+     "text": "Le Monde note que la mise à contribution des retraités et des collectivités a cristallisé les tensions, et Libération que même une partie de l'ancien « socle commun » a voté contre la copie du gouvernement, ce qui laisse présager des débats ardus pour Sébastien Lecornu.",
+     "sources": [
+      "d7e46497ebf8",
+      "e88f8733367c"
+     ]
+    },
+    {
+     "text": "Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre. Les députés repartiront de la copie initiale du gouvernement, et non de celle de la commission.",
+     "sources": [
+      "e6af1c1471a9",
+      "d77034c3327f",
+      "d7e46497ebf8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Assembl%C3%A9e%20nationale/riccardo_milani_hans_lucas_hans_lucas_via_afp_3_696a68b988630.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "d77034c3327f"
+   },
+   "id": 83,
+   "section": "institutions",
+   "reviewed_at": "2026-10-10T14:23:56+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 13.98,
+   "sources": [
+    {
+     "id": "0d2c29a247fa",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget 2027: les députés s'opposent au rabot de l'abattement fiscal des retraités lors des débats en commission",
+     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-s-opposent-au-rabot-de-l-abattement-fiscal-des-retraites-lors",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 7 octobre 2026 à 10:55 Les députés de la commission des finances se sont opposés à l'une des mesures phares de la copie budgétaire du gouvernement, ce mercredi 7 octobre. Ils ont décidé de supprimer l'abaissement à 3 000 euros du plafond de l'abattement de 10 % fiscal applicable aux pensions de retraite prévu par le projet de loi de finances pour 2027. C'est l'un des irritants du projet de budget pour 2027. À la recherche d'économies substantielles, le gouvernement a proposé de diminuer le plafond de l'abattement de 10 % sur l'impôt sur le revenu dont bénéfici"
+    },
+    {
+     "id": "d77034c3327f",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
+     "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-09T19:40:00+00:00",
+     "snippet": "Premier coup dur pour le gouvernement sur le budget 2027. Ce vendredi, les députés, réunis en commission, ont très largement rejeté la partie \"recettes\" du PLF. Le texte sera débattu mardi à l'Assemblée. Les députés ont très largement rejeté vendredi en commission la partie \"recettes\" du projet de budget de l'État pour 2027 du gouvernement, lors d'un premier tour de chauffe avant l'hémicycle mardi. Le vote a été quasiment unanime (31 contre, 3 pour, 2 abstentions), les oppositions fustigeant la copie gouvernementale et l'essentiel du camp gouvernemental déplorant les amendements ajoutés par le"
+    },
+    {
+     "id": "d7e46497ebf8",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’hémicycle",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
+     "published_at": "2026-10-09T20:49:41+00:00",
+     "snippet": "La mise à contribution des retraités et des collectivités a cristallisé les tensions lors des débats en commission sur le budget 2027. Les députés repartiront de la copie initiale dans l’hémicycle, dès mardi."
+    },
+    {
+     "id": "e6af1c1471a9",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget 2027: les députés rejettent en commission la partie \"recettes\" du projet de loi de finances",
+     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+     "published_at": "2026-10-10T14:12:20+00:00",
+     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 22:54 La commission des finances a largement rejeté, ce vendredi 9 octobre soir, la première partie du projet de loi de finances pour l'année 2027. Le texte doit désormais être examiné dans l'hémicycle de l'Assemblée nationale, à partir de mardi. La commission des finances rejette le partie \"recettes\" du projet de loi de finances pour l'année 2027 (31 voix \"contre\", 3 \"pour\", 2 abstentions), les oppositions fustigeant la copie présentée par Sébastien Lecornu et ses ministres, tandis que l'essentiel du camp gouvernemental a déploré les amendement"
+    },
+    {
+     "id": "e88f8733367c",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Budget 2027 : la partie «recettes» rejetée en commission, avant l’entrée dans le vif du sujet mardi dans l’hémicycle",
+     "url": "https://www.liberation.fr/economie/budget-2027-la-partie-recettes-rejetee-en-commission-avant-lentree-dans-le-vif-du-sujet-mardi-dans-lhemicycle-20261010_BMRJXUP5GVDNBL4EPFOHTIIE3U/",
+     "published_at": "2026-10-10T06:43:41+00:00",
+     "snippet": "Les députés des oppositions et même une partie du défunt «socle commun» ont voté contre la copie du gouvernement, dans un galop d’essai qui laisse présager des débats ardus pour Sébastien Lecornu."
+    },
+    {
+     "id": "f25c9875ed33",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Gabriel Zucman dénonce un projet de budget qui \"protège les milliardaires\"",
+     "url": "https://lcp.fr/actualites/gabriel-zucman-denonce-un-projet-de-budget-qui-protege-les-milliardaires-442793",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Raphaël Marchal , le Vendredi 2 octobre 2026 à 10:18 \"Vous êtes prêts à tout (...) avant de demander ne serait-ce qu’un centime à Bernard Arnault et aux milliardaires français\", a lancé l'économiste sur X, jeudi 1er octobre, après que le gouvernement a présenté sa copie budgétaire pour 2027. \"D'autres choix budgétaires sont devenus impératifs\", plaide Gabriel Zucman. La taxe qui porte son nom a largement agité les débats budgétaires l'année dernière. L'économiste Gabriel Zucman a réagi sur X au projet de budget du gouvernement dévoilé hier fustigeant une copie qui protège les plus riches. "
+    }
+   ]
+  },
+  {
+   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
+   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à dimanche 11 octobre à 18 h, après une prolongation du vote décidée en raison de l'attaque.",
+   "points": [
+    {
+     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e"
+     ]
+    },
+    {
+     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
+     "sources": [
+      "f6e5817baafb",
+      "6c21731f029e",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote, d'abord prévu jusqu'à samedi 20 h, a été prolongé jusqu'à dimanche 18 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
+     "sources": [
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "f5c8cc7a308d",
+      "fff528d9bb9f"
+     ]
+    },
+    {
+     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "a6a2dc35e0ba"
+     ]
+    },
+    {
+     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat est annoncé pour dimanche à 18 h 30, selon LCP.",
+     "sources": [
+      "024363e8ba85",
+      "f6e5817baafb",
+      "6c21731f029e",
+      "f5c8cc7a308d"
+     ]
+    },
+    {
+     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
+     "sources": [
+      "024363e8ba85"
+     ]
+    },
+    {
+     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
+     "sources": [
+      "7f3d9532dc29",
+      "9f694cefad33",
+      "0ab953af061b",
+      "5c8839f79a6c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "f6e5817baafb"
+   },
+   "id": 73,
+   "section": "institutions",
+   "reviewed_at": "2026-10-09T11:44:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.36,
+   "sources": [
+    {
+     "id": "024363e8ba85",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T09:26:54+00:00",
+     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
+    },
+    {
+     "id": "0ab953af061b",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
+     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
+     "published_at": "2026-10-09T10:29:32+00:00",
+     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
+    },
+    {
+     "id": "13611f0b1864",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
+     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
+     "published_at": "2026-10-09T09:29:23+00:00",
+     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
+    },
+    {
+     "id": "5c8839f79a6c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
+     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
+     "published_at": "2026-10-09T10:53:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6c21731f029e",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
+     "published_at": "2026-10-09T09:20:15+00:00",
+     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
+    },
+    {
+     "id": "7f3d9532dc29",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
+     "published_at": "2026-10-09T10:33:04+00:00",
+     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
+    },
+    {
+     "id": "9f694cefad33",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
+     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
+     "published_at": "2026-10-09T10:17:58+00:00",
+     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
+    },
+    {
+     "id": "a1a08d3e0428",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
+     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+     "published_at": "2026-10-09T14:28:56+00:00",
+     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
+    },
+    {
+     "id": "a6a2dc35e0ba",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
+     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
+    },
+    {
+     "id": "f5c8cc7a308d",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
+     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
+     "published_at": "2026-10-09T18:54:10+00:00",
+     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
+    },
+    {
+     "id": "f6e5817baafb",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T09:29:40+00:00",
+     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
     },
     {
      "id": "fff528d9bb9f",
@@ -406,631 +1031,6 @@
      "url": "https://www.mediapart.fr/journal/france/091026/ecrits-antisemites-sur-messenger-jordan-bardella-trahi-par-lui-meme",
      "published_at": "2026-10-09T09:09:10+00:00",
      "snippet": "«Mediapart» a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémites. Après les preuves techniques et les recoupements biographiques, Jordan Bardella se démasque involontairement."
-    }
-   ]
-  },
-  {
-   "headline": "Lycées : comment les 3 000 profs remplaçants seront déployés, Parcoursup « perfectible », Matignon mise sur les vacances",
-   "chapo": "Une semaine après l'annonce du ministre Édouard Geffray, les questions portent sur le déploiement des 3 024 professeurs remplaçants, sur l'avenir de Parcoursup et sur la suite du mouvement lycéen. L'intersyndicale appelle à une nouvelle journée de mobilisation mardi 13 octobre ; le gouvernement veut tenir jusqu'aux vacances, le 17 octobre.",
-   "points": [
-    {
-     "text": "Le plan d'urgence comprend 3 024 professeurs remplaçants, l'autorisation donnée aux recteurs de recruter « quelques centaines » de contractuels supplémentaires, et « plusieurs centaines de milliers d'heures supplémentaires » prises par anticipation sur le budget 2027 du pacte enseignant. Avec tout cela, dit le ministre vendredi à Cachan, « on tutoiera probablement les 4 000 équivalents temps plein ».",
-     "sources": [
-      "4ec4edc453b2"
-     ]
-    },
-    {
-     "text": "Pourquoi ne pas les avoir mobilisés plus tôt ? Il existe 10 000 titulaires sur zone de remplacement, dont tous ne sont pas affectés en début d'année, quand les arrêts maladie sont encore limités, et les rectorats en gardent une partie en réserve. Ces enseignants auraient peut-être été « affectés dans trois semaines ou dans un mois », a expliqué le ministre.",
-     "sources": [
-      "4ec4edc453b2"
-     ]
-    },
-    {
-     "text": "Bruno Bobkiewicz (SNPDEN-Unsa, syndicat des personnels de direction) interroge sur franceinfo : « Pourquoi ne l'a-t-on pas fait avant ? ». Son syndicat avait relevé à la rentrée qu'il manquait au moins un enseignant « dans 65 % des établissements ».",
-     "sources": [
-      "4ec4edc453b2"
-     ]
-    },
-    {
-     "text": "Élisabeth Allain-Moreno (SE-Unsa) pointe « les difficultés pour gérer les remplacements par les services des rectorats qui sont déficitaires en termes de personnel ». Le ministre compte sur un logiciel dopé à l'intelligence artificielle, qui géolocalise les enseignants remplaçants et évalue leur temps de transport.",
-     "sources": [
-      "4ec4edc453b2"
-     ]
-    },
-    {
-     "text": "La Croix note que les absences non remplacées sont l'une des principales revendications des lycéens, mobilisés depuis plus de trois semaines, et que l'annonce a laissé les syndicats dubitatifs.",
-     "sources": [
-      "4cc8c1f3d58b"
-     ]
-    },
-    {
-     "text": "Sur Parcoursup, le Premier ministre Sébastien Lecornu veut « rendre Parcoursup plus transparent et intelligible » : « Tout ce qu'on peut corriger, de bonne foi, nous le corrigerons ». La ministre Sabrina Roubache dit : « Il faut perfectionner Parcoursup », et le ministre Philippe Baptiste : « Il faut faire évoluer l'outil », tout en s'opposant à sa suppression.",
-     "sources": [
-      "f47d20a6f31b"
-     ]
-    },
-    {
-     "text": "Sur la plateforme de concertation ouverte par le gouvernement, la question des emplois du temps arrive en tête des premières contributions, devant Parcoursup et l'interdiction des téléphones portables, d'après une synthèse nationale des premières dizaines de milliers de contributions rapportée par Le Monde.",
-     "sources": [
-      "a22f4930d14a"
-     ]
-    },
-    {
-     "text": "Édouard Geffray met en garde : si Parcoursup est abrogé sans système de remplacement, on reviendrait à « quelque chose qui comporte des risques très sérieux d'assignation sociale et territoriale ». À l'inverse, les Insoumis, « comme tous les partis de gauche », promettent d'abroger la plateforme, selon BFMTV.",
-     "sources": [
-      "f47d20a6f31b",
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Dans une tribune publiée par L'Humanité, Rodolphe Portolès, conseiller régional d'Occitanie, écrit que le gouvernement appelle à rénover les établissements tout en prévoyant, selon lui, de réduire de 5,4 milliards d'euros les dotations aux collectivités territoriales. Il défend de dégager de nouvelles recettes « en faisant davantage contribuer les grandes fortunes et les grandes entreprises ».",
-     "sources": [
-      "4eb100f40404"
-     ]
-    },
-    {
-     "text": "Le gouvernement espère faire retomber la pression avant les vacances de la Toussaint. L'intersyndicale appelle à un regain de mobilisation mardi 13 octobre, mais Matignon veut tenir jusqu'au 17 octobre, début des congés scolaires, selon Europe 1. Il y avait moins de blocages et de violences vendredi.",
-     "sources": [
-      "6536608082cc"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://i.la-croix.com/x/2026/10/09/2557650-le-ministre-de-l-education-nationale-edouard-geffr.jpg",
-    "source": "La Croix",
-    "article_url": "https://www.la-croix.com/societe/d-ou-viennent-les-3-000-professeurs-remplacants-annonces-par-le-ministre-de-leducation-nationale-20261010",
-    "article_id": "4cc8c1f3d58b",
-    "focus_x": 0.5133333333333333,
-    "focus_y": 0.07324691550835546
-   },
-   "id": 85,
-   "section": "institutions",
-   "reviewed_at": "2026-10-10T14:24:49+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.0,
-   "sources": [
-    {
-     "id": "4cc8c1f3d58b",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "D’où viennent les 3 000 professeurs remplaçants annoncés par le ministre de l’éducation nationale ?",
-     "url": "https://www.la-croix.com/societe/d-ou-viennent-les-3-000-professeurs-remplacants-annonces-par-le-ministre-de-leducation-nationale-20261010",
-     "published_at": "2026-10-10T10:43:43+00:00",
-     "snippet": "Édouard Geffray, le ministre de l’éducation nationale, a annoncé le déploiement de 3 000 professeurs remplaçants, sans toutefois préciser si leurs zones d’affectation et leurs matières correspondaient aux besoins des établissements les plus en tension. Explications."
-    },
-    {
-     "id": "4eb100f40404",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Oui, les collectivités territoriales doivent rénover les lycées. Mais avec quel argent, M. le premier ministre ?",
-     "url": "https://www.humanite.fr/en-debat/lycees/oui-les-collectivites-territoriales-doivent-renover-les-lycees-mais-avec-quel-argent-m-le-premier-ministre",
-     "published_at": "2026-10-09T13:05:06+00:00",
-     "snippet": "Alors que Sébastien Lecornu appelle à rénover les établissements scolaires, son gouvernement prévoit de réduire de 5,4 milliards d’euros les dotations aux collectivités territoriales. L’urgence est de rompre avec les politiques d’austérité et de dégager de nouvelles recettes en faisant davantage contribuer les grandes fortunes et les grandes entreprises. Par Rodolphe Portolès, conseiller régional d’Occitanie, président de la commission Éducation, Orientation et Jeunesse."
-    },
-    {
-     "id": "4ec4edc453b2",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Éducation. Crise des lycées : comment seront déployés les 3 000 profs remplaçants promis par le gouvernement ?",
-     "url": "https://www.leprogres.fr/education/2026/10/09/crise-des-lycees-comment-seront-deployes-les-3-000-profs-remplacants-promis-par-le-gouvernement",
-     "published_at": "2026-10-09T18:01:00+00:00",
-     "snippet": "Première mesure pour répondre à la colère des lycéens, le plan d’urgence du ministre Édouard Geffray pour remplacer les professeurs absents suscite des interrogations."
-    },
-    {
-     "id": "6536608082cc",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisation lycéenne : le gouvernement mise sur les vacances pour éviter l’enlisement",
-     "url": "https://www.europe1.fr/politique/mobilisation-lyceenne-le-gouvernement-mise-sur-les-vacances-pour-eviter-lenlisement-1134737?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-09T19:04:00+00:00",
-     "snippet": "Après plusieurs jours de mobilisation lycéenne, le gouvernement espère faire retomber la pression avant les vacances de la Toussaint. L’intersyndicale appelle à un regain de mobilisation mardi 13 octobre, mais Matignon veut tenir jusqu’au 17 octobre, date du début des congés scolaires. Moins de blocages ce vendredi, moins de violences aussi. Mais le mouvement lycéen n’est pas terminé. Après plusieurs jours de mobilisation, l’intersyndicale appelle déjà à un regain de mobilisation mardi prochain, le 13 octobre. Les manifestations lycéennes pourraient donc de nouveau s’inviter à la une de l’actu"
-    },
-    {
-     "id": "a22f4930d14a",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Mobilisation lycéenne : les premières surprises de la plateforme de concertation",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/mobilisation-lyceenne-les-premieres-surprises-de-la-plateforme-de-concertation_6790617_823448.html",
-     "published_at": "2026-10-09T16:50:40+00:00",
-     "snippet": "La question des emplois du temps arrive en tête, devant Parcoursup et l’interdiction des téléphones portables, d’après une synthèse nationale des premières dizaines de milliers de contributions postées sur la plateforme ouverte par le gouvernement."
-    },
-    {
-     "id": "e000dc7df590",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
-     "published_at": "2026-10-09T17:55:54+00:00",
-     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
-    },
-    {
-     "id": "f47d20a6f31b",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Parcoursup : face à la mobilisation des lycéens, le gouvernement ouvre la voie à une réforme",
-     "url": "https://lcp.fr/actualites/parcoursup-face-a-la-mobilisation-des-lyceens-le-gouvernement-ouvre-la-voie-a-une",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Maxence Kagni , le Jeudi 8 octobre 2026 à 12:54 Dans le sillage de Sébastien Lecornu, qui promet de \"rendre Parcoursup plus transparent et intelligible\", plusieurs ministres évoquent une réforme de la plateforme d'inscription à l'Université, qui concentre de nombreuses critiques dans le cadre de la mobilisation lycéenne. Parcoursup va-t-il être réformé sous la pression des lycéens ? Depuis quelques jours, les ministres multiplient les déclarations visant à promettre une amélioration de la plateforme d'inscription à l'université, qui effectue une sélection des élèves dans des conditions par"
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : la partie « recettes » rejetée en commission, débat dans l'hémicycle dès mardi 13 octobre",
-   "chapo": "Vendredi 9 octobre, la commission des finances de l'Assemblée a largement rejeté la première partie du budget 2027, consacrée aux recettes, par 31 voix contre 3 et 2 abstentions. Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre, à partir de la version initiale du gouvernement.",
-   "points": [
-    {
-     "text": "La commission des finances a rejeté la partie « recettes » du projet de loi de finances pour 2027 par 31 voix contre, 3 pour et 2 abstentions. Les oppositions fustigent la copie du gouvernement de Sébastien Lecornu ; l'essentiel du camp gouvernemental déplore les amendements ajoutés par les oppositions.",
-     "sources": [
-      "e6af1c1471a9",
-      "d77034c3327f",
-      "d7e46497ebf8",
-      "e88f8733367c"
-     ]
-    },
-    {
-     "text": "Cette première partie, largement amendée, n'a été votée que par les députés d'Ensemble pour la République. Paul Midy estime qu'il vaut « mieux un mauvais budget que pas de budget ». Horizons et la Droite républicaine ont voté contre, en dénonçant une « surenchère fiscale ». Les Démocrates se sont abstenus.",
-     "sources": [
-      "e6af1c1471a9"
-     ]
-    },
-    {
-     "text": "Le rapporteur général, Philippe Juvin (Droite républicaine), estime que les mesures adoptées ou rejetées cette semaine aggraveraient le déficit public d'environ 10 milliards d'euros. Ce serait un déficit de 5,35 à 5,4 % du produit intérieur brut, alors que l'exécutif vise 5 %. Il précise que ce n'est qu'un point d'étape.",
-     "sources": [
-      "e6af1c1471a9"
-     ]
-    },
-    {
-     "text": "Les députés ont notamment supprimé le coup de rabot sur l'abattement fiscal de 10 % des retraités, que le gouvernement voulait ramener de 4 439 à 3 000 euros, pour 1,4 milliard d'euros d'économies. Selon la Droite républicaine, la mesure aurait touché 4,6 millions de foyers.",
-     "sources": [
-      "e6af1c1471a9",
-      "0d2c29a247fa"
-     ]
-    },
-    {
-     "text": "Dans le débat du 7 octobre, Claire Marais-Beuil (RN) refuse que le redressement des comptes se fasse « sur le dos des retraités », et Aurélien Le Coq (La France insoumise) parle d'une mesure qui toucherait les retraités gagnant plus de 1 250 euros. Guillaume Kasbarian (Ensemble pour la République) défend le rabot et dénonce un « vent d'électoralisme primaire ».",
-     "sources": [
-      "0d2c29a247fa"
-     ]
-    },
-    {
-     "text": "À gauche, les quatre groupes critiquent la copie du gouvernement et déplorent une « nouvelle grande alliance entre le Rassemblement national et la macronie ». La socialiste Estelle Mercier dénonce une alliance qui a repoussé « toute forme d'imposition des grandes fortunes ». Aurélien Le Coq (La France insoumise) prévient qu'un recours au 49.3 entraînerait une censure de son groupe.",
-     "sources": [
-      "e6af1c1471a9"
-     ]
-    },
-    {
-     "text": "Paul Midy (Ensemble pour la République) répond que « comme l'année dernière, on a vu le Rassemblement national et La France insoumise voter main dans la main des dizaines de milliards d'euros de fiscalité supplémentaire sur les entreprises ». Jean-Philippe Tanguy (RN) dit que son groupe s'oppose à un budget sans économies : « Hors de question de voter des hausses d'impôts ».",
-     "sources": [
-      "e6af1c1471a9"
-     ]
-    },
-    {
-     "text": "L'économiste Gabriel Zucman avait jugé, après la présentation du budget, que le gouvernement protège les plus riches : « Nous avons avant tout un problème de recettes publiques et non de dépenses publiques ». Il défend sa taxe de 2 % sur les patrimoines de plus de 100 millions d'euros, qui rapporterait selon lui 20 milliards d'euros.",
-     "sources": [
-      "f25c9875ed33"
-     ]
-    },
-    {
-     "text": "Le Monde note que la mise à contribution des retraités et des collectivités a cristallisé les tensions, et Libération que même une partie de l'ancien « socle commun » a voté contre la copie du gouvernement, ce qui laisse présager des débats ardus pour Sébastien Lecornu.",
-     "sources": [
-      "d7e46497ebf8",
-      "e88f8733367c"
-     ]
-    },
-    {
-     "text": "Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre. Les députés repartiront de la copie initiale du gouvernement, et non de celle de la commission.",
-     "sources": [
-      "e6af1c1471a9",
-      "d77034c3327f",
-      "d7e46497ebf8"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Assembl%C3%A9e%20nationale/riccardo_milani_hans_lucas_hans_lucas_via_afp_3_696a68b988630.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "d77034c3327f"
-   },
-   "id": 83,
-   "section": "institutions",
-   "reviewed_at": "2026-10-10T14:23:56+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 13.99,
-   "sources": [
-    {
-     "id": "0d2c29a247fa",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget 2027: les députés s'opposent au rabot de l'abattement fiscal des retraités lors des débats en commission",
-     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-s-opposent-au-rabot-de-l-abattement-fiscal-des-retraites-lors",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Raphaël Marchal , le Mercredi 7 octobre 2026 à 10:55 Les députés de la commission des finances se sont opposés à l'une des mesures phares de la copie budgétaire du gouvernement, ce mercredi 7 octobre. Ils ont décidé de supprimer l'abaissement à 3 000 euros du plafond de l'abattement de 10 % fiscal applicable aux pensions de retraite prévu par le projet de loi de finances pour 2027. C'est l'un des irritants du projet de budget pour 2027. À la recherche d'économies substantielles, le gouvernement a proposé de diminuer le plafond de l'abattement de 10 % sur l'impôt sur le revenu dont bénéfici"
-    },
-    {
-     "id": "d77034c3327f",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
-     "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-09T19:40:00+00:00",
-     "snippet": "Premier coup dur pour le gouvernement sur le budget 2027. Ce vendredi, les députés, réunis en commission, ont très largement rejeté la partie \"recettes\" du PLF. Le texte sera débattu mardi à l'Assemblée. Les députés ont très largement rejeté vendredi en commission la partie \"recettes\" du projet de budget de l'État pour 2027 du gouvernement, lors d'un premier tour de chauffe avant l'hémicycle mardi. Le vote a été quasiment unanime (31 contre, 3 pour, 2 abstentions), les oppositions fustigeant la copie gouvernementale et l'essentiel du camp gouvernemental déplorant les amendements ajoutés par le"
-    },
-    {
-     "id": "d7e46497ebf8",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’hémicycle",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
-     "published_at": "2026-10-09T20:49:41+00:00",
-     "snippet": "La mise à contribution des retraités et des collectivités a cristallisé les tensions lors des débats en commission sur le budget 2027. Les députés repartiront de la copie initiale dans l’hémicycle, dès mardi."
-    },
-    {
-     "id": "e6af1c1471a9",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget 2027: les députés rejettent en commission la partie \"recettes\" du projet de loi de finances",
-     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
-     "published_at": "2026-10-10T14:12:20+00:00",
-     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 22:54 La commission des finances a largement rejeté, ce vendredi 9 octobre soir, la première partie du projet de loi de finances pour l'année 2027. Le texte doit désormais être examiné dans l'hémicycle de l'Assemblée nationale, à partir de mardi. La commission des finances rejette le partie \"recettes\" du projet de loi de finances pour l'année 2027 (31 voix \"contre\", 3 \"pour\", 2 abstentions), les oppositions fustigeant la copie présentée par Sébastien Lecornu et ses ministres, tandis que l'essentiel du camp gouvernemental a déploré les amendement"
-    },
-    {
-     "id": "e88f8733367c",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Budget 2027 : la partie «recettes» rejetée en commission, avant l’entrée dans le vif du sujet mardi dans l’hémicycle",
-     "url": "https://www.liberation.fr/economie/budget-2027-la-partie-recettes-rejetee-en-commission-avant-lentree-dans-le-vif-du-sujet-mardi-dans-lhemicycle-20261010_BMRJXUP5GVDNBL4EPFOHTIIE3U/",
-     "published_at": "2026-10-10T06:43:41+00:00",
-     "snippet": "Les députés des oppositions et même une partie du défunt «socle commun» ont voté contre la copie du gouvernement, dans un galop d’essai qui laisse présager des débats ardus pour Sébastien Lecornu."
-    },
-    {
-     "id": "f25c9875ed33",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Gabriel Zucman dénonce un projet de budget qui \"protège les milliardaires\"",
-     "url": "https://lcp.fr/actualites/gabriel-zucman-denonce-un-projet-de-budget-qui-protege-les-milliardaires-442793",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Raphaël Marchal , le Vendredi 2 octobre 2026 à 10:18 \"Vous êtes prêts à tout (...) avant de demander ne serait-ce qu’un centime à Bernard Arnault et aux milliardaires français\", a lancé l'économiste sur X, jeudi 1er octobre, après que le gouvernement a présenté sa copie budgétaire pour 2027. \"D'autres choix budgétaires sont devenus impératifs\", plaide Gabriel Zucman. La taxe qui porte son nom a largement agité les débats budgétaires l'année dernière. L'économiste Gabriel Zucman a réagi sur X au projet de budget du gouvernement dévoilé hier fustigeant une copie qui protège les plus riches. "
-    }
-   ]
-  },
-  {
-   "headline": "Attal et Mélenchon se défient par meetings interposés : Parcoursup et colère lycéenne au cœur de l'échange",
-   "chapo": "Ce week-end, Gabriel Attal tient un meeting à Lyon samedi 10 octobre et Jean-Luc Mélenchon un autre à Clermont-Ferrand dimanche. Le chef de La France insoumise juge son rival « personnellement responsable » d'une partie de la révolte lycéenne à cause de Parcoursup ; Gabriel Attal lui répond par un message très dur.",
-   "points": [
-    {
-     "text": "Un meeting samedi à Lyon pour Gabriel Attal, un autre dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon : la région Auvergne-Rhône-Alpes sert de scène à un affrontement à distance, que les deux candidats assument, entre leurs programmes.",
-     "sources": [
-      "805c6a40f4d2",
-      "4961abc0c541"
-     ]
-    },
-    {
-     "text": "Dans un entretien aux journaux du groupe Ebra, Jean-Luc Mélenchon accuse Gabriel Attal d'être « personnellement responsable » d'une partie de la révolte lycéenne, parce qu'il « a été le rapporteur de la loi créant Parcoursup ».",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Il lui reproche d'avoir affirmé que Parcoursup ne provoquerait aucune exclusion : « Comment en arrive-t-on alors à 100.000 bacheliers sans débouché? ». Gabriel Attal a été ministre de l'Éducation nationale de juillet 2023 à janvier 2024 ; selon le chef de La France insoumise, devenu ministre, « qu'a-t-il fait pour les corriger? Rien ».",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon dit que Parcoursup « sera un marqueur de la présidentielle », car ses « inventeurs », Gabriel Attal et Édouard Philippe, sont « tous les deux candidats ». Il voit « un plan délibéré » derrière ces réformes : « la marchandisation de l'éducation et du savoir ». Les partis de gauche promettent d'abroger la plateforme.",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Gabriel Attal répond sur X : « Du vent, des cris, @JLMelenchon érige la démagogie en projet politique. 0 solution, 100 % bordélisation. Derrière les postures de LFI se cache une seule réalité : la sélection par l'échec pour toute une génération. Votre cynisme est une insulte à l'avenir de notre jeunesse. »",
-     "sources": [
-      "4961abc0c541"
-     ]
-    },
-    {
-     "text": "L'entourage de Gabriel Attal explique qu'il y aura à Lyon « une partie consacrée à La France insoumise », car il a toujours dit que ses adversaires étaient Jean-Luc Mélenchon et Marine Le Pen. Son discours sera axé sur l'éducation, avec « un nouveau pacte pour la jeunesse, autour de droits et de devoirs ». Il veut se démarquer de LFI qui « instrumentalise » la jeunesse et du Rassemblement national qui « l'essentialise ».",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "La France insoumise revendique sa proximité avec les jeunes. Manuel Bompard annonce plus de 400.000 parrainages citoyens pour Jean-Luc Mélenchon, dont 30 % de 18 à 24 ans et 30 % de 25 à 34 ans parmi les 20.000 derniers, et promet de donner « la parole à des voix lycéennes » à Clermont-Ferrand.",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "Selon l'étude Mentalo, menée par l'Inserm et l'Université Paris-Cité auprès de 20.000 jeunes de 11 à 24 ans, Parcoursup est associée à « une forte diminution » du bien-être mental pour 70 % des jeunes. La plateforme est jugée opaque et discriminatoire par les jeunes, rapporte BFMTV.",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Le calendrier se poursuit : le Congrès du Rassemblement national aura lieu les 25 et 26 octobre, la convention de La France insoumise le 7 novembre, et le mouvement ira « confronter Édouard Philippe dans sa mairie » du Havre le 5 décembre. L'intersyndicale lycéenne appelle à une nouvelle journée de grève et de manifestation mardi 13 octobre.",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "Le Monde écrit qu'en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon.",
-     "sources": [
-      "fa810edc7956"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/attal-m%C3%A9lenchon.jpg?h=d1cb525d&itok=TCqL2BId",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
-    "article_id": "805c6a40f4d2",
-    "focus_x": 0.47,
-    "focus_y": 0.06703703703703703
-   },
-   "id": 84,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-10T14:24:43+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 12.0,
-   "sources": [
-    {
-     "id": "4961abc0c541",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : \"0 solution, 100 % bordélisation\", Attal répond à Mélenchon qui l'a accusé d'être \"personnellement responsable\" d'une partie de la révolte lycéenne",
-     "url": "https://www.ladepeche.fr/2026/10/10/direct-presidentielle-2027-cible-par-une-cyberattaque-le-vote-du-premier-tour-de-la-primaire-sociale-democrate-est-prolonge-jusqua-dimanche-18-h-13594458.php",
-     "published_at": "2026-10-10T12:30:21+00:00",
-     "snippet": "Suivez l'actualité politique de ce samedi 10 octobre 2026 en direct sur ladepeche.fr"
-    },
-    {
-     "id": "805c6a40f4d2",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Présidentielle: ce week-end, Gabriel Attal et Jean-Luc Mélenchon se défient par meetings interposés",
-     "url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
-     "published_at": "2026-10-10T14:12:20+00:00",
-     "snippet": "Par Maxence Kagni Anne-Charlotte Dusseaulx, le Samedi 10 octobre 2026 à 08:20 Un meeting samedi à Lyon pour Gabriel Attal, un meeting dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon. La région Auvergne-Rhône-Alpes sera ce week-end le théâtre d'un affrontement à distance entre les deux candidats à l'élection présidentielle, qui assument leur volonté de confronter leurs programmes. D'un côté, Gabriel Attal à Lyon samedi ; de l'autre, Jean-Luc Mélenchon à Clermont-Ferrand dimanche. Les deux candidats à l'élection présidentielle vont mettre en scène leur face-à-face ce week-end. \"Il y aura une"
-    },
-    {
-     "id": "e000dc7df590",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
-     "published_at": "2026-10-09T17:55:54+00:00",
-     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
-    },
-    {
-     "id": "fa810edc7956",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l’affrontement avec Jean-Luc Mélenchon pour relancer sa campagne",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
-     "published_at": "2026-10-10T05:00:18+00:00",
-     "snippet": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée."
-    }
-   ]
-  },
-  {
-   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
-   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à dimanche 11 octobre à 18 h, après une prolongation du vote décidée en raison de l'attaque.",
-   "points": [
-    {
-     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
-     "sources": [
-      "f6e5817baafb",
-      "6c21731f029e",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote, d'abord prévu jusqu'à samedi 20 h, a été prolongé jusqu'à dimanche 18 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
-     "sources": [
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "f5c8cc7a308d",
-      "fff528d9bb9f"
-     ]
-    },
-    {
-     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "a6a2dc35e0ba"
-     ]
-    },
-    {
-     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat est annoncé pour dimanche à 18 h 30, selon LCP.",
-     "sources": [
-      "024363e8ba85",
-      "f6e5817baafb",
-      "6c21731f029e",
-      "f5c8cc7a308d"
-     ]
-    },
-    {
-     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
-     "sources": [
-      "024363e8ba85"
-     ]
-    },
-    {
-     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
-     "sources": [
-      "7f3d9532dc29",
-      "9f694cefad33",
-      "0ab953af061b",
-      "5c8839f79a6c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "f6e5817baafb"
-   },
-   "id": 73,
-   "section": "institutions",
-   "reviewed_at": "2026-10-09T11:44:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.37,
-   "sources": [
-    {
-     "id": "024363e8ba85",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T09:26:54+00:00",
-     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
-    },
-    {
-     "id": "0ab953af061b",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
-     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
-     "published_at": "2026-10-09T10:29:32+00:00",
-     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
-    },
-    {
-     "id": "13611f0b1864",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
-     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
-     "published_at": "2026-10-09T09:29:23+00:00",
-     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
-    },
-    {
-     "id": "5c8839f79a6c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
-     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
-     "published_at": "2026-10-09T10:53:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6c21731f029e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
-     "published_at": "2026-10-09T09:20:15+00:00",
-     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
-    },
-    {
-     "id": "7f3d9532dc29",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
-     "published_at": "2026-10-09T10:33:04+00:00",
-     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
-    },
-    {
-     "id": "9f694cefad33",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
-     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
-     "published_at": "2026-10-09T10:17:58+00:00",
-     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
-    },
-    {
-     "id": "a1a08d3e0428",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
-     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
-     "published_at": "2026-10-09T14:28:56+00:00",
-     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
-    },
-    {
-     "id": "a6a2dc35e0ba",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
-     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
-    },
-    {
-     "id": "f5c8cc7a308d",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
-     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
-     "published_at": "2026-10-09T18:54:10+00:00",
-     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
-    },
-    {
-     "id": "f6e5817baafb",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T09:29:40+00:00",
-     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
-    },
-    {
-     "id": "fff528d9bb9f",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
-     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
-     "published_at": "2026-10-09T17:45:00+00:00",
-     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
     }
    ]
   },
