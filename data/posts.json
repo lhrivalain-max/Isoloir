@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T08:07:39+00:00",
+ "generated_at": "2026-10-10T14:16:55+00:00",
  "posts": [
   {
    "headline": "Édouard Philippe à « L'Heure de vérité » : ordonnances en juillet 2027, allocation familiale unique, retraites à 65 ans",
@@ -106,7 +106,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.27,
+   "score": 9.02,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -219,186 +219,6 @@
    ]
   },
   {
-   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
-   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à samedi soir.",
-   "points": [
-    {
-     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
-     "sources": [
-      "f6e5817baafb",
-      "6c21731f029e",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote se déroule sur deux jours, jusqu'à samedi soir vers 20 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
-     "sources": [
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428"
-     ]
-    },
-    {
-     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "a6a2dc35e0ba"
-     ]
-    },
-    {
-     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat devrait être connu samedi soir.",
-     "sources": [
-      "024363e8ba85",
-      "f6e5817baafb",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
-     "sources": [
-      "024363e8ba85"
-     ]
-    },
-    {
-     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
-     "sources": [
-      "7f3d9532dc29",
-      "9f694cefad33",
-      "0ab953af061b",
-      "5c8839f79a6c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "f6e5817baafb"
-   },
-   "id": 73,
-   "section": "institutions",
-   "reviewed_at": "2026-10-09T11:44:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 12.98,
-   "sources": [
-    {
-     "id": "024363e8ba85",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T09:26:54+00:00",
-     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
-    },
-    {
-     "id": "0ab953af061b",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
-     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
-     "published_at": "2026-10-09T10:29:32+00:00",
-     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
-    },
-    {
-     "id": "13611f0b1864",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
-     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
-     "published_at": "2026-10-09T09:29:23+00:00",
-     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
-    },
-    {
-     "id": "5c8839f79a6c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
-     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
-     "published_at": "2026-10-09T10:53:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6c21731f029e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
-     "published_at": "2026-10-09T09:20:15+00:00",
-     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
-    },
-    {
-     "id": "7f3d9532dc29",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
-     "published_at": "2026-10-09T10:33:04+00:00",
-     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
-    },
-    {
-     "id": "9f694cefad33",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
-     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
-     "published_at": "2026-10-09T10:17:58+00:00",
-     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
-    },
-    {
-     "id": "a1a08d3e0428",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
-     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
-     "published_at": "2026-10-09T14:28:56+00:00",
-     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
-    },
-    {
-     "id": "a6a2dc35e0ba",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
-     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
-    },
-    {
-     "id": "f6e5817baafb",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T09:29:40+00:00",
-     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
-    }
-   ]
-  },
-  {
    "headline": "Affaire Bardella : nouvelles accusations de Mediapart et du Canard enchaîné, l'intéressé dément et porte plainte",
    "chapo": "Depuis dix jours, Mediapart accuse Jordan Bardella d'avoir tenu des propos antisémites en 2013, à 17 ans. Vendredi 9 octobre, le site et Le Canard enchaîné publient de nouveaux éléments. Le président du RN conteste farouchement les faits, et son entourage dénonce des manipulations.",
    "points": [
@@ -494,7 +314,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.86,
+   "score": 10.22,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -616,6 +436,207 @@
    ]
   },
   {
+   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
+   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à dimanche 11 octobre à 18 h, après une prolongation du vote décidée en raison de l'attaque.",
+   "points": [
+    {
+     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e"
+     ]
+    },
+    {
+     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
+     "sources": [
+      "f6e5817baafb",
+      "6c21731f029e",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864"
+     ]
+    },
+    {
+     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote, d'abord prévu jusqu'à samedi 20 h, a été prolongé jusqu'à dimanche 18 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
+     "sources": [
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "f5c8cc7a308d",
+      "fff528d9bb9f"
+     ]
+    },
+    {
+     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
+     "sources": [
+      "f6e5817baafb",
+      "13611f0b1864",
+      "6c21731f029e",
+      "a1a08d3e0428",
+      "a6a2dc35e0ba"
+     ]
+    },
+    {
+     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat est annoncé pour dimanche à 18 h 30, selon LCP.",
+     "sources": [
+      "024363e8ba85",
+      "f6e5817baafb",
+      "6c21731f029e",
+      "f5c8cc7a308d"
+     ]
+    },
+    {
+     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
+     "sources": [
+      "024363e8ba85"
+     ]
+    },
+    {
+     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
+     "sources": [
+      "7f3d9532dc29",
+      "9f694cefad33",
+      "0ab953af061b",
+      "5c8839f79a6c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "f6e5817baafb"
+   },
+   "id": 73,
+   "section": "institutions",
+   "reviewed_at": "2026-10-09T11:44:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.4,
+   "sources": [
+    {
+     "id": "024363e8ba85",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-09T09:26:54+00:00",
+     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
+    },
+    {
+     "id": "0ab953af061b",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
+     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
+     "published_at": "2026-10-09T10:29:32+00:00",
+     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
+    },
+    {
+     "id": "13611f0b1864",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
+     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
+     "published_at": "2026-10-09T09:29:23+00:00",
+     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
+    },
+    {
+     "id": "5c8839f79a6c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
+     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
+     "published_at": "2026-10-09T10:53:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6c21731f029e",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
+     "published_at": "2026-10-09T09:20:15+00:00",
+     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
+    },
+    {
+     "id": "7f3d9532dc29",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
+     "published_at": "2026-10-09T10:33:04+00:00",
+     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
+    },
+    {
+     "id": "9f694cefad33",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
+     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
+     "published_at": "2026-10-09T10:17:58+00:00",
+     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
+    },
+    {
+     "id": "a1a08d3e0428",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
+     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
+     "published_at": "2026-10-09T14:28:56+00:00",
+     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
+    },
+    {
+     "id": "a6a2dc35e0ba",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
+     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
+    },
+    {
+     "id": "f5c8cc7a308d",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
+     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
+     "published_at": "2026-10-09T18:54:10+00:00",
+     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
+    },
+    {
+     "id": "f6e5817baafb",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-09T09:29:40+00:00",
+     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
+    },
+    {
+     "id": "fff528d9bb9f",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
+     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
+     "published_at": "2026-10-09T17:45:00+00:00",
+     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
+    }
+   ]
+  },
+  {
    "headline": "Lecornu : décisions pour les lycéens fin octobre, 10 millions de barils de gazole débloqués",
    "chapo": "Mercredi 7 octobre, dans une allocution depuis Matignon, le Premier ministre Sébastien Lecornu a promis de présenter les premières décisions pour répondre à la mobilisation des lycéens à la fin du mois d'octobre, et annoncé la mise à disposition de 10 millions de barils de gazole pour faire baisser les prix à la pompe.",
    "points": [
@@ -690,7 +711,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.91,
+   "score": 5.45,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -873,7 +894,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.53,
+   "score": 5.05,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -1024,7 +1045,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.42,
+   "score": 4.04,
    "sources": [
     {
      "id": "047109bba606",
@@ -1141,7 +1162,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 3.03,
    "sources": [
     {
      "id": "637cd573a004",
@@ -1235,7 +1256,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.3,
+   "score": 2.12,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -1328,7 +1349,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.3,
+   "score": 2.12,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -1356,245 +1377,6 @@
      "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
      "published_at": "2026-10-07T16:58:30+00:00",
      "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
-    }
-   ]
-  },
-  {
-   "headline": "Économies : le RN vise 140 milliards, Lisnard 200. D'où, comment, pour quoi faire",
-   "chapo": "Le RN a présenté le 6 octobre un contre-budget qui promet 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. David Lisnard annonce au moins 200 milliards, dont 80 dès la première année ; ses chiffres viennent du site de Nouvelle Énergie. Le RN prévoit des baisses de TVA et de taxes et de nouvelles dépenses, et vise un déficit sous 3 % du PIB dès 2030. Lisnard annonce une règle de partage fixée à l'avance, en pourcentages.",
-   "points": [
-    {
-     "text": "Le RN annonce 140 milliards d'euros d'économies nettes en 2032 par rapport à 2026. Jean-Philippe Tanguy avait parlé de 125 milliards d'ici 2032 sur CNews, le dimanche précédent. Marine Le Pen justifie les 140 par la hausse des taux et le budget que proposent Sébastien Lecornu et Emmanuel Macron. Le RN vise aussi un déficit sous 3 % du PIB dès 2030, contre 5,4 % attendus par le gouvernement en 2026. Selon Nouvelle Énergie, Lisnard annonce au moins 200 milliards d'euros de baisse de dépense en trajectoire, dont 80 dès la première année. Son objectif de départ était de 300 milliards : il dit ne pas encore pouvoir documenter entièrement les 100 restants et continuer d'y travailler.",
-     "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61"
-     ]
-    },
-    {
-     "text": "Côté RN, l'État absorberait 24 milliards d'euros d'efforts : révision générale des crédits, fin de leur reconduction automatique et suppression d'agences publiques. Tanguy défend d'abord l'interdiction des dépenses reconduites automatiquement, qui représentent selon lui des dizaines de milliards. La Sécurité sociale subirait une compression de 20 milliards. La priorité nationale sur les prestations et le durcissement de l'accès pour les étrangers rapporteraient 12 à 15 milliards la première année et 29 milliards à terme selon Planet (d'après l'AFP).",
-     "sources": [
-      "01e4e7ff14f4",
-      "a1c54071d453",
-      "8b8ce9581b2e"
-     ]
-    },
-    {
-     "text": "Sur la contribution française à l'Union européenne, les montants diffèrent. Planet (d'après l'AFP) parle d'une réduction de 9 milliards d'euros. TIME écrit que le RN veut la limiter à 5 milliards, contre près de 29 milliards prévus cette année. Le RN compte aussi sur le prélèvement à la source de la TVA : Marine Le Pen dit qu'il permettrait de récupérer environ 26 milliards d'euros de fraude, selon TIME. Les effectifs publics baisseraient : certains agents seraient réaffectés, d'autres ne seraient pas remplacés à leur départ en retraite. Le RN veut aussi supprimer la quasi-totalité des agences, une allocation sociale unique et une forte baisse de l'aide publique au développement.",
-     "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "8b8ce9581b2e"
-     ]
-    },
-    {
-     "text": "Côté dépenses, le RN veut ramener la TVA de 20 % à 5,5 % sur l'électricité, le gaz et les carburants. CNews ajoute le bois et le fioul, et la suppression de la TVA sur les produits de première nécessité. L'allègement fiscal annoncé est de 30 milliards d'euros sur le quinquennat, avec la suppression de plus de 120 taxes. Pour les familles : une subvention pour le troisième enfant à l'horizon 2031, une part fiscale pleine dès le deuxième enfant et le permis de conduire gratuit pour les jeunes éligibles à partir de 2028. Pour la santé : 2 milliards de plus pour les proches aidants et 1,4 milliard pour les soins dentaires. Sur les retraites, Le Pen annonce 15 à 20 milliards d'économies à terme, sur des mesures qui seront détaillées dans les semaines à venir. Elle veut aussi un « pilier de capitalisation » et ramener l'âge de départ à 62 ans, voire 60.",
-     "sources": [
-      "01e4e7ff14f4",
-      "8b8ce9581b2e",
-      "9e0518d47528"
-     ]
-    },
-    {
-     "text": "Le ministre de l'Économie Roland Lescure estime qu'« avec un budget Le Pen, on rêverait en couleurs et on raserait gratis ». Il juge certaines propositions inapplicables. Sur le plan juridique, Planet (d'après l'AFP) écrit que la priorité nationale sur les allocations contrevient aux principes constitutionnels d'égalité et au droit européen. Réduire la contribution à Bruxelles exigerait de renégocier les traités, sans garantie d'aboutir.",
-     "sources": [
-      "9e0518d47528",
-      "01e4e7ff14f4"
-     ]
-    },
-    {
-     "text": "Lisnard désigne d'abord environ 1 200 agences et opérateurs créés en vingt-cinq ans. Ils ont recruté de 420 000 à 440 000 agents selon ses chiffrages successifs et dépensent de 83 à 100 milliards d'euros. Il ne veut pas tous les supprimer, car un État de droit a besoin d'autorités indépendantes. Il vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer, et les agences régionales de santé. Il propose aussi de cesser de surtransposer les directives européennes, et de confier à une équipe placée sous l'autorité du président ou du premier ministre le retrait des normes existantes.",
-     "sources": [
-      "2535be60bb08",
-      "5ca8662ed393",
-      "54385708659c"
-     ]
-    },
-    {
-     "text": "Sur 1 700 milliards d'euros de dépense publique, environ 900 milliards sont sociaux, rappelle Lisnard. Il cite le plafonnement de certains revenus sociaux et la désindexation des retraites au-delà d'un seuil, de l'ordre de 2 000 euros mensuels. Il avance aussi son bilan à Cannes : effectifs réduits de près de 20 % et dette baissée de 82 millions d'euros. Il ne présente pas ce résultat comme transposable tel quel, une ville n'ayant ni prestations sociales ni assurance maladie à sa charge.",
-     "sources": [
-      "2535be60bb08",
-      "5ca8662ed393",
-      "6ccfce1a2ac3"
-     ]
-    },
-    {
-     "text": "Selon Nouvelle Énergie, les 200 milliards sont répartis d'avance : 120 milliards rendus aux actifs en salaire net (60 %), 40 milliards en baisse des impôts de production (20 %) et 40 milliards pour la dette ou la modernisation de l'État (20 %). La baisse des impôts de production commence par la suppression de la C3S, une contribution assise sur le chiffre d'affaires, due même par une entreprise qui perd de l'argent. Les 80 milliards de la première année suivent la même clé. Lisnard refuse d'augmenter l'impôt pour réduire la dette : il cite le record de prélèvements et 92 % de dette portée par l'État et les comptes sociaux. Sa règle interdit que les économies financent de nouvelles dépenses.",
-     "sources": [
-      "247565372a61",
-      "6ccfce1a2ac3"
-     ]
-    },
-    {
-     "text": "Ce qu'ils ont en commun : tous deux s'attaquent aux agences de l'État (le RN en supprimerait la quasi-totalité, Lisnard vise les directions régionales de l'environnement, les directions départementales des territoires et de la mer et les agences régionales de santé) et à ses effectifs (des départs en retraite non remplacés chez le RN, moins de règles donc moins de bureaucrates chez Lisnard). Tous deux touchent à la fiscalité : le RN supprime plus de 120 taxes, Lisnard commence par la C3S. Et tous deux annoncent que la dépense baisse d'abord : Lisnard refuse d'augmenter l'impôt pour réduire la dette, le RN annonce 30 milliards d'allègement fiscal.",
-     "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61",
-      "5ca8662ed393",
-      "54385708659c",
-      "6ccfce1a2ac3"
-     ]
-    },
-    {
-     "text": "Ce qui les sépare. Retraites : le RN veut revenir à 62 ans, voire 60, et ajouter une part de capitalisation, avec 15 à 20 milliards d'économies à trouver ; Lisnard cite la désindexation des retraites au-delà d'environ 2 000 euros par mois. Immigration : le RN chiffre la priorité nationale à 12-15 milliards dès la première année et 29 à terme ; Lisnard n'en fait pas un poste d'économies. Europe : le RN réduit la contribution de la France à l'Union européenne ; Lisnard veut cesser de surtransposer les directives. Destination de l'argent : le RN baisse la TVA sur l'énergie et finance des mesures famille et santé ; Lisnard fixe 60 % en salaire net, 20 % en baisse d'impôts de production, 20 % pour la dette. Enfin, le RN a détaillé son plan en conférence de presse le 6 octobre ; Lisnard s'appuie sur des annonces de campagne reprises sur le site de son parti, et personne n'a vérifié ces chiffres de l'extérieur.",
-     "sources": [
-      "01e4e7ff14f4",
-      "9e0518d47528",
-      "6dab58c97222",
-      "a1c54071d453",
-      "8b8ce9581b2e",
-      "b9bb0603a91b",
-      "2535be60bb08",
-      "247565372a61",
-      "5ca8662ed393",
-      "54385708659c",
-      "6ccfce1a2ac3"
-     ]
-    }
-   ],
-   "perspectives": [
-    {
-     "source": "c0b636b0ba19",
-     "position": "critique",
-     "text": "Libération juge le projet du RN « au doigt mouillé » et relève que ses cibles sont les étrangers, la fonction publique et l'Union européenne."
-    }
-   ],
-   "coverage": {
-    "articles": 12,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://www.planet.fr/sites/default/files/2026-10/ABACA_1021750_020-20261006145219-8d76af6b.jpg",
-    "source": "Planet.fr (d'après l'AFP)",
-    "article_url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
-    "article_id": "01e4e7ff14f4"
-   },
-   "id": 55,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-07T08:14:09+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 6.51,
-   "sources": [
-    {
-     "id": "01e4e7ff14f4",
-     "name": "Planet.fr (d'après l'AFP)",
-     "kind": "media",
-     "title": "Marine Le Pen a présenté son « contre-budget » pour dégager 140 milliards d'euros d'économies",
-     "url": "https://www.planet.fr/marine-le-pen-a-presente-son-contre-budget-pour-degager-140-milliards-deuros-deconomies.2999682.817022.html",
-     "published_at": "2026-10-06T14:52:00+00:00",
-     "snippet": "Marine Le Pen a présenté son \"contre-budget\" pour dégager 140 milliards d'euros d'économies | Planet.fr Aller au contenu principal Accueil\nabacapress © Szwarc Henri/ABACA Le Rassemblement national a dévoilé sa feuille de route budgétaire, promettant 140 milliards d'euros d'économies nettes d'ici 203"
-    },
-    {
-     "id": "247565372a61",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que ferait David Lisnard des 200 milliards d’économies annoncés ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue ferait David Lisnard des 200 milliards d’économies annoncés ? | Nouvelle ÉnergieAller au contenuQue ferait David Lisnard des 200 milliards d’écon"
-    },
-    {
-     "id": "2535be60bb08",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Quelles économies propose David Lisnard ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "Quelles économies propose David Lisnard ? | Nouvelle ÉnergieAller au contenuQuelles économies propose David Lisnard ?Trois gisements nommés : les quelque 1 200 agences et opérateurs publics créés en vingt-cinq ans, la bureaucratie et les procédures, et la dépense sociale, par le plafonnement de cert"
-    },
-    {
-     "id": "54385708659c",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que veut faire David Lisnard contre l’excès de normes ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-veut-faire-david-lisnard-contre-l-exces-de-normes/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nQue veut faire David Lisnard contre l’excès de normes ? | Nouvelle ÉnergieAller au contenuQue veut faire David Lisnard contre l’excès de normes ?Reti"
-    },
-    {
-     "id": "5ca8662ed393",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Où passe l’argent public selon David Lisnard ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/ou-passe-l-argent-public-selon-david-lisnard/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "[Page du site officiel de Nouvelle Énergie, consultée le 2026-10-06 ; chiffres annoncés par David Lisnard, avec les dates de ses interventions citées]\nOù passe l’argent public selon David Lisnard ? | Nouvelle ÉnergieAller au contenuOù passe l’argent public selon David Lisnard ?Dans la bureaucratie, "
-    },
-    {
-     "id": "6ccfce1a2ac3",
-     "name": "Nouvelle Énergie (site officiel)",
-     "kind": "institution",
-     "title": "Que propose David Lisnard face à la dette publique ?",
-     "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-a-la-dette-publique/",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "snippet": "Que propose David Lisnard face à la dette publique ? | Nouvelle ÉnergieAller au contenuQue propose David Lisnard face à la dette publique ?Baisser la dépense, jamais augmenter l’impôt : 80 milliards d’euros dès la première année, au moins 200 milliards en trajectoire, dont 40 affectés au désendettem"
-    },
-    {
-     "id": "6dab58c97222",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Marine Le Pen et le RN présentent leur contre-budget, avec « 140 milliards d’euros nets d’économies » en cinq ans",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_6788959_823448.html",
-     "published_at": "2026-10-06T08:26:03+00:00",
-     "snippet": "Cette trajectoire budgétaire « sera confortée par l’adoption d’une règle d’or budgétaire constitutionnelle adoptée par référendum », a précisé la cheffe de file du parti d’extrême droite."
-    },
-    {
-     "id": "8b8ce9581b2e",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national",
-     "url": "https://www.cnews.fr/france/2026-10-06/baisse-de-la-tva-preference-nationale-simplification-administrative-que-contient",
-     "published_at": "2026-10-06T10:43:00+00:00",
-     "snippet": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national Par CNEWS Publié le 06/10/2026 à 10:43 - Mis à jour le 06/10/2026 à 11:24 Ajouter CNEWS à mes favoris Google Lors d’une conférence de presse, la présidente des députés "
-    },
-    {
-     "id": "9e0518d47528",
-     "name": "TIME France",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget",
-     "url": "https://www.timefrance.fr/politique/presidentielle-2027-marine-le-pen-devoile-son-contre-budget/",
-     "published_at": "2026-10-06T12:00:00+00:00",
-     "snippet": "Présidentielle 2027 : Marine Le Pen dévoile son contre-budget Aller au contenu Politique\n« 140 milliards d’euros nets d’économies » d’ici à 2032 : c’est l’objectif annoncé par Marine Le Pen lors de la présentation du contre-budget du Rassemblement national. Entre chiffres et graphiques, la candidate"
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": "Le Rassemblement national présente ce mardi son contre-budget pour l’année 2027. Une trajectoire sur cinq ans qui a pour objectif de réaliser 125 milliards d'euros d’économies. Un parti en quête de crédibilité sur les sujets économiques. Alors que le projet de loi de finances (PLF) et le projet de financement de la Sécurité sociale (PLFSS) doivent être présentés en commission à l’Assemblée nationale ce mardi, le Rassemblement national esquisse, depuis le Palais-Bourbon, les grandes lignes de son contre-budget. Invité sur CNEWS ce dimanche, le député Jean-Philippe Tanguy, référent aux sujets éc"
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": "La candidate du RN à l’élection présidentielle a présenté ce mardi la trajectoire financière qu’elle entend viser si elle accède à l’Élysée en mai prochain, détaillant plusieurs mesures économiques."
-    },
-    {
-     "id": "c0b636b0ba19",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Le RN présente un contre-budget garanti avec trucages",
-     "url": "https://www.liberation.fr/economie/le-rn-presente-un-contre-budget-garanti-avec-trucages-20261006_7KPGHU5BYJFG7GZUH7FEHXM2TE/",
-     "published_at": "2026-10-06T17:55:24+00:00",
-     "snippet": "Marine Le Pen et Jordan Bardella ont exposé à la presse, ce mardi 6 octobre, le projet économique au doigt mouillé qui doit servir de base à sa campagne. Avec ses cibles habituelles : les étrangers, la fonction publique, l’Union européenne."
     }
    ]
   },
@@ -1663,7 +1445,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.27,
+   "score": 3.06,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -1772,7 +1554,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.73,
+   "score": 2.55,
    "sources": [
     {
      "id": "573133300860",
@@ -1874,7 +1656,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.45,
+   "score": 2.29,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -1902,110 +1684,6 @@
      "url": "https://www.lemonde.fr/politique/article/2026/10/07/red-bull-monster-energy-crazy-tiger-un-rapport-parlementaire-recommande-d-interdire-la-vente-de-boissons-energisantes-aux-moins-de-16-ans_6789568_823448.html",
      "published_at": "2026-10-07T08:13:41+00:00",
      "snippet": "Red Bull, Monster Energy, Crazy Tiger… la consommation de ces boissons « peut bel et bien engendrer des effets nocifs » chez les jeunes, souligne ce rapport, dévoilé mercredi et soumis à l’adoption de la commission des affaires sociales."
-    }
-   ]
-  },
-  {
-   "headline": "Lycéens : Nuñez et les députés LFI s'affrontent, Panot demande sa démission",
-   "chapo": "Dans la nuit du lundi 5 au mardi 6 octobre, le ministre de l'Intérieur Laurent Nuñez et des députées LFI se sont affrontés à l'Assemblée sur le maintien de l'ordre pendant la mobilisation lycéenne. Mathilde Panot, présidente du groupe LFI, a appelé à sa démission. Nuñez est auditionné ce mercredi 7 octobre à 15 h par la commission des lois.",
-   "points": [
-    {
-     "text": "L'échange a eu lieu pendant l'examen de la loi intégrale contre les violences sexuelles et sexistes. La députée LFI Sarah Legrain a dit vouloir que le ministre puisse « rendre des comptes » aux parlementaires. Elle a cité un lycéen au visage fracassé à Saint-Ouen-l'Aumône (Val-d'Oise), un policier de Perpignan et un policier de Metz.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    },
-    {
-     "text": "À Perpignan, un policier est accusé d'avoir tenu des propos racistes et d'avoir dit à une enseignante que ça lui plaisait de la toucher. À Metz, un policier est accusé d'avoir touché la poitrine et les cheveux d'une jeune femme maintenue au sol. Une enquête de l'IGPN a été ouverte dans l'affaire de Metz, selon RMC cité par LCP.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    },
-    {
-     "text": "Nuñez a promis de rendre des comptes sur sa façon de maintenir l'ordre public. Il a indiqué qu'une procédure disciplinaire est lancée dans l'affaire de Perpignan, « comme à chaque fois ». Il a aussi demandé aux élus LFI : « Vous, quand allez-vous rendre des comptes sur le fait que vous vous rendez sur les barrages lycéens pour les inciter à commettre des violences ? »",
-     "sources": [
-      "0ec36a23850e",
-      "ce91f6e32c8d"
-     ]
-    },
-    {
-     "text": "Interrogé par Danièle Obono (LFI), Nuñez a nié toute impunité dans la police. Il a lancé : « Arrêtez de vivre dans ces fantasmes de violences policières systémiques, de violences sexistes systémiques dans la police ». Il a dénoncé chez LFI une « détestation » de la police et de la gendarmerie.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    },
-    {
-     "text": "Nuñez a précisé sa doctrine. Pour lui, l'absence de retenue consisterait à ne pas intervenir face aux violences et aux dégradations, ce qu'il refuse. Il prône « la retenue dans la proportionnalité des interventions ». Il a cité un chiffre : plus de 6 000 interpellations pour seulement quelques saisines de l'IGPN.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    },
-    {
-     "text": "Caroline Yadan (apparentée Ensemble pour la République) a accusé LFI « d'instrumentaliser un texte sur les violences sexistes et sexuelles » et qualifié Jean-Luc Mélenchon de « gourou ». Clémentine Autain a regretté qu'elle puisse « déverser sa haine bien connue contre les insoumis ». Gabrielle Cathala (LFI) a critiqué le « spectacle » donné.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    },
-    {
-     "text": "Mathilde Panot a appelé à la démission de Nuñez. Selon elle, il permet « une répression jamais vue » des forces de l'ordre contre les lycéens. BFMTV titre sur ses mots « Il se déshonore » et « permet le pire ».",
-     "sources": [
-      "3b7932978ba3"
-     ]
-    },
-    {
-     "text": "Nuñez sera auditionné ce mercredi 7 octobre à 15 h par la commission des lois de l'Assemblée sur la mobilisation lycéenne.",
-     "sources": [
-      "0ec36a23850e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 2
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/max_650x650/public/2026-10/nunez%205%2010%2026.jpg?itok=JtUNFt4E",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/a-l-assemblee-la-mobilisation-lyceenne-enflamme-les-debats-laurent-nunez-promet-de",
-    "article_id": "0ec36a23850e",
-    "focus_x": 0.4766666666666667,
-    "focus_y": 0.08889094440847285
-   },
-   "id": 60,
-   "section": "institutions",
-   "reviewed_at": "2026-10-07T10:23:20+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.79,
-   "sources": [
-    {
-     "id": "0ec36a23850e",
-     "name": "LCP",
-     "kind": "media",
-     "title": "À l'Assemblée, la mobilisation lycéenne enflamme les débats, Laurent Nuñez promet de « rendre des comptes »",
-     "url": "https://lcp.fr/actualites/a-l-assemblee-la-mobilisation-lyceenne-enflamme-les-debats-laurent-nunez-promet-de",
-     "published_at": "2026-10-06T11:40:00+00:00",
-     "snippet": "Le ministre de l'Intérieur, Laurent Nuñez, a répondu dans l'hémicycle de l'Assemblée nationale, lundi 5 octobre au soir, à des députées de La France insoumise qui l'interrogeaient sur sa doctrine de maintien de l'ordre et l'action des forces de l'ordre dans le cadre de la mobilisation lycéenne, alor"
-    },
-    {
-     "id": "3b7932978ba3",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Il se déshonore\": Mathilde Panot appelle à la démission de Laurent Nuñez qui \"permet le pire\" face aux mobilisations des lycéens",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/il-se-deshonore-mathilde-panot-appelle-a-la-demission-de-laurent-nunez-qui-permet-le-pire-face-aux-mobilisations-des-lyceens_AN-202610060566.html",
-     "published_at": "2026-10-06T12:27:34+00:00",
-     "snippet": "La présidente du groupe La France insoumise à l'Assemblée nationale, Mathilde Panot, a appelé à la démission du ministre de l'Intérieur Laurent Nuñez estimant qu'il permettait \"une répression jamais vue\" des forces de l'ordre contre les lycéens."
-    },
-    {
-     "id": "ce91f6e32c8d",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Quand allez-vous rendre des comptes?\": la colère de Laurent Nuñez face aux députés de La France insoumise",
-     "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/video-quand-allez-vous-rendre-des-comptes-la-colere-de-laurent-nunez-face-aux-deputes-de-la-france-insoumise_VN-202610050921.html",
-     "published_at": "2026-10-05T21:12:24+00:00",
-     "snippet": "Le ministre de l'Intérieur, Laurent Nuñez, s'insurge contre les députés de La France insoumise, ce lundi 5 octobre à l'Assemblée nationale, à propos de la mobilisation lycéenne et de la lutte contre les violences sexuelles."
     }
    ]
   },
@@ -2076,7 +1754,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.64,
+   "score": 1.53,
    "sources": [
     {
      "id": "068789211545",
