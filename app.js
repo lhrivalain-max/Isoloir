@@ -228,7 +228,6 @@ function renderHero() {
   const hero = HERO[current]();
   const title = document.getElementById("hero-title");
   title.replaceChildren(hero.lead, el("span", { class: "mark", text: hero.mark }));
-  document.getElementById("hero-text").textContent = hero.text;
   document.getElementById("hero").classList.toggle("bare", current === "institutions");
   setCountdown(current === "presidentielle");
 }
