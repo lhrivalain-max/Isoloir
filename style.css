@@ -184,7 +184,8 @@ details.srcs li { margin-bottom: 10px; }
 .more[hidden] { display: none; }
 
 /* onglet Actualités : pas d'en-tête, le premier sujet monte */
-.hero.bare #hero-text { display: none; }
-.hero.bare { padding: 28px 0 0; }
+.hero #hero-text { display: none; }
+.hero { padding: 28px 0 0; }
+.hero h1 { margin: 0 0 16px; }
 .hero.bare h1 { margin: 0; }
-.hero.bare + .meta { margin-top: 18px; }
+.hero + .meta { margin-top: 18px; }
