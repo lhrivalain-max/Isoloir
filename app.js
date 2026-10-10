@@ -215,7 +215,7 @@ const HERO = {
   institutions: () => ({
     lead: "La politique, ",
     mark: "pour tous.",
-    text: "Chaque jour, quelques sujets d'actualité expliqués simplement, avec les sources à un clic pour te faire ta propre idée.",
+    text: "Les derniers récaps :",
   }),
   presidentielle: () => ({
     lead: "La présidentielle, ",
