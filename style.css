@@ -184,10 +184,10 @@ details.srcs li { margin-bottom: 10px; }
 .more[hidden] { display: none; }
 
 /* onglet Actualités : pas d'en-tête, le premier sujet monte */
-.hero #hero-text { display: none; }
 .hero { padding: 28px 0 0; }
 .hero h1 { margin: 0 0 16px; }
-.hero.bare h1 { margin: 0; }
+.hero h1 { margin: 0 0 10px; }
+.hero p { margin: 0 0 16px; }
 .hero + .meta { margin-top: 18px; }
 .cd-cap, .cd-cap[hidden] { display: none; }
 .countdown { margin-bottom: 0; }

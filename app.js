@@ -215,12 +215,12 @@ const HERO = {
   institutions: () => ({
     lead: "La politique, ",
     mark: "pour tous.",
-    text: "Les derniers récaps :",
+    text: "Les derniers récaps de l'actualité politique.",
   }),
   presidentielle: () => ({
     lead: "La présidentielle, ",
     mark: "pour tous.",
-    text: "La campagne vue par plusieurs médias, avec les sources à un clic. Le scrutin aura lieu les 18 avril et 2 mai 2027.",
+    text: "La campagne vue par plusieurs médias.",
   }),
 };
 
@@ -228,6 +228,7 @@ function renderHero() {
   const hero = HERO[current]();
   const title = document.getElementById("hero-title");
   title.replaceChildren(hero.lead, el("span", { class: "mark", text: hero.mark }));
+  document.getElementById("hero-text").textContent = hero.text;
   document.getElementById("hero").classList.toggle("bare", current === "institutions");
   setCountdown(current === "presidentielle");
 }
