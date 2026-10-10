@@ -1,6 +1,131 @@
 {
- "generated_at": "2026-10-10T14:25:58+00:00",
+ "generated_at": "2026-10-10T16:00:03+00:00",
  "posts": [
+  {
+   "headline": "Attal et Mélenchon se défient par meetings interposés : Parcoursup et colère lycéenne au cœur de l'échange",
+   "chapo": "Ce week-end, Gabriel Attal tient un meeting à Lyon samedi 10 octobre et Jean-Luc Mélenchon un autre à Clermont-Ferrand dimanche. Le chef de La France insoumise juge son rival « personnellement responsable » d'une partie de la révolte lycéenne à cause de Parcoursup ; Gabriel Attal lui répond par un message très dur.",
+   "points": [
+    {
+     "text": "Un meeting samedi à Lyon pour Gabriel Attal, un autre dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon : la région Auvergne-Rhône-Alpes sert de scène à un affrontement à distance, que les deux candidats assument, entre leurs programmes.",
+     "sources": [
+      "805c6a40f4d2",
+      "4961abc0c541"
+     ]
+    },
+    {
+     "text": "Dans un entretien aux journaux du groupe Ebra, Jean-Luc Mélenchon accuse Gabriel Attal d'être « personnellement responsable » d'une partie de la révolte lycéenne, parce qu'il « a été le rapporteur de la loi créant Parcoursup ».",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Il lui reproche d'avoir affirmé que Parcoursup ne provoquerait aucune exclusion : « Comment en arrive-t-on alors à 100.000 bacheliers sans débouché? ». Gabriel Attal a été ministre de l'Éducation nationale de juillet 2023 à janvier 2024 ; selon le chef de La France insoumise, devenu ministre, « qu'a-t-il fait pour les corriger? Rien ».",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon dit que Parcoursup « sera un marqueur de la présidentielle », car ses « inventeurs », Gabriel Attal et Édouard Philippe, sont « tous les deux candidats ». Il voit « un plan délibéré » derrière ces réformes : « la marchandisation de l'éducation et du savoir ». Les partis de gauche promettent d'abroger la plateforme.",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Gabriel Attal répond sur X : « Du vent, des cris, @JLMelenchon érige la démagogie en projet politique. 0 solution, 100 % bordélisation. Derrière les postures de LFI se cache une seule réalité : la sélection par l'échec pour toute une génération. Votre cynisme est une insulte à l'avenir de notre jeunesse. »",
+     "sources": [
+      "4961abc0c541"
+     ]
+    },
+    {
+     "text": "L'entourage de Gabriel Attal explique qu'il y aura à Lyon « une partie consacrée à La France insoumise », car il a toujours dit que ses adversaires étaient Jean-Luc Mélenchon et Marine Le Pen. Son discours sera axé sur l'éducation, avec « un nouveau pacte pour la jeunesse, autour de droits et de devoirs ». Il veut se démarquer de LFI qui « instrumentalise » la jeunesse et du Rassemblement national qui « l'essentialise ».",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "La France insoumise revendique sa proximité avec les jeunes. Manuel Bompard annonce plus de 400.000 parrainages citoyens pour Jean-Luc Mélenchon, dont 30 % de 18 à 24 ans et 30 % de 25 à 34 ans parmi les 20.000 derniers, et promet de donner « la parole à des voix lycéennes » à Clermont-Ferrand.",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "Selon l'étude Mentalo, menée par l'Inserm et l'Université Paris-Cité auprès de 20.000 jeunes de 11 à 24 ans, Parcoursup est associée à « une forte diminution » du bien-être mental pour 70 % des jeunes. La plateforme est jugée opaque et discriminatoire par les jeunes, rapporte BFMTV.",
+     "sources": [
+      "e000dc7df590"
+     ]
+    },
+    {
+     "text": "Le calendrier se poursuit : le Congrès du Rassemblement national aura lieu les 25 et 26 octobre, la convention de La France insoumise le 7 novembre, et le mouvement ira « confronter Édouard Philippe dans sa mairie » du Havre le 5 décembre. L'intersyndicale lycéenne appelle à une nouvelle journée de grève et de manifestation mardi 13 octobre.",
+     "sources": [
+      "805c6a40f4d2"
+     ]
+    },
+    {
+     "text": "Le Monde écrit qu'en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon.",
+     "sources": [
+      "fa810edc7956"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/attal-m%C3%A9lenchon.jpg?h=d1cb525d&itok=TCqL2BId",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
+    "article_id": "805c6a40f4d2",
+    "focus_x": 0.47,
+    "focus_y": 0.06703703703703703
+   },
+   "id": 84,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-10T14:24:43+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.25,
+   "sources": [
+    {
+     "id": "4961abc0c541",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : \"0 solution, 100 % bordélisation\", Attal répond à Mélenchon qui l'a accusé d'être \"personnellement responsable\" d'une partie de la révolte lycéenne",
+     "url": "https://www.ladepeche.fr/2026/10/10/direct-presidentielle-2027-cible-par-une-cyberattaque-le-vote-du-premier-tour-de-la-primaire-sociale-democrate-est-prolonge-jusqua-dimanche-18-h-13594458.php",
+     "published_at": "2026-10-10T12:30:21+00:00",
+     "snippet": "Suivez l'actualité politique de ce samedi 10 octobre 2026 en direct sur ladepeche.fr"
+    },
+    {
+     "id": "805c6a40f4d2",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: ce week-end, Gabriel Attal et Jean-Luc Mélenchon se défient par meetings interposés",
+     "url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
+     "published_at": "2026-10-10T14:12:20+00:00",
+     "snippet": "Par Maxence Kagni Anne-Charlotte Dusseaulx, le Samedi 10 octobre 2026 à 08:20 Un meeting samedi à Lyon pour Gabriel Attal, un meeting dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon. La région Auvergne-Rhône-Alpes sera ce week-end le théâtre d'un affrontement à distance entre les deux candidats à l'élection présidentielle, qui assument leur volonté de confronter leurs programmes. D'un côté, Gabriel Attal à Lyon samedi ; de l'autre, Jean-Luc Mélenchon à Clermont-Ferrand dimanche. Les deux candidats à l'élection présidentielle vont mettre en scène leur face-à-face ce week-end. \"Il y aura une"
+    },
+    {
+     "id": "e000dc7df590",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
+     "published_at": "2026-10-09T17:55:54+00:00",
+     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
+    },
+    {
+     "id": "fa810edc7956",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l’affrontement avec Jean-Luc Mélenchon pour relancer sa campagne",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
+     "published_at": "2026-10-10T05:00:18+00:00",
+     "snippet": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée."
+    }
+   ]
+  },
   {
    "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
    "chapo": "Les organisateurs de la primaire de la gauche sociale-démocrate ont décidé vendredi 9 octobre de repousser la clôture du premier tour à dimanche 11 octobre à 18 h, au lieu de samedi 20 h, après une cyberattaque qui a ralenti le vote. Les résultats sont annoncés pour dimanche à 18 h 30.",
@@ -89,7 +214,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 28.91,
+   "score": 27.14,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -193,131 +318,6 @@
    ]
   },
   {
-   "headline": "Attal et Mélenchon se défient par meetings interposés : Parcoursup et colère lycéenne au cœur de l'échange",
-   "chapo": "Ce week-end, Gabriel Attal tient un meeting à Lyon samedi 10 octobre et Jean-Luc Mélenchon un autre à Clermont-Ferrand dimanche. Le chef de La France insoumise juge son rival « personnellement responsable » d'une partie de la révolte lycéenne à cause de Parcoursup ; Gabriel Attal lui répond par un message très dur.",
-   "points": [
-    {
-     "text": "Un meeting samedi à Lyon pour Gabriel Attal, un autre dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon : la région Auvergne-Rhône-Alpes sert de scène à un affrontement à distance, que les deux candidats assument, entre leurs programmes.",
-     "sources": [
-      "805c6a40f4d2",
-      "4961abc0c541"
-     ]
-    },
-    {
-     "text": "Dans un entretien aux journaux du groupe Ebra, Jean-Luc Mélenchon accuse Gabriel Attal d'être « personnellement responsable » d'une partie de la révolte lycéenne, parce qu'il « a été le rapporteur de la loi créant Parcoursup ».",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Il lui reproche d'avoir affirmé que Parcoursup ne provoquerait aucune exclusion : « Comment en arrive-t-on alors à 100.000 bacheliers sans débouché? ». Gabriel Attal a été ministre de l'Éducation nationale de juillet 2023 à janvier 2024 ; selon le chef de La France insoumise, devenu ministre, « qu'a-t-il fait pour les corriger? Rien ».",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon dit que Parcoursup « sera un marqueur de la présidentielle », car ses « inventeurs », Gabriel Attal et Édouard Philippe, sont « tous les deux candidats ». Il voit « un plan délibéré » derrière ces réformes : « la marchandisation de l'éducation et du savoir ». Les partis de gauche promettent d'abroger la plateforme.",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Gabriel Attal répond sur X : « Du vent, des cris, @JLMelenchon érige la démagogie en projet politique. 0 solution, 100 % bordélisation. Derrière les postures de LFI se cache une seule réalité : la sélection par l'échec pour toute une génération. Votre cynisme est une insulte à l'avenir de notre jeunesse. »",
-     "sources": [
-      "4961abc0c541"
-     ]
-    },
-    {
-     "text": "L'entourage de Gabriel Attal explique qu'il y aura à Lyon « une partie consacrée à La France insoumise », car il a toujours dit que ses adversaires étaient Jean-Luc Mélenchon et Marine Le Pen. Son discours sera axé sur l'éducation, avec « un nouveau pacte pour la jeunesse, autour de droits et de devoirs ». Il veut se démarquer de LFI qui « instrumentalise » la jeunesse et du Rassemblement national qui « l'essentialise ».",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "La France insoumise revendique sa proximité avec les jeunes. Manuel Bompard annonce plus de 400.000 parrainages citoyens pour Jean-Luc Mélenchon, dont 30 % de 18 à 24 ans et 30 % de 25 à 34 ans parmi les 20.000 derniers, et promet de donner « la parole à des voix lycéennes » à Clermont-Ferrand.",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "Selon l'étude Mentalo, menée par l'Inserm et l'Université Paris-Cité auprès de 20.000 jeunes de 11 à 24 ans, Parcoursup est associée à « une forte diminution » du bien-être mental pour 70 % des jeunes. La plateforme est jugée opaque et discriminatoire par les jeunes, rapporte BFMTV.",
-     "sources": [
-      "e000dc7df590"
-     ]
-    },
-    {
-     "text": "Le calendrier se poursuit : le Congrès du Rassemblement national aura lieu les 25 et 26 octobre, la convention de La France insoumise le 7 novembre, et le mouvement ira « confronter Édouard Philippe dans sa mairie » du Havre le 5 décembre. L'intersyndicale lycéenne appelle à une nouvelle journée de grève et de manifestation mardi 13 octobre.",
-     "sources": [
-      "805c6a40f4d2"
-     ]
-    },
-    {
-     "text": "Le Monde écrit qu'en plein mouvement lycéen, Gabriel Attal mise sur l'affrontement avec Jean-Luc Mélenchon.",
-     "sources": [
-      "fa810edc7956"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/attal-m%C3%A9lenchon.jpg?h=d1cb525d&itok=TCqL2BId",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
-    "article_id": "805c6a40f4d2",
-    "focus_x": 0.47,
-    "focus_y": 0.06703703703703703
-   },
-   "id": 84,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-10T14:24:43+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.99,
-   "sources": [
-    {
-     "id": "4961abc0c541",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : \"0 solution, 100 % bordélisation\", Attal répond à Mélenchon qui l'a accusé d'être \"personnellement responsable\" d'une partie de la révolte lycéenne",
-     "url": "https://www.ladepeche.fr/2026/10/10/direct-presidentielle-2027-cible-par-une-cyberattaque-le-vote-du-premier-tour-de-la-primaire-sociale-democrate-est-prolonge-jusqua-dimanche-18-h-13594458.php",
-     "published_at": "2026-10-10T12:30:21+00:00",
-     "snippet": "Suivez l'actualité politique de ce samedi 10 octobre 2026 en direct sur ladepeche.fr"
-    },
-    {
-     "id": "805c6a40f4d2",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Présidentielle: ce week-end, Gabriel Attal et Jean-Luc Mélenchon se défient par meetings interposés",
-     "url": "https://lcp.fr/actualites/presidentielle-ce-week-end-gabriel-attal-et-jean-luc-melenchon-se-defient-par-meetings",
-     "published_at": "2026-10-10T14:12:20+00:00",
-     "snippet": "Par Maxence Kagni Anne-Charlotte Dusseaulx, le Samedi 10 octobre 2026 à 08:20 Un meeting samedi à Lyon pour Gabriel Attal, un meeting dimanche à Clermont-Ferrand pour Jean-Luc Mélenchon. La région Auvergne-Rhône-Alpes sera ce week-end le théâtre d'un affrontement à distance entre les deux candidats à l'élection présidentielle, qui assument leur volonté de confronter leurs programmes. D'un côté, Gabriel Attal à Lyon samedi ; de l'autre, Jean-Luc Mélenchon à Clermont-Ferrand dimanche. Les deux candidats à l'élection présidentielle vont mettre en scène leur face-à-face ce week-end. \"Il y aura une"
-    },
-    {
-     "id": "e000dc7df590",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Personnellement responsable\": Jean-Luc Mélenchon juge Gabriel Attal fautif de la colère lycéenne à cause de Parcoursup",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/personnellement-responsable-jean-luc-melenchon-juge-gabriel-attal-fautif-de-la-colere-lyceenne-a-cause-de-parcoursup_AD-202610090802.html",
-     "published_at": "2026-10-09T17:55:54+00:00",
-     "snippet": "Jean-Luc Mélenchon accuse Gabriel Attal d'être \"personnellement responsable\" d'une partie de la révolte lycéenne. Le leader de La France insoumise souligne le fait que l'ancien ministre de l'Éducation nationale a été \"le rapporteur de la loi créant Parcoursup\"."
-    },
-    {
-     "id": "fa810edc7956",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : en plein mouvement lycéen, Gabriel Attal mise sur l’affrontement avec Jean-Luc Mélenchon pour relancer sa campagne",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
-     "published_at": "2026-10-10T05:00:18+00:00",
-     "snippet": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée."
-    }
-   ]
-  },
-  {
    "headline": "Lycées : comment les 3 000 profs remplaçants seront déployés, Parcoursup « perfectible », Matignon mise sur les vacances",
    "chapo": "Une semaine après l'annonce du ministre Édouard Geffray, les questions portent sur le déploiement des 3 024 professeurs remplaçants, sur l'avenir de Parcoursup et sur la suite du mouvement lycéen. L'intersyndicale appelle à une nouvelle journée de mobilisation mardi 13 octobre ; le gouvernement veut tenir jusqu'aux vacances, le 17 octobre.",
    "points": [
@@ -402,7 +402,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.99,
+   "score": 14.07,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -558,7 +558,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.98,
+   "score": 13.12,
    "sources": [
     {
      "id": "0d2c29a247fa",
@@ -705,7 +705,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.36,
+   "score": 11.02,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -913,7 +913,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.19,
+   "score": 9.84,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -1139,7 +1139,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 8.73,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -1326,7 +1326,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.44,
+   "score": 5.33,
    "sources": [
     {
      "id": "396ef6ab1276",
@@ -1509,7 +1509,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.04,
+   "score": 4.93,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -1660,7 +1660,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.03,
+   "score": 3.95,
    "sources": [
     {
      "id": "047109bba606",
@@ -1777,7 +1777,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 2.96,
    "sources": [
     {
      "id": "637cd573a004",
@@ -1871,7 +1871,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.12,
+   "score": 2.08,
    "sources": [
     {
      "id": "975b9d52d19c",
@@ -1964,7 +1964,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.11,
+   "score": 2.07,
    "sources": [
     {
      "id": "18f2c597fe77",
@@ -2060,7 +2060,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.0,
    "sources": [
     {
      "id": "3ae89168e264",
@@ -2169,7 +2169,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.54,
+   "score": 2.5,
    "sources": [
     {
      "id": "573133300860",
@@ -2271,7 +2271,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.29,
+   "score": 2.25,
    "sources": [
     {
      "id": "4857f7a7677e",
@@ -2369,7 +2369,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.53,
+   "score": 1.5,
    "sources": [
     {
      "id": "068789211545",
