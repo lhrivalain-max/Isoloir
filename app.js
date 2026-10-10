@@ -220,7 +220,7 @@ const HERO = {
   presidentielle: () => ({
     lead: "La présidentielle, ",
     mark: "pour tous.",
-    text: "La campagne vue par plusieurs médias.",
+    text: "La campagne vue par plusieurs médias, avec les sources à un clic. Le scrutin aura lieu les 18 avril et 2 mai 2027.",
   }),
 };
 
