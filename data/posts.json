@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T14:21:32+00:00",
+ "generated_at": "2026-10-10T14:23:56+00:00",
  "posts": [
   {
    "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
@@ -89,7 +89,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 29.0,
+   "score": 28.95,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -410,6 +410,153 @@
    ]
   },
   {
+   "headline": "Budget 2027 : la partie « recettes » rejetée en commission, débat dans l'hémicycle dès mardi 13 octobre",
+   "chapo": "Vendredi 9 octobre, la commission des finances de l'Assemblée a largement rejeté la première partie du budget 2027, consacrée aux recettes, par 31 voix contre 3 et 2 abstentions. Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre, à partir de la version initiale du gouvernement.",
+   "points": [
+    {
+     "text": "La commission des finances a rejeté la partie « recettes » du projet de loi de finances pour 2027 par 31 voix contre, 3 pour et 2 abstentions. Les oppositions fustigent la copie du gouvernement de Sébastien Lecornu ; l'essentiel du camp gouvernemental déplore les amendements ajoutés par les oppositions.",
+     "sources": [
+      "e6af1c1471a9",
+      "d77034c3327f",
+      "d7e46497ebf8",
+      "e88f8733367c"
+     ]
+    },
+    {
+     "text": "Cette première partie, largement amendée, n'a été votée que par les députés d'Ensemble pour la République. Paul Midy estime qu'il vaut « mieux un mauvais budget que pas de budget ». Horizons et la Droite républicaine ont voté contre, en dénonçant une « surenchère fiscale ». Les Démocrates se sont abstenus.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Le rapporteur général, Philippe Juvin (Droite républicaine), estime que les mesures adoptées ou rejetées cette semaine aggraveraient le déficit public d'environ 10 milliards d'euros. Ce serait un déficit de 5,35 à 5,4 % du produit intérieur brut, alors que l'exécutif vise 5 %. Il précise que ce n'est qu'un point d'étape.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Les députés ont notamment supprimé le coup de rabot sur l'abattement fiscal de 10 % des retraités, que le gouvernement voulait ramener de 4 439 à 3 000 euros, pour 1,4 milliard d'euros d'économies. Selon la Droite républicaine, la mesure aurait touché 4,6 millions de foyers.",
+     "sources": [
+      "e6af1c1471a9",
+      "0d2c29a247fa"
+     ]
+    },
+    {
+     "text": "Dans le débat du 7 octobre, Claire Marais-Beuil (RN) refuse que le redressement des comptes se fasse « sur le dos des retraités », et Aurélien Le Coq (La France insoumise) parle d'une mesure qui toucherait les retraités gagnant plus de 1 250 euros. Guillaume Kasbarian (Ensemble pour la République) défend le rabot et dénonce un « vent d'électoralisme primaire ».",
+     "sources": [
+      "0d2c29a247fa"
+     ]
+    },
+    {
+     "text": "À gauche, les quatre groupes critiquent la copie du gouvernement et déplorent une « nouvelle grande alliance entre le Rassemblement national et la macronie ». La socialiste Estelle Mercier dénonce une alliance qui a repoussé « toute forme d'imposition des grandes fortunes ». Aurélien Le Coq (La France insoumise) prévient qu'un recours au 49.3 entraînerait une censure de son groupe.",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "Paul Midy (Ensemble pour la République) répond que « comme l'année dernière, on a vu le Rassemblement national et La France insoumise voter main dans la main des dizaines de milliards d'euros de fiscalité supplémentaire sur les entreprises ». Jean-Philippe Tanguy (RN) dit que son groupe s'oppose à un budget sans économies : « Hors de question de voter des hausses d'impôts ».",
+     "sources": [
+      "e6af1c1471a9"
+     ]
+    },
+    {
+     "text": "L'économiste Gabriel Zucman avait jugé, après la présentation du budget, que le gouvernement protège les plus riches : « Nous avons avant tout un problème de recettes publiques et non de dépenses publiques ». Il défend sa taxe de 2 % sur les patrimoines de plus de 100 millions d'euros, qui rapporterait selon lui 20 milliards d'euros.",
+     "sources": [
+      "f25c9875ed33"
+     ]
+    },
+    {
+     "text": "Le Monde note que la mise à contribution des retraités et des collectivités a cristallisé les tensions, et Libération que même une partie de l'ancien « socle commun » a voté contre la copie du gouvernement, ce qui laisse présager des débats ardus pour Sébastien Lecornu.",
+     "sources": [
+      "d7e46497ebf8",
+      "e88f8733367c"
+     ]
+    },
+    {
+     "text": "Le texte sera débattu dans l'hémicycle à partir de mardi 13 octobre. Les députés repartiront de la copie initiale du gouvernement, et non de celle de la commission.",
+     "sources": [
+      "e6af1c1471a9",
+      "d77034c3327f",
+      "d7e46497ebf8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Assembl%C3%A9e%20nationale/riccardo_milani_hans_lucas_hans_lucas_via_afp_3_696a68b988630.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "d77034c3327f"
+   },
+   "id": 83,
+   "section": "institutions",
+   "reviewed_at": "2026-10-10T14:23:56+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.0,
+   "sources": [
+    {
+     "id": "0d2c29a247fa",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget 2027: les députés s'opposent au rabot de l'abattement fiscal des retraités lors des débats en commission",
+     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-s-opposent-au-rabot-de-l-abattement-fiscal-des-retraites-lors",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 7 octobre 2026 à 10:55 Les députés de la commission des finances se sont opposés à l'une des mesures phares de la copie budgétaire du gouvernement, ce mercredi 7 octobre. Ils ont décidé de supprimer l'abaissement à 3 000 euros du plafond de l'abattement de 10 % fiscal applicable aux pensions de retraite prévu par le projet de loi de finances pour 2027. C'est l'un des irritants du projet de budget pour 2027. À la recherche d'économies substantielles, le gouvernement a proposé de diminuer le plafond de l'abattement de 10 % sur l'impôt sur le revenu dont bénéfici"
+    },
+    {
+     "id": "d77034c3327f",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget 2027 : les députés rejettent la partie «recettes» en commission, débat mardi dans l'hémicycle",
+     "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission-debat-mardi-dans-lhemicycle-1134734?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-09T19:40:00+00:00",
+     "snippet": "Premier coup dur pour le gouvernement sur le budget 2027. Ce vendredi, les députés, réunis en commission, ont très largement rejeté la partie \"recettes\" du PLF. Le texte sera débattu mardi à l'Assemblée. Les députés ont très largement rejeté vendredi en commission la partie \"recettes\" du projet de budget de l'État pour 2027 du gouvernement, lors d'un premier tour de chauffe avant l'hémicycle mardi. Le vote a été quasiment unanime (31 contre, 3 pour, 2 abstentions), les oppositions fustigeant la copie gouvernementale et l'essentiel du camp gouvernemental déplorant les amendements ajoutés par le"
+    },
+    {
+     "id": "d7e46497ebf8",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’hémicycle",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html",
+     "published_at": "2026-10-09T20:49:41+00:00",
+     "snippet": "La mise à contribution des retraités et des collectivités a cristallisé les tensions lors des débats en commission sur le budget 2027. Les députés repartiront de la copie initiale dans l’hémicycle, dès mardi."
+    },
+    {
+     "id": "e6af1c1471a9",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget 2027: les députés rejettent en commission la partie \"recettes\" du projet de loi de finances",
+     "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+     "published_at": "2026-10-10T14:12:20+00:00",
+     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 22:54 La commission des finances a largement rejeté, ce vendredi 9 octobre soir, la première partie du projet de loi de finances pour l'année 2027. Le texte doit désormais être examiné dans l'hémicycle de l'Assemblée nationale, à partir de mardi. La commission des finances rejette le partie \"recettes\" du projet de loi de finances pour l'année 2027 (31 voix \"contre\", 3 \"pour\", 2 abstentions), les oppositions fustigeant la copie présentée par Sébastien Lecornu et ses ministres, tandis que l'essentiel du camp gouvernemental a déploré les amendement"
+    },
+    {
+     "id": "e88f8733367c",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Budget 2027 : la partie «recettes» rejetée en commission, avant l’entrée dans le vif du sujet mardi dans l’hémicycle",
+     "url": "https://www.liberation.fr/economie/budget-2027-la-partie-recettes-rejetee-en-commission-avant-lentree-dans-le-vif-du-sujet-mardi-dans-lhemicycle-20261010_BMRJXUP5GVDNBL4EPFOHTIIE3U/",
+     "published_at": "2026-10-10T06:43:41+00:00",
+     "snippet": "Les députés des oppositions et même une partie du défunt «socle commun» ont voté contre la copie du gouvernement, dans un galop d’essai qui laisse présager des débats ardus pour Sébastien Lecornu."
+    },
+    {
+     "id": "f25c9875ed33",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Gabriel Zucman dénonce un projet de budget qui \"protège les milliardaires\"",
+     "url": "https://lcp.fr/actualites/gabriel-zucman-denonce-un-projet-de-budget-qui-protege-les-milliardaires-442793",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": "Par Raphaël Marchal , le Vendredi 2 octobre 2026 à 10:18 \"Vous êtes prêts à tout (...) avant de demander ne serait-ce qu’un centime à Bernard Arnault et aux milliardaires français\", a lancé l'économiste sur X, jeudi 1er octobre, après que le gouvernement a présenté sa copie budgétaire pour 2027. \"D'autres choix budgétaires sont devenus impératifs\", plaide Gabriel Zucman. La taxe qui porte son nom a largement agité les débats budgétaires l'année dernière. L'économiste Gabriel Zucman a réagi sur X au projet de budget du gouvernement dévoilé hier fustigeant une copie qui protège les plus riches. "
+    }
+   ]
+  },
+  {
    "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
    "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à dimanche 11 octobre à 18 h, après une prolongation du vote décidée en raison de l'attaque.",
    "points": [
@@ -498,7 +645,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.38,
+   "score": 11.37,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -715,7 +862,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.01,
+   "score": 9.0,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -1085,7 +1232,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.05,
+   "score": 5.04,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -1236,7 +1383,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.04,
+   "score": 4.03,
    "sources": [
     {
      "id": "047109bba606",
@@ -1636,7 +1783,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.06,
+   "score": 3.05,
    "sources": [
     {
      "id": "3ae89168e264",
