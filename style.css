@@ -182,3 +182,7 @@ details.srcs li { margin-bottom: 10px; }
 .more-btn { margin-top: 12px; border: 0; cursor: pointer; font: inherit; font-weight: 800; font-size: 15px; color: var(--ink); background: var(--tint); padding: 10px 20px; border-radius: 999px; transition: filter .2s; }
 .more-btn:hover { filter: brightness(.96); }
 .more[hidden] { display: none; }
+
+/* onglet Actualités : pas d'en-tête, le premier sujet monte */
+.hero.bare { display: none; }
+.hero.bare + .meta { margin-top: 18px; }
