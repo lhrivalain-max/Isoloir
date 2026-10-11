@@ -222,3 +222,7 @@ details.srcs li { margin-bottom: 10px; }
 .how li:nth-child(even) { background: var(--yel-p2); }
 .tabs { background: var(--blue-p2); }
 .tab:not([aria-selected="true"]) { background: transparent; }
+/* onglets sans couleur : rectangles blancs, l'actif est souligné */
+.tabs { background: var(--paper); }
+.tab { background: transparent; color: var(--muted); box-shadow: none; }
+.tab[aria-selected="true"] { background: var(--paper); color: var(--ink); font-weight: 800; box-shadow: inset 0 -3px 0 var(--ink); }
