@@ -67,7 +67,7 @@ function imageFigure(image) {
   );
 }
 
-const EXPIRE_MS = 72 * 3600 * 1000;   // un sujet disparaît 72 h après sa publication
+const EXPIRE_MS = 96 * 3600 * 1000;   // un sujet disparaît 4 jours après sa publication
 const isFresh = (p) => !p.reviewed_at || Date.now() - new Date(p.reviewed_at).getTime() < EXPIRE_MS;
 
 function renderPost(post, index) {
