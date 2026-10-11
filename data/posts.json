@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T11:33:27+00:00",
+ "generated_at": "2026-10-11T11:34:25+00:00",
  "posts": [
   {
    "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
@@ -89,7 +89,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.4,
+   "score": 15.39,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -418,9 +418,10 @@
     "focus_x": 0.36333333333333334,
     "focus_y": 0.12177083333333333
    },
+   "social_requested": "2026-10-11T11:33:28+00:00",
    "id": 91,
    "section": "institutions",
-   "reviewed_at": "2026-10-11T11:33:27+00:00",
+   "reviewed_at": "2026-10-11T11:34:25+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
@@ -1755,7 +1756,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.3,
+   "score": 4.29,
    "sources": [
     {
      "id": "396ef6ab1276",
