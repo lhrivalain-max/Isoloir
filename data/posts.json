@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T11:24:19+00:00",
+ "generated_at": "2026-10-11T11:33:27+00:00",
  "posts": [
   {
    "headline": "Primaire de la gauche : le vote prolongé jusqu'à dimanche 18 h après la cyberattaque, résultats à 18 h 30",
@@ -89,7 +89,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.45,
+   "score": 15.4,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -293,7 +293,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.37,
+   "score": 7.34,
    "sources": [
     {
      "id": "22099a905f2b",
@@ -339,6 +339,155 @@
      "url": "https://www.cnews.fr/france/2026-10-10/octobre-rose-la-nouvelle-provocation-de-la-deputee-lfi-mathilde-panot-qui-refuse",
      "published_at": "2026-10-10T14:40:38+00:00",
      "snippet": "La députée LFI Mathilde a annoncé qu'elle ne porterait pas le ruban rose, symbole de la lutte contre le cancer du sein. Une décision qui a suscité de vives critiques sur les réseaux sociaux, notamment de le part de plusieurs personnalités politiques. Des propos qui ne passent pas et qui suscitent de vives critiques. Alors que la campagne Octobre Rose bat son plein, la présidente du groupe LFI à l'Assemblée nationale, Mathilde Panot, a annoncé qu'elle refusait de porter le ruban rose, symbole de la sensibilisation au cancer du sein. Dans une vidéo publiée vendredi 9 octobre sur X, la députée ex"
+    }
+   ]
+  },
+  {
+   "headline": "Dette : le taux d'emprunt de la France frôle 5 %, le ministre des Comptes publics appelle à un « ressaisissement collectif »",
+   "chapo": "Le taux d'emprunt de la France à dix ans a frôlé 5 % la semaine dernière, un record vieux de près de 25 ans. Le ministre des Comptes publics David Amiel juge la situation « très préoccupante » et demande un « ressaisissement collectif » pour voter le budget 2027. Le texte revient mardi dans l'hémicycle.",
+   "points": [
+    {
+     "text": "Samedi 10 octobre, sur France Inter, David Amiel a déclaré : « Nous ne sommes pas en crise financière, mais à l'évidence, la situation est très préoccupante ». Le taux d'emprunt à dix ans s'est approché cette semaine des 5 %. Le ministre dit qu'il y a « urgence à agir ».",
+     "sources": [
+      "9f6e6e72136a",
+      "b0227d5a52aa"
+     ]
+    },
+    {
+     "text": "Selon France 24, le taux d'emprunt de la France à dix ans est monté à 4,9 %, un niveau inédit depuis près de 25 ans. Paris emprunte désormais à des taux plus élevés que le Portugal, la Grèce ou l'Italie. La dette atteint 3 600 milliards d'euros, soit 119 % du PIB.",
+     "sources": [
+      "0a254f232767"
+     ]
+    },
+    {
+     "text": "Pour David Amiel, les taux ont augmenté d'un point depuis juillet. Si ce niveau se stabilisait, cela représenterait à terme 36 milliards d'euros de charges d'intérêt en plus chaque année, « trois fois le budget du ministère de la Justice ». Il cite aussi un crédit immobilier de 200 000 euros : un point de taux en plus fait monter la mensualité de 100 euros par mois. Les taux montent aussi pour les entreprises qui investissent.",
+     "sources": [
+      "9f6e6e72136a"
+     ]
+    },
+    {
+     "text": "Le ministre affirme que « les premières heures de débat à la Commission des Finances » ont dégradé le déficit de près de 4 milliards d'euros. Vendredi 9 octobre, les députés ont rejeté la partie « recettes » du budget 2027 à la quasi-unanimité en commission, sans conséquence immédiate : le texte retourne mardi dans l'hémicycle dans la version initiale du gouvernement.",
+     "sources": [
+      "9f6e6e72136a"
+     ]
+    },
+    {
+     "text": "Le terme « Frogs », pour « French Oversized Government and Social Security » (« État et sécurité sociale français surdimensionnés »), vient de l'économiste Olivier Redoules, de l'institut Rexecode. Bloomberg l'a repris en titrant que « Frogs est le nouveau nom de la crise de la dette en Europe ». Le Financial Times écrit que la France est « coincée entre le marché obligataire et les barricades ».",
+     "sources": [
+      "0a254f232767"
+     ]
+    },
+    {
+     "text": "Les causes ne sont pas seulement françaises, selon France 24 : 2026 est marquée par une réévaluation des dettes publiques des pays développés, en partie à cause de la vague d'inflation déclenchée par la guerre au Moyen-Orient et de la concurrence des géants de l'IA sur les marchés obligataires. Les rendements à dix ans ont aussi augmenté aux États-Unis, en Allemagne et au Japon, à leurs niveaux les plus élevés depuis plusieurs décennies.",
+     "sources": [
+      "0a254f232767"
+     ]
+    },
+    {
+     "text": "Stéphanie Villers, conseillère économique chez PwC, rappelle que plus de la moitié de la dette française est détenue par des investisseurs étrangers. Elle cite l'absence de majorité gouvernementale à l'Assemblée et l'incertitude de la présidentielle parmi les facteurs qui crispent les marchés, et juge que la dette « progresse de manière inquiétante depuis la dissolution il y a deux ans ».",
+     "sources": [
+      "0a254f232767"
+     ]
+    },
+    {
+     "text": "Dans la campagne, Gabriel Attal (Renaissance) a promis samedi à Lyon un « plan de désendettement ». Le Rassemblement national a présenté mardi un contre-budget : selon Libération, il devrait mettre à contribution bien plus de monde que ses cibles habituelles (étrangers, Union européenne, agences de l'État). Dimanche, le député RN Jean-Philippe Tanguy dit n'avoir « entendu aucun argument rationnel » sur ce contre-budget.",
+     "sources": [
+      "5b8d48bd2f09",
+      "225c30477f28",
+      "3fb84e4f6c82"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : le budget 2027 est débattu mardi 13 octobre dans l'hémicycle, et les députés socialistes ont déposé une motion de rejet préalable sur la partie « recettes ». Si elle est votée mardi, le texte partirait directement au Sénat.",
+     "sources": [
+      "fa7c4e12b992",
+      "9f6e6e72136a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/10/17/credits_cr_dit_bastien_ohier_hans_lucas_hans_lucas_via_afp_6aca5cb81a163.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/economie/dette-face-a-la-hausse-preoccupante-des-taux-dinteret-le-ministre-des-comptes-publics-appelle-a-un-ressaisissement-collectif-1136660?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "9f6e6e72136a",
+    "focus_x": 0.36333333333333334,
+    "focus_y": 0.12177083333333333
+   },
+   "id": 91,
+   "section": "institutions",
+   "reviewed_at": "2026-10-11T11:33:27+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.0,
+   "sources": [
+    {
+     "id": "0a254f232767",
+     "name": "France 24",
+     "kind": "media",
+     "title": "\"Frogs\", l'acronyme moqueur qui alerte sur la bombe de la dette française",
+     "url": "https://www.france24.com/fr/france/20261009-frogs-acronyme-moqueur-alerte-bombe-dette-france-lecornu-budget",
+     "published_at": "2026-10-09T15:44:29+00:00",
+     "snippet": "Entre la dégradation historique de sa dette, une trajectoire budgétaire incertaine et une montée de la grogne sociale, la France inquiète les marchés et la presse économique internationale. Pour décrire cette défiance, l'institut Rexecode a proposé l'acronyme \"Frogs\", en référence au sobriquet de \"grenouilles\" dont nous affublent les Britanniques."
+    },
+    {
+     "id": "225c30477f28",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Contre-budget RN : l’amorce d’une politique antisociale",
+     "url": "https://www.liberation.fr/politique/elections/contre-budget-rn-lamorce-dune-politique-antisociale-20261009_RXGWQNWUUZFFDCQGUP27LUNQNE/",
+     "published_at": "2026-10-09T05:00:00+00:00",
+     "snippet": "Pour financer son hypothétique programme économique présenté mardi, le Rassemblement national devrait mettre à contribution bien plus de personnes que ses cibles habituelles, étrangers, Union européenne, agences de l’Etat… Sans toujours l’assumer ouvertement."
+    },
+    {
+     "id": "3fb84e4f6c82",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Jean-Philippe Tanguy, député RN de la Somme, affirme n'avoir \"entendu aucun argument rationnel\" sur le contre-budget du RN",
+     "url": "https://www.bfmtv.com/politique/front-national/video-jean-philippe-tanguy-depute-rn-de-la-somme-affirme-n-avoir-entendu-aucun-argument-rationnel-sur-le-contre-budget-du-rn_VN-202610110198.html",
+     "published_at": "2026-10-11T11:09:50+00:00",
+     "snippet": "Jean-Philippe Tanguy, député RN de la Somme et président délégué du Rassemblement national à l'Assemblée nationale, était l'invité de BFM Politique."
+    },
+    {
+     "id": "5b8d48bd2f09",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Présidentielle: Gabriel Attal, candidat \"Renaissance\", promet un \"plan de désendettement\"",
+     "url": "https://www.bfmtv.com/politique/video-presidentielle-gabriel-attal-candidat-renaissance-promet-un-plan-de-desendettement_VN-202610100264.html",
+     "published_at": "2026-10-10T14:23:09+00:00",
+     "snippet": "Le candidat \"Renaissance\" à l'élection présidentielle, Gabriel Attal était en meeting ce samedi 10 octobre à Lyon."
+    },
+    {
+     "id": "9f6e6e72136a",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Dette : face à la hausse «préoccupante» des taux d’intérêt, le ministre des Comptes publics appelle à un «ressaisissement collectif»",
+     "url": "https://www.europe1.fr/economie/dette-face-a-la-hausse-preoccupante-des-taux-dinteret-le-ministre-des-comptes-publics-appelle-a-un-ressaisissement-collectif-1136660?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-10T16:31:55+00:00",
+     "snippet": "La hausse des taux d'intérêt auxquels emprunte la France est \"préoccupante\", a déclaré samedi le ministre des Comptes publics David Amiel. Il a appelé la classe politique à un \"ressaisissement collectif\" pour adopter le budget 2027 et réduire le déficit. Le ministre des Comptes publics David Amiel a estimé que la hausse des taux d'intérêt auxquels emprunte la France est \"préoccupante\" et a appelé la classe politique à un \"ressaisissement collectif\" pour adopter le budget 2027 et réduire le déficit. Un point de taux d'intérêt supplémentaire depuis juillet \"Nous ne sommes pas en crise financière"
+    },
+    {
+     "id": "b0227d5a52aa",
+     "name": "France Inter",
+     "kind": "media",
+     "title": "David Amiel, ministre des Comptes publics : \"Nous ne sommes pas en crise financière mais il y a urgence à agir\"",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-on-n-arrete-pas-l-eco/l-invite-d-on-n-arrete-pas-l-eco-du-samedi-10-octobre-2026-2561657",
+     "published_at": "2026-10-10T10:37:00+00:00",
+     "snippet": "Risque d'une crise financière, justice fiscale, colère sociale... L'automne s'avère mouvementé. Bercy peut-il trouver une juste équation pour apaiser les demandes et assainir les finances publiques ? David Amiel, le ministre des Comptes publics, est l'invité de Claire Chaudière et Dominique Seux."
+    },
+    {
+     "id": "fa7c4e12b992",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget 2027 : les députés socialistes font planer la menace d’une motion de rejet préalable",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html",
+     "published_at": "2026-10-09T06:27:42+00:00",
+     "snippet": "Les députés socialistes ont déposé une motion sur la première partie du projet de loi de finances, consacrée aux recettes. Si elle est votée, mardi 13 octobre, le texte partirait directement au Sénat."
     }
    ]
   },
@@ -423,7 +572,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.22,
+   "score": 9.18,
    "sources": [
     {
      "id": "01516d0832b5",
@@ -557,7 +706,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.0,
+   "score": 7.97,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -713,7 +862,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.47,
+   "score": 7.44,
    "sources": [
     {
      "id": "0d2c29a247fa",
@@ -856,7 +1005,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.4,
+   "score": 6.38,
    "sources": [
     {
      "id": "4961abc0c541",
@@ -985,7 +1134,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.04,
+   "score": 8.02,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -1193,7 +1342,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.94,
+   "score": 6.92,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -1419,7 +1568,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.36,
+   "score": 6.35,
    "sources": [
     {
      "id": "1574c0f140f9",
@@ -1532,6 +1681,193 @@
    ]
   },
   {
+   "headline": "Lecornu : décisions pour les lycéens fin octobre, 10 millions de barils de gazole débloqués",
+   "chapo": "Mercredi 7 octobre, dans une allocution depuis Matignon, le Premier ministre Sébastien Lecornu a promis de présenter les premières décisions pour répondre à la mobilisation des lycéens à la fin du mois d'octobre, et annoncé la mise à disposition de 10 millions de barils de gazole pour faire baisser les prix à la pompe.",
+   "points": [
+    {
+     "text": "Sur les lycées, Lecornu affirme que les forces de l'ordre « n'ont pas pour instruction d'affronter les lycéens » : leur mission est de protéger les biens et les personnes, faire respecter la loi et permettre l'accès aux établissements, de manière proportionnée. Il reconnaît que la colère des jeunes « ne vient pas de nulle part ». Il cite le Covid, les guerres, le changement climatique et les efforts demandés pour choisir leur orientation.",
+     "sources": [
+      "da33d508b6f9",
+      "975c03d2db94",
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "La plateforme ouverte par le gouvernement a recueilli 40 000 contributions de lycéens. Les temps de dialogue engagés dans les lycées se poursuivent à partir de jeudi, dans chaque établissement, jusqu'à la semaine prochaine. Un « acte IV » de la mobilisation est prévu jeudi, selon Le Figaro.",
+     "sources": [
+      "da33d508b6f9",
+      "5c35836c1d97"
+     ]
+    },
+    {
+     "text": "Carburants : Lecornu met 10 millions de barils de gazole des réserves stratégiques à la disposition des distributeurs. Ce gazole, acheté avant la flambée des cours, est cédé au prix de revient et doit faire baisser les prix à la pompe de 12 à 18 centimes par litre, selon lui. Il réunira les distributeurs à Matignon dans les tout prochains jours.",
+     "sources": [
+      "da33d508b6f9"
+     ]
+    },
+    {
+     "text": "Électricité : « le prix de l'électricité ne doit pas augmenter cet hiver ». Il promet des décisions pour le tenir et demande à EDF de mobiliser au maximum ses capacités de production, dans le respect des exigences de sûreté. Pour l'agriculture, la ministre Annie Genevard annoncera de nouvelles mesures jeudi au Sommet de l'élevage à Cournon.",
+     "sources": [
+      "da33d508b6f9"
+     ]
+    },
+    {
+     "text": "Budget : l'objectif reste de ramener le déficit public à 5 % du produit intérieur brut en 2027, après un dérapage à 5,4 % en 2026. Lecornu en appelle « au patriotisme de chacun » pour que les échanges aboutissent à des compromis. Adopter un budget après la présidentielle, dit-il, prolongerait l'incertitude.",
+     "sources": [
+      "da33d508b6f9",
+      "b8aa39b193c6"
+     ]
+    },
+    {
+     "text": "À gauche, Marine Tondelier juge que « la stratégie du gouvernement est claire, gagner du temps » face aux lycéens. Fabien Roussel affirme que « la jeunesse est une priorité nationale ». Alexis Corbière dit que « ça fait un moment que ça alerte ».",
+     "sources": [
+      "d9167bac9230",
+      "d1f6221c8a6e",
+      "fca1fe7fb34f"
+     ]
+    },
+    {
+     "text": "À droite et à l'extrême droite, Marion Maréchal aurait attendu « un discours de vérité à l'égard des lycéens », François-Xavier Bellamy (LR) déplore qu'il y ait « beaucoup d'attentes non résolues ». Sur les carburants, Marine Le Pen réagit : « C'est ce que nous avons demandé ». Pour le porte-parole du RN Laurent Jacobelli, le Premier ministre n'apporte « aucune réponse à rien ».",
+     "sources": [
+      "edbac9f58a90",
+      "396ef6ab1276",
+      "cbd84e8a97e0",
+      "b356349666cb"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 12,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/mmXMwc87OJCOB-bpW3Ofd4rVJvs/0x5:1024x581/432x243/filters:format(jpg)/2026/10/07/6ac67e954451c943450267.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "da33d508b6f9",
+    "focus_x": 0.5433333333333333,
+    "focus_y": 0.20916666666666667
+   },
+   "id": 64,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T06:59:18+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 4.3,
+   "sources": [
+    {
+     "id": "396ef6ab1276",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu: \"Il y a beaucoup d'attentes non résolues\", déplore François-Xavier Bellamy, eurodéputé LR",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-il-y-a-beaucoup-d-attentes-non-resolues-deplore-francois-xavier-bellamy-eurodepute-lr_VN-202610070810.html",
+     "published_at": "2026-10-07T17:59:36+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    },
+    {
+     "id": "5c35836c1d97",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Lycées, carburants, budget : Emmanuel Macron et Sébastien Lecornu cherchent les voies de l’apaisement",
+     "url": "https://www.lefigaro.fr/politique/lycees-carburants-budget-emmanuel-macron-et-sebastien-lecornu-cherchent-les-voies-de-l-apaisement-20261007",
+     "published_at": "2026-10-07T18:50:17+00:00",
+     "snippet": "DÉCRYPTAGE - Alors qu’un « acte IV » de la mobilisation des lycéens est prévu, ce jeudi, le premier ministre leur a promis des « réponses concrètes », répondu aux critiques sur le maintien de l’ordre et fait des annonces pour baisser les prix du gazole."
+    },
+    {
+     "id": "975c03d2db94",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Sébastien Lecornu indique que les premières décisions seront présentées \"à la fin du mois d'octobre\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-indique-que-les-premieres-decisions-seront-presentees-a-la-fin-du-mois-d-octobre_AV-202610070808.html",
+     "published_at": "2026-10-07T18:02:28+00:00",
+     "snippet": "Lors d'une allocation depuis Matignon ce mercredi 7 octobre, Sébastien Lecornu a promis de présenter de \"premières décisions du gouvernement à la fin du mois d'octobre\" en réponse à la colère lycéenne."
+    },
+    {
+     "id": "b356349666cb",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu: pour Laurent Jacobelli, porte-parole du RN, le Premier ministre n'apporte \"aucune réponse à rien\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-pour-laurent-jacobelli-porte-parole-du-rn-le-premier-ministre-n-apporte-aucune-reponse-a-rien_VN-202610070786.html",
+     "published_at": "2026-10-07T17:39:20+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    },
+    {
+     "id": "b8aa39b193c6",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Notre engagement est de ramener le déficit public à 5% en 2027, pas davantage\", indique Sébastien Lecornu",
+     "url": "https://www.bfmtv.com/politique/parlement/video-notre-engagement-est-de-ramener-le-deficit-public-a-5-en-2027-pas-davantage-indique-sebastien-lecornu_VN-202610070789.html",
+     "published_at": "2026-10-07T17:41:23+00:00",
+     "snippet": "Sébastien Lecornu, Premier ministre, tient une conférence de presse ce mercredi 7 octobre."
+    },
+    {
+     "id": "cbd84e8a97e0",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu sur les carburants et la libération de stocks stratégiques: \"C'est ce que nous avons demandé\", réagit Marine Le Pen",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-sur-les-carburants-et-la-liberation-de-stocks-strategiques-c-est-ce-que-nous-avons-demande-reagit-marine-le-pen_VN-202610070799.html",
+     "published_at": "2026-10-07T17:48:45+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    },
+    {
+     "id": "d1f6221c8a6e",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu sur les lycéens: \"La jeunesse est une priorité nationale\", affirme Fabien Roussel, candidat PCF à l'élection présidentielle",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-sur-les-lyceens-la-jeunesse-est-une-priorite-nationale-affirme-fabien-roussel-candidat-pcf-a-l-election-presidentielle_VN-202610070838.html",
+     "published_at": "2026-10-07T18:48:56+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    },
+    {
+     "id": "d9167bac9230",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "DIRECT. Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-07T19:21:00+00:00",
+     "snippet": "Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget."
+    },
+    {
+     "id": "da33d508b6f9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-07T17:43:06+00:00",
+     "snippet": "Le chef du gouvernement a notamment promis d'annoncer de \"premières décisions\" à la fin du mois d'octobre afin de répondre à la mobilisation des lycéens."
+    },
+    {
+     "id": "edbac9f58a90",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu: \"J'aurais attendu un discours de vérité à l'égard des lycéens\", affirme Marion Maréchal, eurodéputée CRE",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-j-aurais-attendu-un-discours-de-verite-a-l-egard-des-lyceens-affirme-marion-marechal-eurodeputee-cre_VN-202610070830.html",
+     "published_at": "2026-10-07T18:37:45+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    },
+    {
+     "id": "eecdd71ed6ca",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Sébastien Lecornu assure que \"les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
+     "published_at": "2026-10-07T16:58:30+00:00",
+     "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
+    },
+    {
+     "id": "fca1fe7fb34f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Prise de parole de Sébastien Lecornu sur les lycées: Alexis Corbière, député \"L'Après\", assure que \"ça fait un moment que ça alerte\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-prise-de-parole-de-sebastien-lecornu-sur-les-lycees-alexis-corbiere-depute-l-apres-assure-que-ca-fait-un-moment-que-ca-alerte_VN-202610070796.html",
+     "published_at": "2026-10-07T17:45:43+00:00",
+     "snippet": "Au lendemain d'une mobilisation massive dans les rues, l'attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d'apaiser une crise qui s'étire."
+    }
+   ]
+  },
+  {
    "headline": "Ciotti demande la « révocation » du maire de Saint-Denis Bally Bagayoko, devenu une image de la mobilisation lycéenne",
    "chapo": "Mardi 6 octobre, Éric Ciotti a demandé la « révocation » du maire LFI de Saint-Denis Bally Bagayoko, qu'il accuse d'« attiser la violence » pendant les blocages de lycées. Le même jour, une vidéo de Bagayoko s'interposant entre des lycéens et la police à Paris faisait le tour du monde. Mercredi, Laurent Nuñez a répondu qu'il n'y avait pas de dossier de révocation en cours.",
    "points": [
@@ -1602,7 +1938,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.9,
+   "score": 3.89,
    "sources": [
     {
      "id": "4b3746725ac1",
@@ -1753,7 +2089,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.12,
+   "score": 3.11,
    "sources": [
     {
      "id": "047109bba606",
@@ -1799,6 +2135,292 @@
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-campagne-presidentielle-les-banques-ont-toutes-refuse-les-demandes-de-financement-du-rn-declare-marine-le-pen_VN-202610080294.html",
      "published_at": "2026-10-08T07:30:02+00:00",
      "snippet": "La candidate RN à l'élection présidentielle s'exprime sur la campagne de l'élection présidentielle 2027, lors de sa conférence de presse de présentation de la proposition de budget du RN, mardi 6 octobre à Paris."
+    }
+   ]
+  },
+  {
+   "headline": "Lycées : Geffray et Nuñez auditionnés à l'Assemblée, les régions chiffrent les dégâts",
+   "chapo": "Le ministre de l'Éducation, Édouard Geffray, a été entendu mercredi 7 octobre à 10 h à l'Assemblée sur le blocage des lycées, et le ministre de l'Intérieur, Laurent Nuñez, à 15 h sur la gestion de l'ordre public. Les régions chiffrent déjà les dégâts en millions d'euros.",
+   "points": [
+    {
+     "text": "Édouard Geffray a été entendu à 10 h en commission des Affaires culturelles et de l'Éducation « sur le blocage des lycées ». Laurent Nuñez l'a été à 15 h en commission des Lois sur la gestion de l'ordre public et la protection des personnes face aux violences. Les deux ministres ont déjà été longuement interpellés mardi lors des questions au gouvernement.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Depuis mi-septembre, 215 élèves ont été blessés, une majorité dans le cadre d'accidents ou par le fait d'autres personnes extérieures, selon Matignon. 715 policiers ou gendarmes l'ont aussi été. Geffray dénonce 85 personnels blessés en huit jours, 24 bâtiments saccagés et incendiés, et 30 000 élèves privés de cours.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Un lycéen de 16 ans a perdu l'usage d'un œil lors d'un blocage, et un adolescent de 15 ans a eu la main arrachée par une grenade à Lens. À gauche, des députés dénoncent la répression ; l'écologiste Benjamin Lucas-Lundy a réclamé la démission de Nuñez, qui répond : « On va continuer à faire ce que nous faisons, à maintenir l'ordre, à intervenir chaque fois qu'il y a des violences avec proportionnalité ». Le socialiste Roger Vicot pose la question de la doctrine d'emploi des forces de l'ordre.",
+     "sources": [
+      "637cd573a004"
+     ]
+    },
+    {
+     "text": "Les régions ont la charge de la construction, de l'entretien et de la rénovation des lycées. En moyenne, les lycées ont plus de 70 ans et à peine 15 % du parc a été rénové en dix ans. En mai 2026, 200 000 lycéens professionnels ont passé leur bac dans des salles surchauffées, en pleine canicule.",
+     "sources": [
+      "85cb4fd53231"
+     ]
+    },
+    {
+     "text": "Les présidents de région chiffrent les dégâts : au moins 3 millions d'euros dans les Pays de la Loire, 7 millions en Île-de-France et entre 25 et 30 millions en Rhône-Alpes, selon une première estimation. Les régions disent manquer de marges : le projet de budget 2027 réduit de cinq milliards d'euros l'enveloppe des collectivités locales.",
+     "sources": [
+      "85cb4fd53231"
+     ]
+    },
+    {
+     "text": "Interrogé mardi sur franceinfo, Édouard Geffray a détaillé les réponses du gouvernement aux revendications des lycéens : professeurs absents, journées trop longues, emplois du temps, locaux vétustes et Parcoursup. Le Parisien titre qu'il espère une reprise des cours à partir de mercredi.",
+     "sources": [
+      "bd1fc7c7841b",
+      "9f8a40f81014"
+     ]
+    },
+    {
+     "text": "Les chiffres des régions ne sont qu'une première estimation.",
+     "sources": [
+      "637cd573a004",
+      "85cb4fd53231"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_c9uf8xl-taille1200_6ac4fe4f25f99.jpg?itok=x5OT6MZP",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-07/blocus-des-lycees-les-ministres-laurent-nunez-et-edouard-geffray-auditionnes",
+    "article_id": "637cd573a004",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.018518518518518517
+   },
+   "id": 58,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T07:00:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 2.39,
+   "sources": [
+    {
+     "id": "637cd573a004",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Blocus des lycées : les ministres Laurent Nuñez et Edouard Geffray auditionnés à l'Assemblée nationale ce mercredi",
+     "url": "https://www.cnews.fr/france/2026-10-07/blocus-des-lycees-les-ministres-laurent-nunez-et-edouard-geffray-auditionnes",
+     "published_at": "2026-10-07T04:06:22+00:00",
+     "snippet": "Sur le devant de la scène depuis le début de la mobilisation dans les lycées, Laurent Nuñez et Édouard Geffray seront auditionnés par les députés ce mercredi à l'Assemblée nationale. Une période compliquée pour les deux ministres. Les ministres de l'Intérieur, Laurent Nuñez, et de l'Education nationale, Édouard Geffray, seront auditionnés ce mercredi par les députés à l'Assemblée nationale, au lendemain de l'acte III d'un vaste mouvement lycéen sous haute tension. Edouard Geffray sera entendu à 10h «sur le blocage des lycées» en commission des Affaires culturelles et de l'Education. Laurent Nu"
+    },
+    {
+     "id": "85cb4fd53231",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Les lycéens réclament de meilleures conditions d'études, mais les régions redoutent le coût de la facture",
+     "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-lyceens-reclament-de-meilleures-conditions-d-etudes-mais-les-regions-redoutent-le-cout-de-la-facture_8203916.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T06:05:02+00:00",
+     "snippet": "Bâtiments vétustes, salles mal chauffées ou surchauffées : les conditions matérielles figurent parmi les revendications des lycéens. Mais les régions, chargées des établissements, assurent disposer de peu de marges financières."
+    },
+    {
+     "id": "9f8a40f81014",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Blocus des lycées : Édouard Geffray espère une reprise des cours à partir de mercredi",
+     "url": "https://www.leparisien.fr/yvelines-78/blocus-des-lycees-edouard-geffray-espere-une-reprise-des-cours-a-partir-de-mercredi-05-10-2026-NVS47PRDHBDL7KNX67JMEUTYTY.php",
+     "published_at": "2026-10-05T21:12:48+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "bd1fc7c7841b",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Blocage des lycées, vétusté des locaux, violences recensées depuis le début du mouvement... Le \"8h30 franceinfo\" d'Édouard Geffray",
+     "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/blocage-des-lycees-vetuste-des-locaux-violences-recensees-depuis-le-debut-du-mouvement-le-8h30-franceinfo-d-edouard-geffray_8203937.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-06T06:54:55+00:00",
+     "snippet": "Édouard Geffray, ministre de l'Éducation nationale, est dans le \"8h30 franceinfo\"."
+    }
+   ]
+  },
+  {
+   "headline": "Mélenchon promet de poursuivre le gouverneur de la Banque de France pour « trahison »",
+   "chapo": "Mardi 6 octobre, Jean-Luc Mélenchon a promis que le gouverneur de la Banque de France, Emmanuel Moulin, serait poursuivi en justice pour « trahison » si LFI arrive au pouvoir en 2027. Mercredi, Moulin a répondu sur France Inter : « Je ne me laisserai pas intimider ».",
+   "points": [
+    {
+     "text": "Le candidat LFI écrit sur X : « C'est un acte de trahison. Il n'y aura pas de prescription en 2027. Il sera poursuivi pour cela. » Il reproche au banquier central, ancien collaborateur direct de Macron, de prendre publiquement parti contre son pays à l'étranger en appelant implicitement les spéculateurs à sanctionner la France à cause de ses propositions.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "Mélenchon semble viser une interview d'Emmanuel Moulin publiée lundi par le Financial Times. Le gouverneur y estime que la France risque d'être « étranglée par les taux d'intérêt » si elle ne redresse pas ses finances publiques. Il ne mentionne ni Mélenchon ni La France insoumise, et précise que la France n'est pas la Grèce au moment de la crise de la zone euro.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "Mercredi sur France Inter, Moulin répond : « Je ne me laisserai pas intimider ». Il dit qu'il continuera à dire ce qu'il pense dans le cadre de son mandat et pour défendre l'institution qu'il préside. Il compare ces propos aux pressions de Donald Trump sur l'ex-banquier central américain Jerome Powell : il disait ne connaître jusque-là qu'un pays où l'on cherchait à intimider le banquier central, l'Amérique de Trump.",
+     "sources": [
+      "975b9d52d19c",
+      "d5615c6d38b9"
+     ]
+    },
+    {
+     "text": "Les Insoumis et le gouverneur s'opposent depuis plusieurs mois sur la dette. Moulin avait jugé « illégale, dangereuse et inutile » la proposition de Mélenchon d'annuler la part de la dette française détenue par la Banque centrale européenne.",
+     "sources": [
+      "975b9d52d19c"
+     ]
+    },
+    {
+     "text": "20 Minutes rappelle quelques cas de personnalités condamnées pour trahison en France : Louis XVI en 1793, le capitaine Alfred Dreyfus fin 1894 (innocenté et réhabilité en 1906), le maréchal Pétain par la Haute Cour de justice en 1945, et Georges Pâques en 1964.",
+     "sources": [
+      "a08b83018706"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://img.20mn.fr/YLkWRA7WTMyRwTZ6t2Pa9Ck/1200x768_jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle-2027-accompagne-de-deputes-de-la-france-insoumise-clemence-guette-daniele-obono-manuel-bompard-a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-greve-et-manifestation-de-la-fonction-publique-avant-la-presentation-du-projet-de-loi-de-finances-pour-l-annee-2027-par-sebastien-lecornu-le-29-septembre-2026-de-la-place-de-la-republique-a-la-place-de-la-nation-a-paris-paris-france-29-septembre-2026-jean-luc-melenchon-candidat-a-l-election-presidentielle-francaise-de-2027-avec-des-deputes-du-parti-la-france-insoumise-clemence-guette-daniele-obono-manuel-bompard-a-l-appel-des-syndicats-cgt-fo-cfdt-unsa-fsu-solidaires-cfe-cgc-et-fa-fp-une-greve-et-une-manifestation-des-travailleurs-du-secteur-public-auront-lieu-avant-la-presentation-du-projet-de-loi-de-finances-2027-par-sebastien-lecornu-le-29-septembre-2026-paris-france-29-09-2026-harsin-jlmelenchon-maniffonction-publique-020-credit-isa-harsin-sipa-2609292243",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4252042-20261007-dette-melenchon-veut-poursuivre-gouverneur-banque-france-trahison?at_medium=display&at_campaign=149",
+    "article_id": "975b9d52d19c"
+   },
+   "social_requested": "2026-10-08T07:10:06+00:00",
+   "id": 66,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T07:10:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 1.67,
+   "sources": [
+    {
+     "id": "975b9d52d19c",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Dette : Mélenchon veut poursuivre le gouverneur de la Banque de France, qui « refuse de se laisser intimider »",
+     "url": "https://www.20minutes.fr/politique/4252042-20261007-dette-melenchon-veut-poursuivre-gouverneur-banque-france-trahison?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-07T07:00:03+00:00",
+     "snippet": "Le candidat LFI accuse Emmanuel Moulin à inciter « implicitement les spéculateurs à sanctionner la France à cause de mes propositions »"
+    },
+    {
+     "id": "a08b83018706",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?",
+     "url": "https://www.20minutes.fr/politique/4252117-20261007-melenchon-vs-gouverneur-banque-france-petain-dreyfus-condamne-trahison-france?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-07T12:23:04+00:00",
+     "snippet": "De l’affaire Dreyfus au roi Louis XVI, retour sur ces figures de l’histoire française condamnées pour trahison"
+    },
+    {
+     "id": "d5615c6d38b9",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Je ne me laisserai pas intimider » : le gouverneur de la Banque de France répond à Mélenchon, qui veut le poursuivre pour « trahison »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/je-ne-me-laisserai-pas-intimider-le-gouverneur-de-la-banque-de-france-repond-a-melenchon-qui-veut-le-poursuivre-pour-trahison-07-10-2026-T4E6C2KNEFCLXBB2FIX7EBBMFE.php",
+     "published_at": "2026-10-07T15:58:34+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Grenades assourdissantes suspendues pour le mouvement lycéen, des policiers s'en inquiètent",
+   "chapo": "Mercredi 7 octobre, le ministre de l'Intérieur Laurent Nuñez a suspendu l'usage des grenades assourdissantes dans le cadre du mouvement lycéen, après la main d'un adolescent arrachée à Lens. Une enquête de l'IGPN est ouverte, et la mesure est mal perçue dans la police, selon Le Figaro.",
+   "points": [
+    {
+     "text": "Nuñez a annoncé la suspension sur RTL : « Je suspends leur usage pour le mouvement des lycéens tant que la lumière n'a pas été faite sur ce qui s'est passé dans cette affaire ». Il précise que la mesure vaut uniquement pour le mouvement lycéen, le temps de comprendre. L'adolescent de Lens, quinze ans selon Le Figaro, 16 ans selon BFMTV, a eu la main arrachée lundi par une grenade.",
+     "sources": [
+      "18f2c597fe77",
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Une enquête de l'IGPN doit établir si le lycéen a ramassé cette munition, si elle a atterri sur lui et si le tir était réglementaire, selon Le Figaro, qui parle de circonstances encore indéterminées. Nuñez a aussi indiqué que 18 enquêtes de l'IGPN sont ouvertes depuis le début du mouvement.",
+     "sources": [
+      "18f2c597fe77",
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Un autre adolescent, 14 ans, a été blessé au visage à Saint-Ouen-l'Aumône (Val-d'Oise) après avoir été atteint à la tête par le tir d'un lanceur de grenade lacrymogène, selon l'avocat de sa famille.",
+     "sources": [
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Dans la police, la décision est mal perçue : Le Figaro y voit « un mauvais signal » au sein des forces de l'ordre, et titre sur l'apostrophe de policiers au chef de l'État : « L'empathie ? Commencez par en avoir pour nos collègues ».",
+     "sources": [
+      "18f2c597fe77"
+     ]
+    },
+    {
+     "text": "À gauche, la critique porte sur la doctrine d'emploi de la force. Jean-Luc Mélenchon écrit sur X : « Il faut que ça cesse. Le commandement doit reprendre le contrôle des cowboys sadiques qui mutilent nos enfants ». L'ancienne ministre de l'Éducation Najat Vallaud-Belkacem juge que le gouvernement a eu une doctrine qui a ramassé trop large et n'a pas été efficace.",
+     "sources": [
+      "eecdd71ed6ca"
+     ]
+    },
+    {
+     "text": "Le communiste Guillaume Roubaud-Quashie, lui, déplore : « Il a fallu que la police arrache une main à un enfant pour qu'on comprenne ».",
+     "sources": [
+      "dc463d6ab668"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/07/f156251604f1d37ec25d916db83a451b0355a24fe7e0ca664831bc2a24addb39.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/actualite-france/l-empathie-commencez-par-en-avoir-pour-nos-collegues-l-apostrophe-des-policiers-au-chef-de-l-etat-20261007",
+    "article_id": "18f2c597fe77",
+    "focus_x": 0.5033333333333333,
+    "focus_y": 0.0365625
+   },
+   "id": 65,
+   "section": "institutions",
+   "reviewed_at": "2026-10-08T06:58:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 1.67,
+   "sources": [
+    {
+     "id": "18f2c597fe77",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« L’empathie ? Commencez par en avoir pour nos collègues » : l’apostrophe des policiers au chef de l’État",
+     "url": "https://www.lefigaro.fr/actualite-france/l-empathie-commencez-par-en-avoir-pour-nos-collegues-l-apostrophe-des-policiers-au-chef-de-l-etat-20261007",
+     "published_at": "2026-10-07T17:00:00+00:00",
+     "snippet": "DÉCRYPTAGE - À fleur de peau, la profession a en outre mal perçu, ce mercredi, la suspension temporaire des grenades assourdissantes, dont l’une a arraché lundi dernier la main d’un adolescent à Lens."
+    },
+    {
+     "id": "dc463d6ab668",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Suspension de l'usage des grenades assourdissantes: \"Il a fallu que la police arrache une main à un enfant pour qu'on comprenne\", déplore Guillaume Roubaud-Quashie (PCF)",
+     "url": "https://www.bfmtv.com/politique/video-suspension-de-l-usage-des-grenades-assourdissantes-il-a-fallu-que-la-police-arrache-une-main-a-un-enfant-pour-qu-on-comprenne-deplore-guillaume-roubaud-quashie-pcf_VN-202610070349.html",
+     "published_at": "2026-10-07T08:03:02+00:00",
+     "snippet": "Le ministre de l'Intérieur annonce ce mercredi 7 octobre que les forces de l'ordre n'utiliseront plus de grenades assourdissantes \"dans le cadre du mouvement lycéen\", deux jours après la grave blessure d'un lycéen à Lens."
+    },
+    {
+     "id": "eecdd71ed6ca",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère lycéenne: Sébastien Lecornu assure que \"les forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-sebastien-lecornu-assure-que-les-forces-de-l-ordre-n-ont-pas-pour-instruction-d-affronter-les-lyceens_AN-202610070756.html",
+     "published_at": "2026-10-07T16:58:30+00:00",
+     "snippet": "Ce mercredi 7 octobre, le Premier ministre Sébastien Lecornu rappelle que les \"forces de l'ordre n'ont pas pour instruction d'affronter les lycéens\" lors d'une prise de parole en plein contexte de mobilisation lycéenne."
     }
    ]
   }
