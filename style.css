@@ -2,20 +2,20 @@
   color-scheme: light;
   --cream: #fff8ef;
   --paper: #ffffff;
-  --ink: #3a2e2a;
-  --muted: #7a685f;
-  --line: #f0e4d6;
-  --terracotta: #b4532f;
+  --ink: #2f3a4a;
+  --muted: #6b7686;
+  --line: #e6e1d6;
+  --terracotta: #4a6a92;
 
-  --peach: #ffdccb;
+  --peach: #dbe5f1;
   --mint: #d3eddf;
   --lavender: #e4dcf8;
   --butter: #fff0b5;
   --sky: #d6eaf7;
-  --rose: #fad6e0;
+  --rose: #e8eef6;
 
   --radius: 26px;
-  --shadow: 0 2px 0 rgba(58, 46, 42, .04), 0 14px 34px rgba(180, 120, 80, .10);
+  --shadow: 0 2px 0 rgba(47, 58, 74, .04), 0 14px 34px rgba(70, 100, 140, .10);
   --serif: "Fraunces", Georgia, "Times New Roman", serif;
   --sans: "Nunito", ui-rounded, "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
@@ -191,3 +191,34 @@ details.srcs li { margin-bottom: 10px; }
 .hero + .meta { margin-top: 18px; }
 .cd-cap, .cd-cap[hidden] { display: none; }
 .countdown { margin-bottom: 0; }
+
+/* moins de bulles de couleur : on ne touche qu'à ça */
+.hero::before, .hero::after { display: none; }
+.cd-unit:nth-child(n) { background: var(--paper); box-shadow: 0 0 0 1px var(--line); }
+.tab[aria-selected="true"] { background: var(--terracotta); color: #fff; }
+.topic { background: var(--cream); box-shadow: 0 0 0 1px var(--line); }
+.topic.une { background: var(--terracotta); color: #fff; box-shadow: none; }
+.how li:nth-child(n) { background: var(--cream); }
+.more-btn { background: var(--cream); box-shadow: 0 0 0 1px var(--line); }
+/* encadrements rectangulaires : onglets et « Voir plus » */
+.tabs { border-radius: 0; padding: 0; gap: 0; background: var(--paper); box-shadow: 0 0 0 1.5px var(--ink); }
+.tab { border-radius: 0; padding: 8px 16px; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--cream); }
+.more-btn { border-radius: 0; background: var(--paper); color: var(--ink); box-shadow: 0 0 0 1.5px var(--ink); padding: 9px 20px; }
+.more-btn:hover { background: var(--ink); color: var(--cream); filter: none; }
+/* pastels aux couleurs du logo : bleu rideau et jaune doux */
+:root { --blue-p: #d6e2f0; --blue-p2: #e6eef7; --yel-p: #fff0b5; --yel-p2: #fff7d1; }
+.tint-0 { --tint: var(--blue-p); }
+.tint-1 { --tint: var(--yel-p); }
+.tint-2 { --tint: var(--blue-p2); }
+.tint-3 { --tint: var(--yel-p2); }
+.tint-4 { --tint: var(--blue-p); }
+.tint-5 { --tint: var(--yel-p); }
+.topic { background: var(--tint); box-shadow: none; }
+.topic.une { background: var(--terracotta); color: #fff; }
+.cd-unit:nth-child(odd) { background: var(--blue-p); box-shadow: none; }
+.cd-unit:nth-child(even) { background: var(--yel-p); box-shadow: none; }
+.how li:nth-child(odd) { background: var(--blue-p2); }
+.how li:nth-child(even) { background: var(--yel-p2); }
+.tabs { background: var(--blue-p2); }
+.tab:not([aria-selected="true"]) { background: transparent; }
