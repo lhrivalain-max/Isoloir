@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T11:37:16+00:00",
+ "generated_at": "2026-10-13T11:37:32+00:00",
  "posts": [
   {
    "headline": "Après la primaire, Ségolène Royal conditionne son soutien à Glucksmann : « sans moi » si ça dérive vers le macronisme",
@@ -301,6 +301,145 @@
    ]
   },
   {
+   "headline": "Gazole : Lecornu promet une baisse jusqu'à 18 centimes dès le 1er novembre, comment ça marche",
+   "chapo": "Lundi 12 octobre, Sébastien Lecornu a annoncé une baisse du prix du gazole « dès le 1er novembre », grâce à la vente de 10 millions de barils issus des stocks stratégiques. Les distributeurs se sont engagés à répercuter la baisse, mais des questions demeurent sur son application.",
+   "points": [
+    {
+     "text": "Sébastien Lecornu a assuré lundi 12 octobre que les prix du gazole baisseraient « dès le 1er novembre » après le déstockage de 10 millions de barils de gazole. « Le 28 octobre, la vente des volumes aux distributeurs commencera, et le 1er novembre, les prix baisseront à la pompe », a-t-il affirmé. Il prendra un décret dans les « prochains jours ».",
+     "sources": [
+      "3cd9667e0ab2",
+      "57a9209c777d"
+     ]
+    },
+    {
+     "text": "Le gouvernement évalue la baisse entre 12 et 18 centimes par litre, soit environ 10 euros d'économie par plein, selon Sébastien Lecornu. La baisse concernerait aussi le fioul domestique et le gazole non routier utilisé par les agriculteurs, les pêcheurs et les entreprises du bâtiment et des travaux publics, selon La Croix.",
+     "sources": [
+      "ae37dc9800dd",
+      "1def14c32411"
+     ]
+    },
+    {
+     "text": "Comment c'est possible : l'État vend à prix coûtant du gazole issu de ses stocks stratégiques, achetés avant la guerre au Moyen-Orient à 0,28 € le litre, contre environ 1,10 € le litre pour le prix de marché actuel, selon Matignon cité par La Croix. L'opération doit durer trois mois, jusqu'à fin janvier.",
+     "sources": [
+      "ae37dc9800dd"
+     ]
+    },
+    {
+     "text": "Après une réunion avec le Premier ministre, le PDG de TotalEnergies Patrick Pouyanné s'est engagé à baisser de 8 à 12 centimes le litre de gazole pour les particuliers, et de 20 centimes celui du gazole non routier. Il s'attend aussi à une « détente sur le marché » après l'accord annoncé par Washington avec Moscou sur ce carburant, selon CNews.",
+     "sources": [
+      "3cd9667e0ab2",
+      "57a9209c777d"
+     ]
+    },
+    {
+     "text": "Pour les petites stations : plus de 300 stations rurales recevront des « avances de trésorerie » et un « fonds spécialisé » pour baisser leurs prix dès le 1er novembre. Le président de Mobilians, Francis Pousse, ne s'est pas avancé sur un prix : la baisse sera répercutée « dès qu'on aura du prix remisé ».",
+     "sources": [
+      "3cd9667e0ab2",
+      "57a9209c777d"
+     ]
+    },
+    {
+     "text": "Le contrôle : le gouvernement publiera chaque semaine les volumes libérés, la baisse du coût et les prix moyens à la pompe, et les services de l'État contrôleront les prix et les marges des distributeurs, selon CNews. « Chaque étape sera traçable », a promis Sébastien Lecornu.",
+     "sources": [
+      "57a9209c777d",
+      "ae37dc9800dd"
+     ]
+    },
+    {
+     "text": "L'Humanité est critique : selon le journal, TotalEnergies n'a rien d'un « geste de solidarité », et son opération commerciale serait « largement compensée » par les superprofits liés au blocage du détroit d'Ormuz.",
+     "sources": [
+      "6d5db1298e40"
+     ]
+    },
+    {
+     "text": "Contexte : avec la hausse des prix des carburants, des appels à manifester le samedi 17 octobre ont été lancés sur les réseaux sociaux, selon franceinfo.",
+     "sources": [
+      "fd9b7d350c77"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : si la baisse sera vraiment répercutée partout à la pompe. La Croix écrit que « des questions demeurent sur son application », alors que TotalEnergies, E.Leclerc et les distributeurs se sont engagés à la répercuter.",
+     "sources": [
+      "ae37dc9800dd"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://img.20mn.fr/r4WYPIXPS_-rjmAu7O5ySik/1200x768_sebastien-lecornu-premier-ministre-accueil-de-frank-walter-steinmeier-president-de-la-republique-federale-d-allemagne-et-de-son-epouse-elke-budenbender-par-le-president-de-la-republique-emmanuel-macron-et-son-epouse-brigitte-macron-au-palais-de-l-elysee-le-8-octobre-2026-pour-un-diner-d-etat-paris-francia-08-10-2026-sebastien-lecornu-premier-ministre-francais-le-president-francais-emmanuel-macron-et-son-epouse-brigitte-macron-ont-accueilli-frank-walter-steinmeier-president-de-la-republique-federale-d-allemagne-et-son-epouse-elke-budenbender-a-l-elysee-le-8-octobre-2026-pour-un-diner-d-etat-paris-france-08-10-2026-harsin-dineretatl-macronsteinmeier037-credit-isa-harsin-sipa-2610082322",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4253745-20261012-prix-carburants-sebastien-lecornu-assure-gazole-baissera-1er-novembre?at_medium=display&at_campaign=149",
+    "article_id": "3cd9667e0ab2"
+   },
+   "id": 110,
+   "section": "institutions",
+   "reviewed_at": "2026-10-13T11:37:32+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "1def14c32411",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Carburants: Sébastien Lecornu promet une baisse du gazole allant jusqu'à 18 centimes par litre à partir du 1er novembre",
+     "url": "https://www.bfmtv.com/politique/video-carburants-sebastien-lecornu-promet-une-baisse-du-gazole-allant-jusqu-a-18-centimes-par-litre-a-partir-du-1er-novembre_VN-202610130165.html",
+     "published_at": "2026-10-13T05:38:09+00:00",
+     "snippet": "Le Premier ministre, Sébastien Lecornu, évoque ce lundi \"une économie d'environ 10 euros par plein\" après l'annonce de la libération de 10 millions de barils de gazole provenant des stocks stratégiques."
+    },
+    {
+     "id": "3cd9667e0ab2",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Prix des carburants : Sébastien Lecornu assure que le gazole baissera « dès le 1er novembre »",
+     "url": "https://www.20minutes.fr/politique/4253745-20261012-prix-carburants-sebastien-lecornu-assure-gazole-baissera-1er-novembre?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-12T18:49:49+00:00",
+     "snippet": "« Le 28 octobre, la vente des volumes aux distributeurs commencera, et le 1er novembre, les prix baisseront à la pompe », a affirmé le Premier ministre dans une vidéo sur ses réseaux sociaux"
+    },
+    {
+     "id": "57a9209c777d",
+     "name": "CNews",
+     "kind": "media",
+     "title": "«10 € d’économie par plein» : Sébastien Lecornu annonce une baisse des prix du gazole et du fioul domestique dès le 1er novembre",
+     "url": "https://www.cnews.fr/france/2026-10-12/10-eu-deconomie-par-plein-sebastien-lecornu-annonce-une-baisse-des-prix-du-gazole",
+     "published_at": "2026-10-12T19:02:23+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a assuré lundi que les prix du gazole baisseraient «dès le 1er novembre» après le déstockage de 10 millions de barils de gazole, qui seront mis en vente à partir du 28 octobre pour environ trois mois. Une annonce visant à atténuer les impacts de la crise énergétique sur le quotidien des Français. Sébastien Lecornu a assuré lundi, dans une vidéo relayée sur son compte X, que les prix du gazole baisseraient «dès le 1er novembre» après le déstockage de 10 millions de barils de gazole pendant près de trois mois. Les prix du gazole et du fioul domestique vont b"
+    },
+    {
+     "id": "6d5db1298e40",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "TotalEnergies s’engage à baisser les prix de 8 à 12 centimes pour les automobilistes : pourquoi la multinationale gagne à tous les coups",
+     "url": "https://www.humanite.fr/social-et-economie/energie/totalenergies-sengage-a-baisser-les-prix-de-8-a-12-centimes-pour-les-automobilistes-pourquoi-la-firme-gagne-a-tous-les-coups",
+     "published_at": "2026-10-12T17:00:00+00:00",
+     "snippet": "TotalEnergies a promis, lundi 12 octobre, une nouvelle réduction des tarifs appliqués à la pompe de 8 à 12 centimes."
+    },
+    {
+     "id": "ae37dc9800dd",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Carburant : le gouvernement assure que les prix du gazole baisseront dès le 1er novembre",
+     "url": "https://www.la-croix.com/politique/carburant-le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre-20261013",
+     "published_at": "2026-10-13T05:06:32+00:00",
+     "snippet": "Le premier ministre Sébastien Lecornu a promis lundi 12 octobre une baisse du prix du gazole à la pompe dès le 1er novembre. TotalEnergies, E.Leclerc et les distributeurs se sont engagés à répercuter la mesure, mais des questions demeurent sur son application."
+    },
+    {
+     "id": "fd9b7d350c77",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Grève, budget, Gilets jaunes... Semaine à hauts risques pour le gouvernement",
+     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-12T06:08:18+00:00",
+     "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
+    }
+   ]
+  },
+  {
    "headline": "Bardella à Ceuta avec Vox : ce que propose le RN sur l'immigration",
    "chapo": "Lundi 12 octobre, Jordan Bardella s'est rendu à Ceuta, enclave espagnole au Maroc, avec Santiago Abascal (Vox). Il y a détaillé les propositions du RN sur l'immigration, dont un Schengen réservé aux Européens. Pour L'Humanité, c'est une mise en scène avec un parti d'extrême droite. Euronews et l'AFP détaillent surtout les propos des deux dirigeants.",
    "points": [
@@ -386,7 +525,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.99,
    "sources": [
     {
      "id": "068b6a45702f",
