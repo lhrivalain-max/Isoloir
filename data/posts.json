@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T11:37:44+00:00",
+ "generated_at": "2026-10-13T16:00:05+00:00",
  "posts": [
   {
    "headline": "Retailleau veut 197 milliards d'économies : ce que contient son plan",
@@ -77,7 +77,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 21.0,
+   "score": 17.76,
    "sources": [
     {
      "id": "133db027e449",
@@ -230,7 +230,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.47,
+   "score": 9.51,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -405,7 +405,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 15.22,
    "sources": [
     {
      "id": "1def14c32411",
@@ -549,7 +549,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.99,
+   "score": 12.68,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -677,7 +677,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 10.15,
    "sources": [
     {
      "id": "57c07028e804",
@@ -800,7 +800,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.4,
+   "score": 11.37,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -981,7 +981,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.93,
+   "score": 8.19,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -1148,7 +1148,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.79,
+   "score": 8.07,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -1345,7 +1345,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.66,
+   "score": 14.76,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -1735,7 +1735,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.65,
+   "score": 9.96,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1947,7 +1947,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.33,
+   "score": 5.97,
    "sources": [
     {
      "id": "0a254f232767",
@@ -2115,7 +2115,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.3,
+   "score": 3.14,
    "sources": [
     {
      "id": "22099a905f2b",
@@ -2252,7 +2252,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.46,
+   "score": 7.13,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -2436,7 +2436,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.12,
+   "score": 3.93,
    "sources": [
     {
      "id": "01516d0832b5",
@@ -2570,7 +2570,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.86,
+   "score": 3.69,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -2726,7 +2726,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.6,
+   "score": 3.44,
    "sources": [
     {
      "id": "0d2c29a247fa",
@@ -2869,7 +2869,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.09,
+   "score": 2.95,
    "sources": [
     {
      "id": "4961abc0c541",
@@ -2906,207 +2906,6 @@
      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html",
      "published_at": "2026-10-10T05:00:18+00:00",
      "snippet": "Le candidat Renaissance tient un meeting à Lyon, samedi, où il compte mettre en scène une rivalité avec le leader de La France insoumise. Un moyen de sortir de son duel avec Edouard Philippe, favori du bloc central, comme des crises de la rentrée."
-    }
-   ]
-  },
-  {
-   "headline": "Primaire de la gauche : la plateforme de vote victime d'une cyberattaque dès l'ouverture du scrutin",
-   "chapo": "Vendredi 9 octobre, la plateforme de vote en ligne de la primaire sociale-démocrate a été visée par une cyberattaque dès l'ouverture du scrutin à 8 h. Les organisateurs assurent que les votes enregistrés ne sont pas compromis et saisissent la justice. Environ 140 000 électeurs doivent départager cinq candidats jusqu'à dimanche 11 octobre à 18 h, après une prolongation du vote décidée en raison de l'attaque.",
-   "points": [
-    {
-     "text": "La plateforme e-votez, prestataire du vote de la primaire, est « victime d'une cyberattaque » depuis son ouverture vendredi 9 octobre à 8 h, annonce la commission d'organisation, présidée par Patrick Mennucci.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e"
-     ]
-    },
-    {
-     "text": "L'attaque consiste à porter au maximum le nombre de connexions simultanées, par le biais de robots. Cet afflux massif et fictif de connexions entrave la capacité de voter d'une partie des électrices et électeurs.",
-     "sources": [
-      "f6e5817baafb",
-      "6c21731f029e",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Les organisateurs assurent qu'à aucun moment la plateforme n'a été interrompue et que le scrutin s'est poursuivi sans coupure. Selon eux, « l'intégrité des votes enregistrés n'est pas compromise ».",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864"
-     ]
-    },
-    {
-     "text": "Une ligne d'assistance reste mobilisée pour les électeurs en difficulté de connexion. Les organisateurs invitent à retenter régulièrement : le vote, d'abord prévu jusqu'à samedi 20 h, a été prolongé jusqu'à dimanche 18 h. Selon Public Sénat, Patrick Mennucci parle d'« un ralentissement » : « Des gens votent, mais beaucoup n'y arrivent pas ».",
-     "sources": [
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "f5c8cc7a308d",
-      "fff528d9bb9f"
-     ]
-    },
-    {
-     "text": "Les organisations politiques parties prenantes « condamnent fermement cette tentative de perturbation du processus démocratique » et saisissent la justice, en qualifiant l'attaque de grave. Selon Public Sénat, les trois partis organisateurs (PS, Place publique et GRS) saisissent la justice, et les services du Premier ministre ont saisi l'Agence nationale de la sécurité des systèmes d'information.",
-     "sources": [
-      "f6e5817baafb",
-      "13611f0b1864",
-      "6c21731f029e",
-      "a1a08d3e0428",
-      "a6a2dc35e0ba"
-     ]
-    },
-    {
-     "text": "Environ 140 000 électeurs doivent choisir entre cinq candidats : Raphaël Glucksmann, présenté comme le favori, Olivier Faure, son challenger, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel. Le corps électoral dépasse les prévisions, qui tablaient sur 90 000 inscrits. Le résultat est annoncé pour dimanche à 18 h 30, selon LCP.",
-     "sources": [
-      "024363e8ba85",
-      "f6e5817baafb",
-      "6c21731f029e",
-      "f5c8cc7a308d"
-     ]
-    },
-    {
-     "text": "Cette primaire est très loin de celle qui avait permis la victoire de François Hollande en 2012, entre 2,6 et 2,8 millions de votants, rappelle 20 Minutes.",
-     "sources": [
-      "024363e8ba85"
-     ]
-    },
-    {
-     "text": "L'origine de l'attaque et le nombre d'électeurs empêchés de voter ne sont pas précisés. Le Monde, Libération, France 24, Le Parisien et BFMTV rapportent aussi cette cyberattaque.",
-     "sources": [
-      "7f3d9532dc29",
-      "9f694cefad33",
-      "0ab953af061b",
-      "5c8839f79a6c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/Kmvm8Vm6IwUEjTgP1L4HdGOqIXg/0x66:1024x642/432x243/filters:format(jpg)/2026/10/05/6ac3f877b585c031808225.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "f6e5817baafb"
-   },
-   "id": 73,
-   "section": "institutions",
-   "reviewed_at": "2026-10-09T11:44:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 4.8,
-   "sources": [
-    {
-     "id": "024363e8ba85",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Primaire de la gauche : La plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.20minutes.fr/politique/4252810-20261009-primaire-gauche-plateforme-vote-victime-cyberattaque?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T09:26:54+00:00",
-     "snippet": "Une cyberattaque a visé la plateforme du vote de la primaire de la gauche. Un « afflux massif et fictif de connexions » qui n’a pas interrompu le scrutin, précisent les organisateurs"
-    },
-    {
-     "id": "0ab953af061b",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : la plateforme de vote victime d'une cyberattaque",
-     "url": "https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque",
-     "published_at": "2026-10-09T10:29:32+00:00",
-     "snippet": "La commission d'organisation de la primaire sociale-démocrate a annoncé vendredi matin que la plateforme de vote était victime d'une cyberattaque qui impactait le processus pour voter, sans toutefois empêcher le scrutin."
-    },
-    {
-     "id": "13611f0b1864",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Primaire socialiste en vue de la Présidentielle 2027 : la plate-forme de vote en ligne victime d'une cyberattaque",
-     "url": "https://www.cnews.fr/france/2026-10-09/primaire-socialiste-en-vue-de-la-presidentielle-2027-la-plate-forme-de-vote-en",
-     "published_at": "2026-10-09T09:29:23+00:00",
-     "snippet": "La plate-forme de vote en ligne de la primaire socialiste, dont le premier tour a commencé depuis 8h ce vendredi, a été «victime d’une cyberattaque», a annoncé dans un communiqué Patrick Mennucci, le président de la commission d'organisation de la primaire. A peine ouverte, déjà piratée. La plate-forme e-votez, prestataire du vote pour la primaire sociale-démocrate, a été «victime d'une cyberattaque» dès son ouverture ce vendredi matin à 8h, a annoncé la commission d'organisation de la primaire dans un communiqué. Cette attaque consiste à créer un «afflux massif et fictif de connexions» qui «e"
-    },
-    {
-     "id": "5c8839f79a6c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la plate-forme de vote en ligne de la primaire socialiste victime d’une cyberattaque, l’accès au scrutin perturbé",
-     "url": "https://www.leparisien.fr/elections/presidentielle/primaire-socialiste-la-plate-forme-de-vote-en-ligne-victime-dune-cyberattaque-lacces-au-scrutin-perturbe-09-10-2026-OMUMDUJ7NBFZVEMIAXZURF3HYU.php",
-     "published_at": "2026-10-09T10:53:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6c21731f029e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "La plateforme de vote en ligne pour la primaire socialiste ciblée par une cyberattaque",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/la-plateforme-de-vote-en-ligne-pour-la-primaire-socialiste-ciblee-par-une-cyberattaque_AN-202610090381.html",
-     "published_at": "2026-10-09T09:20:15+00:00",
-     "snippet": "Le premier tour de la primaire socialiste, qui a débuté depuis ce vendredi 9 octobre à 8h, a été la cible d'une cyberattaque. 140.000 électeurs vont choisir leur candidat à la présidentielle parmi cinq prétendants."
-    },
-    {
-     "id": "7f3d9532dc29",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Primaire de la gauche sociale-démocrate : la plateforme de vote victime d’une cyberattaque",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-victime-d-une-cyberattaque_6790554_823448.html",
-     "published_at": "2026-10-09T10:33:04+00:00",
-     "snippet": "Malgré une cyberattaque perturbant l’accès à la plateforme, la commission d’organisation assure que l’intégrité des votes reste garantie."
-    },
-    {
-     "id": "9f694cefad33",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire à gauche : la plateforme de vote victime d’une cyberattaque, l’accès au site fortement perturbé",
-     "url": "https://www.liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4/",
-     "published_at": "2026-10-09T10:17:58+00:00",
-     "snippet": "Selon la commission d’organisation de la primaire PS-Place publique, la plateforme «e-votez» est perturbée depuis ce vendredi matin, 8 heures, par un «afflux massif et fictif de connexions». Plus de 140 000 personnes doivent participer au scrutin d’ici samedi 20 heures."
-    },
-    {
-     "id": "a1a08d3e0428",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Le vote du premier tour de la primaire du PS perturbé par une cyberattaque",
-     "url": "https://www.publicsenat.fr/actualites/politique/le-vote-du-premier-tour-de-la-primaire-du-ps-perturbe-par-une-cyberattaque",
-     "published_at": "2026-10-09T14:28:56+00:00",
-     "snippet": "Alors que quelque 140 000 électeurs sont invités à exprimer leur préférence pour le premier tour de la primaire organisée à gauche, les opérations de vote sont perturbées depuis l’ouverture du scrutin ce vendredi matin. Les organisateurs font état d’une cyberattaque visant à saturer la plateforme de connexion. Les trois partis à l’origine de cette primaire, dont le Parti socialiste et Place publique, ont saisi la justice."
-    },
-    {
-     "id": "a6a2dc35e0ba",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire socialiste: la plateforme pour voter en ligne \"victime d'une cyberattaque\", mais l'intégrité des votes \"pas compromise\"",
-     "url": "https://lcp.fr/actualites/primaire-socialiste-la-plateforme-pour-voter-en-ligne-victime-d-une-cyberattaque-mais-l",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 11:48 \"La plateforme e-votez, prestataire du vote pour la primaire socialiste et démocratique, est victime d’une cyberattaque depuis son ouverture ce vendredi matin 8h\" a annoncé le président de la commission d’organisation, Patrick Mennucci. Il indique cependant qu'\"à aucun moment la plateforme de vote n’a été interrompue\" et que \"l'intégrité des votes enregistrés n'est pas compromise\". À peine ouverte aux votes, la plateforme e-votez, prestataire pour le scrutin de la primaire de la gauche sociale-démocrate, qui est organisé en ligne, a été"
-    },
-    {
-     "id": "f5c8cc7a308d",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire de la gauche: le vote prolongé jusqu'à 18 heures ce dimanche à cause de la cyberattaque",
-     "url": "https://lcp.fr/actualites/primaire-de-la-gauche-le-vote-prolonge-jusqu-a-18-heures-ce-dimanche-a-cause-de-la",
-     "published_at": "2026-10-09T18:54:10+00:00",
-     "snippet": "Par Maxence Kagni , le Vendredi 9 octobre 2026 à 20:46 Alors que la plateforme de vote a été victime ce vendredi d'une cyberattaque, la proclamation des résultats du premier tour de la primaire de la gauche social-démocrate a été repoussée à dimanche, afin de permettre le bon déroulement du scrutin. Les résultats du premier tour de la primaire socialiste ne seront pas connus ce samedi soir, mais dimanche, à 18h30. La commission d'organisation de la primaire, dirigée par Patrick Mennucci, a publié un communiqué ce vendredi afin d'annoncer que les personnes souhaitant voter pourront finalement l"
-    },
-    {
-     "id": "f6e5817baafb",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque depuis son ouverture\", annonce la commission d'organisation",
-     "url": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-09T09:29:40+00:00",
-     "snippet": "\"L'intégrité des votes enregistrés n'est pas compromise\" et \"à aucun moment la plateforme de vote n'a été interrompue\", assurent les organisateurs. Le scrutin a démarré à 8 heures vendredi matin."
-    },
-    {
-     "id": "fff528d9bb9f",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Présidentielle 2027. Primaire socialiste : le vote prolongé jusqu'à dimanche 18h après une cyberattaque",
-     "url": "https://www.leprogres.fr/elections/2026/10/09/primaire-socialiste-la-plateforme-de-vote-victime-d-une-cyberattaque-au-debut-du-premier-tour",
-     "published_at": "2026-10-09T17:45:00+00:00",
-     "snippet": "Quelque 140 000 électeurs doivent choisir leur candidat à la présidentielle mais le scrutin en ligne est perturbé par une cyberattaque, selon les organisateurs."
     }
    ]
   },
@@ -3206,7 +3005,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.0,
+   "score": 3.85,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -3324,223 +3123,6 @@
      "url": "https://www.mediapart.fr/journal/france/091026/ecrits-antisemites-sur-messenger-jordan-bardella-trahi-par-lui-meme",
      "published_at": "2026-10-09T09:09:10+00:00",
      "snippet": "«Mediapart» a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémites. Après les preuves techniques et les recoupements biographiques, Jordan Bardella se démasque involontairement."
-    }
-   ]
-  },
-  {
-   "headline": "Édouard Philippe à « L'Heure de vérité » : ordonnances en juillet 2027, allocation familiale unique, retraites à 65 ans",
-   "chapo": "Invité du premier numéro de « L'Heure de vérité » sur France 2, jeudi 8 octobre, Édouard Philippe a détaillé ce qu'il ferait s'il était élu : dissoudre l'Assemblée, présenter une vingtaine d'ordonnances dès juillet 2027, créer une allocation familiale unique de 350 euros par mois et relever l'âge de départ à la retraite à 65 ans.",
-   "points": [
-    {
-     "text": "Pendant plus de deux heures, le candidat Horizons a répondu aux questions de Caroline Roux et de cinq journalistes, dont Eugénie Bastié et Benjamin Duhamel, sur la mobilisation lycéenne, le pouvoir d'achat, les retraites et les guerres en Ukraine et au Moyen-Orient. Interrogé sur sa stratégie pour s'imposer au centre droit, il écarte à nouveau l'hypothèse d'une primaire : il veut un rassemblement « de la droite et du centre, et peut-être, le moment venu, au-delà ». Libération y voit une tentative de « renouer avec les Français ».",
-     "sources": [
-      "43fcf99cbf7d",
-      "4532a0164680",
-      "1574c0f140f9",
-      "6cb4957acab5"
-     ]
-    },
-    {
-     "text": "S'il est élu, il dissoudrait l'Assemblée pour faire élire un nouveau Parlement, puis proposerait dès juillet 2027, au début de la session extraordinaire, une vingtaine d'ordonnances, pour qu'elles entrent en vigueur dès l'automne. Son objectif : « que ce pays soit commandé et gouverné ». Il dit aussi qu'il ne vivrait pas à l'Élysée.",
-     "sources": [
-      "32fed0cb6c56",
-      "81e07dcc8d30",
-      "678e2627a114",
-      "4532a0164680"
-     ]
-    },
-    {
-     "text": "Sur le pouvoir d'achat, il propose de travailler deux heures de plus par semaine pour un gain de 1 000 euros par an au Smic : les salariés qui acceptent de travailler plus longtemps seraient exonérés de cotisations sociales.",
-     "sources": [
-      "43fcf99cbf7d",
-      "4532a0164680"
-     ]
-    },
-    {
-     "text": "Il veut « revoir totalement le système des allocations familiales » : une allocation unique de 350 euros par mois dès le premier enfant, y compris pour les familles monoparentales, dégressive avec l'impôt sur le revenu. Il propose aussi une réduction d'impôt d'environ 3 000 euros pendant les trois années suivant une naissance : selon LCP, les foyers qui paient moins de 3 000 euros d'impôt en seraient exonérés pendant trois ans. S'y ajoute un prêt à taux zéro pour les familles qui changent d'appartement après un enfant.",
-     "sources": [
-      "43fcf99cbf7d",
-      "6990dec7cf1a",
-      "4532a0164680",
-      "32fed0cb6c56"
-     ]
-    },
-    {
-     "text": "Retraites : il reprend la réforme de 2023, suspendue en 2025, pour porter progressivement la durée de cotisation à 45 ans et l'âge de départ à 65 ans en moins de dix ans, avec une part de capitalisation. Un tiers des salariés en seraient exonérés, selon 20 Minutes.",
-     "sources": [
-      "4532a0164680",
-      "43fcf99cbf7d",
-      "81e07dcc8d30"
-     ]
-    },
-    {
-     "text": "Pour les comptes publics, il veut ramener le déficit à 2 % à la fin du quinquennat, avec 50 % de l'effort sur les dépenses sociales et 25 % sur les collectivités. Il propose de réduire l'indemnisation chômage de dix-huit à douze mois et de ne remplacer que deux départs sur trois dans la fonction publique, soit environ 250 000 postes en moins sur cinq ans.",
-     "sources": [
-      "4532a0164680",
-      "43fcf99cbf7d"
-     ]
-    },
-    {
-     "text": "Sur l'immigration, il veut « diviser par deux l'immigration légale », pour revenir à « largement inférieur à 200.000 » titres de séjour par an, comme avant 2010. Il précise que son intention n'est pas de « ramener [l'immigration] à zéro » : « on va continuer à avoir besoin de dizaines de milliers de personnes qui viennent travailler en France ». Il propose aussi un moratoire sur le regroupement familial pendant le quinquennat, n'écarte pas totalement un référendum et maintient sa proposition de dénoncer l'accord franco-algérien de 1968.",
-     "sources": [
-      "43fcf99cbf7d",
-      "c079e44a0ab8",
-      "4532a0164680"
-     ]
-    },
-    {
-     "text": "Sur les lycéens, il dit : « Je n'ai aucune envie d'être brutal avec les lycéens : j'en ai à la maison ». Certaines revendications lui semblent fondées, et il juge que « Parcoursup ne marche pas. C'est stressant et ça ne marche pas comme ça devrait ».",
-     "sources": [
-      "43fcf99cbf7d"
-     ]
-    },
-    {
-     "text": "À l'international, il soutient l'Ukraine et dit ne pas vouloir la guerre avec la Russie. Il évoque un « désaccord majeur » avec la politique du gouvernement israélien et le « carnage » à Gaza, qu'il ne qualifie pas de génocide.",
-     "sources": [
-      "4532a0164680",
-      "43fcf99cbf7d"
-     ]
-    },
-    {
-     "text": "À gauche, L'Humanité se demande si Édouard Philippe est « un Nicolas Sarkozy 2.0 ».",
-     "sources": [
-      "fa033bbe5458"
-     ]
-    },
-    {
-     "text": "Côté adversaires, Jean-Luc Mélenchon tiendra un meeting au Havre, la ville dont Édouard Philippe est le maire, le 5 décembre. « Nous voulons défier Édouard Philippe avec ce meeting dans la ville dont il est le maire », indique le coordinateur de LFI, Manuel Bompard.",
-     "sources": [
-      "2581e1834699",
-      "98b3ffb5db3e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/YLe9Be5IaoqrvaupEORF7lKgG5w/0x212:5500x3306/432x243/filters:format(jpg)/2026/10/08/6ac7f3154f494047312733.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/edouard-philippe/immigration-retraites-allocations-familiales-parcoursup-ce-qu-il-faut-retenir-de-l-interview-d-edouard-philippe-dans-l-emission-l-heure-de-verite_8228416.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "43fcf99cbf7d"
-   },
-   "id": 74,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-09T11:44:28+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.8,
-   "sources": [
-    {
-     "id": "1574c0f140f9",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Edouard Philippe, un passage à «l’Heure de vérité» pour tenter de renouer avec les Français",
-     "url": "https://www.liberation.fr/politique/edouard-philippe-un-passage-a-lheure-de-verite-pour-tenter-de-renouer-avec-les-francais-20261008_MM7X7BQ5YRHMRLV4G5OB2MODH4/",
-     "published_at": "2026-10-08T06:11:59+00:00",
-     "snippet": "Alors qu’il enchaîne interviews classiques et formats plus intimes, le candidat Horizons à la présidentielle étrenne ce jeudi le retour de l’émission politique culte sur France 2. Deux heures pour vendre notamment sa réforme des retraites."
-    },
-    {
-     "id": "2581e1834699",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Jean-Luc Mélenchon annonce un meeting au Havre, sur les terres d’Édouard Philippe",
-     "url": "https://www.20minutes.fr/politique/4252413-20261008-presidentielle-2027-jean-luc-melenchon-annonce-meeting-havre-terres-edouard-philippe?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-08T08:42:16+00:00",
-     "snippet": "Le meeting sera organisé le 5 décembre. En 2022, le candidat de LFI avait réuni 30,17 % des suffrages au premier tour dans la ville de Seine-Maritime"
-    },
-    {
-     "id": "32fed0cb6c56",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Edouard Philippe prévoit une dissolution et une vingtaine d'ordonnances dès juillet 2027",
-     "url": "https://www.cnews.fr/france/2026-10-08/presidentielle-2027-edouard-philippe-prevoit-une-dissolution-et-une-vingtaine",
-     "published_at": "2026-10-08T20:55:32+00:00",
-     "snippet": "Candidat à l’élection présidentielle pour son parti Horizons, Edouard Philippe a annoncé ce jeudi 8 octobre qu’il souhaitait dissoudre l’Assemblée nationale en cas de victoire mais également une vingtaine d'ordonnances dès juillet 2027 pour que le pays soit «commandé et gouverné». Le candidat d’Horizons prévoit déjà son arrivée à l’ Élysée. Edouard Philippe, qui souhaite participer à l’élection présidentielle de 2027, a annoncé ce jeudi soir sur France 2 les premières mesures qu’ils souhaitent mettre en place en cas de victoire. Après des années d’indécision, il faudra aller vite. Dès juillet,"
-    },
-    {
-     "id": "43fcf99cbf7d",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Immigration, allocations familiales, Parcoursup… Ce qu'il faut retenir de l'interview d'Edouard Philippe dans l'émission \"L'Heure de vérité\" sur France 2",
-     "url": "https://www.franceinfo.fr/politique/edouard-philippe/immigration-retraites-allocations-familiales-parcoursup-ce-qu-il-faut-retenir-de-l-interview-d-edouard-philippe-dans-l-emission-l-heure-de-verite_8228416.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-08T21:38:14+00:00",
-     "snippet": "Le candidat Horizons à la présidentielle était l'invité de la nouvelle émission politique de France 2. Voici les passages marquants à retenir de cette interview de plus de deux heures."
-    },
-    {
-     "id": "4532a0164680",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Quelles seraient les premières décisions d’Édouard Philippe ?",
-     "url": "https://www.20minutes.fr/politique/4252755-20261009-presidentielle-2027-premieres-decisions-edouard-philippe?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-09T09:22:04+00:00",
-     "snippet": "Édouard Philippe, candidat Horizons à l’élection présidentielle 2027, prévoit de présenter « une vingtaine d’ordonnances » après les législatives qui découleraient d’une dissolution s’il était élu"
-    },
-    {
-     "id": "678e2627a114",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«Comme quand j’étais à Matignon» : Édouard Philippe annonce qu’il n’habitera pas à l’Élysée s’il est élu en 2027",
-     "url": "https://www.cnews.fr/france/2026-10-09/comme-quand-jetais-matignon-edouard-philippe-annonce-quil-nhabitera-pas-lelysee",
-     "published_at": "2026-10-09T05:35:17+00:00",
-     "snippet": "Interviewé ce jeudi soir, le candidat à l'élection présidentielle 2027 Édouard Philippe a annoncé qu'en cas de victoire, il ne résiderait pas au palais de l'Élysée. Il se projette déjà en vainqueur. Si Édouard Philippe venait à gagner l'élection présidentielle 2027, il ne s'installerait pas au palais de l'Élysée. C'est ce qu'a annoncé le candidat lors d'un long entretien dans l'émission l'Heure de Vérité sur France 2. Pour justifier ce choix, Édouard Philippe a expliqué qu'il avait fait de même après avoir été nommé Premier ministre en 2017 : «Comme je faisais quand j’étais à Matignon. Il m’ar"
-    },
-    {
-     "id": "6990dec7cf1a",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Allocations familiales: Édouard Philippe propose 350 euros dès le premier enfant",
-     "url": "https://lcp.fr/actualites/allocations-familiales-edouard-philippe-propose-350-euros-des-le-premier-enfant-443576",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 09:15 Sur France 2 jeudi soir, Édouard Philippe a défendu son projet d'\"allocation familiale unique\", qui atteindrait un montant de 350 euros par mois dès le premier enfant, afin de soutenir le pouvoir d'achat et la natalité. Il propose également une réduction d'impôt à hauteur de 3.000 euros durant les trois premières années de l'enfant. Prétendant à l' Élysée, l'actuel maire du Havre, Édouard Philippe, souhaite \"revoir totalement le système des allocations familiales\". \"Il faut aider les familles, y compris les familles monoparentales, bien"
-    },
-    {
-     "id": "6cb4957acab5",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Le retour de « L’Heure de Vérité » sur France 2, émission culte des années 1980 : « Elle a été le moment mitterrandien de notre télévision »",
-     "url": "https://www.publicsenat.fr/actualites/culture/le-retour-de-lheure-de-verite-sur-france-2-emission-culte-des-annees-1980-elle-a-ete-le-moment-mitterrandien-de-notre-television",
-     "published_at": "2026-10-08T15:50:07+00:00",
-     "snippet": "Indissociable de la vie politique des années 1980, « L’Heure de Vérité » revient sur France 2, avec Edouard Philippe comme premier invité. Pendant 13 ans, cette émission culte a façonné les grands moments du jeu politique télévisuel français. Mais elle a aussi été pointée du doigt, comme le rappelle Alexis Lévrier, historien de la presse et des médias, pour avoir participé à l’essor de Jean-Marie Le Pen."
-    },
-    {
-     "id": "81e07dcc8d30",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Il faudra aller vite\": Édouard Philippe présentera une vingtaine d'ordonnances dès juillet 2027 s'il remporte la présidentielle",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/il-faudra-aller-vite-edouard-philippe-presentera-une-vingtaine-d-ordonnances-des-juillet-2027-s-il-remporte-la-presidentielle_AD-202610081001.html",
-     "published_at": "2026-10-08T21:07:11+00:00",
-     "snippet": "Invité dans l'émission L'Heure de vérité sur France 2 ce jeudi 8 octobre, Édouard Philippe a dit vouloir présenter une vingtaine d'ordonnances \"dès juillet\" 2027 s'il est élu président de la République."
-    },
-    {
-     "id": "98b3ffb5db3e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Défier Édouard Philippe\": Jean-Luc Mélenchon en meeting au Havre le 5 décembre en vue de la présidentielle 2027",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/defier-edouard-philippe-jean-luc-melenchon-en-meeting-au-havre-le-5-decembre-en-vue-de-la-presidentielle-2027_AD-202610080335.html",
-     "published_at": "2026-10-08T07:59:31+00:00",
-     "snippet": "Candidat LFI à la présidentielle 2027, Jean-Luc Mélenchon, tiendra un meeting au Havre (Seine-Maritime) le 5 décembre, soit dans la ville du maire Horizons Édouard Philippe, également candidat pour 2027."
-    },
-    {
-     "id": "c079e44a0ab8",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Édouard Philippe veut \"diviser par deux\" l'immigration légale et propose un moratoire sur le regroupement familial",
-     "url": "https://lcp.fr/actualites/edouard-philippe-veut-diviser-par-deux-l-immigration-legale-et-propose-un-moratoire-sur",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 9 octobre 2026 à 08:45 L'ancien Premier ministre et candidat Horizons à l'élection présidentielle, Édouard Philippe, a proposé jeudi soir sur France 2 de \"diviser par deux l'immigration légale\", avant d'évoquer \"un moratoire\" concernant les entrées sur le territoire français résultant du regroupement familial. \"Admettre que l'immigration est trop importante, et se fixer des objectifs pour la maîtriser\". C'est ce pour quoi a plaidé Édouard Philippe jeudi soir, lors de son grand oral dans le premier numéro de L'Heure de vérité , sur France 2 . \"Notre politique "
-    },
-    {
-     "id": "fa033bbe5458",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Édouard Philippe est-il un Nicolas Sarkozy 2.0 ?",
-     "url": "https://www.humanite.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-est-il-un-nicolas-sarkozy-2-0",
-     "published_at": "2026-10-09T13:58:03+00:00",
-     "snippet": "Lors de son passage à l’émission « L’heure de vérité » sur France 2, l’ancien premier ministre et candidat à l’élection présidentielle Édouard Philippe a présenté plusieurs propositions, s’inscrivant dans les pas de Nicolas Sarkozy : « travailler plus pour gagner plus », aider les familles de la classe moyenne et restreindre l’immigration. Il envisage un recours massif aux ordonnances."
     }
    ]
   }
