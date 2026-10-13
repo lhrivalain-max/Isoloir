@@ -1,186 +1,6 @@
 {
- "generated_at": "2026-10-13T08:04:05+00:00",
+ "generated_at": "2026-10-13T11:36:56+00:00",
  "posts": [
-  {
-   "headline": "Lycéens : nouvelle journée de mobilisation mardi 13 octobre, ce que le gouvernement a annoncé et ce qui reste demandé",
-   "chapo": "Une nouvelle journée de grève est appelée mardi 13 octobre par les syndicats étudiants, alors que les syndicats lycéens sont reçus lundi par le gouvernement. Les 3 000 professeurs remplaçants annoncés ont commencé à être déployés. À Lille, des lycéens jugent ces annonces insuffisantes.",
-   "points": [
-    {
-     "text": "Mardi 13 octobre, une journée de grève est appelée par les syndicats étudiants, selon franceinfo. Europe 1 la compte comme l'« acte IV » de la mobilisation, RFI comme l'« acte V », un mouvement commencé mi-septembre. Lundi, des blocages étaient attendus dans les mêmes proportions que vendredi, selon BFMTV.",
-     "sources": [
-      "fd9b7d350c77",
-      "55e3c1e640c6",
-      "d733fdfdc9c4",
-      "54f538cc4331"
-     ]
-    },
-    {
-     "text": "Lundi, les syndicats lycéens sont reçus par le gouvernement. Au menu : Parcoursup et les capacités d'accueil dans l'enseignement supérieur. Selon RFI, Parcoursup est au cœur des revendications : les syndicats dénoncent des algorithmes opaques et des critères de sélection discriminatoires.",
-     "sources": [
-      "55e3c1e640c6",
-      "d733fdfdc9c4"
-     ]
-    },
-    {
-     "text": "Côté gouvernement, la porte-parole Maud Bregeon dit lundi que le déploiement des 3 000 professeurs remplaçants « a commencé » et que le gouvernement « ne ferme pas la porte » à une hausse du budget de l'Éducation nationale. Elle ajoute que « la question de l'orientation ne se résume pas à Parcoursup ». Sébastien Lecornu a promis des premières décisions à la fin octobre, après 40 000 contributions sur la plateforme ouverte aux lycéens.",
-     "sources": [
-      "0e3f34f1a9a2",
-      "6434401b6036",
-      "e8eff8523f18",
-      "da33d508b6f9"
-     ]
-    },
-    {
-     "text": "À Lille, Antoine, élève de première, bloque depuis deux semaines. Il juge la mesure des 3 000 remplaçants « dérisoire » : « Ce n'est pas suffisant. On a plein de revendications et j'ai l'impression que le ministre répond seulement à un seul point ». Selon Europe 1, la question du bâti scolaire n'a pas été abordée. Le média note une perte de vitesse du mouvement.",
-     "sources": [
-      "55e3c1e640c6"
-     ]
-    },
-    {
-     "text": "L'Humanité a suivi des élèves du lycée Blaise Cendrars, à Sevran, mobilisés depuis le début du mouvement : « Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre ».",
-     "sources": [
-      "a0ccfce0eca7"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron a déclaré lundi que la mobilisation devait se faire « dans le calme, dans l'ordre ».",
-     "sources": [
-      "54f538cc4331"
-     ]
-    },
-    {
-     "text": "Une pétition pour « interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes » a dépassé 108 000 signatures lundi, un seuil de 100 000 qui l'envoie sur le site de l'Assemblée. La commission des lois décidera de l'examiner ou de la classer sans suite. À 500 000 signatures issues de 30 départements, elle pourrait être débattue dans l'hémicycle. Le groupe socialiste a déposé une proposition de loi dans le même sens, pas encore inscrite à l'ordre du jour.",
-     "sources": [
-      "412053f2d91d"
-     ]
-    },
-    {
-     "text": "Le gouvernement pourrait aussi faire face à un retour des Gilets jaunes : des appels à manifester samedi 17 octobre, avec la hausse des prix des carburants, circulent sur les réseaux sociaux. Fabien Roussel et Marine Tondelier les ont soutenus. Les vacances de la Toussaint commencent le 17 octobre.",
-     "sources": [
-      "fd9b7d350c77"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si les syndicats obtiendront davantage que les remplaçants et les décisions promises pour fin octobre, et si le mouvement continuera jusqu'aux vacances.",
-     "sources": [
-      "fd9b7d350c77",
-      "55e3c1e640c6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/LBD.jpg?h=58c8a5e7&itok=grQcOOH4",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
-    "article_id": "412053f2d91d",
-    "focus_x": 0.4266666666666667,
-    "focus_y": 0.06851851851851852
-   },
-   "id": 101,
-   "section": "institutions",
-   "reviewed_at": "2026-10-12T16:03:32+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.4,
-   "sources": [
-    {
-     "id": "0e3f34f1a9a2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: Maud Bregeon assure que le déploiement des 3.000 professeurs remplaçants \"a commencé\"",
-     "url": "https://www.bfmtv.com/politique/gouvernement/colere-des-lyceens-maud-bregeon-assure-que-le-deploiement-des-3-000-professeurs-remplacants-a-commence_AN-202610120245.html",
-     "published_at": "2026-10-12T07:19:12+00:00",
-     "snippet": "Invitée de BFMTV-RMC, la porte-parole du gouvernement Maud Bregeon a confirmé que les 3.000 professeurs remplaçants, évoqués par Édouard Geffray la semaine dernière, ont \"commencé\" à être déployés en ce début de semaine dans les lycées."
-    },
-    {
-     "id": "412053f2d91d",
-     "name": "LCP",
-     "kind": "media",
-     "title": "La pétition pour \"interdire les armes mutilantes dans les manifestations lycéennes\" dépasse les 100.000 signatures sur la plateforme de l'Assemblée",
-     "url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
-     "published_at": "2026-10-12T10:05:03+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 12 octobre 2026 à 11:00 Déposé il y a une semaine sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, un texte réclamant \"l'interdiction des armes mutilantes et des techniques d'immobilisation létales dans les manifestations lycéennes\" a dépassé le seuil des 100.000 signatures. Plus de 108.000 signatures ce lundi 12 octobre. Une semaine après son dépôt sur la plateforme dédiée de l'Assemblée nationale, la pétition pour \"interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes\" a d"
-    },
-    {
-     "id": "54f538cc4331",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: Emmanuel Macron affirme que la mobilisation doit se faire \"dans le calme, dans l'ordre\"",
-     "url": "https://www.bfmtv.com/politique/video-colere-des-lyceens-emmanuel-macron-affirme-que-la-mobilisation-doit-se-faire-dans-le-calme-dans-l-ordre_VN-202610120430.html",
-     "published_at": "2026-10-12T10:11:57+00:00",
-     "snippet": "Nouvelle journée de mobilisation pour les lycéens, ce lundi 12 octobre, pour demander des meilleures conditions d'apprentissage. Des blocages d'établissements sont attendus, dans les mêmes proportions que vendredi."
-    },
-    {
-     "id": "55e3c1e640c6",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Blocage des lycées : à Lille, les lycéens restent sceptiques face aux annonces du gouvernement",
-     "url": "https://www.europe1.fr/societe/blocage-des-lycees-a-lille-les-lyceens-restent-sceptiques-face-aux-annonces-du-gouvernement-1141559?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T09:55:55+00:00",
-     "snippet": "À la veille d'une nouvelle journée d'action, les syndicats lycéens seront reçus ce lundi par le gouvernement. Au menu : Parcoursup ou encore les capacités d'accueil dans l'enseignement supérieur. Mais alors suffisant ou non pour permettre un retour en classe des derniers grévistes ? Ce mardi marquera l'acte \"IV\" de la mobilisation des lycéens. Malgré une perte de vitesse du mouvement, certains élèves restent mobilisés, comme à Lille où les annonces du gouvernement sont jugées insuffisantes. Antoine, élève de première, soutient les blocages depuis maintenant deux semaines. Pour lui, le déploiem"
-    },
-    {
-     "id": "6434401b6036",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: le gouvernement “ne ferme pas la porte” à l’augmentation du budget alloué à l’Éducation nationale",
-     "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-des-lyceens-le-gouvernement-ne-ferme-pas-la-porte-a-l-augmentation-du-budget-alloue-a-l-education-nationale_VN-202610120240.html",
-     "published_at": "2026-10-12T06:55:02+00:00",
-     "snippet": "Maud Bregeon, porte-parole du gouvernement, était l’invitée du Face-à-Face sur BFMTV et RMC ce lundi 12 octobre 2026."
-    },
-    {
-     "id": "a0ccfce0eca7",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre » : à Sevran, les élèves de Blaise Cendrars en première ligne de la mobilisation lycéenne",
-     "url": "https://www.humanite.fr/societe/manifestation/faut-juste-pas-quon-lache-le-gouvernement-va-finir-par-nous-comprendre-a-sevran-les-eleves-de-blaise-cendrars-en-premiere-ligne-de-la-mobilisation-lyceenne",
-     "published_at": "2026-10-11T10:55:29+00:00",
-     "snippet": "Mobilisés depuis le début du mouvement, les lycéens de Blaise Cendrars luttent pour améliorer les conditions désastreuses dans lesquelles se trouve leur établissement depuis des années. L’Humanité les a suivis toute une journée, de la mairie de Sevran jusqu’au cortège parisien du 8 octobre."
-    },
-    {
-     "id": "d733fdfdc9c4",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Mobilisation des lycéens en France: la suppression de Parcoursup, au cœur des revendications",
-     "url": "https://www.rfi.fr/fr/france/20261012-mobilisation-des-lyc%C3%A9ens-en-france-la-suppression-de-parcoursup-au-c%C5%93ur-des-revendications",
-     "published_at": "2026-10-12T05:07:18+00:00",
-     "snippet": "Une nouvelle manifestation est prévue mardi 13 octobre, marquant « l’acte V » de la mobilisation lycéenne en France entamée mi-septembre. Et l'une des principales revendications concerne Parcoursup, la plateforme en ligne qui permet aux lycéens de choisir leurs études après le bac. Elle fonctionne grâce à des algorithmes qui font débat tant ils rendent le processus de sélection opaque et illogique. Les principaux syndicats étudiants et lycéens dénoncent aussi des critères de sélection discriminatoires."
-    },
-    {
-     "id": "da33d508b6f9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
-     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-07T17:43:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "e8eff8523f18",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Manifestations lycéennes: \"La question de l'orientation ne se résume pas à Parcoursup\", estime Maud Bregeon, porte-parole du gouvernement",
-     "url": "https://www.bfmtv.com/politique/video-manifestations-lyceennes-la-question-de-l-orientation-ne-se-resume-pas-a-parcoursup-estime-maud-bregeon-porte-parole-du-gouvernement_VN-202610120239.html",
-     "published_at": "2026-10-12T06:53:02+00:00",
-     "snippet": "Maud Bregeon, porte-parole du gouvernement et ministre déléguée à l'Énergie, était l'invité du Face à Face ce 12 octobre."
-    },
-    {
-     "id": "fd9b7d350c77",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Grève, budget, Gilets jaunes... Semaine à hauts risques pour le gouvernement",
-     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-12T06:08:18+00:00",
-     "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
-    }
-   ]
-  },
   {
    "headline": "Glucksmann candidat de la gauche sociale-démocrate : qui le rejoint, qui refuse, qui attend ?",
    "chapo": "Après sa victoire à 66,17 % à la primaire, Raphaël Glucksmann a le soutien du PS et des candidats battus, avec des conditions. Les écologistes, les anciens insoumis et La France insoumise lui sont hostiles, pour des raisons différentes. Il exclut toute alliance avec LFI.",
@@ -264,7 +84,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.38,
+   "score": 12.4,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -368,6 +188,321 @@
    ]
   },
   {
+   "headline": "Lycéens : nouvelle journée de mobilisation mardi 13 octobre, ce que le gouvernement a annoncé et ce qui reste demandé",
+   "chapo": "Une nouvelle journée de grève est appelée mardi 13 octobre par les syndicats étudiants, alors que les syndicats lycéens sont reçus lundi par le gouvernement. Les 3 000 professeurs remplaçants annoncés ont commencé à être déployés. À Lille, des lycéens jugent ces annonces insuffisantes.",
+   "points": [
+    {
+     "text": "Mardi 13 octobre, une journée de grève est appelée par les syndicats étudiants, selon franceinfo. Europe 1 la compte comme l'« acte IV » de la mobilisation, RFI comme l'« acte V », un mouvement commencé mi-septembre. Lundi, des blocages étaient attendus dans les mêmes proportions que vendredi, selon BFMTV.",
+     "sources": [
+      "fd9b7d350c77",
+      "55e3c1e640c6",
+      "d733fdfdc9c4",
+      "54f538cc4331"
+     ]
+    },
+    {
+     "text": "Lundi, les syndicats lycéens sont reçus par le gouvernement. Au menu : Parcoursup et les capacités d'accueil dans l'enseignement supérieur. Selon RFI, Parcoursup est au cœur des revendications : les syndicats dénoncent des algorithmes opaques et des critères de sélection discriminatoires.",
+     "sources": [
+      "55e3c1e640c6",
+      "d733fdfdc9c4"
+     ]
+    },
+    {
+     "text": "Côté gouvernement, la porte-parole Maud Bregeon dit lundi que le déploiement des 3 000 professeurs remplaçants « a commencé » et que le gouvernement « ne ferme pas la porte » à une hausse du budget de l'Éducation nationale. Elle ajoute que « la question de l'orientation ne se résume pas à Parcoursup ». Sébastien Lecornu a promis des premières décisions à la fin octobre, après 40 000 contributions sur la plateforme ouverte aux lycéens.",
+     "sources": [
+      "0e3f34f1a9a2",
+      "6434401b6036",
+      "e8eff8523f18",
+      "da33d508b6f9"
+     ]
+    },
+    {
+     "text": "À Lille, Antoine, élève de première, bloque depuis deux semaines. Il juge la mesure des 3 000 remplaçants « dérisoire » : « Ce n'est pas suffisant. On a plein de revendications et j'ai l'impression que le ministre répond seulement à un seul point ». Selon Europe 1, la question du bâti scolaire n'a pas été abordée. Le média note une perte de vitesse du mouvement.",
+     "sources": [
+      "55e3c1e640c6"
+     ]
+    },
+    {
+     "text": "L'Humanité a suivi des élèves du lycée Blaise Cendrars, à Sevran, mobilisés depuis le début du mouvement : « Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre ».",
+     "sources": [
+      "a0ccfce0eca7"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron a déclaré lundi que la mobilisation devait se faire « dans le calme, dans l'ordre ».",
+     "sources": [
+      "54f538cc4331"
+     ]
+    },
+    {
+     "text": "Une pétition pour « interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes » a dépassé 108 000 signatures lundi, un seuil de 100 000 qui l'envoie sur le site de l'Assemblée. La commission des lois décidera de l'examiner ou de la classer sans suite. À 500 000 signatures issues de 30 départements, elle pourrait être débattue dans l'hémicycle. Le groupe socialiste a déposé une proposition de loi dans le même sens, pas encore inscrite à l'ordre du jour.",
+     "sources": [
+      "412053f2d91d"
+     ]
+    },
+    {
+     "text": "Le gouvernement pourrait aussi faire face à un retour des Gilets jaunes : des appels à manifester samedi 17 octobre, avec la hausse des prix des carburants, circulent sur les réseaux sociaux. Fabien Roussel et Marine Tondelier les ont soutenus. Les vacances de la Toussaint commencent le 17 octobre.",
+     "sources": [
+      "fd9b7d350c77"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : si les syndicats obtiendront davantage que les remplaçants et les décisions promises pour fin octobre, et si le mouvement continuera jusqu'aux vacances.",
+     "sources": [
+      "fd9b7d350c77",
+      "55e3c1e640c6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 9,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/LBD.jpg?h=58c8a5e7&itok=grQcOOH4",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
+    "article_id": "412053f2d91d",
+    "focus_x": 0.4266666666666667,
+    "focus_y": 0.06851851851851852
+   },
+   "id": 101,
+   "section": "institutions",
+   "reviewed_at": "2026-10-12T16:03:32+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.47,
+   "sources": [
+    {
+     "id": "0e3f34f1a9a2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: Maud Bregeon assure que le déploiement des 3.000 professeurs remplaçants \"a commencé\"",
+     "url": "https://www.bfmtv.com/politique/gouvernement/colere-des-lyceens-maud-bregeon-assure-que-le-deploiement-des-3-000-professeurs-remplacants-a-commence_AN-202610120245.html",
+     "published_at": "2026-10-12T07:19:12+00:00",
+     "snippet": "Invitée de BFMTV-RMC, la porte-parole du gouvernement Maud Bregeon a confirmé que les 3.000 professeurs remplaçants, évoqués par Édouard Geffray la semaine dernière, ont \"commencé\" à être déployés en ce début de semaine dans les lycées."
+    },
+    {
+     "id": "412053f2d91d",
+     "name": "LCP",
+     "kind": "media",
+     "title": "La pétition pour \"interdire les armes mutilantes dans les manifestations lycéennes\" dépasse les 100.000 signatures sur la plateforme de l'Assemblée",
+     "url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
+     "published_at": "2026-10-12T10:05:03+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 12 octobre 2026 à 11:00 Déposé il y a une semaine sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, un texte réclamant \"l'interdiction des armes mutilantes et des techniques d'immobilisation létales dans les manifestations lycéennes\" a dépassé le seuil des 100.000 signatures. Plus de 108.000 signatures ce lundi 12 octobre. Une semaine après son dépôt sur la plateforme dédiée de l'Assemblée nationale, la pétition pour \"interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes\" a d"
+    },
+    {
+     "id": "54f538cc4331",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: Emmanuel Macron affirme que la mobilisation doit se faire \"dans le calme, dans l'ordre\"",
+     "url": "https://www.bfmtv.com/politique/video-colere-des-lyceens-emmanuel-macron-affirme-que-la-mobilisation-doit-se-faire-dans-le-calme-dans-l-ordre_VN-202610120430.html",
+     "published_at": "2026-10-12T10:11:57+00:00",
+     "snippet": "Nouvelle journée de mobilisation pour les lycéens, ce lundi 12 octobre, pour demander des meilleures conditions d'apprentissage. Des blocages d'établissements sont attendus, dans les mêmes proportions que vendredi."
+    },
+    {
+     "id": "55e3c1e640c6",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Blocage des lycées : à Lille, les lycéens restent sceptiques face aux annonces du gouvernement",
+     "url": "https://www.europe1.fr/societe/blocage-des-lycees-a-lille-les-lyceens-restent-sceptiques-face-aux-annonces-du-gouvernement-1141559?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-12T09:55:55+00:00",
+     "snippet": "À la veille d'une nouvelle journée d'action, les syndicats lycéens seront reçus ce lundi par le gouvernement. Au menu : Parcoursup ou encore les capacités d'accueil dans l'enseignement supérieur. Mais alors suffisant ou non pour permettre un retour en classe des derniers grévistes ? Ce mardi marquera l'acte \"IV\" de la mobilisation des lycéens. Malgré une perte de vitesse du mouvement, certains élèves restent mobilisés, comme à Lille où les annonces du gouvernement sont jugées insuffisantes. Antoine, élève de première, soutient les blocages depuis maintenant deux semaines. Pour lui, le déploiem"
+    },
+    {
+     "id": "6434401b6036",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: le gouvernement “ne ferme pas la porte” à l’augmentation du budget alloué à l’Éducation nationale",
+     "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-des-lyceens-le-gouvernement-ne-ferme-pas-la-porte-a-l-augmentation-du-budget-alloue-a-l-education-nationale_VN-202610120240.html",
+     "published_at": "2026-10-12T06:55:02+00:00",
+     "snippet": "Maud Bregeon, porte-parole du gouvernement, était l’invitée du Face-à-Face sur BFMTV et RMC ce lundi 12 octobre 2026."
+    },
+    {
+     "id": "a0ccfce0eca7",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre » : à Sevran, les élèves de Blaise Cendrars en première ligne de la mobilisation lycéenne",
+     "url": "https://www.humanite.fr/societe/manifestation/faut-juste-pas-quon-lache-le-gouvernement-va-finir-par-nous-comprendre-a-sevran-les-eleves-de-blaise-cendrars-en-premiere-ligne-de-la-mobilisation-lyceenne",
+     "published_at": "2026-10-11T10:55:29+00:00",
+     "snippet": "Mobilisés depuis le début du mouvement, les lycéens de Blaise Cendrars luttent pour améliorer les conditions désastreuses dans lesquelles se trouve leur établissement depuis des années. L’Humanité les a suivis toute une journée, de la mairie de Sevran jusqu’au cortège parisien du 8 octobre."
+    },
+    {
+     "id": "d733fdfdc9c4",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Mobilisation des lycéens en France: la suppression de Parcoursup, au cœur des revendications",
+     "url": "https://www.rfi.fr/fr/france/20261012-mobilisation-des-lyc%C3%A9ens-en-france-la-suppression-de-parcoursup-au-c%C5%93ur-des-revendications",
+     "published_at": "2026-10-12T05:07:18+00:00",
+     "snippet": "Une nouvelle manifestation est prévue mardi 13 octobre, marquant « l’acte V » de la mobilisation lycéenne en France entamée mi-septembre. Et l'une des principales revendications concerne Parcoursup, la plateforme en ligne qui permet aux lycéens de choisir leurs études après le bac. Elle fonctionne grâce à des algorithmes qui font débat tant ils rendent le processus de sélection opaque et illogique. Les principaux syndicats étudiants et lycéens dénoncent aussi des critères de sélection discriminatoires."
+    },
+    {
+     "id": "da33d508b6f9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-07T17:43:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "e8eff8523f18",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Manifestations lycéennes: \"La question de l'orientation ne se résume pas à Parcoursup\", estime Maud Bregeon, porte-parole du gouvernement",
+     "url": "https://www.bfmtv.com/politique/video-manifestations-lyceennes-la-question-de-l-orientation-ne-se-resume-pas-a-parcoursup-estime-maud-bregeon-porte-parole-du-gouvernement_VN-202610120239.html",
+     "published_at": "2026-10-12T06:53:02+00:00",
+     "snippet": "Maud Bregeon, porte-parole du gouvernement et ministre déléguée à l'Énergie, était l'invité du Face à Face ce 12 octobre."
+    },
+    {
+     "id": "fd9b7d350c77",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Grève, budget, Gilets jaunes... Semaine à hauts risques pour le gouvernement",
+     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-12T06:08:18+00:00",
+     "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
+    }
+   ]
+  },
+  {
+   "headline": "Bardella à Ceuta avec Vox : ce que propose le RN sur l'immigration",
+   "chapo": "Lundi 12 octobre, Jordan Bardella s'est rendu à Ceuta, enclave espagnole au Maroc, avec Santiago Abascal (Vox). Il y a détaillé les propositions du RN sur l'immigration, dont un Schengen réservé aux Européens. Pour L'Humanité, c'est une mise en scène avec un parti d'extrême droite. Euronews et l'AFP détaillent surtout les propos des deux dirigeants.",
+   "points": [
+    {
+     "text": "Jordan Bardella, président du Rassemblement national, était à Ceuta, enclave espagnole, avec Santiago Abascal, président du parti espagnol Vox. Le déplacement a eu lieu le 12 octobre, jour de fête nationale en Espagne. Selon Euronews, Santiago Abascal a justifié son absence du défilé militaire de Madrid par son refus de partager la tribune avec Pedro Sánchez et par la situation à Ceuta.",
+     "sources": [
+      "257a2d7acf69",
+      "4786af711c1c"
+     ]
+    },
+    {
+     "text": "Ceuta est le lieu d'une crise migratoire : plus de 70 000 personnes y sont entrées illégalement depuis le Maroc les 30 et 31 juillet, selon l'AFP. La plupart sont retournées au Maroc, mais cet afflux a provoqué une crise politique à Madrid et de vives tensions diplomatiques dans l'Union européenne.",
+     "sources": [
+      "f3aa967b89b9",
+      "3b6a6853b409"
+     ]
+    },
+    {
+     "text": "Jordan Bardella a déclaré que la situation à Ceuta « c'est le futur de l'Europe si nous ne reprenons pas urgemment le contrôle de nos frontières nationales et européennes ». Le Parisien ajoute que le RN veut organiser un référendum sur l'immigration dès le mois de juin.",
+     "sources": [
+      "3b6a6853b409"
+     ]
+    },
+    {
+     "text": "Sur Schengen, il a dit : « Dès le printemps 2027, si les Français nous accordent leur confiance, la France demandera que la libre circulation dans Schengen soit exclusivement réservée aux ressortissants européens ». Il a salué la position de Giorgia Meloni, qui a décidé de suspendre temporairement la libre circulation de l'espace Schengen avec l'Espagne.",
+     "sources": [
+      "f3aa967b89b9"
+     ]
+    },
+    {
+     "text": "Jordan Bardella a dénoncé un « appel d'air aux conséquences gravissimes », lié selon lui aux régularisations de sans-papiers décidées par le gouvernement socialiste de Pedro Sánchez. Santiago Abascal a réclamé le rapatriement de ceux qui entrent illégalement en Espagne et le renforcement de la frontière de Ceuta, selon Euronews.",
+     "sources": [
+      "f3aa967b89b9",
+      "257a2d7acf69"
+     ]
+    },
+    {
+     "text": "Dans son article, L'Humanité écrit que Santiago Abascal et Jordan Bardella ont choisi Ceuta pour « afficher leur soutien mutuel et officialiser un front commun pour la fermeture des frontières européennes aux migrants ». Le journal présente le déplacement comme une « tournée des partis xénophobes européens » et qualifie Vox d'« un des pires partis d'extrême droite d'Europe occidentale ».",
+     "sources": [
+      "068b6a45702f"
+     ]
+    },
+    {
+     "text": "Jordan Bardella a aussi relié l'immigration à la mobilisation lycéenne, et à propos des tirs d'un élève à Aubagne il a plaidé pour un « tournant pénal à l'égard des mineurs », selon Le Parisien.",
+     "sources": [
+      "3b6a6853b409"
+     ]
+    },
+    {
+     "text": "Santiago Abascal a soutenu Jordan Bardella pour devenir « futur Premier ministre de la France » si Marine Le Pen est élue. En retour, Jordan Bardella a appelé les Espagnols à voter Vox aux législatives anticipées du 29 novembre en Espagne. Euronews note qu'il vient à Ceuta alors qu'il est « toujours empêtré dans des accusations d'antisémitisme ».",
+     "sources": [
+      "f3aa967b89b9",
+      "257a2d7acf69"
+     ]
+    },
+    {
+     "text": "Interrogé sur les propos antisémites que lui attribue Mediapart, Jordan Bardella a de nouveau démenti, estimant que l'affaire avait « fait pschitt ».",
+     "sources": [
+      "3b6a6853b409"
+     ]
+    },
+    {
+     "text": "Ce qu'on ne sait pas encore : ce que donneront les législatives espagnoles du 29 novembre.",
+     "sources": [
+      "4786af711c1c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/12/11/080_hl_mcurtat_3327934_1_6acca954ddd9c.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/international/immigration-jordan-bardella-attendu-a-ceuta-avec-santiago-abascal-1141484?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "4786af711c1c"
+   },
+   "id": 107,
+   "section": "institutions",
+   "reviewed_at": "2026-10-13T11:36:56+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "068b6a45702f",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Jordan Bardella continue sa tournée des partis xénophobes européens : cette fois, il se met en scène avec Vox à Ceuta",
+     "url": "https://www.humanite.fr/monde/espagne/jordan-bardella-continue-sa-tournee-des-partis-xenophobes-europeens-cette-fois-il-se-met-en-scene-avec-vox-a-ceuta",
+     "published_at": "2026-10-12T16:30:00+00:00",
+     "snippet": "Le président raciste et antisémite du Rassemblement national s’affiche à nouveau avec l’un des pires partis d’extrême droite d’Europe occidentale, en l’occurrence les Espagnols de Vox, quelques semaines après la crise humanitaire à Ceuta."
+    },
+    {
+     "id": "257a2d7acf69",
+     "name": "Euronews",
+     "kind": "media",
+     "title": "À Ceuta, S. Abascal et J. Bardella s'affichent en pourfendeurs de la crise migratoire",
+     "url": "https://fr.euronews.com/2026/10/12/a-ceuta-s-abascal-et-j-bardella-saffichent-en-pourfendeurs-de-la-crise-migratoire",
+     "published_at": "2026-10-12T15:25:00+00:00",
+     "snippet": "Alors que l'Espagne célèbre sa fête nationale, le chef du parti nationaliste Vox justifie son absence à un défilé militaire par la situation dans la ville autonome et réclame le renvoi de ceux qui entrent illégalement en Espagne."
+    },
+    {
+     "id": "3b6a6853b409",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : depuis Ceuta, Jordan Bardella détaille les propositions du RN sur l’immigration avec l’extrême droite espagnole",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-depuis-ceuta-jordan-bardella-detaille-les-propositions-du-rn-sur-limmigration-aux-cotes-lextreme-droite-espagnole-12-10-2026-OSZPFHRRNFE25DNDJEVXKCVSDQ.php",
+     "published_at": "2026-10-12T15:51:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4786af711c1c",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Immigration : Jordan Bardella attendu à Ceuta avec Santiago Abascal",
+     "url": "https://www.europe1.fr/international/immigration-jordan-bardella-attendu-a-ceuta-avec-santiago-abascal-1141484?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-12T10:02:00+00:00",
+     "snippet": "Jordan Bardella est attendu ce lundi à Ceuta, enclave espagnole située au nord du Maroc, aux côtés de Santiago Abascal, le président de Vox. Un déplacement consacré à l’immigration illégale, après la crise migratoire massive qui a frappé la ville fin juillet. Jordan Bardella est attendu ce lundi à Ceuta, enclave espagnole située au nord du Maroc. Le président du Rassemblement national doit s’y rendre aux côtés de Santiago Abascal, le président de Vox, parti espagnol allié du RN au Parlement européen. Ce déplacement est consacré à l’immigration illégale. Fin juillet, les images de dizaines de m"
+    },
+    {
+     "id": "f3aa967b89b9",
+     "name": "Boursorama (d'après l'AFP)",
+     "kind": "media",
+     "title": "A Ceuta, Bardella fait front commun avec l'extrême droite espagnole avant les élections",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/a-ceuta-bardella-fait-front-commun-avec-l-extreme-droite-espagnole-avant-les-elections-5d43eb9da77c36df5cab5e56f35c703a",
+     "published_at": "2026-10-12T13:33:00+00:00",
+     "snippet": "Le président du Rassemblement national Jordan Bardella a détaillé lundi ses propositions contre l'immigration depuis Ceuta, théâtre d'une crise migratoire majeure cet été."
+    }
+   ]
+  },
+  {
    "headline": "Budget 2027 : le gouvernement n'exclut plus les ordonnances, deux textes en débat cette semaine",
    "chapo": "Le ministre de l'Économie Roland Lescure dit « préférerait éviter » les ordonnances budgétaires, mais en fait une « glissière de sécurité » faute de majorité. Le budget de l'État revient mardi 13 octobre dans l'hémicycle, celui de la Sécurité sociale est examiné en commission toute la semaine. La gauche promet la censure sur le second.",
    "points": [
@@ -445,7 +580,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.63,
+   "score": 8.93,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -612,7 +747,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.47,
+   "score": 8.79,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -809,7 +944,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.47,
+   "score": 15.66,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -1199,7 +1334,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.29,
+   "score": 10.65,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1411,7 +1546,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.66,
+   "score": 6.33,
    "sources": [
     {
      "id": "0a254f232767",
@@ -1579,7 +1714,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.44,
+   "score": 3.3,
    "sources": [
     {
      "id": "22099a905f2b",
@@ -1716,7 +1851,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.76,
+   "score": 7.46,
    "sources": [
     {
      "id": "68029c6c98a1",
@@ -1900,7 +2035,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.3,
+   "score": 4.12,
    "sources": [
     {
      "id": "01516d0832b5",
@@ -2034,7 +2169,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.02,
+   "score": 3.86,
    "sources": [
     {
      "id": "4cc8c1f3d58b",
@@ -2190,7 +2325,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.75,
+   "score": 3.6,
    "sources": [
     {
      "id": "0d2c29a247fa",
@@ -2333,7 +2468,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.21,
+   "score": 3.09,
    "sources": [
     {
      "id": "4961abc0c541",
@@ -2462,7 +2597,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.95,
+   "score": 4.81,
    "sources": [
     {
      "id": "024363e8ba85",
@@ -2670,7 +2805,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.13,
+   "score": 4.0,
    "sources": [
     {
      "id": "067eb2bcd3a1",
@@ -2896,7 +3031,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.92,
+   "score": 3.8,
    "sources": [
     {
      "id": "1574c0f140f9",
