@@ -1,6 +1,316 @@
 {
- "generated_at": "2026-10-14T16:12:41+00:00",
+ "generated_at": "2026-10-14T16:25:31+00:00",
  "posts": [
+  {
+   "headline": "Mouvement lycéen : ce que répond le gouvernement",
+   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
+   "points": [
+    {
+     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
+     "sources": [
+      "778290443d8a"
+     ]
+    },
+    {
+     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
+     "sources": [
+      "a50415a50025",
+      "9d9becc1a4da"
+     ]
+    },
+    {
+     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
+     "sources": [
+      "99854f802655"
+     ]
+    },
+    {
+     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
+     "sources": [
+      "3fd03cd61f9a",
+      "8a267d020f85"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
+     "sources": [
+      "6986a71f8e02"
+     ]
+    },
+    {
+     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
+     "sources": [
+      "053ba007189f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+    "article_id": "778290443d8a",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.16657407407407407
+   },
+   "id": 121,
+   "section": "actualites",
+   "reviewed_at": "2026-10-14T16:03:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.76,
+   "sources": [
+    {
+     "id": "053ba007189f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
+     "published_at": "2026-10-14T11:35:11+00:00",
+     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
+    },
+    {
+     "id": "3fd03cd61f9a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
+     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
+     "published_at": "2026-10-14T13:59:54+00:00",
+     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
+    },
+    {
+     "id": "6986a71f8e02",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
+     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
+     "published_at": "2026-10-14T15:32:30+00:00",
+     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
+    },
+    {
+     "id": "778290443d8a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
+     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+     "published_at": "2026-10-14T10:28:45+00:00",
+     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
+    },
+    {
+     "id": "8a267d020f85",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
+     "published_at": "2026-10-14T07:25:03+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
+    },
+    {
+     "id": "99854f802655",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
+     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-14T13:55:03+00:00",
+     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
+    },
+    {
+     "id": "9d9becc1a4da",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
+     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+     "published_at": "2026-10-14T14:30:00+00:00",
+     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
+    },
+    {
+     "id": "a50415a50025",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
+     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
+     "published_at": "2026-10-14T15:23:56+00:00",
+     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
+    }
+   ]
+  },
+  {
+   "headline": "Marine Le Pen et son budget : 140 milliards d'économies, un plan très critiqué",
+   "chapo": "Présenté le 6 octobre, le plan budgétaire de Marine Le Pen promet 140 milliards d'euros de baisses de dépenses d'ici à 2032, une règle d'or votée par référendum et une réduction de la contribution française à l'UE. Économistes, think tank, Retailleau et Philippe en contestent la crédibilité.",
+   "points": [
+    {
+     "text": "Marine Le Pen a défendu un « effort radical » afin d'atteindre 140 milliards d'euros de baisses de dépenses publiques d'ici à 2032, selon franceinfo. Elle promet un « déficit inférieur à 3% en 2030 », contre 5,4 % prévus en 2026, une cure « et non d'austérité », assure-t-elle au Figaro.",
+     "sources": [
+      "60fa7dabff61",
+      "b9bb0603a91b"
+     ]
+    },
+    {
+     "text": "Dans le tableau sombre qu'elle dresse, Marine Le Pen estime que « l'abîme est juste devant nous » et que sans « rupture politique, la France court vers le défaut » de paiement, rapporte Le Figaro. Avant la présentation, le député RN Jean-Philippe Tanguy avait évoqué sur CNews 125 milliards d'économies d'ici à 2032 : « Avec le RN, l'argent des Français ne sera jamais l'argent de l'État ».",
+     "sources": [
+      "b9bb0603a91b",
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "Elle propose une « règle d'or budgétaire » qu'elle soumettrait aux Français par référendum. Le Parlement « ne pourra se prononcer que sur un projet de loi de finances respectant les critères énoncés », explique-t-elle, avec un déficit de 4,9 % du PIB en 2027, selon LCP. Elle reconnaît que la « tradition politique » du RN était jusqu'ici opposée à cette idée.",
+     "sources": [
+      "ecc8b2b21744"
+     ]
+    },
+    {
+     "text": "Elle veut aussi économiser 11,1 milliards d'euros dès 2027 sur la contribution de la France au budget de l'Union européenne, puis jusqu'à 20 milliards les années suivantes. Le ministre de l'Économie Roland Lescure répond : « Il faudra le faire adopter par les 26 partenaires, ce n'est pas acquis ».",
+     "sources": [
+      "60fa7dabff61",
+      "007f8e65dde2"
+     ]
+    },
+    {
+     "text": "Dans un entretien au Financial Times, Marine Le Pen reconnaît qu'« il y aura un débat difficile, voire une épreuve de force », mais dit avoir « la conviction que nous y parviendrons », selon Le Parisien.",
+     "sources": [
+      "007f8e65dde2"
+     ]
+    },
+    {
+     "text": "Sur la croissance, le RN table sur 1,8 % dès 2028, contre 1,2 % prévus par le Haut Conseil des finances publiques. « Ce n'est pas du tout crédible comme scénario macroéconomique », juge Mathieu Plane, de l'Institut français d'économie, selon franceinfo.",
+     "sources": [
+      "60fa7dabff61"
+     ]
+    },
+    {
+     "text": "Le think tank social-démocrate Terra Nova juge « extravagant » l'économie annoncée de 140 milliards : « Marine Le Pen n'est toujours pas une candidate sérieuse sur le plan des finances publiques », écrit-il. Il estime que le RN compte sur 32,5 milliards contre la fraude en 2031, soit 14 de plus que le CAE.",
+     "sources": [
+      "30ba9c504e7e"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau, qui a présenté sa propre trajectoire lundi, juge que « ça n'est pas sérieux », selon le titre du Parisien. Le journal note que les deux candidats avancent des pistes qui « se ressemblent singulièrement » : règle d'or, chasse aux normes, baisse du nombre de fonctionnaires.",
+     "sources": [
+      "6dad2b7c9d86"
+     ]
+    },
+    {
+     "text": "Pour Le Monde, la politique économique du RN affiche « une certaine continuité avec le macronisme » : un concepteur du programme estime qu'« Emmanuel Macron aurait pu prononcer son propos introductif ».",
+     "sources": [
+      "6d45f2b697fb"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, candidat Horizons, estime que « dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe », a-t-il dit mardi 13 octobre, selon BFMTV.",
+     "sources": [
+      "861af2bd18b4"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 9,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/10/06/4f65f791dc56bcc279ec2ead6f15c41e9a083d010a7fcf0e296d3d234384fb6d.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+    "article_id": "b9bb0603a91b",
+    "focus_x": 0.5066666666666667,
+    "focus_y": 0.18079800498753118
+   },
+   "id": 118,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-14T12:07:19+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.5,
+   "sources": [
+    {
+     "id": "007f8e65dde2",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Une épreuve de force » : face à la dette française, Marine Le Pen veut retirer 11 milliards d’euros de contributions à l’UE",
+     "url": "https://www.leparisien.fr/politique/une-epreuve-de-force-face-a-la-dette-francaise-marine-le-pen-veut-retirer-11-milliards-deuros-de-contributions-a-lue-14-10-2026-SMA5XPBF5FCZ3JDCT7LB75QA5E.php",
+     "published_at": "2026-10-14T09:47:52+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "30ba9c504e7e",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Extravagant », « pas une candidate sérieuse » : Terra Nova fustige le programme économique présidentiel de Marine Le Pen et du RN",
+     "url": "https://www.leparisien.fr/elections/presidentielle/extravagant-pas-une-candidate-serieuse-terra-nova-fustige-le-programme-economique-presidentiel-de-marine-le-pen-et-du-rn-13-10-2026-3SIZYATO6BGL3D6EJEQRZPUADA.php",
+     "published_at": "2026-10-13T20:35:31+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "60fa7dabff61",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+     "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-08T03:54:36+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6d45f2b697fb",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
+     "published_at": "2026-10-13T18:55:48+00:00",
+     "snippet": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprises."
+    },
+    {
+     "id": "6dad2b7c9d86",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Ça n’est pas sérieux » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
+     "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
+     "published_at": "2026-10-13T09:01:13+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "861af2bd18b4",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Budget: \"Dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe\", estime Édouard Philippe",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-budget-dans-les-propositions-de-marine-le-pen-il-y-a-quelque-chose-de-nature-a-fissurer-l-europe-estime-edouard-philippe_VN-202610130428.html",
+     "published_at": "2026-10-13T09:40:14+00:00",
+     "snippet": "Édouard Philippe, candidat Horizons à l'élection présidentielle, s'est exprimé sur les propositions économiques de Marine Le Pen lors du sommet Politico sur la compétitivité économique, mardi 13 octobre."
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ecc8b2b21744",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget: comment fonctionnerait la \"règle d'or\" que Marine Le Pen veut faire adopter par référendum",
+     "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
    "chapo": "Mardi 13 octobre, l'Assemblée a adopté à l'unanimité des votants (503 voix pour, 0 contre, 67 abstentions) la loi « intégrale » contre les violences sexistes et sexuelles. Elle crée notamment un délit d'inceste, un socle minimal d'enquête et un entretien obligatoire à l'école. Elle doit maintenant passer au Sénat en janvier, et la question du financement reste ouverte.",
@@ -92,7 +402,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 26.72,
+   "score": 26.48,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -205,316 +515,6 @@
    ]
   },
   {
-   "headline": "Marine Le Pen et son budget : 140 milliards d'économies, un plan très critiqué",
-   "chapo": "Présenté le 6 octobre, le plan budgétaire de Marine Le Pen promet 140 milliards d'euros de baisses de dépenses d'ici à 2032, une règle d'or votée par référendum et une réduction de la contribution française à l'UE. Économistes, think tank, Retailleau et Philippe en contestent la crédibilité.",
-   "points": [
-    {
-     "text": "Marine Le Pen a défendu un « effort radical » afin d'atteindre 140 milliards d'euros de baisses de dépenses publiques d'ici à 2032, selon franceinfo. Elle promet un « déficit inférieur à 3% en 2030 », contre 5,4 % prévus en 2026, une cure « et non d'austérité », assure-t-elle au Figaro.",
-     "sources": [
-      "60fa7dabff61",
-      "b9bb0603a91b"
-     ]
-    },
-    {
-     "text": "Dans le tableau sombre qu'elle dresse, Marine Le Pen estime que « l'abîme est juste devant nous » et que sans « rupture politique, la France court vers le défaut » de paiement, rapporte Le Figaro. Avant la présentation, le député RN Jean-Philippe Tanguy avait évoqué sur CNews 125 milliards d'économies d'ici à 2032 : « Avec le RN, l'argent des Français ne sera jamais l'argent de l'État ».",
-     "sources": [
-      "b9bb0603a91b",
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "Elle propose une « règle d'or budgétaire » qu'elle soumettrait aux Français par référendum. Le Parlement « ne pourra se prononcer que sur un projet de loi de finances respectant les critères énoncés », explique-t-elle, avec un déficit de 4,9 % du PIB en 2027, selon LCP. Elle reconnaît que la « tradition politique » du RN était jusqu'ici opposée à cette idée.",
-     "sources": [
-      "ecc8b2b21744"
-     ]
-    },
-    {
-     "text": "Elle veut aussi économiser 11,1 milliards d'euros dès 2027 sur la contribution de la France au budget de l'Union européenne, puis jusqu'à 20 milliards les années suivantes. Le ministre de l'Économie Roland Lescure répond : « Il faudra le faire adopter par les 26 partenaires, ce n'est pas acquis ».",
-     "sources": [
-      "60fa7dabff61",
-      "007f8e65dde2"
-     ]
-    },
-    {
-     "text": "Dans un entretien au Financial Times, Marine Le Pen reconnaît qu'« il y aura un débat difficile, voire une épreuve de force », mais dit avoir « la conviction que nous y parviendrons », selon Le Parisien.",
-     "sources": [
-      "007f8e65dde2"
-     ]
-    },
-    {
-     "text": "Sur la croissance, le RN table sur 1,8 % dès 2028, contre 1,2 % prévus par le Haut Conseil des finances publiques. « Ce n'est pas du tout crédible comme scénario macroéconomique », juge Mathieu Plane, de l'Institut français d'économie, selon franceinfo.",
-     "sources": [
-      "60fa7dabff61"
-     ]
-    },
-    {
-     "text": "Le think tank social-démocrate Terra Nova juge « extravagant » l'économie annoncée de 140 milliards : « Marine Le Pen n'est toujours pas une candidate sérieuse sur le plan des finances publiques », écrit-il. Il estime que le RN compte sur 32,5 milliards contre la fraude en 2031, soit 14 de plus que le CAE.",
-     "sources": [
-      "30ba9c504e7e"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau, qui a présenté sa propre trajectoire lundi, juge que « ça n'est pas sérieux », selon le titre du Parisien. Le journal note que les deux candidats avancent des pistes qui « se ressemblent singulièrement » : règle d'or, chasse aux normes, baisse du nombre de fonctionnaires.",
-     "sources": [
-      "6dad2b7c9d86"
-     ]
-    },
-    {
-     "text": "Pour Le Monde, la politique économique du RN affiche « une certaine continuité avec le macronisme » : un concepteur du programme estime qu'« Emmanuel Macron aurait pu prononcer son propos introductif ».",
-     "sources": [
-      "6d45f2b697fb"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, candidat Horizons, estime que « dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe », a-t-il dit mardi 13 octobre, selon BFMTV.",
-     "sources": [
-      "861af2bd18b4"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/10/06/4f65f791dc56bcc279ec2ead6f15c41e9a083d010a7fcf0e296d3d234384fb6d.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-    "article_id": "b9bb0603a91b",
-    "focus_x": 0.5066666666666667,
-    "focus_y": 0.18079800498753118
-   },
-   "id": 118,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-14T12:07:19+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 19.65,
-   "sources": [
-    {
-     "id": "007f8e65dde2",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Une épreuve de force » : face à la dette française, Marine Le Pen veut retirer 11 milliards d’euros de contributions à l’UE",
-     "url": "https://www.leparisien.fr/politique/une-epreuve-de-force-face-a-la-dette-francaise-marine-le-pen-veut-retirer-11-milliards-deuros-de-contributions-a-lue-14-10-2026-SMA5XPBF5FCZ3JDCT7LB75QA5E.php",
-     "published_at": "2026-10-14T09:47:52+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "30ba9c504e7e",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Extravagant », « pas une candidate sérieuse » : Terra Nova fustige le programme économique présidentiel de Marine Le Pen et du RN",
-     "url": "https://www.leparisien.fr/elections/presidentielle/extravagant-pas-une-candidate-serieuse-terra-nova-fustige-le-programme-economique-presidentiel-de-marine-le-pen-et-du-rn-13-10-2026-3SIZYATO6BGL3D6EJEQRZPUADA.php",
-     "published_at": "2026-10-13T20:35:31+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "60fa7dabff61",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
-     "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-08T03:54:36+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6d45f2b697fb",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
-     "published_at": "2026-10-13T18:55:48+00:00",
-     "snippet": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprises."
-    },
-    {
-     "id": "6dad2b7c9d86",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Ça n’est pas sérieux » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
-     "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
-     "published_at": "2026-10-13T09:01:13+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "861af2bd18b4",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Budget: \"Dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe\", estime Édouard Philippe",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-budget-dans-les-propositions-de-marine-le-pen-il-y-a-quelque-chose-de-nature-a-fissurer-l-europe-estime-edouard-philippe_VN-202610130428.html",
-     "published_at": "2026-10-13T09:40:14+00:00",
-     "snippet": "Édouard Philippe, candidat Horizons à l'élection présidentielle, s'est exprimé sur les propositions économiques de Marine Le Pen lors du sommet Politico sur la compétitivité économique, mardi 13 octobre."
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "ecc8b2b21744",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget: comment fonctionnerait la \"règle d'or\" que Marine Le Pen veut faire adopter par référendum",
-     "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Mouvement lycéen : ce que répond le gouvernement",
-   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
-   "points": [
-    {
-     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
-     "sources": [
-      "778290443d8a"
-     ]
-    },
-    {
-     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
-     "sources": [
-      "a50415a50025",
-      "9d9becc1a4da"
-     ]
-    },
-    {
-     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
-     "sources": [
-      "99854f802655"
-     ]
-    },
-    {
-     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
-     "sources": [
-      "3fd03cd61f9a",
-      "8a267d020f85"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
-     "sources": [
-      "6986a71f8e02"
-     ]
-    },
-    {
-     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
-     "sources": [
-      "053ba007189f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
-    "source": "Public Sénat",
-    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-    "article_id": "778290443d8a",
-    "focus_x": 0.47333333333333333,
-    "focus_y": 0.16657407407407407
-   },
-   "id": 121,
-   "section": "actualites",
-   "reviewed_at": "2026-10-14T16:03:47+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.9,
-   "sources": [
-    {
-     "id": "053ba007189f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
-     "published_at": "2026-10-14T11:35:11+00:00",
-     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
-    },
-    {
-     "id": "3fd03cd61f9a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
-     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
-     "published_at": "2026-10-14T13:59:54+00:00",
-     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
-    },
-    {
-     "id": "6986a71f8e02",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
-     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
-     "published_at": "2026-10-14T15:32:30+00:00",
-     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
-    },
-    {
-     "id": "778290443d8a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
-     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-     "published_at": "2026-10-14T10:28:45+00:00",
-     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
-    },
-    {
-     "id": "8a267d020f85",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
-     "published_at": "2026-10-14T07:25:03+00:00",
-     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
-    },
-    {
-     "id": "99854f802655",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
-     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-14T13:55:03+00:00",
-     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
-    },
-    {
-     "id": "9d9becc1a4da",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
-     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
-     "published_at": "2026-10-14T14:30:00+00:00",
-     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
-    },
-    {
-     "id": "a50415a50025",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
-     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
-     "published_at": "2026-10-14T15:23:56+00:00",
-     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
-    }
-   ]
-  },
-  {
    "headline": "Natacha Polony candidate à la présidentielle : « Nous sommes la France »",
    "chapo": "Mercredi 14 octobre, l'essayiste et ancienne directrice de Marianne a annoncé sur France Inter sa candidature pour « rassembler les orphelins de la politique ». Souverainiste, elle propose « une politique de production ». Reste à réunir les 500 signatures d'élus.",
    "points": [
@@ -585,7 +585,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.84,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -644,17 +644,17 @@
    ]
   },
   {
-   "headline": "Contre-budget de Mélenchon : 106 milliards de recettes, 82 de dépenses",
-   "chapo": "Mercredi 14 octobre, Jean-Luc Mélenchon a présenté le budget que LFI appliquerait en cas de victoire : 106,4 milliards d'euros de recettes nouvelles, 81,7 milliards de dépenses et 25 milliards pour réduire la dette. À comparer avec les 43 milliards d'efforts du gouvernement.",
+   "headline": "Contre-budget de Mélenchon : 106 milliards de recettes en plus, 82 de dépenses en plus",
+   "chapo": "Mercredi 14 octobre, Jean-Luc Mélenchon a présenté le budget que LFI appliquerait en cas de victoire : 106,4 milliards d'euros de recettes supplémentaires, 81,7 milliards de dépenses nouvelles, dont 25 milliards pour réduire la dette. À comparer avec les 43 milliards d'efforts du gouvernement.",
    "points": [
     {
-     "text": "Lors d'une conférence de presse, Jean-Luc Mélenchon a présenté un budget « rectificatif » qui remplacerait celui de Sébastien Lecornu : « 106,4 milliards » d'euros de recettes et « 81,7 milliards » de dépenses, détaille Éric Coquerel, selon franceinfo.",
+     "text": "Lors d'une conférence de presse, Jean-Luc Mélenchon a présenté un budget « rectificatif » qui remplacerait celui de Sébastien Lecornu : « 106,4 milliards » d'euros de recettes (supplémentaires) et « 81,7 milliards » de dépenses (nouvelles), détaille Éric Coquerel, selon franceinfo. L'écart d'environ 25 milliards correspond à la réduction du déficit, selon Éric Coquerel.",
      "sources": [
       "c9a3a06f84c0"
      ]
     },
     {
-     "text": "LFI y consacre « 25 milliards » à la réduction de la dette dès la première année. « Nous sommes dans l'épure » d'un rapport d'économistes rendu à Bercy, qui appelait à au moins « 125 milliards d'euros » d'effort sur le prochain quinquennat, a plaidé Jean-Luc Mélenchon.",
+     "text": "LFI y consacre « 25 milliards » à la réduction de la dette dès la première année. « Nous sommes dans l'épure » d'un rapport d'économistes rendu à Bercy, qui appelait à au moins « 125 milliards d'euros » d'effort sur le prochain quinquennat, a plaidé Jean-Luc Mélenchon. « Nous faisons 25 milliards de réduction du déficit. Nous faisons donc mieux que le gouvernement », résume Éric Coquerel, selon Libération.",
      "sources": [
       "c9a3a06f84c0",
       "18389f9c94f4"
@@ -708,18 +708,15 @@
     "url": "https://www.franceinfo.fr/pictures/gTPNo9nOZQxtKK65bGNQL56z9Ek/0x0:1024x576/432x243/filters:format(jpg)/2026/10/14/6acf5a4096c3f616288147.jpg",
     "source": "franceinfo",
     "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-france-insoumise-presente-son-projet-de-budget-2027-avec-25-milliards-d-euros-dedies-a-la-diminution-de-la-dette_8237077.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "c9a3a06f84c0",
-    "focus_x": 0.6433333333333333,
-    "focus_y": 0.19046296296296297
+    "article_id": "c9a3a06f84c0"
    },
-   "social_requested": "2026-10-14T16:02:14+00:00",
    "id": 119,
    "section": "presidentielle",
    "reviewed_at": "2026-10-14T16:02:15+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.87,
+   "score": 17.71,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -861,7 +858,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.1,
+   "score": 13.01,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -995,7 +992,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.58,
+   "score": 9.55,
    "sources": [
     {
      "id": "133db027e449",
@@ -1143,7 +1140,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.22,
+   "score": 8.18,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1287,7 +1284,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.84,
+   "score": 6.82,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1415,7 +1412,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.48,
+   "score": 5.45,
    "sources": [
     {
      "id": "57c07028e804",
@@ -1538,7 +1535,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.79,
+   "score": 7.77,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1727,7 +1724,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.32,
+   "score": 6.3,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -1899,7 +1896,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.61,
+   "score": 5.6,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2066,7 +2063,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.56,
+   "score": 5.54,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -2263,7 +2260,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.21,
+   "score": 11.19,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -2653,7 +2650,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.33,
+   "score": 7.31,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -2865,7 +2862,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.53,
+   "score": 4.52,
    "sources": [
     {
      "id": "0a254f232767",
@@ -3033,7 +3030,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.49,
+   "score": 2.48,
    "sources": [
     {
      "id": "22099a905f2b",
@@ -3163,7 +3160,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.11,
+   "score": 3.1,
    "sources": [
     {
      "id": "01516d0832b5",

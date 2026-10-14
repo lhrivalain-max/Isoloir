@@ -159,7 +159,7 @@ function render() {
     meta.textContent = "";
     return;
   }
-  meta.textContent = `${list.length} sujet${list.length > 1 ? "s" : ""} relu${list.length > 1 ? "s" : ""}`;
+  meta.textContent = "Tous les sujets sont relus";
   // Les récaps sont regroupés par jour (le plus récent en haut), sans changer l'ordre d'importance à l'intérieur d'un jour.
   const paris = (iso) => new Date(iso || Date.now()).toLocaleDateString("fr-CA", { timeZone: "Europe/Paris" });
   const dayKeys = list.map((p) => paris(p.reviewed_at));
