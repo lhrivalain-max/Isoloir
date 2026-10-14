@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T16:00:04+00:00",
+ "generated_at": "2026-10-14T16:02:14+00:00",
  "posts": [
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
@@ -92,7 +92,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 26.95,
+   "score": 26.91,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -291,7 +291,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.8,
+   "score": 19.77,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -372,6 +372,140 @@
      "title": "Budget: comment fonctionnerait la \"règle d'or\" que Marine Le Pen veut faire adopter par référendum",
      "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
      "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Contre-budget de Mélenchon : 106 milliards de recettes, 82 de dépenses",
+   "chapo": "Mercredi 14 octobre, Jean-Luc Mélenchon a présenté le budget que LFI appliquerait en cas de victoire : 106,4 milliards d'euros de recettes nouvelles, 81,7 milliards de dépenses et 25 milliards pour réduire la dette. À comparer avec les 43 milliards d'efforts du gouvernement.",
+   "points": [
+    {
+     "text": "Lors d'une conférence de presse, Jean-Luc Mélenchon a présenté un budget « rectificatif » qui remplacerait celui de Sébastien Lecornu : « 106,4 milliards » d'euros de recettes et « 81,7 milliards » de dépenses, détaille Éric Coquerel, selon franceinfo.",
+     "sources": [
+      "c9a3a06f84c0"
+     ]
+    },
+    {
+     "text": "LFI y consacre « 25 milliards » à la réduction de la dette dès la première année. « Nous sommes dans l'épure » d'un rapport d'économistes rendu à Bercy, qui appelait à au moins « 125 milliards d'euros » d'effort sur le prochain quinquennat, a plaidé Jean-Luc Mélenchon.",
+     "sources": [
+      "c9a3a06f84c0",
+      "18389f9c94f4"
+     ]
+    },
+    {
+     "text": "Côté recettes, LFI mise sur un « ISF climatique » (10 milliards), la suppression de la flat tax (9 milliards) et la taxe Zucman sur les patrimoines de plus de 100 millions d'euros (15 milliards escomptés). Elle veut aussi une taxe sur les héritages à 20 milliards et « 22 milliards » de rabotage de niches fiscales, selon Libération.",
+     "sources": [
+      "18389f9c94f4"
+     ]
+    },
+    {
+     "text": "Côté dépenses : 10 000 postes de soignants (3 milliards), la retraite à 62 ans puis à 60 ans (9 milliards), une « garantie d'autonomie » de 1 337 euros par mois pour les jeunes (9,5 milliards), la cantine gratuite (3,6 milliards) et 10 000 postes d'enseignants, selon Libération.",
+     "sources": [
+      "18389f9c94f4"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon assume : « Si vous nous jugez sur les critères du néolibéralisme, nos projets sont inacceptables ». « Il est nécessaire de mettre à contribution le capital financier », ajoute-t-il, rapporte Le Parisien.",
+     "sources": [
+      "fed42278b86a"
+     ]
+    },
+    {
+     "text": "Le gel ou l'annulation d'une partie de la dette détenue par la Banque centrale européenne ne figure pas dans les calculs budgétaires : cela passerait d'abord par « un rapport de force », a rappelé Éric Coquerel. Le Parisien rappelle qu'en août, Jean-Luc Mélenchon avait suggéré d'« effacer la dette ».",
+     "sources": [
+      "a36f2624e804",
+      "fed42278b86a"
+     ]
+    },
+    {
+     "text": "En face, le gouvernement prévoit 43 milliards d'euros d'effort : 17 milliards de nouveaux impôts et 26 milliards de coupes dans les dépenses, selon CNews. Les retraités y contribueraient pour 5,5 milliards, avec un gel des pensions au-delà de 1 260 euros.",
+     "sources": [
+      "ae96453cf3c2"
+     ]
+    },
+    {
+     "text": "Marine Le Pen, qui présentait son propre contre-budget le 6 octobre, avait dénoncé « l'alternative délirante » proposée par LFI, selon BFMTV. Les Insoumis se rapprochent pourtant du RN et de Bruno Retailleau sur un point : baisser la contribution de la France à l'UE, relève 20 Minutes.",
+     "sources": [
+      "2fefa33edd5a",
+      "a36f2624e804"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/gTPNo9nOZQxtKK65bGNQL56z9Ek/0x0:1024x576/432x243/filters:format(jpg)/2026/10/14/6acf5a4096c3f616288147.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/elections/presidentielle/la-france-insoumise-presente-son-projet-de-budget-2027-avec-25-milliards-d-euros-dedies-a-la-diminution-de-la-dette_8237077.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "c9a3a06f84c0",
+    "focus_x": 0.6433333333333333,
+    "focus_y": 0.19046296296296297
+   },
+   "social_requested": "2026-10-14T16:02:14+00:00",
+   "id": 119,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-14T16:02:14+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "18389f9c94f4",
+     "name": "Libération",
+     "kind": "media",
+     "title": "En cas de victoire à la présidentielle : LFI prévoit 106 milliards de recettes supplémentaires et 82 milliards de dépenses nouvelles pour 2027",
+     "url": "https://www.liberation.fr/politique/elections/presidentielle-lfi-prevoit-106-milliards-de-recettes-supplementaires-et-82-milliards-de-depenses-nouvelles-pour-2027-20261014_7KPGOCH4XZFMHIHJ7HCZ5S57FM/",
+     "published_at": "2026-10-14T13:20:35+00:00",
+     "snippet": "Le parti mélenchoniste a présenté ce mercredi 14 octobre les mesures qu’il appliquerait s’il remportait la présidentielle. les principales mesures : un ISF Parmi climatique, la taxe Zucman et le retour de la retraite à 62 puis 60 ans."
+    },
+    {
+     "id": "2fefa33edd5a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Budget: Marine Le Pen dénonce \"l'alternative délirante\" proposée par LFI",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-budget-marine-le-pen-denonce-l-alternative-delirante-proposee-par-lfi_VN-202610060375.html",
+     "published_at": "2026-10-06T08:40:35+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "a36f2624e804",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle : Dette réduite, relance économique… Que propose Jean-Luc Mélenchon pour le budget 2027 ?",
+     "url": "https://www.20minutes.fr/politique/4254310-20261014-presidentielle-dette-reduite-relance-economique-propose-jean-luc-melenchon-budget-2027?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-14T14:03:15+00:00",
+     "snippet": "Le patron de La France insoumise a présenté ses propositions économiques pour le budget 2027 en cas d'élection en mai prochain"
+    },
+    {
+     "id": "ae96453cf3c2",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Budget 2027 : retraites, aides, fonction publique... Où le gouvernement veut-il faire 43 milliards d'euros d'économies ?",
+     "url": "https://www.cnews.fr/france/2026-10-14/budget-2027-retraites-aides-fonction-publique-ou-le-gouvernement-veut-il-faire-43",
+     "published_at": "2026-10-14T13:47:45+00:00",
+     "snippet": "L'ambition du gouvernement est connue : réaliser 43 milliards d'euros d'effort budgétaire. Pour ce faire, le budget prévoit 17 milliards d'euros de nouveaux impôts et 26 milliards d'euros de coupes dans les dépenses. Comment le gouvernement compte-t-il y arriver ? Afin de matérialiser les efforts budgétaires espérés en 2027, à l'issue du vote du budget de la part des députés, plusieurs axes de réductions des coûts sont étudiés. Retraites, financement des ministères, allocations... Voici où des efforts majeurs pourraient être réalisés. La première mesure, assurément celle qui crispe le plus les"
+    },
+    {
+     "id": "c9a3a06f84c0",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "La France insoumise présente son projet de budget 2027 avec 25 milliards d'euros dédiés à la \"diminution\" de la dette",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/la-france-insoumise-presente-son-projet-de-budget-2027-avec-25-milliards-d-euros-dedies-a-la-diminution-de-la-dette_8237077.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-14T11:15:06+00:00",
+     "snippet": "Ce texte serait ainsi une réponse à la \"culture dominante\" du \"néolibéralisme\", a plaidé Jean-Luc Mélenchon mercredi lors d'une conférence de presse organisée au siège de son parti."
+    },
+    {
+     "id": "fed42278b86a",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Budget 2027 : la France insoumise dévoile un contre-budget de LFI avec 106,4 milliards d’euros de recettes et 81,7 milliards de dépenses",
+     "url": "https://www.leparisien.fr/elections/presidentielle/budget-2027-la-france-insoumise-devoile-un-contre-budget-de-lfi-avec-1064-milliards-deuros-de-recettes-et-817-milliards-de-depenses-14-10-2026-DALZK7Y3BNAAZPTTNEALY6U2KQ.php",
+     "published_at": "2026-10-14T15:50:27+00:00",
      "snippet": ""
     }
    ]
@@ -460,7 +594,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.2,
+   "score": 13.18,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -742,7 +876,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.25,
+   "score": 8.24,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1014,7 +1148,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.5,
+   "score": 5.49,
    "sources": [
     {
      "id": "57c07028e804",
@@ -1137,7 +1271,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.82,
+   "score": 7.81,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1498,7 +1632,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.63,
+   "score": 5.62,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2252,7 +2386,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.35,
+   "score": 7.34,
    "sources": [
     {
      "id": "35b7691914c1",
