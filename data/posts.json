@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T16:03:47+00:00",
+ "generated_at": "2026-10-14T16:12:41+00:00",
  "posts": [
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
@@ -92,7 +92,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 26.88,
+   "score": 26.72,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -291,7 +291,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.76,
+   "score": 19.65,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -438,7 +438,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.0,
+   "score": 15.9,
    "sources": [
     {
      "id": "053ba007189f",
@@ -511,6 +511,135 @@
      "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
      "published_at": "2026-10-14T15:23:56+00:00",
      "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
+    }
+   ]
+  },
+  {
+   "headline": "Natacha Polony candidate à la présidentielle : « Nous sommes la France »",
+   "chapo": "Mercredi 14 octobre, l'essayiste et ancienne directrice de Marianne a annoncé sur France Inter sa candidature pour « rassembler les orphelins de la politique ». Souverainiste, elle propose « une politique de production ». Reste à réunir les 500 signatures d'élus.",
+   "points": [
+    {
+     "text": "« Nous sommes dans le chaos. La situation m'oblige. Oui, je suis candidate à l'élection présidentielle », a déclaré Natacha Polony sur France Inter, selon CNews. Son slogan : « Nous sommes la France ».",
+     "sources": [
+      "e708a1706556"
+     ]
+    },
+    {
+     "text": "Elle veut représenter « tous les orphelins de la politique », selon CNews, qui précise qu'elle entend donner une alternative au duel qui semble se profiler entre le RN et LFI. Elle se positionne entre des offres « perçues comme des offres qui fracturent » et « des gens qui ont exercé le pouvoir », selon LCP.",
+     "sources": [
+      "95bc0c24f8f4",
+      "e708a1706556"
+     ]
+    },
+    {
+     "text": "Son projet : une « politique de production », en privilégiant les entreprises qui produisent sur le sol français, pour remédier à la « perte totale de rang de la France sur les questions économiques, sur notre indépendance, sur la souveraineté », rapporte La Croix. Le Monde parle d'un « souverainisme de gauche ».",
+     "sources": [
+      "df57eba2fe2e",
+      "708fda50618c"
+     ]
+    },
+    {
+     "text": "Directrice de la revue L'Audace !, elle revendique 60 000 sympathisants un mois et demi après le lancement de son mouvement, selon La Croix. Elle défend une ligne souverainiste et pro-laïcité.",
+     "sources": [
+      "df57eba2fe2e"
+     ]
+    },
+    {
+     "text": "Son parcours : ancienne directrice de la rédaction de Marianne, chroniqueuse de télévision, déjà engagée en politique aux côtés de Jean-Pierre Chevènement, elle avait obtenu 2,24 % des voix aux législatives de 2002 à Paris, selon La Croix.",
+     "sources": [
+      "df57eba2fe2e"
+     ]
+    },
+    {
+     "text": "Côté programme, LCP rapporte qu'elle propose d'augmenter les salaires de 20 à 30 % et un « état d'urgence de la production ». Obstacle principal : les 500 signatures d'élus, une règle qu'elle juge « aberrante » mais à laquelle elle doit se conformer.",
+     "sources": [
+      "95bc0c24f8f4"
+     ]
+    },
+    {
+     "text": "Une candidature de plus : la 34e à ce jour selon CNews, « la 28e » selon le titre de 20 Minutes. Libération raille une « énième candidature ». Elle répond : « Cela ne m'a pas échappé, mais jusqu'à présent, ça n'a absolument pas débloqué la situation ».",
+     "sources": [
+      "e708a1706556",
+      "48d0d3a7d1fa",
+      "95688f925d07",
+      "95bc0c24f8f4"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_mcohen_3270432-taille1200_6acf194e55810.jpg?itok=MMaSk2SX",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
+    "article_id": "e708a1706556",
+    "focus_x": 0.48333333333333334,
+    "focus_y": 0.055092592592592596
+   },
+   "id": 122,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-14T16:12:41+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "48d0d3a7d1fa",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : L’essayiste et journaliste Natacha Polony se déclare candidate, ce n’est que la 28e",
+     "url": "https://www.20minutes.fr/politique/4254145-20261014-presidentielle-2027-essayiste-journaliste-natacha-polony-declare-candidate-28e?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-14T06:43:41+00:00",
+     "snippet": "Natacha Polony, essayiste et journaliste de 51 ans, annonce sa candidature à l’élection présidentielle de 2027 avec son mouvement « Nous sommes la France »"
+    },
+    {
+     "id": "708fda50618c",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-natacha-polony-se-declare-candidate_6793497_823448.html",
+     "published_at": "2026-10-14T06:25:56+00:00",
+     "snippet": "La journaliste se revendique du souverainisme de gauche. Elle dit constater « une perte totale de rang de la France sur les questions économiques, sur [son] indépendance, sur la souveraineté », et veut proposer « une politique de production »."
+    },
+    {
+     "id": "95688f925d07",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle",
+     "url": "https://www.liberation.fr/politique/natacha-polony-se-sent-obligee-dajouter-une-enimene-candidature-a-lelection-presidentielle-20261014_YTMYBQ5RPVGCHAIJI3PECRAQQM/",
+     "published_at": "2026-10-14T06:32:13+00:00",
+     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
+    },
+    {
+     "id": "95bc0c24f8f4",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Natacha Polony annonce sa candidature à l'élection présidentielle",
+     "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+     "published_at": "2026-10-14T09:47:58+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mercredi 14 octobre 2026 à 08:36 La journaliste et essayiste Natacha Polony a confirmé ce mercredi sa candidature à l'élection présidentielle de 2027. \" Je ne peux pas continuer à regarder mon pays s'effondrer\", a-t-elle justifié sur France Inter. \"La situation m'oblige\". Parce que \"la situation (l')oblige\" et que la France est dans \"le chaos\", Natacha Polony a annoncé sa candidature à l'élection présidentielle ce mercredi 14 octobre sur France Inter . Pourquoi elle, alors que beaucoup de candidats sont déjà sur la ligne de départ ? \"Cela ne m'a pas échappé, m"
+    },
+    {
+     "id": "df57eba2fe2e",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature",
+     "url": "https://www.la-croix.com/politique/election-presidentielle-2027-l-essayiste-natacha-polony-annonce-sa-candidature-20261014",
+     "published_at": "2026-10-14T08:23:41+00:00",
+     "snippet": "L’essayiste et ancienne directrice de Marianne a annoncé mercredi 14 octobre sur France Inter vouloir « rassembler les orphelins de la politique ». Une candidature qui s’inscrit dans la continuité du mouvement politique qu’elle a lancé en septembre."
+    },
+    {
+     "id": "e708a1706556",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature",
+     "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
+     "published_at": "2026-10-14T06:19:29+00:00",
+     "snippet": "Natacha Polony a annoncé ce mercredi matin sa candidature à l'élection présidentielle de 2027. Sur son compte X, l'essayiste a partagé son slogan de campagne, «Nous sommes la France». Elle n'en faisait pas un mystère, c'est désormais officiel. L'essayiste Natacha Polony a annoncé ce mercredi sa candidature à l'élection présidentielle de 2027, la 34e à ce jour. «Nous sommes dans le chaos. La situation m’oblige. Oui, je suis candidate à l’élection présidentielle. Je ne peux pas continuer à regarder mon pays s’effondrer», a-t-elle déclaré sur France Inter, dévoilant par la même occasion son sloga"
     }
    ]
   },
@@ -590,7 +719,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.98,
+   "score": 17.87,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -732,7 +861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.17,
+   "score": 13.1,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -866,7 +995,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.61,
+   "score": 9.58,
    "sources": [
     {
      "id": "133db027e449",
@@ -1014,7 +1143,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.24,
+   "score": 8.22,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1158,7 +1287,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.86,
+   "score": 6.84,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1286,7 +1415,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.49,
+   "score": 5.48,
    "sources": [
     {
      "id": "57c07028e804",
@@ -1409,7 +1538,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.81,
+   "score": 7.79,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1598,7 +1727,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.33,
+   "score": 6.32,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -1770,7 +1899,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.62,
+   "score": 5.61,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -1937,7 +2066,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.57,
+   "score": 5.56,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -2134,7 +2263,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.23,
+   "score": 11.21,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -2524,7 +2653,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.34,
+   "score": 7.33,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -2736,7 +2865,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.54,
+   "score": 4.53,
    "sources": [
     {
      "id": "0a254f232767",
