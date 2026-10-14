@@ -1,178 +1,6 @@
 {
- "generated_at": "2026-10-14T15:57:28+00:00",
+ "generated_at": "2026-10-14T16:00:04+00:00",
  "posts": [
-  {
-   "headline": "Marine Le Pen et son budget : 140 milliards d'économies, un plan très critiqué",
-   "chapo": "Présenté le 6 octobre, le plan budgétaire de Marine Le Pen promet 140 milliards d'euros de baisses de dépenses d'ici à 2032, une règle d'or votée par référendum et une réduction de la contribution française à l'UE. Économistes, think tank, Retailleau et Philippe en contestent la crédibilité.",
-   "points": [
-    {
-     "text": "Marine Le Pen a défendu un « effort radical » afin d'atteindre 140 milliards d'euros de baisses de dépenses publiques d'ici à 2032, selon franceinfo. Elle promet un « déficit inférieur à 3% en 2030 », contre 5,4 % prévus en 2026, une cure « et non d'austérité », assure-t-elle au Figaro.",
-     "sources": [
-      "60fa7dabff61",
-      "b9bb0603a91b"
-     ]
-    },
-    {
-     "text": "Dans le tableau sombre qu'elle dresse, Marine Le Pen estime que « l'abîme est juste devant nous » et que sans « rupture politique, la France court vers le défaut » de paiement, rapporte Le Figaro. Avant la présentation, le député RN Jean-Philippe Tanguy avait évoqué sur CNews 125 milliards d'économies d'ici à 2032 : « Avec le RN, l'argent des Français ne sera jamais l'argent de l'État ».",
-     "sources": [
-      "b9bb0603a91b",
-      "a1c54071d453"
-     ]
-    },
-    {
-     "text": "Elle propose une « règle d'or budgétaire » qu'elle soumettrait aux Français par référendum. Le Parlement « ne pourra se prononcer que sur un projet de loi de finances respectant les critères énoncés », explique-t-elle, avec un déficit de 4,9 % du PIB en 2027, selon LCP. Elle reconnaît que la « tradition politique » du RN était jusqu'ici opposée à cette idée.",
-     "sources": [
-      "ecc8b2b21744"
-     ]
-    },
-    {
-     "text": "Elle veut aussi économiser 11,1 milliards d'euros dès 2027 sur la contribution de la France au budget de l'Union européenne, puis jusqu'à 20 milliards les années suivantes. Le ministre de l'Économie Roland Lescure répond : « Il faudra le faire adopter par les 26 partenaires, ce n'est pas acquis ».",
-     "sources": [
-      "60fa7dabff61",
-      "007f8e65dde2"
-     ]
-    },
-    {
-     "text": "Dans un entretien au Financial Times, Marine Le Pen reconnaît qu'« il y aura un débat difficile, voire une épreuve de force », mais dit avoir « la conviction que nous y parviendrons », selon Le Parisien.",
-     "sources": [
-      "007f8e65dde2"
-     ]
-    },
-    {
-     "text": "Sur la croissance, le RN table sur 1,8 % dès 2028, contre 1,2 % prévus par le Haut Conseil des finances publiques. « Ce n'est pas du tout crédible comme scénario macroéconomique », juge Mathieu Plane, de l'Institut français d'économie, selon franceinfo.",
-     "sources": [
-      "60fa7dabff61"
-     ]
-    },
-    {
-     "text": "Le think tank social-démocrate Terra Nova juge « extravagant » l'économie annoncée de 140 milliards : « Marine Le Pen n'est toujours pas une candidate sérieuse sur le plan des finances publiques », écrit-il. Il estime que le RN compte sur 32,5 milliards contre la fraude en 2031, soit 14 de plus que le CAE.",
-     "sources": [
-      "30ba9c504e7e"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau, qui a présenté sa propre trajectoire lundi, juge que « ça n'est pas sérieux », selon le titre du Parisien. Le journal note que les deux candidats avancent des pistes qui « se ressemblent singulièrement » : règle d'or, chasse aux normes, baisse du nombre de fonctionnaires.",
-     "sources": [
-      "6dad2b7c9d86"
-     ]
-    },
-    {
-     "text": "Pour Le Monde, la politique économique du RN affiche « une certaine continuité avec le macronisme » : un concepteur du programme estime qu'« Emmanuel Macron aurait pu prononcer son propos introductif ».",
-     "sources": [
-      "6d45f2b697fb"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, candidat Horizons, estime que « dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe », a-t-il dit mardi 13 octobre, selon BFMTV.",
-     "sources": [
-      "861af2bd18b4"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/10/06/4f65f791dc56bcc279ec2ead6f15c41e9a083d010a7fcf0e296d3d234384fb6d.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-    "article_id": "b9bb0603a91b",
-    "focus_x": 0.5066666666666667,
-    "focus_y": 0.18079800498753118
-   },
-   "id": 118,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-14T12:07:19+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 19.83,
-   "sources": [
-    {
-     "id": "007f8e65dde2",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Une épreuve de force » : face à la dette française, Marine Le Pen veut retirer 11 milliards d’euros de contributions à l’UE",
-     "url": "https://www.leparisien.fr/politique/une-epreuve-de-force-face-a-la-dette-francaise-marine-le-pen-veut-retirer-11-milliards-deuros-de-contributions-a-lue-14-10-2026-SMA5XPBF5FCZ3JDCT7LB75QA5E.php",
-     "published_at": "2026-10-14T09:47:52+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "30ba9c504e7e",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Extravagant », « pas une candidate sérieuse » : Terra Nova fustige le programme économique présidentiel de Marine Le Pen et du RN",
-     "url": "https://www.leparisien.fr/elections/presidentielle/extravagant-pas-une-candidate-serieuse-terra-nova-fustige-le-programme-economique-presidentiel-de-marine-le-pen-et-du-rn-13-10-2026-3SIZYATO6BGL3D6EJEQRZPUADA.php",
-     "published_at": "2026-10-13T20:35:31+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "60fa7dabff61",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
-     "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-08T03:54:36+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6d45f2b697fb",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
-     "published_at": "2026-10-13T18:55:48+00:00",
-     "snippet": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprises."
-    },
-    {
-     "id": "6dad2b7c9d86",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Ça n’est pas sérieux » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
-     "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
-     "published_at": "2026-10-13T09:01:13+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "861af2bd18b4",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Budget: \"Dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe\", estime Édouard Philippe",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-budget-dans-les-propositions-de-marine-le-pen-il-y-a-quelque-chose-de-nature-a-fissurer-l-europe-estime-edouard-philippe_VN-202610130428.html",
-     "published_at": "2026-10-13T09:40:14+00:00",
-     "snippet": "Édouard Philippe, candidat Horizons à l'élection présidentielle, s'est exprimé sur les propositions économiques de Marine Le Pen lors du sommet Politico sur la compétitivité économique, mardi 13 octobre."
-    },
-    {
-     "id": "a1c54071d453",
-     "name": "CNews",
-     "kind": "media",
-     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
-     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
-     "published_at": "2026-10-06T04:06:01+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b9bb0603a91b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
-     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
-     "published_at": "2026-10-06T10:01:46+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "ecc8b2b21744",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget: comment fonctionnerait la \"règle d'or\" que Marine Le Pen veut faire adopter par référendum",
-     "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
-     "published_at": "2026-10-09T17:23:13+00:00",
-     "snippet": ""
-    }
-   ]
-  },
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
    "chapo": "Mardi 13 octobre, l'Assemblée a adopté à l'unanimité des votants (503 voix pour, 0 contre, 67 abstentions) la loi « intégrale » contre les violences sexistes et sexuelles. Elle crée notamment un délit d'inceste, un socle minimal d'enquête et un entretien obligatoire à l'école. Elle doit maintenant passer au Sénat en janvier, et la question du financement reste ouverte.",
@@ -264,7 +92,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 27.0,
+   "score": 26.95,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -377,6 +205,178 @@
    ]
   },
   {
+   "headline": "Marine Le Pen et son budget : 140 milliards d'économies, un plan très critiqué",
+   "chapo": "Présenté le 6 octobre, le plan budgétaire de Marine Le Pen promet 140 milliards d'euros de baisses de dépenses d'ici à 2032, une règle d'or votée par référendum et une réduction de la contribution française à l'UE. Économistes, think tank, Retailleau et Philippe en contestent la crédibilité.",
+   "points": [
+    {
+     "text": "Marine Le Pen a défendu un « effort radical » afin d'atteindre 140 milliards d'euros de baisses de dépenses publiques d'ici à 2032, selon franceinfo. Elle promet un « déficit inférieur à 3% en 2030 », contre 5,4 % prévus en 2026, une cure « et non d'austérité », assure-t-elle au Figaro.",
+     "sources": [
+      "60fa7dabff61",
+      "b9bb0603a91b"
+     ]
+    },
+    {
+     "text": "Dans le tableau sombre qu'elle dresse, Marine Le Pen estime que « l'abîme est juste devant nous » et que sans « rupture politique, la France court vers le défaut » de paiement, rapporte Le Figaro. Avant la présentation, le député RN Jean-Philippe Tanguy avait évoqué sur CNews 125 milliards d'économies d'ici à 2032 : « Avec le RN, l'argent des Français ne sera jamais l'argent de l'État ».",
+     "sources": [
+      "b9bb0603a91b",
+      "a1c54071d453"
+     ]
+    },
+    {
+     "text": "Elle propose une « règle d'or budgétaire » qu'elle soumettrait aux Français par référendum. Le Parlement « ne pourra se prononcer que sur un projet de loi de finances respectant les critères énoncés », explique-t-elle, avec un déficit de 4,9 % du PIB en 2027, selon LCP. Elle reconnaît que la « tradition politique » du RN était jusqu'ici opposée à cette idée.",
+     "sources": [
+      "ecc8b2b21744"
+     ]
+    },
+    {
+     "text": "Elle veut aussi économiser 11,1 milliards d'euros dès 2027 sur la contribution de la France au budget de l'Union européenne, puis jusqu'à 20 milliards les années suivantes. Le ministre de l'Économie Roland Lescure répond : « Il faudra le faire adopter par les 26 partenaires, ce n'est pas acquis ».",
+     "sources": [
+      "60fa7dabff61",
+      "007f8e65dde2"
+     ]
+    },
+    {
+     "text": "Dans un entretien au Financial Times, Marine Le Pen reconnaît qu'« il y aura un débat difficile, voire une épreuve de force », mais dit avoir « la conviction que nous y parviendrons », selon Le Parisien.",
+     "sources": [
+      "007f8e65dde2"
+     ]
+    },
+    {
+     "text": "Sur la croissance, le RN table sur 1,8 % dès 2028, contre 1,2 % prévus par le Haut Conseil des finances publiques. « Ce n'est pas du tout crédible comme scénario macroéconomique », juge Mathieu Plane, de l'Institut français d'économie, selon franceinfo.",
+     "sources": [
+      "60fa7dabff61"
+     ]
+    },
+    {
+     "text": "Le think tank social-démocrate Terra Nova juge « extravagant » l'économie annoncée de 140 milliards : « Marine Le Pen n'est toujours pas une candidate sérieuse sur le plan des finances publiques », écrit-il. Il estime que le RN compte sur 32,5 milliards contre la fraude en 2031, soit 14 de plus que le CAE.",
+     "sources": [
+      "30ba9c504e7e"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau, qui a présenté sa propre trajectoire lundi, juge que « ça n'est pas sérieux », selon le titre du Parisien. Le journal note que les deux candidats avancent des pistes qui « se ressemblent singulièrement » : règle d'or, chasse aux normes, baisse du nombre de fonctionnaires.",
+     "sources": [
+      "6dad2b7c9d86"
+     ]
+    },
+    {
+     "text": "Pour Le Monde, la politique économique du RN affiche « une certaine continuité avec le macronisme » : un concepteur du programme estime qu'« Emmanuel Macron aurait pu prononcer son propos introductif ».",
+     "sources": [
+      "6d45f2b697fb"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, candidat Horizons, estime que « dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe », a-t-il dit mardi 13 octobre, selon BFMTV.",
+     "sources": [
+      "861af2bd18b4"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 9,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/10/06/4f65f791dc56bcc279ec2ead6f15c41e9a083d010a7fcf0e296d3d234384fb6d.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+    "article_id": "b9bb0603a91b",
+    "focus_x": 0.5066666666666667,
+    "focus_y": 0.18079800498753118
+   },
+   "id": 118,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-14T12:07:19+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.8,
+   "sources": [
+    {
+     "id": "007f8e65dde2",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Une épreuve de force » : face à la dette française, Marine Le Pen veut retirer 11 milliards d’euros de contributions à l’UE",
+     "url": "https://www.leparisien.fr/politique/une-epreuve-de-force-face-a-la-dette-francaise-marine-le-pen-veut-retirer-11-milliards-deuros-de-contributions-a-lue-14-10-2026-SMA5XPBF5FCZ3JDCT7LB75QA5E.php",
+     "published_at": "2026-10-14T09:47:52+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "30ba9c504e7e",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Extravagant », « pas une candidate sérieuse » : Terra Nova fustige le programme économique présidentiel de Marine Le Pen et du RN",
+     "url": "https://www.leparisien.fr/elections/presidentielle/extravagant-pas-une-candidate-serieuse-terra-nova-fustige-le-programme-economique-presidentiel-de-marine-le-pen-et-du-rn-13-10-2026-3SIZYATO6BGL3D6EJEQRZPUADA.php",
+     "published_at": "2026-10-13T20:35:31+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "60fa7dabff61",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Ce n'est pas du tout crédible\" : le budget de Marine Le Pen et ses 140 milliards d'économies sous le feu des critiques",
+     "url": "https://www.franceinfo.fr/politique/front-national/ce-n-est-pas-du-tout-credible-le-budget-de-marine-le-pen-et-ses-140-milliards-d-economies-sous-le-feu-des-critiques_8227204.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-08T03:54:36+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6d45f2b697fb",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
+     "published_at": "2026-10-13T18:55:48+00:00",
+     "snippet": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprises."
+    },
+    {
+     "id": "6dad2b7c9d86",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Ça n’est pas sérieux » : Bruno Retailleau attaque toujours Marine Le Pen sur l’économie",
+     "url": "https://www.leparisien.fr/elections/presidentielle/ses-chiffres-rappellent-ceux-des-economies-socialistes-bruno-retailleau-attaque-toujours-marine-le-pen-sur-leconomie-12-10-2026-OQFROYIZ4JBQNPYSP3CVDPU72M.php",
+     "published_at": "2026-10-13T09:01:13+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "861af2bd18b4",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Budget: \"Dans les propositions de Marine Le Pen, il y a quelque chose de nature à fissurer l'Europe\", estime Édouard Philippe",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-budget-dans-les-propositions-de-marine-le-pen-il-y-a-quelque-chose-de-nature-a-fissurer-l-europe-estime-edouard-philippe_VN-202610130428.html",
+     "published_at": "2026-10-13T09:40:14+00:00",
+     "snippet": "Édouard Philippe, candidat Horizons à l'élection présidentielle, s'est exprimé sur les propositions économiques de Marine Le Pen lors du sommet Politico sur la compétitivité économique, mardi 13 octobre."
+    },
+    {
+     "id": "a1c54071d453",
+     "name": "CNews",
+     "kind": "media",
+     "title": "125 milliards d'euros d’économies : Marine Le Pen et Jordan Bardella dévoilent ce mardi leur stratégie budgétaire pour séduire les marchés",
+     "url": "https://www.cnews.fr/france/2026-10-06/125-milliards-deuros-deconomies-marine-le-pen-et-jordan-bardella-devoilent-ce",
+     "published_at": "2026-10-06T04:06:01+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b9bb0603a91b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Retraites, réforme de l’État, immigration… Ce que contient le plan économique de Marine Le Pen pour «la renaissance de la France»",
+     "url": "https://www.lefigaro.fr/conjoncture/retraites-reforme-de-l-etat-immigration-ce-que-contient-le-plan-economique-de-marine-le-pen-pour-la-renaissance-de-la-france-20261006",
+     "published_at": "2026-10-06T10:01:46+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ecc8b2b21744",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget: comment fonctionnerait la \"règle d'or\" que Marine Le Pen veut faire adopter par référendum",
+     "url": "https://lcp.fr/actualites/budget-comment-fonctionnerait-la-regle-d-or-que-marine-le-pen-veut-faire-adopter-par",
+     "published_at": "2026-10-09T17:23:13+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
    "headline": "Budget 2027 : la motion de rejet du PS repoussée, le marathon commence à l'Assemblée",
    "chapo": "Mardi 13 octobre, les députés ont rejeté par 236 voix contre 149 la motion de rejet préalable du PS : le budget 2027 sera donc débattu à l'Assemblée. Le gouvernement parle de compromis dans la limite de 5 % de déficit, les socialistes exigent plus de justice fiscale, et tout devrait se terminer par un 49.3 ou des ordonnances.",
    "points": [
@@ -460,7 +460,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.21,
+   "score": 13.2,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -594,7 +594,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.63,
+   "score": 9.62,
    "sources": [
     {
      "id": "133db027e449",
@@ -886,7 +886,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.88,
+   "score": 6.87,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1665,7 +1665,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.58,
+   "score": 5.57,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -1862,7 +1862,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.24,
+   "score": 11.23,
    "sources": [
     {
      "id": "021eab4d8046",
