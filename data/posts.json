@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T06:33:28+00:00",
+ "generated_at": "2026-10-15T07:57:40+00:00",
  "posts": [
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
@@ -92,7 +92,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.79,
+   "score": 16.2,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -286,12 +286,12 @@
     "focus_y": 0.18079800498753118
    },
    "id": 118,
-   "section": "presidentielle",
+   "section": "actualites",
    "reviewed_at": "2026-10-14T12:07:19+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.01,
+   "score": 12.59,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -453,12 +453,12 @@
     "focus_y": 0.19611111111111112
    },
    "id": 123,
-   "section": "presidentielle",
+   "section": "actualites",
    "reviewed_at": "2026-10-15T06:19:26+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 20.8,
+   "score": 19.66,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -522,360 +522,6 @@
      "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
      "published_at": "2026-10-14T18:54:06+00:00",
      "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
-    }
-   ]
-  },
-  {
-   "headline": "Mouvement lycéen : ce que répond le gouvernement",
-   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
-   "points": [
-    {
-     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
-     "sources": [
-      "778290443d8a"
-     ]
-    },
-    {
-     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
-     "sources": [
-      "a50415a50025",
-      "9d9becc1a4da"
-     ]
-    },
-    {
-     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
-     "sources": [
-      "99854f802655"
-     ]
-    },
-    {
-     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
-     "sources": [
-      "3fd03cd61f9a",
-      "8a267d020f85"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
-     "sources": [
-      "6986a71f8e02"
-     ]
-    },
-    {
-     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
-     "sources": [
-      "053ba007189f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
-    "source": "Public Sénat",
-    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-    "article_id": "778290443d8a",
-    "focus_x": 0.47333333333333333,
-    "focus_y": 0.16657407407407407
-   },
-   "id": 121,
-   "section": "actualites",
-   "reviewed_at": "2026-10-14T16:03:47+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.98,
-   "sources": [
-    {
-     "id": "053ba007189f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
-     "published_at": "2026-10-14T11:35:11+00:00",
-     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
-    },
-    {
-     "id": "3fd03cd61f9a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
-     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
-     "published_at": "2026-10-14T13:59:54+00:00",
-     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
-    },
-    {
-     "id": "6986a71f8e02",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
-     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
-     "published_at": "2026-10-14T15:32:30+00:00",
-     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
-    },
-    {
-     "id": "778290443d8a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
-     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-     "published_at": "2026-10-14T10:28:45+00:00",
-     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
-    },
-    {
-     "id": "8a267d020f85",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
-     "published_at": "2026-10-14T07:25:03+00:00",
-     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
-    },
-    {
-     "id": "99854f802655",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
-     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-14T13:55:03+00:00",
-     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
-    },
-    {
-     "id": "9d9becc1a4da",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
-     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
-     "published_at": "2026-10-14T14:30:00+00:00",
-     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
-    },
-    {
-     "id": "a50415a50025",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
-     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
-     "published_at": "2026-10-14T15:23:56+00:00",
-     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : les députés adoptent la contribution de 30,9 milliards à l'UE",
-   "chapo": "Mercredi 14 octobre, l'Assemblée a approuvé le prélèvement de 30,9 milliards d'euros au profit de l'Union européenne par 111 voix contre 93. Le RN et LFI voulaient réduire cette contribution ; leurs amendements ont été rejetés.",
-   "points": [
-    {
-     "text": "L'article prévoyant un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE en 2027 a été adopté par 111 voix contre 93, malgré les votes contre de LFI et du RN, selon CNews. C'est légèrement plus que l'an dernier (28,4 milliards d'euros).",
-     "sources": [
-      "eb4fa5811bda",
-      "6611ce20b291"
-     ]
-    },
-    {
-     "text": "Le ministre chargé de l'Europe, Benjamin Haddad, reconnaît que la France « est contributrice nette, comme les douze autres pays les plus riches de notre Union », mais affirme qu'elle est « la première bénéficiaire en volume » des aides européennes aux agriculteurs, aux régions et aux entreprises, selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Le RN proposait d'amputer la contribution de 11 milliards d'euros, pour qu'elle « se limite à 5 milliards d'euros » en net. Amendement rejeté. Le député RN Jean-Philippe Tanguy s'est aussi élevé contre une conclusion du budget européen 2028-2034 avant la présidentielle, « un grave problème » démocratique, selon Europe 1.",
-     "sources": [
-      "556017869975",
-      "eb4fa5811bda"
-     ]
-    },
-    {
-     "text": "LFI proposait des baisses de 10 % si certaines conditions n'étaient pas remplies : suppression de Frontex, « congélation » des titres de dette détenus par la BCE ou abrogation des règles de 3 % et 60 % du PIB. Tous les amendements ont été rejetés, selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Pour Éric Coquerel (LFI), « telle qu'elle existe aujourd'hui, l'Union européenne reste le cheval de Troie d'un néolibéralisme et d'une politique de l'offre dont la duplicité ne nous masque plus l'échec », selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Benjamin Haddad accuse les partisans d'une baisse d'« avancer masqués » : ils n'osent plus dire « Frexit » et préfèrent « rapport de force avec l'Europe », selon CNews.",
-     "sources": [
-      "eb4fa5811bda"
-     ]
-    },
-    {
-     "text": "Le rapporteur général du budget Philippe Juvin (LR) souligne que supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique » à verser la contribution, selon Europe 1.",
-     "sources": [
-      "556017869975"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-10-06t131121z_1570186509_rc2pxnam30zt_rtrmadp_3_france-politics_6ad0530c8cd33.jpg?h=ff8f1f42&itok=7v5F9pRG",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
-    "article_id": "eb4fa5811bda"
-   },
-   "id": 124,
-   "section": "actualites",
-   "reviewed_at": "2026-10-15T06:32:49+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.99,
-   "sources": [
-    {
-     "id": "556017869975",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Les députés adoptent la contribution française au budget de l'UE",
-     "url": "https://www.europe1.fr/economie/les-deputes-adoptent-la-contribution-francaise-au-budget-de-lue-1150259?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T05:47:00+00:00",
-     "snippet": "Les députés ont approuvé mercredi la contribution française de 30,9 milliards d’euros au budget de l’Union européenne pour 2027. Ils ont en revanche atténué la fiscalisation des indemnités journalières prévue par le gouvernement. Les députés ont approuvé mercredi soir dans l'hémicycle la participation française au budget de l'UE prévue dans le projet de loi de finances (PLF) pour 2027, malgré les votes contre de LFI et du RN. Mais ils ont partiellement détricoté en fin de séance l'article 2 visant en particulier à rapprocher l'imposition des indemnités journalières de celle de l'impôt sur le r"
-    },
-    {
-     "id": "6611ce20b291",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "L’Assemblée nationale valide la contribution française au budget européen malgré l’opposition de LFI et du RN",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
-     "published_at": "2026-10-14T22:40:48+00:00",
-     "snippet": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027."
-    },
-    {
-     "id": "bb170ebcd529",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Budget 2027 : les députés adoptent la contribution française pour l’UE",
-     "url": "https://www.la-croix.com/international/budget-2027-les-deputes-adoptent-la-contribution-francaise-pour-l-ue-20261015",
-     "published_at": "2026-10-15T05:10:13+00:00",
-     "snippet": "Les députés ont voté mercredi 14 octobre au soir en faveur du prélèvement de 30,9 milliards d’euros destiné au budget de l’UE en 2027, défendu par Benjamin Haddad. LFI et le RN ont voté contre, proposant chacun de réduire la contribution française."
-    },
-    {
-     "id": "eb4fa5811bda",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Budget 2027 : une contribution de 30,9 milliards d'euros en faveur de l'UE adoptée par les députés",
-     "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
-     "published_at": "2026-10-15T05:16:38+00:00",
-     "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
-    }
-   ]
-  },
-  {
-   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
-   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
-   "points": [
-    {
-     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
-     "sources": [
-      "d0e2c27e5768",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
-     "sources": [
-      "92cb23981df3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
-    "source": "RFI",
-    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-    "article_id": "92cb23981df3"
-   },
-   "id": 126,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-15T06:33:28+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "92cb23981df3",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
-     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-     "published_at": "2026-10-14T06:25:39+00:00",
-     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
-    },
-    {
-     "id": "d0e2c27e5768",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
-     "published_at": "2026-10-14T09:47:52+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d40027af3697",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
-     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-13T14:06:47+00:00",
-     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
     }
    ]
   },
@@ -950,7 +596,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.27,
+   "score": 10.87,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1005,6 +651,268 @@
      "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
      "published_at": "2026-10-14T06:19:29+00:00",
      "snippet": "Natacha Polony a annoncé ce mercredi matin sa candidature à l'élection présidentielle de 2027. Sur son compte X, l'essayiste a partagé son slogan de campagne, «Nous sommes la France». Elle n'en faisait pas un mystère, c'est désormais officiel. L'essayiste Natacha Polony a annoncé ce mercredi sa candidature à l'élection présidentielle de 2027, la 34e à ce jour. «Nous sommes dans le chaos. La situation m’oblige. Oui, je suis candidate à l’élection présidentielle. Je ne peux pas continuer à regarder mon pays s’effondrer», a-t-elle déclaré sur France Inter, dévoilant par la même occasion son sloga"
+    }
+   ]
+  },
+  {
+   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
+   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
+   "points": [
+    {
+     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
+     "sources": [
+      "d0e2c27e5768",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Ce n'est pas nouveau : en août, Viginum avait détecté une campagne visant Gabriel Attal, avec de faux reportages et de fausses unes usurpant l'identité de médias (RFI, BFM-TV, France 24, AFP, Le Parisien, Ouest-France, Libération, Le Monde). Il l'imputait, « avec une confiance élevée », au réseau prorusse Matriochka, selon Le Monde.",
+     "sources": [
+      "0776c2e51ee6"
+     ]
+    },
+    {
+     "text": "Viginum avait recommandé aux candidats d'éviter de communiquer publiquement sur ces contenus, « souvent invraisemblables » et à « très faible retentissement », pour ne pas leur donner de visibilité. Gabriel Attal avait, lui, porté plainte pour « ingérence étrangère » et averti : « l'élection peut être faussée, volée aux Français », selon Le Monde.",
+     "sources": [
+      "0776c2e51ee6",
+      "c94c537728a7"
+     ]
+    },
+    {
+     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Côté américain, L'Express rapporte que l'administration Trump a fait pression sur plusieurs gouvernements européens et sur le Canada pour qu'ils prennent leurs distances avec la conférence « EU DisinfoLab » de Vilnius (6 au 8 octobre), après un panel intitulé « Les Etats-Unis, une menace pour l'Europe ». L'information vient de Politico et du Guardian.",
+     "sources": [
+      "9ce94e0d203a"
+     ]
+    },
+    {
+     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
+     "sources": [
+      "92cb23981df3"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
+    "source": "RFI",
+    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+    "article_id": "92cb23981df3"
+   },
+   "id": 126,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-15T06:33:28+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.12,
+   "sources": [
+    {
+     "id": "0776c2e51ee6",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne",
+     "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
+     "published_at": "2026-08-07T03:31:00+00:00",
+     "snippet": "Après Edouard Philippe et Raphaël Glucksmann, au tour de Gabriel Attal. Le candidat Renaissance à l'élection présidentielle de 2027 a été visé mardi 4 août par une campagne de désinformation en provenance de Russie, au travers de faux reportages, vidéos et unes usurpant l'identité visuelle de plusie"
+    },
+    {
+     "id": "92cb23981df3",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
+     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+     "published_at": "2026-10-14T06:25:39+00:00",
+     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
+    },
+    {
+     "id": "9ce94e0d203a",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "Comment les Etats-Unis se sont ingérés dans une conférence européenne... sur l'ingérence étrangère",
+     "url": "https://www.lexpress.fr/monde/europe/comment-les-etats-unis-se-sont-ingeres-dans-une-conference-europeenne-sur-lingerence-MSNOLMVBSVDRFK7ZOWEU4ZBH2A/",
+     "published_at": "2026-10-10T14:38:42+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c94c537728a7",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
+     "published_at": "2026-08-08T05:28:00+00:00",
+     "snippet": "Gabriel Attal, candidat à la présidentielle et patron du parti Renaissance, a porté plainte pour « ingérence étrangère » en « provenance de réseaux russes », ont annoncé, samedi 8 août, ses avocats à l'Agence France-Presse (AFP). La plainte dénonce « des faits d'ingérence étrangère, de manipulation "
+    },
+    {
+     "id": "d0e2c27e5768",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
+     "published_at": "2026-10-14T09:47:52+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "d40027af3697",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
+     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-13T14:06:47+00:00",
+     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
+    }
+   ]
+  },
+  {
+   "headline": "Budget 2027 : les députés adoptent la contribution de 30,9 milliards à l'UE",
+   "chapo": "Mercredi 14 octobre, l'Assemblée a approuvé le prélèvement de 30,9 milliards d'euros au profit de l'Union européenne par 111 voix contre 93. Le RN et LFI voulaient réduire cette contribution ; leurs amendements ont été rejetés.",
+   "points": [
+    {
+     "text": "L'article prévoyant un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE en 2027 a été adopté par 111 voix contre 93, malgré les votes contre de LFI et du RN, selon CNews. C'est légèrement plus que l'an dernier (28,4 milliards d'euros).",
+     "sources": [
+      "eb4fa5811bda",
+      "6611ce20b291"
+     ]
+    },
+    {
+     "text": "Le ministre chargé de l'Europe, Benjamin Haddad, reconnaît que la France « est contributrice nette, comme les douze autres pays les plus riches de notre Union », mais affirme qu'elle est « la première bénéficiaire en volume » des aides européennes aux agriculteurs, aux régions et aux entreprises, selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Le RN proposait d'amputer la contribution de 11 milliards d'euros, pour qu'elle « se limite à 5 milliards d'euros » en net. Amendement rejeté. Le député RN Jean-Philippe Tanguy s'est aussi élevé contre une conclusion du budget européen 2028-2034 avant la présidentielle, « un grave problème » démocratique, selon Europe 1.",
+     "sources": [
+      "556017869975",
+      "eb4fa5811bda"
+     ]
+    },
+    {
+     "text": "LFI proposait des baisses de 10 % si certaines conditions n'étaient pas remplies : suppression de Frontex, « congélation » des titres de dette détenus par la BCE ou abrogation des règles de 3 % et 60 % du PIB. Tous les amendements ont été rejetés, selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Pour Éric Coquerel (LFI), « telle qu'elle existe aujourd'hui, l'Union européenne reste le cheval de Troie d'un néolibéralisme et d'une politique de l'offre dont la duplicité ne nous masque plus l'échec », selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Benjamin Haddad accuse les partisans d'une baisse d'« avancer masqués » : ils n'osent plus dire « Frexit » et préfèrent « rapport de force avec l'Europe », selon CNews.",
+     "sources": [
+      "eb4fa5811bda"
+     ]
+    },
+    {
+     "text": "Le rapporteur général du budget Philippe Juvin (LR) souligne que supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique » à verser la contribution, selon Europe 1.",
+     "sources": [
+      "556017869975"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-10-06t131121z_1570186509_rc2pxnam30zt_rtrmadp_3_france-politics_6ad0530c8cd33.jpg?h=ff8f1f42&itok=7v5F9pRG",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
+    "article_id": "eb4fa5811bda"
+   },
+   "id": 124,
+   "section": "actualites",
+   "reviewed_at": "2026-10-15T06:32:49+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.33,
+   "sources": [
+    {
+     "id": "556017869975",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Les députés adoptent la contribution française au budget de l'UE",
+     "url": "https://www.europe1.fr/economie/les-deputes-adoptent-la-contribution-francaise-au-budget-de-lue-1150259?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T05:47:00+00:00",
+     "snippet": "Les députés ont approuvé mercredi la contribution française de 30,9 milliards d’euros au budget de l’Union européenne pour 2027. Ils ont en revanche atténué la fiscalisation des indemnités journalières prévue par le gouvernement. Les députés ont approuvé mercredi soir dans l'hémicycle la participation française au budget de l'UE prévue dans le projet de loi de finances (PLF) pour 2027, malgré les votes contre de LFI et du RN. Mais ils ont partiellement détricoté en fin de séance l'article 2 visant en particulier à rapprocher l'imposition des indemnités journalières de celle de l'impôt sur le r"
+    },
+    {
+     "id": "6611ce20b291",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "L’Assemblée nationale valide la contribution française au budget européen malgré l’opposition de LFI et du RN",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
+     "published_at": "2026-10-14T22:40:48+00:00",
+     "snippet": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027."
+    },
+    {
+     "id": "bb170ebcd529",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Budget 2027 : les députés adoptent la contribution française pour l’UE",
+     "url": "https://www.la-croix.com/international/budget-2027-les-deputes-adoptent-la-contribution-francaise-pour-l-ue-20261015",
+     "published_at": "2026-10-15T05:10:13+00:00",
+     "snippet": "Les députés ont voté mercredi 14 octobre au soir en faveur du prélèvement de 30,9 milliards d’euros destiné au budget de l’UE en 2027, défendu par Benjamin Haddad. LFI et le RN ont voté contre, proposant chacun de réduire la contribution française."
+    },
+    {
+     "id": "eb4fa5811bda",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Budget 2027 : une contribution de 30,9 milliards d'euros en faveur de l'UE adoptée par les députés",
+     "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
+     "published_at": "2026-10-15T05:16:38+00:00",
+     "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
     }
    ]
   },
@@ -1081,7 +989,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.21,
+   "score": 10.82,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1136,6 +1044,144 @@
      "url": "https://www.leparisien.fr/elections/presidentielle/budget-2027-la-france-insoumise-devoile-un-contre-budget-de-lfi-avec-1064-milliards-deuros-de-recettes-et-817-milliards-de-depenses-14-10-2026-DALZK7Y3BNAAZPTTNEALY6U2KQ.php",
      "published_at": "2026-10-14T15:50:27+00:00",
      "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Mouvement lycéen : ce que répond le gouvernement",
+   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
+   "points": [
+    {
+     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
+     "sources": [
+      "778290443d8a"
+     ]
+    },
+    {
+     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
+     "sources": [
+      "a50415a50025",
+      "9d9becc1a4da"
+     ]
+    },
+    {
+     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
+     "sources": [
+      "99854f802655"
+     ]
+    },
+    {
+     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
+     "sources": [
+      "3fd03cd61f9a",
+      "8a267d020f85"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
+     "sources": [
+      "6986a71f8e02"
+     ]
+    },
+    {
+     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
+     "sources": [
+      "053ba007189f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+    "article_id": "778290443d8a",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.16657407407407407
+   },
+   "id": 121,
+   "section": "actualites",
+   "reviewed_at": "2026-10-14T16:03:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.62,
+   "sources": [
+    {
+     "id": "053ba007189f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
+     "published_at": "2026-10-14T11:35:11+00:00",
+     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
+    },
+    {
+     "id": "3fd03cd61f9a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
+     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
+     "published_at": "2026-10-14T13:59:54+00:00",
+     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
+    },
+    {
+     "id": "6986a71f8e02",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
+     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
+     "published_at": "2026-10-14T15:32:30+00:00",
+     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
+    },
+    {
+     "id": "778290443d8a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
+     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+     "published_at": "2026-10-14T10:28:45+00:00",
+     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
+    },
+    {
+     "id": "8a267d020f85",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
+     "published_at": "2026-10-14T07:25:03+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
+    },
+    {
+     "id": "99854f802655",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
+     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-14T13:55:03+00:00",
+     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
+    },
+    {
+     "id": "9d9becc1a4da",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
+     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+     "published_at": "2026-10-14T14:30:00+00:00",
+     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
+    },
+    {
+     "id": "a50415a50025",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
+     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
+     "published_at": "2026-10-14T15:23:56+00:00",
+     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
     }
    ]
   },
@@ -1223,7 +1269,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.8,
+   "score": 8.52,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1357,7 +1403,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.38,
    "sources": [
     {
      "id": "133db027e449",
@@ -1505,7 +1551,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.45,
+   "score": 6.32,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1649,7 +1695,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.38,
+   "score": 5.27,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1777,7 +1823,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.3,
+   "score": 4.21,
    "sources": [
     {
      "id": "57c07028e804",
@@ -1900,7 +1946,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.57,
+   "score": 6.47,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -2089,7 +2135,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.27,
+   "score": 5.19,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -2261,7 +2307,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.73,
+   "score": 4.66,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2428,7 +2474,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.69,
+   "score": 4.62,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -2625,7 +2671,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.81,
+   "score": 9.69,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -3015,7 +3061,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.34,
+   "score": 6.26,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -3227,7 +3273,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.97,
+   "score": 3.92,
    "sources": [
     {
      "id": "0a254f232767",
