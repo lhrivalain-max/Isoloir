@@ -228,3 +228,5 @@ details.srcs li { margin-bottom: 10px; }
 .tab[aria-selected="true"] { background: var(--paper); color: var(--ink); font-weight: 800; box-shadow: inset 0 -3px 0 var(--ink); }
 /* compte à rebours : tout en jaune */
 .cd-unit:nth-child(n) { background: var(--yel-p); box-shadow: none; }
+/* mentions du pied de page : même fond pour les quatre, pour ne pas suggérer un code couleur */
+.how li:nth-child(n) { background: var(--paper); box-shadow: inset 0 0 0 1.5px var(--line); }
