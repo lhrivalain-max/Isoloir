@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T06:32:49+00:00",
+ "generated_at": "2026-10-15T06:33:28+00:00",
  "posts": [
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
@@ -458,7 +458,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 20.81,
+   "score": 20.8,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -729,7 +729,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 11.99,
    "sources": [
     {
      "id": "556017869975",
@@ -766,6 +766,116 @@
      "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
      "published_at": "2026-10-15T05:16:38+00:00",
      "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
+    }
+   ]
+  },
+  {
+   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
+   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
+   "points": [
+    {
+     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
+     "sources": [
+      "d0e2c27e5768",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
+     "sources": [
+      "92cb23981df3"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
+    "source": "RFI",
+    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+    "article_id": "92cb23981df3"
+   },
+   "id": 126,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-15T06:33:28+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "92cb23981df3",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
+     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+     "published_at": "2026-10-14T06:25:39+00:00",
+     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
+    },
+    {
+     "id": "d0e2c27e5768",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
+     "published_at": "2026-10-14T09:47:52+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "d40027af3697",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
+     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-13T14:06:47+00:00",
+     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
     }
    ]
   },
@@ -971,7 +1081,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.22,
+   "score": 11.21,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1395,7 +1505,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.46,
+   "score": 6.45,
    "sources": [
     {
      "id": "1def14c32411",
