@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T06:19:26+00:00",
+ "generated_at": "2026-10-15T06:32:49+00:00",
  "posts": [
   {
    "headline": "Loi intégrale contre les violences sexuelles : adoptée à l'unanimité à l'Assemblée, ce qu'elle contient",
@@ -92,7 +92,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.89,
+   "score": 16.79,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -205,144 +205,6 @@
    ]
   },
   {
-   "headline": "Mouvement lycéen : ce que répond le gouvernement",
-   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
-   "points": [
-    {
-     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
-     "sources": [
-      "778290443d8a"
-     ]
-    },
-    {
-     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
-     "sources": [
-      "a50415a50025",
-      "9d9becc1a4da"
-     ]
-    },
-    {
-     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
-     "sources": [
-      "99854f802655"
-     ]
-    },
-    {
-     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
-     "sources": [
-      "3fd03cd61f9a",
-      "8a267d020f85"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
-     "sources": [
-      "6986a71f8e02"
-     ]
-    },
-    {
-     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
-     "sources": [
-      "053ba007189f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
-    "source": "Public Sénat",
-    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-    "article_id": "778290443d8a",
-    "focus_x": 0.47333333333333333,
-    "focus_y": 0.16657407407407407
-   },
-   "id": 121,
-   "section": "actualites",
-   "reviewed_at": "2026-10-14T16:03:47+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 10.04,
-   "sources": [
-    {
-     "id": "053ba007189f",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
-     "published_at": "2026-10-14T11:35:11+00:00",
-     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
-    },
-    {
-     "id": "3fd03cd61f9a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
-     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
-     "published_at": "2026-10-14T13:59:54+00:00",
-     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
-    },
-    {
-     "id": "6986a71f8e02",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
-     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
-     "published_at": "2026-10-14T15:32:30+00:00",
-     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
-    },
-    {
-     "id": "778290443d8a",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
-     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
-     "published_at": "2026-10-14T10:28:45+00:00",
-     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
-    },
-    {
-     "id": "8a267d020f85",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
-     "published_at": "2026-10-14T07:25:03+00:00",
-     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
-    },
-    {
-     "id": "99854f802655",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
-     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-14T13:55:03+00:00",
-     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
-    },
-    {
-     "id": "9d9becc1a4da",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
-     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
-     "published_at": "2026-10-14T14:30:00+00:00",
-     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
-    },
-    {
-     "id": "a50415a50025",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
-     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
-     "published_at": "2026-10-14T15:23:56+00:00",
-     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
-    }
-   ]
-  },
-  {
    "headline": "Marine Le Pen et son budget : 140 milliards d'économies, un plan très critiqué",
    "chapo": "Présenté le 6 octobre, le plan budgétaire de Marine Le Pen promet 140 milliards d'euros de baisses de dépenses d'ici à 2032, une règle d'or votée par référendum et une réduction de la contribution française à l'UE. Économistes, think tank, Retailleau et Philippe en contestent la crédibilité.",
    "points": [
@@ -429,7 +291,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.08,
+   "score": 13.01,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -596,7 +458,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 21.0,
+   "score": 20.81,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -660,6 +522,250 @@
      "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
      "published_at": "2026-10-14T18:54:06+00:00",
      "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
+    }
+   ]
+  },
+  {
+   "headline": "Mouvement lycéen : ce que répond le gouvernement",
+   "chapo": "Après cinq journées de mobilisation, le gouvernement distingue des « angoisses légitimes » et des violences « inacceptables ». Plus de 90 000 contributions ont été reçues sur sa plateforme, et des annonces sont promises « dans les prochains jours ». Retailleau et LFI avancent leurs propres réponses.",
+   "points": [
+    {
+     "text": "Selon la porte-parole du gouvernement Maud Bregeon, Emmanuel Macron estime que la jeunesse exprime des « angoisses légitimes », mais qu'elles sont « exploitées politiquement et transformées en violences urbaines ». Il demande au gouvernement des réponses « dans les semaines à venir », rapporte Public Sénat.",
+     "sources": [
+      "778290443d8a"
+     ]
+    },
+    {
+     "text": "Au Sénat, Sébastien Lecornu a dénoncé « une violence inédite » : 937 membres des forces de l'ordre et 248 élèves ont été blessés depuis le début du mouvement, selon BFMTV. Il a aussi déploré 149 blessés parmi le personnel enseignant, le bilan le plus lourd jamais enregistré, selon Le Progrès.",
+     "sources": [
+      "a50415a50025",
+      "9d9becc1a4da"
+     ]
+    },
+    {
+     "text": "Le gouvernement a lancé il y a dix jours une plateforme de concertation, agora.gouv.fr, ouverte jusqu'au 23 octobre. Elle a reçu plus de 90 000 contributions, selon le ministre de l'Éducation Édouard Geffray : 70 % évoquent « l'organisation des journées de cours », 60 % les conditions matérielles et 25 à 30 % le remplacement des professeurs.",
+     "sources": [
+      "99854f802655"
+     ]
+    },
+    {
+     "text": "Interpellé au Sénat par un sénateur communiste, Édouard Geffray entend le « vertige » d'une jeunesse inquiète mais défend le bilan de Parcoursup. Il renvoie aux annonces du Premier ministre « dans les prochains jours ». Sur BFMTV, il a assuré que « des améliorations » de Parcoursup « vont être proposées ».",
+     "sources": [
+      "3fd03cd61f9a",
+      "8a267d020f85"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau veut « une sélection à l'université », fondée sur le « mérite », selon Public Sénat.",
+     "sources": [
+      "6986a71f8e02"
+     ]
+    },
+    {
+     "text": "À gauche, LFI détaille des mesures d'urgence pour « répondre aux revendications des lycéens et des étudiants » : 10 000 postes et la gratuité de la cantine, a présenté Éric Coquerel, selon BFMTV.",
+     "sources": [
+      "053ba007189f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.youtube.com/vi/w14qUo81XNo/maxresdefault.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+    "article_id": "778290443d8a",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.16657407407407407
+   },
+   "id": 121,
+   "section": "actualites",
+   "reviewed_at": "2026-10-14T16:03:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.98,
+   "sources": [
+    {
+     "id": "053ba007189f",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère des lycéens: LFI veut créer \"10.000 postes\" et mettre en place \"la gratuité de la cantine\"",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-des-lyceens-lfi-veut-creer-10-000-postes-et-mettre-en-place-la-gratuite-de-la-cantine_VN-202610140462.html",
+     "published_at": "2026-10-14T11:35:11+00:00",
+     "snippet": "Éric Coquerel, président LFI de la Commission des finances, détaille lors d'une conférence de presse de ce mercredi 14 octobre les mesures d'urgence que le parti souhaite voir mises en place pour \"répondre aux revendications des lycéens et des étudiants\"."
+    },
+    {
+     "id": "3fd03cd61f9a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Mobilisation lycéenne : Édouard Geffray entend le « vertige » d’une jeunesse inquiète, mais défend Parcoursup",
+     "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-edouard-geffray-entend-le-vertige-dune-jeunesse-inquiete-mais-defend-parcoursup",
+     "published_at": "2026-10-14T13:59:54+00:00",
+     "snippet": "Au lendemain de l’acte V de la mobilisation lycéenne, le sénateur communiste a interpellé le ministre de l’Éducation nationale lors de la reprise des questions au gouvernement, ce mercredi 14 octobre. Édouard Geffray a défendu le bilan de Parcoursup et du remplacement des enseignants, renvoyant aux annonces du Premier ministre « dans les prochains jours »."
+    },
+    {
+     "id": "6986a71f8e02",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Crise lycéenne : Bruno Retailleau veut « une sélection à l’université »",
+     "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite",
+     "published_at": "2026-10-14T15:32:30+00:00",
+     "snippet": "Le sénateur LR et candidat à la présidentielle, Bruno Retailleau a rappelé les propositions de sa formation politique en matière d’éducation, basées sur le « mérite »."
+    },
+    {
+     "id": "778290443d8a",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Blocus lycéen : Emmanuel Macron déplore que les « angoisses légitimes » des jeunes soient « exploitées politiquement »",
+     "url": "https://www.publicsenat.fr/actualites/politique/blocus-lyceen-emmanuel-macron-deplore-que-les-angoisses-legitimes-des-jeunes-soient-exploitees-politiquement",
+     "published_at": "2026-10-14T10:28:45+00:00",
+     "snippet": "Lors du compte rendu du Conseil des ministres, ce mercredi, la porte-parole du gouvernement, Maud Bregeon, a rapporté la position du chef de l'État sur la mobilisation des lycéens. Emmanuel Macron distingue des revendications qu'il juge « légitimes » de violences qu'il dit « inacceptables », et demande au gouvernement des réponses dans les semaines à venir."
+    },
+    {
+     "id": "8a267d020f85",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray annonce que \"des améliorations\" de Parcoursup \"vont être proposées\"",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-annonce-que-des-ameliorations-de-parcoursup-vont-etre-proposees_VN-202610140272.html",
+     "published_at": "2026-10-14T07:25:03+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC. Il a été interrogé notamment sur le nombre d'établissements fermés, le nombre de personnels blessés, sur Parcoursup, sur le calendrier scolaire ou encore sur les violences en marge du mouvement lycéen."
+    },
+    {
+     "id": "99854f802655",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Lycéens : 70% des contributions sur la plateforme du gouvernement \"évoquent l’organisation des journées de cours\"",
+     "url": "https://www.ici.fr/infos/education/lyceens-70-des-contributions-sur-la-plateforme-du-gouvernement-evoquent-l-organisation-des-journees-de-cours-2141087?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-14T13:55:03+00:00",
+     "snippet": "\"L’organisation des journées de cours\" est évoquée dans 70% des contributions de la plateforme de concertation en ligne lancée par le gouvernement il y a dix jours pour répondre au mouvement de contestation lycéenne. Lancée sur agora.gouv.fr, la plateforme est ouverte jusqu'au 23 octobre."
+    },
+    {
+     "id": "9d9becc1a4da",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Éducation. Mobilisation lycéenne : près de 150 blessés parmi le personnel enseignant, selon Sébastien Lecornu",
+     "url": "https://www.leprogres.fr/education/2026/10/14/blocus-lyceens-pres-de-150-blesses-parmi-le-personnel-enseignant-selon-lecornu",
+     "published_at": "2026-10-14T14:30:00+00:00",
+     "snippet": "Lors d'une séance des questions au gouvernement au Sénat ce mercredi, Sébastien Lecornu a déploré 149 blessés parmi le personnel enseignant en marge du mouvement lycéen. Il s’agit du bilan le plus lourd jamais enregistré, selon le Premier ministre."
+    },
+    {
+     "id": "a50415a50025",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Plus de 1.000 forces de l'ordre, personnels et élèves blessés au total: Sébastien Lecornu dénonce une \"violence inédite\" lors du mouvement des lycéens",
+     "url": "https://www.bfmtv.com/politique/gouvernement/plus-de-1-000-forces-de-l-ordre-personnels-et-eleves-blesses-au-total-sebastien-lecornu-denonce-une-violence-inedite-lors-du-mouvement-des-lyceens_AV-202610140650.html",
+     "published_at": "2026-10-14T15:23:56+00:00",
+     "snippet": "Présent au Sénat pour les questions au gouvernement, Sébastien Lecornu a présenté ce mercredi les chiffres des blessés depuis le début du mouvement lycéen et dénoncé \"une violence inédite.\""
+    }
+   ]
+  },
+  {
+   "headline": "Budget 2027 : les députés adoptent la contribution de 30,9 milliards à l'UE",
+   "chapo": "Mercredi 14 octobre, l'Assemblée a approuvé le prélèvement de 30,9 milliards d'euros au profit de l'Union européenne par 111 voix contre 93. Le RN et LFI voulaient réduire cette contribution ; leurs amendements ont été rejetés.",
+   "points": [
+    {
+     "text": "L'article prévoyant un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE en 2027 a été adopté par 111 voix contre 93, malgré les votes contre de LFI et du RN, selon CNews. C'est légèrement plus que l'an dernier (28,4 milliards d'euros).",
+     "sources": [
+      "eb4fa5811bda",
+      "6611ce20b291"
+     ]
+    },
+    {
+     "text": "Le ministre chargé de l'Europe, Benjamin Haddad, reconnaît que la France « est contributrice nette, comme les douze autres pays les plus riches de notre Union », mais affirme qu'elle est « la première bénéficiaire en volume » des aides européennes aux agriculteurs, aux régions et aux entreprises, selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Le RN proposait d'amputer la contribution de 11 milliards d'euros, pour qu'elle « se limite à 5 milliards d'euros » en net. Amendement rejeté. Le député RN Jean-Philippe Tanguy s'est aussi élevé contre une conclusion du budget européen 2028-2034 avant la présidentielle, « un grave problème » démocratique, selon Europe 1.",
+     "sources": [
+      "556017869975",
+      "eb4fa5811bda"
+     ]
+    },
+    {
+     "text": "LFI proposait des baisses de 10 % si certaines conditions n'étaient pas remplies : suppression de Frontex, « congélation » des titres de dette détenus par la BCE ou abrogation des règles de 3 % et 60 % du PIB. Tous les amendements ont été rejetés, selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Pour Éric Coquerel (LFI), « telle qu'elle existe aujourd'hui, l'Union européenne reste le cheval de Troie d'un néolibéralisme et d'une politique de l'offre dont la duplicité ne nous masque plus l'échec », selon La Croix.",
+     "sources": [
+      "bb170ebcd529"
+     ]
+    },
+    {
+     "text": "Benjamin Haddad accuse les partisans d'une baisse d'« avancer masqués » : ils n'osent plus dire « Frexit » et préfèrent « rapport de force avec l'Europe », selon CNews.",
+     "sources": [
+      "eb4fa5811bda"
+     ]
+    },
+    {
+     "text": "Le rapporteur général du budget Philippe Juvin (LR) souligne que supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique » à verser la contribution, selon Europe 1.",
+     "sources": [
+      "556017869975"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-10-06t131121z_1570186509_rc2pxnam30zt_rtrmadp_3_france-politics_6ad0530c8cd33.jpg?h=ff8f1f42&itok=7v5F9pRG",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
+    "article_id": "eb4fa5811bda"
+   },
+   "id": 124,
+   "section": "actualites",
+   "reviewed_at": "2026-10-15T06:32:49+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "556017869975",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Les députés adoptent la contribution française au budget de l'UE",
+     "url": "https://www.europe1.fr/economie/les-deputes-adoptent-la-contribution-francaise-au-budget-de-lue-1150259?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T05:47:00+00:00",
+     "snippet": "Les députés ont approuvé mercredi la contribution française de 30,9 milliards d’euros au budget de l’Union européenne pour 2027. Ils ont en revanche atténué la fiscalisation des indemnités journalières prévue par le gouvernement. Les députés ont approuvé mercredi soir dans l'hémicycle la participation française au budget de l'UE prévue dans le projet de loi de finances (PLF) pour 2027, malgré les votes contre de LFI et du RN. Mais ils ont partiellement détricoté en fin de séance l'article 2 visant en particulier à rapprocher l'imposition des indemnités journalières de celle de l'impôt sur le r"
+    },
+    {
+     "id": "6611ce20b291",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "L’Assemblée nationale valide la contribution française au budget européen malgré l’opposition de LFI et du RN",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
+     "published_at": "2026-10-14T22:40:48+00:00",
+     "snippet": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027."
+    },
+    {
+     "id": "bb170ebcd529",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Budget 2027 : les députés adoptent la contribution française pour l’UE",
+     "url": "https://www.la-croix.com/international/budget-2027-les-deputes-adoptent-la-contribution-francaise-pour-l-ue-20261015",
+     "published_at": "2026-10-15T05:10:13+00:00",
+     "snippet": "Les députés ont voté mercredi 14 octobre au soir en faveur du prélèvement de 30,9 milliards d’euros destiné au budget de l’UE en 2027, défendu par Benjamin Haddad. LFI et le RN ont voté contre, proposant chacun de réduire la contribution française."
+    },
+    {
+     "id": "eb4fa5811bda",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Budget 2027 : une contribution de 30,9 milliards d'euros en faveur de l'UE adoptée par les députés",
+     "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
+     "published_at": "2026-10-15T05:16:38+00:00",
+     "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
     }
    ]
   },
@@ -734,7 +840,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.33,
+   "score": 11.27,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -865,7 +971,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.28,
+   "score": 11.22,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1007,7 +1113,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.84,
+   "score": 8.8,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1141,7 +1247,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.56,
+   "score": 7.53,
    "sources": [
     {
      "id": "133db027e449",
@@ -1289,7 +1395,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.48,
+   "score": 6.46,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1433,7 +1539,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.4,
+   "score": 5.38,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1561,7 +1667,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.32,
+   "score": 4.3,
    "sources": [
     {
      "id": "57c07028e804",
@@ -1684,7 +1790,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.59,
+   "score": 6.57,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -1873,7 +1979,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.29,
+   "score": 5.27,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -2045,7 +2151,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.74,
+   "score": 4.73,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2212,7 +2318,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.7,
+   "score": 4.69,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -2409,7 +2515,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.83,
+   "score": 9.81,
    "sources": [
     {
      "id": "021eab4d8046",
@@ -2799,7 +2905,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.35,
+   "score": 6.34,
    "sources": [
     {
      "id": "35b7691914c1",
