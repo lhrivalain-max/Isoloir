@@ -1,6 +1,6 @@
 // Hors ligne : le site reste lisible grâce au cache, mais le réseau est toujours interrogé en premier pour avoir la dernière version.
-const CACHE = "isoloir-v24";
-const SHELL = ["./", "index.html", "style.css?v=25", "app.js?v=20", "features.js?v=7", "logo-mark.png?v=2", "icons/icon-192.png?v=2"];
+const CACHE = "isoloir-v25";
+const SHELL = ["./", "index.html", "style.css?v=26", "app.js?v=20", "features.js?v=7", "logo-mark.png?v=2", "icons/icon-192.png?v=2"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
