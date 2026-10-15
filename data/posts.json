@@ -1,155 +1,6 @@
 {
- "generated_at": "2026-10-15T22:50:47+00:00",
+ "generated_at": "2026-10-15T22:51:00+00:00",
  "posts": [
-  {
-   "headline": "Le Pen demande le départ de Ferrand du Conseil constitutionnel : article 11 ou 89 ?",
-   "chapo": "Mercredi 14 octobre, Marine Le Pen a estimé que Richard Ferrand devait « quitter la tête » du Conseil constitutionnel, après qu'il a jugé impossible de réviser la Constitution par référendum via l'article 11, comme le propose le RN. Il défend l'article 89, qui passe par le Parlement.",
-   "points": [
-    {
-     "text": "Dans un podcast du Club des juristes, Richard Ferrand, président du Conseil constitutionnel, a affirmé qu'il n'était pas possible de changer la Constitution par l'article 11 en organisant un référendum, comme le veut le RN pour la préférence nationale ou sa politique migratoire, selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Sa formule : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat. Il suffit de lire la Constitution, qui n'est pas le Code général des impôts ».",
-     "sources": [
-      "c4ceca6d4c31",
-      "694e005a034e"
-     ]
-    },
-    {
-     "text": "L'article 89 prévoit qu'un projet de révision soit voté en « termes identiques » par l'Assemblée nationale et le Sénat, puis approuvé par référendum ou par une majorité des trois cinquièmes du Parlement réuni en Congrès, selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Pour Le Monde, l'article 11 « délimite le champ des sujets susceptibles d'être soumis à référendum ». Il permet de consulter les Français sur l'organisation des pouvoirs publics ou des réformes de la politique économique, sociale ou environnementale. Marine Le Pen veut l'utiliser pour la préférence nationale et une réforme sur l'idéologie islamiste, deux sujets « a priori interdits » selon le journal.",
-     "sources": [
-      "cea6271d1123"
-     ]
-    },
-    {
-     "text": "Depuis Bruxelles, Marine Le Pen répond que Richard Ferrand « a rompu avec l'obligation qui est la sienne de neutralité » en se prononçant sur « une affaire qui n'a pas encore été soumise au Conseil constitutionnel », et qu'il doit « quitter la tête » de l'institution, selon CNews.",
-     "sources": [
-      "694e005a034e",
-      "a7611d31f0dc"
-     ]
-    },
-    {
-     "text": "Elle dénonce des « arguments indigents » et invite Richard Ferrand à « écouter le général de Gaulle », qui s'était appuyé sur l'article 11 en 1962 pour organiser un référendum sur l'élection du président au suffrage universel, selon Le Parisien.",
-     "sources": [
-      "a7611d31f0dc"
-     ]
-    },
-    {
-     "text": "Elle cite aussi François Mitterrand, qui aurait admis que l'article 11 était « validée pour être une voie de modification de la Constitution », selon 20 Minutes. Richard Ferrand répond que « tous mes prédécesseurs l'ont affirmé et réaffirmé, [Laurent] Fabius, Jean-Louis Debré également ».",
-     "sources": [
-      "d6b10b629eba"
-     ]
-    },
-    {
-     "text": "Quelques semaines plus tôt, Marine Le Pen avait déjà jugé que le Conseil constitutionnel « n'est pas un contre-pouvoir au peuple » : « si les Français décident de modifier leur Constitution, personne ne peut les empêcher », selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Le JDD parle d'une réponse « cinglante » de la candidate, Le Progrès d'un reproche de manquement au devoir de neutralité. Marine Le Pen doit être l'invitée de CNews ce jeudi à 21 heures.",
-     "sources": [
-      "cd8f1addca13",
-      "3744fa07d82e",
-      "694e005a034e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2024-12/Marine%20Le%20Pen%20le%204%20d%C3%A9cembre%202024.jpg?h=c673cd1c&itok=5two1d6e",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
-    "article_id": "c4ceca6d4c31",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.19611111111111112
-   },
-   "id": 123,
-   "section": "institutions",
-   "reviewed_at": "2026-10-15T06:19:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 12.44,
-   "sources": [
-    {
-     "id": "3744fa07d82e",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Politique. Marine Le Pen réclame le départ de Richard Ferrand du Conseil constitutionnel",
-     "url": "https://www.leprogres.fr/politique/2026/10/14/marine-le-pen-reclame-le-depart-de-richard-ferrand-du-conseil-constitutionnel",
-     "published_at": "2026-10-14T19:31:00+00:00",
-     "snippet": "La candidate du RN reproche à Richard Ferrand d'avoir manqué à son devoir de neutralité en écartant sa proposition de réviser la Constitution par référendum."
-    },
-    {
-     "id": "694e005a034e",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen tacle son président Richard Ferrand",
-     "url": "https://www.cnews.fr/france/2026-10-14/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-tacle-son",
-     "published_at": "2026-10-14T19:01:59+00:00",
-     "snippet": "Marine Le Pen a estimé mercredi depuis Bruxelles que Richard Ferrand, président du Conseil constitutionnel, devait «quitter la tête» de l'institution, après qu'il a publiquement balayé la proposition phare de la candidate à la présidentielle, de réviser la Constitution par référendum, sans passer par le Parlement. Un désaccord qui mène à un vif échange. En déplacement à Bruxelles, Marine Le Pen a considéré que Richard Ferrand, le président du Conseil constitutionnel, devait «quitter la tête» de l'institution. Une sortie qui fait suite aux doutes émis par l'ancien président de l'Assemblée natio"
-    },
-    {
-     "id": "a7611d31f0dc",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Référendum : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-     "url": "https://www.leparisien.fr/politique/referendum-richard-ferrand-doit-quitter-la-tete-du-conseil-constitutionnel-estime-marine-le-pen-14-10-2026-3HQWOGFH25HMJF4V677MWIXYNA.php",
-     "published_at": "2026-10-14T20:17:16+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c4ceca6d4c31",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Référendum: Richard Ferrand \"doit quitter la présidence du Conseil constitutionnel\", estime Marine Le Pen",
-     "url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
-     "published_at": "2026-10-15T06:05:44+00:00",
-     "snippet": "Par Raphaël Marchal , le Mercredi 14 octobre 2026 à 23:30 La candidate du Rassemblement national à l'élection présidentielle a déclaré, ce mercredi 14 octobre depuis Bruxelles, que Richard Ferrand \"devrait quitter la tête du Conseil constitutionnel\", après qu'il a considéré qu'il n'était pas possible, contrairement à une proposition phare de Marine Le Pen, de réviser la Constitution par référendum, sans passer par le Parlement. Marine Le Pen souhaite que Richard Ferrand quitte la tête du Conseil constitutionnel. La raison de son courroux ? Dans un récent podcast du Club des juristes, le présid"
-    },
-    {
-     "id": "cd8f1addca13",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen réclame la démission de Richard Ferrand",
-     "url": "https://www.lejdd.fr/politique/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-reclame-la-demission-de-richard-ferrand-186072",
-     "published_at": "2026-10-15T05:50:19+00:00",
-     "snippet": "La candidate pour 2027 a répondu de façon cinglante au président du Conseil constitutionnel qui a balayé la proposition du RN de changer la Constitution par l’article 11 en organisant un référendum."
-    },
-    {
-     "id": "cea6271d1123",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Référendum : l’histoire tourmentée de l’article 11 de la Constitution, au cœur de la campagne présidentielle",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html",
-     "published_at": "2026-10-10T04:30:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d6b10b629eba",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-     "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-14T18:54:06+00:00",
-     "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
-    }
-   ]
-  },
   {
    "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
    "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
@@ -307,122 +158,265 @@
    ]
   },
   {
-   "headline": "Glucksmann promet 1 000 euros minimum par mois pour les stagiaires",
-   "chapo": "Jeudi 15 octobre, Raphaël Glucksmann, désigné candidat de la gauche sociale-démocrate, a promis de porter la rémunération des stages de plus de deux mois de 683 à 1 000 euros par mois, par décret, s'il est élu en 2027.",
+   "headline": "Le Pen demande le départ de Ferrand du Conseil constitutionnel : article 11 ou 89 ?",
+   "chapo": "Mercredi 14 octobre, Marine Le Pen a estimé que Richard Ferrand devait « quitter la tête » du Conseil constitutionnel, après qu'il a jugé impossible de réviser la Constitution par référendum via l'article 11, comme le propose le RN. Il défend l'article 89, qui passe par le Parlement.",
    "points": [
     {
-     "text": "La mesure : « 1 000 € minimum par mois pour tout stage de plus de 2 mois », annoncée sur X puis en vidéo. Aujourd'hui, « un stage peut être payé 4,50 € de l'heure, soit environ 683 € par mois », selon CNews.",
+     "text": "Dans un podcast du Club des juristes, Richard Ferrand, président du Conseil constitutionnel, a affirmé qu'il n'était pas possible de changer la Constitution par l'article 11 en organisant un référendum, comme le veut le RN pour la préférence nationale ou sa politique migratoire, selon LCP.",
      "sources": [
-      "e5a99719852d",
-      "948152eb8364"
+      "c4ceca6d4c31"
      ]
     },
     {
-     "text": "Son argument : « À ce tarif, seuls les étudiants aidés par leurs parents peuvent payer loyer, transports et repas pour accéder aux stages », dénonce-t-il, selon 20 Minutes.",
+     "text": "Sa formule : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat. Il suffit de lire la Constitution, qui n'est pas le Code général des impôts ».",
      "sources": [
-      "30dd9f46244e"
+      "c4ceca6d4c31",
+      "694e005a034e"
      ]
     },
     {
-     "text": "Le montant serait indexé chaque année sur l'inflation, entièrement exonéré de cotisations et toujours exonéré d'impôt, selon 20 Minutes.",
+     "text": "L'article 89 prévoit qu'un projet de révision soit voté en « termes identiques » par l'Assemblée nationale et le Sénat, puis approuvé par référendum ou par une majorité des trois cinquièmes du Parlement réuni en Congrès, selon LCP.",
      "sources": [
-      "30dd9f46244e"
+      "c4ceca6d4c31"
      ]
     },
     {
-     "text": "Calendrier : par décret dès son élection en 2027. 20 Minutes et BFM Business indiquent une application dès le 1er juin 2027, selon le candidat ; Le HuffPost parle d'un décret « dès le 1er juin ».",
+     "text": "Pour Le Monde, l'article 11 « délimite le champ des sujets susceptibles d'être soumis à référendum ». Il permet de consulter les Français sur l'organisation des pouvoirs publics ou des réformes de la politique économique, sociale ou environnementale. Marine Le Pen veut l'utiliser pour la préférence nationale et une réforme sur l'idéologie islamiste, deux sujets « a priori interdits » selon le journal.",
      "sources": [
-      "30dd9f46244e",
-      "948152eb8364",
-      "b45b52e75cb7"
+      "cea6271d1123"
      ]
     },
     {
-     "text": "Raphaël Glucksmann a remporté dimanche la primaire avec environ 66 % des suffrages, selon CNews. Il reprend à son compte le surnom de « stagiaire » que lui avait donné Ségolène Royal, selon Le HuffPost, qui rapporte aussi sa phrase : « Nous allons mettre fin à l'exploitation éhontée des stagiaires, vous pouvez compter sur moi ».",
+     "text": "Depuis Bruxelles, Marine Le Pen répond que Richard Ferrand « a rompu avec l'obligation qui est la sienne de neutralité » en se prononçant sur « une affaire qui n'a pas encore été soumise au Conseil constitutionnel », et qu'il doit « quitter la tête » de l'institution, selon CNews.",
      "sources": [
-      "e5a99719852d",
-      "b45b52e75cb7"
+      "694e005a034e",
+      "a7611d31f0dc"
      ]
     },
     {
-     "text": "Ségolène Royal, invitée sur BFMTV jeudi, juge que « par rapport à la gravité de la situation, il faut autre chose pour les jeunes », selon BFMTV. Le HuffPost note que l'annonce arrive en pleine mobilisation des lycéens et des étudiants.",
+     "text": "Elle dénonce des « arguments indigents » et invite Richard Ferrand à « écouter le général de Gaulle », qui s'était appuyé sur l'article 11 en 1962 pour organiser un référendum sur l'élection du président au suffrage universel, selon Le Parisien.",
      "sources": [
-      "c6ffd18b98a6",
-      "b45b52e75cb7"
+      "a7611d31f0dc"
      ]
     },
     {
-     "text": "« Il faut que le travail paye en France, y compris pour les stagiaires », affirme le candidat, qui veut « refuser » que la première rencontre des jeunes avec le monde du travail soit une « rémunération sous le seuil de pauvreté », selon BFM Business.",
+     "text": "Elle cite aussi François Mitterrand, qui aurait admis que l'article 11 était « validée pour être une voie de modification de la Constitution », selon 20 Minutes. Richard Ferrand répond que « tous mes prédécesseurs l'ont affirmé et réaffirmé, [Laurent] Fabius, Jean-Louis Debré également ».",
      "sources": [
-      "948152eb8364"
+      "d6b10b629eba"
+     ]
+    },
+    {
+     "text": "Quelques semaines plus tôt, Marine Le Pen avait déjà jugé que le Conseil constitutionnel « n'est pas un contre-pouvoir au peuple » : « si les Français décident de modifier leur Constitution, personne ne peut les empêcher », selon LCP.",
+     "sources": [
+      "c4ceca6d4c31"
+     ]
+    },
+    {
+     "text": "Le JDD parle d'une réponse « cinglante » de la candidate, Le Progrès d'un reproche de manquement au devoir de neutralité. Marine Le Pen doit être l'invitée de CNews ce jeudi à 21 heures.",
+     "sources": [
+      "cd8f1addca13",
+      "3744fa07d82e",
+      "694e005a034e"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 5,
-    "outlets": 5
+    "articles": 7,
+    "outlets": 7
    },
    "image": {
-    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-09-18t095835z_1251560423_rc2llna0dx1n_rtrmadp_3_france-budget-fuel-taille1200_6ad0cf3b57ffa.jpg?h=4b930fc0&itok=qUV_Eq2Y",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-15/des-stages-remuneres-1000-euros-par-mois-raphael-glucksmann-promet-que-cette",
-    "article_id": "e5a99719852d",
-    "focus_x": 0.5966666666666667,
-    "focus_y": 0.06101851851851852
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2024-12/Marine%20Le%20Pen%20le%204%20d%C3%A9cembre%202024.jpg?h=c673cd1c&itok=5two1d6e",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
+    "article_id": "c4ceca6d4c31",
+    "focus_x": 0.4666666666666667,
+    "focus_y": 0.19611111111111112
    },
-   "id": 131,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-15T22:50:47+00:00",
+   "id": 123,
+   "section": "institutions",
+   "reviewed_at": "2026-10-15T06:19:26+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 12.44,
    "sources": [
     {
-     "id": "30dd9f46244e",
-     "name": "20 Minutes",
+     "id": "3744fa07d82e",
+     "name": "Le Progrès",
      "kind": "media",
-     "title": "Présidentielle 2027 : « 1.000 euros minimum »… Raphaël Glucksmann promet à ses « amis » stagiaires de les augmenter",
-     "url": "https://www.20minutes.fr/politique/4254658-20261015-presidentielle-2027-1-000-euros-minimum-raphael-glucksmann-promet-amis-stagiaires-augmenter?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-15T13:23:59+00:00",
-     "snippet": "Le candidat de la gauche sociale-démocrate avait été traité de « stagiaire » par Ségolène Royal lors de la primaire"
+     "title": "Politique. Marine Le Pen réclame le départ de Richard Ferrand du Conseil constitutionnel",
+     "url": "https://www.leprogres.fr/politique/2026/10/14/marine-le-pen-reclame-le-depart-de-richard-ferrand-du-conseil-constitutionnel",
+     "published_at": "2026-10-14T19:31:00+00:00",
+     "snippet": "La candidate du RN reproche à Richard Ferrand d'avoir manqué à son devoir de neutralité en écartant sa proposition de réviser la Constitution par référendum."
     },
     {
-     "id": "948152eb8364",
-     "name": "BFM Business",
-     "kind": "media",
-     "title": "De 683 à 1.000 euros par mois: Raphaël Glucksmann promet d'augmenter la rémunération des stagiaires s'il arrive à l'Élysée",
-     "url": "https://www.bfmtv.com/economie/economie-social/france/de-683-a-1-000-euros-par-mois-raphael-glucksmann-promet-d-augmenter-la-remuneration-des-stagiaires-s-il-arrive-a-l-elysee_AD-202610150555.html",
-     "published_at": "2026-10-15T12:32:32+00:00",
-     "snippet": "Le candidat à l'élection présidentielle estime qu'instaurer une rémunération de 1.000 euros permettrait \"à chaque étudiant d'accéder aux mêmes opportunités professionnelles que ses camarades, d'où qu'il vienne\"."
-    },
-    {
-     "id": "b45b52e75cb7",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Raphaël Glucksmann a trouvé une façon d’utiliser le surnom que lui a donné Ségolène Royal",
-     "url": "https://www.huffingtonpost.fr/politique/article/raphael-glucksmann-a-trouve-une-facon-d-utiliser-le-surnom-que-lui-a-donne-segolene-royal_340187.html",
-     "published_at": "2026-10-15T12:09:09+00:00",
-     "snippet": "Le candidat désigné par la primaire PS promet une rémunération de 1 000 euros pour les stagiaires."
-    },
-    {
-     "id": "c6ffd18b98a6",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Raphaël Glucksmann propose un salaire de 1.000 euros pour les stagiaires: \"Par rapport à la gravité de la situation, il faut autre chose pour les jeunes\", estime Ségolène Royal",
-     "url": "https://www.bfmtv.com/politique/video-raphael-glucksmann-propose-un-salaire-de-1-000-euros-pour-les-stagiaires-par-rapport-a-la-gravite-de-la-situation-il-faut-autre-chose-pour-les-jeunes-estime-segolene-royal_VN-202610150889.html",
-     "published_at": "2026-10-15T18:36:13+00:00",
-     "snippet": "Ségolène Royal, ancienne ministre, était invitée sur le plateau de BFMTV, ce jeudi 15 octobre."
-    },
-    {
-     "id": "e5a99719852d",
+     "id": "694e005a034e",
      "name": "CNews",
      "kind": "media",
-     "title": "Des stages rémunérés 1.000 euros par mois : Raphaël Glucksmann promet que cette mesure entrera en vigueur dès le jour de son élection à l'Elysée",
-     "url": "https://www.cnews.fr/france/2026-10-15/des-stages-remuneres-1000-euros-par-mois-raphael-glucksmann-promet-que-cette",
-     "published_at": "2026-10-15T13:26:28+00:00",
-     "snippet": "Candidat PS à la présidentielle, Raphaël Glucksmann a annoncé vouloir changer les choses pour les stagiaires français. Selon lui, leur salaire minimum, situé sous «le seuil de pauvreté», doit être augmenté. Il propose de le fixer, au moins, à 1.000 euros mensuels. «Amis stagiaires, j’ai un message pour vous», a écrit Raphaël Glucksmann ce jeudi 15 octobre, sur X. Le candidat PS à la prochaine élection présidentielle veut augmenter la rémunération minimale des jeunes travailleurs en contrat de stage, dès son arrivée à l'Elysée. Une mesure solidaire vis-à-vis de la jeunesse, mais aussi un clin d"
+     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen tacle son président Richard Ferrand",
+     "url": "https://www.cnews.fr/france/2026-10-14/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-tacle-son",
+     "published_at": "2026-10-14T19:01:59+00:00",
+     "snippet": "Marine Le Pen a estimé mercredi depuis Bruxelles que Richard Ferrand, président du Conseil constitutionnel, devait «quitter la tête» de l'institution, après qu'il a publiquement balayé la proposition phare de la candidate à la présidentielle, de réviser la Constitution par référendum, sans passer par le Parlement. Un désaccord qui mène à un vif échange. En déplacement à Bruxelles, Marine Le Pen a considéré que Richard Ferrand, le président du Conseil constitutionnel, devait «quitter la tête» de l'institution. Une sortie qui fait suite aux doutes émis par l'ancien président de l'Assemblée natio"
+    },
+    {
+     "id": "a7611d31f0dc",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Référendum : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
+     "url": "https://www.leparisien.fr/politique/referendum-richard-ferrand-doit-quitter-la-tete-du-conseil-constitutionnel-estime-marine-le-pen-14-10-2026-3HQWOGFH25HMJF4V677MWIXYNA.php",
+     "published_at": "2026-10-14T20:17:16+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c4ceca6d4c31",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Référendum: Richard Ferrand \"doit quitter la présidence du Conseil constitutionnel\", estime Marine Le Pen",
+     "url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
+     "published_at": "2026-10-15T06:05:44+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 14 octobre 2026 à 23:30 La candidate du Rassemblement national à l'élection présidentielle a déclaré, ce mercredi 14 octobre depuis Bruxelles, que Richard Ferrand \"devrait quitter la tête du Conseil constitutionnel\", après qu'il a considéré qu'il n'était pas possible, contrairement à une proposition phare de Marine Le Pen, de réviser la Constitution par référendum, sans passer par le Parlement. Marine Le Pen souhaite que Richard Ferrand quitte la tête du Conseil constitutionnel. La raison de son courroux ? Dans un récent podcast du Club des juristes, le présid"
+    },
+    {
+     "id": "cd8f1addca13",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen réclame la démission de Richard Ferrand",
+     "url": "https://www.lejdd.fr/politique/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-reclame-la-demission-de-richard-ferrand-186072",
+     "published_at": "2026-10-15T05:50:19+00:00",
+     "snippet": "La candidate pour 2027 a répondu de façon cinglante au président du Conseil constitutionnel qui a balayé la proposition du RN de changer la Constitution par l’article 11 en organisant un référendum."
+    },
+    {
+     "id": "cea6271d1123",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Référendum : l’histoire tourmentée de l’article 11 de la Constitution, au cœur de la campagne présidentielle",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html",
+     "published_at": "2026-10-10T04:30:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "d6b10b629eba",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
+     "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-14T18:54:06+00:00",
+     "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
+    }
+   ]
+  },
+  {
+   "headline": "Violences dans le périscolaire : le Sénat propose 25 mesures",
+   "chapo": "Jeudi 15 octobre, la commission d'enquête du Sénat a conclu que « la France ne protège pas assez ses enfants ». Son rapport, adopté à l'unanimité, propose 25 mesures, dont une sanction pénale pour non-signalement. Une partie sera portée par amendements au projet de loi sur la protection de l'enfance, attendu au Sénat le 27 octobre.",
+   "points": [
+    {
+     "text": "La rapporteure Agnès Evren (LR) dresse un constat « sans détour » : « La France ne protège pas assez ses enfants ». Le rapport décrit un périscolaire « fragile à chaque étape de la chaîne : recrutement, formation, contrôle, signalement », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Des chiffres : 235 enquêtes pénales ouvertes à Paris, et des signalements dans au moins 73 départements. Pour la rapporteure, « Paris est un cas exceptionnel par l'ampleur des enquêtes pénales, mais n'est pas une exception », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Les défaillances viennent, selon la commission, du manque de formation des animateurs, de l'absence de contrôle réel du passé judiciaire des recrues et de « la dilution des responsabilités » entre l'école, le périscolaire et la justice, selon ici.",
+     "sources": [
+      "b3a6604bd28e"
+     ]
+    },
+    {
+     "text": "Pour Agnès Evren, l'origine est la réforme des rythmes scolaires de 2013. L'offre d'accueil est passée de 840 000 à 2,6 millions de places entre 2013 et 2016, « sans cadre, sans effectifs, sans moyens suffisants », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Mesure phare : une sanction pénale en cas de non-signalement des incidents graves au préfet, pour « briser la loi du silence ». Le rapport veut aussi protéger les lanceurs d'alerte, qui « n'osent pas parler par peur de représailles », selon ici.",
+     "sources": [
+      "b3a6604bd28e",
+      "4afdf00df555"
+     ]
+    },
+    {
+     "text": "Le rapport propose aussi un fichier commun des suspensions et interdictions d'agents (Éducation nationale, accueil collectif de mineurs, sport), et d'allonger de quatre à huit mois la suspension administrative d'un agent, selon Le Figaro.",
+     "sources": [
+      "4afdf00df555"
+     ]
+    },
+    {
+     "text": "Autres priorités : la transparence pour les parents (un organigramme « complet et à jour »), la formation, le contrôle d'honorabilité systématique et des équipes d'encadrement placées sous la direction du directeur d'école, selon ici.",
+     "sources": [
+      "b3a6604bd28e"
+     ]
+    },
+    {
+     "text": "Le rapport a été avancé pour s'accrocher au projet de loi sur la protection de l'enfance. « Nous n'avons pas le choix : si l'on veut que ces recommandations ne soient pas des vœux pieux, mais soient traduites concrètement dans la loi, il faut profiter de cette ouverture », a justifié Agnès Evren, selon Le Monde. Le texte arrive au Sénat le 27 octobre.",
+     "sources": [
+      "d181a933f9b8",
+      "4afdf00df555"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.youtube.com/vi/A78fWg4Er-s/maxresdefault.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
+    "article_id": "2cfacf2a9465",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.2688888888888889
+   },
+   "id": 130,
+   "section": "institutions",
+   "reviewed_at": "2026-10-15T22:51:00+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "2cfacf2a9465",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
+     "url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
+     "published_at": "2026-10-15T14:39:36+00:00",
+     "snippet": "Après six mois de travaux, la commission d’enquête sénatoriale a adopté à l'unanimité 25 recommandations pour combler les failles du périscolaire. Sa rapporteure, Agnès Evren (LR), veut en faire passer une partie dès le 27 octobre, par voie d'amendements au projet de loi sur la protection de l'enfance."
+    },
+    {
+     "id": "4afdf00df555",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Violences sexuelles dans le périscolaire : les propositions du Sénat pour mettre fin aux « défaillances collectives »",
+     "url": "https://www.lefigaro.fr/actualite-france/violences-sexuelles-dans-le-periscolaire-les-propositions-du-senat-pour-mettre-fin-aux-defaillances-collectives-20261015",
+     "published_at": "2026-10-15T18:10:00+00:00",
+     "snippet": "DÉCRYPTAGE - Sanction pénale pour non-dénonciation, renforcement des contrôles des antécédents des agents, animateurs placés sous le contrôle des directeurs d’école… Après trois mois et demi de travail, la sénatrice LR Agnès Evren a présenté son rapport."
+    },
+    {
+     "id": "b3a6604bd28e",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Violences dans le périscolaire : les 25 recommandation du Sénat pour lutter contre les \"dysfonctionnements systémiques\"",
+     "url": "https://www.ici.fr/ile-de-france/paris-75/paris/violences-dans-le-periscolaire-les-25-recommandation-du-senat-pour-lutter-contre-les-dysfonctionnements-systemiques-5807838?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-15T16:59:13+00:00",
+     "snippet": "Après quatre mois d'enquête sur les violences dans le périscolaire, le Sénat a présenté ce jeudi son rapport, voté à l'unanimité, et présenté 25 recommandations. Certaines vont faire l'objet d'amendements dans le cadre du projet de loi sur la protection de l'enfance."
+    },
+    {
+     "id": "d181a933f9b8",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Violences dans le périscolaire : « La France ne protège pas assez ses enfants », conclut la commission d’enquête sénatoriale",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html",
+     "published_at": "2026-10-15T16:37:20+00:00",
+     "snippet": "Le rapport rendu jeudi 15 octobre préconise 25 mesures pour sortir du « déni collectif » et répondre aux dysfonctionnements systémiques révélés par les affaires à Paris. Parmi ces recommandations, la création d’une « sanction pénale pour défaut de signalement » et d’un diplôme national d’Etat spécifique."
     }
    ]
   },
@@ -501,7 +495,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.89,
+   "score": 10.88,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -747,7 +741,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.81,
+   "score": 11.8,
    "sources": [
     {
      "id": "1ebd4abd76d4",
