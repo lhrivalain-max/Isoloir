@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T16:00:03+00:00",
+ "generated_at": "2026-10-15T22:50:47+00:00",
  "posts": [
   {
    "headline": "Le Pen demande le départ de Ferrand du Conseil constitutionnel : article 11 ou 89 ?",
@@ -83,7 +83,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.97,
+   "score": 12.44,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -147,135 +147,6 @@
      "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
      "published_at": "2026-10-14T18:54:06+00:00",
      "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
-    }
-   ]
-  },
-  {
-   "headline": "Natacha Polony candidate à la présidentielle : « Nous sommes la France »",
-   "chapo": "Mercredi 14 octobre, l'essayiste et ancienne directrice de Marianne a annoncé sur France Inter sa candidature pour « rassembler les orphelins de la politique ». Souverainiste, elle propose « une politique de production ». Reste à réunir les 500 signatures d'élus.",
-   "points": [
-    {
-     "text": "« Nous sommes dans le chaos. La situation m'oblige. Oui, je suis candidate à l'élection présidentielle », a déclaré Natacha Polony sur France Inter, selon CNews. Son slogan : « Nous sommes la France ».",
-     "sources": [
-      "e708a1706556"
-     ]
-    },
-    {
-     "text": "Elle veut représenter « tous les orphelins de la politique », selon CNews, qui précise qu'elle entend donner une alternative au duel qui semble se profiler entre le RN et LFI. Elle se positionne entre des offres « perçues comme des offres qui fracturent » et « des gens qui ont exercé le pouvoir », selon LCP.",
-     "sources": [
-      "95bc0c24f8f4",
-      "e708a1706556"
-     ]
-    },
-    {
-     "text": "Son projet : une « politique de production », en privilégiant les entreprises qui produisent sur le sol français, pour remédier à la « perte totale de rang de la France sur les questions économiques, sur notre indépendance, sur la souveraineté », rapporte La Croix. Le Monde parle d'un « souverainisme de gauche ».",
-     "sources": [
-      "df57eba2fe2e",
-      "708fda50618c"
-     ]
-    },
-    {
-     "text": "Directrice de la revue L'Audace !, elle revendique 60 000 sympathisants un mois et demi après le lancement de son mouvement, selon La Croix. Elle défend une ligne souverainiste et pro-laïcité.",
-     "sources": [
-      "df57eba2fe2e"
-     ]
-    },
-    {
-     "text": "Son parcours : ancienne directrice de la rédaction de Marianne, chroniqueuse de télévision, déjà engagée en politique aux côtés de Jean-Pierre Chevènement, elle avait obtenu 2,24 % des voix aux législatives de 2002 à Paris, selon La Croix.",
-     "sources": [
-      "df57eba2fe2e"
-     ]
-    },
-    {
-     "text": "Côté programme, LCP rapporte qu'elle propose d'augmenter les salaires de 20 à 30 % et un « état d'urgence de la production ». Obstacle principal : les 500 signatures d'élus, une règle qu'elle juge « aberrante » mais à laquelle elle doit se conformer.",
-     "sources": [
-      "95bc0c24f8f4"
-     ]
-    },
-    {
-     "text": "Une candidature de plus : la 34e à ce jour selon CNews, « la 28e » selon le titre de 20 Minutes. Libération raille une « énième candidature ». Elle répond : « Cela ne m'a pas échappé, mais jusqu'à présent, ça n'a absolument pas débloqué la situation ».",
-     "sources": [
-      "e708a1706556",
-      "48d0d3a7d1fa",
-      "95688f925d07",
-      "95bc0c24f8f4"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_mcohen_3270432-taille1200_6acf194e55810.jpg?itok=MMaSk2SX",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
-    "article_id": "e708a1706556",
-    "focus_x": 0.48333333333333334,
-    "focus_y": 0.055092592592592596
-   },
-   "id": 122,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-14T16:12:41+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.04,
-   "sources": [
-    {
-     "id": "48d0d3a7d1fa",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : L’essayiste et journaliste Natacha Polony se déclare candidate, ce n’est que la 28e",
-     "url": "https://www.20minutes.fr/politique/4254145-20261014-presidentielle-2027-essayiste-journaliste-natacha-polony-declare-candidate-28e?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-14T06:43:41+00:00",
-     "snippet": "Natacha Polony, essayiste et journaliste de 51 ans, annonce sa candidature à l’élection présidentielle de 2027 avec son mouvement « Nous sommes la France »"
-    },
-    {
-     "id": "708fda50618c",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-natacha-polony-se-declare-candidate_6793497_823448.html",
-     "published_at": "2026-10-14T06:25:56+00:00",
-     "snippet": "La journaliste se revendique du souverainisme de gauche. Elle dit constater « une perte totale de rang de la France sur les questions économiques, sur [son] indépendance, sur la souveraineté », et veut proposer « une politique de production »."
-    },
-    {
-     "id": "95688f925d07",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle",
-     "url": "https://www.liberation.fr/politique/natacha-polony-se-sent-obligee-dajouter-une-enimene-candidature-a-lelection-presidentielle-20261014_YTMYBQ5RPVGCHAIJI3PECRAQQM/",
-     "published_at": "2026-10-14T06:32:13+00:00",
-     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
-    },
-    {
-     "id": "95bc0c24f8f4",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Natacha Polony annonce sa candidature à l'élection présidentielle",
-     "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
-     "published_at": "2026-10-14T09:47:58+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Mercredi 14 octobre 2026 à 08:36 La journaliste et essayiste Natacha Polony a confirmé ce mercredi sa candidature à l'élection présidentielle de 2027. \" Je ne peux pas continuer à regarder mon pays s'effondrer\", a-t-elle justifié sur France Inter. \"La situation m'oblige\". Parce que \"la situation (l')oblige\" et que la France est dans \"le chaos\", Natacha Polony a annoncé sa candidature à l'élection présidentielle ce mercredi 14 octobre sur France Inter . Pourquoi elle, alors que beaucoup de candidats sont déjà sur la ligne de départ ? \"Cela ne m'a pas échappé, m"
-    },
-    {
-     "id": "df57eba2fe2e",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature",
-     "url": "https://www.la-croix.com/politique/election-presidentielle-2027-l-essayiste-natacha-polony-annonce-sa-candidature-20261014",
-     "published_at": "2026-10-14T08:23:41+00:00",
-     "snippet": "L’essayiste et ancienne directrice de Marianne a annoncé mercredi 14 octobre sur France Inter vouloir « rassembler les orphelins de la politique ». Une candidature qui s’inscrit dans la continuité du mouvement politique qu’elle a lancé en septembre."
-    },
-    {
-     "id": "e708a1706556",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature",
-     "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
-     "published_at": "2026-10-14T06:19:29+00:00",
-     "snippet": "Natacha Polony a annoncé ce mercredi matin sa candidature à l'élection présidentielle de 2027. Sur son compte X, l'essayiste a partagé son slogan de campagne, «Nous sommes la France». Elle n'en faisait pas un mystère, c'est désormais officiel. L'essayiste Natacha Polony a annoncé ce mercredi sa candidature à l'élection présidentielle de 2027, la 34e à ce jour. «Nous sommes dans le chaos. La situation m’oblige. Oui, je suis candidate à l’élection présidentielle. Je ne peux pas continuer à regarder mon pays s’effondrer», a-t-elle déclaré sur France Inter, dévoilant par la même occasion son sloga"
     }
    ]
   },
@@ -377,7 +248,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.48,
+   "score": 9.53,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -432,6 +303,126 @@
      "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
      "published_at": "2026-10-13T14:06:47+00:00",
      "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
+    }
+   ]
+  },
+  {
+   "headline": "Glucksmann promet 1 000 euros minimum par mois pour les stagiaires",
+   "chapo": "Jeudi 15 octobre, Raphaël Glucksmann, désigné candidat de la gauche sociale-démocrate, a promis de porter la rémunération des stages de plus de deux mois de 683 à 1 000 euros par mois, par décret, s'il est élu en 2027.",
+   "points": [
+    {
+     "text": "La mesure : « 1 000 € minimum par mois pour tout stage de plus de 2 mois », annoncée sur X puis en vidéo. Aujourd'hui, « un stage peut être payé 4,50 € de l'heure, soit environ 683 € par mois », selon CNews.",
+     "sources": [
+      "e5a99719852d",
+      "948152eb8364"
+     ]
+    },
+    {
+     "text": "Son argument : « À ce tarif, seuls les étudiants aidés par leurs parents peuvent payer loyer, transports et repas pour accéder aux stages », dénonce-t-il, selon 20 Minutes.",
+     "sources": [
+      "30dd9f46244e"
+     ]
+    },
+    {
+     "text": "Le montant serait indexé chaque année sur l'inflation, entièrement exonéré de cotisations et toujours exonéré d'impôt, selon 20 Minutes.",
+     "sources": [
+      "30dd9f46244e"
+     ]
+    },
+    {
+     "text": "Calendrier : par décret dès son élection en 2027. 20 Minutes et BFM Business indiquent une application dès le 1er juin 2027, selon le candidat ; Le HuffPost parle d'un décret « dès le 1er juin ».",
+     "sources": [
+      "30dd9f46244e",
+      "948152eb8364",
+      "b45b52e75cb7"
+     ]
+    },
+    {
+     "text": "Raphaël Glucksmann a remporté dimanche la primaire avec environ 66 % des suffrages, selon CNews. Il reprend à son compte le surnom de « stagiaire » que lui avait donné Ségolène Royal, selon Le HuffPost, qui rapporte aussi sa phrase : « Nous allons mettre fin à l'exploitation éhontée des stagiaires, vous pouvez compter sur moi ».",
+     "sources": [
+      "e5a99719852d",
+      "b45b52e75cb7"
+     ]
+    },
+    {
+     "text": "Ségolène Royal, invitée sur BFMTV jeudi, juge que « par rapport à la gravité de la situation, il faut autre chose pour les jeunes », selon BFMTV. Le HuffPost note que l'annonce arrive en pleine mobilisation des lycéens et des étudiants.",
+     "sources": [
+      "c6ffd18b98a6",
+      "b45b52e75cb7"
+     ]
+    },
+    {
+     "text": "« Il faut que le travail paye en France, y compris pour les stagiaires », affirme le candidat, qui veut « refuser » que la première rencontre des jeunes avec le monde du travail soit une « rémunération sous le seuil de pauvreté », selon BFM Business.",
+     "sources": [
+      "948152eb8364"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-09-18t095835z_1251560423_rc2llna0dx1n_rtrmadp_3_france-budget-fuel-taille1200_6ad0cf3b57ffa.jpg?h=4b930fc0&itok=qUV_Eq2Y",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-15/des-stages-remuneres-1000-euros-par-mois-raphael-glucksmann-promet-que-cette",
+    "article_id": "e5a99719852d",
+    "focus_x": 0.5966666666666667,
+    "focus_y": 0.06101851851851852
+   },
+   "id": 131,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-15T22:50:47+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "30dd9f46244e",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : « 1.000 euros minimum »… Raphaël Glucksmann promet à ses « amis » stagiaires de les augmenter",
+     "url": "https://www.20minutes.fr/politique/4254658-20261015-presidentielle-2027-1-000-euros-minimum-raphael-glucksmann-promet-amis-stagiaires-augmenter?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-15T13:23:59+00:00",
+     "snippet": "Le candidat de la gauche sociale-démocrate avait été traité de « stagiaire » par Ségolène Royal lors de la primaire"
+    },
+    {
+     "id": "948152eb8364",
+     "name": "BFM Business",
+     "kind": "media",
+     "title": "De 683 à 1.000 euros par mois: Raphaël Glucksmann promet d'augmenter la rémunération des stagiaires s'il arrive à l'Élysée",
+     "url": "https://www.bfmtv.com/economie/economie-social/france/de-683-a-1-000-euros-par-mois-raphael-glucksmann-promet-d-augmenter-la-remuneration-des-stagiaires-s-il-arrive-a-l-elysee_AD-202610150555.html",
+     "published_at": "2026-10-15T12:32:32+00:00",
+     "snippet": "Le candidat à l'élection présidentielle estime qu'instaurer une rémunération de 1.000 euros permettrait \"à chaque étudiant d'accéder aux mêmes opportunités professionnelles que ses camarades, d'où qu'il vienne\"."
+    },
+    {
+     "id": "b45b52e75cb7",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Raphaël Glucksmann a trouvé une façon d’utiliser le surnom que lui a donné Ségolène Royal",
+     "url": "https://www.huffingtonpost.fr/politique/article/raphael-glucksmann-a-trouve-une-facon-d-utiliser-le-surnom-que-lui-a-donne-segolene-royal_340187.html",
+     "published_at": "2026-10-15T12:09:09+00:00",
+     "snippet": "Le candidat désigné par la primaire PS promet une rémunération de 1 000 euros pour les stagiaires."
+    },
+    {
+     "id": "c6ffd18b98a6",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Raphaël Glucksmann propose un salaire de 1.000 euros pour les stagiaires: \"Par rapport à la gravité de la situation, il faut autre chose pour les jeunes\", estime Ségolène Royal",
+     "url": "https://www.bfmtv.com/politique/video-raphael-glucksmann-propose-un-salaire-de-1-000-euros-pour-les-stagiaires-par-rapport-a-la-gravite-de-la-situation-il-faut-autre-chose-pour-les-jeunes-estime-segolene-royal_VN-202610150889.html",
+     "published_at": "2026-10-15T18:36:13+00:00",
+     "snippet": "Ségolène Royal, ancienne ministre, était invitée sur le plateau de BFMTV, ce jeudi 15 octobre."
+    },
+    {
+     "id": "e5a99719852d",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Des stages rémunérés 1.000 euros par mois : Raphaël Glucksmann promet que cette mesure entrera en vigueur dès le jour de son élection à l'Elysée",
+     "url": "https://www.cnews.fr/france/2026-10-15/des-stages-remuneres-1000-euros-par-mois-raphael-glucksmann-promet-que-cette",
+     "published_at": "2026-10-15T13:26:28+00:00",
+     "snippet": "Candidat PS à la présidentielle, Raphaël Glucksmann a annoncé vouloir changer les choses pour les stagiaires français. Selon lui, leur salaire minimum, situé sous «le seuil de pauvreté», doit être augmenté. Il propose de le fixer, au moins, à 1.000 euros mensuels. «Amis stagiaires, j’ai un message pour vous», a écrit Raphaël Glucksmann ce jeudi 15 octobre, sur X. Le candidat PS à la prochaine élection présidentielle veut augmenter la rémunération minimale des jeunes travailleurs en contrat de stage, dès son arrivée à l'Elysée. Une mesure solidaire vis-à-vis de la jeunesse, mais aussi un clin d"
     }
    ]
   },
@@ -510,7 +501,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.73,
+   "score": 10.89,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -625,7 +616,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.61,
+   "score": 7.15,
    "sources": [
     {
      "id": "556017869975",
@@ -756,7 +747,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.49,
+   "score": 11.81,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -955,7 +946,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.64,
+   "score": 9.4,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1041,6 +1032,135 @@
    ]
   },
   {
+   "headline": "Natacha Polony candidate à la présidentielle : « Nous sommes la France »",
+   "chapo": "Mercredi 14 octobre, l'essayiste et ancienne directrice de Marianne a annoncé sur France Inter sa candidature pour « rassembler les orphelins de la politique ». Souverainiste, elle propose « une politique de production ». Reste à réunir les 500 signatures d'élus.",
+   "points": [
+    {
+     "text": "« Nous sommes dans le chaos. La situation m'oblige. Oui, je suis candidate à l'élection présidentielle », a déclaré Natacha Polony sur France Inter, selon CNews. Son slogan : « Nous sommes la France ».",
+     "sources": [
+      "e708a1706556"
+     ]
+    },
+    {
+     "text": "Elle veut représenter « tous les orphelins de la politique », selon CNews, qui précise qu'elle entend donner une alternative au duel qui semble se profiler entre le RN et LFI. Elle se positionne entre des offres « perçues comme des offres qui fracturent » et « des gens qui ont exercé le pouvoir », selon LCP.",
+     "sources": [
+      "95bc0c24f8f4",
+      "e708a1706556"
+     ]
+    },
+    {
+     "text": "Son projet : une « politique de production », en privilégiant les entreprises qui produisent sur le sol français, pour remédier à la « perte totale de rang de la France sur les questions économiques, sur notre indépendance, sur la souveraineté », rapporte La Croix. Le Monde parle d'un « souverainisme de gauche ».",
+     "sources": [
+      "df57eba2fe2e",
+      "708fda50618c"
+     ]
+    },
+    {
+     "text": "Directrice de la revue L'Audace !, elle revendique 60 000 sympathisants un mois et demi après le lancement de son mouvement, selon La Croix. Elle défend une ligne souverainiste et pro-laïcité.",
+     "sources": [
+      "df57eba2fe2e"
+     ]
+    },
+    {
+     "text": "Son parcours : ancienne directrice de la rédaction de Marianne, chroniqueuse de télévision, déjà engagée en politique aux côtés de Jean-Pierre Chevènement, elle avait obtenu 2,24 % des voix aux législatives de 2002 à Paris, selon La Croix.",
+     "sources": [
+      "df57eba2fe2e"
+     ]
+    },
+    {
+     "text": "Côté programme, LCP rapporte qu'elle propose d'augmenter les salaires de 20 à 30 % et un « état d'urgence de la production ». Obstacle principal : les 500 signatures d'élus, une règle qu'elle juge « aberrante » mais à laquelle elle doit se conformer.",
+     "sources": [
+      "95bc0c24f8f4"
+     ]
+    },
+    {
+     "text": "Une candidature de plus : la 34e à ce jour selon CNews, « la 28e » selon le titre de 20 Minutes. Libération raille une « énième candidature ». Elle répond : « Cela ne m'a pas échappé, mais jusqu'à présent, ça n'a absolument pas débloqué la situation ».",
+     "sources": [
+      "e708a1706556",
+      "48d0d3a7d1fa",
+      "95688f925d07",
+      "95bc0c24f8f4"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_mcohen_3270432-taille1200_6acf194e55810.jpg?itok=MMaSk2SX",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
+    "article_id": "e708a1706556",
+    "focus_x": 0.48333333333333334,
+    "focus_y": 0.055092592592592596
+   },
+   "id": 122,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-14T16:12:41+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.91,
+   "sources": [
+    {
+     "id": "48d0d3a7d1fa",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : L’essayiste et journaliste Natacha Polony se déclare candidate, ce n’est que la 28e",
+     "url": "https://www.20minutes.fr/politique/4254145-20261014-presidentielle-2027-essayiste-journaliste-natacha-polony-declare-candidate-28e?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-14T06:43:41+00:00",
+     "snippet": "Natacha Polony, essayiste et journaliste de 51 ans, annonce sa candidature à l’élection présidentielle de 2027 avec son mouvement « Nous sommes la France »"
+    },
+    {
+     "id": "708fda50618c",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-natacha-polony-se-declare-candidate_6793497_823448.html",
+     "published_at": "2026-10-14T06:25:56+00:00",
+     "snippet": "La journaliste se revendique du souverainisme de gauche. Elle dit constater « une perte totale de rang de la France sur les questions économiques, sur [son] indépendance, sur la souveraineté », et veut proposer « une politique de production »."
+    },
+    {
+     "id": "95688f925d07",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle",
+     "url": "https://www.liberation.fr/politique/natacha-polony-se-sent-obligee-dajouter-une-enimene-candidature-a-lelection-presidentielle-20261014_YTMYBQ5RPVGCHAIJI3PECRAQQM/",
+     "published_at": "2026-10-14T06:32:13+00:00",
+     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
+    },
+    {
+     "id": "95bc0c24f8f4",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Natacha Polony annonce sa candidature à l'élection présidentielle",
+     "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+     "published_at": "2026-10-14T09:47:58+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mercredi 14 octobre 2026 à 08:36 La journaliste et essayiste Natacha Polony a confirmé ce mercredi sa candidature à l'élection présidentielle de 2027. \" Je ne peux pas continuer à regarder mon pays s'effondrer\", a-t-elle justifié sur France Inter. \"La situation m'oblige\". Parce que \"la situation (l')oblige\" et que la France est dans \"le chaos\", Natacha Polony a annoncé sa candidature à l'élection présidentielle ce mercredi 14 octobre sur France Inter . Pourquoi elle, alors que beaucoup de candidats sont déjà sur la ligne de départ ? \"Cela ne m'a pas échappé, m"
+    },
+    {
+     "id": "df57eba2fe2e",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature",
+     "url": "https://www.la-croix.com/politique/election-presidentielle-2027-l-essayiste-natacha-polony-annonce-sa-candidature-20261014",
+     "published_at": "2026-10-14T08:23:41+00:00",
+     "snippet": "L’essayiste et ancienne directrice de Marianne a annoncé mercredi 14 octobre sur France Inter vouloir « rassembler les orphelins de la politique ». Une candidature qui s’inscrit dans la continuité du mouvement politique qu’elle a lancé en septembre."
+    },
+    {
+     "id": "e708a1706556",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature",
+     "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
+     "published_at": "2026-10-14T06:19:29+00:00",
+     "snippet": "Natacha Polony a annoncé ce mercredi matin sa candidature à l'élection présidentielle de 2027. Sur son compte X, l'essayiste a partagé son slogan de campagne, «Nous sommes la France». Elle n'en faisait pas un mystère, c'est désormais officiel. L'essayiste Natacha Polony a annoncé ce mercredi sa candidature à l'élection présidentielle de 2027, la 34e à ce jour. «Nous sommes dans le chaos. La situation m’oblige. Oui, je suis candidate à l’élection présidentielle. Je ne peux pas continuer à regarder mon pays s’effondrer», a-t-elle déclaré sur France Inter, dévoilant par la même occasion son sloga"
+    }
+   ]
+  },
+  {
    "headline": "Contre-budget de Mélenchon : 106 milliards de recettes en plus, 82 de dépenses en plus",
    "chapo": "Mercredi 14 octobre, Jean-Luc Mélenchon a présenté le budget que LFI appliquerait en cas de victoire : 106,4 milliards d'euros de recettes supplémentaires, 81,7 milliards de dépenses nouvelles, dont 25 milliards pour réduire la dette. À comparer avec les 43 milliards d'efforts du gouvernement.",
    "points": [
@@ -1113,7 +1233,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.01,
+   "score": 7.88,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1233,7 +1353,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.01,
+   "score": 7.01,
    "sources": [
     {
      "id": "053ba007189f",
@@ -1393,7 +1513,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.23,
+   "score": 6.41,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1527,7 +1647,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.6,
+   "score": 6.06,
    "sources": [
     {
      "id": "133db027e449",
@@ -1675,7 +1795,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.66,
+   "score": 5.19,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1819,7 +1939,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.71,
+   "score": 4.33,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -1947,7 +2067,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.77,
+   "score": 3.46,
    "sources": [
     {
      "id": "57c07028e804",
@@ -2070,7 +2190,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.95,
+   "score": 5.58,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -2259,7 +2379,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.75,
+   "score": 4.44,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -2431,7 +2551,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.29,
+   "score": 4.01,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2598,7 +2718,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.25,
+   "score": 3.99,
    "sources": [
     {
      "id": "0f4652b1b323",
@@ -2671,252 +2791,6 @@
      "url": "https://www.europe1.fr/international/ukraine-emmanuel-macron-affirme-quil-ne-faut-pas-ceder-a-la-menace-russe-1141481?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-12T09:10:35+00:00",
      "snippet": "Emmanuel Macron a appelé lundi à ne pas \"céder face à la menace russe\", après plusieurs déclarations de Donald Trump favorables à Moscou. Le président français doit s’entretenir dans la journée avec son homologue américain. Emmanuel Macron a affirmé lundi qu'il ne fallait pas \"céder\" à \"la menace russe\", en réponse à une série de décisions et de propos de Donald Trump semblant aller dans le sens de la Russie face à l'Ukraine. \"Je pense qu'il faut qu'on soit collectivement sérieux\", a dit le président français à la presse en marge d'une visite au Mondial de l'Auto à Paris, précisant qu'il parle"
-    }
-   ]
-  },
-  {
-   "headline": "Primaire du PS : Raphaël Glucksmann l'emporte dès le premier tour avec 66 % des voix",
-   "chapo": "Raphaël Glucksmann est désigné candidat de la gauche sociale-démocrate à la présidentielle avec 66,17 % des voix, selon les organisateurs, devant Olivier Faure (14,46 %). Environ 120 000 personnes ont voté. C'est la première fois depuis 1969 que le Parti socialiste n'a pas de candidat issu de ses rangs.",
-   "points": [
-    {
-     "text": "Le résultat a été annoncé dimanche 11 octobre peu après 18 heures par Patrick Mennucci, président de la commission d'organisation. Selon le communiqué des organisateurs, Raphaël Glucksmann a obtenu 79 613 voix, soit 66,17 % des suffrages exprimés, chiffre repris par LCP, France 24, Libération et Europe 1. BFMTV, Le Parisien et le texte de CNews écrivent 66,13 %.",
-     "sources": [
-      "4a53905dcf4b",
-      "f02d4f9bd265",
-      "a3d6608fd310",
-      "f710a577b2de",
-      "a9fb983663cc",
-      "c0efe1c44048",
-      "5f7bc190d42b"
-     ]
-    },
-    {
-     "text": "Derrière lui : Olivier Faure, premier secrétaire du PS, 14,46 % (17 398 voix), Ségolène Royal 7,62 % (9 165 voix), Emmanuel Maurel 5,92 % (7 119 voix) et Jérôme Guedj 5,83 % (7 012 voix). Europe 1 écrit que Faure est « largement désavoué sur sa ligne de rassemblement de la gauche ».",
-     "sources": [
-      "a9fb983663cc",
-      "f710a577b2de",
-      "4a53905dcf4b",
-      "f02d4f9bd265"
-     ]
-    },
-    {
-     "text": "Le vote en ligne a duré de vendredi 9 octobre 8 heures à dimanche 18 heures, prolongé d'une journée après des « attaques informatiques importantes » le 9 octobre. Selon le communiqué, elles n'ont « ni compromis la loyauté du scrutin, ni interrompu le processus de vote », mais ont « considérablement ralenti la capacité des électeurs à se prononcer ».",
-     "sources": [
-      "a9fb983663cc",
-      "f710a577b2de"
-     ]
-    },
-    {
-     "text": "À 17 heures dimanche, la participation était de 88,88 %, soit 120 787 électeurs sur 134 456 autorisés à voter, selon le communiqué. 140 282 personnes s'étaient inscrites : des vérifications ont écarté celles qui n'étaient pas identifiées sur les listes électorales ou présentes dans plusieurs partis à la fois. France 24 et CNews comptent 120 587 votants, Europe 1 120 787. LCP parle d'une participation plus faible que par le passé ; France 24 rappelle qu'ils étaient plus de 2 millions à la primaire de 2017 et près de 3 millions à celle de 2011.",
-     "sources": [
-      "a9fb983663cc",
-      "f710a577b2de",
-      "f02d4f9bd265",
-      "ee351a76823b"
-     ]
-    },
-    {
-     "text": "Raphaël Glucksmann sera le candidat du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste. C'est la première fois depuis la création du PS en 1969 qu'il n'a pas de candidat issu de ses rangs, souligne LCP. Ségolène Royal l'a relevé : « C'est la première fois que le PS n'a pas de candidat estampillé en tant que tel ». Elle ajoute : « Je le regrette ».",
-     "sources": [
-      "ee351a76823b",
-      "f02d4f9bd265"
-     ]
-    },
-    {
-     "text": "Dans sa première déclaration, Raphaël Glucksmann a dit : « La démocratie ce soir, a parlé, et le résultat est sans appel. Je suis donc ce soir le candidat de la gauche démocratique à l'élection présidentielle ». Il se dit « candidat de la rupture avec le macronisme » et « candidat de la rupture avec l'hégémonie de Jean-Luc Mélenchon sur la gauche française ». Il ajoute : « Cette première place ne me donne aucun droit. Rien n'est gagné ».",
-     "sources": [
-      "3a72bb1958ce",
-      "4a53905dcf4b"
-     ]
-    },
-    {
-     "text": "Jérôme Guedj, qui s'opposait lui aussi à une alliance avec La France insoumise, y voit « une victoire nette, sans bavure, éclatante » et le refus des électeurs socialistes de cette alliance. France 24 calcule qu'avec lui, près de 72 % des électeurs de la primaire rejettent l'idée d'un « remake » de la Nupes ou du Nouveau Front populaire.",
-     "sources": [
-      "3a72bb1958ce",
-      "f02d4f9bd265"
-     ]
-    },
-    {
-     "text": "Chez les candidats battus, Olivier Faure note « une majorité très claire (...) dès le premier tour ». Ségolène Royal se dit « très déçue » et sera « pour celui qui a gagné ce soir », sans prononcer son nom ; selon Le Parisien, elle a lancé : « C'est le stagiaire qui a gagné ». Emmanuel Maurel promet un soutien « loyal et exigeant ». Jérôme Guedj dit qu'il continuera sa campagne là où Raphaël Glucksmann le jugera utile.",
-     "sources": [
-      "3a72bb1958ce",
-      "d5991d704719"
-     ]
-    },
-    {
-     "text": "À gauche, Marine Tondelier regrette que le vainqueur soit celui qui « fait le choix du repli en refusant toute perspective d'alliance large de toute la gauche et des écologistes ». François Ruffin ironise : « Quelle surprise ! Raphaël Glucksmann remporte la primaire de Raphaël à Glucksmann ! ». Paul Vannier (La France insoumise) écrit : « Sortie de route. Fin de parcours ». Alexis Corbière estime que Raphaël Glucksmann « n'est pas lucide sur la réalité des rapports de force ».",
-     "sources": [
-      "3a72bb1958ce",
-      "f26c1e74b8c4"
-     ]
-    },
-    {
-     "text": "À droite, le maire de Béziers Robert Ménard déclare : « Monsieur Glucksmann est un adversaire. Jean-Luc Mélenchon est un danger ». David Lisnard écrit sur X : « La droite devrait être capable de faire de même ».",
-     "sources": [
-      "35b7691914c1",
-      "3a1abeb34fe5"
-     ]
-    },
-    {
-     "text": "France 24 cite des zones d'ombre : il est entouré de plusieurs anciens macronistes, dont les députés Sacha Houlié et Aurélien Rousseau, et une note confidentielle de son équipe visant le centre gauche plutôt que l'électorat populaire avait fuité au printemps. Sa proposition de baisser la CSG est jugée proche des libéraux par ses détracteurs. Libération écrit qu'il va devoir parler au cœur de l'électorat PS tout en restant fréquentable aux yeux du centre gauche macroniste, face à un Jean-Luc Mélenchon en pleine dynamique.",
-     "sources": [
-      "f02d4f9bd265",
-      "5c18a9f622db"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si les écologistes, déchirés entre une candidature autonome, une alliance avec Jean-Luc Mélenchon ou une alliance avec Raphaël Glucksmann, et le Parti communiste le rejoindront. Fabien Roussel n'a pas réagi dimanche soir.",
-     "sources": [
-      "f02d4f9bd265"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-08/AFP__20260823__C6C88EJ__v1__HighRes__France2027PoliticsElectionPlacePublique.jpg?h=8c1344d8&itok=1SZQWz5b",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
-    "article_id": "4a53905dcf4b",
-    "focus_x": 0.5133333333333333,
-    "focus_y": 0.025
-   },
-   "coverage": {
-    "articles": 14,
-    "outlets": 7
-   },
-   "id": 93,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-11T20:32:36+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.82,
-   "sources": [
-    {
-     "id": "35b7691914c1",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: \"Monsieur Glucksmann est un adversaire. Jean-Luc Mélenchon est un danger\", déclare Robert Ménard, maire DVD de Béziers",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-monsieur-glucksmann-est-un-adversaire-jean-luc-melenchon-est-un-danger-declare-robert-menard-maire-dvd-de-beziers_VN-202610110381.html",
-     "published_at": "2026-10-11T20:18:18+00:00",
-     "snippet": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix exprimées."
-    },
-    {
-     "id": "3a1abeb34fe5",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: \"La droite devrait être capable de faire de même\", déclare sur X, David Lisnard, candidat à l’élection présidentielle (Nouvelle Énergie)",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-droite-devrait-etre-capable-de-faire-de-meme-declare-sur-x-david-lisnard-candidat-a-l-election-presidentielle-nouvelle-energie_VN-202610110367.html",
-     "published_at": "2026-10-11T19:36:31+00:00",
-     "snippet": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix exprimées."
-    },
-    {
-     "id": "3a72bb1958ce",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire socialiste: premières réactions des candidats vaincus et des autres partis de gauche",
-     "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
-     "published_at": "2026-10-11T20:25:15+00:00",
-     "snippet": "Par Soizic BONVARLET , le Dimanche 11 octobre 2026 à 20:09 Alors que Raphaël Glucksmann est désormais officiellement désigné candidat de la famille sociale-démocrate en vue de l'élection présidentielle de 2027, les réactions sont déjà nombreuses à gauche. Si ses concurrents à la primaire ont admis un résultat clair et sans appel, tous n'ont pas montré le même enthousiasme quant à leur participation à la campagne élyséenne du vainqueur de ce soir. C'est une victoire nette que celle du fondateur de Place publique, Raphaël Glucksmann, à la primaire sociale-démocrate. Désormais officiellement cand"
-    },
-    {
-     "id": "4a53905dcf4b",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Primaire socialiste: vainqueur dès le 1er tour, Raphaël Glucksmann sera le candidat de la gauche sociale-démocrate à la présidentielle",
-     "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la",
-     "published_at": "2026-10-11T20:25:15+00:00",
-     "snippet": "Par Soizic BONVARLET , le Dimanche 11 octobre 2026 à 18:30 Les résultats de la primaire sociale-démocrate ont été proclamés, ce dimanche 11 octobre, peu après 18 heures. À l'issue du scrutin qui avait démarré vendredi matin, c'est le fondateur de Place Publique, Raphaël Glucksmann, qui l'emporte dès le premier tour avec plus de 66% des voix. Il sera donc le candidat de la gauche sociale-démocrate à l'élection présidentielle. C'est un choix clair qui émane ce dimanche soir du vote des électeurs qui ont participé au scrutin de la primaire socialiste. À l'issue du vote en ligne qui était ouvert d"
-    },
-    {
-     "id": "5c18a9f622db",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire PS : avec sa large victoire, Raphaël Glucksmann assoit sa légitimité, mais le plus dur commence",
-     "url": "https://www.liberation.fr/politique/primaire-ps-avec-sa-large-victoire-raphael-glucksmann-assoit-sa-legitimite-mais-le-plus-dur-commence-20261011_VFKE7CVTBZBR5JO55WN6KILQ4M/",
-     "published_at": "2026-10-11T19:01:55+00:00",
-     "snippet": "Face à un Jean-Luc Mélenchon en pleine dynamique, le leader de Place publique, désigné candidat de la gauche sociale-démocrate à la présidentielle, va devoir parler au cœur de l’électorat PS, tout en restant fréquentable aux yeux du centre gauche macroniste."
-    },
-    {
-     "id": "5f7bc190d42b",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"La déclaration de Raphaël Glucksmann était une candidature de rassemblement\", déclare Emmanuel Maurel, candidat perdant de la primaire sociale-démocrate.",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-declaration-de-raphael-glucksmann-etait-une-candidature-de-rassemblement-declare-emmanuel-maurel-candidat-perdant-de-la-primaire-sociale-democrate_VN-202610110364.html",
-     "published_at": "2026-10-11T19:28:23+00:00",
-     "snippet": "Les résultats du premier tour de la primaire du Parti socialiste et de Place publique sont tombés ce dimanche 11 octobre, vers 18 h 15, après une prolongation du scrutin à cause d'une cyberattaque vendredi. Raphaël Glucksmann est élu dès le premier tour avec 66,13 % des suffrages exprimés."
-    },
-    {
-     "id": "a3d6608fd310",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire du PS et de ses alliés : pour Raphaël Glucksmann, un premier pari réussi",
-     "url": "https://www.liberation.fr/idees-et-debats/editorial/primaire-du-ps-et-de-ses-allies-pour-raphael-glucksmann-un-premier-pari-reussi-20261011_OIKUI75ZYFDZ7CYZLRRWN2Q4V4/",
-     "published_at": "2026-10-11T19:15:12+00:00",
-     "snippet": "Le candidat de Place publique a remporté dimanche 11 octobre le scrutin dès le premier tour avec 66,17 % des voix. Un plébiscite qui ne doit pas lui faire minimiser tous ses défis."
-    },
-    {
-     "id": "a9fb983663cc",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Primaire de la gauche : derrière la victoire de Raphaël Glucksmann, comment se sont classés ses rivaux ?",
-     "url": "https://www.cnews.fr/france/2026-10-11/primaire-de-la-gauche-derriere-la-victoire-de-raphael-glucksmann-comment-se-sont",
-     "published_at": "2026-10-11T17:30:39+00:00",
-     "snippet": "Avec 66,13% des suffrages, Raphaël Glucksmann s'est largement imposé au premier tour de la primaire de la gauche, ce dimanche 11 octobre. Un score qui le place loin devant ses adversaires en lice pour représenter la gauche dans la course à l'Élysée. Une victoire nette et indiscutable. Grandissime favori de la primaire de la gauche à la présidentielle de 2027, le chef de file de Place Publique, Raphaël Glucksmann, a récolté les faveurs de 66,13% des votants, devenant ainsi le candidat représentant les sociaux-démocrates. 🔴 Communiqué de la primaire de la gauche CHOISIR 2027 | Résultats du premi"
-    },
-    {
-     "id": "c0efe1c44048",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Primaire à gauche pour la présidentielle 2027 : Raphaël Glucksmann désigné candidat dès le premier tour avec 66,13 % des voix",
-     "url": "https://www.leparisien.fr/politique/primaire-a-gauche-pour-la-presidentielle-2027-raphael-glucksmann-designe-candidat-des-le-premier-tour-avec-6613-des-voix-11-10-2026-LXUHW2AU5VBNLGKZMJI7FABLFM.php",
-     "published_at": "2026-10-11T20:25:11+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d5991d704719",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Primaire à gauche : « C’est le stagiaire qui a gagné », Ségolène Royal pique à nouveau Raphaël Glucksmann après sa victoire",
-     "url": "https://www.leparisien.fr/politique/primaire-a-gauche-cest-le-stagiaire-qui-a-gagne-segolene-royal-pique-a-nouveau-raphael-glucksmann-apres-sa-victoire-11-10-2026-ZDL63QM7YRFTHOS4XQSGQU7A4A.php",
-     "published_at": "2026-10-11T20:25:11+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "ee351a76823b",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Raphaël Glucksmann candidat en 2027: une première historique pour le Parti socialiste depuis 1969",
-     "url": "https://lcp.fr/actualites/raphael-glucksmann-candidat-en-2027-une-premiere-historique-pour-le-parti-socialiste",
-     "published_at": "2026-10-11T20:25:15+00:00",
-     "snippet": "Par Ivan Valerio , le Dimanche 11 octobre 2026 à 19:49 Avec la désignation de Raphaël Glucksmann comme candidat de la gauche sociale-démocrate, à l'issue de la primaire, le Parti socialiste apporte son soutien au candidat représentant de Place publique. Olivier Faure, premier secrétaire du PS, est arrivé en deuxième position avec 14% des voix. C'est une primaire historique pour le Parti socialiste. Pas du fait de la participation, plus faible que par le passé, mais parce que la conclusion désigne Raphaël Glucksmann , le chef de file de Place publique, comme candidat soutenu par le Parti social"
-    },
-    {
-     "id": "f02d4f9bd265",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Raphaël Glucksmann officiellement candidat du PS, un \"cap clair\" et des zones d'ombre",
-     "url": "https://www.france24.com/fr/france/20261011-rapha%C3%ABl-glucksmann-officiellement-candidat-un-cap-clair-et-des-zones-d-ombre",
-     "published_at": "2026-10-11T18:46:13+00:00",
-     "snippet": "L’eurodéputé et patron du petit parti Place publique, Raphaël Glucksmann, a remporté dimanche soir la primaire de la gauche sociale-démocrate dès le premier tour. Une victoire nette pour la ligne anti-Mélenchon qu’il défendait et qu'il entend incarner en se présentant comme \"le candidat de la gauche démocratique\" à l'élection présidentielle de 2027."
-    },
-    {
-     "id": "f26c1e74b8c4",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Primaire sociale-démocrate : Alexis Corbière estime que Raphaël Glucksmann \"n'est pas lucide sur la réalité des rapports de force\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-sociale-democrate-alexis-corbiere-estime-que-raphael-glucksmann-n-est-pas-lucide-sur-la-realite-des-rapports-de-force_VN-202610110361.html",
-     "published_at": "2026-10-11T19:21:38+00:00",
-     "snippet": "Les résultats du premier tour de la primaire du Parti socialiste et de Place publique sont tombés ce dimanche 11 octobre, vers 18 h 15, après une prolongation du scrutin à cause d'une cyberattaque vendredi. Raphaël Glucksmann est élu dès le premier tour avec 66,13 % des suffrages exprimés."
-    },
-    {
-     "id": "f710a577b2de",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Primaire socialiste : Raphaël Glucksmann élu dès le premier tour avec 66% des voix",
-     "url": "https://www.europe1.fr/politique/primaire-socialiste-raphael-glucksmann-elu-des-le-premier-tour-avec-66-des-voix-1139288?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-11T16:18:34+00:00",
-     "snippet": "Raphaël Glucksmann a été élu dès le premier tour de la primaire socialiste ce dimanche avec 66% des voix. Le député européen a devancé Olivier Faure, 2e avec 14% des voix, dans un scrutin cible d'une cyberattaque vendredi. C'est donc lui qui sera le candidat de la gauche sociale-démocrate pour la présidentielle de 2027. Le leader de Place publique, Raphaël Glucksmann, a été largement désigné dimanche candidat de la gauche sociale-démocrate à la présidentielle, dès le premier tour de la primaire, ont annoncé les organisateurs. Avec 66,17% des voix (79.613 voix), l'eurodéputé, partisan d'une rup"
     }
    ]
   }
