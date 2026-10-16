@@ -243,3 +243,5 @@ details.srcs summary { color: var(--terracotta); }
 
 .chip { display: inline-flex; align-items: center; gap: 4px; }
 .chip-icon { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.chip { color: var(--ink); box-shadow: 0 0 0 1.5px var(--ink); }
+.chip:hover { background: var(--ink); color: #fff; }

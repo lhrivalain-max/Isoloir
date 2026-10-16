@@ -1,138 +1,6 @@
 {
- "generated_at": "2026-10-16T17:35:25+00:00",
+ "generated_at": "2026-10-16T17:37:40+00:00",
  "posts": [
-  {
-   "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
-   "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
-   "points": [
-    {
-     "text": "Invitée de Sud Radio, l'eurodéputée Reconquête Sarah Knafo assure se retrouver sur « de très nombreux points » en économie avec David Lisnard, selon Le Figaro.",
-     "sources": [
-      "c21acf293ddc"
-     ]
-    },
-    {
-     "text": "Mais Lisnard « ne trouve pas grâce à ses yeux sur les sujets régaliens », d'après la même source. Sarah Knafo reste persuadée que « personne d'autre ne représente » la ligne de Reconquête.",
-     "sources": [
-      "c21acf293ddc"
-     ]
-    },
-    {
-     "text": "Les deux se sont déjà retrouvés le 30 juin devant près de 200 chefs d'entreprise sur le thème « Le tandem libéral : duel ou duo ? », selon Planet.fr.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Leurs points communs, selon Planet.fr : la critique du poids de l'État et de la dépense publique, la baisse des impôts de production, le non-remplacement de fonctionnaires partis (turn-over naturel) et un appel à l'unité des droites, tout en se distinguant du RN sur l'économie.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Leurs différences : Lisnard apparaît plus ouvert à des alliances larges et défend des primaires ; Sarah Knafo porte une dimension souverainiste et identitaire plus affirmée, selon Planet.fr.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Côté Lisnard, il « écarte au passage un rapprochement avec le RN », selon Nice-Matin. Il affirme : « La meilleure façon d'éviter la division qui peut faire perdre, c'est la primaire ».",
-     "sources": [
-      "3a3961021773"
-     ]
-    },
-    {
-     "text": "La dynamique de David Lisnard alimente la piste d'une primaire à droite. Il a progressé de 2,5 points dans la dernière vague Ifop-Fiducial et double Bruno Retailleau d'un point (6 % contre 5 %), selon Le Figaro.",
-     "sources": [
-      "1e3843174db9"
-     ]
-    },
-    {
-     "text": "Libération note que Retailleau et Lisnard doivent se retrouver la semaine prochaine pour un déjeuner organisé par le maire de Béziers, « alors qu'ils sont plus concurrents que jamais ». Éric Zemmour doit, lui, officialiser sa candidature début novembre, selon Le Parisien.",
-     "sources": [
-      "4fd0aff36e05",
-      "44e899c2ef6f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://assets.nicematin.com/articles/10/74/14/99/OG-10741499-1200-800-e46d9b5_ftp-1-plxm7tt7pt9z-canxxq325-pl-association-des-maires.jpg",
-    "source": "Nice-Matin",
-    "article_url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
-    "article_id": "3a3961021773",
-    "focus_x": 0.39666666666666667,
-    "focus_y": 0.21640625
-   },
-   "social_requested": "2026-10-16T17:29:28+00:00",
-   "id": 136,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-16T17:29:29+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.93,
-   "sources": [
-    {
-     "id": "1e3843174db9",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
-     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
-     "published_at": "2026-10-15T17:30:00+00:00",
-     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
-    },
-    {
-     "id": "3a3961021773",
-     "name": "Nice-Matin",
-     "kind": "media",
-     "title": "« Je pense qu’un jour Eric Ciotti me rejoindra » : David Lisnard veut rassembler autour de sa candidature à la présidentielle",
-     "url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
-     "published_at": "2026-10-16T03:30:04+00:00",
-     "snippet": "Candidat à l’élection présidentielle, le maire de Cannes et président de l’Association des maires de France se félicite de la dynamique que connaît sa campagne. Il écarte au passage un rapprochement avec le RN. Interview."
-    },
-    {
-     "id": "44e899c2ef6f",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Il y a Sarah Knafo avec lui ? » : la précampagne diesel d’Éric Zemmour",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-y-a-sarah-knafo-avec-lui-la-precampagne-diesel-deric-zemmour-14-10-2026-BPBEAXDNSJCU3AL7CZ457AZG54.php",
-     "published_at": "2026-10-14T20:17:16+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "4fd0aff36e05",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
-     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
-     "published_at": "2026-10-16T09:20:02+00:00",
-     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
-    },
-    {
-     "id": "5bdcad0820f3",
-     "name": "Planet.fr",
-     "kind": "media",
-     "title": "Sarah Knafo et David Lisnard : convergences libérales et nuances politiques pour redresser la France",
-     "url": "https://www.planet.fr/politique-sarah-knafo-et-david-lisnard-convergences-liberales-et-nuances-politiques-pour-redresser-la-france.2997872.29334.html",
-     "published_at": "2026-07-01T08:00:00+00:00",
-     "snippet": "Le 30 juin 2026, Sarah Knafo et David Lisnard ont débattu devant des entrepreneurs sur l'avenir économique du pays. Leurs échanges révèlent de solides convergences sur les réformes à mener, tout en laissant apparaître des différences d'approche et de positionnement. Le cercle ETHIC a réuni le 30 jui"
-    },
-    {
-     "id": "c21acf293ddc",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Sarah Knafo assume ses divergences sur les questions régaliennes avec David Lisnard",
-     "url": "https://video.lefigaro.fr/figaro/elections/presidentielles/presidentielle-2027-sarah-knafo-assume-ses-divergences-sur-les-questions-regaliennes-avec-david-lisnard-20261016",
-     "published_at": "2026-10-16T09:59:00+00:00",
-     "snippet": "Invitée de Sud Radio ce vendredi, l'eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d'autre ne représente» la ligne de son parti. Si elle assure se retrouver sur «de très nombreux points» en économie avec le candidat Nouvelle Énergie, Dav"
-    }
-   ]
-  },
   {
    "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
    "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
@@ -207,7 +75,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.42,
+   "score": 13.4,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -262,6 +130,138 @@
      "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
      "published_at": "2026-10-16T07:57:55+00:00",
      "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
+    }
+   ]
+  },
+  {
+   "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
+   "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
+   "points": [
+    {
+     "text": "Invitée de Sud Radio, l'eurodéputée Reconquête Sarah Knafo assure se retrouver sur « de très nombreux points » en économie avec David Lisnard, selon Le Figaro.",
+     "sources": [
+      "c21acf293ddc"
+     ]
+    },
+    {
+     "text": "Mais Lisnard « ne trouve pas grâce à ses yeux sur les sujets régaliens », d'après la même source. Sarah Knafo reste persuadée que « personne d'autre ne représente » la ligne de Reconquête.",
+     "sources": [
+      "c21acf293ddc"
+     ]
+    },
+    {
+     "text": "Les deux se sont déjà retrouvés le 30 juin devant près de 200 chefs d'entreprise sur le thème « Le tandem libéral : duel ou duo ? », selon Planet.fr.",
+     "sources": [
+      "5bdcad0820f3"
+     ]
+    },
+    {
+     "text": "Leurs points communs, selon Planet.fr : la critique du poids de l'État et de la dépense publique, la baisse des impôts de production, le non-remplacement de fonctionnaires partis (turn-over naturel) et un appel à l'unité des droites, tout en se distinguant du RN sur l'économie.",
+     "sources": [
+      "5bdcad0820f3"
+     ]
+    },
+    {
+     "text": "Leurs différences : Lisnard apparaît plus ouvert à des alliances larges et défend des primaires ; Sarah Knafo porte une dimension souverainiste et identitaire plus affirmée, selon Planet.fr.",
+     "sources": [
+      "5bdcad0820f3"
+     ]
+    },
+    {
+     "text": "Côté Lisnard, il « écarte au passage un rapprochement avec le RN », selon Nice-Matin. Il affirme : « La meilleure façon d'éviter la division qui peut faire perdre, c'est la primaire ».",
+     "sources": [
+      "3a3961021773"
+     ]
+    },
+    {
+     "text": "La dynamique de David Lisnard alimente la piste d'une primaire à droite. Il a progressé de 2,5 points dans la dernière vague Ifop-Fiducial et double Bruno Retailleau d'un point (6 % contre 5 %), selon Le Figaro.",
+     "sources": [
+      "1e3843174db9"
+     ]
+    },
+    {
+     "text": "Libération note que Retailleau et Lisnard doivent se retrouver la semaine prochaine pour un déjeuner organisé par le maire de Béziers, « alors qu'ils sont plus concurrents que jamais ». Éric Zemmour doit, lui, officialiser sa candidature début novembre, selon Le Parisien.",
+     "sources": [
+      "4fd0aff36e05",
+      "44e899c2ef6f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://assets.nicematin.com/articles/10/74/14/99/OG-10741499-1200-800-e46d9b5_ftp-1-plxm7tt7pt9z-canxxq325-pl-association-des-maires.jpg",
+    "source": "Nice-Matin",
+    "article_url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
+    "article_id": "3a3961021773",
+    "focus_x": 0.39666666666666667,
+    "focus_y": 0.21640625
+   },
+   "social_requested": "2026-10-16T17:29:28+00:00",
+   "id": 136,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-16T17:29:29+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.91,
+   "sources": [
+    {
+     "id": "1e3843174db9",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
+     "published_at": "2026-10-15T17:30:00+00:00",
+     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
+    },
+    {
+     "id": "3a3961021773",
+     "name": "Nice-Matin",
+     "kind": "media",
+     "title": "« Je pense qu’un jour Eric Ciotti me rejoindra » : David Lisnard veut rassembler autour de sa candidature à la présidentielle",
+     "url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
+     "published_at": "2026-10-16T03:30:04+00:00",
+     "snippet": "Candidat à l’élection présidentielle, le maire de Cannes et président de l’Association des maires de France se félicite de la dynamique que connaît sa campagne. Il écarte au passage un rapprochement avec le RN. Interview."
+    },
+    {
+     "id": "44e899c2ef6f",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Il y a Sarah Knafo avec lui ? » : la précampagne diesel d’Éric Zemmour",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-y-a-sarah-knafo-avec-lui-la-precampagne-diesel-deric-zemmour-14-10-2026-BPBEAXDNSJCU3AL7CZ457AZG54.php",
+     "published_at": "2026-10-14T20:17:16+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4fd0aff36e05",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
+     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
+     "published_at": "2026-10-16T09:20:02+00:00",
+     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
+    },
+    {
+     "id": "5bdcad0820f3",
+     "name": "Planet.fr",
+     "kind": "media",
+     "title": "Sarah Knafo et David Lisnard : convergences libérales et nuances politiques pour redresser la France",
+     "url": "https://www.planet.fr/politique-sarah-knafo-et-david-lisnard-convergences-liberales-et-nuances-politiques-pour-redresser-la-france.2997872.29334.html",
+     "published_at": "2026-07-01T08:00:00+00:00",
+     "snippet": "Le 30 juin 2026, Sarah Knafo et David Lisnard ont débattu devant des entrepreneurs sur l'avenir économique du pays. Leurs échanges révèlent de solides convergences sur les réformes à mener, tout en laissant apparaître des différences d'approche et de positionnement. Le cercle ETHIC a réuni le 30 jui"
+    },
+    {
+     "id": "c21acf293ddc",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Sarah Knafo assume ses divergences sur les questions régaliennes avec David Lisnard",
+     "url": "https://video.lefigaro.fr/figaro/elections/presidentielles/presidentielle-2027-sarah-knafo-assume-ses-divergences-sur-les-questions-regaliennes-avec-david-lisnard-20261016",
+     "published_at": "2026-10-16T09:59:00+00:00",
+     "snippet": "Invitée de Sud Radio ce vendredi, l'eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d'autre ne représente» la ligne de son parti. Si elle assure se retrouver sur «de très nombreux points» en économie avec le candidat Nouvelle Énergie, Dav"
     }
    ]
   },
@@ -339,7 +339,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.24,
+   "score": 11.23,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -448,7 +448,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.24,
+   "score": 11.23,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -562,7 +562,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.74,
+   "score": 6.73,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.96,
+   "score": 8.95,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -1072,7 +1072,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.95,
+   "score": 6.94,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1187,7 +1187,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.88,
+   "score": 4.87,
    "sources": [
     {
      "id": "556017869975",
@@ -1517,7 +1517,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.13,
+   "score": 7.12,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1673,7 +1673,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.89,
+   "score": 5.88,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
