@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T09:23:42+00:00",
+ "generated_at": "2026-10-16T15:58:18+00:00",
  "posts": [
   {
    "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
@@ -75,7 +75,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 14.13,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -134,158 +134,111 @@
    ]
   },
   {
-   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
-   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
+   "headline": "Édouard Philippe veut faire évoluer les rythmes scolaires",
+   "chapo": "Jeudi 15 octobre, lors d'une réunion de campagne sur l'éducation, Édouard Philippe a proposé de concentrer les cours le matin, de libérer l'après-midi pour le sport et la culture et, peut-être, de raccourcir les vacances de la Toussaint et de Pâques. Il a aussi parlé de Parcoursup.",
    "points": [
     {
-     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
+     "text": "« Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues. Je pense que ce n'est pas optimal pour les enfants », a déclaré le candidat Horizons devant plus de 5 000 personnes en visioconférence, selon CNews.",
      "sources": [
-      "d0e2c27e5768",
-      "92cb23981df3"
+      "6158835d0be6",
+      "c8948a92ee4a"
      ]
     },
     {
-     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
+     "text": "Son idée : « réduire un petit peu le nombre d'heures d'apprentissage par jour » et à « concentrer les heures d'apprentissage le matin », pour avoir l'après-midi du temps pour le sport, des enseignements culturels ou des langues, selon franceinfo.",
      "sources": [
-      "d0e2c27e5768"
+      "0ca56d810928"
      ]
     },
     {
-     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
+     "text": "Il en tire une question : « Est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congé ou de vacances au moment de la Toussaint, au moment de Pâques ? » Il reconnaît que c'est « une question assez explosive », mais se dit « très partisan » de cette répartition, selon franceinfo.",
      "sources": [
-      "d0e2c27e5768"
+      "0ca56d810928",
+      "c8948a92ee4a"
      ]
     },
     {
-     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
+     "text": "Libération note que ces propositions arrivent « à la veille des vacances de la Toussaint » et « pourraient faire tousser ».",
      "sources": [
-      "d0e2c27e5768"
+      "c8948a92ee4a"
      ]
     },
     {
-     "text": "Ce n'est pas nouveau : en août, Viginum avait détecté une campagne visant Gabriel Attal, avec de faux reportages et de fausses unes usurpant l'identité de médias (RFI, BFM-TV, France 24, AFP, Le Parisien, Ouest-France, Libération, Le Monde). Il l'imputait, « avec une confiance élevée », au réseau prorusse Matriochka, selon Le Monde.",
+     "text": "Le ministre de l'Éducation nationale Édouard Geffray s'est dit mercredi « plutôt favorable » à raccourcir les vacances « pour alléger les professeurs et les élèves », selon BFMTV.",
      "sources": [
-      "0776c2e51ee6"
+      "dd29dd50f378"
      ]
     },
     {
-     "text": "Viginum avait recommandé aux candidats d'éviter de communiquer publiquement sur ces contenus, « souvent invraisemblables » et à « très faible retentissement », pour ne pas leur donner de visibilité. Gabriel Attal avait, lui, porté plainte pour « ingérence étrangère » et averti : « l'élection peut être faussée, volée aux Français », selon Le Monde.",
+     "text": "Sur Parcoursup, créé en 2018 quand il était Premier ministre et qui cristallise le mécontentement des lycéens mobilisés, il juge que l'orientation « devrait être largement améliorée », selon CNews. « Les professeurs ne sont pas les mieux placés pour aider à l'orientation », dit-il, sans y voir une critique des enseignants, selon franceinfo.",
      "sources": [
-      "0776c2e51ee6",
-      "c94c537728a7"
+      "6158835d0be6",
+      "0ca56d810928"
      ]
     },
     {
-     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
+     "text": "Édouard Philippe adresse une grande partie de ses messages à la jeunesse depuis le début de sa campagne : en juillet, il promettait que « chaque choix » de son gouvernement penserait à la jeunesse, selon CNews.",
      "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Côté américain, L'Express rapporte que l'administration Trump a fait pression sur plusieurs gouvernements européens et sur le Canada pour qu'ils prennent leurs distances avec la conférence « EU DisinfoLab » de Vilnius (6 au 8 octobre), après un panel intitulé « Les Etats-Unis, une menace pour l'Europe ». L'information vient de Politico et du Guardian.",
-     "sources": [
-      "9ce94e0d203a"
-     ]
-    },
-    {
-     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
-     "sources": [
-      "92cb23981df3"
+      "6158835d0be6"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 6,
-    "outlets": 5
+    "articles": 4,
+    "outlets": 4
    },
    "image": {
-    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
-    "source": "RFI",
-    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-    "article_id": "92cb23981df3"
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2np9m3-taille1200_6ad1d6d1cf835.jpg?itok=6tTaoXzX",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+    "article_id": "6158835d0be6",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.14277777777777778
    },
-   "id": 126,
+   "id": 133,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-15T06:33:28+00:00",
+   "reviewed_at": "2026-10-16T15:58:18+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.55,
+   "score": 12.0,
    "sources": [
     {
-     "id": "0776c2e51ee6",
-     "name": "Le Monde",
+     "id": "0ca56d810928",
+     "name": "franceinfo",
      "kind": "media",
-     "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne",
-     "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
-     "published_at": "2026-08-07T03:31:00+00:00",
-     "snippet": "Après Edouard Philippe et Raphaël Glucksmann, au tour de Gabriel Attal. Le candidat Renaissance à l'élection présidentielle de 2027 a été visé mardi 4 août par une campagne de désinformation en provenance de Russie, au travers de faux reportages, vidéos et unes usurpant l'identité visuelle de plusie"
+     "title": "Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T05:24:55+00:00",
+     "snippet": "Le candidat Horizons à la présidentielle s'est par ailleurs exprimé sur Parcoursup, plateforme mise en place quand il était Premier ministre, qui cristallise le mécontentement de lycéens mobilisés."
     },
     {
-     "id": "92cb23981df3",
-     "name": "RFI",
+     "id": "6158835d0be6",
+     "name": "CNews",
      "kind": "media",
-     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
-     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-     "published_at": "2026-10-14T06:25:39+00:00",
-     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
+     "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
+     "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+     "published_at": "2026-10-16T08:21:15+00:00",
+     "snippet": "Lors d’une réunion diffusée dans des milliers de foyers, Édouard Philippe a étayé certaines de ses mesures pour l’école. Le candidat Horizons à la présidentielle propose notamment de faire évoluer les rythmes scolaires. Dans une séquence hautement axée sur le budget et l’éducation, Édouard Philippe y va de ses propositions. Ce jeudi, le candidat Horizons à la présidentielle a organisé une nouvelle édition de ses réunions d’appartement. En communication devant plus de 5.000 personnes, le maire du Havre a plaidé pour une évolution des rythmes scolaires, basée sur des heures d’apprentissage davan"
     },
     {
-     "id": "9ce94e0d203a",
-     "name": "L'Express",
+     "id": "c8948a92ee4a",
+     "name": "Libération",
      "kind": "media",
-     "title": "Comment les Etats-Unis se sont ingérés dans une conférence européenne... sur l'ingérence étrangère",
-     "url": "https://www.lexpress.fr/monde/europe/comment-les-etats-unis-se-sont-ingeres-dans-une-conference-europeenne-sur-lingerence-MSNOLMVBSVDRFK7ZOWEU4ZBH2A/",
-     "published_at": "2026-10-10T14:38:42+00:00",
-     "snippet": ""
+     "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
+     "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
+     "published_at": "2026-10-15T20:55:30+00:00",
+     "snippet": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour."
     },
     {
-     "id": "c94c537728a7",
-     "name": "Le Monde",
+     "id": "dd29dd50f378",
+     "name": "BFMTV",
      "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
-     "published_at": "2026-08-08T05:28:00+00:00",
-     "snippet": "Gabriel Attal, candidat à la présidentielle et patron du parti Renaissance, a porté plainte pour « ingérence étrangère » en « provenance de réseaux russes », ont annoncé, samedi 8 août, ses avocats à l'Agence France-Presse (AFP). La plainte dénonce « des faits d'ingérence étrangère, de manipulation "
-    },
-    {
-     "id": "d0e2c27e5768",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
-     "published_at": "2026-10-14T09:47:52+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d40027af3697",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
-     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-13T14:06:47+00:00",
-     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
+     "title": "Édouard Geffray, ministre de l’Éducation nationale, se dit “plutôt favorable” à raccourcir les vacances “pour alléger les professeurs et les élèves”",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
+     "published_at": "2026-10-14T06:46:33+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
     }
    ]
   },
@@ -363,7 +316,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.34,
+   "score": 7.0,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -485,7 +438,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.87,
+   "score": 8.74,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -549,6 +502,162 @@
      "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
      "published_at": "2026-10-14T18:54:06+00:00",
      "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
+    }
+   ]
+  },
+  {
+   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
+   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
+   "points": [
+    {
+     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
+     "sources": [
+      "d0e2c27e5768",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
+     "sources": [
+      "d0e2c27e5768"
+     ]
+    },
+    {
+     "text": "Ce n'est pas nouveau : en août, Viginum avait détecté une campagne visant Gabriel Attal, avec de faux reportages et de fausses unes usurpant l'identité de médias (RFI, BFM-TV, France 24, AFP, Le Parisien, Ouest-France, Libération, Le Monde). Il l'imputait, « avec une confiance élevée », au réseau prorusse Matriochka, selon Le Monde.",
+     "sources": [
+      "0776c2e51ee6"
+     ]
+    },
+    {
+     "text": "Viginum avait recommandé aux candidats d'éviter de communiquer publiquement sur ces contenus, « souvent invraisemblables » et à « très faible retentissement », pour ne pas leur donner de visibilité. Gabriel Attal avait, lui, porté plainte pour « ingérence étrangère » et averti : « l'élection peut être faussée, volée aux Français », selon Le Monde.",
+     "sources": [
+      "0776c2e51ee6",
+      "c94c537728a7"
+     ]
+    },
+    {
+     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697"
+     ]
+    },
+    {
+     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Côté américain, L'Express rapporte que l'administration Trump a fait pression sur plusieurs gouvernements européens et sur le Canada pour qu'ils prennent leurs distances avec la conférence « EU DisinfoLab » de Vilnius (6 au 8 octobre), après un panel intitulé « Les Etats-Unis, une menace pour l'Europe ». L'information vient de Politico et du Guardian.",
+     "sources": [
+      "9ce94e0d203a"
+     ]
+    },
+    {
+     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
+     "sources": [
+      "d40027af3697",
+      "92cb23981df3"
+     ]
+    },
+    {
+     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
+     "sources": [
+      "92cb23981df3"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
+    "source": "RFI",
+    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+    "article_id": "92cb23981df3"
+   },
+   "id": 126,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-15T06:33:28+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.69,
+   "sources": [
+    {
+     "id": "0776c2e51ee6",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne",
+     "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
+     "published_at": "2026-08-07T03:31:00+00:00",
+     "snippet": "Après Edouard Philippe et Raphaël Glucksmann, au tour de Gabriel Attal. Le candidat Renaissance à l'élection présidentielle de 2027 a été visé mardi 4 août par une campagne de désinformation en provenance de Russie, au travers de faux reportages, vidéos et unes usurpant l'identité visuelle de plusie"
+    },
+    {
+     "id": "92cb23981df3",
+     "name": "RFI",
+     "kind": "media",
+     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
+     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
+     "published_at": "2026-10-14T06:25:39+00:00",
+     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
+    },
+    {
+     "id": "9ce94e0d203a",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "Comment les Etats-Unis se sont ingérés dans une conférence européenne... sur l'ingérence étrangère",
+     "url": "https://www.lexpress.fr/monde/europe/comment-les-etats-unis-se-sont-ingeres-dans-une-conference-europeenne-sur-lingerence-MSNOLMVBSVDRFK7ZOWEU4ZBH2A/",
+     "published_at": "2026-10-10T14:38:42+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c94c537728a7",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
+     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
+     "published_at": "2026-08-08T05:28:00+00:00",
+     "snippet": "Gabriel Attal, candidat à la présidentielle et patron du parti Renaissance, a porté plainte pour « ingérence étrangère » en « provenance de réseaux russes », ont annoncé, samedi 8 août, ses avocats à l'Agence France-Presse (AFP). La plainte dénonce « des faits d'ingérence étrangère, de manipulation "
+    },
+    {
+     "id": "d0e2c27e5768",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
+     "published_at": "2026-10-14T09:47:52+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "d40027af3697",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
+     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-13T14:06:47+00:00",
+     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
     }
    ]
   },
@@ -627,7 +736,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.25,
+   "score": 7.17,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -742,7 +851,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.66,
+   "score": 5.02,
    "sources": [
     {
      "id": "556017869975",
@@ -873,7 +982,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.9,
+   "score": 9.0,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1072,7 +1181,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.97,
+   "score": 7.28,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1228,7 +1337,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.63,
+   "score": 6.02,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1359,7 +1468,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.61,
+   "score": 6.01,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1479,7 +1588,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.88,
+   "score": 5.34,
    "sources": [
     {
      "id": "053ba007189f",
@@ -1639,7 +1748,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.45,
+   "score": 4.98,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1773,7 +1882,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.38,
+   "score": 5.02,
    "sources": [
     {
      "id": "133db027e449",
@@ -1921,7 +2030,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.61,
+   "score": 4.31,
    "sources": [
     {
      "id": "1def14c32411",
@@ -2065,7 +2174,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.84,
+   "score": 3.59,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -2193,7 +2302,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.07,
+   "score": 2.87,
    "sources": [
     {
      "id": "57c07028e804",
@@ -2230,192 +2339,6 @@
      "url": "https://www.cnews.fr/france/2026-10-13/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-battue-la-primaire-de-gauche",
      "published_at": "2026-10-13T04:57:01+00:00",
      "snippet": "Battue dès le premier tour de la primaire sociale-démocrate, Ségolène Royal a adressé lundi un avertissement à Raphaël Glucksmann. Si elle assure vouloir contribuer au rassemblement de la gauche, l’ancienne candidate à l’Élysée refuse de suivre le vainqueur si celui-ci s’éloigne, selon elle, de cette ligne. La défaite n’a pas adouci son discours. Au lendemain de son élimination de la primaire sociale-démocrate, où elle a terminé à 7,6%, Ségolène Royal a de nouveau ciblé Raphaël Glucksmann, pourtant largement vainqueur du scrutin. Dimanche, l’ancienne ministre s’était contentée de féliciter, av"
-    }
-   ]
-  },
-  {
-   "headline": "Glucksmann candidat de la gauche sociale-démocrate : qui le rejoint, qui refuse, qui attend ?",
-   "chapo": "Après sa victoire à 66,17 % à la primaire, Raphaël Glucksmann a le soutien du PS et des candidats battus, avec des conditions. Les écologistes, les anciens insoumis et La France insoumise lui sont hostiles, pour des raisons différentes. Il exclut toute alliance avec LFI.",
-   "points": [
-    {
-     "text": "Raphaël Glucksmann se dit « candidat de la gauche démocratique » et « candidat de la rupture avec l'hégémonie de Jean-Luc Mélenchon sur la gauche française ». Lundi, sur France Inter, il dit s'adresser aux écologistes : « Je veux que l'on travaille ensemble », mais « d'abord » aux électeurs convaincus que l'écologie politique est fondamentale. Il confie la « révolution écologique » à Yannick Jadot, suspendu des Écologistes pour son soutien.",
-     "sources": [
-      "3a72bb1958ce",
-      "fec59bc69235"
-     ]
-    },
-    {
-     "text": "Au PS, Pierre Jouvet parle d'une « victoire nette et sans appel » et dit que « Raphaël Glucksmann est le candidat du Parti socialiste ». Boris Vallaud, président du groupe socialiste à l'Assemblée, dit que « le plus dur commence » et promet que son candidat « s'adressera à tout le peuple de gauche ». Olivier Faure, resté premier secrétaire, répète : « Nous gagnerons cette élection présidentielle par la gauche unie ».",
-     "sources": [
-      "e68ceb5e3bd7",
-      "8ae204b06abc",
-      "fec59bc69235"
-     ]
-    },
-    {
-     "text": "Parmi les candidats battus, Ségolène Royal soutiendra le vainqueur « parce que c'est la charte », selon HuffPost, mais « à condition qu'il y ait un rassemblement à gauche qui se fasse ». Emmanuel Maurel promet un soutien « loyal et exigeant ». Jérôme Guedj salue « une victoire nette, sans bavure, éclatante » et dit y voir le refus des électeurs d'une alliance avec LFI.",
-     "sources": [
-      "661092f177be",
-      "3a72bb1958ce"
-     ]
-    },
-    {
-     "text": "Marine Tondelier (Les Écologistes) regrette que le vainqueur soit « celui qui fait le choix du repli en refusant toute perspective d'alliance large de toute la gauche et des écologistes ». Selon HuffPost, les écologistes doivent trancher leur stratégie en décembre.",
-     "sources": [
-      "fec59bc69235",
-      "661092f177be"
-     ]
-    },
-    {
-     "text": "Les anciens insoumis favorables à l'union de la gauche sont critiques. François Ruffin : « Quelle surprise! Raphaël Glucksmann remporte la primaire de Raphaël à Glucksmann ». Clémentine Autain : une « primaire rabougrie et taillée sur mesure ». Alexis Corbière : Raphaël Glucksmann n'est « pas lucide sur la réalité des rapports de force ».",
-     "sources": [
-      "fec59bc69235"
-     ]
-    },
-    {
-     "text": "Du côté de La France insoumise, le député Paul Vannier écrit : « Sortie de route. Fin de parcours ». Il estime que le PS « sort ce soir de la scène politique nationale » en n'ayant pas de candidat issu de ses rangs, et que son candidat est « prétendant au leadership au sein du bloc macroniste ». Raphaël Glucksmann demande à Jean-Luc Mélenchon de « désavouer » ses supporters après son enfarinage dimanche soir, et dit qu'il n'y aura pas d'alliance avec La France insoumise.",
-     "sources": [
-      "3a72bb1958ce",
-      "629e4c5aaca6",
-      "652ea776ade4"
-     ]
-    },
-    {
-     "text": "À droite, Robert Ménard déclare : « Monsieur Glucksmann est un adversaire. Jean-Luc Mélenchon est un danger ». David Lisnard écrit sur X : « La droite devrait être capable de faire de même ». Selon Europe 1, la commentatrice Gabrielle Cluzel estime qu'il jouera un rôle de rabatteur pour Jean-Luc Mélenchon. Libération titre au contraire sur la victoire de Glucksmann comme « une bonne nouvelle pour Jean-Luc Mélenchon ».",
-     "sources": [
-      "35b7691914c1",
-      "3a1abeb34fe5",
-      "9d7b9ca51d4a",
-      "5d096f4822b5"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si les écologistes le rejoindront, ce que fera François Hollande, que HuffPost décrit « en embuscade » comme recours, et si Ségolène Royal obtiendra le rassemblement qu'elle demande.",
-     "sources": [
-      "661092f177be",
-      "fec59bc69235"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 11,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-06/AFP__20260613__B6YV2PV__v1__MidRes__FrancePoliticsPartiesElection.jpg?h=10d202d3&itok=cea9VC1M",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
-    "article_id": "3a72bb1958ce",
-    "focus_x": 0.6766666666666666,
-    "focus_y": 0.23027777777777778
-   },
-   "id": 99,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-12T11:14:13+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.08,
-   "sources": [
-    {
-     "id": "35b7691914c1",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: \"Monsieur Glucksmann est un adversaire. Jean-Luc Mélenchon est un danger\", déclare Robert Ménard, maire DVD de Béziers",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-monsieur-glucksmann-est-un-adversaire-jean-luc-melenchon-est-un-danger-declare-robert-menard-maire-dvd-de-beziers_VN-202610110381.html",
-     "published_at": "2026-10-11T20:18:18+00:00",
-     "snippet": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix exprimées."
-    },
-    {
-     "id": "3a1abeb34fe5",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate: \"La droite devrait être capable de faire de même\", déclare sur X, David Lisnard, candidat à l’élection présidentielle (Nouvelle Énergie)",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-victoire-de-raphael-glucksmann-a-la-primaire-sociale-democrate-la-droite-devrait-etre-capable-de-faire-de-meme-declare-sur-x-david-lisnard-candidat-a-l-election-presidentielle-nouvelle-energie_VN-202610110367.html",
-     "published_at": "2026-10-11T19:36:31+00:00",
-     "snippet": "Patrick Mennucci, président de la commission d'organisation de la primaire PS/Place publique, annonce que Raphaël Glucksmann est le gagnant de la primaire sociale-démocrate, avec plus de 66% des voix exprimées."
-    },
-    {
-     "id": "3a72bb1958ce",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Victoire de Raphaël Glucksmann à la primaire socialiste: premières réactions des candidats vaincus et des autres partis de gauche",
-     "url": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
-     "published_at": "2026-10-11T20:25:15+00:00",
-     "snippet": "Par Soizic BONVARLET , le Dimanche 11 octobre 2026 à 20:09 Alors que Raphaël Glucksmann est désormais officiellement désigné candidat de la famille sociale-démocrate en vue de l'élection présidentielle de 2027, les réactions sont déjà nombreuses à gauche. Si ses concurrents à la primaire ont admis un résultat clair et sans appel, tous n'ont pas montré le même enthousiasme quant à leur participation à la campagne élyséenne du vainqueur de ce soir. C'est une victoire nette que celle du fondateur de Place publique, Raphaël Glucksmann, à la primaire sociale-démocrate. Désormais officiellement cand"
-    },
-    {
-     "id": "5d096f4822b5",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Primaire PS : pourquoi la victoire de Raphaël Glucksmann est une bonne nouvelle pour Jean-Luc Mélenchon",
-     "url": "https://www.liberation.fr/politique/elections/primaire-ps-pourquoi-la-victoire-de-raphael-glucksmann-est-une-bonne-nouvelle-pour-jean-luc-melenchon-20261012_Y4NJUICFOJG23DKSAZXZLNQ42M/",
-     "published_at": "2026-10-12T03:00:00+00:00",
-     "snippet": "Vainqueur de la primaire organisée par le Parti socialiste, l’eurodéputé pourrait chercher à jouer la concurrence avec le centre et la droite philippiste. Et ouvrirait ainsi un espace encore plus conséquent à gauche pour l’insoumis."
-    },
-    {
-     "id": "629e4c5aaca6",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Raphaël Glucksmann demande à Jean-Luc Mélenchon de \"désavouer\" la violence de \"ses supporters\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/raphael-glucksmann-demande-a-jean-luc-melenchon-de-desavouer-la-violence-de-ses-supporters_AD-202610120389.html",
-     "published_at": "2026-10-12T09:40:46+00:00",
-     "snippet": "Victime d'un \"enfarinage\" dimanche soir après sa victoire lors de la primaire sociale-démocrate, l'eurodéputé a fait le lien avec LFI, même s'il est difficile de dire pour l'instant que la personne à l'origine de cet acte milite pour le mouvement de Jean-luc Mélenchon."
-    },
-    {
-     "id": "652ea776ade4",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : \"C'est tranché, il n'y aura pas d'alliance avec La France Insoumise\", affirme Raphaël Glucksmann",
-     "url": "https://www.ladepeche.fr/2026/10/12/direct-presidentielle-2027-un-nouveau-sondage-place-jean-luc-melenchon-qualifie-au-second-tour-dans-chaque-hypothese-devant-edouard-philippe-ou-13596594.php",
-     "published_at": "2026-10-12T08:40:29+00:00",
-     "snippet": "Suivez en direct les dernières informations concernant l'élection présidentielle de ce lundi 12 octobre sur LaDépêche.fr."
-    },
-    {
-     "id": "661092f177be",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Raphaël Glucksmann vainqueur de la primaire à gauche, voici les quatre défis qui l’attendent",
-     "url": "https://www.huffingtonpost.fr/politique/article/raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-voici-les-quatre-defis-qui-l-attendent_338384.html",
-     "published_at": "2026-10-12T04:20:47+00:00",
-     "snippet": "Propulsé par sa victoire, le candidat du PS fait face à un défi colossal : s’imposer dans son camp, convaincre les écologistes, gérer Hollande et ravir le vote utile à Mélenchon."
-    },
-    {
-     "id": "8ae204b06abc",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Raphaël Glucksmann \"s'adressera à tout le peuple de gauche\" soutient Boris Vallaud, président du groupe socialiste à l'Assemblée nationale",
-     "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/raphael-glucksmann-s-adressera-a-tout-le-peuple-de-gauche-soutient-boris-vallaud-president-du-groupe-socialiste-a-l-assemblee-nationale_8233366.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-12T06:09:40+00:00",
-     "snippet": "Boris Vallaud, député des Landes, appelle désormais au rassemblement derrière l'eurodéputé vainqueur de la primaire social-démocrate pour la présidentielle dès le premier tour."
-    },
-    {
-     "id": "9d7b9ca51d4a",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Victoire de Glucksmann : «Rassembler les socialistes ? C’est une vocation de ramasse-miettes», juge Gabrielle Cluzel",
-     "url": "https://www.europe1.fr/politique/victoire-de-glucksmann-rassembler-les-socialistes-cest-une-vocation-de-ramasse-miettes-juge-gabrielle-cluzel-1141514?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T10:14:00+00:00",
-     "snippet": "Dans \"Christine Kelly et vous\", Gabrielle Cluzel affirme que Raphaël Glucksmann va, in fine, jouer un rôle de rabatteur pour Jean-Luc Mélenchon lors des présidentielles de 2027. Le fer de lance de Place publique a remporté dès le premier tour la primaire socialiste avec plus de 79.000 voix, soit 66% des suffrages. Une victoire pour rien ? Dimanche, Raphaël Glucksmann a largement remporté la primaire socialiste avec 79.613 des voix, soit 66% des votants. Le fer de lance de Place publique souhaite désormais \"rompre avec le macronisme\", \"mettre fin à l'hégémonie de Jean-Luc Mélenchon sur la gauch"
-    },
-    {
-     "id": "e68ceb5e3bd7",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"C'est une victoire nette et sans appel de Raphaël Glucksmann\" à la primaire sociale-démocrate, reconnaît Pierre Jouvet, secrétaire général du Parti socialiste",
-     "url": "https://www.franceinfo.fr/politique/c-est-une-victoire-nette-et-sans-appel-de-raphael-glucksmann-a-la-primaire-sociale-democrate-reconnait-pierre-jouvet-secretaire-general-du-parti-socialiste_8233462.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-12T08:28:24+00:00",
-     "snippet": "Pierre Jouvet salue aussi \"un beau moment démocratique\", alors que la primaire sociale-démocrate a réuni \"plus de 120 000 personnes\"."
-    },
-    {
-     "id": "fec59bc69235",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Le choix du repli\": de François Ruffin à Marine Tondelier, la gauche unitaire accueille froidement la victoire de Raphaël Glucksmann",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-choix-du-repli-de-francois-ruffin-a-marine-tondelier-la-gauche-unitaire-accueille-froidement-la-victoire-de-raphael-glucksmann_AN-202610120285.html",
-     "published_at": "2026-10-12T07:54:16+00:00",
-     "snippet": "Partisans d'une alliance de l'ensemble de la gauche face à l'extrême droite, Marine Tondelier, François Ruffin ou Clémentine Autain déplorent le succès du social-démocrate qui exclut tout rapprochement avec LFI."
     }
    ]
   },
@@ -2505,7 +2428,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.02,
+   "score": 3.8,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -2596,327 +2519,6 @@
      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
      "published_at": "2026-10-12T06:08:18+00:00",
      "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : le gouvernement n'exclut plus les ordonnances, deux textes en débat cette semaine",
-   "chapo": "Le ministre de l'Économie Roland Lescure dit « préférerait éviter » les ordonnances budgétaires, mais en fait une « glissière de sécurité » faute de majorité. Le budget de l'État revient mardi 13 octobre dans l'hémicycle, celui de la Sécurité sociale est examiné en commission toute la semaine. La gauche promet la censure sur le second.",
-   "points": [
-    {
-     "text": "Vendredi 9 octobre, les députés ont rejeté à la quasi-unanimité la partie « recettes » du budget en commission, sans conséquence immédiate. Le texte retourne mardi 13 octobre dans l'hémicycle dans la version initiale du gouvernement.",
-     "sources": [
-      "9764f9fb35f1",
-      "660db29e0729"
-     ]
-    },
-    {
-     "text": "Dimanche, sur France 2 et France Inter, Roland Lescure a dit qu'il « préférerait éviter » le recours aux ordonnances budgétaires, qu'il compare à « une glissière de sécurité ». Il explique : « ça veut dire qu'on n'a pas vraiment capacité à tenir compte du débat parlementaire ». Il défend un « budget à 5 % de déficit quoi qu'il en coûte » et dit qu'une fois amendé par la commission, le budget « dépassait de plus de huit milliards le déficit ». Selon Le Monde, Sébastien Lecornu n'exclut plus les ordonnances.",
-     "sources": [
-      "660db29e0729",
-      "b6fbf92a103e",
-      "744dfb7b69ef"
-     ]
-    },
-    {
-     "text": "Faute de majorité à l'Assemblée, le Premier ministre pourrait utiliser l'article 49 alinéa 3 de la Constitution, qui permet d'adopter le texte sans vote, ce qui suppose que le PS ou le RN ne le censurent pas. Les ordonnances feraient passer le budget initial sans aucun vote, ce que 20 Minutes qualifie de manœuvre inédite sous la Ve République. L'Humanité y voit un possible « coup de force » contre le Parlement et cite l'article 47.3 de la Constitution.",
-     "sources": [
-      "660db29e0729",
-      "583bc9e9f7f1"
-     ]
-    },
-    {
-     "text": "Le budget de la Sécurité sociale est examiné en commission du lundi 12 octobre à vendredi minuit, avec plus de 1 600 amendements, avant l'hémicycle le mardi 20 octobre. Le Parlement a jusqu'à fin novembre pour voter, sinon le gouvernement pourra éventuellement passer par ordonnance. Le déficit de la Sécurité sociale est de 21,8 milliards d'euros en 2026 et l'exécutif veut le réduire de moitié.",
-     "sources": [
-      "1d1397c4821a"
-     ]
-    },
-    {
-     "text": "Dans le projet, les pensions de retraite au-dessus de 1 265 euros ne seraient pas revalorisées l'an prochain, pour 4,1 milliards d'euros d'économies, alors que le seuil de pauvreté est à 1 337 euros par mois. Les allocations familiales et l'allocation de rentrée scolaire seraient gelées, pour 1,1 milliard. Des remboursements de l'Assurance maladie seraient transférés aux complémentaires santé, pour 700 millions.",
-     "sources": [
-      "1d1397c4821a"
-     ]
-    },
-    {
-     "text": "Toute la gauche promet la censure, estimant que l'effort pèse sur les plus modestes. Le PS est sur cette ligne, alors qu'il avait majoritairement voté le texte l'an dernier en échange de la suspension de la réforme des retraites. Le RN n'agite pas explicitement la censure mais dénonce un texte « qui va faire encore payer les Français », selon la députée Joëlle Mélin, et approuve le délai de carence d'un an pour certaines prestations versées à des étrangers. Jean-Philippe Tanguy (RN) dit qu'il n'y aura « jamais de censure automatique ».",
-     "sources": [
-      "1d1397c4821a",
-      "c3330c0b29b6"
-     ]
-    },
-    {
-     "text": "Du côté des alliés du gouvernement, seul le groupe EPR est favorable à la désindexation des retraites. LR et Horizons veulent « de vraies économies sur la dépense publique », selon la députée LR Justine Gruet.",
-     "sources": [
-      "1d1397c4821a"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si le budget pourra être adopté, et quand. Les députés socialistes ont déposé une motion de rejet préalable sur la partie « recettes » : si elle est votée mardi 13 octobre, le texte part directement au Sénat.",
-     "sources": [
-      "744dfb7b69ef",
-      "fa7c4e12b992"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/2dM80-CcTpm14w-LJUMW6ik/1200x768_le-ministre-francais-de-l-economie-des-finances-et-de-l-industrie-roland-lescure-ecoute-lors-d-une-conference-de-presse-sur-les-perspectives-macroeconomiques-actualisees-du-gouvernement-a-bercy-le-ministere-francais-des-finances-a-paris-le-11-septembre-2026-photo-de-lou-benoist-afp",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4253262-20261011-budget-2027-ministre-economie-prefererait-eviter-recours-ordonnances?at_medium=display&at_campaign=149",
-    "article_id": "660db29e0729",
-    "focus_x": 0.26666666666666666,
-    "focus_y": 0.282958984375
-   },
-   "id": 100,
-   "section": "institutions",
-   "reviewed_at": "2026-10-12T11:13:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.66,
-   "sources": [
-    {
-     "id": "1d1397c4821a",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Budget de la Sécu : Coup d’envoi de l’examen à l’Assemblée avec des divergences abyssales et une menace de censure",
-     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4253502-20261012-budget-secu-coup-envoi-examen-assemblee-divergences-abyssales-menace-censure?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-12T07:04:00+00:00",
-     "snippet": "Le gouvernement veut réduire de moitié le déficit de la Sécurité sociale mais son texte l’expose pour l’instant au risque d’une motion de censure"
-    },
-    {
-     "id": "583bc9e9f7f1",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Ultime coup de force de la macronie sur le budget 2027 ? Le gouvernement laisse planer la menace d’un recours inédit aux ordonnances",
-     "url": "https://www.humanite.fr/politique/ordonnances/ultime-coup-de-force-de-la-macronie-sur-le-budget-2027-le-gouvernement-laisse-planer-la-menace-dun-recours-inedit-aux-ordonnances",
-     "published_at": "2026-10-11T16:20:05+00:00",
-     "snippet": "Le ministre de l’Économie, Roland Lescure, a assuré dimanche 11 octobre qu’il « préférait éviter » le recours aux ordonnances budgétaire, mais que ce dispositif constitutionnel était une « glissière de sécurité », dans le débat budgétaire."
-    },
-    {
-     "id": "660db29e0729",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Budget 2027 : Le ministre de l’Economie « préférerait éviter » le recours aux ordonnances",
-     "url": "https://www.20minutes.fr/politique/4253262-20261011-budget-2027-ministre-economie-prefererait-eviter-recours-ordonnances?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-11T14:19:59+00:00",
-     "snippet": "Le gouvernement pourrait recourir aux ordonnances pour faire passer son budget initial sans aucun vote"
-    },
-    {
-     "id": "744dfb7b69ef",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : rejeté en commission, le projet de loi de finances arrive dans le chaudron de l’Assemblée nationale",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-rejete-en-commission-le-projet-de-loi-de-finances-arrive-dans-le-chaudron-de-l-assemblee-nationale_6792420_823448.html",
-     "published_at": "2026-10-12T04:00:19+00:00",
-     "snippet": "Le texte, examiné dans l’Hémicycle à partir de mardi, doit permettre de tenir jusqu’à l’élection présidentielle sans crise de la dette. Mais nul ne sait s’il pourra être adopté, ni quand. En cas de blocage, Sébastien Lecornu n’exclut plus de recourir à des ordonnances."
-    },
-    {
-     "id": "9764f9fb35f1",
-     "name": "France 24",
-     "kind": "media",
-     "title": "Mobilisations lycéennes, budget ... l'exécutif français sous pression",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261011-mobilisations-lyc%C3%A9ennes-d%C3%A9bat-sur-le-budget-l-ex%C3%A9cutif-sous-pression",
-     "published_at": "2026-10-11T11:41:49+00:00",
-     "snippet": "Les députés ont rejeté à la quasi-unanimité vendredi en commission la partie \"recettes\" du budget de l'État pour 2027, un revers cinglant mais sans conséquence immédiate, le texte retournant mardi dans l'hémicycle, dans la version initiale du gouvernement. Du côté des mobilisations lycéennes, l'intersyndicale étudiante et professionnelle a appelé à une nouvelle journée de mobilisation mardi 13 octobre."
-    },
-    {
-     "id": "b6fbf92a103e",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : Roland Lescure assure qu’il « préférerait éviter » le recours aux ordonnances en cas d’impasse au Parlement",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/11/budget-2027-roland-lescure-assure-qu-il-prefererait-eviter-le-recours-aux-ordonnances-en-cas-d-impasse-au-parlement_6791931_823448.html",
-     "published_at": "2026-10-11T14:53:03+00:00",
-     "snippet": "Le ministre de l’économie défend un déficit ramené à 5 % « quoi qu’il en coûte », alors que les députés ont rejeté en commission la partie recettes du texte, qui sera discuté mardi dans l’Hémicycle."
-    },
-    {
-     "id": "c3330c0b29b6",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "DIRECT. Budget: Jean-Philippe Tanguy assure qu'il n'y aura \"jamais de censure automatique\"",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/primaire-du-parti-socialiste-et-de-place-publique-la-gauche-sociale-democrate-choisit-son-candidat-pour-la-presidentielle-2027-plus-de-100-00-votants-pour-l-heure-recenses_LN-202610110078.html",
-     "published_at": "2026-10-11T11:01:52+00:00",
-     "snippet": "Dernier jour pour voter pour la primaire du Parti socialiste et de Place publique ce dimanche 11 octobre, après une prolongation du scrutin à cause d'une cyberattaque vendredi. Dans le reste de l'actualité politique, le leader insoumis Jean-Luc Mélenchon donne un meeting à Clermont-Ferrand, tandis que Gabriel Attal (Renaissance) et Édouard Philippe (Horizons) seront à Dijon."
-    },
-    {
-     "id": "fa7c4e12b992",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : les députés socialistes font planer la menace d’une motion de rejet préalable",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-socialistes-font-planer-la-menace-d-une-motion-de-rejet-prealable_6790522_823448.html",
-     "published_at": "2026-10-09T06:27:42+00:00",
-     "snippet": "Les députés socialistes ont déposé une motion sur la première partie du projet de loi de finances, consacrée aux recettes. Si elle est votée, mardi 13 octobre, le texte partirait directement au Sénat."
-    }
-   ]
-  },
-  {
-   "headline": "Ukraine : Macron refuse de « céder » à la « menace russe » après l'accord de Trump sur le diesel russe",
-   "chapo": "Lundi 12 octobre, Emmanuel Macron a dit qu'il fallait chercher un cessez-le-feu sur l'énergie mais ne pas « céder face à la menace russe ». Il réagit à l'accord de Donald Trump avec Vladimir Poutine sur le diesel russe, puis à son idée d'un nouveau dirigeant ukrainien. L'Union européenne a adopté le même jour près de 1 600 nouvelles sanctions.",
-   "points": [
-    {
-     "text": "Lundi, en marge d'une visite au Mondial de l'auto à Paris, Emmanuel Macron a déclaré : « On n'a aujourd'hui, je crois, aucune raison factuelle de changer notre position. La Russie continue de bombarder à la fois les civils et les infrastructures en Ukraine. Et donc oui pour chercher un cessez-le-feu sur l'énergie et je dirais aussi sur la mer Noire et reprendre des discussions de paix. Non pour céder face à la menace russe ». Il devait s'entretenir dans la journée avec Donald Trump.",
-     "sources": [
-      "ecbf6160b6da",
-      "91108f719292",
-      "de8ac9d8461a"
-     ]
-    },
-    {
-     "text": "Vendredi 9 octobre, Donald Trump a annoncé que la Russie avait accepté de livrer immédiatement plus de 300 000 tonnes de diesel, après une discussion « très fructueuse » avec Vladimir Poutine. Le Trésor américain autorise l'importation de diesel russe jusqu'au 7 avril, alors que le pétrole russe est sous sanctions américaines depuis 2022. Donald Trump parle de 3 millions de tonnes à terme. L'objectif : faire baisser les prix à la pompe avant les élections de mi-mandat du 3 novembre.",
-     "sources": [
-      "5dfb717584fe",
-      "ecbf6160b6da"
-     ]
-    },
-    {
-     "text": "Selon L'Express, des experts jugent l'effet limité : 300 000 tonnes correspondent à environ 2,25 millions de barils, alors que les États-Unis en exportent 1,5 million par jour. « C'est du vent », écrit sur X le spécialiste du pétrole Rory Johnston. Les prix du gazole ont bondi de 70 % depuis le début du conflit entre les États-Unis, Israël et l'Iran.",
-     "sources": [
-      "5dfb717584fe"
-     ]
-    },
-    {
-     "text": "Volodymyr Zelensky a qualifié l'accord d'« investissement dans une guerre qui doit cesser » et de « décision faible de la part de partenaires forts ». Il a été annoncé alors qu'une délégation ukrainienne était aux États-Unis pour discuter de la fin de la guerre.",
-     "sources": [
-      "5dfb717584fe"
-     ]
-    },
-    {
-     "text": "Donald Trump a ensuite suggéré aux Ukrainiens de se doter « d'un nouveau dirigeant qui peut parvenir à un accord » de paix, puis annoncé dimanche un « cessez-le-feu énergétique » entre l'Ukraine et la Russie, qui a étonné Kiev et laissé Moscou silencieux. Emmanuel Macron dit n'avoir « pas constaté ces 48 dernières heures de trêve énergétique du côté russe » et que les Russes ont continué de bombarder des infrastructures énergétiques. Selon Le Progrès, Volodymyr Zelensky affirme que ce cessez-le-feu est déjà violé.",
-     "sources": [
-      "ecbf6160b6da",
-      "91108f719292"
-     ]
-    },
-    {
-     "text": "En France, Dominique de Villepin écrit que Donald Trump « noue un pacte de fait avec Vladimir Poutine ». François Bayrou parle de « déclarations honteuses et sans précédent ». Gabriel Attal réaffirme son soutien à l'Ukraine. Jean-Luc Mélenchon dit : « Avec Trump, on ne discute que d'une chose, du business. C'est un impérialisme pur » et estime que les Européens devraient ouvrir les discussions avec Vladimir Poutine. Selon Libération, l'Élysée est resté discret, avec un entretien téléphonique entre Emmanuel Macron et Volodymyr Zelensky samedi.",
-     "sources": [
-      "826da7d60a9f"
-     ]
-    },
-    {
-     "text": "Du côté du RN, Jean-Philippe Tanguy juge que Donald Trump « défend les intérêts de son pays. Les Etats-Unis font toujours ça », et qu'un accord France-Russie sous un président RN « ne serait pas une solution ». Sur BFMTV, il dit aussi que Marine Le Pen maintiendrait les aides à l'Ukraine et qu'importer du diesel russe n'est pas une solution.",
-     "sources": [
-      "826da7d60a9f",
-      "0f4652b1b323",
-      "36cd7ccc2a2c"
-     ]
-    },
-    {
-     "text": "Lundi, l'Union européenne a adopté de nouvelles sanctions contre près de 1 600 individus et entités liés au complexe militaro-industriel russe : 743 individus et 826 entités selon des diplomates. Kaja Kallas parle de « la plus grande extension de notre liste de sanctions depuis le début de la guerre ». Plus de la moitié concernent la production de missiles balistiques. Le total monte à près de 4 600. Les sanctions prévoient un gel des avoirs dans l'UE et une interdiction d'y entrer.",
-     "sources": [
-      "91108f719292"
-     ]
-    },
-    {
-     "text": "Selon Le Progrès, l'accord sur le diesel est une levée de facto des sanctions américaines et a provoqué l'incompréhension de nombreux pays européens. La ministre suédoise des Affaires étrangères, Maria Malmer Stenergard : « Je le regrette profondément. J'espère que cela n'entrera pas en vigueur, car nous devons accentuer la pression sur la Russie et renforcer le soutien à l'Ukraine ».",
-     "sources": [
-      "91108f719292"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : ce que se diront Emmanuel Macron et Donald Trump lundi, et si le « cessez-le-feu énergétique » sera appliqué, Moscou n'ayant pas réagi. Selon L'Express, Volodymyr Zelensky se dit prêt à organiser des élections si la Russie accepte un cessez-le-feu de 60 jours.",
-     "sources": [
-      "ecbf6160b6da",
-      "c2621e991ffa"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/12/11/075_oikonomou-notitle260320_np2nz_1_6acca73499586.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/international/ukraine-emmanuel-macron-affirme-quil-ne-faut-pas-ceder-a-la-menace-russe-1141481?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "ecbf6160b6da",
-    "focus_x": 0.48,
-    "focus_y": 0.18135416666666668
-   },
-   "id": 96,
-   "section": "institutions",
-   "reviewed_at": "2026-10-12T10:28:13+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.63,
-   "sources": [
-    {
-     "id": "0f4652b1b323",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Jean-Philippe Tanguy, député RN de la Somme, assure que Marine Le Pen maintiendra \"les aides à l'Ukraine\" si elle arrive au pouvoir",
-     "url": "https://www.bfmtv.com/politique/front-national/video-jean-philippe-tanguy-depute-rn-de-la-somme-assure-que-marine-le-pen-maintiendra-les-aides-a-l-ukraine-si-elle-arrive-au-pouvoir_VN-202610110182.html",
-     "published_at": "2026-10-11T10:27:30+00:00",
-     "snippet": "Jean-Philippe Tanguy, député RN de la Somme et président délégué du Rassemblement national à l'Assemblée nationale, était l'invité de BFM Politique."
-    },
-    {
-     "id": "36cd7ccc2a2c",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Prix des carburants: Jean-Philippe Tanguy, député RN de la Somme, estime qu'importer du diesel russe \"n'est pas une solution\"",
-     "url": "https://www.bfmtv.com/politique/front-national/video-prix-des-carburants-jean-philippe-tanguy-depute-rn-de-la-somme-estime-qu-importer-du-diesel-russe-n-est-pas-une-solution_VN-202610110179.html",
-     "published_at": "2026-10-11T10:19:53+00:00",
-     "snippet": "Jean-Philippe Tanguy, député RN de la Somme et président délégué du Rassemblement national à l'Assemblée nationale, était l'invité de BFM Politique."
-    },
-    {
-     "id": "5dfb717584fe",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Donald Trump signe un accord avec Vladimir Poutine sur le diesel russe et prend l'Ukraine de court",
-     "url": "https://www.lexpress.fr/monde/europe/donald-trump-signe-un-accord-avec-vladimir-poutine-sur-le-diesel-russe-et-prend-lukraine-de-court-HHV47L2NJVEHJOUCHIDGNI2YLU/",
-     "published_at": "2026-10-10T07:00:47+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "826da7d60a9f",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Lâchage de Zelensky par Trump : une classe politique française en soutien de l’Ukraine, l’Elysée discret",
-     "url": "https://www.liberation.fr/politique/lachage-de-zelensky-par-trump-une-classe-politique-francaise-en-soutien-de-lukraine-lelysee-bien-silencieux-20261011_M7EYKZGVUFE2PMECJYL6LWHTJY/",
-     "published_at": "2026-10-11T13:48:49+00:00",
-     "snippet": "De Jean-Luc Mélenchon à Gabriel Attal en passant par Dominique de Villepin, les réactions se sont multipliées ce week-end après le deal de Donald Trump avec Vladimir Poutine sur le gazole, puis sa volonté de remplacer le président Volodymyr Zelensky."
-    },
-    {
-     "id": "91108f719292",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Guerre en Ukraine. L'UE sanctionne 1 600 individus et entités liés à la Russie, Macron ne veut pas « céder »",
-     "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/10/12/l-ue-sanctionne-1-600-individus-et-entites-lies-a-la-russie-macron-ne-veut-pas-ceder",
-     "published_at": "2026-10-12T09:36:00+00:00",
-     "snippet": "Les Vingt-Sept ont approuvé ce lundi une nouvelle vague de sanctions visant près de 1 600 individus et entités liés au complexe militaro-industriel russe."
-    },
-    {
-     "id": "c2621e991ffa",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Ukraine : Volodymyr Zelensky se dit prêt à organiser des élections si la Russie accepte un cessez-le-feu de 60 jours",
-     "url": "https://www.lexpress.fr/monde/europe/ukraine-volodymyr-zelensky-affirme-organiser-des-elections-si-la-russie-accepte-un-cessez-le-feu-de-MANXJ37WFZH3TIB7LMQ7JP2BYU/",
-     "published_at": "2026-10-11T16:05:23+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "de8ac9d8461a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Emmanuel Macron appelle à ne pas \"céder\" à la \"menace russe\"",
-     "url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-appelle-a-ne-pas-ceder-a-la-menace-russe_AD-202610120384.html",
-     "published_at": "2026-10-12T09:33:45+00:00",
-     "snippet": "Le président de la République a réagi après l'annonce surprise par Donald Trump d'un \"cessez-le-feu énergétique\" entre l'Ukraine et la Russie."
-    },
-    {
-     "id": "ecbf6160b6da",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Ukraine : Emmanuel Macron affirme qu'il ne faut pas «céder» à la «menace russe»",
-     "url": "https://www.europe1.fr/international/ukraine-emmanuel-macron-affirme-quil-ne-faut-pas-ceder-a-la-menace-russe-1141481?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T09:10:35+00:00",
-     "snippet": "Emmanuel Macron a appelé lundi à ne pas \"céder face à la menace russe\", après plusieurs déclarations de Donald Trump favorables à Moscou. Le président français doit s’entretenir dans la journée avec son homologue américain. Emmanuel Macron a affirmé lundi qu'il ne fallait pas \"céder\" à \"la menace russe\", en réponse à une série de décisions et de propos de Donald Trump semblant aller dans le sens de la Russie face à l'Ukraine. \"Je pense qu'il faut qu'on soit collectivement sérieux\", a dit le président français à la presse en marge d'une visite au Mondial de l'Auto à Paris, précisant qu'il parle"
     }
    ]
   }
