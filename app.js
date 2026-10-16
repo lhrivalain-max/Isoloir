@@ -45,10 +45,24 @@ function safeUrl(u) {
   } catch { return "#"; }
 }
 
+function cursorIcon() {
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(NS, "svg");
+  svg.setAttribute("viewBox", "0 0 24 24");
+  svg.setAttribute("class", "chip-icon");
+  svg.setAttribute("aria-hidden", "true");
+  const path = document.createElementNS(NS, "path");
+  path.setAttribute("d", "M7.904 17.563a1.2 1.2 0 0 0 2.228 .308l2.09 -3.093l4.907 4.907a1.067 1.067 0 0 0 1.509 0l1.047 -1.047a1.067 1.067 0 0 0 0 -1.509l-4.907 -4.907l3.113 -2.09a1.2 1.2 0 0 0 -.309 -2.228l-13.582 -3.904l3.904 13.563z");
+  svg.append(path);
+  return svg;
+}
+
 function sourceChip(id, byId) {
   const s = byId[id];
   if (!s) return null;
-  return el("a", { class: "chip", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", title: "Lire l'article : " + s.title, "aria-label": `Lire l'article de ${s.name} (nouvel onglet)`, text: s.name + " ⧉" });
+  const a = el("a", { class: "chip", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", title: "Lire l'article : " + s.title, "aria-label": `Lire l'article de ${s.name} (nouvel onglet)` });
+  a.append(document.createTextNode(s.name + " "), cursorIcon());
+  return a;
 }
 
 const SECTION_LABEL = { institutions: "Actualités", presidentielle: "Présidentielle" };
@@ -84,7 +98,7 @@ function renderPost(post, index) {
   const more = el("div", { class: "more", id: "more-" + post.id, hidden: "" });
   if (post.points?.length) {
     more.append(el("h3", { text: "L'essentiel" }));
-    more.append(el("p", { class: "hint", text: "Touche le nom d'un média (⧉) pour lire l'article d'origine." }));
+    more.append(el("p", { class: "hint", text: "Touche le nom d'un média (pastille avec un curseur) pour lire l'article d'origine." }));
     const ul = el("ul", { class: "points" });
     for (const p of post.points) {
       const li = el("li", { text: p.text });

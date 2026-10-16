@@ -1,138 +1,6 @@
 {
- "generated_at": "2026-10-16T17:30:54+00:00",
+ "generated_at": "2026-10-16T17:35:25+00:00",
  "posts": [
-  {
-   "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
-   "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
-   "points": [
-    {
-     "text": "Le syndicat Alliance annonce une plainte contre l'État pour « mise en danger de la vie d'autrui », dénonçant des « instructions contradictoires » sur l'usage de certaines armes en manifestation, selon franceinfo.",
-     "sources": [
-      "6c224d9b6993"
-     ]
-    },
-    {
-     "text": "Sur franceinfo, Laurent Nuñez confirme : « Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement ». Il juge « hors de question de bannir un type d'armes intermédiaires » et dit ne rien avoir « à redire sur les instructions » qu'il passe.",
-     "sources": [
-      "6c224d9b6993"
-     ]
-    },
-    {
-     "text": "Sur France 2, il rappelle : « J'ai suspendu l'usage de cette grenade assourdissante uniquement pour le mouvement lycéen », après qu'un adolescent de 15 ans a eu la main arrachée à Lens, selon Le HuffPost. Demain, « ce sont d'autres types d'actions », dit-il.",
-     "sources": [
-      "d7913e3dc916"
-     ]
-    },
-    {
-     "text": "Ses instructions : « les policiers et les gendarmes doivent pouvoir utiliser l'ensemble des armes intermédiaires à leur disposition ». En cas de violences urbaines graves, « ce type d'armement peut être utilisé », selon Le HuffPost.",
-     "sources": [
-      "d7913e3dc916",
-      "eca2f883779f"
-     ]
-    },
-    {
-     "text": "Pour la manifestation du 17 octobre, le ministre s'attend à une mobilisation « assez importante » : environ 250 appels à des actions et 80 cortèges, dont un peu plus d'une quarantaine déclarés, selon franceinfo. Il redoute des dégradations de l'ultra-gauche en fin de cortège.",
-     "sources": [
-      "6c224d9b6993",
-      "6e8769275a68"
-     ]
-    },
-    {
-     "text": "Les juristes sont sceptiques sur la plainte : « Ce n'est que de la communication politique », estime un haut magistrat, selon Le Figaro. Selon un professeur de droit pénal, il faudra prouver que l'ordre donné « est lui-même une violation d'une loi ou d'un texte réglementaire ».",
-     "sources": [
-      "a99a75404bde"
-     ]
-    },
-    {
-     "text": "Alliance devra aussi viser nommément des personnes : préfets, directeur de la police nationale ou représentants de la hiérarchie, selon Le Figaro.",
-     "sources": [
-      "a99a75404bde"
-     ]
-    },
-    {
-     "text": "Côté gauche, L'Humanité critique un ministre qui « s'en prend désormais aux lycéens, traités comme de dangereux délinquants », citant « 8 000 gardes à vue » et plusieurs mutilations. Le journal cite aussi un ancien patron de la police pour qui il est un homme affable : « Il ne hurle jamais ».",
-     "sources": [
-      "078ce466a30d"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/kvheZJ93hcYM4DtBV9RZjnDM3cQ/0x23:1177x686/432x243/filters:format(jpg)/2026/10/16/6ad1d4e0ed666490338625.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "6c224d9b6993",
-    "focus_x": 0.52,
-    "focus_y": 0.23925925925925925
-   },
-   "id": 132,
-   "section": "institutions",
-   "reviewed_at": "2026-10-16T09:23:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 13.45,
-   "sources": [
-    {
-     "id": "078ce466a30d",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Si on lui demande de taper sur des manifestants, il le fera sans états d’âme » : Laurent Nunez, la répression féroce derrière le « chic type »",
-     "url": "https://www.humanite.fr/politique/gilets-jaunes/si-on-lui-demande-de-taper-sur-des-manifestants-il-le-fera-sans-etats-dame-laurent-nunez-la-repression-feroce-derriere-le-chic-type",
-     "published_at": "2026-10-16T04:30:00+00:00",
-     "snippet": "Le ministre de l’Intérieur, déjà secrétaire d’État dans le même ministère lors de la très violente répression des gilets jaunes, s’en prend désormais aux lycéens, traités comme de dangereux délinquants. Le chiffre hallucinant de 8 000 gardes à vue a été atteint, sans compter plusieurs mutilations. Portrait d’une version bonhomme de la répression."
-    },
-    {
-     "id": "6c224d9b6993",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Plainte du syndicat Alliance contre l'Etat : \"Certaines consignes ont pu être passées, j'ai procédé fermement au rappel à l'ordre nécessaire\", indique Laurent Nuñez",
-     "url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-16T07:40:23+00:00",
-     "snippet": "Invité des \"4V\" ce vendredi 16 octobre, le ministre de l'Intérieur réagit aux \"cas cités\" par le syndicat de police Alliance, qui dénonce une \"mise en danger de la vie d'autrui\" et des \"instructions contradictoires\" sur l'utilisation de certaines armes en manifestation. \"Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement\", confirme Laurent Nuñez, estimant qu'iI est \"hors de question de bannir un type d'armes intermédiaires\" dans le rétablissement du maintien de l'ordre. \"Je n'ai rien à redire sur les instructions que je passe\", appuie-t-il."
-    },
-    {
-     "id": "6e8769275a68",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Manifestation du 17 octobre: Laurent Nuñez s'attend à une mobilisation importante et redoute des \"dégradations de l'ultragauche\"",
-     "url": "https://lcp.fr/actualites/manifestation-du-17-octobre-laurent-nunez-s-attend-a-une-mobilisation-importante-et",
-     "published_at": "2026-10-16T09:14:09+00:00",
-     "snippet": "Par Raphaël Marchal , le Vendredi 16 octobre 2026 à 08:57 Invité de France 2 ce vendredi 16 octobre, le ministre de l'Intérieur s'attend à \"250 actions et 80 rassemblements de voie publique\" sur le territoire dans le cadre de la mobilisation du 17 octobre. Laurent Nuñez a également indiqué qu'il craignait des débordements de \"l'ultragauche\". La place Beauvau s'attend à une mobilisation importante dans le cadre des manifestations du 17 octobre contre la vie chère. \"On a identifié environ 250 appels à des actions de voie publique et on s'attend environ à 80 cortèges, c'est-à-dire des manifestati"
-    },
-    {
-     "id": "a99a75404bde",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Plainte de policiers «contre l’État» : la difficile preuve de la mise en danger d’autrui",
-     "url": "https://www.lefigaro.fr/actualite-france/plainte-de-policiers-contre-l-etat-la-difficile-preuve-de-la-mise-en-danger-d-autrui-20261015",
-     "published_at": "2026-10-15T16:20:00+00:00",
-     "snippet": "DÉCRYPTAGE - Pour que la procédure puisse aboutir, les avocats du syndicat Alliance devront également viser nommément des personnes : préfets, directeur de la police nationale ou encore représentants de la hiérarchie."
-    },
-    {
-     "id": "d7913e3dc916",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "La justification de Laurent Nuñez pour l’autorisation des grenades assourdissantes le 17 octobre",
-     "url": "https://www.huffingtonpost.fr/france/article/la-justification-de-laurent-nunez-pour-l-autorisation-des-grenades-assourdissantes-le-17-octobre_340696.html",
-     "published_at": "2026-10-16T09:07:35+00:00",
-     "snippet": "Le ministre de l’Intérieur a justifié ce choix sur France 2 ce vendredi matin, alors que de nombreux lycéens devraient être présents dans les cortèges."
-    },
-    {
-     "id": "eca2f883779f",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Mouvement du 17 octobre : \"Tous les types d’armes intermédiaires pourront être utilisés\", Laurent Nuñez promet une riposte très ferme",
-     "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
-     "published_at": "2026-10-16T07:57:55+00:00",
-     "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
-    }
-   ]
-  },
   {
    "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
    "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
@@ -207,7 +75,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.98,
+   "score": 15.93,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -262,6 +130,138 @@
      "url": "https://video.lefigaro.fr/figaro/elections/presidentielles/presidentielle-2027-sarah-knafo-assume-ses-divergences-sur-les-questions-regaliennes-avec-david-lisnard-20261016",
      "published_at": "2026-10-16T09:59:00+00:00",
      "snippet": "Invitée de Sud Radio ce vendredi, l'eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d'autre ne représente» la ligne de son parti. Si elle assure se retrouver sur «de très nombreux points» en économie avec le candidat Nouvelle Énergie, Dav"
+    }
+   ]
+  },
+  {
+   "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
+   "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
+   "points": [
+    {
+     "text": "Le syndicat Alliance annonce une plainte contre l'État pour « mise en danger de la vie d'autrui », dénonçant des « instructions contradictoires » sur l'usage de certaines armes en manifestation, selon franceinfo.",
+     "sources": [
+      "6c224d9b6993"
+     ]
+    },
+    {
+     "text": "Sur franceinfo, Laurent Nuñez confirme : « Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement ». Il juge « hors de question de bannir un type d'armes intermédiaires » et dit ne rien avoir « à redire sur les instructions » qu'il passe.",
+     "sources": [
+      "6c224d9b6993"
+     ]
+    },
+    {
+     "text": "Sur France 2, il rappelle : « J'ai suspendu l'usage de cette grenade assourdissante uniquement pour le mouvement lycéen », après qu'un adolescent de 15 ans a eu la main arrachée à Lens, selon Le HuffPost. Demain, « ce sont d'autres types d'actions », dit-il.",
+     "sources": [
+      "d7913e3dc916"
+     ]
+    },
+    {
+     "text": "Ses instructions : « les policiers et les gendarmes doivent pouvoir utiliser l'ensemble des armes intermédiaires à leur disposition ». En cas de violences urbaines graves, « ce type d'armement peut être utilisé », selon Le HuffPost.",
+     "sources": [
+      "d7913e3dc916",
+      "eca2f883779f"
+     ]
+    },
+    {
+     "text": "Pour la manifestation du 17 octobre, le ministre s'attend à une mobilisation « assez importante » : environ 250 appels à des actions et 80 cortèges, dont un peu plus d'une quarantaine déclarés, selon franceinfo. Il redoute des dégradations de l'ultra-gauche en fin de cortège.",
+     "sources": [
+      "6c224d9b6993",
+      "6e8769275a68"
+     ]
+    },
+    {
+     "text": "Les juristes sont sceptiques sur la plainte : « Ce n'est que de la communication politique », estime un haut magistrat, selon Le Figaro. Selon un professeur de droit pénal, il faudra prouver que l'ordre donné « est lui-même une violation d'une loi ou d'un texte réglementaire ».",
+     "sources": [
+      "a99a75404bde"
+     ]
+    },
+    {
+     "text": "Alliance devra aussi viser nommément des personnes : préfets, directeur de la police nationale ou représentants de la hiérarchie, selon Le Figaro.",
+     "sources": [
+      "a99a75404bde"
+     ]
+    },
+    {
+     "text": "Côté gauche, L'Humanité critique un ministre qui « s'en prend désormais aux lycéens, traités comme de dangereux délinquants », citant « 8 000 gardes à vue » et plusieurs mutilations. Le journal cite aussi un ancien patron de la police pour qui il est un homme affable : « Il ne hurle jamais ».",
+     "sources": [
+      "078ce466a30d"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/kvheZJ93hcYM4DtBV9RZjnDM3cQ/0x23:1177x686/432x243/filters:format(jpg)/2026/10/16/6ad1d4e0ed666490338625.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "6c224d9b6993",
+    "focus_x": 0.52,
+    "focus_y": 0.23925925925925925
+   },
+   "id": 132,
+   "section": "institutions",
+   "reviewed_at": "2026-10-16T09:23:42+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 13.42,
+   "sources": [
+    {
+     "id": "078ce466a30d",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« Si on lui demande de taper sur des manifestants, il le fera sans états d’âme » : Laurent Nunez, la répression féroce derrière le « chic type »",
+     "url": "https://www.humanite.fr/politique/gilets-jaunes/si-on-lui-demande-de-taper-sur-des-manifestants-il-le-fera-sans-etats-dame-laurent-nunez-la-repression-feroce-derriere-le-chic-type",
+     "published_at": "2026-10-16T04:30:00+00:00",
+     "snippet": "Le ministre de l’Intérieur, déjà secrétaire d’État dans le même ministère lors de la très violente répression des gilets jaunes, s’en prend désormais aux lycéens, traités comme de dangereux délinquants. Le chiffre hallucinant de 8 000 gardes à vue a été atteint, sans compter plusieurs mutilations. Portrait d’une version bonhomme de la répression."
+    },
+    {
+     "id": "6c224d9b6993",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Plainte du syndicat Alliance contre l'Etat : \"Certaines consignes ont pu être passées, j'ai procédé fermement au rappel à l'ordre nécessaire\", indique Laurent Nuñez",
+     "url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T07:40:23+00:00",
+     "snippet": "Invité des \"4V\" ce vendredi 16 octobre, le ministre de l'Intérieur réagit aux \"cas cités\" par le syndicat de police Alliance, qui dénonce une \"mise en danger de la vie d'autrui\" et des \"instructions contradictoires\" sur l'utilisation de certaines armes en manifestation. \"Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement\", confirme Laurent Nuñez, estimant qu'iI est \"hors de question de bannir un type d'armes intermédiaires\" dans le rétablissement du maintien de l'ordre. \"Je n'ai rien à redire sur les instructions que je passe\", appuie-t-il."
+    },
+    {
+     "id": "6e8769275a68",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Manifestation du 17 octobre: Laurent Nuñez s'attend à une mobilisation importante et redoute des \"dégradations de l'ultragauche\"",
+     "url": "https://lcp.fr/actualites/manifestation-du-17-octobre-laurent-nunez-s-attend-a-une-mobilisation-importante-et",
+     "published_at": "2026-10-16T09:14:09+00:00",
+     "snippet": "Par Raphaël Marchal , le Vendredi 16 octobre 2026 à 08:57 Invité de France 2 ce vendredi 16 octobre, le ministre de l'Intérieur s'attend à \"250 actions et 80 rassemblements de voie publique\" sur le territoire dans le cadre de la mobilisation du 17 octobre. Laurent Nuñez a également indiqué qu'il craignait des débordements de \"l'ultragauche\". La place Beauvau s'attend à une mobilisation importante dans le cadre des manifestations du 17 octobre contre la vie chère. \"On a identifié environ 250 appels à des actions de voie publique et on s'attend environ à 80 cortèges, c'est-à-dire des manifestati"
+    },
+    {
+     "id": "a99a75404bde",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Plainte de policiers «contre l’État» : la difficile preuve de la mise en danger d’autrui",
+     "url": "https://www.lefigaro.fr/actualite-france/plainte-de-policiers-contre-l-etat-la-difficile-preuve-de-la-mise-en-danger-d-autrui-20261015",
+     "published_at": "2026-10-15T16:20:00+00:00",
+     "snippet": "DÉCRYPTAGE - Pour que la procédure puisse aboutir, les avocats du syndicat Alliance devront également viser nommément des personnes : préfets, directeur de la police nationale ou encore représentants de la hiérarchie."
+    },
+    {
+     "id": "d7913e3dc916",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "La justification de Laurent Nuñez pour l’autorisation des grenades assourdissantes le 17 octobre",
+     "url": "https://www.huffingtonpost.fr/france/article/la-justification-de-laurent-nunez-pour-l-autorisation-des-grenades-assourdissantes-le-17-octobre_340696.html",
+     "published_at": "2026-10-16T09:07:35+00:00",
+     "snippet": "Le ministre de l’Intérieur a justifié ce choix sur France 2 ce vendredi matin, alors que de nombreux lycéens devraient être présents dans les cortèges."
+    },
+    {
+     "id": "eca2f883779f",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Mouvement du 17 octobre : \"Tous les types d’armes intermédiaires pourront être utilisés\", Laurent Nuñez promet une riposte très ferme",
+     "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
+     "published_at": "2026-10-16T07:57:55+00:00",
+     "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
     }
    ]
   },
@@ -339,7 +339,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.28,
+   "score": 11.24,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -448,7 +448,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.27,
+   "score": 11.24,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -562,7 +562,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.75,
+   "score": 6.74,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.99,
+   "score": 8.96,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -774,7 +774,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.51,
+   "score": 8.5,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -939,7 +939,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.51,
+   "score": 6.5,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -1072,7 +1072,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.96,
+   "score": 6.95,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1318,7 +1318,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.81,
+   "score": 8.8,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1804,7 +1804,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.88,
+   "score": 5.87,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1924,7 +1924,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.23,
+   "score": 5.22,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2218,7 +2218,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.95,
+   "score": 4.94,
    "sources": [
     {
      "id": "133db027e449",
@@ -2638,7 +2638,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.83,
+   "score": 2.82,
    "sources": [
     {
      "id": "57c07028e804",

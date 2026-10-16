@@ -240,3 +240,6 @@ details.srcs summary { color: var(--terracotta); }
 
 /* pastilles de sources : pas de soulignement, symbole « nouvelle fenêtre » */
 .chip { text-decoration: none; }
+
+.chip { display: inline-flex; align-items: center; gap: 4px; }
+.chip-icon { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; }
