@@ -237,3 +237,6 @@ details.srcs li { margin-bottom: 10px; }
 .hint { margin: -4px 0 12px; font-size: 14px; color: var(--muted); }
 .src-link { color: var(--terracotta); text-decoration: underline; text-underline-offset: 3px; font-weight: 700; }
 details.srcs summary { color: var(--terracotta); }
+
+/* pastilles de sources : pas de soulignement, symbole « nouvelle fenêtre » */
+.chip { text-decoration: none; }

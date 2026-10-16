@@ -48,7 +48,7 @@ function safeUrl(u) {
 function sourceChip(id, byId) {
   const s = byId[id];
   if (!s) return null;
-  return el("a", { class: "chip", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", title: "Lire l'article : " + s.title, "aria-label": `Lire l'article de ${s.name} (nouvel onglet)`, text: s.name + " ↗" });
+  return el("a", { class: "chip", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", title: "Lire l'article : " + s.title, "aria-label": `Lire l'article de ${s.name} (nouvel onglet)`, text: s.name + " ⧉" });
 }
 
 const SECTION_LABEL = { institutions: "Actualités", presidentielle: "Présidentielle" };
@@ -84,7 +84,7 @@ function renderPost(post, index) {
   const more = el("div", { class: "more", id: "more-" + post.id, hidden: "" });
   if (post.points?.length) {
     more.append(el("h3", { text: "L'essentiel" }));
-    more.append(el("p", { class: "hint", text: "Touche le nom d'un média (↗) pour lire l'article d'origine." }));
+    more.append(el("p", { class: "hint", text: "Touche le nom d'un média (⧉) pour lire l'article d'origine." }));
     const ul = el("ul", { class: "points" });
     for (const p of post.points) {
       const li = el("li", { text: p.text });
@@ -109,12 +109,12 @@ function renderPost(post, index) {
   }
 
   if (post.sources?.length) {
-    const details = el("details", { class: "srcs" }, el("summary", { text: `Lire les ${post.sources.length} sources (liens vers les articles) ↗` }));
+    const details = el("details", { class: "srcs" }, el("summary", { text: `Lire les ${post.sources.length} sources (liens vers les articles) ⧉` }));
     const ul = el("ul");
     for (const s of post.sources) {
       const li = el("li");
       li.append(
-        el("a", { class: "src-link", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", text: s.title + " ↗" }),
+        el("a", { class: "src-link", href: safeUrl(s.url), target: "_blank", rel: "noopener noreferrer", text: s.title + " ⧉" }),
         el("div", { class: "src-kind", text: `${s.name} · ${KIND_LABEL[s.kind] || ""}` }),
         s.snippet ? el("blockquote", { class: "src-snip", text: s.snippet }) : null,
       );
