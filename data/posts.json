@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T22:51:00+00:00",
+ "generated_at": "2026-10-16T08:01:48+00:00",
  "posts": [
   {
    "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
@@ -99,7 +99,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.53,
+   "score": 7.76,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -154,6 +154,244 @@
      "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
      "published_at": "2026-10-13T14:06:47+00:00",
      "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
+    }
+   ]
+  },
+  {
+   "headline": "Agriculteurs : Lecornu annonce un plan de relance de 500 à 700 millions d'euros",
+   "chapo": "Jeudi 15 octobre, après une réunion à Matignon, le Premier ministre a annoncé une enveloppe « entre 500 et 700 millions d'euros » pour 2027. Elle s'ajoute au 1,2 milliard déjà débloqué en urgence pour un secteur frappé par la sécheresse. Le gouvernement redoute de nouvelles manifestations dès novembre.",
+   "points": [
+    {
+     "text": "Le plan de relance agricole 2027 sera financé par une enveloppe comprise « entre 500 et 700 millions d'euros ». Le montant final dépendra des « concertations » et des « discussions parlementaires », le budget 2027 étant examiné à l'Assemblée, selon 20 Minutes.",
+     "sources": [
+      "0cf6eabf0088",
+      "44d6b6847991"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu précise que c'est « une somme indicative » et qu'« on doit terminer à 5 % de déficit à la fin ». Si elle devait être plus élevée, « il faudrait le gager par des recettes ou des économies ailleurs », selon Europe 1.",
+     "sources": [
+      "6bda801c80a5"
+     ]
+    },
+    {
+     "text": "Le plan d'urgence de 1,2 milliard d'euros, déjà débloqué, a été financé « essentiellement par des redéploiements de crédits sur des crédits de 2026 », selon Europe 1. Le Monde note que d'autres secteurs ont dû faire des économies pour aider l'agriculture.",
+     "sources": [
+      "6bda801c80a5",
+      "44d6b6847991"
+     ]
+    },
+    {
+     "text": "Le plan de relance, lui, repose sur « des crédits qui sont déjà dans la copie initiale » du budget 2027. Les nouveautés seront ajoutées « par amendement », selon Lecornu, cité par Europe 1 ; la ministre de l'Agriculture Annie Genevard parle d'amendements du gouvernement, selon Le Monde.",
+     "sources": [
+      "6bda801c80a5",
+      "44d6b6847991"
+     ]
+    },
+    {
+     "text": "Le contexte : sécheresse précoce et intense, canicules à répétition, hausse du prix des carburants. Selon Matignon, des chutes de production ont touché 90 départements sur 101, sans niveau de difficulté équivalent depuis trente ans, selon 20 Minutes. La FNSEA alerte sur une « détresse très avancée dans les fermes ».",
+     "sources": [
+      "0cf6eabf0088"
+     ]
+    },
+    {
+     "text": "Le gouvernement craint de nouvelles manifestations : « Novembre, ça va commencer et, décembre, ça va repartir », estime un proche du Premier ministre, qui ajoute : « ça va péter très fort ». Lecornu juge que « l'agriculture française ne peut pas attendre l'élection présidentielle », selon Le Parisien.",
+     "sources": [
+      "f4d2a08da512"
+     ]
+    },
+    {
+     "text": "Une source de l'exécutif évoque « 20 000 à 30 000 exploitations » qui se demandent si elles ont « encore un avenir l'année prochaine », selon Le Monde. Les filières surveillées de près : viticulture, maraîchage et grandes cultures.",
+     "sources": [
+      "44d6b6847991"
+     ]
+    },
+    {
+     "text": "Annie Genevard prévoit que « l'été prochain peut être difficile », selon BFMTV.",
+     "sources": [
+      "16b65d33b1f2"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/VTfnK7yLRlyRQpLWnasCbik/1200x768_le-premier-ministre-francais-sebastien-lecornu-arrive-pour-la-session-hebdomadaire-des-questions-au-gouvernement-a-l-assemblee-nationale-francaise-a-paris-le-13-octobre-2026-accorsini-jeanne-qag-0019-credit-jeanne-accorsini-sipa-2610132333",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4254623-20261015-plan-relance-agricole-entre-500-700-millions-euros-debloques-gouvernement-annonce-sebastien-lecornu?at_medium=display&at_campaign=149",
+    "article_id": "0cf6eabf0088",
+    "focus_x": 0.49333333333333335,
+    "focus_y": 0.11083984375
+   },
+   "id": 129,
+   "section": "institutions",
+   "reviewed_at": "2026-10-15T13:46:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 8.52,
+   "sources": [
+    {
+     "id": "0cf6eabf0088",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Plan de relance agricole : Entre 500 et 700 millions d’euros débloqués par le gouvernement, annonce Sébastien Lecornu",
+     "url": "https://www.20minutes.fr/politique/4254623-20261015-plan-relance-agricole-entre-500-700-millions-euros-debloques-gouvernement-annonce-sebastien-lecornu?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-15T12:14:28+00:00",
+     "snippet": "Le Premier ministre a annoncé une enveloppe de 500 à 700 millions d’euros pour soutenir le plan de relance agricole en 2027. Cette aide fait suite au déblocage de 1,2 milliard d’euros d’urgence"
+    },
+    {
+     "id": "16b65d33b1f2",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Crise agricole: \"L'été prochain peut être difficile\", prévoit Annie Genevard, ministre de l'Agriculture",
+     "url": "https://www.bfmtv.com/politique/video-crise-agricole-l-ete-prochain-peut-etre-difficile-prevoit-annie-genevard-ministre-de-l-agriculture_VN-202610150494.html",
+     "published_at": "2026-10-15T11:28:48+00:00",
+     "snippet": "Le Premier ministre a présidé ce jeudi une réunion sur le plan de relance agricole en présence des ministres Annie Genevard, Monique Barbut et Serge Papin."
+    },
+    {
+     "id": "44d6b6847991",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html",
+     "published_at": "2026-10-15T12:02:53+00:00",
+     "snippet": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants."
+    },
+    {
+     "id": "6bda801c80a5",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe «entre 500 et 700 millions d'euros»",
+     "url": "https://www.europe1.fr/economie/plan-de-relance-agricole-sebastien-lecornu-annonce-une-enveloppe-entre-500-et-700-millions-deuros-1151111?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T11:26:38+00:00",
+     "snippet": "Ce jeudi 15 octobre, Annie Genevard, ministre de l'Agriculture, était à Matignon, en compagnie du Premier ministre, pour définir le plan de relance à destination des agriculteurs. Sébastien Lecornu a annoncé une enveloppe \"entre 500 et 700 millions d'euros\". Sébastien Lecornu a annoncé jeudi 15 octobre qu'une enveloppe comprise \"entre 500 et 700 millions d'euros\" allait être débloquée pour le plan de relance agricole pour 2027, à l'issue d'une réunion de ministres à Matignon. Le montant final dépendra des \"concertations\" entreprises avec les acteurs mais aussi des \"discussions parlementaires\","
+    },
+    {
+     "id": "f4d2a08da512",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Ça va péter très fort » : les agriculteurs, l’autre crise sociale qu’anticipe le gouvernement",
+     "url": "https://www.leparisien.fr/politique/ca-va-peter-tres-fort-les-agriculteurs-lautre-crise-sociale-quanticipe-le-gouvernement-15-10-2026-ABOEP3DQYNG77DRS3YWPGDNR4U.php",
+     "published_at": "2026-10-15T06:05:34+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Violences dans le périscolaire : le Sénat propose 25 mesures",
+   "chapo": "Jeudi 15 octobre, la commission d'enquête du Sénat a conclu que « la France ne protège pas assez ses enfants ». Son rapport, adopté à l'unanimité, propose 25 mesures, dont une sanction pénale pour non-signalement. Une partie sera portée par amendements au projet de loi sur la protection de l'enfance, attendu au Sénat le 27 octobre.",
+   "points": [
+    {
+     "text": "La rapporteure Agnès Evren (LR) dresse un constat « sans détour » : « La France ne protège pas assez ses enfants ». Le rapport décrit un périscolaire « fragile à chaque étape de la chaîne : recrutement, formation, contrôle, signalement », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Des chiffres : 235 enquêtes pénales ouvertes à Paris, et des signalements dans au moins 73 départements. Pour la rapporteure, « Paris est un cas exceptionnel par l'ampleur des enquêtes pénales, mais n'est pas une exception », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Les défaillances viennent, selon la commission, du manque de formation des animateurs, de l'absence de contrôle réel du passé judiciaire des recrues et de « la dilution des responsabilités » entre l'école, le périscolaire et la justice, selon ici.",
+     "sources": [
+      "b3a6604bd28e"
+     ]
+    },
+    {
+     "text": "Pour Agnès Evren, l'origine est la réforme des rythmes scolaires de 2013. L'offre d'accueil est passée de 840 000 à 2,6 millions de places entre 2013 et 2016, « sans cadre, sans effectifs, sans moyens suffisants », selon Public Sénat.",
+     "sources": [
+      "2cfacf2a9465"
+     ]
+    },
+    {
+     "text": "Mesure phare : une sanction pénale en cas de non-signalement des incidents graves au préfet, pour « briser la loi du silence ». Le rapport veut aussi protéger les lanceurs d'alerte, qui « n'osent pas parler par peur de représailles », selon ici.",
+     "sources": [
+      "b3a6604bd28e",
+      "4afdf00df555"
+     ]
+    },
+    {
+     "text": "Le rapport propose aussi un fichier commun des suspensions et interdictions d'agents (Éducation nationale, accueil collectif de mineurs, sport), et d'allonger de quatre à huit mois la suspension administrative d'un agent, selon Le Figaro.",
+     "sources": [
+      "4afdf00df555"
+     ]
+    },
+    {
+     "text": "Autres priorités : la transparence pour les parents (un organigramme « complet et à jour »), la formation, le contrôle d'honorabilité systématique et des équipes d'encadrement placées sous la direction du directeur d'école, selon ici.",
+     "sources": [
+      "b3a6604bd28e"
+     ]
+    },
+    {
+     "text": "Le rapport a été avancé pour s'accrocher au projet de loi sur la protection de l'enfance. « Nous n'avons pas le choix : si l'on veut que ces recommandations ne soient pas des vœux pieux, mais soient traduites concrètement dans la loi, il faut profiter de cette ouverture », a justifié Agnès Evren, selon Le Monde. Le texte arrive au Sénat le 27 octobre.",
+     "sources": [
+      "d181a933f9b8",
+      "4afdf00df555"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.youtube.com/vi/A78fWg4Er-s/maxresdefault.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
+    "article_id": "2cfacf2a9465",
+    "focus_x": 0.5266666666666666,
+    "focus_y": 0.2688888888888889
+   },
+   "id": 130,
+   "section": "institutions",
+   "reviewed_at": "2026-10-15T22:51:00+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 8.68,
+   "sources": [
+    {
+     "id": "2cfacf2a9465",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
+     "url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
+     "published_at": "2026-10-15T14:39:36+00:00",
+     "snippet": "Après six mois de travaux, la commission d’enquête sénatoriale a adopté à l'unanimité 25 recommandations pour combler les failles du périscolaire. Sa rapporteure, Agnès Evren (LR), veut en faire passer une partie dès le 27 octobre, par voie d'amendements au projet de loi sur la protection de l'enfance."
+    },
+    {
+     "id": "4afdf00df555",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Violences sexuelles dans le périscolaire : les propositions du Sénat pour mettre fin aux « défaillances collectives »",
+     "url": "https://www.lefigaro.fr/actualite-france/violences-sexuelles-dans-le-periscolaire-les-propositions-du-senat-pour-mettre-fin-aux-defaillances-collectives-20261015",
+     "published_at": "2026-10-15T18:10:00+00:00",
+     "snippet": "DÉCRYPTAGE - Sanction pénale pour non-dénonciation, renforcement des contrôles des antécédents des agents, animateurs placés sous le contrôle des directeurs d’école… Après trois mois et demi de travail, la sénatrice LR Agnès Evren a présenté son rapport."
+    },
+    {
+     "id": "b3a6604bd28e",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Violences dans le périscolaire : les 25 recommandation du Sénat pour lutter contre les \"dysfonctionnements systémiques\"",
+     "url": "https://www.ici.fr/ile-de-france/paris-75/paris/violences-dans-le-periscolaire-les-25-recommandation-du-senat-pour-lutter-contre-les-dysfonctionnements-systemiques-5807838?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-15T16:59:13+00:00",
+     "snippet": "Après quatre mois d'enquête sur les violences dans le périscolaire, le Sénat a présenté ce jeudi son rapport, voté à l'unanimité, et présenté 25 recommandations. Certaines vont faire l'objet d'amendements dans le cadre du projet de loi sur la protection de l'enfance."
+    },
+    {
+     "id": "d181a933f9b8",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Violences dans le périscolaire : « La France ne protège pas assez ses enfants », conclut la commission d’enquête sénatoriale",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html",
+     "published_at": "2026-10-15T16:37:20+00:00",
+     "snippet": "Le rapport rendu jeudi 15 octobre préconise 25 mesures pour sortir du « déni collectif » et répondre aux dysfonctionnements systémiques révélés par les affaires à Paris. Parmi ces recommandations, la création d’une « sanction pénale pour défaut de signalement » et d’un diplôme national d’Etat spécifique."
     }
    ]
   },
@@ -239,7 +477,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.44,
+   "score": 10.14,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -303,244 +541,6 @@
      "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
      "published_at": "2026-10-14T18:54:06+00:00",
      "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
-    }
-   ]
-  },
-  {
-   "headline": "Violences dans le périscolaire : le Sénat propose 25 mesures",
-   "chapo": "Jeudi 15 octobre, la commission d'enquête du Sénat a conclu que « la France ne protège pas assez ses enfants ». Son rapport, adopté à l'unanimité, propose 25 mesures, dont une sanction pénale pour non-signalement. Une partie sera portée par amendements au projet de loi sur la protection de l'enfance, attendu au Sénat le 27 octobre.",
-   "points": [
-    {
-     "text": "La rapporteure Agnès Evren (LR) dresse un constat « sans détour » : « La France ne protège pas assez ses enfants ». Le rapport décrit un périscolaire « fragile à chaque étape de la chaîne : recrutement, formation, contrôle, signalement », selon Public Sénat.",
-     "sources": [
-      "2cfacf2a9465"
-     ]
-    },
-    {
-     "text": "Des chiffres : 235 enquêtes pénales ouvertes à Paris, et des signalements dans au moins 73 départements. Pour la rapporteure, « Paris est un cas exceptionnel par l'ampleur des enquêtes pénales, mais n'est pas une exception », selon Public Sénat.",
-     "sources": [
-      "2cfacf2a9465"
-     ]
-    },
-    {
-     "text": "Les défaillances viennent, selon la commission, du manque de formation des animateurs, de l'absence de contrôle réel du passé judiciaire des recrues et de « la dilution des responsabilités » entre l'école, le périscolaire et la justice, selon ici.",
-     "sources": [
-      "b3a6604bd28e"
-     ]
-    },
-    {
-     "text": "Pour Agnès Evren, l'origine est la réforme des rythmes scolaires de 2013. L'offre d'accueil est passée de 840 000 à 2,6 millions de places entre 2013 et 2016, « sans cadre, sans effectifs, sans moyens suffisants », selon Public Sénat.",
-     "sources": [
-      "2cfacf2a9465"
-     ]
-    },
-    {
-     "text": "Mesure phare : une sanction pénale en cas de non-signalement des incidents graves au préfet, pour « briser la loi du silence ». Le rapport veut aussi protéger les lanceurs d'alerte, qui « n'osent pas parler par peur de représailles », selon ici.",
-     "sources": [
-      "b3a6604bd28e",
-      "4afdf00df555"
-     ]
-    },
-    {
-     "text": "Le rapport propose aussi un fichier commun des suspensions et interdictions d'agents (Éducation nationale, accueil collectif de mineurs, sport), et d'allonger de quatre à huit mois la suspension administrative d'un agent, selon Le Figaro.",
-     "sources": [
-      "4afdf00df555"
-     ]
-    },
-    {
-     "text": "Autres priorités : la transparence pour les parents (un organigramme « complet et à jour »), la formation, le contrôle d'honorabilité systématique et des équipes d'encadrement placées sous la direction du directeur d'école, selon ici.",
-     "sources": [
-      "b3a6604bd28e"
-     ]
-    },
-    {
-     "text": "Le rapport a été avancé pour s'accrocher au projet de loi sur la protection de l'enfance. « Nous n'avons pas le choix : si l'on veut que ces recommandations ne soient pas des vœux pieux, mais soient traduites concrètement dans la loi, il faut profiter de cette ouverture », a justifié Agnès Evren, selon Le Monde. Le texte arrive au Sénat le 27 octobre.",
-     "sources": [
-      "d181a933f9b8",
-      "4afdf00df555"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.youtube.com/vi/A78fWg4Er-s/maxresdefault.jpg",
-    "source": "Public Sénat",
-    "article_url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
-    "article_id": "2cfacf2a9465",
-    "focus_x": 0.5266666666666666,
-    "focus_y": 0.2688888888888889
-   },
-   "id": 130,
-   "section": "institutions",
-   "reviewed_at": "2026-10-15T22:51:00+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 12.0,
-   "sources": [
-    {
-     "id": "2cfacf2a9465",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "« La France ne protège pas assez ses enfants » : un rapport du Sénat dénonce des défaillances « systémiques » dans le périscolaire",
-     "url": "https://www.publicsenat.fr/actualites/parlementaire/la-france-ne-protege-pas-assez-ses-enfants-un-rapport-du-senat-denonce-des-defaillances-systemiques-dans-le-periscolaire",
-     "published_at": "2026-10-15T14:39:36+00:00",
-     "snippet": "Après six mois de travaux, la commission d’enquête sénatoriale a adopté à l'unanimité 25 recommandations pour combler les failles du périscolaire. Sa rapporteure, Agnès Evren (LR), veut en faire passer une partie dès le 27 octobre, par voie d'amendements au projet de loi sur la protection de l'enfance."
-    },
-    {
-     "id": "4afdf00df555",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Violences sexuelles dans le périscolaire : les propositions du Sénat pour mettre fin aux « défaillances collectives »",
-     "url": "https://www.lefigaro.fr/actualite-france/violences-sexuelles-dans-le-periscolaire-les-propositions-du-senat-pour-mettre-fin-aux-defaillances-collectives-20261015",
-     "published_at": "2026-10-15T18:10:00+00:00",
-     "snippet": "DÉCRYPTAGE - Sanction pénale pour non-dénonciation, renforcement des contrôles des antécédents des agents, animateurs placés sous le contrôle des directeurs d’école… Après trois mois et demi de travail, la sénatrice LR Agnès Evren a présenté son rapport."
-    },
-    {
-     "id": "b3a6604bd28e",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Violences dans le périscolaire : les 25 recommandation du Sénat pour lutter contre les \"dysfonctionnements systémiques\"",
-     "url": "https://www.ici.fr/ile-de-france/paris-75/paris/violences-dans-le-periscolaire-les-25-recommandation-du-senat-pour-lutter-contre-les-dysfonctionnements-systemiques-5807838?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-15T16:59:13+00:00",
-     "snippet": "Après quatre mois d'enquête sur les violences dans le périscolaire, le Sénat a présenté ce jeudi son rapport, voté à l'unanimité, et présenté 25 recommandations. Certaines vont faire l'objet d'amendements dans le cadre du projet de loi sur la protection de l'enfance."
-    },
-    {
-     "id": "d181a933f9b8",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Violences dans le périscolaire : « La France ne protège pas assez ses enfants », conclut la commission d’enquête sénatoriale",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html",
-     "published_at": "2026-10-15T16:37:20+00:00",
-     "snippet": "Le rapport rendu jeudi 15 octobre préconise 25 mesures pour sortir du « déni collectif » et répondre aux dysfonctionnements systémiques révélés par les affaires à Paris. Parmi ces recommandations, la création d’une « sanction pénale pour défaut de signalement » et d’un diplôme national d’Etat spécifique."
-    }
-   ]
-  },
-  {
-   "headline": "Agriculteurs : Lecornu annonce un plan de relance de 500 à 700 millions d'euros",
-   "chapo": "Jeudi 15 octobre, après une réunion à Matignon, le Premier ministre a annoncé une enveloppe « entre 500 et 700 millions d'euros » pour 2027. Elle s'ajoute au 1,2 milliard déjà débloqué en urgence pour un secteur frappé par la sécheresse. Le gouvernement redoute de nouvelles manifestations dès novembre.",
-   "points": [
-    {
-     "text": "Le plan de relance agricole 2027 sera financé par une enveloppe comprise « entre 500 et 700 millions d'euros ». Le montant final dépendra des « concertations » et des « discussions parlementaires », le budget 2027 étant examiné à l'Assemblée, selon 20 Minutes.",
-     "sources": [
-      "0cf6eabf0088",
-      "44d6b6847991"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu précise que c'est « une somme indicative » et qu'« on doit terminer à 5 % de déficit à la fin ». Si elle devait être plus élevée, « il faudrait le gager par des recettes ou des économies ailleurs », selon Europe 1.",
-     "sources": [
-      "6bda801c80a5"
-     ]
-    },
-    {
-     "text": "Le plan d'urgence de 1,2 milliard d'euros, déjà débloqué, a été financé « essentiellement par des redéploiements de crédits sur des crédits de 2026 », selon Europe 1. Le Monde note que d'autres secteurs ont dû faire des économies pour aider l'agriculture.",
-     "sources": [
-      "6bda801c80a5",
-      "44d6b6847991"
-     ]
-    },
-    {
-     "text": "Le plan de relance, lui, repose sur « des crédits qui sont déjà dans la copie initiale » du budget 2027. Les nouveautés seront ajoutées « par amendement », selon Lecornu, cité par Europe 1 ; la ministre de l'Agriculture Annie Genevard parle d'amendements du gouvernement, selon Le Monde.",
-     "sources": [
-      "6bda801c80a5",
-      "44d6b6847991"
-     ]
-    },
-    {
-     "text": "Le contexte : sécheresse précoce et intense, canicules à répétition, hausse du prix des carburants. Selon Matignon, des chutes de production ont touché 90 départements sur 101, sans niveau de difficulté équivalent depuis trente ans, selon 20 Minutes. La FNSEA alerte sur une « détresse très avancée dans les fermes ».",
-     "sources": [
-      "0cf6eabf0088"
-     ]
-    },
-    {
-     "text": "Le gouvernement craint de nouvelles manifestations : « Novembre, ça va commencer et, décembre, ça va repartir », estime un proche du Premier ministre, qui ajoute : « ça va péter très fort ». Lecornu juge que « l'agriculture française ne peut pas attendre l'élection présidentielle », selon Le Parisien.",
-     "sources": [
-      "f4d2a08da512"
-     ]
-    },
-    {
-     "text": "Une source de l'exécutif évoque « 20 000 à 30 000 exploitations » qui se demandent si elles ont « encore un avenir l'année prochaine », selon Le Monde. Les filières surveillées de près : viticulture, maraîchage et grandes cultures.",
-     "sources": [
-      "44d6b6847991"
-     ]
-    },
-    {
-     "text": "Annie Genevard prévoit que « l'été prochain peut être difficile », selon BFMTV.",
-     "sources": [
-      "16b65d33b1f2"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/VTfnK7yLRlyRQpLWnasCbik/1200x768_le-premier-ministre-francais-sebastien-lecornu-arrive-pour-la-session-hebdomadaire-des-questions-au-gouvernement-a-l-assemblee-nationale-francaise-a-paris-le-13-octobre-2026-accorsini-jeanne-qag-0019-credit-jeanne-accorsini-sipa-2610132333",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4254623-20261015-plan-relance-agricole-entre-500-700-millions-euros-debloques-gouvernement-annonce-sebastien-lecornu?at_medium=display&at_campaign=149",
-    "article_id": "0cf6eabf0088",
-    "focus_x": 0.49333333333333335,
-    "focus_y": 0.11083984375
-   },
-   "id": 129,
-   "section": "institutions",
-   "reviewed_at": "2026-10-15T13:46:33+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 10.88,
-   "sources": [
-    {
-     "id": "0cf6eabf0088",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Plan de relance agricole : Entre 500 et 700 millions d’euros débloqués par le gouvernement, annonce Sébastien Lecornu",
-     "url": "https://www.20minutes.fr/politique/4254623-20261015-plan-relance-agricole-entre-500-700-millions-euros-debloques-gouvernement-annonce-sebastien-lecornu?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-15T12:14:28+00:00",
-     "snippet": "Le Premier ministre a annoncé une enveloppe de 500 à 700 millions d’euros pour soutenir le plan de relance agricole en 2027. Cette aide fait suite au déblocage de 1,2 milliard d’euros d’urgence"
-    },
-    {
-     "id": "16b65d33b1f2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Crise agricole: \"L'été prochain peut être difficile\", prévoit Annie Genevard, ministre de l'Agriculture",
-     "url": "https://www.bfmtv.com/politique/video-crise-agricole-l-ete-prochain-peut-etre-difficile-prevoit-annie-genevard-ministre-de-l-agriculture_VN-202610150494.html",
-     "published_at": "2026-10-15T11:28:48+00:00",
-     "snippet": "Le Premier ministre a présidé ce jeudi une réunion sur le plan de relance agricole en présence des ministres Annie Genevard, Monique Barbut et Serge Papin."
-    },
-    {
-     "id": "44d6b6847991",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html",
-     "published_at": "2026-10-15T12:02:53+00:00",
-     "snippet": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants."
-    },
-    {
-     "id": "6bda801c80a5",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe «entre 500 et 700 millions d'euros»",
-     "url": "https://www.europe1.fr/economie/plan-de-relance-agricole-sebastien-lecornu-annonce-une-enveloppe-entre-500-et-700-millions-deuros-1151111?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T11:26:38+00:00",
-     "snippet": "Ce jeudi 15 octobre, Annie Genevard, ministre de l'Agriculture, était à Matignon, en compagnie du Premier ministre, pour définir le plan de relance à destination des agriculteurs. Sébastien Lecornu a annoncé une enveloppe \"entre 500 et 700 millions d'euros\". Sébastien Lecornu a annoncé jeudi 15 octobre qu'une enveloppe comprise \"entre 500 et 700 millions d'euros\" allait être débloquée pour le plan de relance agricole pour 2027, à l'issue d'une réunion de ministres à Matignon. Le montant final dépendra des \"concertations\" entreprises avec les acteurs mais aussi des \"discussions parlementaires\","
-    },
-    {
-     "id": "f4d2a08da512",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Ça va péter très fort » : les agriculteurs, l’autre crise sociale qu’anticipe le gouvernement",
-     "url": "https://www.leparisien.fr/politique/ca-va-peter-tres-fort-les-agriculteurs-lautre-crise-sociale-quanticipe-le-gouvernement-15-10-2026-ABOEP3DQYNG77DRS3YWPGDNR4U.php",
-     "published_at": "2026-10-15T06:05:34+00:00",
-     "snippet": ""
     }
    ]
   },
@@ -610,7 +610,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.15,
+   "score": 5.82,
    "sources": [
     {
      "id": "556017869975",
@@ -741,7 +741,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.8,
+   "score": 10.11,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -940,7 +940,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.4,
+   "score": 8.13,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1096,7 +1096,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.91,
+   "score": 6.77,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1227,7 +1227,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.88,
+   "score": 6.75,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1347,7 +1347,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.01,
+   "score": 6.0,
    "sources": [
     {
      "id": "053ba007189f",
@@ -1507,7 +1507,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.41,
+   "score": 5.55,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1641,7 +1641,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.06,
+   "score": 5.45,
    "sources": [
     {
      "id": "133db027e449",
@@ -1789,7 +1789,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.19,
+   "score": 4.68,
    "sources": [
     {
      "id": "1def14c32411",
@@ -1933,7 +1933,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.33,
+   "score": 3.9,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -2061,7 +2061,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.46,
+   "score": 3.12,
    "sources": [
     {
      "id": "57c07028e804",
@@ -2184,7 +2184,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.58,
+   "score": 5.14,
    "sources": [
     {
      "id": "35b7691914c1",
@@ -2373,7 +2373,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.44,
+   "score": 4.07,
    "sources": [
     {
      "id": "0e3f34f1a9a2",
@@ -2545,7 +2545,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 3.7,
    "sources": [
     {
      "id": "1d1397c4821a",
@@ -2712,7 +2712,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.99,
+   "score": 3.67,
    "sources": [
     {
      "id": "0f4652b1b323",
