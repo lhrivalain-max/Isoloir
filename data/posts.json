@@ -1,115 +1,6 @@
 {
- "generated_at": "2026-10-16T17:22:57+00:00",
+ "generated_at": "2026-10-16T17:29:15+00:00",
  "posts": [
-  {
-   "headline": "Édouard Philippe veut faire évoluer les rythmes scolaires",
-   "chapo": "Jeudi 15 octobre, lors d'une réunion de campagne sur l'éducation, Édouard Philippe a proposé de concentrer les cours le matin, de libérer l'après-midi pour le sport et la culture et, peut-être, de raccourcir les vacances de la Toussaint et de Pâques. Il a aussi parlé de Parcoursup.",
-   "points": [
-    {
-     "text": "« Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues. Je pense que ce n'est pas optimal pour les enfants », a déclaré le candidat Horizons devant plus de 5 000 personnes en visioconférence, selon CNews.",
-     "sources": [
-      "6158835d0be6",
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Son idée : « réduire un petit peu le nombre d'heures d'apprentissage par jour » et à « concentrer les heures d'apprentissage le matin », pour avoir l'après-midi du temps pour le sport, des enseignements culturels ou des langues, selon franceinfo.",
-     "sources": [
-      "0ca56d810928"
-     ]
-    },
-    {
-     "text": "Il en tire une question : « Est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congé ou de vacances au moment de la Toussaint, au moment de Pâques ? » Il reconnaît que c'est « une question assez explosive », mais se dit « très partisan » de cette répartition, selon franceinfo.",
-     "sources": [
-      "0ca56d810928",
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Libération note que ces propositions arrivent « à la veille des vacances de la Toussaint » et « pourraient faire tousser ».",
-     "sources": [
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Le ministre de l'Éducation nationale Édouard Geffray s'est dit mercredi « plutôt favorable » à raccourcir les vacances « pour alléger les professeurs et les élèves », selon BFMTV.",
-     "sources": [
-      "dd29dd50f378"
-     ]
-    },
-    {
-     "text": "Sur Parcoursup, créé en 2018 quand il était Premier ministre et qui cristallise le mécontentement des lycéens mobilisés, il juge que l'orientation « devrait être largement améliorée », selon CNews. « Les professeurs ne sont pas les mieux placés pour aider à l'orientation », dit-il, sans y voir une critique des enseignants, selon franceinfo.",
-     "sources": [
-      "6158835d0be6",
-      "0ca56d810928"
-     ]
-    },
-    {
-     "text": "Édouard Philippe adresse une grande partie de ses messages à la jeunesse depuis le début de sa campagne : en juillet, il promettait que « chaque choix » de son gouvernement penserait à la jeunesse, selon CNews.",
-     "sources": [
-      "6158835d0be6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2np9m3-taille1200_6ad1d6d1cf835.jpg?itok=6tTaoXzX",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
-    "article_id": "6158835d0be6",
-    "focus_x": 0.47333333333333333,
-    "focus_y": 0.14277777777777778
-   },
-   "id": 133,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-16T15:58:18+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.33,
-   "sources": [
-    {
-     "id": "0ca56d810928",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-16T05:24:55+00:00",
-     "snippet": "Le candidat Horizons à la présidentielle s'est par ailleurs exprimé sur Parcoursup, plateforme mise en place quand il était Premier ministre, qui cristallise le mécontentement de lycéens mobilisés."
-    },
-    {
-     "id": "6158835d0be6",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
-     "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
-     "published_at": "2026-10-16T08:21:15+00:00",
-     "snippet": "Lors d’une réunion diffusée dans des milliers de foyers, Édouard Philippe a étayé certaines de ses mesures pour l’école. Le candidat Horizons à la présidentielle propose notamment de faire évoluer les rythmes scolaires. Dans une séquence hautement axée sur le budget et l’éducation, Édouard Philippe y va de ses propositions. Ce jeudi, le candidat Horizons à la présidentielle a organisé une nouvelle édition de ses réunions d’appartement. En communication devant plus de 5.000 personnes, le maire du Havre a plaidé pour une évolution des rythmes scolaires, basée sur des heures d’apprentissage davan"
-    },
-    {
-     "id": "c8948a92ee4a",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
-     "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
-     "published_at": "2026-10-15T20:55:30+00:00",
-     "snippet": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour."
-    },
-    {
-     "id": "dd29dd50f378",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray, ministre de l’Éducation nationale, se dit “plutôt favorable” à raccourcir les vacances “pour alléger les professeurs et les élèves”",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
-     "published_at": "2026-10-14T06:46:33+00:00",
-     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
-    }
-   ]
-  },
   {
    "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
    "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
@@ -184,7 +75,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.51,
+   "score": 13.46,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -239,6 +130,115 @@
      "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
      "published_at": "2026-10-16T07:57:55+00:00",
      "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
+    }
+   ]
+  },
+  {
+   "headline": "Édouard Philippe veut faire évoluer les rythmes scolaires",
+   "chapo": "Jeudi 15 octobre, lors d'une réunion de campagne sur l'éducation, Édouard Philippe a proposé de concentrer les cours le matin, de libérer l'après-midi pour le sport et la culture et, peut-être, de raccourcir les vacances de la Toussaint et de Pâques. Il a aussi parlé de Parcoursup.",
+   "points": [
+    {
+     "text": "« Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues. Je pense que ce n'est pas optimal pour les enfants », a déclaré le candidat Horizons devant plus de 5 000 personnes en visioconférence, selon CNews.",
+     "sources": [
+      "6158835d0be6",
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Son idée : « réduire un petit peu le nombre d'heures d'apprentissage par jour » et à « concentrer les heures d'apprentissage le matin », pour avoir l'après-midi du temps pour le sport, des enseignements culturels ou des langues, selon franceinfo.",
+     "sources": [
+      "0ca56d810928"
+     ]
+    },
+    {
+     "text": "Il en tire une question : « Est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congé ou de vacances au moment de la Toussaint, au moment de Pâques ? » Il reconnaît que c'est « une question assez explosive », mais se dit « très partisan » de cette répartition, selon franceinfo.",
+     "sources": [
+      "0ca56d810928",
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Libération note que ces propositions arrivent « à la veille des vacances de la Toussaint » et « pourraient faire tousser ».",
+     "sources": [
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Éducation nationale Édouard Geffray s'est dit mercredi « plutôt favorable » à raccourcir les vacances « pour alléger les professeurs et les élèves », selon BFMTV.",
+     "sources": [
+      "dd29dd50f378"
+     ]
+    },
+    {
+     "text": "Sur Parcoursup, créé en 2018 quand il était Premier ministre et qui cristallise le mécontentement des lycéens mobilisés, il juge que l'orientation « devrait être largement améliorée », selon CNews. « Les professeurs ne sont pas les mieux placés pour aider à l'orientation », dit-il, sans y voir une critique des enseignants, selon franceinfo.",
+     "sources": [
+      "6158835d0be6",
+      "0ca56d810928"
+     ]
+    },
+    {
+     "text": "Édouard Philippe adresse une grande partie de ses messages à la jeunesse depuis le début de sa campagne : en juillet, il promettait que « chaque choix » de son gouvernement penserait à la jeunesse, selon CNews.",
+     "sources": [
+      "6158835d0be6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2np9m3-taille1200_6ad1d6d1cf835.jpg?itok=6tTaoXzX",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+    "article_id": "6158835d0be6",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.14277777777777778
+   },
+   "id": 133,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-16T15:58:18+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.29,
+   "sources": [
+    {
+     "id": "0ca56d810928",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T05:24:55+00:00",
+     "snippet": "Le candidat Horizons à la présidentielle s'est par ailleurs exprimé sur Parcoursup, plateforme mise en place quand il était Premier ministre, qui cristallise le mécontentement de lycéens mobilisés."
+    },
+    {
+     "id": "6158835d0be6",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
+     "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+     "published_at": "2026-10-16T08:21:15+00:00",
+     "snippet": "Lors d’une réunion diffusée dans des milliers de foyers, Édouard Philippe a étayé certaines de ses mesures pour l’école. Le candidat Horizons à la présidentielle propose notamment de faire évoluer les rythmes scolaires. Dans une séquence hautement axée sur le budget et l’éducation, Édouard Philippe y va de ses propositions. Ce jeudi, le candidat Horizons à la présidentielle a organisé une nouvelle édition de ses réunions d’appartement. En communication devant plus de 5.000 personnes, le maire du Havre a plaidé pour une évolution des rythmes scolaires, basée sur des heures d’apprentissage davan"
+    },
+    {
+     "id": "c8948a92ee4a",
+     "name": "Libération",
+     "kind": "media",
+     "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
+     "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
+     "published_at": "2026-10-15T20:55:30+00:00",
+     "snippet": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour."
+    },
+    {
+     "id": "dd29dd50f378",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray, ministre de l’Éducation nationale, se dit “plutôt favorable” à raccourcir les vacances “pour alléger les professeurs et les élèves”",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
+     "published_at": "2026-10-14T06:46:33+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
     }
    ]
   },
@@ -316,7 +316,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.34,
+   "score": 11.29,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -430,7 +430,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.77,
+   "score": 6.75,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -467,6 +467,96 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/15/violences-dans-le-periscolaire-la-france-ne-protege-pas-assez-ses-enfants-conclut-la-commission-d-enquete-senatoriale_6794619_3224.html",
      "published_at": "2026-10-15T16:37:20+00:00",
      "snippet": "Le rapport rendu jeudi 15 octobre préconise 25 mesures pour sortir du « déni collectif » et répondre aux dysfonctionnements systémiques révélés par les affaires à Paris. Parmi ces recommandations, la création d’une « sanction pénale pour défaut de signalement » et d’un diplôme national d’Etat spécifique."
+    }
+   ]
+  },
+  {
+   "headline": "Budget 2027 : les départements chahutent le gouvernement à leur congrès",
+   "chapo": "Vendredi 16 octobre, à Reims, les présidents de départements ont hué la ministre Françoise Gatel et quitté la salle pour protester contre l'absence de Sébastien Lecornu. Ils dénoncent plusieurs milliards de coupes dans le budget 2027.",
+   "points": [
+    {
+     "text": "Les présidents de départements, réunis en congrès à Reims, vivent l'absence de Sébastien Lecornu comme « un mépris ». Une grande partie de la salle a hué la ministre de la Décentralisation Françoise Gatel, puis s'est exfiltrée dans le hall pour chanter la Marseillaise, selon franceinfo.",
+     "sources": [
+      "8575ebe2a4ee"
+     ]
+    },
+    {
+     "text": "Ils attendaient le Premier ministre pour qu'il vienne « s'expliquer » sur plus de 1,2 milliard d'euros de mesures qui les touchent, dans 5,4 milliards d'euros de coupes sur les collectivités, selon franceinfo. Public Sénat parle de 1,8 milliard prélevé sur les départements.",
+     "sources": [
+      "8575ebe2a4ee",
+      "890398c04c25"
+     ]
+    },
+    {
+     "text": "Le président de l'Assemblée des départements de France, François Sauvadet (UDI), avait réclamé la venue du Premier ministre. La réponse : un courrier, quelques heures plus tard, les conviant à Matignon mi-novembre. « J'aurais aimé un petit coup de fil », regrette-t-il, au lieu d'une « missive ». « Est-ce que c'est engager un dialogue responsable et respectueux ? », demande-t-il : cela va « exacerber les tensions », selon 20 Minutes.",
+     "sources": [
+      "b71f005af2c8"
+     ]
+    },
+    {
+     "text": "Les départements sont « coincés entre la baisse de recettes des transactions immobilières et l'explosion des aides sociales », à la peine depuis plusieurs années, selon franceinfo.",
+     "sources": [
+      "8575ebe2a4ee"
+     ]
+    },
+    {
+     "text": "Françoise Gatel défend le Premier ministre : « Je ne peux pas laisser dire que le Premier ministre n'aurait pas osé venir aujourd'hui ». Elle le décrit comme « le capitaine d'un bateau profondément secoué », selon 20 Minutes. L'an dernier, Lecornu était venu annoncer un fonds de sauvegarde de 600 millions d'euros.",
+     "sources": [
+      "b71f005af2c8"
+     ]
+    },
+    {
+     "text": "Après la phrase du président du Calvados Jean-Léonce Dupont, « un ministre, ça démissionne ou ça ferme sa gueule », la ministre répond : « Je ne démissionne pas et je ne ferme pas ma gueule ». Elle annonce faire passer de 300 à 400 millions d'euros la part de CSG qui pourra leur être affectée, selon 20 Minutes.",
+     "sources": [
+      "b71f005af2c8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/TegcPLjvdCrDlykEUN_G42KKgeo/0x80:1024x656/432x243/filters:format(jpg)/2026/10/16/6ad238e4eb8be023437621.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/remontes-contre-le-budget-les-presidents-des-departements-reunis-en-congres-vivent-l-absence-de-sebastien-lecornu-comme-un-mepris_8240467.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "8575ebe2a4ee"
+   },
+   "id": 135,
+   "section": "institutions",
+   "reviewed_at": "2026-10-16T17:29:15+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "8575ebe2a4ee",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Remontés contre le projet de budget 2027, les présidents des départements vivent comme \"un mépris\" l'absence de Sébastien Lecornu pour leur congrès",
+     "url": "https://www.franceinfo.fr/politique/remontes-contre-le-budget-les-presidents-des-departements-reunis-en-congres-vivent-l-absence-de-sebastien-lecornu-comme-un-mepris_8240467.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T15:27:05+00:00",
+     "snippet": "Réclamant sa venue jeudi, le président de l'Assemblée des départements de France, le centriste François Sauvadet, n'a pas apprécié la réponse du Premier ministre, un courrier envoyé quelques heures plus tard les conviant à Matignon mi-novembre."
+    },
+    {
+     "id": "890398c04c25",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "« Méthode détestable », « colère » : l’absence de Sébastien Lecornu aux Assises des départements de France tend les élus",
+     "url": "https://www.publicsenat.fr/actualites/politique/methode-detestable-colere-tensions-francois-sauvadet-repond-a-labsence-de-sebastien-lecornu-aux-assises-des-departements-de-france",
+     "published_at": "2026-10-16T11:32:59+00:00",
+     "snippet": "Alors que le gouvernement a prévu de ponctionner 1,8 milliard d’euros du budget des départements dans le projet de loi de finances pour 2027, l’absence de Sébastien Lecornu aux Assises des départements de France a fortement déplu. Le Premier ministre a néanmoins invité les départements à le rencontrer le 16 novembre à Matignon, un report qui va « exacerber les tensions », a prévenu le président (centriste) des Départements de France, François Sauvadet. Une grande partie des élus ont quitté la salle quand la ministre des Collectivités s’est exprimée."
+    },
+    {
+     "id": "b71f005af2c8",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Congrès des départements : « Je ne ferme pas ma gueule… » C’est quoi cette brouille entre le gouvernement et les élus ?",
+     "url": "https://www.20minutes.fr/politique/4255036-20261016-congres-departements-ferme-gueule-quoi-brouille-entre-gouvernement-elus?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-16T14:44:38+00:00",
+     "snippet": "Une grande partie de la salle a hué l’arrivée de la ministre, Françoise Gatel, à la tribune avant de quitter la salle en protestation de l’absence de Sébastien Lecornu"
     }
    ]
   },
@@ -552,7 +642,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.53,
+   "score": 8.52,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -717,7 +807,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.53,
+   "score": 6.52,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -850,7 +940,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.98,
+   "score": 6.96,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1096,7 +1186,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.83,
+   "score": 8.81,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1295,7 +1385,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.14,
+   "score": 7.13,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1582,7 +1672,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.89,
+   "score": 5.88,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1702,7 +1792,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.24,
+   "score": 5.23,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2144,7 +2234,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.25,
+   "score": 4.24,
    "sources": [
     {
      "id": "1def14c32411",
@@ -2288,7 +2378,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.54,
+   "score": 3.53,
    "sources": [
     {
      "id": "068b6a45702f",
