@@ -230,3 +230,10 @@ details.srcs li { margin-bottom: 10px; }
 .cd-unit:nth-child(n) { background: var(--yel-p); box-shadow: none; }
 /* mentions du pied de page : même fond pour les quatre, pour ne pas suggérer un code couleur */
 .how li:nth-child(n) { background: var(--paper); box-shadow: inset 0 0 0 1.5px var(--line); }
+
+/* sources cliquables : lien bleu souligné + flèche, indication au-dessus de la liste */
+.chip { background: var(--paper); color: var(--terracotta); box-shadow: 0 0 0 1.5px var(--terracotta); padding: 1px 10px; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.chip:hover { background: var(--terracotta); color: #fff; }
+.hint { margin: -4px 0 12px; font-size: 14px; color: var(--muted); }
+.src-link { color: var(--terracotta); text-decoration: underline; text-underline-offset: 3px; font-weight: 700; }
+details.srcs summary { color: var(--terracotta); }

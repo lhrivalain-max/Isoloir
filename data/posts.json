@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-10-16T16:00:04+00:00",
+ "generated_at": "2026-10-16T17:22:57+00:00",
  "posts": [
+  {
+   "headline": "Édouard Philippe veut faire évoluer les rythmes scolaires",
+   "chapo": "Jeudi 15 octobre, lors d'une réunion de campagne sur l'éducation, Édouard Philippe a proposé de concentrer les cours le matin, de libérer l'après-midi pour le sport et la culture et, peut-être, de raccourcir les vacances de la Toussaint et de Pâques. Il a aussi parlé de Parcoursup.",
+   "points": [
+    {
+     "text": "« Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues. Je pense que ce n'est pas optimal pour les enfants », a déclaré le candidat Horizons devant plus de 5 000 personnes en visioconférence, selon CNews.",
+     "sources": [
+      "6158835d0be6",
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Son idée : « réduire un petit peu le nombre d'heures d'apprentissage par jour » et à « concentrer les heures d'apprentissage le matin », pour avoir l'après-midi du temps pour le sport, des enseignements culturels ou des langues, selon franceinfo.",
+     "sources": [
+      "0ca56d810928"
+     ]
+    },
+    {
+     "text": "Il en tire une question : « Est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congé ou de vacances au moment de la Toussaint, au moment de Pâques ? » Il reconnaît que c'est « une question assez explosive », mais se dit « très partisan » de cette répartition, selon franceinfo.",
+     "sources": [
+      "0ca56d810928",
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Libération note que ces propositions arrivent « à la veille des vacances de la Toussaint » et « pourraient faire tousser ».",
+     "sources": [
+      "c8948a92ee4a"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Éducation nationale Édouard Geffray s'est dit mercredi « plutôt favorable » à raccourcir les vacances « pour alléger les professeurs et les élèves », selon BFMTV.",
+     "sources": [
+      "dd29dd50f378"
+     ]
+    },
+    {
+     "text": "Sur Parcoursup, créé en 2018 quand il était Premier ministre et qui cristallise le mécontentement des lycéens mobilisés, il juge que l'orientation « devrait être largement améliorée », selon CNews. « Les professeurs ne sont pas les mieux placés pour aider à l'orientation », dit-il, sans y voir une critique des enseignants, selon franceinfo.",
+     "sources": [
+      "6158835d0be6",
+      "0ca56d810928"
+     ]
+    },
+    {
+     "text": "Édouard Philippe adresse une grande partie de ses messages à la jeunesse depuis le début de sa campagne : en juillet, il promettait que « chaque choix » de son gouvernement penserait à la jeunesse, selon CNews.",
+     "sources": [
+      "6158835d0be6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2np9m3-taille1200_6ad1d6d1cf835.jpg?itok=6tTaoXzX",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+    "article_id": "6158835d0be6",
+    "focus_x": 0.47333333333333333,
+    "focus_y": 0.14277777777777778
+   },
+   "id": 133,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-16T15:58:18+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.33,
+   "sources": [
+    {
+     "id": "0ca56d810928",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T05:24:55+00:00",
+     "snippet": "Le candidat Horizons à la présidentielle s'est par ailleurs exprimé sur Parcoursup, plateforme mise en place quand il était Premier ministre, qui cristallise le mécontentement de lycéens mobilisés."
+    },
+    {
+     "id": "6158835d0be6",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
+     "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
+     "published_at": "2026-10-16T08:21:15+00:00",
+     "snippet": "Lors d’une réunion diffusée dans des milliers de foyers, Édouard Philippe a étayé certaines de ses mesures pour l’école. Le candidat Horizons à la présidentielle propose notamment de faire évoluer les rythmes scolaires. Dans une séquence hautement axée sur le budget et l’éducation, Édouard Philippe y va de ses propositions. Ce jeudi, le candidat Horizons à la présidentielle a organisé une nouvelle édition de ses réunions d’appartement. En communication devant plus de 5.000 personnes, le maire du Havre a plaidé pour une évolution des rythmes scolaires, basée sur des heures d’apprentissage davan"
+    },
+    {
+     "id": "c8948a92ee4a",
+     "name": "Libération",
+     "kind": "media",
+     "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
+     "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
+     "published_at": "2026-10-15T20:55:30+00:00",
+     "snippet": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour."
+    },
+    {
+     "id": "dd29dd50f378",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Édouard Geffray, ministre de l’Éducation nationale, se dit “plutôt favorable” à raccourcir les vacances “pour alléger les professeurs et les élèves”",
+     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
+     "published_at": "2026-10-14T06:46:33+00:00",
+     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
+    }
+   ]
+  },
   {
    "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
    "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
@@ -75,7 +184,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.11,
+   "score": 13.51,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -130,115 +239,6 @@
      "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
      "published_at": "2026-10-16T07:57:55+00:00",
      "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
-    }
-   ]
-  },
-  {
-   "headline": "Édouard Philippe veut faire évoluer les rythmes scolaires",
-   "chapo": "Jeudi 15 octobre, lors d'une réunion de campagne sur l'éducation, Édouard Philippe a proposé de concentrer les cours le matin, de libérer l'après-midi pour le sport et la culture et, peut-être, de raccourcir les vacances de la Toussaint et de Pâques. Il a aussi parlé de Parcoursup.",
-   "points": [
-    {
-     "text": "« Je ne crois pas que ce soit une bonne idée d'avoir beaucoup de cours sur peu de jours et puis des vacances assez longues. Je pense que ce n'est pas optimal pour les enfants », a déclaré le candidat Horizons devant plus de 5 000 personnes en visioconférence, selon CNews.",
-     "sources": [
-      "6158835d0be6",
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Son idée : « réduire un petit peu le nombre d'heures d'apprentissage par jour » et à « concentrer les heures d'apprentissage le matin », pour avoir l'après-midi du temps pour le sport, des enseignements culturels ou des langues, selon franceinfo.",
-     "sources": [
-      "0ca56d810928"
-     ]
-    },
-    {
-     "text": "Il en tire une question : « Est-ce que ça ne vaut pas le coup de limiter le nombre de jours de congé ou de vacances au moment de la Toussaint, au moment de Pâques ? » Il reconnaît que c'est « une question assez explosive », mais se dit « très partisan » de cette répartition, selon franceinfo.",
-     "sources": [
-      "0ca56d810928",
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Libération note que ces propositions arrivent « à la veille des vacances de la Toussaint » et « pourraient faire tousser ».",
-     "sources": [
-      "c8948a92ee4a"
-     ]
-    },
-    {
-     "text": "Le ministre de l'Éducation nationale Édouard Geffray s'est dit mercredi « plutôt favorable » à raccourcir les vacances « pour alléger les professeurs et les élèves », selon BFMTV.",
-     "sources": [
-      "dd29dd50f378"
-     ]
-    },
-    {
-     "text": "Sur Parcoursup, créé en 2018 quand il était Premier ministre et qui cristallise le mécontentement des lycéens mobilisés, il juge que l'orientation « devrait être largement améliorée », selon CNews. « Les professeurs ne sont pas les mieux placés pour aider à l'orientation », dit-il, sans y voir une critique des enseignants, selon franceinfo.",
-     "sources": [
-      "6158835d0be6",
-      "0ca56d810928"
-     ]
-    },
-    {
-     "text": "Édouard Philippe adresse une grande partie de ses messages à la jeunesse depuis le début de sa campagne : en juillet, il promettait que « chaque choix » de son gouvernement penserait à la jeunesse, selon CNews.",
-     "sources": [
-      "6158835d0be6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/000_d2np9m3-taille1200_6ad1d6d1cf835.jpg?itok=6tTaoXzX",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
-    "article_id": "6158835d0be6",
-    "focus_x": 0.47333333333333333,
-    "focus_y": 0.14277777777777778
-   },
-   "id": 133,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-16T15:58:18+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.99,
-   "sources": [
-    {
-     "id": "0ca56d810928",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Edouard Philippe prône une évolution des rythmes scolaires, avec un apprentissage concentré en matinée et des vacances plus courtes",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-philippe-prone-une-evolution-des-rythmes-scolaires-avec-un-apprentissage-concentre-en-matinee-et-des-vacances-plus-courtes_8239537.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-16T05:24:55+00:00",
-     "snippet": "Le candidat Horizons à la présidentielle s'est par ailleurs exprimé sur Parcoursup, plateforme mise en place quand il était Premier ministre, qui cristallise le mécontentement de lycéens mobilisés."
-    },
-    {
-     "id": "6158835d0be6",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : ces idées d’Edouard Philippe pourraient bouleverser les rythmes scolaires",
-     "url": "https://www.cnews.fr/france/2026-10-16/presidentielle-2027-ces-idees-dedouard-philippe-pourraient-bouleverser-les",
-     "published_at": "2026-10-16T08:21:15+00:00",
-     "snippet": "Lors d’une réunion diffusée dans des milliers de foyers, Édouard Philippe a étayé certaines de ses mesures pour l’école. Le candidat Horizons à la présidentielle propose notamment de faire évoluer les rythmes scolaires. Dans une séquence hautement axée sur le budget et l’éducation, Édouard Philippe y va de ses propositions. Ce jeudi, le candidat Horizons à la présidentielle a organisé une nouvelle édition de ses réunions d’appartement. En communication devant plus de 5.000 personnes, le maire du Havre a plaidé pour une évolution des rythmes scolaires, basée sur des heures d’apprentissage davan"
-    },
-    {
-     "id": "c8948a92ee4a",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
-     "url": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/",
-     "published_at": "2026-10-15T20:55:30+00:00",
-     "snippet": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour."
-    },
-    {
-     "id": "dd29dd50f378",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Édouard Geffray, ministre de l’Éducation nationale, se dit “plutôt favorable” à raccourcir les vacances “pour alléger les professeurs et les élèves”",
-     "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
-     "published_at": "2026-10-14T06:46:33+00:00",
-     "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
     }
    ]
   },
@@ -316,7 +316,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 11.34,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -430,7 +430,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.0,
+   "score": 6.77,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -552,7 +552,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.74,
+   "score": 8.53,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -717,7 +717,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.68,
+   "score": 6.53,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -850,7 +850,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.17,
+   "score": 6.98,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -965,7 +965,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 4.89,
    "sources": [
     {
      "id": "556017869975",
@@ -1096,7 +1096,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.99,
+   "score": 8.83,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1295,7 +1295,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.27,
+   "score": 7.14,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1451,7 +1451,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.02,
+   "score": 5.9,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1582,7 +1582,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.0,
+   "score": 5.89,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -1702,7 +1702,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.34,
+   "score": 5.24,
    "sources": [
     {
      "id": "053ba007189f",
@@ -1862,7 +1862,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.98,
+   "score": 4.89,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -1996,7 +1996,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.02,
+   "score": 4.95,
    "sources": [
     {
      "id": "133db027e449",
@@ -2144,7 +2144,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.3,
+   "score": 4.25,
    "sources": [
     {
      "id": "1def14c32411",
@@ -2288,7 +2288,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.59,
+   "score": 3.54,
    "sources": [
     {
      "id": "068b6a45702f",
@@ -2416,7 +2416,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.87,
+   "score": 2.83,
    "sources": [
     {
      "id": "57c07028e804",
@@ -2453,186 +2453,6 @@
      "url": "https://www.cnews.fr/france/2026-10-13/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-battue-la-primaire-de-gauche",
      "published_at": "2026-10-13T04:57:01+00:00",
      "snippet": "Battue dès le premier tour de la primaire sociale-démocrate, Ségolène Royal a adressé lundi un avertissement à Raphaël Glucksmann. Si elle assure vouloir contribuer au rassemblement de la gauche, l’ancienne candidate à l’Élysée refuse de suivre le vainqueur si celui-ci s’éloigne, selon elle, de cette ligne. La défaite n’a pas adouci son discours. Au lendemain de son élimination de la primaire sociale-démocrate, où elle a terminé à 7,6%, Ségolène Royal a de nouveau ciblé Raphaël Glucksmann, pourtant largement vainqueur du scrutin. Dimanche, l’ancienne ministre s’était contentée de féliciter, av"
-    }
-   ]
-  },
-  {
-   "headline": "Lycéens : nouvelle journée de mobilisation mardi 13 octobre, ce que le gouvernement a annoncé et ce qui reste demandé",
-   "chapo": "Une nouvelle journée de grève est appelée mardi 13 octobre par les syndicats étudiants, alors que les syndicats lycéens sont reçus lundi par le gouvernement. Les 3 000 professeurs remplaçants annoncés ont commencé à être déployés. À Lille, des lycéens jugent ces annonces insuffisantes.",
-   "points": [
-    {
-     "text": "Mardi 13 octobre, une journée de grève est appelée par les syndicats étudiants, selon franceinfo. Europe 1 la compte comme l'« acte IV » de la mobilisation, RFI comme l'« acte V », un mouvement commencé mi-septembre. Lundi, des blocages étaient attendus dans les mêmes proportions que vendredi, selon BFMTV.",
-     "sources": [
-      "fd9b7d350c77",
-      "55e3c1e640c6",
-      "d733fdfdc9c4",
-      "54f538cc4331"
-     ]
-    },
-    {
-     "text": "Lundi, les syndicats lycéens sont reçus par le gouvernement. Au menu : Parcoursup et les capacités d'accueil dans l'enseignement supérieur. Selon RFI, Parcoursup est au cœur des revendications : les syndicats dénoncent des algorithmes opaques et des critères de sélection discriminatoires.",
-     "sources": [
-      "55e3c1e640c6",
-      "d733fdfdc9c4"
-     ]
-    },
-    {
-     "text": "Côté gouvernement, la porte-parole Maud Bregeon dit lundi que le déploiement des 3 000 professeurs remplaçants « a commencé » et que le gouvernement « ne ferme pas la porte » à une hausse du budget de l'Éducation nationale. Elle ajoute que « la question de l'orientation ne se résume pas à Parcoursup ». Sébastien Lecornu a promis des premières décisions à la fin octobre, après 40 000 contributions sur la plateforme ouverte aux lycéens.",
-     "sources": [
-      "0e3f34f1a9a2",
-      "6434401b6036",
-      "e8eff8523f18",
-      "da33d508b6f9"
-     ]
-    },
-    {
-     "text": "À Lille, Antoine, élève de première, bloque depuis deux semaines. Il juge la mesure des 3 000 remplaçants « dérisoire » : « Ce n'est pas suffisant. On a plein de revendications et j'ai l'impression que le ministre répond seulement à un seul point ». Selon Europe 1, la question du bâti scolaire n'a pas été abordée. Le média note une perte de vitesse du mouvement.",
-     "sources": [
-      "55e3c1e640c6"
-     ]
-    },
-    {
-     "text": "L'Humanité a suivi des élèves du lycée Blaise Cendrars, à Sevran, mobilisés depuis le début du mouvement : « Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre ».",
-     "sources": [
-      "a0ccfce0eca7"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron a déclaré lundi que la mobilisation devait se faire « dans le calme, dans l'ordre ».",
-     "sources": [
-      "54f538cc4331"
-     ]
-    },
-    {
-     "text": "Une pétition pour « interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes » a dépassé 108 000 signatures lundi, un seuil de 100 000 qui l'envoie sur le site de l'Assemblée. La commission des lois décidera de l'examiner ou de la classer sans suite. À 500 000 signatures issues de 30 départements, elle pourrait être débattue dans l'hémicycle. Le groupe socialiste a déposé une proposition de loi dans le même sens, pas encore inscrite à l'ordre du jour.",
-     "sources": [
-      "412053f2d91d"
-     ]
-    },
-    {
-     "text": "Le gouvernement pourrait aussi faire face à un retour des Gilets jaunes : des appels à manifester samedi 17 octobre, avec la hausse des prix des carburants, circulent sur les réseaux sociaux. Fabien Roussel et Marine Tondelier les ont soutenus. Les vacances de la Toussaint commencent le 17 octobre.",
-     "sources": [
-      "fd9b7d350c77"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si les syndicats obtiendront davantage que les remplaçants et les décisions promises pour fin octobre, et si le mouvement continuera jusqu'aux vacances.",
-     "sources": [
-      "fd9b7d350c77",
-      "55e3c1e640c6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/LBD.jpg?h=58c8a5e7&itok=grQcOOH4",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
-    "article_id": "412053f2d91d",
-    "focus_x": 0.4266666666666667,
-    "focus_y": 0.06851851851851852
-   },
-   "id": 101,
-   "section": "institutions",
-   "reviewed_at": "2026-10-12T16:03:32+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.8,
-   "sources": [
-    {
-     "id": "0e3f34f1a9a2",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: Maud Bregeon assure que le déploiement des 3.000 professeurs remplaçants \"a commencé\"",
-     "url": "https://www.bfmtv.com/politique/gouvernement/colere-des-lyceens-maud-bregeon-assure-que-le-deploiement-des-3-000-professeurs-remplacants-a-commence_AN-202610120245.html",
-     "published_at": "2026-10-12T07:19:12+00:00",
-     "snippet": "Invitée de BFMTV-RMC, la porte-parole du gouvernement Maud Bregeon a confirmé que les 3.000 professeurs remplaçants, évoqués par Édouard Geffray la semaine dernière, ont \"commencé\" à être déployés en ce début de semaine dans les lycées."
-    },
-    {
-     "id": "412053f2d91d",
-     "name": "LCP",
-     "kind": "media",
-     "title": "La pétition pour \"interdire les armes mutilantes dans les manifestations lycéennes\" dépasse les 100.000 signatures sur la plateforme de l'Assemblée",
-     "url": "https://lcp.fr/actualites/la-petition-pour-interdire-les-armes-mutilantes-dans-les-manifestations-lyceennes",
-     "published_at": "2026-10-12T10:05:03+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 12 octobre 2026 à 11:00 Déposé il y a une semaine sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, un texte réclamant \"l'interdiction des armes mutilantes et des techniques d'immobilisation létales dans les manifestations lycéennes\" a dépassé le seuil des 100.000 signatures. Plus de 108.000 signatures ce lundi 12 octobre. Une semaine après son dépôt sur la plateforme dédiée de l'Assemblée nationale, la pétition pour \"interdire les armes mutilantes et les techniques d'immobilisation létales dans les manifestations lycéennes\" a d"
-    },
-    {
-     "id": "54f538cc4331",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: Emmanuel Macron affirme que la mobilisation doit se faire \"dans le calme, dans l'ordre\"",
-     "url": "https://www.bfmtv.com/politique/video-colere-des-lyceens-emmanuel-macron-affirme-que-la-mobilisation-doit-se-faire-dans-le-calme-dans-l-ordre_VN-202610120430.html",
-     "published_at": "2026-10-12T10:11:57+00:00",
-     "snippet": "Nouvelle journée de mobilisation pour les lycéens, ce lundi 12 octobre, pour demander des meilleures conditions d'apprentissage. Des blocages d'établissements sont attendus, dans les mêmes proportions que vendredi."
-    },
-    {
-     "id": "55e3c1e640c6",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Blocage des lycées : à Lille, les lycéens restent sceptiques face aux annonces du gouvernement",
-     "url": "https://www.europe1.fr/societe/blocage-des-lycees-a-lille-les-lyceens-restent-sceptiques-face-aux-annonces-du-gouvernement-1141559?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T09:55:55+00:00",
-     "snippet": "À la veille d'une nouvelle journée d'action, les syndicats lycéens seront reçus ce lundi par le gouvernement. Au menu : Parcoursup ou encore les capacités d'accueil dans l'enseignement supérieur. Mais alors suffisant ou non pour permettre un retour en classe des derniers grévistes ? Ce mardi marquera l'acte \"IV\" de la mobilisation des lycéens. Malgré une perte de vitesse du mouvement, certains élèves restent mobilisés, comme à Lille où les annonces du gouvernement sont jugées insuffisantes. Antoine, élève de première, soutient les blocages depuis maintenant deux semaines. Pour lui, le déploiem"
-    },
-    {
-     "id": "6434401b6036",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère des lycéens: le gouvernement “ne ferme pas la porte” à l’augmentation du budget alloué à l’Éducation nationale",
-     "url": "https://www.bfmtv.com/politique/gouvernement/video-colere-des-lyceens-le-gouvernement-ne-ferme-pas-la-porte-a-l-augmentation-du-budget-alloue-a-l-education-nationale_VN-202610120240.html",
-     "published_at": "2026-10-12T06:55:02+00:00",
-     "snippet": "Maud Bregeon, porte-parole du gouvernement, était l’invitée du Face-à-Face sur BFMTV et RMC ce lundi 12 octobre 2026."
-    },
-    {
-     "id": "a0ccfce0eca7",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Faut juste pas qu’on lâche, le gouvernement va finir par nous comprendre » : à Sevran, les élèves de Blaise Cendrars en première ligne de la mobilisation lycéenne",
-     "url": "https://www.humanite.fr/societe/manifestation/faut-juste-pas-quon-lache-le-gouvernement-va-finir-par-nous-comprendre-a-sevran-les-eleves-de-blaise-cendrars-en-premiere-ligne-de-la-mobilisation-lyceenne",
-     "published_at": "2026-10-11T10:55:29+00:00",
-     "snippet": "Mobilisés depuis le début du mouvement, les lycéens de Blaise Cendrars luttent pour améliorer les conditions désastreuses dans lesquelles se trouve leur établissement depuis des années. L’Humanité les a suivis toute une journée, de la mairie de Sevran jusqu’au cortège parisien du 8 octobre."
-    },
-    {
-     "id": "d733fdfdc9c4",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Mobilisation des lycéens en France: la suppression de Parcoursup, au cœur des revendications",
-     "url": "https://www.rfi.fr/fr/france/20261012-mobilisation-des-lyc%C3%A9ens-en-france-la-suppression-de-parcoursup-au-c%C5%93ur-des-revendications",
-     "published_at": "2026-10-12T05:07:18+00:00",
-     "snippet": "Une nouvelle manifestation est prévue mardi 13 octobre, marquant « l’acte V » de la mobilisation lycéenne en France entamée mi-septembre. Et l'une des principales revendications concerne Parcoursup, la plateforme en ligne qui permet aux lycéens de choisir leurs études après le bac. Elle fonctionne grâce à des algorithmes qui font débat tant ils rendent le processus de sélection opaque et illogique. Les principaux syndicats étudiants et lycéens dénoncent aussi des critères de sélection discriminatoires."
-    },
-    {
-     "id": "da33d508b6f9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
-     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-07T17:43:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "e8eff8523f18",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Manifestations lycéennes: \"La question de l'orientation ne se résume pas à Parcoursup\", estime Maud Bregeon, porte-parole du gouvernement",
-     "url": "https://www.bfmtv.com/politique/video-manifestations-lyceennes-la-question-de-l-orientation-ne-se-resume-pas-a-parcoursup-estime-maud-bregeon-porte-parole-du-gouvernement_VN-202610120239.html",
-     "published_at": "2026-10-12T06:53:02+00:00",
-     "snippet": "Maud Bregeon, porte-parole du gouvernement et ministre déléguée à l'Énergie, était l'invité du Face à Face ce 12 octobre."
-    },
-    {
-     "id": "fd9b7d350c77",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Grève, budget, Gilets jaunes... Semaine à hauts risques pour le gouvernement",
-     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-12T06:08:18+00:00",
-     "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
     }
    ]
   }
