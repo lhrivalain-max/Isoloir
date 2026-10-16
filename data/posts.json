@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T15:58:18+00:00",
+ "generated_at": "2026-10-16T15:58:33+00:00",
  "posts": [
   {
    "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
@@ -239,6 +239,120 @@
      "url": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-se-dit-plutot-favorable-a-raccourcir-les-vacances-pour-alleger-les-professeurs-et-les-eleves_VN-202610140235.html",
      "published_at": "2026-10-14T06:46:33+00:00",
      "snippet": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 14 octobre sur BFMTV et RMC."
+    }
+   ]
+  },
+  {
+   "headline": "« Génération sans tabac » : une commission vote l'interdiction pour les nés après 2009",
+   "chapo": "Dans la nuit du 14 au 15 octobre, la commission des affaires sociales de l'Assemblée a adopté un amendement qui interdirait la vente de tabac à toute personne née à partir du 1er janvier 2009. Le texte doit encore passer en séance, et son avenir juridique est incertain.",
+   "points": [
+    {
+     "text": "L'amendement, déposé par l'écologiste Nicolas Thierry au budget de la Sécurité sociale 2027, interdirait « dès le 1er janvier 2027 » de vendre du tabac à toute personne née à partir du 1er janvier 2009, selon L'Opinion. Cette interdiction s'ajouterait à celle qui existe déjà pour les mineurs.",
+     "sources": [
+      "edb0eac0b06a",
+      "2336a88cb944"
+     ]
+    },
+    {
+     "text": "Concrètement, une personne née en 2009 ou après ne pourrait pas acheter de tabac, même devenue majeure, selon LCP.",
+     "sources": [
+      "810583e65f2b"
+     ]
+    },
+    {
+     "text": "L'argument de l'écologiste Marie-Charlotte Garin : « C'est à l'adolescence qu'on commence bien souvent à fumer ». La mesure doit « créer de nouvelles habitudes » et presser les industriels de revoir leur modèle économique, et appelle à « accompagner » les buralistes, selon L'Opinion.",
+     "sources": [
+      "edb0eac0b06a"
+     ]
+    },
+    {
+     "text": "Pour faire respecter l'interdiction, l'amendement crée une contribution sociale de 5 % sur le chiffre d'affaires du tabac, applicable aux revendeurs qui ne respecteraient pas la règle. Elle serait reversée à la Caisse nationale de l'assurance maladie, selon CNews.",
+     "sources": [
+      "2336a88cb944"
+     ]
+    },
+    {
+     "text": "Un risque juridique : le député LR Thibault Bazin, rapporteur général du budget de la Sécurité sociale, craint que le Conseil constitutionnel perçoive la mesure comme un « cavalier législatif », c'est-à-dire sans lien avec le texte, selon CNews.",
+     "sources": [
+      "2336a88cb944"
+     ]
+    },
+    {
+     "text": "L'idée vient de l'Assurance maladie, qui l'a proposée en juillet dans son rapport annuel pour « éclairer les débats » budgétaires de l'automne. La ministre de la Santé Stéphanie Rist s'est dite « évidemment » favorable « à titre personnel et en tant que ministre de la Santé », sans engager le gouvernement, selon Libération.",
+     "sources": [
+      "fca8b4d085c2",
+      "2336a88cb944"
+     ]
+    },
+    {
+     "text": "Le Royaume-Uni a adopté une mesure équivalente, devenant « le deuxième pays du monde » à le faire, selon Libération. Pour le directeur de l'Assurance maladie, « il n'y a pas de raison d'être plus bêtes » : la France « est capable de faire ça ».",
+     "sources": [
+      "fca8b4d085c2"
+     ]
+    },
+    {
+     "text": "L'Opinion juge l'amendement « symbolique » et « sans effet sur le texte qui sera débattu dans l'hémicycle ». Une proposition de loi transpartisane avait été déposée en novembre 2025, cosignée par 40 députés dont Olivier Faure (PS) et Yannick Neuder (Droite républicaine).",
+     "sources": [
+      "edb0eac0b06a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/pexels-ankit-rainloure-1425442-15158117.jpg?h=e5aec6c8&itok=mGhjorzx",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/interdire-la-vente-de-tabac-a-toute-une-generation-la-mesure-votee-en-commission-443845",
+    "article_id": "810583e65f2b",
+    "focus_x": 0.4633333333333333,
+    "focus_y": 0.7472222222222222
+   },
+   "id": 134,
+   "section": "institutions",
+   "reviewed_at": "2026-10-16T15:58:33+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "2336a88cb944",
+     "name": "CNews",
+     "kind": "media",
+     "title": "«Génération sans tabac» : les députés votent l’interdiction de la vente aux personnes nées à partir de 2009",
+     "url": "https://www.cnews.fr/sante/2026-10-16/generation-sans-tabac-les-deputes-votent-linterdiction-de-la-vente-aux-personnes",
+     "published_at": "2026-10-16T11:04:37+00:00",
+     "snippet": "La commission des Affaires sociales de l’Assemblée nationale a voté, ce jeudi, en faveur d’un amendement visant à interdire la vente de tabac aux personnes nées à partir de janvier 2009. Une mesure qui doit désormais être examinée dans l’Hémicycle. Une victoire hautement symbolique pour les défenseurs de la «génération sans tabac». Alors que le projet de loi de finances est examiné en séance publique, dans l’Hémicycle, la commission des Affaires sociales de l’Assemblée nationale étudie, elle, le projet de financement de la Sécurité sociale. Ce jeudi, le député écologiste Nicolas Thierry est pa"
+    },
+    {
+     "id": "810583e65f2b",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Interdire la vente de tabac à toute une génération: la mesure votée en commission",
+     "url": "https://lcp.fr/actualites/interdire-la-vente-de-tabac-a-toute-une-generation-la-mesure-votee-en-commission-443845",
+     "published_at": "2026-10-15T13:40:25+00:00",
+     "snippet": "Par Maxence Kagni , le Jeudi 15 octobre 2026 à 14:28 La commission des affaires sociales de l'Assemblée nationale a voté en faveur d'un amendement \"génération sans tabac\", qui vise à interdire définitivement la vente de tabac à toutes les personnes nées à partir du 1er janvier 2009. Les Français nés à partir du 1er janvier 2009 seront-ils définitivement privés d'acheter du tabac, même quand ils seront majeurs ? Les députés de la commission des affaires sociales ont adopté dans la nuit de mercredi à jeudi un amendement au projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 qui"
+    },
+    {
+     "id": "edb0eac0b06a",
+     "name": "L'Opinion",
+     "kind": "media",
+     "title": "« Génération sans tabac » : Les députés votent l'interdiction de la cigarette pour tous les jeunes à partir de 2009",
+     "url": "https://www.lopinion.fr/politique/a-lassemblee-lidee-dune-generation-sans-tabac-fait-son-chemin",
+     "published_at": "2026-10-16T13:30:00+00:00",
+     "snippet": "Lors de l'examen du budget de la Sécurité sociale, les députés de la commission des affaires sociales ont voté jeudi l'interdiction de la vente de tabac à toute personne née à partir du 1er janvier 2009. Un amendement symbolique, sans effet sur le texte qui sera débattu dans l'hémicycle. C'est le pr"
+    },
+    {
+     "id": "fca8b4d085c2",
+     "name": "Libération",
+     "kind": "media",
+     "title": "La ministre de la Santé, Stéphanie Rist, favorable à l'interdiction de la vente de cigarettes pour les jeunes nés après 2009",
+     "url": "https://www.liberation.fr/societe/sante/la-vente-de-cigarettes-bientot-interdite-pour-les-jeunes-nes-apres-2009-20260702_PLA63AJDAFFAXNZCMW3O7HBX6Q/",
+     "published_at": "2026-07-03T08:00:00+00:00",
+     "snippet": "Dans son rapport annuel «charges et produits» publié jeudi 2 juillet, l'assurance maladie plaide pour interdire la vente de cigarettes aux personnes nées après 2009 et faire ainsi émerger une «génération sans tabac». Ce vendredi 3 juillet, lors d'une interview sur TF1, la ministre de la Santé, Stéph"
     }
    ]
   },
@@ -851,7 +965,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.02,
+   "score": 5.01,
    "sources": [
     {
      "id": "556017869975",
@@ -2030,7 +2144,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.31,
+   "score": 4.3,
    "sources": [
     {
      "id": "1def14c32411",
