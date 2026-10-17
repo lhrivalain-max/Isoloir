@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T17:44:25+00:00",
+ "generated_at": "2026-10-17T17:44:41+00:00",
  "posts": [
   {
    "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
@@ -399,6 +399,111 @@
      "url": "https://www.france24.com/fr/france/20261016-aides-ukraine-rassemblement-national-s%C3%A9bastien-chenu-marine-le-pen-critique-condescendance-volodymyr-zelensky",
      "published_at": "2026-10-16T09:29:07+00:00",
      "snippet": "Le vice-président du Rassemblement national Sébastien Chenu a fustigé vendredi la \"condescendance\" de Volodymyr Zelensky, qui avait affirmé la veille que Marine Le Pen \"ne [maîtrisait] pas bien certains détails\". Le président ukrainien réagissait au projet de la candidate du RN à la présidentielle de couper toute aide à Kiev au bout de six mois si elle était élue."
+    }
+   ]
+  },
+  {
+   "headline": "Taxe Zucman : l'Assemblée rejette l'impôt minimum sur les grandes fortunes et le retour de l'ISF",
+   "chapo": "Vendredi 16 octobre, les députés ont repoussé plusieurs propositions de la gauche, dont un impôt minimum sur le modèle de la taxe Zucman. Le débat, très vif, a tourné au bilan fiscal des dix dernières années et à la campagne présidentielle.",
+   "points": [
+    {
+     "text": "L'Assemblée nationale a rejeté plusieurs propositions de la gauche visant à instaurer un impôt minimum, proportionnel à leur patrimoine, sur les plus grandes fortunes, ainsi qu'à rétablir l'impôt de solidarité sur la fortune (ISF), selon BFM Business. Le gouvernement a lui aussi donné un avis défavorable.",
+     "sources": [
+      "bef00ab7db32"
+     ]
+    },
+    {
+     "text": "La taxe Zucman vise à garantir que les quelque 1 800 foyers fiscaux les plus fortunés paient chaque année des impôts équivalant à au moins 2 % de leur patrimoine net. Contrairement à l'ancien ISF, supprimé en 2018, elle prendrait en compte les participations dans les entreprises. Ses défenseurs estiment qu'elle pourrait rapporter entre 15 et 25 milliards d'euros par an, une évaluation contestée, selon BFM Business.",
+     "sources": [
+      "bef00ab7db32"
+     ]
+    },
+    {
+     "text": "À gauche, le socialiste Mickaël Bouloux a plaidé : « Nous ne demandons pas que les riches soient punis, nous demandons que la richesse ne permette pas d'échapper aux règles communes », selon Europe 1.",
+     "sources": [
+      "01c5163ed3ef"
+     ]
+    },
+    {
+     "text": "Le rapporteur général du budget Philippe Juvin (LR) a multiplié les mises en garde, entre risques d'inconstitutionnalité et conséquences économiques. Selon lui, taxer les actions risquerait de « tuer l'activité économique, l'innovation », et il a évoqué le risque d'un départ des grandes fortunes de France, selon Le HuffPost.",
+     "sources": [
+      "d42688316423"
+     ]
+    },
+    {
+     "text": "Dans la majorité, le député Renaissance Daniel Labaronne a lancé : « Vous êtes comme Cronos, c'est-à-dire ce monstre qui dévorait ses enfants », défendant les baisses d'impôts de dix ans au nom de la « croissance » et de « l'emploi ». Le RN, opposé à la taxe Zucman mais favorable à une autre forme d'imposition de la fortune, a reconnu l'impasse : « On s'expliquera aux élections », a dit Jean-Philippe Tanguy, selon Le HuffPost.",
+     "sources": [
+      "d42688316423"
+     ]
+    },
+    {
+     "text": "Dans une tribune publiée par Atlantico, des économistes de l'Institut économique Molinari et du think tank Générations Libres soutiennent que « la France est l'un des pays les plus taxés du monde, et son déficit s'est surtout creusé par la dépense ». Ils répondent à Gabriel Zucman et Thomas Piketty, qui jugent que le pays manque de recettes.",
+     "sources": [
+      "ce3c7c0ab764"
+     ]
+    },
+    {
+     "text": "Le député MoDem Jean-Paul Mattei a jugé qu'il s'agit d'« un vrai débat de société » qui reviendra « l'année prochaine », selon Le HuffPost. En début de soirée, près de 3 000 amendements restaient à examiner sur la partie recettes du budget, dont le vote est prévu mardi, selon BFM Business.",
+     "sources": [
+      "d42688316423",
+      "bef00ab7db32"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Jfdf6e2OAnT05lx0N5KuQvjuCjg=/0x212:2048x1364/800x0/images/L-hemicycle-de-l-Assemblee-nationale-le-8-octobre-2026-2364289.jpg",
+    "source": "BFM Business",
+    "article_url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-assemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-de-nombreux-accrochages-pendant-les-debats_AD-202610160798.html",
+    "article_id": "bef00ab7db32"
+   },
+   "id": 139,
+   "section": "institutions",
+   "reviewed_at": "2026-10-17T17:44:41+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "01c5163ed3ef",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget 2027 : l'Assemblée nationale rejette la taxe Zucman sur les «ultrariches»",
+     "url": "https://www.europe1.fr/politique/budget-2027-lassemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-1155329?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T19:53:00+00:00",
+     "snippet": "Plusieurs propositions de la gauche étaient à l'ordre du jour à l'Assemblée nationale. Les députés ont rejeté l'instauration d'un impôt sur le modèle de la taxe Zucman mais aussi le rétablissement de l'impôt de solidarité sur la fortune (ISF). L' Assemblée nationale a rejeté vendredi plusieurs propositions de la gauche visant à instaurer un impôt minimum, proportionnel à leur patrimoine, sur les plus grandes fortunes, selon le modèle de la taxe Zucman, ainsi qu'à rétablir l'impôt de solidarité sur la fortune (ISF). Inspirée des travaux de l'économiste Gabriel Zucman, cette taxe vise à garantir"
+    },
+    {
+     "id": "bef00ab7db32",
+     "name": "BFM Business",
+     "kind": "media",
+     "title": "L'Assemblée nationale rejette la taxe Zucman sur les \"ultrariches\", de nombreux accrochages pendant les débats",
+     "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-assemblee-nationale-rejette-la-taxe-zucman-sur-les-ultrariches-de-nombreux-accrochages-pendant-les-debats_AD-202610160798.html",
+     "published_at": "2026-10-16T18:48:21+00:00",
+     "snippet": "L'objectif de cette taxe était de garantir que les 1.800 foyers fiscaux les plus fortunés acquittent un montant d'impôts tous les ans équivalent à au moins 2% de leur patrimoine net."
+    },
+    {
+     "id": "ce3c7c0ab764",
+     "name": "Atlantico",
+     "kind": "media",
+     "title": "La France en manque d’impôts ? Les 7 arguments qui démentent la théorie budgétaire LFI-Zucman-Piketty et consorts",
+     "url": "https://atlantico.fr/article/decryptage/france-manque-impots-7-arguments-theorie-budgetaire-lfi-zucman-piketty-Marques-Spring-Ragain-Ruimy",
+     "published_at": "2026-10-16T06:24:00+00:00",
+     "snippet": "La France insoumise propose 106 milliards d’impôts nouveaux pour 2027. Quasiment au même moment, en pleine crise budgétaire, les deux économistes classés à gauche, Gabriel Zucman et Thomas Piketty, assurent que le pays souffre d’un manque de recettes. Mais les chiffres racontent une autre histoire : la France est l’un des pays les plus taxés du monde, et son déficit s’est surtout creusé par la dépense."
+    },
+    {
+     "id": "d42688316423",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Encore rejetée, la taxe Zucman a de nouveau enflammé l’Assemblée pendant les discussions budgétaires",
+     "url": "https://www.huffingtonpost.fr/politique/article/encore-rejetee-la-taxe-zucman-a-de-nouveau-enflamme-l-assemblee-pendant-les-discussions-budgetaires_341057.html",
+     "published_at": "2026-10-17T13:26:48+00:00",
+     "snippet": "Les députés ont rejeté plusieurs propositions portées par la gauche, de la création d’un impôt minimum sur les hauts patrimoines au retour de l’ISF."
     }
    ]
   },
