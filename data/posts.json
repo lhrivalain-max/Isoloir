@@ -1,151 +1,6 @@
 {
- "generated_at": "2026-10-17T09:18:40+00:00",
+ "generated_at": "2026-10-17T16:00:05+00:00",
  "posts": [
-  {
-   "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
-   "chapo": "Ce samedi 17 octobre, lycéens, étudiants, « gilets jaunes », syndicalistes et militants du climat doivent manifester dans toute la France. Le gouvernement redoute des débordements, Emmanuel Macron a lancé un appel au calme, et les partis se positionnent.",
-   "points": [
-    {
-     "text": "Les autorités attendent environ 150 000 manifestants hors agglomération parisienne et autour de 40 000 à Paris, selon une source policière, d'après Le Parisien. Environ 500 actions sont « envisagées » et plus de 90 manifestations « en cours de structuration », selon l'entourage du ministre de l'Intérieur, d'après 20 Minutes.",
-     "sources": [
-      "ae7e8f4f83d6",
-      "ca43ae7cab1a"
-     ]
-    },
-    {
-     "text": "Le mouvement réunit des « gilets jaunes », des militants du climat, des syndicalistes, des lycéens et des étudiants, après un mois de mobilisation lancé par les établissements scolaires. Les lycéens réclament des moyens humains, financiers et la fin de Parcoursup, selon 20 Minutes. Le président de l'Union syndicale lycéenne, Ryad Rani, a appelé « massivement à rejoindre le mouvement des \" gilets jaunes\" samedi ».",
-     "sources": [
-      "ca43ae7cab1a"
-     ]
-    },
-    {
-     "text": "À Paris, le rendez-vous est fixé à 14 heures place de la République, en direction de la place de Clichy, après des discussions « serrées » avec la préfecture de police, selon L'Humanité. Le journal ajoute que le gouvernement a tenté de désamorcer le mécontentement ces derniers jours, avec une enveloppe de 500 à 700 millions d'euros pour le plan de relance agricole et la prolongation d'aides à l'achat de carburants.",
-     "sources": [
-      "1b51b49c806e"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu a convoqué une cellule interministérielle de crise. Le ministre de l'Intérieur Laurent Nuñez a réautorisé les grenades assourdissantes, interdites après qu'un lycéen a eu une main arrachée à Lens fin septembre. Il prévient : « Il y aura systématiquement intervention en cas de débordements », selon Europe 1.",
-     "sources": [
-      "31bc4d2697e1"
-     ]
-    },
-    {
-     "text": "Depuis Bruxelles, Emmanuel Macron a déclaré : « j'appelle au calme et au respect pour préserver ce droit » de manifester. Il estime que « le problème, c'est quand ils sont justement non organisés et qu'il y a des éléments qui sont là uniquement pour casser », selon Europe 1. Il a aussi redit son « soutien » aux forces de l'ordre, selon Le HuffPost.",
-     "sources": [
-      "63562032ab67",
-      "90cdaf4cce50"
-     ]
-    },
-    {
-     "text": "Jordan Bardella (RN) n'appelle pas à manifester. Il parle d'un « prétexte pour l'ensemble des groupuscules d'extrême gauche qui vont venir derrière Jean-Luc Mélenchon » et d'une « journée pour la France du chaos », selon Le Parisien.",
-     "sources": [
-      "ae7e8f4f83d6"
-     ]
-    },
-    {
-     "text": "Du côté de La France insoumise, Le Figaro écrit que les Insoumis, « aux avant-postes du mouvement lycéen », prendront part à la mobilisation contre la « vie chère » et « tentent de tirer profit des colères sociales ». La députée LFI Alma Dufour se dit contre « la casse sans discriminer » et estime que le gouvernement « n'entendait que le rapport de force », selon Europe 1.",
-     "sources": [
-      "a20b01a3fbef",
-      "183eb501fa10"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 8,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/10/16/ffbf03f16a018b94afd08e5e3c549a65ccb3768f0440838bcc0223f3bbf80f14.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
-    "article_id": "a20b01a3fbef",
-    "focus_x": 0.49,
-    "focus_y": 0.6059163284420855
-   },
-   "id": 137,
-   "section": "institutions",
-   "reviewed_at": "2026-10-17T09:18:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 20.0,
-   "sources": [
-    {
-     "id": "183eb501fa10",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : «Notre problème à tous c’est Emmanuel Macron, il ne veut rien écouter sans rapport de force», estime Alma Dufour",
-     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-notre-probleme-a-tous-cest-emmanuel-macron-il-ne-veut-rien-ecouter-sans-rapport-de-force-estime-alma-dufour-1156511?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-17T08:12:00+00:00",
-     "snippet": "Invitée d'Europe 1 Matin ce samedi, jour de mobilisation dans le pays, la députée LFI Alma Dufour se dit contre les violences et la \"casse sans discriminer\". Mais l'édile dénonce également qu'Emmanuel Macron ne comprend que le rapport de force. Plus de 100.000 manifestants attendus, une dizaine de milliers de membres des forces de l'ordre mobilisée, de nombreux débordements et éclatements de violences à prévoir... La mobilisation du 17 octobre a tout d'une poudrière prête à exploser et à raviver les braises du mouvement des Gilets Jaunes, dont certains battent déjà le pavé. Emmanuel Macron \"je"
-    },
-    {
-     "id": "1b51b49c806e",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Le gouvernement se prépare",
-     "url": "https://www.humanite.fr/-/-/le-gouvernement-se-prepare",
-     "published_at": "2026-10-17T08:38:10+00:00",
-     "snippet": "Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel « au calme », en estimant que le « droit de manifester » doit s’accompagner du « respect » sans « insulter » ni « casser ». « Des débordements sont anticipés dans les cortèges, notamment parisiens et dans les grandes villes » et « les actions…"
-    },
-    {
-     "id": "31bc4d2697e1",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : le gouvernement craint des débordements",
-     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-le-gouvernement-craint-des-debordements-1155122?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-16T18:59:00+00:00",
-     "snippet": "À la veille de la mobilisation du samedi 17 octobre, le gouvernement se prépare à d'éventuels débordements. Réuni en cellule interministérielle de crise, l'exécutif veut répondre aux revendications pour apaiser la colère, tout en affichant une extrême fermeté face aux violences, avec en toile de fond la crainte d'un retour des gilets jaunes. Face au risque de débordements potentiels en marge de la mobilisation du samedi 17 octobre, le gouvernement se prépare. Sébastien Lecornu a convoqué une cellule interministérielle de crise à Beauvau, à l'initiative de Laurent Nuñez. Les maîtres-mots de l'e"
-    },
-    {
-     "id": "63562032ab67",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisations du 17 octobre : Emmanuel Macron lance un appel «au calme»",
-     "url": "https://www.europe1.fr/politique/mobilisations-du-17-octobre-emmanuel-macron-lance-un-appel-au-calme-1155215?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-16T19:14:00+00:00",
-     "snippet": "Ce samedi 17 octobre, de nombreuses manifestations doivent avoir lieu partout en France. Le gouvernement craint les débordements et les actes de violence. Depuis Bruxelles, Emmanuel Macron a lancé un appel \"au calme\". Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel \"au calme\" à la veille des manifestations du 17 octobre prévues en France, estimant que le \"droit de manifester\" doit s'accompagner du \"respect\" sans \"insulter\" ni \"casser\". Le droit de manifester \"pleinement respecté\" va avec \"le respect des personnes et le respect des biens, et donc de ne pas insulter et de ne pas cas"
-    },
-    {
-     "id": "90cdaf4cce50",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "L’appel d’Emmanuel Macron à la veille des manifestations du 17 octobre",
-     "url": "https://www.huffingtonpost.fr/politique/article/l-appel-d-emmanuel-macron-a-la-veille-des-manifestations-du-17-octobre_340727.html",
-     "published_at": "2026-10-16T18:20:19+00:00",
-     "snippet": "Depuis Bruxelles ce vendredi, le chef de l’État a appelé « au calme et au respect » en amont des mobilisations du 17 octobre."
-    },
-    {
-     "id": "a20b01a3fbef",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
-     "url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
-     "published_at": "2026-10-16T17:55:00+00:00",
-     "snippet": "DÉCRYPTAGE - Aux avant-postes du mouvement lycéen, les Insoumis prendront part ce samedi à la mobilisation contre la «vie chère» et tentent de tirer profit des colères sociales."
-    },
-    {
-     "id": "ae7e8f4f83d6",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : Bardella dénonce « une journée pour la France du chaos » et « apporte son soutien aux forces de l’ordre »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/mobilisation-du-17-octobre-bardella-denonce-une-journee-pour-la-france-du-chaos-et-apporte-son-soutien-aux-forces-de-lordre-16-10-2026-GTGJT22HKNBTVBDYWU53Q3RTHE.php",
-     "published_at": "2026-10-16T15:53:02+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "ca43ae7cab1a",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : La « convergence des luttes » ce samedi peut-elle noyer les revendications des lycéens ?",
-     "url": "https://www.20minutes.fr/societe/4255041-20261017-mobilisation-17-octobre-convergence-luttes-samedi-peut-noyer-revendications-lyceens?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-17T06:17:36+00:00",
-     "snippet": "Des « gilets jaunes », des militants du climat, des syndicalistes et des étudiants vont se mobiliser ce samedi 17 octobre. Le message des lycéens peut-il en pâtir ?"
-    }
-   ]
-  },
   {
    "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
    "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
@@ -219,7 +74,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.64,
+   "score": 8.26,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -274,6 +129,151 @@
      "url": "https://video.lefigaro.fr/figaro/elections/presidentielles/presidentielle-2027-sarah-knafo-assume-ses-divergences-sur-les-questions-regaliennes-avec-david-lisnard-20261016",
      "published_at": "2026-10-16T09:59:00+00:00",
      "snippet": "Invitée de Sud Radio ce vendredi, l'eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d'autre ne représente» la ligne de son parti. Si elle assure se retrouver sur «de très nombreux points» en économie avec le candidat Nouvelle Énergie, Dav"
+    }
+   ]
+  },
+  {
+   "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
+   "chapo": "Ce samedi 17 octobre, lycéens, étudiants, « gilets jaunes », syndicalistes et militants du climat doivent manifester dans toute la France. Le gouvernement redoute des débordements, Emmanuel Macron a lancé un appel au calme, et les partis se positionnent.",
+   "points": [
+    {
+     "text": "Les autorités attendent environ 150 000 manifestants hors agglomération parisienne et autour de 40 000 à Paris, selon une source policière, d'après Le Parisien. Environ 500 actions sont « envisagées » et plus de 90 manifestations « en cours de structuration », selon l'entourage du ministre de l'Intérieur, d'après 20 Minutes.",
+     "sources": [
+      "ae7e8f4f83d6",
+      "ca43ae7cab1a"
+     ]
+    },
+    {
+     "text": "Le mouvement réunit des « gilets jaunes », des militants du climat, des syndicalistes, des lycéens et des étudiants, après un mois de mobilisation lancé par les établissements scolaires. Les lycéens réclament des moyens humains, financiers et la fin de Parcoursup, selon 20 Minutes. Le président de l'Union syndicale lycéenne, Ryad Rani, a appelé « massivement à rejoindre le mouvement des \" gilets jaunes\" samedi ».",
+     "sources": [
+      "ca43ae7cab1a"
+     ]
+    },
+    {
+     "text": "À Paris, le rendez-vous est fixé à 14 heures place de la République, en direction de la place de Clichy, après des discussions « serrées » avec la préfecture de police, selon L'Humanité. Le journal ajoute que le gouvernement a tenté de désamorcer le mécontentement ces derniers jours, avec une enveloppe de 500 à 700 millions d'euros pour le plan de relance agricole et la prolongation d'aides à l'achat de carburants.",
+     "sources": [
+      "1b51b49c806e"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu a convoqué une cellule interministérielle de crise. Le ministre de l'Intérieur Laurent Nuñez a réautorisé les grenades assourdissantes, interdites après qu'un lycéen a eu une main arrachée à Lens fin septembre. Il prévient : « Il y aura systématiquement intervention en cas de débordements », selon Europe 1.",
+     "sources": [
+      "31bc4d2697e1"
+     ]
+    },
+    {
+     "text": "Depuis Bruxelles, Emmanuel Macron a déclaré : « j'appelle au calme et au respect pour préserver ce droit » de manifester. Il estime que « le problème, c'est quand ils sont justement non organisés et qu'il y a des éléments qui sont là uniquement pour casser », selon Europe 1. Il a aussi redit son « soutien » aux forces de l'ordre, selon Le HuffPost.",
+     "sources": [
+      "63562032ab67",
+      "90cdaf4cce50"
+     ]
+    },
+    {
+     "text": "Jordan Bardella (RN) n'appelle pas à manifester. Il parle d'un « prétexte pour l'ensemble des groupuscules d'extrême gauche qui vont venir derrière Jean-Luc Mélenchon » et d'une « journée pour la France du chaos », selon Le Parisien.",
+     "sources": [
+      "ae7e8f4f83d6"
+     ]
+    },
+    {
+     "text": "Du côté de La France insoumise, Le Figaro écrit que les Insoumis, « aux avant-postes du mouvement lycéen », prendront part à la mobilisation contre la « vie chère » et « tentent de tirer profit des colères sociales ». La députée LFI Alma Dufour se dit contre « la casse sans discriminer » et estime que le gouvernement « n'entendait que le rapport de force », selon Europe 1.",
+     "sources": [
+      "a20b01a3fbef",
+      "183eb501fa10"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/10/16/ffbf03f16a018b94afd08e5e3c549a65ccb3768f0440838bcc0223f3bbf80f14.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
+    "article_id": "a20b01a3fbef",
+    "focus_x": 0.49,
+    "focus_y": 0.6059163284420855
+   },
+   "id": 137,
+   "section": "institutions",
+   "reviewed_at": "2026-10-17T09:18:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.64,
+   "sources": [
+    {
+     "id": "183eb501fa10",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : «Notre problème à tous c’est Emmanuel Macron, il ne veut rien écouter sans rapport de force», estime Alma Dufour",
+     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-notre-probleme-a-tous-cest-emmanuel-macron-il-ne-veut-rien-ecouter-sans-rapport-de-force-estime-alma-dufour-1156511?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-17T08:12:00+00:00",
+     "snippet": "Invitée d'Europe 1 Matin ce samedi, jour de mobilisation dans le pays, la députée LFI Alma Dufour se dit contre les violences et la \"casse sans discriminer\". Mais l'édile dénonce également qu'Emmanuel Macron ne comprend que le rapport de force. Plus de 100.000 manifestants attendus, une dizaine de milliers de membres des forces de l'ordre mobilisée, de nombreux débordements et éclatements de violences à prévoir... La mobilisation du 17 octobre a tout d'une poudrière prête à exploser et à raviver les braises du mouvement des Gilets Jaunes, dont certains battent déjà le pavé. Emmanuel Macron \"je"
+    },
+    {
+     "id": "1b51b49c806e",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Le gouvernement se prépare",
+     "url": "https://www.humanite.fr/-/-/le-gouvernement-se-prepare",
+     "published_at": "2026-10-17T08:38:10+00:00",
+     "snippet": "Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel « au calme », en estimant que le « droit de manifester » doit s’accompagner du « respect » sans « insulter » ni « casser ». « Des débordements sont anticipés dans les cortèges, notamment parisiens et dans les grandes villes » et « les actions…"
+    },
+    {
+     "id": "31bc4d2697e1",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : le gouvernement craint des débordements",
+     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-le-gouvernement-craint-des-debordements-1155122?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T18:59:00+00:00",
+     "snippet": "À la veille de la mobilisation du samedi 17 octobre, le gouvernement se prépare à d'éventuels débordements. Réuni en cellule interministérielle de crise, l'exécutif veut répondre aux revendications pour apaiser la colère, tout en affichant une extrême fermeté face aux violences, avec en toile de fond la crainte d'un retour des gilets jaunes. Face au risque de débordements potentiels en marge de la mobilisation du samedi 17 octobre, le gouvernement se prépare. Sébastien Lecornu a convoqué une cellule interministérielle de crise à Beauvau, à l'initiative de Laurent Nuñez. Les maîtres-mots de l'e"
+    },
+    {
+     "id": "63562032ab67",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisations du 17 octobre : Emmanuel Macron lance un appel «au calme»",
+     "url": "https://www.europe1.fr/politique/mobilisations-du-17-octobre-emmanuel-macron-lance-un-appel-au-calme-1155215?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T19:14:00+00:00",
+     "snippet": "Ce samedi 17 octobre, de nombreuses manifestations doivent avoir lieu partout en France. Le gouvernement craint les débordements et les actes de violence. Depuis Bruxelles, Emmanuel Macron a lancé un appel \"au calme\". Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel \"au calme\" à la veille des manifestations du 17 octobre prévues en France, estimant que le \"droit de manifester\" doit s'accompagner du \"respect\" sans \"insulter\" ni \"casser\". Le droit de manifester \"pleinement respecté\" va avec \"le respect des personnes et le respect des biens, et donc de ne pas insulter et de ne pas cas"
+    },
+    {
+     "id": "90cdaf4cce50",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "L’appel d’Emmanuel Macron à la veille des manifestations du 17 octobre",
+     "url": "https://www.huffingtonpost.fr/politique/article/l-appel-d-emmanuel-macron-a-la-veille-des-manifestations-du-17-octobre_340727.html",
+     "published_at": "2026-10-16T18:20:19+00:00",
+     "snippet": "Depuis Bruxelles ce vendredi, le chef de l’État a appelé « au calme et au respect » en amont des mobilisations du 17 octobre."
+    },
+    {
+     "id": "a20b01a3fbef",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
+     "url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
+     "published_at": "2026-10-16T17:55:00+00:00",
+     "snippet": "DÉCRYPTAGE - Aux avant-postes du mouvement lycéen, les Insoumis prendront part ce samedi à la mobilisation contre la «vie chère» et tentent de tirer profit des colères sociales."
+    },
+    {
+     "id": "ae7e8f4f83d6",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : Bardella dénonce « une journée pour la France du chaos » et « apporte son soutien aux forces de l’ordre »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/mobilisation-du-17-octobre-bardella-denonce-une-journee-pour-la-france-du-chaos-et-apporte-son-soutien-aux-forces-de-lordre-16-10-2026-GTGJT22HKNBTVBDYWU53Q3RTHE.php",
+     "published_at": "2026-10-16T15:53:02+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ca43ae7cab1a",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : La « convergence des luttes » ce samedi peut-elle noyer les revendications des lycéens ?",
+     "url": "https://www.20minutes.fr/societe/4255041-20261017-mobilisation-17-octobre-convergence-luttes-samedi-peut-noyer-revendications-lyceens?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-17T06:17:36+00:00",
+     "snippet": "Des « gilets jaunes », des militants du climat, des syndicalistes et des étudiants vont se mobiliser ce samedi 17 octobre. Le message des lycéens peut-il en pâtir ?"
     }
    ]
   },
@@ -351,7 +351,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.02,
+   "score": 7.91,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -483,7 +483,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.97,
+   "score": 6.0,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -592,7 +592,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.97,
+   "score": 6.0,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -706,7 +706,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.93,
+   "score": 4.42,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -805,7 +805,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.42,
+   "score": 4.64,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -918,7 +918,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.72,
+   "score": 6.17,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -1083,7 +1083,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.14,
+   "score": 4.71,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -1216,7 +1216,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.33,
+   "score": 4.85,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1331,7 +1331,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.85,
+   "score": 3.54,
    "sources": [
     {
      "id": "556017869975",
@@ -1462,7 +1462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.25,
+   "score": 6.75,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1661,7 +1661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.92,
+   "score": 5.53,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1817,7 +1817,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.85,
+   "score": 4.51,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1948,7 +1948,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.84,
+   "score": 4.5,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -2068,7 +2068,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.3,
+   "score": 4.0,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2228,7 +2228,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.07,
+   "score": 3.8,
    "sources": [
     {
      "id": "13ba70fee73e",
@@ -2283,542 +2283,6 @@
      "url": "https://www.europe1.fr/politique/budget-2027-lassemblee-senflamme-des-les-premiers-debats-le-compromis-seloigne-1147277?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-14T07:19:00+00:00",
      "snippet": "L’examen du budget 2027 a démarré ce mardi à l’Assemblée nationale dans un climat tendu. Entre les appels au compromis de Roland Lescure et les exigences de justice fiscale des socialistes, les désaccords restent nombreux. L’examen du budget 2027 a débuté ce mardi à l’Assemblée nationale. Comme prévu, les débats ont rapidement été marqués par des tensions entre le gouvernement et les oppositions. L’exécutif veut limiter le déficit public à 5% du PIB, alors que les marchés financiers et les agences de notation surveillent de près la situation économique de la France. À la tribune, le ministre d"
-    }
-   ]
-  },
-  {
-   "headline": "Retailleau veut 197 milliards d'économies : ce que contient son plan",
-   "chapo": "Lundi 12 octobre, le candidat LR Bruno Retailleau a présenté un plan d'économies de 197 milliards d'euros jusqu'en 2032, pour ramener le déficit sous les 3 % du PIB. Le plan vise l'État et les dépenses sociales, et se démarque de ceux de Gabriel Attal et de Marine Le Pen.",
-   "points": [
-    {
-     "text": "Bruno Retailleau, candidat des Républicains à la présidentielle, a présenté lundi 12 octobre un plan d'économies de 197 milliards d'euros « jusqu'en 2032 ». Il estime que « la France est quasiment en faillite » et veut ramener le déficit public sous 3 % du PIB dès 2031, puis à 2,2 % en 2032, « sans augmentation d'impôts ».",
-     "sources": [
-      "133db027e449",
-      "db9db2f9c768",
-      "ea38247175fa"
-     ]
-    },
-    {
-     "text": "Selon Libération, il a évoqué une dette de 3 595 milliards d'euros, soit 119 % du PIB, et des intérêts dont « le seul paiement va dévorer ce que nous percevons sur l'impôt sur le revenu ». Le Télégramme rapporte sa formule : « C'est ça ou la Grèce ».",
-     "sources": [
-      "246dc7d11c6d",
-      "bebef54924fa"
-     ]
-    },
-    {
-     "text": "Le plan prévoit 96 milliards d'économies sur l'État, notamment le non-remplacement de 400 000 fonctionnaires partis à la retraite et la suppression d'agences et d'opérateurs. Il vise aussi 91 milliards dans le domaine social, dont 42 milliards sur les retraites, 4 milliards sur les arrêts maladie et 10 milliards sur l'immigration, plus un effort de dix milliards des collectivités.",
-     "sources": [
-      "133db027e449"
-     ]
-    },
-    {
-     "text": "Public Sénat précise que les 400 000 agents représentent 25 milliards d'euros d'économies, sur 5,9 millions d'agents publics. En début d'année, il évoquait 200 000 à 250 000 suppressions ; en 2016-2017, François Fillon en proposait 500 000.",
-     "sources": [
-      "ea38247175fa"
-     ]
-    },
-    {
-     "text": "Sur les 197 milliards, 51 milliards seraient à « rendre aux Français » : 21 milliards pour les ménages et 30 milliards pour les entreprises. Il promet qu'« il n'y aura pas d'impôt nouveau ». Le Monde note que l'effort net, à 146 milliards d'euros, est très proche de ceux de ses deux adversaires.",
-     "sources": [
-      "60fb42ab0c4f",
-      "133db027e449"
-     ]
-    },
-    {
-     "text": "Ses concurrents : Gabriel Attal prévoit 150 milliards d'économies et Marine Le Pen 140 milliards, selon Le Monde. Bruno Retailleau a lancé : « Ceux qui ont allumé la mèche ne peuvent pas prétendre l'éteindre » aux anciens Premiers ministres d'Emmanuel Macron, et a jugé le programme de Marine Le Pen : « Ça ne tient pas debout. Où sont les économies ? »",
-     "sources": [
-      "60fb42ab0c4f",
-      "133db027e449"
-     ]
-    },
-    {
-     "text": "La Croix décrit une « ligne libérale, assumée mais concurrencée par David Lisnard ». Le candidat est crédité de 7 à 10 % des intentions de vote au premier tour, selon Libération.",
-     "sources": [
-      "e6550197af0c",
-      "246dc7d11c6d"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : une très grande partie des économies est conditionnée au succès de la révision constitutionnelle qu'il veut soumettre à référendum, selon Public Sénat. Sans elle, deux mesures censées rapporter 4,5 milliards d'euros ne pourraient pas s'appliquer.",
-     "sources": [
-      "ea38247175fa"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/AFP__20260918__C8NV8WD__v1__HighRes__FrancePoliticsDiplomacyWarParties%20%281%29.jpg?h=e2512cd1&itok=cvdJT7nW",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/face-a-une-france-quasiment-en-faillite-bruno-retailleau-presente-un-plan-d-economies-de",
-    "article_id": "133db027e449"
-   },
-   "id": 109,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-13T11:37:44+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 4.28,
-   "sources": [
-    {
-     "id": "133db027e449",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Face à une France \"quasiment en faillite\", Bruno Retailleau présente un plan d'économies de 197 milliards d'euros sur cinq ans",
-     "url": "https://lcp.fr/actualites/face-a-une-france-quasiment-en-faillite-bruno-retailleau-presente-un-plan-d-economies-de",
-     "published_at": "2026-10-12T15:51:11+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 12 octobre 2026 à 17:13 Le candidat des Républicains à l'élection présidentielle, Bruno Retailleau, a dévoilé ce lundi un plan d'économies cumulées de 197 milliards d'euros \"jusqu'en 2032\", qui permettrait, selon lui, au déficit public de passer sous la barre des 3% dès 2031 \"sans augmentation d'impôts\". \"Je considère que la France est quasiment en faillite.\" Lors d'une conférence de presse au siège des Républicains ce lundi 12 octobre, Bruno Retailleau a présenté sa trajectoire pour \"rétablir l'ordre dans les comptes publics\". A ses yeux, le pays est \"a"
-    },
-    {
-     "id": "246dc7d11c6d",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Budget 2027 : Retailleau évoque une «France quasiment en faillite» et griffe Philippe et Attal",
-     "url": "https://www.liberation.fr/politique/budget-2027-retailleau-evoque-une-france-quasiment-en-faillite-et-griffe-philippe-et-attal-20261012_FFPR6VNG2FDTPCA3SGLTGHL5YA/",
-     "published_at": "2026-10-12T16:38:47+00:00",
-     "snippet": "Le candidat Les Républicains à la présidentielle a exposé à la presse son projet économique, mélange de coupes dans la protection sociale, l’immigration et les agences étatiques. A la clé : 197 milliards d’euros d’économies en cinq ans."
-    },
-    {
-     "id": "60fb42ab0c4f",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Bruno Retailleau présente un plan de 197 milliards d’euros d’économies pour redresser une France « quasiment en faillite »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/13/bruno-retailleau-presente-un-plan-de-197-milliards-d-euros-d-economies-pour-redresser-une-france-quasiment-en-faillite_6793077_823448.html",
-     "published_at": "2026-10-13T08:30:08+00:00",
-     "snippet": "Le candidat LR à l’élection présidentielle a dévoilé, lundi, une trajectoire budgétaire drastique sur cinq ans. Pour ramener le déficit public sous les 3 % d’ici à 2032, l’ancien bras droit de François Fillon table notamment sur le non-remplacement de 400 000 fonctionnaires partis à la retraite."
-    },
-    {
-     "id": "bebef54924fa",
-     "name": "Le Télégramme",
-     "kind": "media",
-     "title": "« C’est ça ou la Grèce » : Retailleau sort le « bulldozer » pour réduire la dépense publique",
-     "url": "https://www.letelegramme.fr/france/cest-ca-ou-la-grece-retailleau-sort-le-bulldozer-pour-reduire-la-depense-publique-7136833.php",
-     "published_at": "2026-10-12T14:17:00+00:00",
-     "snippet": "Bruno Retailleau dévoile un plan d’économies de 197 milliards d’euros d’ici 2032. Le candidat LR promet de réduire la dépense publique sans augmenter les impôts, sous peine de voir la France connaître une crise de la dette comme la Grèce il y a 15 ans."
-    },
-    {
-     "id": "db9db2f9c768",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Bruno Retailleau promet des économies de près de 200 milliards d'euros jusqu'en 2032",
-     "url": "https://www.europe1.fr/politique/presidentielle-2027-bruno-retailleau-promet-des-economies-de-pres-de-200-milliards-deuros-jusquen-2032-1141661?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T10:47:09+00:00",
-     "snippet": "Bruno Retailleau a dévoilé la stratégie budgétaire, lors d'une conférence de presse ce lundi, qu'il mettrait en place s'il était élu président. Le candidat des Républicains vise à ramener le déficit public en dessous du seuil des 3 % d'ici 2031. Le candidat LR à la présidentielle Bruno Retailleau a dévoilé lundi 12 octobre un plan d'économies cumulées de 197 milliards d'euros \"jusqu'en 2032\", qui permettrait, selon lui, au déficit public de passer sous la barre des 3% dès 2031 \"sans augmentation d'impôts\". \"Je veux donner un grand coup de frein à la dépense publique et un coup d'accélérateur à"
-    },
-    {
-     "id": "e6550197af0c",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Bruno Retailleau veut rétablir l’ordre, y compris dans les finances publiques",
-     "url": "https://www.la-croix.com/politique/bruno-retailleau-veut-retablir-l-ordre-y-compris-dans-les-finances-publiques-20261012",
-     "published_at": "2026-10-12T17:36:14+00:00",
-     "snippet": "Bruno Retailleau a présenté le 12 octobre 2026 le volet de réduction du déficit public de son programme présidentiel. Autour d’une ligne libérale, assumée mais concurrencée par David Lisnard, le président des Républicains entend réduire le nombre de fonctionnaires et le périmètre de l’État."
-    },
-    {
-     "id": "ea38247175fa",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Bruno Retailleau s’engage sur un plan d’économies de près de 200 milliards d’euros, s’il est élu",
-     "url": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-     "published_at": "2026-10-12T15:28:13+00:00",
-     "snippet": "Le candidat des Républicains a présenté son plan de redressement des finances publiques, avec l’objectif de ramener le déficit sous les 3 % du PIB en 2031. Il s’engage à réaliser 197 milliards d’euros d’économies, dont 56 milliards redirigés sous forme de baisse de la fiscalité des entreprises et des ménages. L’essentiel de l’effort repose sur l’État, dont il questionne le périmètre, et sur les dépenses sociales."
-    }
-   ]
-  },
-  {
-   "headline": "Gazole : Lecornu promet une baisse jusqu'à 18 centimes dès le 1er novembre, comment ça marche",
-   "chapo": "Lundi 12 octobre, Sébastien Lecornu a annoncé une baisse du prix du gazole « dès le 1er novembre », grâce à la vente de 10 millions de barils issus des stocks stratégiques. Les distributeurs se sont engagés à répercuter la baisse, mais des questions demeurent sur son application.",
-   "points": [
-    {
-     "text": "Sébastien Lecornu a assuré lundi 12 octobre que les prix du gazole baisseraient « dès le 1er novembre » après le déstockage de 10 millions de barils de gazole. « Le 28 octobre, la vente des volumes aux distributeurs commencera, et le 1er novembre, les prix baisseront à la pompe », a-t-il affirmé. Il prendra un décret dans les « prochains jours ».",
-     "sources": [
-      "3cd9667e0ab2",
-      "57a9209c777d"
-     ]
-    },
-    {
-     "text": "Le gouvernement évalue la baisse entre 12 et 18 centimes par litre, soit environ 10 euros d'économie par plein, selon Sébastien Lecornu. La baisse concernerait aussi le fioul domestique et le gazole non routier utilisé par les agriculteurs, les pêcheurs et les entreprises du bâtiment et des travaux publics, selon La Croix.",
-     "sources": [
-      "ae37dc9800dd",
-      "1def14c32411"
-     ]
-    },
-    {
-     "text": "Comment c'est possible : l'État vend à prix coûtant du gazole issu de ses stocks stratégiques, achetés avant la guerre au Moyen-Orient à 0,28 € le litre, contre environ 1,10 € le litre pour le prix de marché actuel, selon Matignon cité par La Croix. L'opération doit durer trois mois, jusqu'à fin janvier.",
-     "sources": [
-      "ae37dc9800dd"
-     ]
-    },
-    {
-     "text": "Après une réunion avec le Premier ministre, le PDG de TotalEnergies Patrick Pouyanné s'est engagé à baisser de 8 à 12 centimes le litre de gazole pour les particuliers, et de 20 centimes celui du gazole non routier. Il s'attend aussi à une « détente sur le marché » après l'accord annoncé par Washington avec Moscou sur ce carburant, selon CNews.",
-     "sources": [
-      "3cd9667e0ab2",
-      "57a9209c777d"
-     ]
-    },
-    {
-     "text": "Pour les petites stations : plus de 300 stations rurales recevront des « avances de trésorerie » et un « fonds spécialisé » pour baisser leurs prix dès le 1er novembre. Le président de Mobilians, Francis Pousse, ne s'est pas avancé sur un prix : la baisse sera répercutée « dès qu'on aura du prix remisé ».",
-     "sources": [
-      "3cd9667e0ab2",
-      "57a9209c777d"
-     ]
-    },
-    {
-     "text": "Le contrôle : le gouvernement publiera chaque semaine les volumes libérés, la baisse du coût et les prix moyens à la pompe, et les services de l'État contrôleront les prix et les marges des distributeurs, selon CNews. « Chaque étape sera traçable », a promis Sébastien Lecornu.",
-     "sources": [
-      "57a9209c777d",
-      "ae37dc9800dd"
-     ]
-    },
-    {
-     "text": "L'Humanité est critique : selon le journal, TotalEnergies n'a rien d'un « geste de solidarité », et son opération commerciale serait « largement compensée » par les superprofits liés au blocage du détroit d'Ormuz.",
-     "sources": [
-      "6d5db1298e40"
-     ]
-    },
-    {
-     "text": "Contexte : avec la hausse des prix des carburants, des appels à manifester le samedi 17 octobre ont été lancés sur les réseaux sociaux, selon franceinfo.",
-     "sources": [
-      "fd9b7d350c77"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : si la baisse sera vraiment répercutée partout à la pompe. La Croix écrit que « des questions demeurent sur son application », alors que TotalEnergies, E.Leclerc et les distributeurs se sont engagés à la répercuter.",
-     "sources": [
-      "ae37dc9800dd"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://img.20mn.fr/r4WYPIXPS_-rjmAu7O5ySik/1200x768_sebastien-lecornu-premier-ministre-accueil-de-frank-walter-steinmeier-president-de-la-republique-federale-d-allemagne-et-de-son-epouse-elke-budenbender-par-le-president-de-la-republique-emmanuel-macron-et-son-epouse-brigitte-macron-au-palais-de-l-elysee-le-8-octobre-2026-pour-un-diner-d-etat-paris-francia-08-10-2026-sebastien-lecornu-premier-ministre-francais-le-president-francais-emmanuel-macron-et-son-epouse-brigitte-macron-ont-accueilli-frank-walter-steinmeier-president-de-la-republique-federale-d-allemagne-et-son-epouse-elke-budenbender-a-l-elysee-le-8-octobre-2026-pour-un-diner-d-etat-paris-france-08-10-2026-harsin-dineretatl-macronsteinmeier037-credit-isa-harsin-sipa-2610082322",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4253745-20261012-prix-carburants-sebastien-lecornu-assure-gazole-baissera-1er-novembre?at_medium=display&at_campaign=149",
-    "article_id": "3cd9667e0ab2"
-   },
-   "id": 110,
-   "section": "institutions",
-   "reviewed_at": "2026-10-13T11:37:32+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.67,
-   "sources": [
-    {
-     "id": "1def14c32411",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Carburants: Sébastien Lecornu promet une baisse du gazole allant jusqu'à 18 centimes par litre à partir du 1er novembre",
-     "url": "https://www.bfmtv.com/politique/video-carburants-sebastien-lecornu-promet-une-baisse-du-gazole-allant-jusqu-a-18-centimes-par-litre-a-partir-du-1er-novembre_VN-202610130165.html",
-     "published_at": "2026-10-13T05:38:09+00:00",
-     "snippet": "Le Premier ministre, Sébastien Lecornu, évoque ce lundi \"une économie d'environ 10 euros par plein\" après l'annonce de la libération de 10 millions de barils de gazole provenant des stocks stratégiques."
-    },
-    {
-     "id": "3cd9667e0ab2",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Prix des carburants : Sébastien Lecornu assure que le gazole baissera « dès le 1er novembre »",
-     "url": "https://www.20minutes.fr/politique/4253745-20261012-prix-carburants-sebastien-lecornu-assure-gazole-baissera-1er-novembre?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-12T18:49:49+00:00",
-     "snippet": "« Le 28 octobre, la vente des volumes aux distributeurs commencera, et le 1er novembre, les prix baisseront à la pompe », a affirmé le Premier ministre dans une vidéo sur ses réseaux sociaux"
-    },
-    {
-     "id": "57a9209c777d",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«10 € d’économie par plein» : Sébastien Lecornu annonce une baisse des prix du gazole et du fioul domestique dès le 1er novembre",
-     "url": "https://www.cnews.fr/france/2026-10-12/10-eu-deconomie-par-plein-sebastien-lecornu-annonce-une-baisse-des-prix-du-gazole",
-     "published_at": "2026-10-12T19:02:23+00:00",
-     "snippet": "Le Premier ministre Sébastien Lecornu a assuré lundi que les prix du gazole baisseraient «dès le 1er novembre» après le déstockage de 10 millions de barils de gazole, qui seront mis en vente à partir du 28 octobre pour environ trois mois. Une annonce visant à atténuer les impacts de la crise énergétique sur le quotidien des Français. Sébastien Lecornu a assuré lundi, dans une vidéo relayée sur son compte X, que les prix du gazole baisseraient «dès le 1er novembre» après le déstockage de 10 millions de barils de gazole pendant près de trois mois. Les prix du gazole et du fioul domestique vont b"
-    },
-    {
-     "id": "6d5db1298e40",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "TotalEnergies s’engage à baisser les prix de 8 à 12 centimes pour les automobilistes : pourquoi la multinationale gagne à tous les coups",
-     "url": "https://www.humanite.fr/social-et-economie/energie/totalenergies-sengage-a-baisser-les-prix-de-8-a-12-centimes-pour-les-automobilistes-pourquoi-la-firme-gagne-a-tous-les-coups",
-     "published_at": "2026-10-12T17:00:00+00:00",
-     "snippet": "TotalEnergies a promis, lundi 12 octobre, une nouvelle réduction des tarifs appliqués à la pompe de 8 à 12 centimes."
-    },
-    {
-     "id": "ae37dc9800dd",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Carburant : le gouvernement assure que les prix du gazole baisseront dès le 1er novembre",
-     "url": "https://www.la-croix.com/politique/carburant-le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre-20261013",
-     "published_at": "2026-10-13T05:06:32+00:00",
-     "snippet": "Le premier ministre Sébastien Lecornu a promis lundi 12 octobre une baisse du prix du gazole à la pompe dès le 1er novembre. TotalEnergies, E.Leclerc et les distributeurs se sont engagés à répercuter la mesure, mais des questions demeurent sur son application."
-    },
-    {
-     "id": "fd9b7d350c77",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Grève, budget, Gilets jaunes... Semaine à hauts risques pour le gouvernement",
-     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/greve-budget-gilets-jaunes-semaine-a-hauts-risques-pour-le-gouvernement_8233414.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-12T06:08:18+00:00",
-     "snippet": "Une semaine compliquée s'annonce pour le gouvernement. Après une pause durant le week-end, la mobilisation lycéenne pourrait reprendre ce lundi 12 octobre. Mais déjà, des appels à des mobilisation générales ont été lancées jusqu'au début des vacances de la Toussaint, le 17 octobre."
-    }
-   ]
-  },
-  {
-   "headline": "Bardella à Ceuta avec Vox : ce que propose le RN sur l'immigration",
-   "chapo": "Lundi 12 octobre, Jordan Bardella s'est rendu à Ceuta, enclave espagnole au Maroc, avec Santiago Abascal (Vox). Il y a détaillé les propositions du RN sur l'immigration, dont un Schengen réservé aux Européens. Pour L'Humanité, c'est une mise en scène avec un parti d'extrême droite. Euronews et l'AFP détaillent surtout les propos des deux dirigeants.",
-   "points": [
-    {
-     "text": "Jordan Bardella, président du Rassemblement national, était à Ceuta, enclave espagnole, avec Santiago Abascal, président du parti espagnol Vox. Le déplacement a eu lieu le 12 octobre, jour de fête nationale en Espagne. Selon Euronews, Santiago Abascal a justifié son absence du défilé militaire de Madrid par son refus de partager la tribune avec Pedro Sánchez et par la situation à Ceuta.",
-     "sources": [
-      "257a2d7acf69",
-      "4786af711c1c"
-     ]
-    },
-    {
-     "text": "Ceuta est le lieu d'une crise migratoire : plus de 70 000 personnes y sont entrées illégalement depuis le Maroc les 30 et 31 juillet, selon l'AFP. La plupart sont retournées au Maroc, mais cet afflux a provoqué une crise politique à Madrid et de vives tensions diplomatiques dans l'Union européenne.",
-     "sources": [
-      "f3aa967b89b9",
-      "3b6a6853b409"
-     ]
-    },
-    {
-     "text": "Jordan Bardella a déclaré que la situation à Ceuta « c'est le futur de l'Europe si nous ne reprenons pas urgemment le contrôle de nos frontières nationales et européennes ». Le Parisien ajoute que le RN veut organiser un référendum sur l'immigration dès le mois de juin.",
-     "sources": [
-      "3b6a6853b409"
-     ]
-    },
-    {
-     "text": "Sur Schengen, il a dit : « Dès le printemps 2027, si les Français nous accordent leur confiance, la France demandera que la libre circulation dans Schengen soit exclusivement réservée aux ressortissants européens ». Il a salué la position de Giorgia Meloni, qui a décidé de suspendre temporairement la libre circulation de l'espace Schengen avec l'Espagne.",
-     "sources": [
-      "f3aa967b89b9"
-     ]
-    },
-    {
-     "text": "Jordan Bardella a dénoncé un « appel d'air aux conséquences gravissimes », lié selon lui aux régularisations de sans-papiers décidées par le gouvernement socialiste de Pedro Sánchez. Santiago Abascal a réclamé le rapatriement de ceux qui entrent illégalement en Espagne et le renforcement de la frontière de Ceuta, selon Euronews.",
-     "sources": [
-      "f3aa967b89b9",
-      "257a2d7acf69"
-     ]
-    },
-    {
-     "text": "Dans son article, L'Humanité écrit que Santiago Abascal et Jordan Bardella ont choisi Ceuta pour « afficher leur soutien mutuel et officialiser un front commun pour la fermeture des frontières européennes aux migrants ». Le journal présente le déplacement comme une « tournée des partis xénophobes européens » et qualifie Vox d'« un des pires partis d'extrême droite d'Europe occidentale ».",
-     "sources": [
-      "068b6a45702f"
-     ]
-    },
-    {
-     "text": "Jordan Bardella a aussi relié l'immigration à la mobilisation lycéenne, et à propos des tirs d'un élève à Aubagne il a plaidé pour un « tournant pénal à l'égard des mineurs », selon Le Parisien.",
-     "sources": [
-      "3b6a6853b409"
-     ]
-    },
-    {
-     "text": "Santiago Abascal a soutenu Jordan Bardella pour devenir « futur Premier ministre de la France » si Marine Le Pen est élue. En retour, Jordan Bardella a appelé les Espagnols à voter Vox aux législatives anticipées du 29 novembre en Espagne. Euronews note qu'il vient à Ceuta alors qu'il est « toujours empêtré dans des accusations d'antisémitisme ».",
-     "sources": [
-      "f3aa967b89b9",
-      "257a2d7acf69"
-     ]
-    },
-    {
-     "text": "Interrogé sur les propos antisémites que lui attribue Mediapart, Jordan Bardella a de nouveau démenti, estimant que l'affaire avait « fait pschitt ».",
-     "sources": [
-      "3b6a6853b409"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : ce que donneront les législatives espagnoles du 29 novembre.",
-     "sources": [
-      "4786af711c1c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/12/11/080_hl_mcurtat_3327934_1_6acca954ddd9c.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/international/immigration-jordan-bardella-attendu-a-ceuta-avec-santiago-abascal-1141484?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "4786af711c1c"
-   },
-   "id": 107,
-   "section": "institutions",
-   "reviewed_at": "2026-10-13T11:36:56+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.06,
-   "sources": [
-    {
-     "id": "068b6a45702f",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Jordan Bardella continue sa tournée des partis xénophobes européens : cette fois, il se met en scène avec Vox à Ceuta",
-     "url": "https://www.humanite.fr/monde/espagne/jordan-bardella-continue-sa-tournee-des-partis-xenophobes-europeens-cette-fois-il-se-met-en-scene-avec-vox-a-ceuta",
-     "published_at": "2026-10-12T16:30:00+00:00",
-     "snippet": "Le président raciste et antisémite du Rassemblement national s’affiche à nouveau avec l’un des pires partis d’extrême droite d’Europe occidentale, en l’occurrence les Espagnols de Vox, quelques semaines après la crise humanitaire à Ceuta."
-    },
-    {
-     "id": "257a2d7acf69",
-     "name": "Euronews",
-     "kind": "media",
-     "title": "À Ceuta, S. Abascal et J. Bardella s'affichent en pourfendeurs de la crise migratoire",
-     "url": "https://fr.euronews.com/2026/10/12/a-ceuta-s-abascal-et-j-bardella-saffichent-en-pourfendeurs-de-la-crise-migratoire",
-     "published_at": "2026-10-12T15:25:00+00:00",
-     "snippet": "Alors que l'Espagne célèbre sa fête nationale, le chef du parti nationaliste Vox justifie son absence à un défilé militaire par la situation dans la ville autonome et réclame le renvoi de ceux qui entrent illégalement en Espagne."
-    },
-    {
-     "id": "3b6a6853b409",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : depuis Ceuta, Jordan Bardella détaille les propositions du RN sur l’immigration avec l’extrême droite espagnole",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-depuis-ceuta-jordan-bardella-detaille-les-propositions-du-rn-sur-limmigration-aux-cotes-lextreme-droite-espagnole-12-10-2026-OSZPFHRRNFE25DNDJEVXKCVSDQ.php",
-     "published_at": "2026-10-12T15:51:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "4786af711c1c",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Immigration : Jordan Bardella attendu à Ceuta avec Santiago Abascal",
-     "url": "https://www.europe1.fr/international/immigration-jordan-bardella-attendu-a-ceuta-avec-santiago-abascal-1141484?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-12T10:02:00+00:00",
-     "snippet": "Jordan Bardella est attendu ce lundi à Ceuta, enclave espagnole située au nord du Maroc, aux côtés de Santiago Abascal, le président de Vox. Un déplacement consacré à l’immigration illégale, après la crise migratoire massive qui a frappé la ville fin juillet. Jordan Bardella est attendu ce lundi à Ceuta, enclave espagnole située au nord du Maroc. Le président du Rassemblement national doit s’y rendre aux côtés de Santiago Abascal, le président de Vox, parti espagnol allié du RN au Parlement européen. Ce déplacement est consacré à l’immigration illégale. Fin juillet, les images de dizaines de m"
-    },
-    {
-     "id": "f3aa967b89b9",
-     "name": "Boursorama (d'après l'AFP)",
-     "kind": "media",
-     "title": "A Ceuta, Bardella fait front commun avec l'extrême droite espagnole avant les élections",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/a-ceuta-bardella-fait-front-commun-avec-l-extreme-droite-espagnole-avant-les-elections-5d43eb9da77c36df5cab5e56f35c703a",
-     "published_at": "2026-10-12T13:33:00+00:00",
-     "snippet": "Le président du Rassemblement national Jordan Bardella a détaillé lundi ses propositions contre l'immigration depuis Ceuta, théâtre d'une crise migratoire majeure cet été."
-    }
-   ]
-  },
-  {
-   "headline": "Après la primaire, Ségolène Royal conditionne son soutien à Glucksmann : « sans moi » si ça dérive vers le macronisme",
-   "chapo": "Battue dès le premier tour de la primaire de la gauche sociale-démocrate (7,6 %), Ségolène Royal a posté lundi 12 octobre un message conditionnant son soutien à Raphaël Glucksmann. Il doit maintenant rassembler une gauche divisée sur la question de l'alliance avec La France insoumise.",
-   "points": [
-    {
-     "text": "Lundi 12 octobre, au lendemain de sa défaite, Ségolène Royal a écrit sur X : « S'il y a l'union à gauche, j'y aiderai comme promis. Si ça dérive vers le macronisme qui a mis la France en faillite financière, et qui a gouverné par la peur et la brutalité, ce sera sans moi ». Elle ne cite pas Raphaël Glucksmann dans ce message.",
-     "sources": [
-      "c90b5b2a5eef",
-      "bc33e9d20c1e"
-     ]
-    },
-    {
-     "text": "Raphaël Glucksmann a remporté la primaire dès le premier tour avec 66 % des voix. Olivier Faure a obtenu 14,46 %, Ségolène Royal 7,62 %, Emmanuel Maurel 5,92 % et Jérôme Guedj 5,83 %, selon La Dépêche du Midi. Libération compte 120 787 votants.",
-     "sources": [
-      "b2e8355cf568",
-      "57c07028e804"
-     ]
-    },
-    {
-     "text": "Dimanche soir, Ségolène Royal s'était montrée plus mesurée : elle lui avait souhaité « toute la force qu'il faut pour faire le rassemblement à gauche qui sera difficile », tout en lui apportant son soutien, selon CNews. Elle avait aussi lancé : « le stagiaire a gagné la primaire, malheureusement », selon BFMTV.",
-     "sources": [
-      "c90b5b2a5eef",
-      "bc33e9d20c1e"
-     ]
-    },
-    {
-     "text": "Le désaccord de fond porte sur La France insoumise. Selon BFMTV, Raphaël Glucksmann refuse tout rapprochement avec le mouvement de Jean-Luc Mélenchon, alors que Ségolène Royal ne l'a pas écarté, comme Olivier Faure. Pendant la campagne, elle l'a accusé de vouloir « faire alliance avec la droite ».",
-     "sources": [
-      "bc33e9d20c1e"
-     ]
-    },
-    {
-     "text": "Libération y voit « un premier coup de canif » à l'engagement des cinq candidats : la charte de la primaire exigeait que les perdants soutiennent ensuite le gagnant.",
-     "sources": [
-      "57c07028e804"
-     ]
-    },
-    {
-     "text": "Ségolène Royal a aussi critiqué le prix de participation au vote : elle explique avoir demandé qu'il soit de 4 euros et dit avoir « perdu beaucoup de voix à cause du prix à 15 euros », selon CNews.",
-     "sources": [
-      "c90b5b2a5eef"
-     ]
-    },
-    {
-     "text": "Raphaël Glucksmann doit rassembler un parti divisé, selon La Dépêche du Midi. Olivier Faure reste décisionnaire des moyens alloués à sa campagne et pense qu'il ne faut pas s'aliéner LFI en vue des législatives, ce qui est une « ligne rouge » pour le vainqueur.",
-     "sources": [
-      "b2e8355cf568"
-     ]
-    },
-    {
-     "text": "À gauche, Marine Tondelier a qualifié le vainqueur de « celui qui fait le choix du repli en refusant toute perspective d'alliance large de toute la gauche et des écologistes ». Fabien Roussel assurait en juin : « Pour nous, il n'est pas envisageable de soutenir Jean-Luc Mélenchon ou Raphaël Glucksmann ».",
-     "sources": [
-      "b2e8355cf568"
-     ]
-    },
-    {
-     "text": "Ce qu'on ne sait pas encore : Libération se demande si elle soutiendrait un autre candidat ou s'abstiendrait de faire campagne pour Raphaël Glucksmann. « Ségolène Royal ménage le suspense », écrit le journal.",
-     "sources": [
-      "57c07028e804"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-09-23t095549z_697444138_rc2kona0ctn8_rtrmadp_3_france-politics-taille1200_6acdaf17e5c61.jpg?h=fbf7a622&itok=uQwzcaOZ",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-13/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-battue-la-primaire-de-gauche",
-    "article_id": "c90b5b2a5eef"
-   },
-   "id": 112,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-13T11:37:16+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.45,
-   "sources": [
-    {
-     "id": "57c07028e804",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Si ça dérive vers le macronisme, ce sera sans moi» : au lendemain de sa défaite, Royal menace déjà de ne pas faire la campagne de Glucksmann",
-     "url": "https://www.liberation.fr/politique/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-au-lendemain-de-sa-defaite-royal-menace-deja-de-ne-pas-soutenir-glucksmann-20261012_DXS3WXOHEJFL3BW3AETNL4ZP3Q/",
-     "published_at": "2026-10-12T18:45:49+00:00",
-     "snippet": "L’ancienne ministre, qui s’est largement opposée au candidat désigné par le PS et Place publique pour la présidentielle lors de la primaire, a conditionné son soutien à venir au représentant social-démocrate, lundi 12 octobre."
-    },
-    {
-     "id": "b2e8355cf568",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DECRYPTAGE. Présidentielle 2027 : après les tensions de la primaire, Raphaël Glucksmann doit désormais rassembler son camp",
-     "url": "https://www.ladepeche.fr/2026/10/13/decryptage-presidentielle-2027-apres-les-tensions-de-la-primaire-raphael-glucksmann-doit-desormais-rassembler-son-camp-13597462.php",
-     "published_at": "2026-10-13T04:41:02+00:00",
-     "snippet": "Raphaël Glucksmann a remporté la primaire de la gauche avec 66 % des voix, mais il doit maintenant unir un parti divisé. Ségolène Royal et Olivier Faure, respectivement à 7,62 % et 14,46 %, pourraient compliquer sa..."
-    },
-    {
-     "id": "bc33e9d20c1e",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Si ça dérive vers le macronisme, ce sera sans moi\": Ségolène Royal pose ses conditions à un soutien à Raphaël Glucksmann",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-segolene-royal-pose-ses-conditions-a-un-soutien-a-raphael-glucksmann_AN-202610130327.html",
-     "published_at": "2026-10-13T08:02:23+00:00",
-     "snippet": "La finaliste de la présidentielle de 2007, qui a fait de l'eurodéputé son adversaire principal durant la primaire du pôle socialiste, appelle à l'\"union de la gauche\" et s'inscrit contre tout rapprochement avec le macronisme."
-    },
-    {
-     "id": "c90b5b2a5eef",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«Si ça dérive vers le macronisme, ce sera sans moi» : battue à la primaire de gauche, Ségolène Royal déjà prête à lâcher Raphaël Glucksmann",
-     "url": "https://www.cnews.fr/france/2026-10-13/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-battue-la-primaire-de-gauche",
-     "published_at": "2026-10-13T04:57:01+00:00",
-     "snippet": "Battue dès le premier tour de la primaire sociale-démocrate, Ségolène Royal a adressé lundi un avertissement à Raphaël Glucksmann. Si elle assure vouloir contribuer au rassemblement de la gauche, l’ancienne candidate à l’Élysée refuse de suivre le vainqueur si celui-ci s’éloigne, selon elle, de cette ligne. La défaite n’a pas adouci son discours. Au lendemain de son élimination de la primaire sociale-démocrate, où elle a terminé à 7,6%, Ségolène Royal a de nouveau ciblé Raphaël Glucksmann, pourtant largement vainqueur du scrutin. Dimanche, l’ancienne ministre s’était contentée de féliciter, av"
     }
    ]
   }
