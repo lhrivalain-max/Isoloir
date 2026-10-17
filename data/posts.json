@@ -1,6 +1,151 @@
 {
- "generated_at": "2026-10-17T16:00:05+00:00",
+ "generated_at": "2026-10-17T17:44:25+00:00",
  "posts": [
+  {
+   "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
+   "chapo": "Ce samedi 17 octobre, lycéens, étudiants, « gilets jaunes », syndicalistes et militants du climat doivent manifester dans toute la France. Le gouvernement redoute des débordements, Emmanuel Macron a lancé un appel au calme, et les partis se positionnent.",
+   "points": [
+    {
+     "text": "Les autorités attendent environ 150 000 manifestants hors agglomération parisienne et autour de 40 000 à Paris, selon une source policière, d'après Le Parisien. Environ 500 actions sont « envisagées » et plus de 90 manifestations « en cours de structuration », selon l'entourage du ministre de l'Intérieur, d'après 20 Minutes.",
+     "sources": [
+      "ae7e8f4f83d6",
+      "ca43ae7cab1a"
+     ]
+    },
+    {
+     "text": "Le mouvement réunit des « gilets jaunes », des militants du climat, des syndicalistes, des lycéens et des étudiants, après un mois de mobilisation lancé par les établissements scolaires. Les lycéens réclament des moyens humains, financiers et la fin de Parcoursup, selon 20 Minutes. Le président de l'Union syndicale lycéenne, Ryad Rani, a appelé « massivement à rejoindre le mouvement des \" gilets jaunes\" samedi ».",
+     "sources": [
+      "ca43ae7cab1a"
+     ]
+    },
+    {
+     "text": "À Paris, le rendez-vous est fixé à 14 heures place de la République, en direction de la place de Clichy, après des discussions « serrées » avec la préfecture de police, selon L'Humanité. Le journal ajoute que le gouvernement a tenté de désamorcer le mécontentement ces derniers jours, avec une enveloppe de 500 à 700 millions d'euros pour le plan de relance agricole et la prolongation d'aides à l'achat de carburants.",
+     "sources": [
+      "1b51b49c806e"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu a convoqué une cellule interministérielle de crise. Le ministre de l'Intérieur Laurent Nuñez a réautorisé les grenades assourdissantes, interdites après qu'un lycéen a eu une main arrachée à Lens fin septembre. Il prévient : « Il y aura systématiquement intervention en cas de débordements », selon Europe 1.",
+     "sources": [
+      "31bc4d2697e1"
+     ]
+    },
+    {
+     "text": "Depuis Bruxelles, Emmanuel Macron a déclaré : « j'appelle au calme et au respect pour préserver ce droit » de manifester. Il estime que « le problème, c'est quand ils sont justement non organisés et qu'il y a des éléments qui sont là uniquement pour casser », selon Europe 1. Il a aussi redit son « soutien » aux forces de l'ordre, selon Le HuffPost.",
+     "sources": [
+      "63562032ab67",
+      "90cdaf4cce50"
+     ]
+    },
+    {
+     "text": "Jordan Bardella (RN) n'appelle pas à manifester. Il parle d'un « prétexte pour l'ensemble des groupuscules d'extrême gauche qui vont venir derrière Jean-Luc Mélenchon » et d'une « journée pour la France du chaos », selon Le Parisien.",
+     "sources": [
+      "ae7e8f4f83d6"
+     ]
+    },
+    {
+     "text": "Du côté de La France insoumise, Le Figaro écrit que les Insoumis, « aux avant-postes du mouvement lycéen », prendront part à la mobilisation contre la « vie chère » et « tentent de tirer profit des colères sociales ». La députée LFI Alma Dufour se dit contre « la casse sans discriminer » et estime que le gouvernement « n'entendait que le rapport de force », selon Europe 1.",
+     "sources": [
+      "a20b01a3fbef",
+      "183eb501fa10"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/10/16/ffbf03f16a018b94afd08e5e3c549a65ccb3768f0440838bcc0223f3bbf80f14.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
+    "article_id": "a20b01a3fbef",
+    "focus_x": 0.49,
+    "focus_y": 0.6059163284420855
+   },
+   "id": 137,
+   "section": "institutions",
+   "reviewed_at": "2026-10-17T09:18:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.8,
+   "sources": [
+    {
+     "id": "183eb501fa10",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : «Notre problème à tous c’est Emmanuel Macron, il ne veut rien écouter sans rapport de force», estime Alma Dufour",
+     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-notre-probleme-a-tous-cest-emmanuel-macron-il-ne-veut-rien-ecouter-sans-rapport-de-force-estime-alma-dufour-1156511?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-17T08:12:00+00:00",
+     "snippet": "Invitée d'Europe 1 Matin ce samedi, jour de mobilisation dans le pays, la députée LFI Alma Dufour se dit contre les violences et la \"casse sans discriminer\". Mais l'édile dénonce également qu'Emmanuel Macron ne comprend que le rapport de force. Plus de 100.000 manifestants attendus, une dizaine de milliers de membres des forces de l'ordre mobilisée, de nombreux débordements et éclatements de violences à prévoir... La mobilisation du 17 octobre a tout d'une poudrière prête à exploser et à raviver les braises du mouvement des Gilets Jaunes, dont certains battent déjà le pavé. Emmanuel Macron \"je"
+    },
+    {
+     "id": "1b51b49c806e",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Le gouvernement se prépare",
+     "url": "https://www.humanite.fr/-/-/le-gouvernement-se-prepare",
+     "published_at": "2026-10-17T08:38:10+00:00",
+     "snippet": "Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel « au calme », en estimant que le « droit de manifester » doit s’accompagner du « respect » sans « insulter » ni « casser ». « Des débordements sont anticipés dans les cortèges, notamment parisiens et dans les grandes villes » et « les actions…"
+    },
+    {
+     "id": "31bc4d2697e1",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : le gouvernement craint des débordements",
+     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-le-gouvernement-craint-des-debordements-1155122?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T18:59:00+00:00",
+     "snippet": "À la veille de la mobilisation du samedi 17 octobre, le gouvernement se prépare à d'éventuels débordements. Réuni en cellule interministérielle de crise, l'exécutif veut répondre aux revendications pour apaiser la colère, tout en affichant une extrême fermeté face aux violences, avec en toile de fond la crainte d'un retour des gilets jaunes. Face au risque de débordements potentiels en marge de la mobilisation du samedi 17 octobre, le gouvernement se prépare. Sébastien Lecornu a convoqué une cellule interministérielle de crise à Beauvau, à l'initiative de Laurent Nuñez. Les maîtres-mots de l'e"
+    },
+    {
+     "id": "63562032ab67",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mobilisations du 17 octobre : Emmanuel Macron lance un appel «au calme»",
+     "url": "https://www.europe1.fr/politique/mobilisations-du-17-octobre-emmanuel-macron-lance-un-appel-au-calme-1155215?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T19:14:00+00:00",
+     "snippet": "Ce samedi 17 octobre, de nombreuses manifestations doivent avoir lieu partout en France. Le gouvernement craint les débordements et les actes de violence. Depuis Bruxelles, Emmanuel Macron a lancé un appel \"au calme\". Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel \"au calme\" à la veille des manifestations du 17 octobre prévues en France, estimant que le \"droit de manifester\" doit s'accompagner du \"respect\" sans \"insulter\" ni \"casser\". Le droit de manifester \"pleinement respecté\" va avec \"le respect des personnes et le respect des biens, et donc de ne pas insulter et de ne pas cas"
+    },
+    {
+     "id": "90cdaf4cce50",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "L’appel d’Emmanuel Macron à la veille des manifestations du 17 octobre",
+     "url": "https://www.huffingtonpost.fr/politique/article/l-appel-d-emmanuel-macron-a-la-veille-des-manifestations-du-17-octobre_340727.html",
+     "published_at": "2026-10-16T18:20:19+00:00",
+     "snippet": "Depuis Bruxelles ce vendredi, le chef de l’État a appelé « au calme et au respect » en amont des mobilisations du 17 octobre."
+    },
+    {
+     "id": "a20b01a3fbef",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
+     "url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
+     "published_at": "2026-10-16T17:55:00+00:00",
+     "snippet": "DÉCRYPTAGE - Aux avant-postes du mouvement lycéen, les Insoumis prendront part ce samedi à la mobilisation contre la «vie chère» et tentent de tirer profit des colères sociales."
+    },
+    {
+     "id": "ae7e8f4f83d6",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : Bardella dénonce « une journée pour la France du chaos » et « apporte son soutien aux forces de l’ordre »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/mobilisation-du-17-octobre-bardella-denonce-une-journee-pour-la-france-du-chaos-et-apporte-son-soutien-aux-forces-de-lordre-16-10-2026-GTGJT22HKNBTVBDYWU53Q3RTHE.php",
+     "published_at": "2026-10-16T15:53:02+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ca43ae7cab1a",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : La « convergence des luttes » ce samedi peut-elle noyer les revendications des lycéens ?",
+     "url": "https://www.20minutes.fr/societe/4255041-20261017-mobilisation-17-octobre-convergence-luttes-samedi-peut-noyer-revendications-lyceens?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-17T06:17:36+00:00",
+     "snippet": "Des « gilets jaunes », des militants du climat, des syndicalistes et des étudiants vont se mobiliser ce samedi 17 octobre. Le message des lycéens peut-il en pâtir ?"
+    }
+   ]
+  },
   {
    "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
    "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
@@ -74,7 +219,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.26,
+   "score": 7.96,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -133,147 +278,127 @@
    ]
   },
   {
-   "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
-   "chapo": "Ce samedi 17 octobre, lycéens, étudiants, « gilets jaunes », syndicalistes et militants du climat doivent manifester dans toute la France. Le gouvernement redoute des débordements, Emmanuel Macron a lancé un appel au calme, et les partis se positionnent.",
+   "headline": "Ukraine : Zelensky demande 70 milliards de plus à l'UE, Macron temporise, le RN critique",
+   "chapo": "Vendredi 16 octobre, à Bruxelles, Volodymyr Zelensky a demandé une rallonge de 70 milliards d'euros pour 2027. Emmanuel Macron promet de ne pas « lâcher l'Ukraine » mais juge « trop tôt » pour donner un chiffre. Donald Trump suspend de nouvelles sanctions contre la Russie.",
    "points": [
     {
-     "text": "Les autorités attendent environ 150 000 manifestants hors agglomération parisienne et autour de 40 000 à Paris, selon une source policière, d'après Le Parisien. Environ 500 actions sont « envisagées » et plus de 90 manifestations « en cours de structuration », selon l'entourage du ministre de l'Intérieur, d'après 20 Minutes.",
+     "text": "Devant les dirigeants de l'Union européenne réunis à Bruxelles, Volodymyr Zelensky a dit avoir besoin d'au moins 70 milliards d'euros de plus de la part de l'UE l'année prochaine, selon L'Express.",
      "sources": [
-      "ae7e8f4f83d6",
-      "ca43ae7cab1a"
+      "290e7b009b67"
      ]
     },
     {
-     "text": "Le mouvement réunit des « gilets jaunes », des militants du climat, des syndicalistes, des lycéens et des étudiants, après un mois de mobilisation lancé par les établissements scolaires. Les lycéens réclament des moyens humains, financiers et la fin de Parcoursup, selon 20 Minutes. Le président de l'Union syndicale lycéenne, Ryad Rani, a appelé « massivement à rejoindre le mouvement des \" gilets jaunes\" samedi ».",
+     "text": "La présidente de la Commission européenne, Ursula von der Leyen, a confirmé ce besoin de 70 milliards d'euros en 2027, un déficit qui « devra être comblé ». Elle ajoute : « nous avons également besoin de toute urgence que d'autres partenaires prennent le relais », selon Le Monde.",
      "sources": [
-      "ca43ae7cab1a"
+      "90233da16f8a"
      ]
     },
     {
-     "text": "À Paris, le rendez-vous est fixé à 14 heures place de la République, en direction de la place de Clichy, après des discussions « serrées » avec la préfecture de police, selon L'Humanité. Le journal ajoute que le gouvernement a tenté de désamorcer le mécontentement ces derniers jours, avec une enveloppe de 500 à 700 millions d'euros pour le plan de relance agricole et la prolongation d'aides à l'achat de carburants.",
+     "text": "Emmanuel Macron a répondu : « L'Ukraine a fait sa demande, c'est trop tôt pour articuler un chiffre ». Il précise : « On reste pour le moment dans l'enveloppe des 90 milliards [du prêt de l'UE à l'Ukraine] qui sont à débourser », selon Le Monde.",
      "sources": [
-      "1b51b49c806e"
+      "90233da16f8a"
      ]
     },
     {
-     "text": "Sébastien Lecornu a convoqué une cellule interministérielle de crise. Le ministre de l'Intérieur Laurent Nuñez a réautorisé les grenades assourdissantes, interdites après qu'un lycéen a eu une main arrachée à Lens fin septembre. Il prévient : « Il y aura systématiquement intervention en cas de débordements », selon Europe 1.",
+     "text": "« Nous ne lâcherons pas l'Ukraine et les Ukrainiens parce que c'est une guerre de résistance face à la guerre d'agression russe », a déclaré Emmanuel Macron. Face aux « ambiguïtés » de certains, une allusion apparente à Donald Trump, « le rôle des Européens c'est de tenir leur ligne », selon Europe 1.",
      "sources": [
-      "31bc4d2697e1"
+      "2be19e888a62"
      ]
     },
     {
-     "text": "Depuis Bruxelles, Emmanuel Macron a déclaré : « j'appelle au calme et au respect pour préserver ce droit » de manifester. Il estime que « le problème, c'est quand ils sont justement non organisés et qu'il y a des éléments qui sont là uniquement pour casser », selon Europe 1. Il a aussi redit son « soutien » aux forces de l'ordre, selon Le HuffPost.",
+     "text": "Emmanuel Macron a critiqué l'accord entre Donald Trump et Vladimir Poutine, qui lève des sanctions pour permettre aux États-Unis d'importer du diesel russe : « La décision qui a été prise n'est bonne pour personne », selon Europe 1. Selon L'Express, Donald Trump a aussi suspendu l'application de sanctions et de droits de douane prévus par une loi promulguée à la mi-septembre, en invoquant « l'intérêt national des Etats-Unis ».",
      "sources": [
-      "63562032ab67",
-      "90cdaf4cce50"
+      "2be19e888a62",
+      "a96325646a6b"
      ]
     },
     {
-     "text": "Jordan Bardella (RN) n'appelle pas à manifester. Il parle d'un « prétexte pour l'ensemble des groupuscules d'extrême gauche qui vont venir derrière Jean-Luc Mélenchon » et d'une « journée pour la France du chaos », selon Le Parisien.",
+     "text": "Visant la proposition de Marine Le Pen de couper l'aide financière, Emmanuel Macron a dit que cela reviendrait à « passe(r) par dessus bord la sécurité » de l'Europe et des Français : « La capitulation, c'est la faiblesse. La faiblesse, c'est le danger », selon franceinfo.",
      "sources": [
-      "ae7e8f4f83d6"
+      "4ceab6d6d7e1"
      ]
     },
     {
-     "text": "Du côté de La France insoumise, Le Figaro écrit que les Insoumis, « aux avant-postes du mouvement lycéen », prendront part à la mobilisation contre la « vie chère » et « tentent de tirer profit des colères sociales ». La députée LFI Alma Dufour se dit contre « la casse sans discriminer » et estime que le gouvernement « n'entendait que le rapport de force », selon Europe 1.",
+     "text": "Au RN, Sébastien Chenu a dénoncé la « condescendance » de Volodymyr Zelensky, qui avait jugé que Marine Le Pen « ne maîtrise pas bien certains détails » : « Notre économie va finir par s'écrouler et, quand on sera écroulé, on pourra plus aider personne ». Le président ukrainien avait plaidé : « Nous donnons en retour », selon France 24.",
      "sources": [
-      "a20b01a3fbef",
-      "183eb501fa10"
+      "aab88070b6a9"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 8,
-    "outlets": 6
+    "articles": 6,
+    "outlets": 5
    },
    "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/10/16/ffbf03f16a018b94afd08e5e3c549a65ccb3768f0440838bcc0223f3bbf80f14.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
-    "article_id": "a20b01a3fbef",
-    "focus_x": 0.49,
-    "focus_y": 0.6059163284420855
+    "url": "https://www.lexpress.fr/resizer/v2/UPZOMYXEJJH47G3U4WYE2DZ2N4.jpg?auth=b50b2118334dfff1c2dec02f7a2f5459915a14ae10cbc82d8dee20efbeaa81d1&smart=true&width=4300&height=2868",
+    "source": "L'Express",
+    "article_url": "https://www.lexpress.fr/monde/europe/guerre-en-ukraine-le-plaidoyer-de-volodymyr-zelensky-a-lue-pour-une-rallonge-de-70-milliards-deuros-EBQPX3MIK5B45MQFOO3GCZYHHI/",
+    "article_id": "290e7b009b67",
+    "focus_x": 0.38,
+    "focus_y": 0.4737180798336099
    },
-   "id": 137,
+   "id": 140,
    "section": "institutions",
-   "reviewed_at": "2026-10-17T09:18:40+00:00",
+   "reviewed_at": "2026-10-17T17:44:25+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.64,
+   "score": 16.0,
    "sources": [
     {
-     "id": "183eb501fa10",
-     "name": "Europe 1",
+     "id": "290e7b009b67",
+     "name": "L'Express",
      "kind": "media",
-     "title": "Mobilisation du 17 octobre : «Notre problème à tous c’est Emmanuel Macron, il ne veut rien écouter sans rapport de force», estime Alma Dufour",
-     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-notre-probleme-a-tous-cest-emmanuel-macron-il-ne-veut-rien-ecouter-sans-rapport-de-force-estime-alma-dufour-1156511?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-17T08:12:00+00:00",
-     "snippet": "Invitée d'Europe 1 Matin ce samedi, jour de mobilisation dans le pays, la députée LFI Alma Dufour se dit contre les violences et la \"casse sans discriminer\". Mais l'édile dénonce également qu'Emmanuel Macron ne comprend que le rapport de force. Plus de 100.000 manifestants attendus, une dizaine de milliers de membres des forces de l'ordre mobilisée, de nombreux débordements et éclatements de violences à prévoir... La mobilisation du 17 octobre a tout d'une poudrière prête à exploser et à raviver les braises du mouvement des Gilets Jaunes, dont certains battent déjà le pavé. Emmanuel Macron \"je"
-    },
-    {
-     "id": "1b51b49c806e",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Le gouvernement se prépare",
-     "url": "https://www.humanite.fr/-/-/le-gouvernement-se-prepare",
-     "published_at": "2026-10-17T08:38:10+00:00",
-     "snippet": "Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel « au calme », en estimant que le « droit de manifester » doit s’accompagner du « respect » sans « insulter » ni « casser ». « Des débordements sont anticipés dans les cortèges, notamment parisiens et dans les grandes villes » et « les actions…"
-    },
-    {
-     "id": "31bc4d2697e1",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : le gouvernement craint des débordements",
-     "url": "https://www.europe1.fr/societe/mobilisation-du-17-octobre-le-gouvernement-craint-des-debordements-1155122?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-16T18:59:00+00:00",
-     "snippet": "À la veille de la mobilisation du samedi 17 octobre, le gouvernement se prépare à d'éventuels débordements. Réuni en cellule interministérielle de crise, l'exécutif veut répondre aux revendications pour apaiser la colère, tout en affichant une extrême fermeté face aux violences, avec en toile de fond la crainte d'un retour des gilets jaunes. Face au risque de débordements potentiels en marge de la mobilisation du samedi 17 octobre, le gouvernement se prépare. Sébastien Lecornu a convoqué une cellule interministérielle de crise à Beauvau, à l'initiative de Laurent Nuñez. Les maîtres-mots de l'e"
-    },
-    {
-     "id": "63562032ab67",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mobilisations du 17 octobre : Emmanuel Macron lance un appel «au calme»",
-     "url": "https://www.europe1.fr/politique/mobilisations-du-17-octobre-emmanuel-macron-lance-un-appel-au-calme-1155215?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-16T19:14:00+00:00",
-     "snippet": "Ce samedi 17 octobre, de nombreuses manifestations doivent avoir lieu partout en France. Le gouvernement craint les débordements et les actes de violence. Depuis Bruxelles, Emmanuel Macron a lancé un appel \"au calme\". Emmanuel Macron a lancé vendredi, depuis Bruxelles, un appel \"au calme\" à la veille des manifestations du 17 octobre prévues en France, estimant que le \"droit de manifester\" doit s'accompagner du \"respect\" sans \"insulter\" ni \"casser\". Le droit de manifester \"pleinement respecté\" va avec \"le respect des personnes et le respect des biens, et donc de ne pas insulter et de ne pas cas"
-    },
-    {
-     "id": "90cdaf4cce50",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "L’appel d’Emmanuel Macron à la veille des manifestations du 17 octobre",
-     "url": "https://www.huffingtonpost.fr/politique/article/l-appel-d-emmanuel-macron-a-la-veille-des-manifestations-du-17-octobre_340727.html",
-     "published_at": "2026-10-16T18:20:19+00:00",
-     "snippet": "Depuis Bruxelles ce vendredi, le chef de l’État a appelé « au calme et au respect » en amont des mobilisations du 17 octobre."
-    },
-    {
-     "id": "a20b01a3fbef",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : comment Jean-Luc Mélenchon espère tirer profit d’une «convergence des luttes»",
-     "url": "https://www.lefigaro.fr/politique/mobilisation-du-17-octobre-comment-jean-luc-melenchon-espere-tirer-profit-d-une-convergence-des-luttes-20261016",
-     "published_at": "2026-10-16T17:55:00+00:00",
-     "snippet": "DÉCRYPTAGE - Aux avant-postes du mouvement lycéen, les Insoumis prendront part ce samedi à la mobilisation contre la «vie chère» et tentent de tirer profit des colères sociales."
-    },
-    {
-     "id": "ae7e8f4f83d6",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : Bardella dénonce « une journée pour la France du chaos » et « apporte son soutien aux forces de l’ordre »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/mobilisation-du-17-octobre-bardella-denonce-une-journee-pour-la-france-du-chaos-et-apporte-son-soutien-aux-forces-de-lordre-16-10-2026-GTGJT22HKNBTVBDYWU53Q3RTHE.php",
-     "published_at": "2026-10-16T15:53:02+00:00",
+     "title": "Guerre en Ukraine : le plaidoyer de Volodymyr Zelensky à l'UE pour une rallonge de 70 milliards d'euros",
+     "url": "https://www.lexpress.fr/monde/europe/guerre-en-ukraine-le-plaidoyer-de-volodymyr-zelensky-a-lue-pour-une-rallonge-de-70-milliards-deuros-EBQPX3MIK5B45MQFOO3GCZYHHI/",
+     "published_at": "2026-10-16T15:15:00+00:00",
      "snippet": ""
     },
     {
-     "id": "ca43ae7cab1a",
-     "name": "20 Minutes",
+     "id": "2be19e888a62",
+     "name": "Europe 1",
      "kind": "media",
-     "title": "Mobilisation du 17 octobre : La « convergence des luttes » ce samedi peut-elle noyer les revendications des lycéens ?",
-     "url": "https://www.20minutes.fr/societe/4255041-20261017-mobilisation-17-octobre-convergence-luttes-samedi-peut-noyer-revendications-lyceens?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-17T06:17:36+00:00",
-     "snippet": "Des « gilets jaunes », des militants du climat, des syndicalistes et des étudiants vont se mobiliser ce samedi 17 octobre. Le message des lycéens peut-il en pâtir ?"
+     "title": "«Nous ne lâcherons pas l'Ukraine», il faut «tenir la ligne» face aux «ambiguïtés», déclare Emmanuel Macron",
+     "url": "https://www.europe1.fr/international/nous-ne-lacherons-pas-lukraine-il-faut-tenir-la-ligne-face-aux-ambiguites-declare-emmanuel-macron-1155248?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-16T19:33:00+00:00",
+     "snippet": "À Bruxelles, Emmanuel Macron a tenu à renouveler son soutien à l'Ukraine. Le chef de l'État a rappelé que les Européens \"ne lâcheront pas l'Ukraine\" dans une période difficile pour Kiev qui fait face aux incertitudes sur la contribution américaine. Le président de la République, Emmanuel Macron, a martelé vendredi que les Européens \"ne lâcheront pas l'Ukraine\" et \"travaillent\" pour l'aider sur \"les alertes avancées\" de tirs de missiles russes, face aux incertitudes sur la contribution des États-Unis. \"Nous ne lâcherons pas l' Ukraine et les Ukrainiens parce que c'est une guerre de résistance f"
+    },
+    {
+     "id": "4ceab6d6d7e1",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Nous ne lâcherons pas l'Ukraine\", promet Emmanuel Macron à l'issue d'un sommet européen avec Volodymyr Zelensky",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-lacherons-pas-l-ukraine-promet-emmanuel-macron-a-l-issue-d-un-sommet-europeen-avec-volodymyr-zelensky_8240845.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-16T18:04:22+00:00",
+     "snippet": "Le président de la République a tenu une conférence de presse, vendredi en début de soirée, au terme d'une réunion du Conseil européen à Bruxelles où la question ukrainienne était au cœur des discussions."
+    },
+    {
+     "id": "90233da16f8a",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "L’UE « ne lâchera pas l’Ukraine », assure Emmanuel Macron, dénonçant les « ambiguïtés » de certains, en allusion à Donald Trump",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/16/aide-a-l-ukraine-emmanuel-macron-temporise-apres-la-demande-de-kiev-d-une-rallonge-de-70-milliards-d-euros_6795632_823448.html",
+     "published_at": "2026-10-16T17:54:29+00:00",
+     "snippet": "La présidente de la Commission européenne, Ursula von der Leyen, a confirmé de son côté que l’Ukraine aurait besoin de 70 milliards d’euros supplémentaires en 2027 – un déficit qui « devra être comblé »."
+    },
+    {
+     "id": "a96325646a6b",
+     "name": "L'Express",
+     "kind": "media",
+     "title": "Donald Trump suspend de nouvelles sanctions visant la Russie en vertu de \"l'intérêt national des Etats-Unis\" et fragilise davantage l’Ukraine",
+     "url": "https://www.lexpress.fr/monde/europe/donald-trump-suspend-de-nouvelles-sanctions-visant-la-russie-en-vertu-de-linteret-national-des-etats-TO6YY77U3NE5VB4YU75ZPXD2TI/",
+     "published_at": "2026-10-17T09:44:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "aab88070b6a9",
+     "name": "France 24",
+     "kind": "media",
+     "title": "Aides à l'Ukraine : le RN fustige la \"condescendance\" de Zelensky à l'égard de Marine Le Pen",
+     "url": "https://www.france24.com/fr/france/20261016-aides-ukraine-rassemblement-national-s%C3%A9bastien-chenu-marine-le-pen-critique-condescendance-volodymyr-zelensky",
+     "published_at": "2026-10-16T09:29:07+00:00",
+     "snippet": "Le vice-président du Rassemblement national Sébastien Chenu a fustigé vendredi la \"condescendance\" de Volodymyr Zelensky, qui avait affirmé la veille que Marine Le Pen \"ne [maîtrisait] pas bien certains détails\". Le président ukrainien réagissait au projet de la candidate du RN à la présidentielle de couper toute aide à Kiev au bout de six mois si elle était élue."
     }
    ]
   },
@@ -351,7 +476,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.91,
+   "score": 7.67,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -483,7 +608,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.0,
+   "score": 5.79,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -592,7 +717,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.0,
+   "score": 5.79,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -706,7 +831,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.42,
+   "score": 4.31,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -805,7 +930,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.64,
+   "score": 4.48,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -918,7 +1043,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.17,
+   "score": 6.04,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -1083,7 +1208,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.71,
+   "score": 4.62,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -1216,7 +1341,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.85,
+   "score": 4.74,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1331,7 +1456,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.54,
+   "score": 3.46,
    "sources": [
     {
      "id": "556017869975",
@@ -1462,7 +1587,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.75,
+   "score": 6.63,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -1661,7 +1786,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.53,
+   "score": 5.43,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -1817,7 +1942,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.51,
+   "score": 4.43,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -1948,7 +2073,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.5,
+   "score": 4.42,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -2068,7 +2193,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.0,
+   "score": 3.93,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2228,7 +2353,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.8,
+   "score": 3.73,
    "sources": [
     {
      "id": "13ba70fee73e",
