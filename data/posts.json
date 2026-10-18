@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T19:10:21+00:00",
+ "generated_at": "2026-10-18T19:10:26+00:00",
  "posts": [
   {
    "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
@@ -540,6 +540,130 @@
      "url": "https://www.liberation.fr/economie/social/en-direct-mobilisation-du-17-octobre-gerald-darmanin-demande-aux-parquets-une-reponse-extremement-ferme-20261018_OXTKJ7XVGFBXXNVJP34RG2BQCI/",
      "published_at": "2026-10-18T08:40:59+00:00",
      "snippet": "Après une journée émaillée d’épisodes particulièrement chaotiques à Paris, samedi 17 octobre, droite et extrême droite pointent la responsabilité de «l’extrême gauche radicale», tandis que la gauche critique un maintien de l’ordre qui a misé sur le «pourrissement»."
+    }
+   ]
+  },
+  {
+   "headline": "Allocution d'Emmanuel Macron après le 17 octobre : fermeté annoncée, réactions partagées",
+   "chapo": "Dimanche 18 octobre, depuis l'Élysée, Emmanuel Macron a promis la fermeté face aux casseurs et demandé « toute la transparence » sur le maintien de l'ordre. À gauche comme à droite, plusieurs responsables jugent le discours insuffisant.",
+   "points": [
+    {
+     "text": "Emmanuel Macron a parlé d'« un moment d'une extrême gravité » : « Hier, samedi 17 octobre, des factieux issus de groupuscules d'ultra-gauche, rejoints par de nombreux délinquants, se sont livrés à une violence débridée dans nos villes », selon Le HuffPost. Il a ajouté : « Nous ressentons tous ce soir de la colère, de la honte ».",
+     "sources": [
+      "70fa40d49c1d"
+     ]
+    },
+    {
+     "text": "« Ceux qui ont détruit doivent payer, ceux qui ont pillé doivent rembourser », a dit le président, qui dit avoir demandé la « plus grande fermeté » aux procureurs. Une cellule de crise s'ouvre lundi pour « mobiliser toutes les aides rapides possibles » pour les commerçants et artisans touchés, selon L'Humanité.",
+     "sources": [
+      "b0ffbfb0703e"
+     ]
+    },
+    {
+     "text": "Les préfets pourront décider, avec les maires, d'« interdire » certains rassemblements, selon Europe 1. Valeurs actuelles souligne que le code de la sécurité intérieure permet déjà au préfet d'interdire une manifestation en cas de risque pour l'ordre public.",
+     "sources": [
+      "abde437bc419",
+      "59d403e277fd"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron a demandé au gouvernement, et notamment au ministre de l'Intérieur, de « tirer toutes les leçons » en matière de renseignement et d'anticipation : « J'attends des réponses claires et toute la transparence sera faite », selon Europe 1.",
+     "sources": [
+      "abde437bc419"
+     ]
+    },
+    {
+     "text": "Il a demandé de ne pas confondre les manifestants avec les casseurs (« Jamais nous ne devons (les) confondre ») et dit comprendre les lycéens et les étudiants : « Leur parole doit être entendue sans a priori et sans minimiser leurs difficultés », selon LCP.",
+     "sources": [
+      "e489cccbb5b2"
+     ]
+    },
+    {
+     "text": "Il a appelé les partis et les organisations syndicales à « condamner sans ambiguïté toutes les violences ». Sébastien Lecornu les réunira dans les prochains jours. À six mois de la présidentielle, il juge que « ceux qui vous expliquent que l'urgence est d'aller dans la rue et créer le désordre » veulent « abîmer la république et voler le débat », selon LCP et L'Humanité.",
+     "sources": [
+      "e489cccbb5b2",
+      "b0ffbfb0703e"
+     ]
+    },
+    {
+     "text": "Selon un bilan du ministère de l'Intérieur, près de 2 400 personnes ont été interpellées samedi et près d'un millier de policiers et gendarmes ont été blessés, dont sept gravement, d'après LCP.",
+     "sources": [
+      "e489cccbb5b2"
+     ]
+    },
+    {
+     "text": "À gauche, le communiste Fabien Roussel regrette : « Mais rien » sur les réponses à la vie chère, et Marine Tondelier aurait aimé « un mea culpa », selon L'Humanité. À droite, Bruno Retailleau juge le président « totalement dépassé » et demande l'état d'urgence. Valeurs actuelles écrit : « Un discours pour pas grand-chose », avec « une méthode claire, mais peu d'actes ».",
+     "sources": [
+      "b0ffbfb0703e",
+      "59d403e277fd"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Capture%20d%E2%80%99e%CC%81cran%202026-10-18%20a%CC%80%2020.37.34.png?h=bcc57501&itok=HPgurky5",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/violences-du-17-octobre-pour-emmanuel-macron-ceux-qui-ont-detruit-doivent-payer-443949",
+    "article_id": "e489cccbb5b2",
+    "focus_x": 0.5133333333333333,
+    "focus_y": 0.132358280002433
+   },
+   "id": 145,
+   "section": "institutions",
+   "reviewed_at": "2026-10-18T19:10:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "59d403e277fd",
+     "name": "Valeurs actuelles",
+     "kind": "media",
+     "title": "17 octobre : Emmanuel Macron présente une méthode claire, mais peu d’actes",
+     "url": "https://www.valeursactuelles.com/politique/17-octobre-emmanuel-macron-presente-une-methode-claire-mais-peu-dactes",
+     "published_at": "2026-10-18T18:38:29+00:00",
+     "snippet": "Un discours pour pas grand-chose. Dimanche soir, au terme d’un week-end marqué par d’importantes manifestations et des dégradations qui resteront longtemps dans les esprits, Emmanuel Macron a donné une brève... L’article 17 octobre : Emmanuel Macron présente une méthode claire, mais peu d’actes est apparu en premier sur Valeurs actuelles ."
+    },
+    {
+     "id": "70fa40d49c1d",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "« Qu’ont-ils dans la tête ? » : la « colère » et la « honte » d’Emmanuel Macron après les émeutes",
+     "url": "https://www.huffingtonpost.fr/politique/video/qu-ont-ils-dans-la-tete-la-colere-et-la-honte-d-emmanuel-macron-apres-les-emeutes_341618.html",
+     "published_at": "2026-10-18T18:59:01+00:00",
+     "snippet": "Le président de la République s’est adressé aux Français dimanche soir, au lendemain d’émeutes inédites dans le pays."
+    },
+    {
+     "id": "abde437bc419",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Casseurs, préfets, présidentielle... Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron",
+     "url": "https://www.europe1.fr/politique/casseurs-prefets-presidentielle-ce-quil-faut-retenir-de-la-prise-de-parole-demmanuel-macron-1160943?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-18T18:38:00+00:00",
+     "snippet": "Au lendemain des violences et des scènes de pillages qui ont éclaté après les manifestations contre la vie chère, Emmanuel Macron a prononcé une allocution dans laquelle il a promis que l'État serait \"intraitable\" face aux casseurs, les préfets pourront \"interdire\" certains rassemblements. Mais le chef de l'État a également évoqué la prochaine présidentielle. Les scènes de pillages et de violences ont fait le tour du monde et ont choqué. Face à cette situation, Emmanuel Macron a prononcé une allocution aux Français. Depuis le palais de l'Élysée, le chef de l'État a promis que l'exécutif sera \""
+    },
+    {
+     "id": "b0ffbfb0703e",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« Ceux qui vous expliquent que l’urgence est d’aller dans la rue n’ont qu’un but : abîmer la république » : ce qu’il faut retenir de l’allocution d’Emmanuel Macron",
+     "url": "https://www.humanite.fr/politique/emmanuel-macron/ceux-qui-vous-expliquent-que-lurgence-est-daller-dans-la-rue-nont-quun-but-abimer-la-republique-ce-quil-faut-retenir",
+     "published_at": "2026-10-18T18:43:10+00:00",
+     "snippet": "Au lendemain d’une journée de mobilisation émaillée par des violences et des scènes de pillages, Emmanuel Macron s’est adressé aux Français à l’occasion d’une allocution ce dimanche 18 octobre."
+    },
+    {
+     "id": "e489cccbb5b2",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Violences du 17 octobre: pour Emmanuel Macron, \"ceux qui ont détruit doivent payer\"",
+     "url": "https://lcp.fr/actualites/violences-du-17-octobre-pour-emmanuel-macron-ceux-qui-ont-detruit-doivent-payer-443949",
+     "published_at": "2026-10-18T19:02:26+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Dimanche 18 octobre 2026 à 20:43 Le chef de l'Etat, Emmanuel Macron, a pris la parole dimanche soir au lendemain des violences et pillages en marge des manifestations du 17 octobre. \"Ceux qui ont cherché à faire tomber la République auront à en répondre\", a-t-il déclaré, assurant par ailleurs \"entendre la colère\" des lycéens et étudiants. Le Président a aussi eu un mot à l'égard des responsables politiques à six mois de la présidentielle. Ce dimanche soir, lors d'une allocution télévisée, Emmanuel Macron a parlé \"d'un moment d'une extrême gravité\". \"Hier (same"
     }
    ]
   },
