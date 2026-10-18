@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T16:05:25+00:00",
+ "generated_at": "2026-10-18T19:10:21+00:00",
  "posts": [
   {
    "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
@@ -80,7 +80,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.65,
+   "score": 16.0,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -153,144 +153,6 @@
      "url": "https://www.humanite.fr/-/-/pas-un-mot-sur-le-fond-des-manifestations-de-la-part-du-premier-ministre",
      "published_at": "2026-10-17T16:31:51+00:00",
      "snippet": "« Nous ne nous laisserons pas intimider », a assuré ce samedi Sébastien Lecornu, mettant en garde, dans une allusion à LFI, ceux qui veulent faire des violences en marge des manifestations du 17 octobre « un tour de chauffe » avant l’élection présidentielle. « Des groupes d’ultragauche ont organisé la violence dans plusieurs villes de…"
-    }
-   ]
-  },
-  {
-   "headline": "Retailleau : le soutien de François Fillon, la concurrence de David Lisnard",
-   "chapo": "Samedi 17 octobre, François Fillon a apporté son soutien à Bruno Retailleau, qui voit David Lisnard le devancer dans un sondage Ifop. Les deux hommes doivent déjeuner ensemble mercredi 21 octobre.",
-   "points": [
-    {
-     "text": "Lors d'un discours à Avignon, François Fillon a qualifié Bruno Retailleau de « seul candidat crédible qui soit clairement à droite », selon Le Monde. Il a déclaré : « Je ne vois qu'une candidature capable d'engager le sursaut national, c'est celle de Bruno Retailleau », lors des Universités du mouvement Oser la France.",
-     "sources": [
-      "8f51a448f6f5"
-     ]
-    },
-    {
-     "text": "Selon BFMTV, François Fillon s'exprime peu depuis 2017. En 2022, il avait déclaré sa préférence pour Valérie Pécresse. En mai 2025, il avait déjà adoubé Bruno Retailleau dans un entretien au Figaro, y voyant un « anti-Macron ».",
-     "sources": [
-      "ac9e5f035cb1"
-     ]
-    },
-    {
-     "text": "Ce soutien arrive à un moment que BFMTV juge « difficile » pour Bruno Retailleau. Selon un sondage Ifop pour LCI et Sud Radio, David Lisnard est crédité de 6 % au premier tour, un point de plus que lui, contre 3,5 % fin septembre pour le maire de Cannes, selon Le Parisien.",
-     "sources": [
-      "ac9e5f035cb1",
-      "7edc55153cab"
-     ]
-    },
-    {
-     "text": "Sur RTL, Bruno Retailleau a dit « très bien vivre » cette montée de David Lisnard : « C'est à partir de janvier-février que commencera la vraie campagne présidentielle ». Sur Europe 1, il a estimé que « le plus stupide serait qu'on aille tous les deux au bout » : « Il y en a un qui devra évidemment se retirer », selon Le Parisien.",
-     "sources": [
-      "7edc55153cab"
-     ]
-    },
-    {
-     "text": "Sur l'union des droites, Bruno Retailleau affirme : « J'ai toujours voulu l'union des droites, mais par les électeurs, dans les urnes ». Il veut convaincre les électeurs de Reconquête : « Ils sont les bienvenus », selon Europe 1.",
-     "sources": [
-      "97b656c7f999"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, la piste d'une primaire de la droite et du centre « reprend des couleurs ». Bruno Retailleau n'y a pas été hostile, à condition qu'elle démontre son utilité. Ses soutiens citent un sondage Opinionway où il est à 9 %, sans que David Lisnard y soit testé.",
-     "sources": [
-      "1e3843174db9"
-     ]
-    },
-    {
-     "text": "Mercredi 21 octobre, Bruno Retailleau doit déjeuner avec David Lisnard et le maire de Béziers Robert Ménard, à l'initiative de ce dernier, selon Libération. L'entourage de Bruno Retailleau précise que le rendez-vous « était calé avant la parution du sondage ».",
-     "sources": [
-      "4fd0aff36e05"
-     ]
-    },
-    {
-     "text": "Son dernier livre, « De combats et d'espoir », vient de sortir. Le Parisien relève que ses performances tournent entre 6,5 et 8 % selon les configurations de premier tour, tandis que lui affirme garder son cap.",
-     "sources": [
-      "1bec5569dadf"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/09/26/589/0/6439/3219/644/322/60/0/640b352_upload-1-k7eir7bj1btc-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-44.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
-    "article_id": "8f51a448f6f5"
-   },
-   "id": 138,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-17T17:44:48+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.84,
-   "sources": [
-    {
-     "id": "1bec5569dadf",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« S’il ne prend pas de risques… » : la mauvaise passe de Bruno Retailleau",
-     "url": "https://www.leparisien.fr/elections/presidentielle/sil-ne-prend-pas-de-risques-la-mauvaise-passe-de-bruno-retailleau-15-10-2026-G4AB5A2QQFFX3ELEHU62PZ6IKQ.php",
-     "published_at": "2026-10-15T22:32:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "1e3843174db9",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
-     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
-     "published_at": "2026-10-15T17:30:00+00:00",
-     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
-    },
-    {
-     "id": "4fd0aff36e05",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
-     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
-     "published_at": "2026-10-16T09:20:02+00:00",
-     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
-    },
-    {
-     "id": "7edc55153cab",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : David Lisnard devant Bruno Retailleau selon un sondage, le candidat LR répond « très bien le vivre »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-devant-bruno-retailleau-selon-un-sondage-le-candidat-lr-repond-tres-bien-le-vivre-15-10-2026-BS3HYOSMMJDCDGXA6YWFHZYLBQ.php",
-     "published_at": "2026-10-15T13:40:21+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "8f51a448f6f5",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
-     "published_at": "2026-10-17T12:31:21+00:00",
-     "snippet": "« Je ne vois qu’une candidature capable d’engager le sursaut national, c’est celle de Bruno Retailleau », a déclaré l’ex-candidat en 2017, dont la campagne avait vacillé avec les révélations sur les emplois fictifs de sa femme, Penelope."
-    },
-    {
-     "id": "97b656c7f999",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Présidentielle 2027 : «J'ai toujours voulu l'union des droites par les électeurs, dans les urnes», affirme Bruno Retailleau",
-     "url": "https://www.europe1.fr/politique/presidentielle-2027-jai-toujours-voulu-lunion-des-droites-par-les-electeurs-dans-les-urnes-affirme-bruno-retailleau-1151717?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T16:52:00+00:00",
-     "snippet": "Invité de \"Pascal Praud et vous\" sur Europe 1 ce jeudi, Bruno Retailleau a précisé sa position sur l'union des droites. Le candidat à l'élection présidentielle souhaite avant tout rassembler les électeurs, notamment ceux de Reconquête. À quoi pourrait ressembler \"l'union des droites\" en vue de 2027 ? Interrogé dans l'émission Pascal Praud et vous sur la possibilité de travailler avec des personnalités comme David Lisnard, Robert Ménard ou des représentants de Reconquête, Bruno Retailleau précise sa stratégie. \"Je n'ai jamais cru à ce qu'on a appelé l'union des droites. Marine Le Pen est la pre"
-    },
-    {
-     "id": "ac9e5f035cb1",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
-     "published_at": "2026-10-17T11:12:43+00:00",
-     "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
     }
    ]
   },
@@ -368,7 +230,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.72,
+   "score": 13.32,
    "sources": [
     {
      "id": "577ecbf58f17",
@@ -423,6 +285,130 @@
      "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-15T19:15:00+00:00",
      "snippet": "Selon les résultats d'un sondage OpinonWay pour CNews et relayé par Europe 1, la candidate du Rassemblement national à la présidentielle, Marine Le Pen, est en tête des intentions de vote. La députée du Pas-de-Calais obtiendrait 35% des suffrages au premier tour, et devancerait Édouard Philippe, Jean-Luc Mélenchon ou Raphaël Glucksmann au deuxième tour. À six mois de l'élection présidentielle, Marine Le Pen confirme son statut de grande favorite. Dans un sondage OpinionWay pour CNEWS*, réalisé les 13 et 14 octobre et relayé par Europe 1, la candidate du Rassemblement national recueille 35% d'i"
+    }
+   ]
+  },
+  {
+   "headline": "Après le 17 octobre, La France insoumise et Mélenchon au cœur des accusations croisées",
+   "chapo": "Le gouvernement, Les Républicains et le RN accusent La France insoumise d'avoir attisé les violences du 17 octobre. Jean-Luc Mélenchon condamne le pillage mais met en cause le maintien de l'ordre et le pouvoir.",
+   "points": [
+    {
+     "text": "Sébastien Lecornu accuse La France insoumise de vouloir faire de ces débordements « un tour de chauffe » avant la présidentielle. Il somme Jean-Luc Mélenchon de « choisir son camp » : « le camp de la République et donc des forces de l'ordre » ou celui des casseurs, selon 20 Minutes.",
+     "sources": [
+      "38c836c3739f"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon répond que le Premier ministre a « joué avec le feu, en comptant sur le pourrissement » et le juge « un commis qui est en train de provoquer une crise de régime ». Il appelle aussi à l'apaisement : « ceux qui partagent notre combat n'ont rien à faire dans le pillage, le saccage », selon 20 Minutes.",
+     "sources": [
+      "38c836c3739f"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau (LR) affirme que les élus LFI « ont armé la violence avec leurs mots d'ordre ». Il cite « Abattez la citadelle », écrit par Jean-Luc Mélenchon sur X, et la phrase du maire de Saint-Denis Bally Bagayoko, « La violence, à un moment donné, peut être légitime », que ce dernier avait nuancée : « Chaque fois qu'on peut l'éviter, c'est mieux », selon franceinfo.",
+     "sources": [
+      "522ae3e2f3b9"
+     ]
+    },
+    {
+     "text": "Selon Bruno Retailleau, Jean-Luc Mélenchon « a manipulé le mouvement des lycéens » pour « une sorte de répétition générale du troisième tour de l'élection présidentielle », selon franceinfo.",
+     "sources": [
+      "522ae3e2f3b9"
+     ]
+    },
+    {
+     "text": "Marine Le Pen juge que les « revendications sociales légitimes ont une nouvelle fois été prises en otage par l'extrême gauche » et par des députés de Jean-Luc Mélenchon qui, selon elle, « en légitimant la violence » cherchent « à précipiter le pays dans le chaos ». Le JDD note que le parti a soutenu les mobilisations avant de condamner les violences.",
+     "sources": [
+      "14ddfc9edd6d"
+     ]
+    },
+    {
+     "text": "Du côté de LFI, le député Éric Coquerel estime que le gouvernement est « principalement responsable de ce qui est en train d'arriver », selon franceinfo. Mediapart écrit que le pouvoir « essaie grossièrement de faire peser sur La France insoumise la responsabilité de l'embrasement ».",
+     "sources": [
+      "1b1c9223b92b",
+      "e30840e1bb4d"
+     ]
+    },
+    {
+     "text": "Selon 20 Minutes, Jean-Luc Mélenchon a fait de la jeunesse un pilier de sa stratégie et compte sur la mobilisation lycéenne pour gagner des points à six mois de la présidentielle. Dans un sondage Elabe réalisé avant les violences, il est crédité de 15 à 16 % au premier tour, en hausse de 1 à 2 points depuis fin août, d'après La Dépêche du Midi.",
+     "sources": [
+      "38c836c3739f",
+      "9f872caa2a2d"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/5LgcWi3cRDe9D6LowGsYfik/1200x768_17-octobre-2026-paris-france-paris-france-17-octobre-2026-des-manifestants-affrontent-la-police-anti-emeute-autour-de-la-place-de-la-republique-lors-de-manifestations-impliquant-des-lyceens-des-militants-des-gilets-jaunes-et-d-autres-groupes-contre-les-conditions-d-enseignement-et-le-cout-eleve-de-la-vie-la-police-utilise-des-gaz-lacrymogenes-et-des-canons-a-eau-lors-des-affrontements-image-de-credit-camilla-baronetto-jna-via-zuma-press-wire-20261017-zna-q101-204-zeus-2610180138",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4255258-20261018-mobilisation-17-octobre-clash-entre-lecornu-melenchon-responsabilite-violences?at_medium=display&at_campaign=149",
+    "article_id": "38c836c3739f"
+   },
+   "id": 144,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-18T19:10:21+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 16.0,
+   "sources": [
+    {
+     "id": "14ddfc9edd6d",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Émeutes du 17 octobre : Marine Le Pen fustige la «stratégie incendiaire» de LFI",
+     "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-marine-le-pen-fustige-la-strategie-incendiaire-de-lfi-186336",
+     "published_at": "2026-10-18T07:37:57+00:00",
+     "snippet": "Les violences survenues en marge des mobilisations du 17 octobre ont suscité la colère de Marine Le Pen. La candidate à la présidentielle pointe la responsabilité de La France insoumise."
+    },
+    {
+     "id": "1b1c9223b92b",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Le gouvernement est \"principalement responsable de ce qui est en train d’arriver\", dénonce Éric Coquerel au lendemain des violences du 17 octobre",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-est-principalement-responsable-de-ce-qui-est-en-train-d-arriver-denonce-eric-coquerel-au-lendemain-des-violences-du-17-octobre_8242570.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-18T08:46:45+00:00",
+     "snippet": "Le député LFI de Seine-Saint-Denis souligne que les insoumis n'étaient samedi que \"dans les rassemblements pacifiques\" et considère que le gouvernement \"ne comprend pas la situation qu'il a lui-même déclenchée.\""
+    },
+    {
+     "id": "38c836c3739f",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : Clash entre Lecornu et Mélenchon sur la responsabilité des violences",
+     "url": "https://www.20minutes.fr/politique/4255258-20261018-mobilisation-17-octobre-clash-entre-lecornu-melenchon-responsabilite-violences?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-18T00:36:14+00:00",
+     "snippet": "Le Premier ministre et le leader de LFI se rejettent la faute des affrontements, dégradations et pillages à Paris, Lyon, Marseille, Lille, Nice ou encore Limoges"
+    },
+    {
+     "id": "522ae3e2f3b9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Les élus LFI \"ont armé la violence avec leurs mots d'ordre\", accuse le président de LR Bruno Retailleau",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-elus-lfi-ont-arme-la-violence-avec-leurs-mots-d-ordre-accuse-le-president-de-lr-bruno-retailleau_8242834.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-18T12:54:41+00:00",
+     "snippet": "Le candidat LR à la présidentielle accuse La France insoumise d'avoir plus ou moins directement provoqué les scènes de violences et de pillages en marge de la mobilisation du 17 octobre."
+    },
+    {
+     "id": "9f872caa2a2d",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote",
+     "url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
+     "published_at": "2026-10-18T07:11:24+00:00",
+     "snippet": "Marine Le Pen reste donnée largement en tête des intentions de vote au premier tour de la présidentielle, selon un nouveau sondage Elabe publié ce dimanche. Rien n'est joué pour la seconde place où trois candidats..."
+    },
+    {
+     "id": "e30840e1bb4d",
+     "name": "Mediapart",
+     "kind": "media",
+     "title": "Acculé après le fiasco du 17 octobre, le pouvoir se défausse sur LFI",
+     "url": "https://www.mediapart.fr/journal/politique/181026/accule-apres-le-fiasco-du-17-octobre-le-pouvoir-se-defausse-sur-lfi",
+     "published_at": "2026-10-18T10:33:17+00:00",
+     "snippet": "Depuis un mois le pouvoir tente d’étouffer la contestation sociale par le mépris, la répression et le discrédit. Au lendemain d’une mobilisation massive marquée par des scènes de chaos sans précédent, il essaie grossièrement de faire peser sur La France insoumise la responsabilité de l’embrasement. Pour le plus grand plaisir de l’extrême droite."
     }
    ]
   },
@@ -499,7 +485,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.09,
+   "score": 11.84,
    "sources": [
     {
      "id": "2a7d1ed788b9",
@@ -626,7 +612,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.76,
+   "score": 8.3,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -703,6 +689,144 @@
    ]
   },
   {
+   "headline": "Retailleau : le soutien de François Fillon, la concurrence de David Lisnard",
+   "chapo": "Samedi 17 octobre, François Fillon a apporté son soutien à Bruno Retailleau, qui voit David Lisnard le devancer dans un sondage Ifop. Les deux hommes doivent déjeuner ensemble mercredi 21 octobre.",
+   "points": [
+    {
+     "text": "Lors d'un discours à Avignon, François Fillon a qualifié Bruno Retailleau de « seul candidat crédible qui soit clairement à droite », selon Le Monde. Il a déclaré : « Je ne vois qu'une candidature capable d'engager le sursaut national, c'est celle de Bruno Retailleau », lors des Universités du mouvement Oser la France.",
+     "sources": [
+      "8f51a448f6f5"
+     ]
+    },
+    {
+     "text": "Selon BFMTV, François Fillon s'exprime peu depuis 2017. En 2022, il avait déclaré sa préférence pour Valérie Pécresse. En mai 2025, il avait déjà adoubé Bruno Retailleau dans un entretien au Figaro, y voyant un « anti-Macron ».",
+     "sources": [
+      "ac9e5f035cb1"
+     ]
+    },
+    {
+     "text": "Ce soutien arrive à un moment que BFMTV juge « difficile » pour Bruno Retailleau. Selon un sondage Ifop pour LCI et Sud Radio, David Lisnard est crédité de 6 % au premier tour, un point de plus que lui, contre 3,5 % fin septembre pour le maire de Cannes, selon Le Parisien.",
+     "sources": [
+      "ac9e5f035cb1",
+      "7edc55153cab"
+     ]
+    },
+    {
+     "text": "Sur RTL, Bruno Retailleau a dit « très bien vivre » cette montée de David Lisnard : « C'est à partir de janvier-février que commencera la vraie campagne présidentielle ». Sur Europe 1, il a estimé que « le plus stupide serait qu'on aille tous les deux au bout » : « Il y en a un qui devra évidemment se retirer », selon Le Parisien.",
+     "sources": [
+      "7edc55153cab"
+     ]
+    },
+    {
+     "text": "Sur l'union des droites, Bruno Retailleau affirme : « J'ai toujours voulu l'union des droites, mais par les électeurs, dans les urnes ». Il veut convaincre les électeurs de Reconquête : « Ils sont les bienvenus », selon Europe 1.",
+     "sources": [
+      "97b656c7f999"
+     ]
+    },
+    {
+     "text": "Selon Le Figaro, la piste d'une primaire de la droite et du centre « reprend des couleurs ». Bruno Retailleau n'y a pas été hostile, à condition qu'elle démontre son utilité. Ses soutiens citent un sondage Opinionway où il est à 9 %, sans que David Lisnard y soit testé.",
+     "sources": [
+      "1e3843174db9"
+     ]
+    },
+    {
+     "text": "Mercredi 21 octobre, Bruno Retailleau doit déjeuner avec David Lisnard et le maire de Béziers Robert Ménard, à l'initiative de ce dernier, selon Libération. L'entourage de Bruno Retailleau précise que le rendez-vous « était calé avant la parution du sondage ».",
+     "sources": [
+      "4fd0aff36e05"
+     ]
+    },
+    {
+     "text": "Son dernier livre, « De combats et d'espoir », vient de sortir. Le Parisien relève que ses performances tournent entre 6,5 et 8 % selon les configurations de premier tour, tandis que lui affirme garder son cap.",
+     "sources": [
+      "1bec5569dadf"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/09/26/589/0/6439/3219/644/322/60/0/640b352_upload-1-k7eir7bj1btc-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-44.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
+    "article_id": "8f51a448f6f5"
+   },
+   "id": 138,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-17T17:44:48+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.23,
+   "sources": [
+    {
+     "id": "1bec5569dadf",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« S’il ne prend pas de risques… » : la mauvaise passe de Bruno Retailleau",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sil-ne-prend-pas-de-risques-la-mauvaise-passe-de-bruno-retailleau-15-10-2026-G4AB5A2QQFFX3ELEHU62PZ6IKQ.php",
+     "published_at": "2026-10-15T22:32:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "1e3843174db9",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
+     "published_at": "2026-10-15T17:30:00+00:00",
+     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
+    },
+    {
+     "id": "4fd0aff36e05",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
+     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
+     "published_at": "2026-10-16T09:20:02+00:00",
+     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
+    },
+    {
+     "id": "7edc55153cab",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : David Lisnard devant Bruno Retailleau selon un sondage, le candidat LR répond « très bien le vivre »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-devant-bruno-retailleau-selon-un-sondage-le-candidat-lr-repond-tres-bien-le-vivre-15-10-2026-BS3HYOSMMJDCDGXA6YWFHZYLBQ.php",
+     "published_at": "2026-10-15T13:40:21+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "8f51a448f6f5",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
+     "published_at": "2026-10-17T12:31:21+00:00",
+     "snippet": "« Je ne vois qu’une candidature capable d’engager le sursaut national, c’est celle de Bruno Retailleau », a déclaré l’ex-candidat en 2017, dont la campagne avait vacillé avec les révélations sur les emplois fictifs de sa femme, Penelope."
+    },
+    {
+     "id": "97b656c7f999",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Présidentielle 2027 : «J'ai toujours voulu l'union des droites par les électeurs, dans les urnes», affirme Bruno Retailleau",
+     "url": "https://www.europe1.fr/politique/presidentielle-2027-jai-toujours-voulu-lunion-des-droites-par-les-electeurs-dans-les-urnes-affirme-bruno-retailleau-1151717?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T16:52:00+00:00",
+     "snippet": "Invité de \"Pascal Praud et vous\" sur Europe 1 ce jeudi, Bruno Retailleau a précisé sa position sur l'union des droites. Le candidat à l'élection présidentielle souhaite avant tout rassembler les électeurs, notamment ceux de Reconquête. À quoi pourrait ressembler \"l'union des droites\" en vue de 2027 ? Interrogé dans l'émission Pascal Praud et vous sur la possibilité de travailler avec des personnalités comme David Lisnard, Robert Ménard ou des représentants de Reconquête, Bruno Retailleau précise sa stratégie. \"Je n'ai jamais cru à ce qu'on a appelé l'union des droites. Marine Le Pen est la pre"
+    },
+    {
+     "id": "ac9e5f035cb1",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
+     "published_at": "2026-10-17T11:12:43+00:00",
+     "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
+    }
+   ]
+  },
+  {
    "headline": "Ukraine : Zelensky demande 70 milliards de plus à l'UE, Macron temporise, le RN critique",
    "chapo": "Vendredi 16 octobre, à Bruxelles, Volodymyr Zelensky a demandé une rallonge de 70 milliards d'euros pour 2027. Emmanuel Macron promet de ne pas « lâcher l'Ukraine » mais juge « trop tôt » pour donner un chiffre. Donald Trump suspend de nouvelles sanctions contre la Russie.",
    "points": [
@@ -769,7 +893,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.28,
+   "score": 7.77,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -892,7 +1016,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.21,
+   "score": 5.83,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -1006,7 +1130,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.49,
+   "score": 5.28,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -1137,7 +1261,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.44,
+   "score": 5.21,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -1269,7 +1393,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.99,
+   "score": 3.83,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -1378,7 +1502,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.99,
+   "score": 3.83,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -1492,7 +1616,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.23,
+   "score": 3.12,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -1591,7 +1715,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.06,
+   "score": 2.93,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -1704,7 +1828,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.77,
+   "score": 4.63,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -1869,7 +1993,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.64,
+   "score": 3.54,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -2002,7 +2126,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.66,
+   "score": 3.55,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -2117,7 +2241,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.73,
+   "score": 2.65,
    "sources": [
     {
      "id": "556017869975",
@@ -2154,135 +2278,6 @@
      "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
      "published_at": "2026-10-15T05:16:38+00:00",
      "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
-    }
-   ]
-  },
-  {
-   "headline": "Natacha Polony candidate à la présidentielle : « Nous sommes la France »",
-   "chapo": "Mercredi 14 octobre, l'essayiste et ancienne directrice de Marianne a annoncé sur France Inter sa candidature pour « rassembler les orphelins de la politique ». Souverainiste, elle propose « une politique de production ». Reste à réunir les 500 signatures d'élus.",
-   "points": [
-    {
-     "text": "« Nous sommes dans le chaos. La situation m'oblige. Oui, je suis candidate à l'élection présidentielle », a déclaré Natacha Polony sur France Inter, selon CNews. Son slogan : « Nous sommes la France ».",
-     "sources": [
-      "e708a1706556"
-     ]
-    },
-    {
-     "text": "Elle veut représenter « tous les orphelins de la politique », selon CNews, qui précise qu'elle entend donner une alternative au duel qui semble se profiler entre le RN et LFI. Elle se positionne entre des offres « perçues comme des offres qui fracturent » et « des gens qui ont exercé le pouvoir », selon LCP.",
-     "sources": [
-      "95bc0c24f8f4",
-      "e708a1706556"
-     ]
-    },
-    {
-     "text": "Son projet : une « politique de production », en privilégiant les entreprises qui produisent sur le sol français, pour remédier à la « perte totale de rang de la France sur les questions économiques, sur notre indépendance, sur la souveraineté », rapporte La Croix. Le Monde parle d'un « souverainisme de gauche ».",
-     "sources": [
-      "df57eba2fe2e",
-      "708fda50618c"
-     ]
-    },
-    {
-     "text": "Directrice de la revue L'Audace !, elle revendique 60 000 sympathisants un mois et demi après le lancement de son mouvement, selon La Croix. Elle défend une ligne souverainiste et pro-laïcité.",
-     "sources": [
-      "df57eba2fe2e"
-     ]
-    },
-    {
-     "text": "Son parcours : ancienne directrice de la rédaction de Marianne, chroniqueuse de télévision, déjà engagée en politique aux côtés de Jean-Pierre Chevènement, elle avait obtenu 2,24 % des voix aux législatives de 2002 à Paris, selon La Croix.",
-     "sources": [
-      "df57eba2fe2e"
-     ]
-    },
-    {
-     "text": "Côté programme, LCP rapporte qu'elle propose d'augmenter les salaires de 20 à 30 % et un « état d'urgence de la production ». Obstacle principal : les 500 signatures d'élus, une règle qu'elle juge « aberrante » mais à laquelle elle doit se conformer.",
-     "sources": [
-      "95bc0c24f8f4"
-     ]
-    },
-    {
-     "text": "Une candidature de plus : la 34e à ce jour selon CNews, « la 28e » selon le titre de 20 Minutes. Libération raille une « énième candidature ». Elle répond : « Cela ne m'a pas échappé, mais jusqu'à présent, ça n'a absolument pas débloqué la situation ».",
-     "sources": [
-      "e708a1706556",
-      "48d0d3a7d1fa",
-      "95688f925d07",
-      "95bc0c24f8f4"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_mcohen_3270432-taille1200_6acf194e55810.jpg?itok=MMaSk2SX",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
-    "article_id": "e708a1706556",
-    "focus_x": 0.48333333333333334,
-    "focus_y": 0.055092592592592596
-   },
-   "id": 122,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-14T16:12:41+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.6,
-   "sources": [
-    {
-     "id": "48d0d3a7d1fa",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : L’essayiste et journaliste Natacha Polony se déclare candidate, ce n’est que la 28e",
-     "url": "https://www.20minutes.fr/politique/4254145-20261014-presidentielle-2027-essayiste-journaliste-natacha-polony-declare-candidate-28e?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-14T06:43:41+00:00",
-     "snippet": "Natacha Polony, essayiste et journaliste de 51 ans, annonce sa candidature à l’élection présidentielle de 2027 avec son mouvement « Nous sommes la France »"
-    },
-    {
-     "id": "708fda50618c",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Natacha Polony se déclare candidate pour « perturber le jeu politique »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-natacha-polony-se-declare-candidate_6793497_823448.html",
-     "published_at": "2026-10-14T06:25:56+00:00",
-     "snippet": "La journaliste se revendique du souverainisme de gauche. Elle dit constater « une perte totale de rang de la France sur les questions économiques, sur [son] indépendance, sur la souveraineté », et veut proposer « une politique de production »."
-    },
-    {
-     "id": "95688f925d07",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Natacha Polony se sent «obligée» d’ajouter une énième candidature à l’élection présidentielle",
-     "url": "https://www.liberation.fr/politique/natacha-polony-se-sent-obligee-dajouter-une-enimene-candidature-a-lelection-presidentielle-20261014_YTMYBQ5RPVGCHAIJI3PECRAQQM/",
-     "published_at": "2026-10-14T06:32:13+00:00",
-     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
-    },
-    {
-     "id": "95bc0c24f8f4",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Natacha Polony annonce sa candidature à l'élection présidentielle",
-     "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
-     "published_at": "2026-10-14T09:47:58+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Mercredi 14 octobre 2026 à 08:36 La journaliste et essayiste Natacha Polony a confirmé ce mercredi sa candidature à l'élection présidentielle de 2027. \" Je ne peux pas continuer à regarder mon pays s'effondrer\", a-t-elle justifié sur France Inter. \"La situation m'oblige\". Parce que \"la situation (l')oblige\" et que la France est dans \"le chaos\", Natacha Polony a annoncé sa candidature à l'élection présidentielle ce mercredi 14 octobre sur France Inter . Pourquoi elle, alors que beaucoup de candidats sont déjà sur la ligne de départ ? \"Cela ne m'a pas échappé, m"
-    },
-    {
-     "id": "df57eba2fe2e",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Élection présidentielle 2027 : l’essayiste Natacha Polony annonce sa candidature",
-     "url": "https://www.la-croix.com/politique/election-presidentielle-2027-l-essayiste-natacha-polony-annonce-sa-candidature-20261014",
-     "published_at": "2026-10-14T08:23:41+00:00",
-     "snippet": "L’essayiste et ancienne directrice de Marianne a annoncé mercredi 14 octobre sur France Inter vouloir « rassembler les orphelins de la politique ». Une candidature qui s’inscrit dans la continuité du mouvement politique qu’elle a lancé en septembre."
-    },
-    {
-     "id": "e708a1706556",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : l'essayiste Natacha Polony annonce sa candidature",
-     "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782",
-     "published_at": "2026-10-14T06:19:29+00:00",
-     "snippet": "Natacha Polony a annoncé ce mercredi matin sa candidature à l'élection présidentielle de 2027. Sur son compte X, l'essayiste a partagé son slogan de campagne, «Nous sommes la France». Elle n'en faisait pas un mystère, c'est désormais officiel. L'essayiste Natacha Polony a annoncé ce mercredi sa candidature à l'élection présidentielle de 2027, la 34e à ce jour. «Nous sommes dans le chaos. La situation m’oblige. Oui, je suis candidate à l’élection présidentielle. Je ne peux pas continuer à regarder mon pays s’effondrer», a-t-elle déclaré sur France Inter, dévoilant par la même occasion son sloga"
     }
    ]
   }
