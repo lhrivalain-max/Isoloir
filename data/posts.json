@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T10:44:50+00:00",
+ "generated_at": "2026-10-18T10:44:53+00:00",
  "posts": [
   {
    "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
@@ -291,6 +291,138 @@
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
      "published_at": "2026-10-17T11:12:43+00:00",
      "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
+    }
+   ]
+  },
+  {
+   "headline": "Présidentielle : trois sondages, Le Pen loin devant et un match à trois pour la seconde place",
+   "chapo": "Trois sondages publiés cette semaine (OpinionWay, Elabe, YouGov) placent Marine Le Pen largement en tête. Pour la seconde place, Jean-Luc Mélenchon, Raphaël Glucksmann et Édouard Philippe sont au coude-à-coude.",
+   "points": [
+    {
+     "text": "Selon le sondage Elabe, réalisé avant les violences du 17 octobre, Marine Le Pen recueille entre 31 et 33,5 % des intentions de vote au premier tour. Elle perd entre 1 et 1,5 point par rapport à fin août, d'après La Dépêche du Midi.",
+     "sources": [
+      "9f872caa2a2d",
+      "577ecbf58f17"
+     ]
+    },
+    {
+     "text": "La seconde place se joue à trois, selon BFMTV. Édouard Philippe est crédité de 15,5 à 16,5 % s'il est l'unique candidat du bloc central, Raphaël Glucksmann de 15 à 16,5 % (en hausse de 2,5 à 4 points depuis fin août) et Jean-Luc Mélenchon de 15 à 16 % (en hausse de 1 à 2 points), d'après La Dépêche du Midi.",
+     "sources": [
+      "577ecbf58f17",
+      "9f872caa2a2d"
+     ]
+    },
+    {
+     "text": "Au second tour, Marine Le Pen l'emporterait dans tous les cas testés : 69 % contre 31 % face à Jean-Luc Mélenchon, 53,5 % contre 46,5 % face à Raphaël Glucksmann, 52,5 % contre 47,5 % face à Édouard Philippe. L'échantillon compte 1 701 personnes, avec une marge d'erreur de 1,2 à 2,8 points, et un sondage « n'a pas une valeur prédictive », rappelle La Dépêche du Midi.",
+     "sources": [
+      "9f872caa2a2d"
+     ]
+    },
+    {
+     "text": "Dans un sondage OpinionWay réalisé les 13 et 14 octobre, Marine Le Pen recueille 35 % au premier tour (+1 point), devant Jean-Luc Mélenchon (15 %, -2), Raphaël Glucksmann (13 %, +4) et Édouard Philippe (12 %, -3), puis Bruno Retailleau (6 %), Éric Zemmour (5 %, +3) et David Lisnard (4 %), selon Europe 1.",
+     "sources": [
+      "df0e8958c1b7"
+     ]
+    },
+    {
+     "text": "Au second tour, Marine Le Pen l'emporterait avec 68 % contre Jean-Luc Mélenchon, et 56 % contre Édouard Philippe ou Raphaël Glucksmann, selon Le JDD, qui rappelle qu'elle avait recueilli 41 % des voix face à Emmanuel Macron en 2022.",
+     "sources": [
+      "d5660836de93"
+     ]
+    },
+    {
+     "text": "Le sondage YouGov pour Le HuffPost place Marine Le Pen à 35 à 37 %. Jean-Luc Mélenchon arrive deuxième avec 13 à 16 %, quel que soit le nombre de candidats à gauche et au centre. Raphaël Glucksmann obtient 12 à 14 % et Édouard Philippe 13 % s'il est le seul représentant du bloc central, selon Le HuffPost.",
+     "sources": [
+      "bdc1725cb44c"
+     ]
+    },
+    {
+     "text": "Selon Le HuffPost, les candidats liés de près ou de loin à Emmanuel Macron sont « en grande difficulté » à six mois du scrutin. Marine Tondelier est créditée de 5 à 6 % et Fabien Roussel de 3 %.",
+     "sources": [
+      "bdc1725cb44c"
+     ]
+    },
+    {
+     "text": "À gauche, Olivier Faure, premier secrétaire du Parti socialiste, a assuré dans un entretien au Parisien vouloir « la victoire » de Raphaël Glucksmann, une semaine après sa défaite à la primaire, selon Ouest-France. Une rencontre entre les deux est prévue dans les prochains jours.",
+     "sources": [
+      "9fb68c80f352"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://images.ladepeche.fr/api/v1/images/view/6ad46fb236944d1c630b01af/standard/image.jpg?v=1",
+    "source": "La Dépêche du Midi",
+    "article_url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
+    "article_id": "9f872caa2a2d",
+    "focus_x": 0.51,
+    "focus_y": 0.0901388888888889
+   },
+   "id": 143,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-18T10:44:53+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "577ecbf58f17",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon donnés au coude-à-coude derrière Marine Le Pen",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_VN-202610180084.html",
+     "published_at": "2026-10-18T06:05:40+00:00",
+     "snippet": "Six mois avant le premier tour de l'élection présidentielle, la candidate du Rassemblement national continue de faire largement la course en tête, d'après le dernier sondage Elabe pour BFMTV et La Tribune Dimanche. Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon seraient tous les trois potentiellement à même de se qualifier pour le second tour."
+    },
+    {
+     "id": "9f872caa2a2d",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote",
+     "url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
+     "published_at": "2026-10-18T07:11:24+00:00",
+     "snippet": "Marine Le Pen reste donnée largement en tête des intentions de vote au premier tour de la présidentielle, selon un nouveau sondage Elabe publié ce dimanche. Rien n'est joué pour la seconde place où trois candidats..."
+    },
+    {
+     "id": "9fb68c80f352",
+     "name": "Ouest-France",
+     "kind": "media",
+     "title": "Présidentielle : Olivier Faure sort du silence et assure soutenir Glucksmann",
+     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-olivier-faure-sort-du-silence-et-assure-soutenir-glucksmann-38af7e7c-ca73-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+     "published_at": "2026-10-17T22:12:35+00:00",
+     "snippet": "Dans un entretien au Parisien samedi 17 octobre, Olivier Faure a assuré vouloir « la victoire » de Raphaël Glucksmann à l’élection présidentielle, une semaine après sa défaite à la primaire de la gauche. Une rencontre entre les deux politiques est prévue dans les prochains jours."
+    },
+    {
+     "id": "bdc1725cb44c",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Notre premier sondage pour la présidentielle : loin derrière Le Pen, un match à trois pour le second tour",
+     "url": "https://www.huffingtonpost.fr/politique/article/notre-premier-sondage-pour-la-presidentielle-loin-derriere-le-pen-un-match-a-trois-pour-le-second-tour_341090.html",
+     "published_at": "2026-10-18T05:15:10+00:00",
+     "snippet": "Les premières intentions de vote réalisées par YouGov pour « Le HuffPost » donnent Mélenchon, Glucksmann et Philippe, dans un mouchoir de poche. Avantage à l’Insoumis."
+    },
+    {
+     "id": "d5660836de93",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "SONDAGE – Présidentielle 2027 : Le Pen loin devant, Glucksmann talonne Mélenchon",
+     "url": "https://www.lejdd.fr/politique/sondage-presidentielle-2027-le-pen-loin-devant-glucksmann-talonne-melenchon-186135",
+     "published_at": "2026-10-15T19:00:04+00:00",
+     "snippet": "Selon un nouveau sondage OpinionWay pour CNews, la candidate du RN recueillerait 35 % des voix au premier tour de l’élection présidentielle, suivie de Jean-Luc Mélenchon. Porté par sa victoire à la primaire sociale-démocrate, Raphaël Glucksmann se placerait devant Édouard Philippe."
+    },
+    {
+     "id": "df0e8958c1b7",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "SONDAGE - Présidentielle 2027 : Marine Le Pen largement en tête au 1er tour et gagnante dans tous les scénarios de 2nd tour",
+     "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T19:15:00+00:00",
+     "snippet": "Selon les résultats d'un sondage OpinonWay pour CNews et relayé par Europe 1, la candidate du Rassemblement national à la présidentielle, Marine Le Pen, est en tête des intentions de vote. La députée du Pas-de-Calais obtiendrait 35% des suffrages au premier tour, et devancerait Édouard Philippe, Jean-Luc Mélenchon ou Raphaël Glucksmann au deuxième tour. À six mois de l'élection présidentielle, Marine Le Pen confirme son statut de grande favorite. Dans un sondage OpinionWay pour CNEWS*, réalisé les 13 et 14 octobre et relayé par Europe 1, la candidate du Rassemblement national recueille 35% d'i"
     }
    ]
   },
