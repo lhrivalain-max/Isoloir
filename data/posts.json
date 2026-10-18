@@ -1,6 +1,299 @@
 {
- "generated_at": "2026-10-18T08:02:24+00:00",
+ "generated_at": "2026-10-18T10:10:46+00:00",
  "posts": [
+  {
+   "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
+   "chapo": "Samedi 17 octobre, la journée contre la « vie chère » a réuni entre 550 000 et 800 000 personnes selon les sources, mais a été marquée par des violences et des pillages dans plusieurs villes. Le gouvernement accuse l'ultragauche, la gauche critique le maintien de l'ordre.",
+   "points": [
+    {
+     "text": "Selon le ministre de l'Intérieur Laurent Nuñez, 550 000 personnes ont défilé en France, dont 110 000 à Paris. Les organisations associées à la mobilisation annoncent environ 800 000 participants, selon BFMTV. Le Parisien note que plus de 1 700 mobilisations se sont déroulées « sans heurts majeurs ».",
+     "sources": [
+      "18dfc4a66e43",
+      "8840743a394c"
+     ]
+    },
+    {
+     "text": "Selon Le Parisien, la mairie de Limoges a pris feu, celle de Marseille a été attaquée et occupée, la résidence de la préfète de Gironde a été saccagée à Bordeaux, et des pillages ont eu lieu à Paris, Marseille, Nancy et Valence. À Lyon, l'office de tourisme a été incendié, selon Le Monde.",
+     "sources": [
+      "8840743a394c",
+      "970f460a16d4"
+     ]
+    },
+    {
+     "text": "Laurent Nuñez a fait état d'environ 400 interpellations et d'au moins une soixantaine de blessés parmi les forces de l'ordre. Il a vu une « mobilisation importante de la mouvance d'ultra gauche ou d'extrême gauche radicale » et la présence de « délinquants d'opportunité », selon BFMTV.",
+     "sources": [
+      "18dfc4a66e43"
+     ]
+    },
+    {
+     "text": "À Saint-Étienne, un manifestant a eu la main arrachée par une grenade lancée par les forces de police, selon L'Humanité. Laurent Nuñez a indiqué qu'« une enquête est en cours », selon BFMTV.",
+     "sources": [
+      "a20cc24187f1",
+      "43c6111cb70a"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron a dénoncé les « semeurs de chaos qui ne cherchent qu'à abattre nos institutions » : « Ceux qui ont cassé, attaqué les préfectures comme les commerces, pillé jusqu'à nos mairies, seront poursuivis et punis », selon Le Monde. Sébastien Lecornu affirme : « Les manifestations pacifiques ont toute leur place dans notre République. Les incendies, les pillages et les attaques n'en ont aucune », selon LCP.",
+     "sources": [
+      "970f460a16d4",
+      "85cb42f9c0ba"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau appelle à « la force implacable de l'État ». Marine Le Pen juge que des « revendications sociales légitimes » ont été « prises en otage par l'extrême gauche », selon LCP. Le Figaro écrit que la classe politique est « unanimement écœurée par une violence sans bornes », mais divisée sur les causes.",
+     "sources": [
+      "85cb42f9c0ba",
+      "8084b98201db"
+     ]
+    },
+    {
+     "text": "À gauche, Jean-Luc Mélenchon accuse : « Dans Paris, le commandement aberrant a ouvert la porte au chaos », mais demande à ses soutiens de ne pas piller : « Ceux qui partagent notre combat n'ont rien à faire dans le pillage, le saccage ». Sébastien Lecornu lui répond : « C'est VOTRE responsabilité politique », selon LCP. Selon L'Humanité, la CGT a appelé le gouvernement à « arrêter de réprimer ».",
+     "sources": [
+      "85cb42f9c0ba",
+      "a20cc24187f1"
+     ]
+    },
+    {
+     "text": "À Marseille, le maire Benoît Payan a déclaré : « Je veux savoir pourquoi, dans cette ville, des gens ont pu impunément casser », selon Le Monde. Mediapart estime que le gouvernement, qui assurait que le mouvement « s'essoufflait », a été pris au dépourvu, des notes du renseignement ayant prévu entre 60 000 et 110 000 personnes hors Paris.",
+     "sources": [
+      "970f460a16d4",
+      "68ed62ec1d45"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/I1FzYHKO0pMCyMYsvI3IWZzTNN0=/0x0:1920x1080/800x0/images/Le-ministre-de-l-Interieur-Laurent-Nunez-le-17-octobre-2026-2367254.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/gouvernement/manifestations-du-17-octobre-le-ministre-de-l-interieur-affirme-que-550-000-personnes-ont-manifeste-dans-toute-la-france_AV-202610170372.html",
+    "article_id": "18dfc4a66e43",
+    "focus_x": 0.3933333333333333,
+    "focus_y": 0.19722222222222222
+   },
+   "id": 141,
+   "section": "institutions",
+   "reviewed_at": "2026-10-18T10:10:46+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 22.0,
+   "sources": [
+    {
+     "id": "18dfc4a66e43",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Manifestations du 17 octobre: le ministre de l'Intérieur affirme que 550.000 personnes ont manifesté dans toute la France",
+     "url": "https://www.bfmtv.com/politique/gouvernement/manifestations-du-17-octobre-le-ministre-de-l-interieur-affirme-que-550-000-personnes-ont-manifeste-dans-toute-la-france_AV-202610170372.html",
+     "published_at": "2026-10-17T21:20:35+00:00",
+     "snippet": "Le ministre de l'Intérieur a dressé un bilan provisoire de ce samedi 17 octobre, journée qui a vu \"une mobilisation importante de la mouvance d'ultra gauche ou d'extrême gauche radicale\". Il a également déploré la présence de nombreux \"délinquants d'opportunité\" et de \"casseurs\", notamment à Paris."
+    },
+    {
+     "id": "43c6111cb70a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Mobilisations du 17 octobre: \"Une enquête est en cours\" après qu'un manifestant a eu la main arrachée à Saint Etienne, déclare le ministre de l’Intérieur Laurent Nuñez",
+     "url": "https://www.bfmtv.com/politique/video-mobilisations-du-17-octobre-une-enquete-est-en-cours-apres-qu-un-manifestant-a-eu-la-main-arrachee-a-saint-etienne-declare-le-ministre-de-l-interieur-laurent-nunez_VN-202610170322.html",
+     "published_at": "2026-10-17T18:12:09+00:00",
+     "snippet": "Un samedi de mobilisation pour réunir différentes \"colères\": anciens gilets jaunes, lycéens, étudiants, militants du climat et même agriculteurs se donnent rendez-vous pour une journée protéiforme contre la \"vie chère\" avec des blocages et manifestations."
+    },
+    {
+     "id": "68ed62ec1d45",
+     "name": "Mediapart",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre: foule massive, colère débordante, gouvernement débordé",
+     "url": "https://www.mediapart.fr/journal/france/171026/mobilisation-du-17-octobre-foule-massive-colere-debordante-gouvernement-deborde",
+     "published_at": "2026-10-17T18:59:35+00:00",
+     "snippet": "La journée de mobilisation massive - entre 550 000 et 800 000 manifestants - samedi 17 octobre, marquée par des débordements inédits, a mis au pied du mur le gouvernement, impuissant à répondre à une colère qui se répand, lui qui assurait pourtant depuis plusieurs jours que le mouvement «s’essoufflait»."
+    },
+    {
+     "id": "8084b98201db",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "«Chaos», «casseurs déterminés», «pourrissement»… La classe politique condamne la violence des manifestations mais ne s’accorde pas sur les causes",
+     "url": "https://www.lefigaro.fr/politique/chaos-casseurs-determines-pourrissement-la-classe-politique-condamne-la-violence-des-manifestations-mais-ne-s-accorde-pas-sur-les-causes-20261017",
+     "published_at": "2026-10-17T21:14:17+00:00",
+     "snippet": "Pour une partie de la gauche, le pourrissement de la mobilisation qui a rassemblé entre 550.000 et 800.000 personnes en France est surtout le fruit d’une «doctrine de maintien de l’ordre» violente."
+    },
+    {
+     "id": "85cb42f9c0ba",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Manifestations du 17 octobre: soutien aux policiers ou critiques du maintien de l’ordre, les responsables politiques se divisent",
+     "url": "https://lcp.fr/actualites/manifestations-du-17-octobre-soutien-aux-policiers-ou-critiques-du-maintien-de-l-ordre",
+     "published_at": "2026-10-17T21:33:12+00:00",
+     "snippet": "Par Ivan Valerio , le Samedi 17 octobre 2026 à 19:24 Les violences en marge des manifestations contre la vie chère, samedi 17 octobre, ont provoqué de vives réactions politiques. Sébastien Lecornu promet la fermeté, la droite et le RN soutiennent les policiers et dénoncent les casseurs. À gauche, plusieurs responsables critiquent le maintien de l’ordre et défendent les revendications des manifestants. Après les affrontements et les pillages survenus dans plusieurs villes de France, samedi 17 octobre, Sébastien Lecornu affiche sa fermeté . \"Les manifestations pacifiques ont toute leur place dan"
+    },
+    {
+     "id": "8840743a394c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : mairies attaquées, magasins pillés... Partout en France, le chaos",
+     "url": "https://www.leparisien.fr/faits-divers/mobilisation-du-17-octobre-mairies-attaquees-magasins-pilles-partout-en-france-le-chaos-17-10-2026-HVVGYTP4SRDLNOL675ZN543VKI.php",
+     "published_at": "2026-10-17T21:33:07+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "970f460a16d4",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : Emmanuel Macron dénonce les « semeurs de chaos qui ne cherchent qu’à abattre nos institutions », après des scènes de saccage dans plusieurs villes",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/17/mobilisation-du-17-octobre-emmanuel-macron-denonce-les-semeurs-de-chaos-qui-ne-cherchent-qu-a-abattre-nos-institutions-apres-des-scenes-de-saccage-dans-plusieurs-villes_6796686_823448.html",
+     "published_at": "2026-10-17T18:47:44+00:00",
+     "snippet": "« A peu près 400 interpellations » ont eu lieu, a annoncé le ministre de l’intérieur, Laurent Nuñez, samedi soir, alors que la gauche a critiqué le gouvernement pour sa doctrine du maintien de l’ordre."
+    },
+    {
+     "id": "a20cc24187f1",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Pas un mot sur le fond des manifestations de la part du Premier ministre…",
+     "url": "https://www.humanite.fr/-/-/pas-un-mot-sur-le-fond-des-manifestations-de-la-part-du-premier-ministre",
+     "published_at": "2026-10-17T16:31:51+00:00",
+     "snippet": "« Nous ne nous laisserons pas intimider », a assuré ce samedi Sébastien Lecornu, mettant en garde, dans une allusion à LFI, ceux qui veulent faire des violences en marge des manifestations du 17 octobre « un tour de chauffe » avant l’élection présidentielle. « Des groupes d’ultragauche ont organisé la violence dans plusieurs villes de…"
+    }
+   ]
+  },
+  {
+   "headline": "Retailleau : le soutien de François Fillon, la concurrence de David Lisnard",
+   "chapo": "Samedi 17 octobre, François Fillon a apporté son soutien à Bruno Retailleau, qui voit David Lisnard le devancer dans un sondage Ifop. Les deux hommes doivent déjeuner ensemble mercredi 21 octobre.",
+   "points": [
+    {
+     "text": "Lors d'un discours à Avignon, François Fillon a qualifié Bruno Retailleau de « seul candidat crédible qui soit clairement à droite », selon Le Monde. Il a déclaré : « Je ne vois qu'une candidature capable d'engager le sursaut national, c'est celle de Bruno Retailleau », lors des Universités du mouvement Oser la France.",
+     "sources": [
+      "8f51a448f6f5"
+     ]
+    },
+    {
+     "text": "Selon BFMTV, François Fillon s'exprime peu depuis 2017. En 2022, il avait déclaré sa préférence pour Valérie Pécresse. En mai 2025, il avait déjà adoubé Bruno Retailleau dans un entretien au Figaro, y voyant un « anti-Macron ».",
+     "sources": [
+      "ac9e5f035cb1"
+     ]
+    },
+    {
+     "text": "Ce soutien arrive à un moment que BFMTV juge « difficile » pour Bruno Retailleau. Selon un sondage Ifop pour LCI et Sud Radio, David Lisnard est crédité de 6 % au premier tour, un point de plus que lui, contre 3,5 % fin septembre pour le maire de Cannes, selon Le Parisien.",
+     "sources": [
+      "ac9e5f035cb1",
+      "7edc55153cab"
+     ]
+    },
+    {
+     "text": "Sur RTL, Bruno Retailleau a dit « très bien vivre » cette montée de David Lisnard : « C'est à partir de janvier-février que commencera la vraie campagne présidentielle ». Sur Europe 1, il a estimé que « le plus stupide serait qu'on aille tous les deux au bout » : « Il y en a un qui devra évidemment se retirer », selon Le Parisien.",
+     "sources": [
+      "7edc55153cab"
+     ]
+    },
+    {
+     "text": "Sur l'union des droites, Bruno Retailleau affirme : « J'ai toujours voulu l'union des droites, mais par les électeurs, dans les urnes ». Il veut convaincre les électeurs de Reconquête : « Ils sont les bienvenus », selon Europe 1.",
+     "sources": [
+      "97b656c7f999"
+     ]
+    },
+    {
+     "text": "Selon Le Figaro, la piste d'une primaire de la droite et du centre « reprend des couleurs ». Bruno Retailleau n'y a pas été hostile, à condition qu'elle démontre son utilité. Ses soutiens citent un sondage Opinionway où il est à 9 %, sans que David Lisnard y soit testé.",
+     "sources": [
+      "1e3843174db9"
+     ]
+    },
+    {
+     "text": "Mercredi 21 octobre, Bruno Retailleau doit déjeuner avec David Lisnard et le maire de Béziers Robert Ménard, à l'initiative de ce dernier, selon Libération. L'entourage de Bruno Retailleau précise que le rendez-vous « était calé avant la parution du sondage ».",
+     "sources": [
+      "4fd0aff36e05"
+     ]
+    },
+    {
+     "text": "Son dernier livre, « De combats et d'espoir », vient de sortir. Le Parisien relève que ses performances tournent entre 6,5 et 8 % selon les configurations de premier tour, tandis que lui affirme garder son cap.",
+     "sources": [
+      "1bec5569dadf"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/09/26/589/0/6439/3219/644/322/60/0/640b352_upload-1-k7eir7bj1btc-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-44.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
+    "article_id": "8f51a448f6f5"
+   },
+   "id": 138,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-17T17:44:48+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 11.28,
+   "sources": [
+    {
+     "id": "1bec5569dadf",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« S’il ne prend pas de risques… » : la mauvaise passe de Bruno Retailleau",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sil-ne-prend-pas-de-risques-la-mauvaise-passe-de-bruno-retailleau-15-10-2026-G4AB5A2QQFFX3ELEHU62PZ6IKQ.php",
+     "published_at": "2026-10-15T22:32:06+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "1e3843174db9",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
+     "published_at": "2026-10-15T17:30:00+00:00",
+     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
+    },
+    {
+     "id": "4fd0aff36e05",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
+     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
+     "published_at": "2026-10-16T09:20:02+00:00",
+     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
+    },
+    {
+     "id": "7edc55153cab",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : David Lisnard devant Bruno Retailleau selon un sondage, le candidat LR répond « très bien le vivre »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-devant-bruno-retailleau-selon-un-sondage-le-candidat-lr-repond-tres-bien-le-vivre-15-10-2026-BS3HYOSMMJDCDGXA6YWFHZYLBQ.php",
+     "published_at": "2026-10-15T13:40:21+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "8f51a448f6f5",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
+     "published_at": "2026-10-17T12:31:21+00:00",
+     "snippet": "« Je ne vois qu’une candidature capable d’engager le sursaut national, c’est celle de Bruno Retailleau », a déclaré l’ex-candidat en 2017, dont la campagne avait vacillé avec les révélations sur les emplois fictifs de sa femme, Penelope."
+    },
+    {
+     "id": "97b656c7f999",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Présidentielle 2027 : «J'ai toujours voulu l'union des droites par les électeurs, dans les urnes», affirme Bruno Retailleau",
+     "url": "https://www.europe1.fr/politique/presidentielle-2027-jai-toujours-voulu-lunion-des-droites-par-les-electeurs-dans-les-urnes-affirme-bruno-retailleau-1151717?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T16:52:00+00:00",
+     "snippet": "Invité de \"Pascal Praud et vous\" sur Europe 1 ce jeudi, Bruno Retailleau a précisé sa position sur l'union des droites. Le candidat à l'élection présidentielle souhaite avant tout rassembler les électeurs, notamment ceux de Reconquête. À quoi pourrait ressembler \"l'union des droites\" en vue de 2027 ? Interrogé dans l'émission Pascal Praud et vous sur la possibilité de travailler avec des personnalités comme David Lisnard, Robert Ménard ou des représentants de Reconquête, Bruno Retailleau précise sa stratégie. \"Je n'ai jamais cru à ce qu'on a appelé l'union des droites. Marine Le Pen est la pre"
+    },
+    {
+     "id": "ac9e5f035cb1",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
+     "published_at": "2026-10-17T11:12:43+00:00",
+     "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
+    }
+   ]
+  },
   {
    "headline": "Mobilisation du 17 octobre : qui défile, ce que craint le gouvernement, ce que disent les partis",
    "chapo": "Ce samedi 17 octobre, lycéens, étudiants, « gilets jaunes », syndicalistes et militants du climat doivent manifester dans toute la France. Le gouvernement redoute des débordements, Emmanuel Macron a lancé un appel au calme, et les partis se positionnent.",
@@ -70,7 +363,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.27,
+   "score": 9.82,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -147,144 +440,6 @@
    ]
   },
   {
-   "headline": "Retailleau : le soutien de François Fillon, la concurrence de David Lisnard",
-   "chapo": "Samedi 17 octobre, François Fillon a apporté son soutien à Bruno Retailleau, qui voit David Lisnard le devancer dans un sondage Ifop. Les deux hommes doivent déjeuner ensemble mercredi 21 octobre.",
-   "points": [
-    {
-     "text": "Lors d'un discours à Avignon, François Fillon a qualifié Bruno Retailleau de « seul candidat crédible qui soit clairement à droite », selon Le Monde. Il a déclaré : « Je ne vois qu'une candidature capable d'engager le sursaut national, c'est celle de Bruno Retailleau », lors des Universités du mouvement Oser la France.",
-     "sources": [
-      "8f51a448f6f5"
-     ]
-    },
-    {
-     "text": "Selon BFMTV, François Fillon s'exprime peu depuis 2017. En 2022, il avait déclaré sa préférence pour Valérie Pécresse. En mai 2025, il avait déjà adoubé Bruno Retailleau dans un entretien au Figaro, y voyant un « anti-Macron ».",
-     "sources": [
-      "ac9e5f035cb1"
-     ]
-    },
-    {
-     "text": "Ce soutien arrive à un moment que BFMTV juge « difficile » pour Bruno Retailleau. Selon un sondage Ifop pour LCI et Sud Radio, David Lisnard est crédité de 6 % au premier tour, un point de plus que lui, contre 3,5 % fin septembre pour le maire de Cannes, selon Le Parisien.",
-     "sources": [
-      "ac9e5f035cb1",
-      "7edc55153cab"
-     ]
-    },
-    {
-     "text": "Sur RTL, Bruno Retailleau a dit « très bien vivre » cette montée de David Lisnard : « C'est à partir de janvier-février que commencera la vraie campagne présidentielle ». Sur Europe 1, il a estimé que « le plus stupide serait qu'on aille tous les deux au bout » : « Il y en a un qui devra évidemment se retirer », selon Le Parisien.",
-     "sources": [
-      "7edc55153cab"
-     ]
-    },
-    {
-     "text": "Sur l'union des droites, Bruno Retailleau affirme : « J'ai toujours voulu l'union des droites, mais par les électeurs, dans les urnes ». Il veut convaincre les électeurs de Reconquête : « Ils sont les bienvenus », selon Europe 1.",
-     "sources": [
-      "97b656c7f999"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, la piste d'une primaire de la droite et du centre « reprend des couleurs ». Bruno Retailleau n'y a pas été hostile, à condition qu'elle démontre son utilité. Ses soutiens citent un sondage Opinionway où il est à 9 %, sans que David Lisnard y soit testé.",
-     "sources": [
-      "1e3843174db9"
-     ]
-    },
-    {
-     "text": "Mercredi 21 octobre, Bruno Retailleau doit déjeuner avec David Lisnard et le maire de Béziers Robert Ménard, à l'initiative de ce dernier, selon Libération. L'entourage de Bruno Retailleau précise que le rendez-vous « était calé avant la parution du sondage ».",
-     "sources": [
-      "4fd0aff36e05"
-     ]
-    },
-    {
-     "text": "Son dernier livre, « De combats et d'espoir », vient de sortir. Le Parisien relève que ses performances tournent entre 6,5 et 8 % selon les configurations de premier tour, tandis que lui affirme garder son cap.",
-     "sources": [
-      "1bec5569dadf"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/09/26/589/0/6439/3219/644/322/60/0/640b352_upload-1-k7eir7bj1btc-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-44.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
-    "article_id": "8f51a448f6f5"
-   },
-   "id": 138,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-17T17:44:48+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.91,
-   "sources": [
-    {
-     "id": "1bec5569dadf",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« S’il ne prend pas de risques… » : la mauvaise passe de Bruno Retailleau",
-     "url": "https://www.leparisien.fr/elections/presidentielle/sil-ne-prend-pas-de-risques-la-mauvaise-passe-de-bruno-retailleau-15-10-2026-G4AB5A2QQFFX3ELEHU62PZ6IKQ.php",
-     "published_at": "2026-10-15T22:32:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "1e3843174db9",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
-     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
-     "published_at": "2026-10-15T17:30:00+00:00",
-     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
-    },
-    {
-     "id": "4fd0aff36e05",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
-     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
-     "published_at": "2026-10-16T09:20:02+00:00",
-     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
-    },
-    {
-     "id": "7edc55153cab",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : David Lisnard devant Bruno Retailleau selon un sondage, le candidat LR répond « très bien le vivre »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-devant-bruno-retailleau-selon-un-sondage-le-candidat-lr-repond-tres-bien-le-vivre-15-10-2026-BS3HYOSMMJDCDGXA6YWFHZYLBQ.php",
-     "published_at": "2026-10-15T13:40:21+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "8f51a448f6f5",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html",
-     "published_at": "2026-10-17T12:31:21+00:00",
-     "snippet": "« Je ne vois qu’une candidature capable d’engager le sursaut national, c’est celle de Bruno Retailleau », a déclaré l’ex-candidat en 2017, dont la campagne avait vacillé avec les révélations sur les emplois fictifs de sa femme, Penelope."
-    },
-    {
-     "id": "97b656c7f999",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Présidentielle 2027 : «J'ai toujours voulu l'union des droites par les électeurs, dans les urnes», affirme Bruno Retailleau",
-     "url": "https://www.europe1.fr/politique/presidentielle-2027-jai-toujours-voulu-lunion-des-droites-par-les-electeurs-dans-les-urnes-affirme-bruno-retailleau-1151717?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T16:52:00+00:00",
-     "snippet": "Invité de \"Pascal Praud et vous\" sur Europe 1 ce jeudi, Bruno Retailleau a précisé sa position sur l'union des droites. Le candidat à l'élection présidentielle souhaite avant tout rassembler les électeurs, notamment ceux de Reconquête. À quoi pourrait ressembler \"l'union des droites\" en vue de 2027 ? Interrogé dans l'émission Pascal Praud et vous sur la possibilité de travailler avec des personnalités comme David Lisnard, Robert Ménard ou des représentants de Reconquête, Bruno Retailleau précise sa stratégie. \"Je n'ai jamais cru à ce qu'on a appelé l'union des droites. Marine Le Pen est la pre"
-    },
-    {
-     "id": "ac9e5f035cb1",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Le seul candidat crédible clairement à droite\": Bruno Retailleau reçoit le soutien de François Fillon",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
-     "published_at": "2026-10-17T11:12:43+00:00",
-     "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
-    }
-   ]
-  },
-  {
    "headline": "Ukraine : Zelensky demande 70 milliards de plus à l'UE, Macron temporise, le RN critique",
    "chapo": "Vendredi 16 octobre, à Bruxelles, Volodymyr Zelensky a demandé une rallonge de 70 milliards d'euros pour 2027. Emmanuel Macron promet de ne pas « lâcher l'Ukraine » mais juge « trop tôt » pour donner un chiffre. Donald Trump suspend de nouvelles sanctions contre la Russie.",
    "points": [
@@ -351,7 +506,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.03,
+   "score": 9.5,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -474,7 +629,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.52,
+   "score": 7.12,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -588,7 +743,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.12,
+   "score": 5.94,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -719,7 +874,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.14,
+   "score": 5.94,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -851,7 +1006,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.5,
+   "score": 4.35,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -960,7 +1115,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.5,
+   "score": 4.35,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -1074,7 +1229,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.55,
+   "score": 3.46,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -1173,7 +1328,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.45,
+   "score": 3.34,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -1286,7 +1441,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.16,
+   "score": 5.05,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -1451,7 +1606,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.94,
+   "score": 3.85,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -1584,7 +1739,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.99,
+   "score": 3.9,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1699,7 +1854,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.95,
+   "score": 2.89,
    "sources": [
     {
      "id": "556017869975",
@@ -1830,7 +1985,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.78,
+   "score": 5.67,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -2029,7 +2184,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.76,
+   "score": 4.68,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -2185,7 +2340,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.86,
+   "score": 3.79,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -2316,7 +2471,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.86,
+   "score": 3.78,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -2436,7 +2591,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.43,
+   "score": 3.36,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2596,7 +2751,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 3.22,
    "sources": [
     {
      "id": "13ba70fee73e",
