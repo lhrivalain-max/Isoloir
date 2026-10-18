@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T10:10:46+00:00",
+ "generated_at": "2026-10-18T10:44:50+00:00",
  "posts": [
   {
    "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
@@ -80,7 +80,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 22.0,
+   "score": 21.49,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -227,7 +227,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.28,
+   "score": 11.12,
    "sources": [
     {
      "id": "1bec5569dadf",
@@ -291,6 +291,137 @@
      "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-seul-candidat-credible-clairement-a-droite-bruno-retailleau-recoit-le-soutien-de-francois-fillon_AN-202610170192.html",
      "published_at": "2026-10-17T11:12:43+00:00",
      "snippet": "L'ancien Premier ministre François Fillon a apporté officiellement son soutien à la candidature de Bruno Retailleau ce samedi en marge des universités de rentrée du microparti gaulliste \"Osez la France\"."
+    }
+   ]
+  },
+  {
+   "headline": "Après le 17 octobre : Nuñez sous pression, enquête ouverte à Saint-Étienne, cellule de crise ce soir",
+   "chapo": "Au lendemain des violences, plusieurs responsables politiques, de La France insoumise au RN, demandent la démission du ministre de l'Intérieur Laurent Nuñez, qui défend le dispositif policier. Des enquêtes sont ouvertes, une commission d'enquête est envisagée et Sébastien Lecornu réunit une cellule de crise à 19 heures.",
+   "points": [
+    {
+     "text": "Selon le bilan provisoire communiqué dimanche matin par l'exécutif, 1 800 interpellations ont eu lieu en France et 500 policiers et gendarmes ont été blessés, selon LCP. Dans la nuit, le ministre avait fait état de 1 200 interpellations et de 150 policiers et gendarmes blessés, selon Le JDD : les chiffres évoluent.",
+     "sources": [
+      "549633ace663",
+      "7c8e84665a02"
+     ]
+    },
+    {
+     "text": "Laurent Nuñez affirme que le dispositif policier « n'était pas sous-dimensionné ». Il attribue les groupes de casseurs à « l'instigation très claire de l'ultragauche » et s'inscrit en faux contre des parlementaires de La France insoumise : « Sans les forces de sécurité intérieure aujourd'hui, il n'y aurait pas eu de cortège », selon Le JDD. La veille, le ministère prévoyait entre 40 000 et 60 000 manifestants à Paris et environ 100 000 ailleurs ; 550 000 selon la police et 800 000 selon les organisateurs ont défilé.",
+     "sources": [
+      "7c8e84665a02"
+     ]
+    },
+    {
+     "text": "La candidate écologiste Marine Tondelier juge qu'il n'y a « pas d'autre issue » que sa démission : « des villes entières » ont été « abandonnées aux casseurs », « pendant que des manifestants pacifiques étaient violentés ». Le député Éric Coquerel écrit : « Ça suffit cette doctrine du maintien de l'ordre qui n'est que sauvagerie », selon Le Parisien.",
+     "sources": [
+      "9e7e338a6409"
+     ]
+    },
+    {
+     "text": "Au RN, Franck Allisio juge le ministre « complètement dépassé et incompétent face à cet ensauvagement » et Laure Lavalette note qu'il « n'a toujours pas démissionné ». Selon LCP, les critiques diffèrent : LFI dénonce un dispositif inadapté et des violences contre des manifestants pacifiques, le RN une incapacité à faire face aux débordements.",
+     "sources": [
+      "549633ace663"
+     ]
+    },
+    {
+     "text": "Laurent Nuñez apporte son « total soutien » aux forces de l'ordre : « La République ne cédera rien à ceux qui veulent imposer le désordre et la violence ». Selon LCP, il ne répond pas directement aux appels à sa démission. Il doit se rendre à Marseille lundi, selon Le Parisien.",
+     "sources": [
+      "549633ace663",
+      "9e7e338a6409"
+     ]
+    },
+    {
+     "text": "À Saint-Étienne, un mineur de 17 ans a été « gravement blessé à la main », selon la préfecture de la Loire ; le parquet a ouvert une enquête, confiée à l'IGPN, selon Le JDD. À Paris, un manifestant filmé blessé à la tête près de la gare du Nord a porté plainte, dénonçant des « violences illégitimes » de la part des forces de l'ordre, a indiqué le parquet à Libération. C'est la deuxième procédure médiatisée pour violences policières après le 17 octobre, selon le journal.",
+     "sources": [
+      "7c8e84665a02",
+      "aac17f270bcd"
+     ]
+    },
+    {
+     "text": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, envisage une commission d'enquête sur les violences du 17 octobre et réunira les présidents de groupe mardi matin, selon franceinfo. Le député Alexis Corbière demande d'« entendre les acteurs et comprendre », toutes forces politiques confondues.",
+     "sources": [
+      "2a7d1ed788b9"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu préside dimanche à 19 heures une cellule interministérielle de crise, sur trois volets : « économie-commerce », « assurance » et « suivi judiciaire ». Il recevra les maires de Paris, Lyon et Marseille. Le maire de Marseille Benoît Payan demande « des moyens » et « des explications » sur le schéma de maintien de l'ordre, selon Le Parisien.",
+     "sources": [
+      "4eae8182387c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/nunez%205%2010%2026.jpg?h=c673cd1c&itok=ruI5pW48",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+    "article_id": "549633ace663"
+   },
+   "id": 142,
+   "section": "institutions",
+   "reviewed_at": "2026-10-18T10:44:50+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 16.0,
+   "sources": [
+    {
+     "id": "2a7d1ed788b9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "La présidente de l'Assemblée nationale envisage la création d'une commission d'enquête à la suite des violences en marge de la mobilisation du 17 octobre",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-presidente-de-l-assemblee-nationale-envisage-la-creation-d-une-commission-d-enquete-a-la-suite-des-violences-en-marge-de-la-mobilisation-du-17-octobre_8242657.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-18T10:01:18+00:00",
+     "snippet": "Yael Braun-Pivet réunira les présidents de groupe mardi matin, a appris franceinfo auprès de son entourage."
+    },
+    {
+     "id": "4eae8182387c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Violences du 17 octobre : Lecornu va présider une cellule de crise et recevra les maires de Paris, Lyon, Marseille",
+     "url": "https://www.leparisien.fr/politique/violences-du-17-octobre-lecornu-va-presider-une-cellule-de-crise-et-recevra-les-maires-de-paris-lyon-marseille-18-10-2026-FVG6PO6IGNA4PPNWAUMMH45SCE.php",
+     "published_at": "2026-10-18T10:23:32+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "549633ace663",
+     "name": "LCP",
+     "kind": "media",
+     "title": "\"Il n’y a pas d’autre issue que sa démission\": Laurent Nuñez sous le feu des critiques après les violences du 17 octobre",
+     "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+     "published_at": "2026-10-18T10:23:37+00:00",
+     "snippet": "Par Ivan Valerio , le Dimanche 18 octobre 2026 à 11:05 Au lendemain des violences qui ont marqué les manifestations du 17 octobre, plusieurs responsables politiques, de LFI au RN, réclament le départ de Laurent Nuñez. Accusé d’avoir sous estimé l’ampleur du mouvement, le ministre de l’Intérieur est aussi interpellé sur les consignes données aux forces de l’ordre. Des appels à la démission et des demandes d’explications. C'est dans un contexte très tendu que Laurent Nuñez défend, ce dimanche matin, l'action des forces de l'ordre, au lendemain de la journée de mobilisation du samedi 17 octobre c"
+    },
+    {
+     "id": "7c8e84665a02",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Émeutes du 17 octobre : Laurent Nuñez assure que «le dispositif n’était pas sous-dimensionné»",
+     "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-laurent-nunez-assure-que-le-dispositif-netait-pas-sous-dimensionne-186342",
+     "published_at": "2026-10-18T08:12:35+00:00",
+     "snippet": "Après une journée de manifestations émaillées de scènes d'émeutes qui ont fait le tour du monde, le ministre de l'Intérieur, Laurent Nuñez, a affirmé dans la nuit que le dispositif policier n'avait pas été « sous-dimensionné »."
+    },
+    {
+     "id": "9e7e338a6409",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "17 octobre : au lendemain d’un « désastre absolu », les appels à la démission de Laurent Nuñez se multiplient",
+     "url": "https://www.leparisien.fr/politique/17-octobre-au-lendemain-dun-desastre-absolu-les-appels-a-la-demission-de-laurent-nunez-se-multiplient-18-10-2026-SUFWFXU655DUZBCTDIC6IQW6L4.php",
+     "published_at": "2026-10-18T10:23:32+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "aac17f270bcd",
+     "name": "Libération",
+     "kind": "media",
+     "title": "EN DIRECT – Au lendemain du 17 octobre : 855 interpellations à Paris, un manifestant mort après un «arrêt cardio-respiratoire»",
+     "url": "https://www.liberation.fr/economie/social/en-direct-mobilisation-du-17-octobre-gerald-darmanin-demande-aux-parquets-une-reponse-extremement-ferme-20261018_OXTKJ7XVGFBXXNVJP34RG2BQCI/",
+     "published_at": "2026-10-18T08:40:59+00:00",
+     "snippet": "Après une journée émaillée d’épisodes particulièrement chaotiques à Paris, samedi 17 octobre, droite et extrême droite pointent la responsabilité de «l’extrême gauche radicale», tandis que la gauche critique un maintien de l’ordre qui a misé sur le «pourrissement»."
     }
    ]
   },
@@ -363,7 +494,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.82,
+   "score": 9.71,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -506,7 +637,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.5,
+   "score": 9.36,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -629,7 +760,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.12,
+   "score": 7.02,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -743,7 +874,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.94,
+   "score": 5.89,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -874,7 +1005,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.94,
+   "score": 5.88,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -1006,7 +1137,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.35,
+   "score": 4.31,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -1115,7 +1246,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.35,
+   "score": 4.31,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -1229,7 +1360,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.46,
+   "score": 3.43,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -1328,7 +1459,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.34,
+   "score": 3.31,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -1441,7 +1572,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.05,
+   "score": 5.02,
    "sources": [
     {
      "id": "3744fa07d82e",
@@ -1606,7 +1737,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.85,
+   "score": 3.83,
    "sources": [
     {
      "id": "0776c2e51ee6",
@@ -1739,7 +1870,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.9,
+   "score": 3.87,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -1854,7 +1985,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.89,
+   "score": 2.87,
    "sources": [
     {
      "id": "556017869975",
@@ -1985,7 +2116,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.67,
+   "score": 5.65,
    "sources": [
     {
      "id": "1ebd4abd76d4",
@@ -2184,7 +2315,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.68,
+   "score": 4.65,
    "sources": [
     {
      "id": "007f8e65dde2",
@@ -2340,7 +2471,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.79,
+   "score": 3.77,
    "sources": [
     {
      "id": "48d0d3a7d1fa",
@@ -2471,7 +2602,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.78,
+   "score": 3.77,
    "sources": [
     {
      "id": "18389f9c94f4",
@@ -2591,7 +2722,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.36,
+   "score": 3.35,
    "sources": [
     {
      "id": "053ba007189f",
@@ -2751,7 +2882,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.22,
+   "score": 3.2,
    "sources": [
     {
      "id": "13ba70fee73e",
