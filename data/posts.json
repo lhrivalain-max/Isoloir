@@ -1,6 +1,138 @@
 {
- "generated_at": "2026-10-18T19:10:26+00:00",
+ "generated_at": "2026-10-19T08:07:31+00:00",
  "posts": [
+  {
+   "headline": "Présidentielle : trois sondages, Le Pen loin devant et un match à trois pour la seconde place",
+   "chapo": "Trois sondages publiés cette semaine (OpinionWay, Elabe, YouGov) placent Marine Le Pen largement en tête. Pour la seconde place, Jean-Luc Mélenchon, Raphaël Glucksmann et Édouard Philippe sont au coude-à-coude.",
+   "points": [
+    {
+     "text": "Selon le sondage Elabe, réalisé avant les violences du 17 octobre, Marine Le Pen recueille entre 31 et 33,5 % des intentions de vote au premier tour. Elle perd entre 1 et 1,5 point par rapport à fin août, d'après La Dépêche du Midi.",
+     "sources": [
+      "9f872caa2a2d",
+      "577ecbf58f17"
+     ]
+    },
+    {
+     "text": "La seconde place se joue à trois, selon BFMTV. Édouard Philippe est crédité de 15,5 à 16,5 % s'il est l'unique candidat du bloc central, Raphaël Glucksmann de 15 à 16,5 % (en hausse de 2,5 à 4 points depuis fin août) et Jean-Luc Mélenchon de 15 à 16 % (en hausse de 1 à 2 points), d'après La Dépêche du Midi.",
+     "sources": [
+      "577ecbf58f17",
+      "9f872caa2a2d"
+     ]
+    },
+    {
+     "text": "Au second tour, Marine Le Pen l'emporterait dans tous les cas testés : 69 % contre 31 % face à Jean-Luc Mélenchon, 53,5 % contre 46,5 % face à Raphaël Glucksmann, 52,5 % contre 47,5 % face à Édouard Philippe. L'échantillon compte 1 701 personnes, avec une marge d'erreur de 1,2 à 2,8 points, et un sondage « n'a pas une valeur prédictive », rappelle La Dépêche du Midi.",
+     "sources": [
+      "9f872caa2a2d"
+     ]
+    },
+    {
+     "text": "Dans un sondage OpinionWay réalisé les 13 et 14 octobre, Marine Le Pen recueille 35 % au premier tour (+1 point), devant Jean-Luc Mélenchon (15 %, -2), Raphaël Glucksmann (13 %, +4) et Édouard Philippe (12 %, -3), puis Bruno Retailleau (6 %), Éric Zemmour (5 %, +3) et David Lisnard (4 %), selon Europe 1.",
+     "sources": [
+      "df0e8958c1b7"
+     ]
+    },
+    {
+     "text": "Au second tour, Marine Le Pen l'emporterait avec 68 % contre Jean-Luc Mélenchon, et 56 % contre Édouard Philippe ou Raphaël Glucksmann, selon Le JDD, qui rappelle qu'elle avait recueilli 41 % des voix face à Emmanuel Macron en 2022.",
+     "sources": [
+      "d5660836de93"
+     ]
+    },
+    {
+     "text": "Le sondage YouGov pour Le HuffPost place Marine Le Pen à 35 à 37 %. Jean-Luc Mélenchon arrive deuxième avec 13 à 16 %, quel que soit le nombre de candidats à gauche et au centre. Raphaël Glucksmann obtient 12 à 14 % et Édouard Philippe 13 % s'il est le seul représentant du bloc central, selon Le HuffPost.",
+     "sources": [
+      "bdc1725cb44c"
+     ]
+    },
+    {
+     "text": "Selon Le HuffPost, les candidats liés de près ou de loin à Emmanuel Macron sont « en grande difficulté » à six mois du scrutin. Marine Tondelier est créditée de 5 à 6 % et Fabien Roussel de 3 %.",
+     "sources": [
+      "bdc1725cb44c"
+     ]
+    },
+    {
+     "text": "À gauche, Olivier Faure, premier secrétaire du Parti socialiste, a assuré dans un entretien au Parisien vouloir « la victoire » de Raphaël Glucksmann, une semaine après sa défaite à la primaire, selon Ouest-France. Une rencontre entre les deux est prévue dans les prochains jours.",
+     "sources": [
+      "9fb68c80f352"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://images.ladepeche.fr/api/v1/images/view/6ad46fb236944d1c630b01af/standard/image.jpg?v=1",
+    "source": "La Dépêche du Midi",
+    "article_url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
+    "article_id": "9f872caa2a2d",
+    "focus_x": 0.51,
+    "focus_y": 0.0901388888888889
+   },
+   "id": 143,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-18T10:44:53+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.52,
+   "sources": [
+    {
+     "id": "577ecbf58f17",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon donnés au coude-à-coude derrière Marine Le Pen",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_VN-202610180084.html",
+     "published_at": "2026-10-18T06:05:40+00:00",
+     "snippet": "Six mois avant le premier tour de l'élection présidentielle, la candidate du Rassemblement national continue de faire largement la course en tête, d'après le dernier sondage Elabe pour BFMTV et La Tribune Dimanche. Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon seraient tous les trois potentiellement à même de se qualifier pour le second tour."
+    },
+    {
+     "id": "9f872caa2a2d",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote",
+     "url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
+     "published_at": "2026-10-18T07:11:24+00:00",
+     "snippet": "Marine Le Pen reste donnée largement en tête des intentions de vote au premier tour de la présidentielle, selon un nouveau sondage Elabe publié ce dimanche. Rien n'est joué pour la seconde place où trois candidats..."
+    },
+    {
+     "id": "9fb68c80f352",
+     "name": "Ouest-France",
+     "kind": "media",
+     "title": "Présidentielle : Olivier Faure sort du silence et assure soutenir Glucksmann",
+     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-olivier-faure-sort-du-silence-et-assure-soutenir-glucksmann-38af7e7c-ca73-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+     "published_at": "2026-10-17T22:12:35+00:00",
+     "snippet": "Dans un entretien au Parisien samedi 17 octobre, Olivier Faure a assuré vouloir « la victoire » de Raphaël Glucksmann à l’élection présidentielle, une semaine après sa défaite à la primaire de la gauche. Une rencontre entre les deux politiques est prévue dans les prochains jours."
+    },
+    {
+     "id": "bdc1725cb44c",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Notre premier sondage pour la présidentielle : loin derrière Le Pen, un match à trois pour le second tour",
+     "url": "https://www.huffingtonpost.fr/politique/article/notre-premier-sondage-pour-la-presidentielle-loin-derriere-le-pen-un-match-a-trois-pour-le-second-tour_341090.html",
+     "published_at": "2026-10-18T05:15:10+00:00",
+     "snippet": "Les premières intentions de vote réalisées par YouGov pour « Le HuffPost » donnent Mélenchon, Glucksmann et Philippe, dans un mouchoir de poche. Avantage à l’Insoumis."
+    },
+    {
+     "id": "d5660836de93",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "SONDAGE – Présidentielle 2027 : Le Pen loin devant, Glucksmann talonne Mélenchon",
+     "url": "https://www.lejdd.fr/politique/sondage-presidentielle-2027-le-pen-loin-devant-glucksmann-talonne-melenchon-186135",
+     "published_at": "2026-10-15T19:00:04+00:00",
+     "snippet": "Selon un nouveau sondage OpinionWay pour CNews, la candidate du RN recueillerait 35 % des voix au premier tour de l’élection présidentielle, suivie de Jean-Luc Mélenchon. Porté par sa victoire à la primaire sociale-démocrate, Raphaël Glucksmann se placerait devant Édouard Philippe."
+    },
+    {
+     "id": "df0e8958c1b7",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "SONDAGE - Présidentielle 2027 : Marine Le Pen largement en tête au 1er tour et gagnante dans tous les scénarios de 2nd tour",
+     "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-15T19:15:00+00:00",
+     "snippet": "Selon les résultats d'un sondage OpinonWay pour CNews et relayé par Europe 1, la candidate du Rassemblement national à la présidentielle, Marine Le Pen, est en tête des intentions de vote. La députée du Pas-de-Calais obtiendrait 35% des suffrages au premier tour, et devancerait Édouard Philippe, Jean-Luc Mélenchon ou Raphaël Glucksmann au deuxième tour. À six mois de l'élection présidentielle, Marine Le Pen confirme son statut de grande favorite. Dans un sondage OpinionWay pour CNEWS*, réalisé les 13 et 14 octobre et relayé par Europe 1, la candidate du Rassemblement national recueille 35% d'i"
+    }
+   ]
+  },
   {
    "headline": "Bilan du 17 octobre : entre 550 000 et 800 000 manifestants, des violences et des réactions opposées",
    "chapo": "Samedi 17 octobre, la journée contre la « vie chère » a réuni entre 550 000 et 800 000 personnes selon les sources, mais a été marquée par des violences et des pillages dans plusieurs villes. Le gouvernement accuse l'ultragauche, la gauche critique le maintien de l'ordre.",
@@ -80,7 +212,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.0,
+   "score": 11.49,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -157,138 +289,6 @@
    ]
   },
   {
-   "headline": "Présidentielle : trois sondages, Le Pen loin devant et un match à trois pour la seconde place",
-   "chapo": "Trois sondages publiés cette semaine (OpinionWay, Elabe, YouGov) placent Marine Le Pen largement en tête. Pour la seconde place, Jean-Luc Mélenchon, Raphaël Glucksmann et Édouard Philippe sont au coude-à-coude.",
-   "points": [
-    {
-     "text": "Selon le sondage Elabe, réalisé avant les violences du 17 octobre, Marine Le Pen recueille entre 31 et 33,5 % des intentions de vote au premier tour. Elle perd entre 1 et 1,5 point par rapport à fin août, d'après La Dépêche du Midi.",
-     "sources": [
-      "9f872caa2a2d",
-      "577ecbf58f17"
-     ]
-    },
-    {
-     "text": "La seconde place se joue à trois, selon BFMTV. Édouard Philippe est crédité de 15,5 à 16,5 % s'il est l'unique candidat du bloc central, Raphaël Glucksmann de 15 à 16,5 % (en hausse de 2,5 à 4 points depuis fin août) et Jean-Luc Mélenchon de 15 à 16 % (en hausse de 1 à 2 points), d'après La Dépêche du Midi.",
-     "sources": [
-      "577ecbf58f17",
-      "9f872caa2a2d"
-     ]
-    },
-    {
-     "text": "Au second tour, Marine Le Pen l'emporterait dans tous les cas testés : 69 % contre 31 % face à Jean-Luc Mélenchon, 53,5 % contre 46,5 % face à Raphaël Glucksmann, 52,5 % contre 47,5 % face à Édouard Philippe. L'échantillon compte 1 701 personnes, avec une marge d'erreur de 1,2 à 2,8 points, et un sondage « n'a pas une valeur prédictive », rappelle La Dépêche du Midi.",
-     "sources": [
-      "9f872caa2a2d"
-     ]
-    },
-    {
-     "text": "Dans un sondage OpinionWay réalisé les 13 et 14 octobre, Marine Le Pen recueille 35 % au premier tour (+1 point), devant Jean-Luc Mélenchon (15 %, -2), Raphaël Glucksmann (13 %, +4) et Édouard Philippe (12 %, -3), puis Bruno Retailleau (6 %), Éric Zemmour (5 %, +3) et David Lisnard (4 %), selon Europe 1.",
-     "sources": [
-      "df0e8958c1b7"
-     ]
-    },
-    {
-     "text": "Au second tour, Marine Le Pen l'emporterait avec 68 % contre Jean-Luc Mélenchon, et 56 % contre Édouard Philippe ou Raphaël Glucksmann, selon Le JDD, qui rappelle qu'elle avait recueilli 41 % des voix face à Emmanuel Macron en 2022.",
-     "sources": [
-      "d5660836de93"
-     ]
-    },
-    {
-     "text": "Le sondage YouGov pour Le HuffPost place Marine Le Pen à 35 à 37 %. Jean-Luc Mélenchon arrive deuxième avec 13 à 16 %, quel que soit le nombre de candidats à gauche et au centre. Raphaël Glucksmann obtient 12 à 14 % et Édouard Philippe 13 % s'il est le seul représentant du bloc central, selon Le HuffPost.",
-     "sources": [
-      "bdc1725cb44c"
-     ]
-    },
-    {
-     "text": "Selon Le HuffPost, les candidats liés de près ou de loin à Emmanuel Macron sont « en grande difficulté » à six mois du scrutin. Marine Tondelier est créditée de 5 à 6 % et Fabien Roussel de 3 %.",
-     "sources": [
-      "bdc1725cb44c"
-     ]
-    },
-    {
-     "text": "À gauche, Olivier Faure, premier secrétaire du Parti socialiste, a assuré dans un entretien au Parisien vouloir « la victoire » de Raphaël Glucksmann, une semaine après sa défaite à la primaire, selon Ouest-France. Une rencontre entre les deux est prévue dans les prochains jours.",
-     "sources": [
-      "9fb68c80f352"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://images.ladepeche.fr/api/v1/images/view/6ad46fb236944d1c630b01af/standard/image.jpg?v=1",
-    "source": "La Dépêche du Midi",
-    "article_url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
-    "article_id": "9f872caa2a2d",
-    "focus_x": 0.51,
-    "focus_y": 0.0901388888888889
-   },
-   "id": 143,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-18T10:44:53+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 13.32,
-   "sources": [
-    {
-     "id": "577ecbf58f17",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "SONDAGE BFMTV. Présidentielle 2027: Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon donnés au coude-à-coude derrière Marine Le Pen",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-sondage-bfmtv-presidentielle-2027-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-donnes-au-coude-a-coude-derriere-marine-le-pen_VN-202610180084.html",
-     "published_at": "2026-10-18T06:05:40+00:00",
-     "snippet": "Six mois avant le premier tour de l'élection présidentielle, la candidate du Rassemblement national continue de faire largement la course en tête, d'après le dernier sondage Elabe pour BFMTV et La Tribune Dimanche. Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon seraient tous les trois potentiellement à même de se qualifier pour le second tour."
-    },
-    {
-     "id": "9f872caa2a2d",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote",
-     "url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
-     "published_at": "2026-10-18T07:11:24+00:00",
-     "snippet": "Marine Le Pen reste donnée largement en tête des intentions de vote au premier tour de la présidentielle, selon un nouveau sondage Elabe publié ce dimanche. Rien n'est joué pour la seconde place où trois candidats..."
-    },
-    {
-     "id": "9fb68c80f352",
-     "name": "Ouest-France",
-     "kind": "media",
-     "title": "Présidentielle : Olivier Faure sort du silence et assure soutenir Glucksmann",
-     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-olivier-faure-sort-du-silence-et-assure-soutenir-glucksmann-38af7e7c-ca73-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-     "published_at": "2026-10-17T22:12:35+00:00",
-     "snippet": "Dans un entretien au Parisien samedi 17 octobre, Olivier Faure a assuré vouloir « la victoire » de Raphaël Glucksmann à l’élection présidentielle, une semaine après sa défaite à la primaire de la gauche. Une rencontre entre les deux politiques est prévue dans les prochains jours."
-    },
-    {
-     "id": "bdc1725cb44c",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Notre premier sondage pour la présidentielle : loin derrière Le Pen, un match à trois pour le second tour",
-     "url": "https://www.huffingtonpost.fr/politique/article/notre-premier-sondage-pour-la-presidentielle-loin-derriere-le-pen-un-match-a-trois-pour-le-second-tour_341090.html",
-     "published_at": "2026-10-18T05:15:10+00:00",
-     "snippet": "Les premières intentions de vote réalisées par YouGov pour « Le HuffPost » donnent Mélenchon, Glucksmann et Philippe, dans un mouchoir de poche. Avantage à l’Insoumis."
-    },
-    {
-     "id": "d5660836de93",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "SONDAGE – Présidentielle 2027 : Le Pen loin devant, Glucksmann talonne Mélenchon",
-     "url": "https://www.lejdd.fr/politique/sondage-presidentielle-2027-le-pen-loin-devant-glucksmann-talonne-melenchon-186135",
-     "published_at": "2026-10-15T19:00:04+00:00",
-     "snippet": "Selon un nouveau sondage OpinionWay pour CNews, la candidate du RN recueillerait 35 % des voix au premier tour de l’élection présidentielle, suivie de Jean-Luc Mélenchon. Porté par sa victoire à la primaire sociale-démocrate, Raphaël Glucksmann se placerait devant Édouard Philippe."
-    },
-    {
-     "id": "df0e8958c1b7",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "SONDAGE - Présidentielle 2027 : Marine Le Pen largement en tête au 1er tour et gagnante dans tous les scénarios de 2nd tour",
-     "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-au-1er-tour-et-gagnante-dans-tous-les-scenarios-de-2nd-tour-1152020?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T19:15:00+00:00",
-     "snippet": "Selon les résultats d'un sondage OpinonWay pour CNews et relayé par Europe 1, la candidate du Rassemblement national à la présidentielle, Marine Le Pen, est en tête des intentions de vote. La députée du Pas-de-Calais obtiendrait 35% des suffrages au premier tour, et devancerait Édouard Philippe, Jean-Luc Mélenchon ou Raphaël Glucksmann au deuxième tour. À six mois de l'élection présidentielle, Marine Le Pen confirme son statut de grande favorite. Dans un sondage OpinionWay pour CNEWS*, réalisé les 13 et 14 octobre et relayé par Europe 1, la candidate du Rassemblement national recueille 35% d'i"
-    }
-   ]
-  },
-  {
    "headline": "Après le 17 octobre, La France insoumise et Mélenchon au cœur des accusations croisées",
    "chapo": "Le gouvernement, Les Républicains et le RN accusent La France insoumise d'avoir attisé les violences du 17 octobre. Jean-Luc Mélenchon condamne le pillage mais met en cause le maintien de l'ordre et le pouvoir.",
    "points": [
@@ -354,7 +354,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.0,
+   "score": 10.39,
    "sources": [
     {
      "id": "14ddfc9edd6d",
@@ -485,7 +485,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.84,
+   "score": 8.46,
    "sources": [
     {
      "id": "2a7d1ed788b9",
@@ -618,7 +618,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 9.74,
    "sources": [
     {
      "id": "59d403e277fd",
@@ -736,7 +736,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.3,
+   "score": 6.78,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -883,7 +883,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.23,
+   "score": 7.31,
    "sources": [
     {
      "id": "1bec5569dadf",
@@ -1017,7 +1017,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.77,
+   "score": 6.16,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -1140,7 +1140,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.83,
+   "score": 4.62,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -1254,7 +1254,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.28,
+   "score": 4.56,
    "sources": [
     {
      "id": "078ce466a30d",
@@ -1385,7 +1385,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.21,
+   "score": 4.43,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -1517,7 +1517,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.83,
+   "score": 3.27,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -1626,7 +1626,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.83,
+   "score": 3.27,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -1740,7 +1740,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.12,
+   "score": 2.74,
    "sources": [
     {
      "id": "2cfacf2a9465",
@@ -1839,7 +1839,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.93,
+   "score": 2.49,
    "sources": [
     {
      "id": "8575ebe2a4ee",
@@ -1867,311 +1867,6 @@
      "url": "https://www.20minutes.fr/politique/4255036-20261016-congres-departements-ferme-gueule-quoi-brouille-entre-gouvernement-elus?at_medium=display&at_campaign=149",
      "published_at": "2026-10-16T14:44:38+00:00",
      "snippet": "Une grande partie de la salle a hué l’arrivée de la ministre, Françoise Gatel, à la tribune avant de quitter la salle en protestation de l’absence de Sébastien Lecornu"
-    }
-   ]
-  },
-  {
-   "headline": "Le Pen demande le départ de Ferrand du Conseil constitutionnel : article 11 ou 89 ?",
-   "chapo": "Mercredi 14 octobre, Marine Le Pen a estimé que Richard Ferrand devait « quitter la tête » du Conseil constitutionnel, après qu'il a jugé impossible de réviser la Constitution par référendum via l'article 11, comme le propose le RN. Il défend l'article 89, qui passe par le Parlement.",
-   "points": [
-    {
-     "text": "Dans un podcast du Club des juristes, Richard Ferrand, président du Conseil constitutionnel, a affirmé qu'il n'était pas possible de changer la Constitution par l'article 11 en organisant un référendum, comme le veut le RN pour la préférence nationale ou sa politique migratoire, selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Sa formule : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat. Il suffit de lire la Constitution, qui n'est pas le Code général des impôts ».",
-     "sources": [
-      "c4ceca6d4c31",
-      "694e005a034e"
-     ]
-    },
-    {
-     "text": "L'article 89 prévoit qu'un projet de révision soit voté en « termes identiques » par l'Assemblée nationale et le Sénat, puis approuvé par référendum ou par une majorité des trois cinquièmes du Parlement réuni en Congrès, selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Pour Le Monde, l'article 11 « délimite le champ des sujets susceptibles d'être soumis à référendum ». Il permet de consulter les Français sur l'organisation des pouvoirs publics ou des réformes de la politique économique, sociale ou environnementale. Marine Le Pen veut l'utiliser pour la préférence nationale et une réforme sur l'idéologie islamiste, deux sujets « a priori interdits » selon le journal.",
-     "sources": [
-      "cea6271d1123"
-     ]
-    },
-    {
-     "text": "Depuis Bruxelles, Marine Le Pen répond que Richard Ferrand « a rompu avec l'obligation qui est la sienne de neutralité » en se prononçant sur « une affaire qui n'a pas encore été soumise au Conseil constitutionnel », et qu'il doit « quitter la tête » de l'institution, selon CNews.",
-     "sources": [
-      "694e005a034e",
-      "a7611d31f0dc"
-     ]
-    },
-    {
-     "text": "Elle dénonce des « arguments indigents » et invite Richard Ferrand à « écouter le général de Gaulle », qui s'était appuyé sur l'article 11 en 1962 pour organiser un référendum sur l'élection du président au suffrage universel, selon Le Parisien.",
-     "sources": [
-      "a7611d31f0dc"
-     ]
-    },
-    {
-     "text": "Elle cite aussi François Mitterrand, qui aurait admis que l'article 11 était « validée pour être une voie de modification de la Constitution », selon 20 Minutes. Richard Ferrand répond que « tous mes prédécesseurs l'ont affirmé et réaffirmé, [Laurent] Fabius, Jean-Louis Debré également ».",
-     "sources": [
-      "d6b10b629eba"
-     ]
-    },
-    {
-     "text": "Quelques semaines plus tôt, Marine Le Pen avait déjà jugé que le Conseil constitutionnel « n'est pas un contre-pouvoir au peuple » : « si les Français décident de modifier leur Constitution, personne ne peut les empêcher », selon LCP.",
-     "sources": [
-      "c4ceca6d4c31"
-     ]
-    },
-    {
-     "text": "Le JDD parle d'une réponse « cinglante » de la candidate, Le Progrès d'un reproche de manquement au devoir de neutralité. Marine Le Pen doit être l'invitée de CNews ce jeudi à 21 heures.",
-     "sources": [
-      "cd8f1addca13",
-      "3744fa07d82e",
-      "694e005a034e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2024-12/Marine%20Le%20Pen%20le%204%20d%C3%A9cembre%202024.jpg?h=c673cd1c&itok=5two1d6e",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
-    "article_id": "c4ceca6d4c31",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.19611111111111112
-   },
-   "id": 123,
-   "section": "institutions",
-   "reviewed_at": "2026-10-15T06:19:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 4.63,
-   "sources": [
-    {
-     "id": "3744fa07d82e",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Politique. Marine Le Pen réclame le départ de Richard Ferrand du Conseil constitutionnel",
-     "url": "https://www.leprogres.fr/politique/2026/10/14/marine-le-pen-reclame-le-depart-de-richard-ferrand-du-conseil-constitutionnel",
-     "published_at": "2026-10-14T19:31:00+00:00",
-     "snippet": "La candidate du RN reproche à Richard Ferrand d'avoir manqué à son devoir de neutralité en écartant sa proposition de réviser la Constitution par référendum."
-    },
-    {
-     "id": "694e005a034e",
-     "name": "CNews",
-     "kind": "media",
-     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen tacle son président Richard Ferrand",
-     "url": "https://www.cnews.fr/france/2026-10-14/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-tacle-son",
-     "published_at": "2026-10-14T19:01:59+00:00",
-     "snippet": "Marine Le Pen a estimé mercredi depuis Bruxelles que Richard Ferrand, président du Conseil constitutionnel, devait «quitter la tête» de l'institution, après qu'il a publiquement balayé la proposition phare de la candidate à la présidentielle, de réviser la Constitution par référendum, sans passer par le Parlement. Un désaccord qui mène à un vif échange. En déplacement à Bruxelles, Marine Le Pen a considéré que Richard Ferrand, le président du Conseil constitutionnel, devait «quitter la tête» de l'institution. Une sortie qui fait suite aux doutes émis par l'ancien président de l'Assemblée natio"
-    },
-    {
-     "id": "a7611d31f0dc",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Référendum : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-     "url": "https://www.leparisien.fr/politique/referendum-richard-ferrand-doit-quitter-la-tete-du-conseil-constitutionnel-estime-marine-le-pen-14-10-2026-3HQWOGFH25HMJF4V677MWIXYNA.php",
-     "published_at": "2026-10-14T20:17:16+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c4ceca6d4c31",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Référendum: Richard Ferrand \"doit quitter la présidence du Conseil constitutionnel\", estime Marine Le Pen",
-     "url": "https://lcp.fr/actualites/referendum-richard-ferrand-doit-quitter-la-presidence-du-conseil-constitutionnel-estime",
-     "published_at": "2026-10-15T06:05:44+00:00",
-     "snippet": "Par Raphaël Marchal , le Mercredi 14 octobre 2026 à 23:30 La candidate du Rassemblement national à l'élection présidentielle a déclaré, ce mercredi 14 octobre depuis Bruxelles, que Richard Ferrand \"devrait quitter la tête du Conseil constitutionnel\", après qu'il a considéré qu'il n'était pas possible, contrairement à une proposition phare de Marine Le Pen, de réviser la Constitution par référendum, sans passer par le Parlement. Marine Le Pen souhaite que Richard Ferrand quitte la tête du Conseil constitutionnel. La raison de son courroux ? Dans un récent podcast du Club des juristes, le présid"
-    },
-    {
-     "id": "cd8f1addca13",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "«Il doit quitter la tête du Conseil constitutionnel» : Marine Le Pen réclame la démission de Richard Ferrand",
-     "url": "https://www.lejdd.fr/politique/il-doit-quitter-la-tete-du-conseil-constitutionnel-marine-le-pen-reclame-la-demission-de-richard-ferrand-186072",
-     "published_at": "2026-10-15T05:50:19+00:00",
-     "snippet": "La candidate pour 2027 a répondu de façon cinglante au président du Conseil constitutionnel qui a balayé la proposition du RN de changer la Constitution par l’article 11 en organisant un référendum."
-    },
-    {
-     "id": "cea6271d1123",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Référendum : l’histoire tourmentée de l’article 11 de la Constitution, au cœur de la campagne présidentielle",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/10/referendum-l-histoire-tourmentee-de-l-article-11-de-la-constitution-au-c-ur-de-la-campagne-presidentielle_6790950_823448.html",
-     "published_at": "2026-10-10T04:30:06+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d6b10b629eba",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Richard Ferrand « doit quitter la tête du Conseil constitutionnel », estime Marine Le Pen",
-     "url": "https://www.20minutes.fr/politique/4254402-20261014-presidentielle-richard-ferrand-doit-quitter-tete-conseil-constitutionnel-estime-marine-pen?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-14T18:54:06+00:00",
-     "snippet": "La candidate RN n’a pas apprécié que Richard Ferrand torpille sa proposition de changer la Constitution par référendum"
-    }
-   ]
-  },
-  {
-   "headline": "Présidentielle 2027 : plus de 100 opérations d'ingérence étrangère déjà détectées",
-   "chapo": "Viginum, l'agence de l'État qui traque les manipulations venues de l'étranger, a repéré « plus d'une centaine » d'opérations visant la campagne, surtout pro-russes. Le ministre Jean-Noël Barrot a dénoncé aussi Elon Musk et la sphère MAGA. Un projet de loi doit être examiné au Sénat la semaine prochaine.",
-   "points": [
-    {
-     "text": "De quoi parle-t-on ? D'ingérences étrangères : des « manipulations de l'information par des acteurs étrangers », que Viginum, service de l'État, est chargé de détecter et de combattre, selon Le Parisien. Il s'agit ici d'opérations numériques, comme de faux comptes ou des campagnes en ligne, pour peser sur le débat démocratique.",
-     "sources": [
-      "d0e2c27e5768",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "La campagne de la présidentielle fait l'objet d'un « ciblage massif et très précoce », indique Anne-Sophie Dhiver, cheffe adjointe de Viginum. « Plus d'une centaine » d'opérations ont été détectées depuis l'été, selon Le Parisien.",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "C'est bien plus que lors des scrutins précédents : 25 opérations pour les européennes et les législatives de 2024, quatre pour les municipales de mars 2026, selon Le Parisien.",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "Elles visent surtout Gabriel Attal, Raphaël Glucksmann et Édouard Philippe, et émanent essentiellement des réseaux pro-russes Matriochka et Storm-1516, selon Le Parisien. Viginum les juge pour l'instant « d'un niveau médiocre » et sans « visibilité », mais « on ne peut pas préjuger de la suite ».",
-     "sources": [
-      "d0e2c27e5768"
-     ]
-    },
-    {
-     "text": "Ce n'est pas nouveau : en août, Viginum avait détecté une campagne visant Gabriel Attal, avec de faux reportages et de fausses unes usurpant l'identité de médias (RFI, BFM-TV, France 24, AFP, Le Parisien, Ouest-France, Libération, Le Monde). Il l'imputait, « avec une confiance élevée », au réseau prorusse Matriochka, selon Le Monde.",
-     "sources": [
-      "0776c2e51ee6"
-     ]
-    },
-    {
-     "text": "Viginum avait recommandé aux candidats d'éviter de communiquer publiquement sur ces contenus, « souvent invraisemblables » et à « très faible retentissement », pour ne pas leur donner de visibilité. Gabriel Attal avait, lui, porté plainte pour « ingérence étrangère » et averti : « l'élection peut être faussée, volée aux Français », selon Le Monde.",
-     "sources": [
-      "0776c2e51ee6",
-      "c94c537728a7"
-     ]
-    },
-    {
-     "text": "Mardi, devant l'OCDE, le ministre des Affaires étrangères Jean-Noël Barrot a accusé : « Les adversaires de la démocratie donnent tout pour nous déstabiliser ». Il affirme qu'ils « exploitent nos divisions, instrumentalisent l'immigration, la laïcité ou encore le conflit israélo-palestinien », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a cité une entreprise israélienne ayant créé de faux comptes français, « des campagnes de harcèlement massif en ligne par Elon Musk contre des dirigeants européens » et des campagnes suggérant que la présidentielle sera « truquée », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697"
-     ]
-    },
-    {
-     "text": "Il a aussi dénoncé l'exploitation des manifestations lycéennes « par des récits hostiles venus de Russie et de Chine, en passant par l'Iran et de la communauté Maga ». Il vise aussi un message de Donald Trump sur « l'islam qui veut s'emparer d'un pays autrefois grand », selon 20 Minutes.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Côté américain, L'Express rapporte que l'administration Trump a fait pression sur plusieurs gouvernements européens et sur le Canada pour qu'ils prennent leurs distances avec la conférence « EU DisinfoLab » de Vilnius (6 au 8 octobre), après un panel intitulé « Les Etats-Unis, une menace pour l'Europe ». L'information vient de Politico et du Guardian.",
-     "sources": [
-      "9ce94e0d203a"
-     ]
-    },
-    {
-     "text": "Sa ligne : « Nous ne tolérons aucune ingérence étrangère, d'où qu'elle vienne. C'est une question de souveraineté », y compris de pays partenaires, selon 20 Minutes. Une nouvelle loi sur le sujet doit être examinée par le Sénat la semaine prochaine, selon RFI.",
-     "sources": [
-      "d40027af3697",
-      "92cb23981df3"
-     ]
-    },
-    {
-     "text": "Mardi, le site du Secrétariat général de la Défense et de la Sécurité nationale, qui héberge Viginum, a été paralysé plusieurs heures par une attaque « en déni de service ». Elle n'a pas été revendiquée, selon RFI.",
-     "sources": [
-      "92cb23981df3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://s.rfi.fr/media/display/44bf77ac-141c-11f1-9c74-005056bfb2b6/w:1024/p:16x9/1813020-un-clavier-d-ordinateur-illustrant-les-risques-de-cyberattaque-photo-d-illustration.jpg",
-    "source": "RFI",
-    "article_url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-    "article_id": "92cb23981df3"
-   },
-   "id": 126,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-15T06:33:28+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.54,
-   "sources": [
-    {
-     "id": "0776c2e51ee6",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Glucksmann, Attal, Philippe… les ingérences russes s'invitent dans la campagne",
-     "url": "https://www.lemonde.fr/politique/article/2026/08/07/presidentielle-2027-glucksmann-attal-philippe-les-ingerences-russes-s-invitent-dans-la-campagne_6740451_823448.html",
-     "published_at": "2026-08-07T03:31:00+00:00",
-     "snippet": "Après Edouard Philippe et Raphaël Glucksmann, au tour de Gabriel Attal. Le candidat Renaissance à l'élection présidentielle de 2027 a été visé mardi 4 août par une campagne de désinformation en provenance de Russie, au travers de faux reportages, vidéos et unes usurpant l'identité visuelle de plusie"
-    },
-    {
-     "id": "92cb23981df3",
-     "name": "RFI",
-     "kind": "media",
-     "title": "Ingérences étrangères: la France durcit le ton, les cyberattaques se poursuivent",
-     "url": "https://www.rfi.fr/fr/france/20261014-ing%C3%A9rences-%C3%A9trang%C3%A8res-la-france-durcit-le-ton-les-cyberattaques-se-poursuivent",
-     "published_at": "2026-10-14T06:25:39+00:00",
-     "snippet": "Des dizaines de supermarchés continuent d'évaluer les dégâts provoqués par une cyberattaque qui a déréglé leurs systèmes frigorifiques. Plusieurs pays ont été touchés par cette offensive qui n'a pas encore été revendiquée, dont la France, cible d'une autre cyberattaque mardi, qui a paralysé pendant plusieurs heures le site internet du Secrétariat général de la Défense et de la Sécurité nationale."
-    },
-    {
-     "id": "9ce94e0d203a",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Comment les Etats-Unis se sont ingérés dans une conférence européenne... sur l'ingérence étrangère",
-     "url": "https://www.lexpress.fr/monde/europe/comment-les-etats-unis-se-sont-ingeres-dans-une-conference-europeenne-sur-lingerence-MSNOLMVBSVDRFK7ZOWEU4ZBH2A/",
-     "published_at": "2026-10-10T14:38:42+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c94c537728a7",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
-     "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
-     "published_at": "2026-08-08T05:28:00+00:00",
-     "snippet": "Gabriel Attal, candidat à la présidentielle et patron du parti Renaissance, a porté plainte pour « ingérence étrangère » en « provenance de réseaux russes », ont annoncé, samedi 8 août, ses avocats à l'Agence France-Presse (AFP). La plainte dénonce « des faits d'ingérence étrangère, de manipulation "
-    },
-    {
-     "id": "d0e2c27e5768",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : déjà « plus de 100 opérations d’ingérences » étrangères visant la campagne détectées, un « ciblage massif »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-deja-plus-de-100-operations-dingerences-etrangeres-visant-la-campagne-detectees-un-ciblage-massif-14-10-2026-F534HQ4JFBCLTECFDZ5VWE6PFQ.php",
-     "published_at": "2026-10-14T09:47:52+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "d40027af3697",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Paris accuse des acteurs étrangers, dont Elon Musk, d’ingérence dans le débat démocratique",
-     "url": "https://www.20minutes.fr/politique/4254007-20261013-presidentielle-2027-paris-accuse-acteurs-etrangers-dont-elon-musk-ingerence-debat-democratique?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-13T14:06:47+00:00",
-     "snippet": "A l’approche de 2027, « les adversaires de la démocratie donnent tout pour nous déstabiliser », a accusé Jean-Noël Barrot, le ministre de l’Europe et des Affaires étrangères"
     }
    ]
   },
@@ -2250,7 +1945,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.55,
+   "score": 3.15,
    "sources": [
     {
      "id": "0cf6eabf0088",
@@ -2296,112 +1991,6 @@
      "url": "https://www.leparisien.fr/politique/ca-va-peter-tres-fort-les-agriculteurs-lautre-crise-sociale-quanticipe-le-gouvernement-15-10-2026-ABOEP3DQYNG77DRS3YWPGDNR4U.php",
      "published_at": "2026-10-15T06:05:34+00:00",
      "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : les députés adoptent la contribution de 30,9 milliards à l'UE",
-   "chapo": "Mercredi 14 octobre, l'Assemblée a approuvé le prélèvement de 30,9 milliards d'euros au profit de l'Union européenne par 111 voix contre 93. Le RN et LFI voulaient réduire cette contribution ; leurs amendements ont été rejetés.",
-   "points": [
-    {
-     "text": "L'article prévoyant un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE en 2027 a été adopté par 111 voix contre 93, malgré les votes contre de LFI et du RN, selon CNews. C'est légèrement plus que l'an dernier (28,4 milliards d'euros).",
-     "sources": [
-      "eb4fa5811bda",
-      "6611ce20b291"
-     ]
-    },
-    {
-     "text": "Le ministre chargé de l'Europe, Benjamin Haddad, reconnaît que la France « est contributrice nette, comme les douze autres pays les plus riches de notre Union », mais affirme qu'elle est « la première bénéficiaire en volume » des aides européennes aux agriculteurs, aux régions et aux entreprises, selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Le RN proposait d'amputer la contribution de 11 milliards d'euros, pour qu'elle « se limite à 5 milliards d'euros » en net. Amendement rejeté. Le député RN Jean-Philippe Tanguy s'est aussi élevé contre une conclusion du budget européen 2028-2034 avant la présidentielle, « un grave problème » démocratique, selon Europe 1.",
-     "sources": [
-      "556017869975",
-      "eb4fa5811bda"
-     ]
-    },
-    {
-     "text": "LFI proposait des baisses de 10 % si certaines conditions n'étaient pas remplies : suppression de Frontex, « congélation » des titres de dette détenus par la BCE ou abrogation des règles de 3 % et 60 % du PIB. Tous les amendements ont été rejetés, selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Pour Éric Coquerel (LFI), « telle qu'elle existe aujourd'hui, l'Union européenne reste le cheval de Troie d'un néolibéralisme et d'une politique de l'offre dont la duplicité ne nous masque plus l'échec », selon La Croix.",
-     "sources": [
-      "bb170ebcd529"
-     ]
-    },
-    {
-     "text": "Benjamin Haddad accuse les partisans d'une baisse d'« avancer masqués » : ils n'osent plus dire « Frexit » et préfèrent « rapport de force avec l'Europe », selon CNews.",
-     "sources": [
-      "eb4fa5811bda"
-     ]
-    },
-    {
-     "text": "Le rapporteur général du budget Philippe Juvin (LR) souligne que supprimer l'article « n'aurait strictement aucun effet sur notre obligation juridique » à verser la contribution, selon Europe 1.",
-     "sources": [
-      "556017869975"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-10-06t131121z_1570186509_rc2pxnam30zt_rtrmadp_3_france-politics_6ad0530c8cd33.jpg?h=ff8f1f42&itok=7v5F9pRG",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
-    "article_id": "eb4fa5811bda"
-   },
-   "id": 124,
-   "section": "institutions",
-   "reviewed_at": "2026-10-15T06:32:49+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.65,
-   "sources": [
-    {
-     "id": "556017869975",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Les députés adoptent la contribution française au budget de l'UE",
-     "url": "https://www.europe1.fr/economie/les-deputes-adoptent-la-contribution-francaise-au-budget-de-lue-1150259?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-15T05:47:00+00:00",
-     "snippet": "Les députés ont approuvé mercredi la contribution française de 30,9 milliards d’euros au budget de l’Union européenne pour 2027. Ils ont en revanche atténué la fiscalisation des indemnités journalières prévue par le gouvernement. Les députés ont approuvé mercredi soir dans l'hémicycle la participation française au budget de l'UE prévue dans le projet de loi de finances (PLF) pour 2027, malgré les votes contre de LFI et du RN. Mais ils ont partiellement détricoté en fin de séance l'article 2 visant en particulier à rapprocher l'imposition des indemnités journalières de celle de l'impôt sur le r"
-    },
-    {
-     "id": "6611ce20b291",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "L’Assemblée nationale valide la contribution française au budget européen malgré l’opposition de LFI et du RN",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html",
-     "published_at": "2026-10-14T22:40:48+00:00",
-     "snippet": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027."
-    },
-    {
-     "id": "bb170ebcd529",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Budget 2027 : les députés adoptent la contribution française pour l’UE",
-     "url": "https://www.la-croix.com/international/budget-2027-les-deputes-adoptent-la-contribution-francaise-pour-l-ue-20261015",
-     "published_at": "2026-10-15T05:10:13+00:00",
-     "snippet": "Les députés ont voté mercredi 14 octobre au soir en faveur du prélèvement de 30,9 milliards d’euros destiné au budget de l’UE en 2027, défendu par Benjamin Haddad. LFI et le RN ont voté contre, proposant chacun de réduire la contribution française."
-    },
-    {
-     "id": "eb4fa5811bda",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Budget 2027 : une contribution de 30,9 milliards d'euros en faveur de l'UE adoptée par les députés",
-     "url": "https://www.cnews.fr/france/2026-10-15/budget-2027-une-contribution-de-309-milliards-deuros-en-faveur-de-lue-adoptee-par",
-     "published_at": "2026-10-15T05:16:38+00:00",
-     "snippet": "Dans la soirée de mercredi, les députés ont approuvé la participation française au budget de l'Union européenne prévue dans le projet de loi de finances pour 2027. L'article qui prévoit notamment un prélèvement de 30,9 milliards d'euros au bénéfice de l'UE, l'an prochain, a été adopté par 111 voix contre 93. Lancée il y a plusieurs jours, la séquence budgétaire a franchi une nouvelle étape. A l’Assemblée nationale, les députés ont approuvé mercredi la contribution française au budget de l'Union européenne, dans le cadre de l'examen du projet de loi de finances pour 2027. Malgré les votes contr"
     }
    ]
   }
