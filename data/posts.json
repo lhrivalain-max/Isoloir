@@ -1,6 +1,118 @@
 {
- "generated_at": "2026-10-20T08:06:17+00:00",
+ "generated_at": "2026-10-20T15:16:57+00:00",
  "posts": [
+  {
+   "headline": "Violences du 17 octobre : l'Assemblée lance une commission d'enquête sur le maintien de l'ordre",
+   "chapo": "Mardi 20 octobre, les groupes de l'Assemblée se sont accordés pour que la commission des lois se transforme en commission d'enquête sur les violences du 17 octobre et le dispositif de maintien de l'ordre. Le Sénat prépare de son côté une mission d'information.",
+   "points": [
+    {
+     "text": "Les groupes politiques se sont accordés mardi sur l'opportunité d'une commission d'enquête, proposée dimanche par la présidente Yaël Braun-Pivet. Elle porterait sur les violences et pillages, et sur le dispositif de maintien de l'ordre, selon Europe 1 et Le HuffPost.",
+     "sources": [
+      "2a94297806ca",
+      "76f58f447c46"
+     ]
+    },
+    {
+     "text": "La commission des lois doit se transformer en commission d'enquête. Selon Europe 1, cette procédure n'est pas courante, mais il existe des précédents récents, comme en octobre 2024 pour le dérapage du déficit.",
+     "sources": [
+      "2a94297806ca"
+     ]
+    },
+    {
+     "text": "Yaël Braun-Pivet propose d'inclure la préparation des pouvoirs publics, « les renseignements et les moyens dont ils disposent », le niveau d'information des maires, l'influence des réseaux sociaux et d'éventuelles « ingérences étrangères », selon Europe 1.",
+     "sources": [
+      "2a94297806ca"
+     ]
+    },
+    {
+     "text": "Une commission d'enquête peut convoquer des personnes, qui doivent s'y rendre, obtenir des documents et conduire des auditions sous serment, selon Le HuffPost.",
+     "sources": [
+      "76f58f447c46"
+     ]
+    },
+    {
+     "text": "Yaël Braun-Pivet : « On a besoin de tout poser à plat ». Les travaux pourraient débuter la semaine prochaine, avec des résultats « d'ici la fin de l'année », selon franceinfo.",
+     "sources": [
+      "052a6c386254"
+     ]
+    },
+    {
+     "text": "La commission des lois est présidée par Renaissance, qui devrait donc présider la commission d'enquête. Selon franceinfo, cette possibilité n'a pas les faveurs des groupes de gauche, dont LFI, qui craignent une instrumentalisation politique.",
+     "sources": [
+      "052a6c386254"
+     ]
+    },
+    {
+     "text": "Marine Le Pen (RN) a proposé d'inclure la « réponse pénale ». Mathilde Panot (LFI) souhaite considérer « l'ensemble des événements depuis mi-septembre et le début des revendications lycéennes », selon Europe 1.",
+     "sources": [
+      "2a94297806ca"
+     ]
+    },
+    {
+     "text": "Au Sénat, la commission des Lois lance une mission d'information sur les « dysfonctionnements dans l'anticipation et la préparation du dispositif de maintien de l'ordre », selon Le HuffPost. Pour Le Monde, le Parlement veut ainsi honorer sa mission de contrôle de l'action gouvernementale.",
+     "sources": [
+      "76f58f447c46",
+      "45341b4fe4a6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Assembl%C3%A9e%20nationale/riccardo_milani_hans_lucas_hans_lucas_via_afp_3_696a68b988630.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/violences-du-17-octobre-accord-entre-les-groupes-a-lassemblee-pour-lancer-une-commission-denquete-1166640?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "2a94297806ca"
+   },
+   "id": 152,
+   "section": "institutions",
+   "reviewed_at": "2026-10-20T15:16:57+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "052a6c386254",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "L'Assemblée nationale lance une commission d'enquête parlementaire sur les violences du 17 octobre et le maintien de l'ordre",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/creation-d-une-commission-d-enquete-confiee-a-la-commission-des-lois-de-l-assemblee-nationale-apres-les-violences-du-17-octobre_8245390.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-20T09:56:58+00:00",
+     "snippet": "\"On a besoin de tout poser à plat\", a estimé mardi matin sur France Inter la présidente de l'Assemblée nationale, Yaël Braun-Pivet."
+    },
+    {
+     "id": "2a94297806ca",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Violences du 17 octobre : accord entre les groupes à l'Assemblée pour lancer une commission d'enquête",
+     "url": "https://www.europe1.fr/politique/violences-du-17-octobre-accord-entre-les-groupes-a-lassemblee-pour-lancer-une-commission-denquete-1166640?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-20T09:52:00+00:00",
+     "snippet": "Proposée par la président de l'Assemblée nationale ce dimanche après les scènes de violence qui ont éclaté après les manifestations du week-end, les groupes politiques présents dans l'hémicycle se sont accordés pour lancer une commission d'enquête. Les groupes politiques de l' Assemblée nationale se sont accordés mardi sur l'opportunité de lancer une commission d'enquête sur les violences et scènes de pillages en marge des manifestations du week-end, principalement le 17 octobre, mais aussi sur le dispositif de maintien de l'ordre déployé, selon plusieurs sources parlementaires. La création d'"
+    },
+    {
+     "id": "45341b4fe4a6",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Mobilisation du 17 octobre : après les scènes de chaos, le Parlement veut jouer son rôle",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/20/mobilisation-du-17-octobre-apres-les-scenes-de-chaos-le-parlement-veut-jouer-son-role_6797882_823448.html",
+     "published_at": "2026-10-20T07:30:03+00:00",
+     "snippet": "La présidente de l’Assemblée nationale propose la création d’une commission d’enquête, le Sénat a opté pour une mission d’information. Le gouvernement prévoit de déposer de nouveaux amendements au projet de loi de finances pour 2027."
+    },
+    {
+     "id": "76f58f447c46",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "L’Assemblée nationale valide la création d’une commission d’enquête sur les violences urbaines",
+     "url": "https://www.huffingtonpost.fr/politique/article/l-assemblee-nationale-valide-la-creation-d-une-commission-d-enquete-sur-les-violences-urbaines_342320.html",
+     "published_at": "2026-10-20T10:44:14+00:00",
+     "snippet": "Après le Sénat, l’Assemblée nationale annonce le lancement d’une enquête sur les violences en marge du 17 octobre, et le dispositif de maintien de l’ordre déployé par le gouvernement."
+    }
+   ]
+  },
   {
    "headline": "Présidentielle : trois sondages, Le Pen loin devant et un match à trois pour la seconde place",
    "chapo": "Trois sondages publiés cette semaine (OpinionWay, Elabe, YouGov) placent Marine Le Pen largement en tête. Pour la seconde place, Jean-Luc Mélenchon, Raphaël Glucksmann et Édouard Philippe sont au coude-à-coude.",
@@ -75,7 +187,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.23,
+   "score": 5.64,
    "sources": [
     {
      "id": "577ecbf58f17",
@@ -212,7 +324,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.55,
+   "score": 6.85,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -354,7 +466,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.3,
+   "score": 5.64,
    "sources": [
     {
      "id": "14ddfc9edd6d",
@@ -485,7 +597,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.54,
+   "score": 5.02,
    "sources": [
     {
      "id": "2a7d1ed788b9",
@@ -618,7 +730,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.91,
+   "score": 5.29,
    "sources": [
     {
      "id": "59d403e277fd",
@@ -736,7 +848,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.06,
+   "score": 4.71,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -883,7 +995,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.28,
+   "score": 4.88,
    "sources": [
     {
      "id": "1bec5569dadf",
@@ -1017,7 +1129,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.45,
+   "score": 4.11,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -1140,7 +1252,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.33,
+   "score": 3.08,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -1177,138 +1289,6 @@
      "url": "https://www.huffingtonpost.fr/politique/article/encore-rejetee-la-taxe-zucman-a-de-nouveau-enflamme-l-assemblee-pendant-les-discussions-budgetaires_341057.html",
      "published_at": "2026-10-17T13:26:48+00:00",
      "snippet": "Les députés ont rejeté plusieurs propositions portées par la gauche, de la création d’un impôt minimum sur les hauts patrimoines au retour de l’ISF."
-    }
-   ]
-  },
-  {
-   "headline": "Plainte d'Alliance, grenades, 17 octobre : Nuñez répond aux policiers",
-   "chapo": "À la veille de la mobilisation du 17 octobre, le syndicat de police Alliance annonce une plainte contre l'État pour mise en danger de la vie d'autrui. Le ministre de l'Intérieur Laurent Nuñez confirme que des consignes contradictoires ont pu être données, et autorise l'ensemble des armes intermédiaires.",
-   "points": [
-    {
-     "text": "Le syndicat Alliance annonce une plainte contre l'État pour « mise en danger de la vie d'autrui », dénonçant des « instructions contradictoires » sur l'usage de certaines armes en manifestation, selon franceinfo.",
-     "sources": [
-      "6c224d9b6993"
-     ]
-    },
-    {
-     "text": "Sur franceinfo, Laurent Nuñez confirme : « Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement ». Il juge « hors de question de bannir un type d'armes intermédiaires » et dit ne rien avoir « à redire sur les instructions » qu'il passe.",
-     "sources": [
-      "6c224d9b6993"
-     ]
-    },
-    {
-     "text": "Sur France 2, il rappelle : « J'ai suspendu l'usage de cette grenade assourdissante uniquement pour le mouvement lycéen », après qu'un adolescent de 15 ans a eu la main arrachée à Lens, selon Le HuffPost. Demain, « ce sont d'autres types d'actions », dit-il.",
-     "sources": [
-      "d7913e3dc916"
-     ]
-    },
-    {
-     "text": "Ses instructions : « les policiers et les gendarmes doivent pouvoir utiliser l'ensemble des armes intermédiaires à leur disposition ». En cas de violences urbaines graves, « ce type d'armement peut être utilisé », selon Le HuffPost.",
-     "sources": [
-      "d7913e3dc916",
-      "eca2f883779f"
-     ]
-    },
-    {
-     "text": "Pour la manifestation du 17 octobre, le ministre s'attend à une mobilisation « assez importante » : environ 250 appels à des actions et 80 cortèges, dont un peu plus d'une quarantaine déclarés, selon franceinfo. Il redoute des dégradations de l'ultra-gauche en fin de cortège.",
-     "sources": [
-      "6c224d9b6993",
-      "6e8769275a68"
-     ]
-    },
-    {
-     "text": "Les juristes sont sceptiques sur la plainte : « Ce n'est que de la communication politique », estime un haut magistrat, selon Le Figaro. Selon un professeur de droit pénal, il faudra prouver que l'ordre donné « est lui-même une violation d'une loi ou d'un texte réglementaire ».",
-     "sources": [
-      "a99a75404bde"
-     ]
-    },
-    {
-     "text": "Alliance devra aussi viser nommément des personnes : préfets, directeur de la police nationale ou représentants de la hiérarchie, selon Le Figaro.",
-     "sources": [
-      "a99a75404bde"
-     ]
-    },
-    {
-     "text": "Côté gauche, L'Humanité critique un ministre qui « s'en prend désormais aux lycéens, traités comme de dangereux délinquants », citant « 8 000 gardes à vue » et plusieurs mutilations. Le journal cite aussi un ancien patron de la police pour qui il est un homme affable : « Il ne hurle jamais ».",
-     "sources": [
-      "078ce466a30d"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/kvheZJ93hcYM4DtBV9RZjnDM3cQ/0x23:1177x686/432x243/filters:format(jpg)/2026/10/16/6ad1d4e0ed666490338625.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "6c224d9b6993",
-    "focus_x": 0.52,
-    "focus_y": 0.23925925925925925
-   },
-   "id": 132,
-   "section": "institutions",
-   "reviewed_at": "2026-10-16T09:23:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.64,
-   "sources": [
-    {
-     "id": "078ce466a30d",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Si on lui demande de taper sur des manifestants, il le fera sans états d’âme » : Laurent Nunez, la répression féroce derrière le « chic type »",
-     "url": "https://www.humanite.fr/politique/gilets-jaunes/si-on-lui-demande-de-taper-sur-des-manifestants-il-le-fera-sans-etats-dame-laurent-nunez-la-repression-feroce-derriere-le-chic-type",
-     "published_at": "2026-10-16T04:30:00+00:00",
-     "snippet": "Le ministre de l’Intérieur, déjà secrétaire d’État dans le même ministère lors de la très violente répression des gilets jaunes, s’en prend désormais aux lycéens, traités comme de dangereux délinquants. Le chiffre hallucinant de 8 000 gardes à vue a été atteint, sans compter plusieurs mutilations. Portrait d’une version bonhomme de la répression."
-    },
-    {
-     "id": "6c224d9b6993",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Plainte du syndicat Alliance contre l'Etat : \"Certaines consignes ont pu être passées, j'ai procédé fermement au rappel à l'ordre nécessaire\", indique Laurent Nuñez",
-     "url": "https://www.franceinfo.fr/politique/plainte-du-syndicat-alliance-contre-l-etat-certaines-consignes-ont-pu-etre-passees-j-ai-procede-fermement-au-rappel-a-l-ordre-necessaire-indique-laurent-nunez_8239798.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-16T07:40:23+00:00",
-     "snippet": "Invité des \"4V\" ce vendredi 16 octobre, le ministre de l'Intérieur réagit aux \"cas cités\" par le syndicat de police Alliance, qui dénonce une \"mise en danger de la vie d'autrui\" et des \"instructions contradictoires\" sur l'utilisation de certaines armes en manifestation. \"Certaines consignes ont pu être passées de ne pas utiliser certains types d'armement\", confirme Laurent Nuñez, estimant qu'iI est \"hors de question de bannir un type d'armes intermédiaires\" dans le rétablissement du maintien de l'ordre. \"Je n'ai rien à redire sur les instructions que je passe\", appuie-t-il."
-    },
-    {
-     "id": "6e8769275a68",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Manifestation du 17 octobre: Laurent Nuñez s'attend à une mobilisation importante et redoute des \"dégradations de l'ultragauche\"",
-     "url": "https://lcp.fr/actualites/manifestation-du-17-octobre-laurent-nunez-s-attend-a-une-mobilisation-importante-et",
-     "published_at": "2026-10-16T09:14:09+00:00",
-     "snippet": "Par Raphaël Marchal , le Vendredi 16 octobre 2026 à 08:57 Invité de France 2 ce vendredi 16 octobre, le ministre de l'Intérieur s'attend à \"250 actions et 80 rassemblements de voie publique\" sur le territoire dans le cadre de la mobilisation du 17 octobre. Laurent Nuñez a également indiqué qu'il craignait des débordements de \"l'ultragauche\". La place Beauvau s'attend à une mobilisation importante dans le cadre des manifestations du 17 octobre contre la vie chère. \"On a identifié environ 250 appels à des actions de voie publique et on s'attend environ à 80 cortèges, c'est-à-dire des manifestati"
-    },
-    {
-     "id": "a99a75404bde",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Plainte de policiers «contre l’État» : la difficile preuve de la mise en danger d’autrui",
-     "url": "https://www.lefigaro.fr/actualite-france/plainte-de-policiers-contre-l-etat-la-difficile-preuve-de-la-mise-en-danger-d-autrui-20261015",
-     "published_at": "2026-10-15T16:20:00+00:00",
-     "snippet": "DÉCRYPTAGE - Pour que la procédure puisse aboutir, les avocats du syndicat Alliance devront également viser nommément des personnes : préfets, directeur de la police nationale ou encore représentants de la hiérarchie."
-    },
-    {
-     "id": "d7913e3dc916",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "La justification de Laurent Nuñez pour l’autorisation des grenades assourdissantes le 17 octobre",
-     "url": "https://www.huffingtonpost.fr/france/article/la-justification-de-laurent-nunez-pour-l-autorisation-des-grenades-assourdissantes-le-17-octobre_340696.html",
-     "published_at": "2026-10-16T09:07:35+00:00",
-     "snippet": "Le ministre de l’Intérieur a justifié ce choix sur France 2 ce vendredi matin, alors que de nombreux lycéens devraient être présents dans les cortèges."
-    },
-    {
-     "id": "eca2f883779f",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Mouvement du 17 octobre : \"Tous les types d’armes intermédiaires pourront être utilisés\", Laurent Nuñez promet une riposte très ferme",
-     "url": "https://www.midilibre.fr/2026/10/16/mouvement-du-17-octobre-tous-les-types-darmes-intermediaires-pourront-etre-utilises-laurent-nunez-promet-une-riposte-tres-ferme-13604867.php",
-     "published_at": "2026-10-16T07:57:55+00:00",
-     "snippet": "À la veille de la mobilisation nationale du samedi 17 octobre, le ministre de l’Intérieur Laurent Nuñez a annoncé que les forces de l’ordre pourraient de nouveau utiliser des grenades assourdissantes en cas de..."
     }
    ]
   },
@@ -1385,7 +1365,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.47,
+   "score": 3.26,
    "sources": [
     {
      "id": "1e3843174db9",
@@ -1517,7 +1497,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.57,
+   "score": 2.41,
    "sources": [
     {
      "id": "2336a88cb944",
@@ -1626,7 +1606,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.57,
+   "score": 2.41,
    "sources": [
     {
      "id": "0ca56d810928",
@@ -1725,7 +1705,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.95,
+   "score": 1.83,
    "sources": [
     {
      "id": "8575ebe2a4ee",
