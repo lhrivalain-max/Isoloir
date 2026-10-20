@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T15:17:42+00:00",
+ "generated_at": "2026-10-20T15:17:46+00:00",
  "posts": [
   {
    "headline": "Violences du 17 octobre : Lecornu fait déclencher des couvre-feux localisés",
@@ -211,7 +211,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.99,
    "sources": [
     {
      "id": "433f5d275fb7",
@@ -398,6 +398,127 @@
      "url": "https://www.leparisien.fr/politique/jugee-pour-apologie-du-terrorisme-rima-hassan-denonce-une-tentative-dintimidation-avant-dexercer-son-droit-au-silence-19-10-2026-PNFNUH5FCRDI3CAB3R3AU4RCWQ.php",
      "published_at": "2026-10-19T21:20:57+00:00",
      "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Laurent Nuñez a remis sa démission, Emmanuel Macron l'a refusée",
+   "chapo": "Lundi 19 octobre, l'Élysée a indiqué que le ministre de l'Intérieur avait présenté sa démission après les violences du 17 octobre. Emmanuel Macron l'a refusée au nom d'un « commandement continu des forces de l'ordre ». Laurent Nuñez reconnaît un « manque d'anticipation » et une « perte de contrôle » dans certaines villes.",
+   "points": [
+    {
+     "text": "Selon un communiqué de l'Élysée, Laurent Nuñez a présenté sa démission. Emmanuel Macron l'a refusée « compte tenu de la nécessité d'un commandement continu des forces de l'ordre dans le contexte actuel », selon Le JDD et 20 Minutes.",
+     "sources": [
+      "c9cced1359a4",
+      "d22deb530460"
+     ]
+    },
+    {
+     "text": "Sur France Inter, Laurent Nuñez a déclaré : « J'ai remis ma démission parce que je suis responsable de tout ce qui se passe, au vu des dégâts qu'il y a eus ». Il reconnaît un « manque d'anticipation » et une « perte de contrôle dans certaines grandes villes », et indique que 60 000 policiers et gendarmes étaient mobilisés, selon Le HuffPost.",
+     "sources": [
+      "5f8df62fb97a"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron lui demande de déployer « au plus vite sur le terrain de nouveaux modes d'action […] en matière de lutte contre les casseurs » et réclame de la « transparence », en pointant « les défaillances d'anticipation et de renseignements », selon 20 Minutes.",
+     "sources": [
+      "d22deb530460"
+     ]
+    },
+    {
+     "text": "Selon les autorités, 2 400 interpellations ont eu lieu samedi et près d'un millier de membres des forces de l'ordre ont été blessés. Quelque 1 500 commerçants ont été touchés, et la mairie de Limoges a été ravagée par un incendie, selon Le JDD.",
+     "sources": [
+      "c9cced1359a4"
+     ]
+    },
+    {
+     "text": "Le ministre de la Justice Gérald Darmanin dit que « nous avons failli, incontestablement » et que le renseignement « ne sait pas lutter contre l'ultra-gauche », tout en soutenant Laurent Nuñez : « Je suis heureux de continuer avec lui ». Il annonce 2 331 gardes à vue, dont 70 % de majeurs, selon Le HuffPost.",
+     "sources": [
+      "5f8df62fb97a"
+     ]
+    },
+    {
+     "text": "Le député RN Franck Allisio juge qu'Emmanuel Macron « aurait dû l'accepter » : « nous l'avions réclamé, il faut qu'il y ait un responsable ». Il dénonce « un aveu d'impuissance » et veut voter « en urgence » le principe du « casseur-payeur », selon RMC.",
+     "sources": [
+      "fc53df50e47f"
+     ]
+    },
+    {
+     "text": "L'Humanité titre « Coup de bluff ? » et rappelle qu'Emmanuel Macron avait accepté en octobre 2025 la démission de Sébastien Lecornu avant de le renommer Premier ministre. Le journal relève que la gauche demandait le départ du ministre pour sa « stratégie de répression violente ».",
+     "sources": [
+      "5b62344298fc"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu tient lundi à 10 heures une cellule interministérielle de crise (« économie-commerce », « assurance », « suivi judiciaire »). Laurent Nuñez est attendu à Marseille, où les autorités ont recensé jusqu'à 30 000 pilleurs samedi, selon 20 Minutes. La présidente de l'Assemblée Yaël Braun-Pivet demande une commission d'enquête, selon L'Humanité.",
+     "sources": [
+      "d22deb530460",
+      "5b62344298fc"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/19/07/000_d3n97wc.jpg?VersionId=lnTX6CJo4wbt0dlhdOMEfyBd3GsVvnWp",
+    "source": "Le JDD",
+    "article_url": "https://www.lejdd.fr/Societe/emeutes-du-17-octobre-emmanuel-macron-a-refuse-la-demission-de-laurent-nunez-et-demande-de-deployer-de-nouveaux-modes-daction-contre-les-casseurs-186384",
+    "article_id": "c9cced1359a4"
+   },
+   "id": 146,
+   "section": "institutions",
+   "reviewed_at": "2026-10-20T15:17:46+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "5b62344298fc",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Coup de bluff ? Emmanuel Macron refuse la démission du ministre de l’Intérieur Laurent Nunez",
+     "url": "https://www.humanite.fr/politique/emmanuel-macron/coup-de-bluff-emmanuel-macron-refuse-la-demission-du-ministre-de-linterieur-laurent-nunez",
+     "published_at": "2026-10-19T06:11:05+00:00",
+     "snippet": "Emmanuel Macron a refusé la démission du ministre de l’Intérieur, Laurent Nunez, au nom « de la nécessité d’un commandement continu des forces de l’ordre dans le contexte actuel », a fait savoir l’Élysée dans un communiqué lundi 19 octobre."
+    },
+    {
+     "id": "5f8df62fb97a",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Laurent Nuñez reconnaît un « manque d’anticipation » après les violences du week-end",
+     "url": "https://www.huffingtonpost.fr/politique/article/laurent-nunez-reconnait-un-manque-d-anticipation-apres-les-violences-du-week-end_341849.html",
+     "published_at": "2026-10-19T06:25:52+00:00",
+     "snippet": "Le ministre de l’Intérieur a confirmé avoir remis sa démission à Emmanuel Macron, qui l’a refusée, et a admis qu’il y avait eu une « perte de contrôle » dans certaines grandes villes."
+    },
+    {
+     "id": "c9cced1359a4",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Émeutes du 17 octobre : Emmanuel Macron a refusé la démission de Laurent Nuñez et demande de déployer «de nouveaux modes d'action contre les casseurs»",
+     "url": "https://www.lejdd.fr/Societe/emeutes-du-17-octobre-emmanuel-macron-a-refuse-la-demission-de-laurent-nunez-et-demande-de-deployer-de-nouveaux-modes-daction-contre-les-casseurs-186384",
+     "published_at": "2026-10-19T05:59:09+00:00",
+     "snippet": "Après les violences du samedi 17 octobre, le ministre de l’Intérieur a présenté sa démission au président de la République, qui l'a refusée et a demandé de prendre de nouvelles mesures face aux émeutiers. Des pillages et attaques contre les forces de l'ordre sont de nouveau survenus dimanche à Paris."
+    },
+    {
+     "id": "d22deb530460",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Violences urbaines : Macron a refusé la démission de Laurent Nuñez et pointe les « défaillances » du renseignement",
+     "url": "https://www.20minutes.fr/politique/4255557-20261019-violences-urbaines-macron-refuse-demission-laurent-nunez-pointe-defaillances-renseignement?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-19T05:22:54+00:00",
+     "snippet": "Le ministre de l’Intérieur a présenté sa démission au président de la République, qui l’a refusée"
+    },
+    {
+     "id": "fc53df50e47f",
+     "name": "RMC",
+     "kind": "media",
+     "title": "Démission refusée de Laurent Nunez: \"Macron aurait dû l'accepter, tout le monde a été dépassé\", fustige Franck Allisio, député RN",
+     "url": "https://rmc.bfmtv.com/actualites/police-justice/demission-refusee-de-laurent-nunez-macron-aurait-du-l-accepter-tout-le-monde-a-ete-depasse-fustige-franck-allisio-depute-rn_AV-202610190178.html",
+     "published_at": "2026-10-19T06:09:32+00:00",
+     "snippet": "Franck Allisio, député Rassemblement national des Bouches-du-Rhône, a fustigé ce lundi 19 octobre \"l'aveu d'impuissance\" après les violences de ce week-end regrettant que le président de la République ait refusé la démission déposée par le ministre de l'Intérieur Laurent Nunez."
     }
    ]
   },
