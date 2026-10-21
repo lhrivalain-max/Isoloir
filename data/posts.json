@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T10:53:48+00:00",
+ "generated_at": "2026-10-21T10:53:52+00:00",
  "posts": [
   {
    "headline": "Violences du 17 octobre : Lecornu fait déclencher des couvre-feux localisés",
@@ -144,6 +144,123 @@
      "url": "https://www.nouvelobs.com/social/20261019.OBS119349/lille-douai-les-villes-concernees-par-un-couvre-feu-apres-les-violences-du-17-octobre.html",
      "published_at": "2026-10-19T18:19:18+00:00",
      "snippet": "Le Premier ministre Sébastien Lecornu a estimé que « le bordel est très localisé sur des centres urbains » et a donc décidé de déclencher « un certain nombre de couvre-feux pour » lundi et mardi après les violences qui ont émaillé les manifestations de samedi."
+    }
+   ]
+  },
+  {
+   "headline": "Procès de Rima Hassan : le parquet requiert dix mois de prison avec sursis et deux ans d'inéligibilité",
+   "chapo": "Mardi 20 octobre, au second jour du procès de l'eurodéputée LFI Rima Hassan pour apologie du terrorisme, le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Sa défense et Jean-Luc Mélenchon dénoncent des poursuites politiques, le parquet affirme le contraire.",
+   "points": [
+    {
+     "text": "Le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Rima Hassan est poursuivie pour un tweet supprimé depuis, qui citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, selon franceinfo, Le Parisien et Libération.",
+     "sources": [
+      "c17098cb6f4f",
+      "f23c83cb0c85",
+      "7e8206d29244"
+     ]
+    },
+    {
+     "text": "Pour le ministère public, « banaliser » un massacre et « valoriser l'auteur de l'attentat » « constitue de l'apologie du terrorisme ». Il juge le délit « flagrant » et dit qu'« il n'est pas question d'une instrumentalisation du parquet (...) en raison de ses opinions politiques », selon franceinfo.",
+     "sources": [
+      "c17098cb6f4f",
+      "ef69b82a228f"
+     ]
+    },
+    {
+     "text": "Le tweet du 26 mars contenait une photo de Kozo Okamoto et une citation de lui : « Tant qu'il y aura oppression, la résistance ne sera pas seulement un droit mais un devoir ». L'attaque de 1972 avait tué 26 personnes, selon franceinfo.",
+     "sources": [
+      "c17098cb6f4f"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon dénonce sur X : « La macronie sombre dans la honte de tous les abus de pouvoir et de la servilité devant les demandes de Netanyahou », selon Le Parisien.",
+     "sources": [
+      "f23c83cb0c85"
+     ]
+    },
+    {
+     "text": "L'avocat de Rima Hassan, Vincent Brengarth, estime que « rarement une élue n'aura été autant poursuivie en raison de ses opinions », selon CNews. Lundi, elle avait dénoncé une « tentative d'intimidation » avant d'exercer son droit au silence, selon Libération.",
+     "sources": [
+      "35c292c5bae9",
+      "7e8206d29244"
+     ]
+    },
+    {
+     "text": "Du côté des parties civiles, la présidente de l'OJE, Muriel Ouakine-Melki, a estimé que les propos tenus dans l'espace public « ont des conséquences parfois dramatiques sur certains profils, avec des passages à l'acte violents », selon CNews.",
+     "sources": [
+      "35c292c5bae9"
+     ]
+    },
+    {
+     "text": "La qualification d'apologie du terrorisme permet de contourner l'immunité parlementaire dont l'élue se réclame. Rima Hassan est régulièrement taxée d'antisémite par ses opposants politiques en raison de ses positions très critiques envers Israël. Une vingtaine de plaintes la visant ont été classées sans suite, selon Le Parisien.",
+     "sources": [
+      "f23c83cb0c85"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/X_9wxnaQn4VeMsiNMD2oUK8XXKs/0x0:1024x576/432x243/filters:format(jpg)/2026/10/20/6ad775a90e396040868656.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "c17098cb6f4f"
+   },
+   "id": 153,
+   "section": "institutions",
+   "reviewed_at": "2026-10-21T10:53:52+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "35c292c5bae9",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Rima Hassan : une peine de prison avec sursis et deux ans d'inéligibilité requises contre l'eurodéputée LFI, accusée d'apologie du terrorisme",
+     "url": "https://www.cnews.fr/faits-divers/2026-10-20/rima-hassan-une-peine-de-prison-avec-sursis-et-deux-ans-dineligibilite",
+     "published_at": "2026-10-20T15:14:00+00:00",
+     "snippet": "Le parquet a requis la peine de dix mois avec sursis et deux ans d’inéligibilité à l’encontre de l’eurodéputée LFI Rima Hassan, jugée depuis ce lundi 19 octobre pour apologie du terrorisme après un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le tribunal suivra-t-il les réquisitions du parquet ? Depuis ce lundi 19 octobre, l'eurodéputée LFI Rima Hassan comparaît devant le tribunal correctionnel de Paris. L’insoumise de 34 ans est en effet jugée pour avoir publié un tweet - depuis supprimé - qui citait l'un des "
+    },
+    {
+     "id": "7e8206d29244",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Procès de Rima Hassan pour apologie du terrorisme : 10 mois de prison avec sursis requis contre l’élue LFI",
+     "url": "https://www.liberation.fr/societe/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-10-mois-de-prison-avec-sursis-requis-contre-lelue-lfi-20261020_NJREW6N4K5A7DGS6BRDN672A4E/",
+     "published_at": "2026-10-20T14:05:47+00:00",
+     "snippet": "Deux ans d’inéligibilité ont également été requis ce mardi 20 octobre contre la députée européenne. Elle est jugée à Paris depuis lundi pour avoir partagé en ligne une citation d’un des auteurs de l’attentat de 1972 à l’aéroport de Tel-Aviv."
+    },
+    {
+     "id": "c17098cb6f4f",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Procès de Rima Hassan : le parquet réclame deux ans d'inéligibilité et dix mois de prison avec sursis contre l'eurodéputée, jugée pour apologie du terrorisme",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-20T14:56:09+00:00",
+     "snippet": "Le ministère public lui reproche d'avoir, dans un tweet, \"banalisé\" un massacre et \"valorisé\" l'auteur d'un attentat à Tel-Aviv en 1972."
+    },
+    {
+     "id": "ef69b82a228f",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Procès de Rima Hassan pour apologie du terrorisme : le parquet réclame dix mois de prison avec sursis et deux ans d'inéligibilité pour l'eurodéputée LFI",
+     "url": "https://www.europe1.fr/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-le-parquet-reclame-dix-mois-de-prison-avec-sursis-et-deux-ans-dineligibilite-pour-leurodeputee-lfi-1167288?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-20T14:15:26+00:00",
+     "snippet": "Le parquet a requis mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, poursuivie pour apologie du terrorisme après un tweet faisant référence à l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le parquet a réclamé mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, jugée pour un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. \"Banaliser\" un massacre et \"va"
+    },
+    {
+     "id": "f23c83cb0c85",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Procès pour apologie du terrorisme : deux ans d’inéligibilité requis contre Rima Hassan",
+     "url": "https://www.leparisien.fr/politique/proces-pour-apologie-du-terrorisme-deux-ans-dineligibilite-requis-contre-rima-hassan-20-10-2026-IWT7532KPBB6RGIH6D6M3AAYJE.php",
+     "published_at": "2026-10-20T15:21:49+00:00",
+     "snippet": ""
     }
    ]
   },
