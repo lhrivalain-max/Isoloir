@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T10:53:09+00:00",
+ "generated_at": "2026-10-21T10:53:35+00:00",
  "posts": [
   {
    "headline": "Violences du 17 octobre : Lecornu fait déclencher des couvre-feux localisés",
@@ -144,6 +144,129 @@
      "url": "https://www.nouvelobs.com/social/20261019.OBS119349/lille-douai-les-villes-concernees-par-un-couvre-feu-apres-les-violences-du-17-octobre.html",
      "published_at": "2026-10-19T18:19:18+00:00",
      "snippet": "Le Premier ministre Sébastien Lecornu a estimé que « le bordel est très localisé sur des centres urbains » et a donc décidé de déclencher « un certain nombre de couvre-feux pour » lundi et mardi après les violences qui ont émaillé les manifestations de samedi."
+    }
+   ]
+  },
+  {
+   "headline": "Pillages du 17 octobre : le gouvernement veut déduire des aides sociales les revenus des biens volés",
+   "chapo": "Le ministre du Logement Vincent Jeanbrun et le ministre de la Justice Gérald Darmanin préparent une circulaire pour réduire les aides sociales des personnes condamnées pour pillage, à hauteur des revenus tirés de la revente. Le texte complète le projet de loi « casseur payeur ».",
+   "points": [
+    {
+     "text": "La circulaire prévoit de déduire des aides perçues les revenus tirés de la vente des biens volés lors des pillages. Elle s'appliquerait aux personnes condamnées, selon Europe 1 et Le JDD.",
+     "sources": [
+      "81508457948b",
+      "b7efda492178"
+     ]
+    },
+    {
+     "text": "Vincent Jeanbrun : « Casseurs, pilleurs, voleurs : les prestations sociales, c'est terminé ! ». Il explique aussi : « tu casses, tu voles, tu revends, plus de RSA, plus d'APL, plus d'allocations sociales », selon Europe 1.",
+     "sources": [
+      "81508457948b"
+     ]
+    },
+    {
+     "text": "Les aides concernées sont les allocations chômage, les aides au logement, les allocations familiales et le RSA, selon Le JDD.",
+     "sources": [
+      "b7efda492178"
+     ]
+    },
+    {
+     "text": "La circulaire vise aussi « toutes les formes de délinquance alimentant l'économie souterraine », comme le narcotrafic ou la contrefaçon, selon Le JDD. Jeanbrun cite aussi le trafic de tabac, selon Europe 1.",
+     "sources": [
+      "b7efda492178",
+      "81508457948b"
+     ]
+    },
+    {
+     "text": "Selon Valeurs actuelles, Jeanbrun dit que les revenus tirés de la revente « devront être comptabilisés comme des revenus, donc ça fera diminuer d'autant les aides ». L'objectif affiché est que « chacun soit responsable de ses actes ».",
+     "sources": [
+      "4490172d1d21"
+     ]
+    },
+    {
+     "text": "Le texte s'inscrit dans la logique du projet de loi « casseur payeur », examiné au Sénat à partir du 27 octobre. Selon Midi Libre, ce projet facilite la saisie des frais de réparation sur les allocations familiales et les aides au logement des auteurs de dégradations condamnés.",
+     "sources": [
+      "1fb1b032d565",
+      "4490172d1d21"
+     ]
+    },
+    {
+     "text": "L'Humanité titre que le gouvernement « reprend une vieille proposition de l'extrême droite ».",
+     "sources": [
+      "73b0066acc9e"
+     ]
+    },
+    {
+     "text": "Selon Darmanin, près de 150 personnes ont été incarcérées ou placées en détention provisoire depuis le début des violences, selon Europe 1. Plus de 2 000 commerces ont été directement touchés, selon Le JDD.",
+     "sources": [
+      "81508457948b",
+      "b7efda492178"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/20/13/000_a73d9vz_1_6ad7534214110.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/violences-urbaines-le-gouvernement-veut-aussi-sanctionner-les-casseurs-via-une-reduction-de-leurs-aides-sociales-1166835?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "81508457948b"
+   },
+   "id": 154,
+   "section": "institutions",
+   "reviewed_at": "2026-10-21T10:53:35+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "1fb1b032d565",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "\"Les prestations sociales, c’est terminé !\" : après les violences du 17 octobre, le gouvernement annonce une mesure radicale",
+     "url": "https://www.midilibre.fr/2026/10/20/les-prestations-sociales-cest-termine-apres-les-violences-du-17-octobre-le-gouvernement-annonce-une-mesure-radicale-13611685.php",
+     "published_at": "2026-10-20T13:02:15+00:00",
+     "snippet": "Le ministre Vincent Jeanbrun a annoncé mardi 20 octobre une circulaire conjointe avec Gérald Darmanin visant à déduire des prestations sociales des délinquants les revenus issus de leurs trafics ou pillages. Un texte..."
+    },
+    {
+     "id": "4490172d1d21",
+     "name": "Valeurs actuelles",
+     "kind": "media",
+     "title": "« Les APL, les aides de la CAF » : le gouvernement veut faire payer les pilleurs",
+     "url": "https://www.valeursactuelles.com/politique/les-apl-les-aides-de-la-caf-le-gouvernement-veut-faire-payer-les-pilleurs",
+     "published_at": "2026-10-20T10:30:34+00:00",
+     "snippet": "« Casseurs, pilleurs, voleurs : les prestations sociales, c’est terminé ! » Le ministre du Logement, Vincent Jeanbrun, veut siffler la fin de récréation. Alors que le pays se remet... L’article « Les APL, les aides de la CAF » : le gouvernement veut faire payer les pilleurs est apparu en premier sur Valeurs actuelles ."
+    },
+    {
+     "id": "73b0066acc9e",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« Les prestations sociales, c’est terminé ! » : après le 17 octobre, le gouvernement reprend une vieille proposition de l’extrême droite",
+     "url": "https://www.humanite.fr/-/-/les-prestations-sociales-cest-termine-apres-le-17-octobre-le-gouvernement-reprend-une-vieille-proposition-de-lextreme-droite",
+     "published_at": "2026-10-20T08:29:26+00:00",
+     "snippet": "Après les violences du 17 octobre, le gouvernement entend s’attaquer aux prestations sociales des personnes impliquées. Gérald Darmanin et le ministre du Logement, Vincent Jeanbrun, préparent une circulaire visant à intégrer les revenus issus d’activités illégales dans le calcul des aides. « Casseurs, pilleurs, voleurs : les prestations sociales, c’est terminé ! », a lancé ce dernier.…"
+    },
+    {
+     "id": "81508457948b",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Violences urbaines : le gouvernement veut aussi sanctionner les casseurs via une réduction de leurs aides sociales",
+     "url": "https://www.europe1.fr/politique/violences-urbaines-le-gouvernement-veut-aussi-sanctionner-les-casseurs-via-une-reduction-de-leurs-aides-sociales-1166835?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-20T15:00:00+00:00",
+     "snippet": "Après la sidération, le gouvernement tente de reprendre le contrôle et veut sanctionner au maximum les casseurs. Désormais, l'exécutif, à travers une circulaire, veut sanctionner les pilleurs via leurs aides sociales, en réduisant ces dernières pour les individus condamnés. Depuis le début des violences ce week-end, près de 150 personnes ont été incarcérées, placées en détention provisoire ou avec un mandat de dépôt, a annoncé le ministre de la Justice Gérald Darmanin. Alors que les comparutions immédiates se poursuivent ce mardi, le gouvernement compte bien aussi mettre des sanctions pécuniai"
+    },
+    {
+     "id": "b7efda492178",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«Les prestations sociales, c’est terminé !» : le gouvernement veut amputer les aides des pilleurs",
+     "url": "https://www.lejdd.fr/Societe/les-prestations-sociales-cest-termine-le-gouvernement-va-restreindre-les-aides-des-pilleurs-186480",
+     "published_at": "2026-10-20T08:28:52+00:00",
+     "snippet": "Après les pillages des 17 et 18 octobre, le gouvernement prépare une circulaire pour déduire des aides sociales les revenus tirés des biens volés."
     }
    ]
   },
