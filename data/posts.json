@@ -1,6 +1,123 @@
 {
- "generated_at": "2026-10-21T10:53:56+00:00",
+ "generated_at": "2026-10-21T16:00:03+00:00",
  "posts": [
+  {
+   "headline": "Procès de Rima Hassan : le parquet requiert dix mois de prison avec sursis et deux ans d'inéligibilité",
+   "chapo": "Mardi 20 octobre, au second jour du procès de l'eurodéputée LFI Rima Hassan pour apologie du terrorisme, le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Sa défense et Jean-Luc Mélenchon dénoncent des poursuites politiques, le parquet affirme le contraire.",
+   "points": [
+    {
+     "text": "Le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Rima Hassan est poursuivie pour un tweet supprimé depuis, qui citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, selon franceinfo, Le Parisien et Libération.",
+     "sources": [
+      "c17098cb6f4f",
+      "f23c83cb0c85",
+      "7e8206d29244"
+     ]
+    },
+    {
+     "text": "Pour le ministère public, « banaliser » un massacre et « valoriser l'auteur de l'attentat » « constitue de l'apologie du terrorisme ». Il juge le délit « flagrant » et dit qu'« il n'est pas question d'une instrumentalisation du parquet (...) en raison de ses opinions politiques », selon franceinfo.",
+     "sources": [
+      "c17098cb6f4f",
+      "ef69b82a228f"
+     ]
+    },
+    {
+     "text": "Le tweet du 26 mars contenait une photo de Kozo Okamoto et une citation de lui : « Tant qu'il y aura oppression, la résistance ne sera pas seulement un droit mais un devoir ». L'attaque de 1972 avait tué 26 personnes, selon franceinfo.",
+     "sources": [
+      "c17098cb6f4f"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon dénonce sur X : « La macronie sombre dans la honte de tous les abus de pouvoir et de la servilité devant les demandes de Netanyahou », selon Le Parisien.",
+     "sources": [
+      "f23c83cb0c85"
+     ]
+    },
+    {
+     "text": "L'avocat de Rima Hassan, Vincent Brengarth, estime que « rarement une élue n'aura été autant poursuivie en raison de ses opinions », selon CNews. Lundi, elle avait dénoncé une « tentative d'intimidation » avant d'exercer son droit au silence, selon Libération.",
+     "sources": [
+      "35c292c5bae9",
+      "7e8206d29244"
+     ]
+    },
+    {
+     "text": "Du côté des parties civiles, la présidente de l'OJE, Muriel Ouakine-Melki, a estimé que les propos tenus dans l'espace public « ont des conséquences parfois dramatiques sur certains profils, avec des passages à l'acte violents », selon CNews.",
+     "sources": [
+      "35c292c5bae9"
+     ]
+    },
+    {
+     "text": "La qualification d'apologie du terrorisme permet de contourner l'immunité parlementaire dont l'élue se réclame. Rima Hassan est régulièrement taxée d'antisémite par ses opposants politiques en raison de ses positions très critiques envers Israël. Une vingtaine de plaintes la visant ont été classées sans suite, selon Le Parisien.",
+     "sources": [
+      "f23c83cb0c85"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/X_9wxnaQn4VeMsiNMD2oUK8XXKs/0x0:1024x576/432x243/filters:format(jpg)/2026/10/20/6ad775a90e396040868656.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "c17098cb6f4f"
+   },
+   "id": 153,
+   "section": "institutions",
+   "reviewed_at": "2026-10-21T10:53:52+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.37,
+   "sources": [
+    {
+     "id": "35c292c5bae9",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Rima Hassan : une peine de prison avec sursis et deux ans d'inéligibilité requises contre l'eurodéputée LFI, accusée d'apologie du terrorisme",
+     "url": "https://www.cnews.fr/faits-divers/2026-10-20/rima-hassan-une-peine-de-prison-avec-sursis-et-deux-ans-dineligibilite",
+     "published_at": "2026-10-20T15:14:00+00:00",
+     "snippet": "Le parquet a requis la peine de dix mois avec sursis et deux ans d’inéligibilité à l’encontre de l’eurodéputée LFI Rima Hassan, jugée depuis ce lundi 19 octobre pour apologie du terrorisme après un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le tribunal suivra-t-il les réquisitions du parquet ? Depuis ce lundi 19 octobre, l'eurodéputée LFI Rima Hassan comparaît devant le tribunal correctionnel de Paris. L’insoumise de 34 ans est en effet jugée pour avoir publié un tweet - depuis supprimé - qui citait l'un des "
+    },
+    {
+     "id": "7e8206d29244",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Procès de Rima Hassan pour apologie du terrorisme : 10 mois de prison avec sursis requis contre l’élue LFI",
+     "url": "https://www.liberation.fr/societe/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-10-mois-de-prison-avec-sursis-requis-contre-lelue-lfi-20261020_NJREW6N4K5A7DGS6BRDN672A4E/",
+     "published_at": "2026-10-20T14:05:47+00:00",
+     "snippet": "Deux ans d’inéligibilité ont également été requis ce mardi 20 octobre contre la députée européenne. Elle est jugée à Paris depuis lundi pour avoir partagé en ligne une citation d’un des auteurs de l’attentat de 1972 à l’aéroport de Tel-Aviv."
+    },
+    {
+     "id": "c17098cb6f4f",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Procès de Rima Hassan : le parquet réclame deux ans d'inéligibilité et dix mois de prison avec sursis contre l'eurodéputée, jugée pour apologie du terrorisme",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-20T14:56:09+00:00",
+     "snippet": "Le ministère public lui reproche d'avoir, dans un tweet, \"banalisé\" un massacre et \"valorisé\" l'auteur d'un attentat à Tel-Aviv en 1972."
+    },
+    {
+     "id": "ef69b82a228f",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Procès de Rima Hassan pour apologie du terrorisme : le parquet réclame dix mois de prison avec sursis et deux ans d'inéligibilité pour l'eurodéputée LFI",
+     "url": "https://www.europe1.fr/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-le-parquet-reclame-dix-mois-de-prison-avec-sursis-et-deux-ans-dineligibilite-pour-leurodeputee-lfi-1167288?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-20T14:15:26+00:00",
+     "snippet": "Le parquet a requis mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, poursuivie pour apologie du terrorisme après un tweet faisant référence à l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le parquet a réclamé mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, jugée pour un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. \"Banaliser\" un massacre et \"va"
+    },
+    {
+     "id": "f23c83cb0c85",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Procès pour apologie du terrorisme : deux ans d’inéligibilité requis contre Rima Hassan",
+     "url": "https://www.leparisien.fr/politique/proces-pour-apologie-du-terrorisme-deux-ans-dineligibilite-requis-contre-rima-hassan-20-10-2026-IWT7532KPBB6RGIH6D6M3AAYJE.php",
+     "published_at": "2026-10-20T15:21:49+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "David Lisnard : sa réponse sur le 17 octobre 1961 provoque une polémique",
    "chapo": "Invité du 20H de TF1 puis de LCI lundi, le candidat Nouvelle Énergie a parlé des violences du week-end. Sa réponse à une question sur le 17 octobre 1961 a fait réagir la gauche. Il est par ailleurs en hausse dans les sondages.",
@@ -78,7 +195,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 22.0,
+   "score": 18.14,
    "sources": [
     {
      "id": "001d50188857",
@@ -155,269 +272,6 @@
    ]
   },
   {
-   "headline": "Violences du 17 octobre : Lecornu fait déclencher des couvre-feux localisés",
-   "chapo": "Lundi 19 octobre, le Premier ministre a demandé aux préfets d'instaurer des couvre-feux « partiels » et « très localisés » dès le soir, à Paris, Lyon, Nice et dans le Nord. Le gouvernement annonce aussi du chômage partiel à 100 % et un fonds de soutien pour les commerçants. L'état d'urgence n'est pas exclu.",
-   "points": [
-    {
-     "text": "Sébastien Lecornu : « J'ai demandé aux préfets de déclencher un certain nombre de couvre-feux pour ce soir, couvre-feux partiels, très localisés ». Il juge que le désordre « est très localisé sur des centres urbains », selon Le JDD.",
-     "sources": [
-      "3d9a1f252250"
-     ]
-    },
-    {
-     "text": "À Paris, un couvre-feu de 23 heures à 6 heures vise la place de la République et le quartier des Halles. À Lyon, il court de 21 heures à 6 heures dans une partie de la Presqu'île. À Nice, il concerne les mineurs jusqu'au dimanche 25 octobre, selon Le Monde.",
-     "sources": [
-      "35795754b3d0"
-     ]
-    },
-    {
-     "text": "Dans le Nord, des couvre-feux de 20 heures à 6 heures sont prévus à Lille, Douai, Denain et Wattignies, sur des « portions » de ces communes, selon Le Monde. L'Obs précise qu'à Lille il « concernera uniquement les mineurs ».",
-     "sources": [
-      "35795754b3d0",
-      "f667f19e6b78"
-     ]
-    },
-    {
-     "text": "Pour les commerces, le gouvernement annonce un chômage partiel « à 100 % » dès mardi, un fonds de soutien spécifique et le report des charges sociales, selon LCP. Le ministre Serge Papin estime à « au moins 3.000 » le nombre de commerces touchés, selon LCP.",
-     "sources": [
-      "655a127f667c",
-      "3d9a1f252250"
-     ]
-    },
-    {
-     "text": "Le projet de loi « casseurs-payeurs », dont le calendrier est accéléré, prévoit une responsabilité civile collective pour les personnes présentes à un rassemblement ayant causé des dommages. Il sera examiné au Sénat à partir du 27 octobre, selon LCP.",
-     "sources": [
-      "655a127f667c"
-     ]
-    },
-    {
-     "text": "Du côté de l'opposition de droite, Bruno Retailleau demandait dès dimanche soir l'état d'urgence et Gabriel Attal proposait le recours « à des forces armées temporairement ». Sébastien Lecornu a écarté ces propositions, selon Le Figaro, tout en n'excluant pas l'état d'urgence « si c'est utile », selon Le JDD.",
-     "sources": [
-      "f4945c01517e",
-      "3d9a1f252250"
-     ]
-    },
-    {
-     "text": "Jordan Bardella annonce que ni lui ni Marine Le Pen n'iront à la réunion des chefs de parti à Matignon : le RN sera « très certainement représenté par l'un de ses vice-présidents ». Il dit : « L'ultragauche est le cancer de notre démocratie », selon 20 Minutes.",
-     "sources": [
-      "6799f7a071f3"
-     ]
-    },
-    {
-     "text": "Pour L'Humanité, « Emmanuel Macron avait pris la parole pour ne rien dire, le 18 octobre, c'est donc Sébastien Lecornu qui s'est chargé des basses besognes ». Le journal évoque des « couvre-feux partiels », la « menace de recourir à l'état d'urgence » et la « promesse de condamner rapidement les casseurs ».",
-     "sources": [
-      "3a1123435add"
-     ]
-    },
-    {
-     "text": "Pour L'Obs, Sébastien Lecornu s'inscrit « dans les pas sécuritaires du président de la République », alors que l'exécutif est « accusé d'avoir gravement sous-estimé la mobilisation ». La préfecture de police de Paris justifie les mesures pour « rétablir la paix publique à laquelle une minorité de délinquants a gravement porté atteinte ».",
-     "sources": [
-      "f667f19e6b78"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/19/14/sipa_ap23068070_000038.jpg?VersionId=xnJCdRZbKGLPmL4XdLGxE9CZZif9Tcwz",
-    "source": "Le JDD",
-    "article_url": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438",
-    "article_id": "3d9a1f252250"
-   },
-   "id": 147,
-   "section": "institutions",
-   "reviewed_at": "2026-10-20T15:17:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 11.56,
-   "sources": [
-    {
-     "id": "35795754b3d0",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "De premiers couvre-feux localisés annoncés à Paris, à Nice, à Lyon et à Lille, à la suite des violences du week-end",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/19/de-premiers-couvre-feux-localises-annonces-a-paris-nice-et-lille-apres-les-violences-du-week-end_6797576_823448.html",
-     "published_at": "2026-10-19T17:35:30+00:00",
-     "snippet": "Sébastien Lecornu a annoncé avoir demandé aux préfets la mise en place de couvre-feux « localisés » dès lundi soir, pour protéger les commerces après les pillages et les violences constatés dans plusieurs villes samedi et dimanche."
-    },
-    {
-     "id": "3a1123435add",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Couvre-feux, menace d’état d’urgence, promesse de condamner les casseurs : les annonces de Lecornu",
-     "url": "https://www.humanite.fr/politique/casseurs/couvre-feux-menace-detat-durgence-promesse-de-condamner-les-casseurs-les-annonces-de-lecornu",
-     "published_at": "2026-10-19T21:30:34+00:00",
-     "snippet": "Emmanuel Macron avait pris la parole pour ne rien dire, le 18 octobre, c'est donc Sébastien Lecornu qui s'est chargé des basses besognes, ce lundi 19 octobre, à l'issue d'une cellule de crise intermin"
-    },
-    {
-     "id": "3d9a1f252250",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Violences urbaines : Sébastien Lecornu demande aux préfets de «déclencher un certain nombre de couvre-feux» localisés",
-     "url": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438",
-     "published_at": "2026-10-19T12:39:14+00:00",
-     "snippet": "Le Premier ministre a annoncé des couvre-feux partiels et localisés dès ce lundi soir. Le gouvernement promet également un fonds de soutien et des mesures de chômage partiel pour les quelque 3 000 commerces touchés par les dégradations et les pillages."
-    },
-    {
-     "id": "655a127f667c",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Saccages et pillages du 17 octobre: l'État au chevet des commerçants, le projet de loi \"casseurs-payeurs\" bientôt examiné",
-     "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
-     "published_at": "2026-10-19T21:21:03+00:00",
-     "snippet": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 15:23 Après les saccages qui ont eu lieu ce week-end, le gouvernement a annoncé, ce lundi 19 octobre, une série de mesures d'urgence à destination des commerçants, parmi lesquelles le déclenchement immédiat d'un chômage partiel à 100%, le report des charges sociales, ainsi que la mise en place d'un fonds de soutien. \"Au moins 3.000\". Telle est la dernière estimation du ministre des Petites et Moyennes entreprises et du Commerce, Serge Papin, concernant le nombre de commerces touchés au cours du week-end par les saccages et les pillages. Au sort"
-    },
-    {
-     "id": "6799f7a071f3",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Violences du 17 octobre : Le Pen et Bardella boycottent la réunion des chefs de parti avec Lecornu",
-     "url": "https://www.20minutes.fr/politique/4255668-20261019-violences-17-octobre-pen-bardella-boycottent-reunion-chefs-parti-lecornu?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-19T12:20:38+00:00",
-     "snippet": "À propos de la réunion des partis politiques évoquée dimanche soir par Emmanuel Macron, le RN a indiqué qu’il sera « très certainement représenté par l’un de ses vice-présidents »"
-    },
-    {
-     "id": "f4945c01517e",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "État d’urgence, couvre-feu… L’arsenal juridique dont dispose l’État pour rétablir l’ordre",
-     "url": "https://www.lefigaro.fr/actualite-france/etat-d-urgence-couvre-feu-l-arsenal-juridique-dont-dispose-l-etat-pour-retablir-l-ordre-20261019",
-     "published_at": "2026-10-19T18:20:00+00:00",
-     "snippet": "DÉCRYPTAGE - Après un week-end de violences urbaines dans plusieurs grandes villes, Sébastien Lecornu a annoncé l’instauration de « couvre-feux partiels » et « très localisés » face aux pillages."
-    },
-    {
-     "id": "f667f19e6b78",
-     "name": "L'Obs",
-     "kind": "media",
-     "title": "Violences du 17 octobre : Paris, Lyon, Lille, Nice… Les villes concernées par un couvre-feu",
-     "url": "https://www.nouvelobs.com/social/20261019.OBS119349/lille-douai-les-villes-concernees-par-un-couvre-feu-apres-les-violences-du-17-octobre.html",
-     "published_at": "2026-10-19T18:19:18+00:00",
-     "snippet": "Le Premier ministre Sébastien Lecornu a estimé que « le bordel est très localisé sur des centres urbains » et a donc décidé de déclencher « un certain nombre de couvre-feux pour » lundi et mardi après les violences qui ont émaillé les manifestations de samedi."
-    }
-   ]
-  },
-  {
-   "headline": "Procès de Rima Hassan : le parquet requiert dix mois de prison avec sursis et deux ans d'inéligibilité",
-   "chapo": "Mardi 20 octobre, au second jour du procès de l'eurodéputée LFI Rima Hassan pour apologie du terrorisme, le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Sa défense et Jean-Luc Mélenchon dénoncent des poursuites politiques, le parquet affirme le contraire.",
-   "points": [
-    {
-     "text": "Le parquet de Paris a requis dix mois de prison avec sursis et deux ans d'inéligibilité. Rima Hassan est poursuivie pour un tweet supprimé depuis, qui citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, selon franceinfo, Le Parisien et Libération.",
-     "sources": [
-      "c17098cb6f4f",
-      "f23c83cb0c85",
-      "7e8206d29244"
-     ]
-    },
-    {
-     "text": "Pour le ministère public, « banaliser » un massacre et « valoriser l'auteur de l'attentat » « constitue de l'apologie du terrorisme ». Il juge le délit « flagrant » et dit qu'« il n'est pas question d'une instrumentalisation du parquet (...) en raison de ses opinions politiques », selon franceinfo.",
-     "sources": [
-      "c17098cb6f4f",
-      "ef69b82a228f"
-     ]
-    },
-    {
-     "text": "Le tweet du 26 mars contenait une photo de Kozo Okamoto et une citation de lui : « Tant qu'il y aura oppression, la résistance ne sera pas seulement un droit mais un devoir ». L'attaque de 1972 avait tué 26 personnes, selon franceinfo.",
-     "sources": [
-      "c17098cb6f4f"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon dénonce sur X : « La macronie sombre dans la honte de tous les abus de pouvoir et de la servilité devant les demandes de Netanyahou », selon Le Parisien.",
-     "sources": [
-      "f23c83cb0c85"
-     ]
-    },
-    {
-     "text": "L'avocat de Rima Hassan, Vincent Brengarth, estime que « rarement une élue n'aura été autant poursuivie en raison de ses opinions », selon CNews. Lundi, elle avait dénoncé une « tentative d'intimidation » avant d'exercer son droit au silence, selon Libération.",
-     "sources": [
-      "35c292c5bae9",
-      "7e8206d29244"
-     ]
-    },
-    {
-     "text": "Du côté des parties civiles, la présidente de l'OJE, Muriel Ouakine-Melki, a estimé que les propos tenus dans l'espace public « ont des conséquences parfois dramatiques sur certains profils, avec des passages à l'acte violents », selon CNews.",
-     "sources": [
-      "35c292c5bae9"
-     ]
-    },
-    {
-     "text": "La qualification d'apologie du terrorisme permet de contourner l'immunité parlementaire dont l'élue se réclame. Rima Hassan est régulièrement taxée d'antisémite par ses opposants politiques en raison de ses positions très critiques envers Israël. Une vingtaine de plaintes la visant ont été classées sans suite, selon Le Parisien.",
-     "sources": [
-      "f23c83cb0c85"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/X_9wxnaQn4VeMsiNMD2oUK8XXKs/0x0:1024x576/432x243/filters:format(jpg)/2026/10/20/6ad775a90e396040868656.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "c17098cb6f4f"
-   },
-   "id": 153,
-   "section": "institutions",
-   "reviewed_at": "2026-10-21T10:53:52+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.0,
-   "sources": [
-    {
-     "id": "35c292c5bae9",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Rima Hassan : une peine de prison avec sursis et deux ans d'inéligibilité requises contre l'eurodéputée LFI, accusée d'apologie du terrorisme",
-     "url": "https://www.cnews.fr/faits-divers/2026-10-20/rima-hassan-une-peine-de-prison-avec-sursis-et-deux-ans-dineligibilite",
-     "published_at": "2026-10-20T15:14:00+00:00",
-     "snippet": "Le parquet a requis la peine de dix mois avec sursis et deux ans d’inéligibilité à l’encontre de l’eurodéputée LFI Rima Hassan, jugée depuis ce lundi 19 octobre pour apologie du terrorisme après un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le tribunal suivra-t-il les réquisitions du parquet ? Depuis ce lundi 19 octobre, l'eurodéputée LFI Rima Hassan comparaît devant le tribunal correctionnel de Paris. L’insoumise de 34 ans est en effet jugée pour avoir publié un tweet - depuis supprimé - qui citait l'un des "
-    },
-    {
-     "id": "7e8206d29244",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Procès de Rima Hassan pour apologie du terrorisme : 10 mois de prison avec sursis requis contre l’élue LFI",
-     "url": "https://www.liberation.fr/societe/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-10-mois-de-prison-avec-sursis-requis-contre-lelue-lfi-20261020_NJREW6N4K5A7DGS6BRDN672A4E/",
-     "published_at": "2026-10-20T14:05:47+00:00",
-     "snippet": "Deux ans d’inéligibilité ont également été requis ce mardi 20 octobre contre la députée européenne. Elle est jugée à Paris depuis lundi pour avoir partagé en ligne une citation d’un des auteurs de l’attentat de 1972 à l’aéroport de Tel-Aviv."
-    },
-    {
-     "id": "c17098cb6f4f",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Procès de Rima Hassan : le parquet réclame deux ans d'inéligibilité et dix mois de prison avec sursis contre l'eurodéputée, jugée pour apologie du terrorisme",
-     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-20T14:56:09+00:00",
-     "snippet": "Le ministère public lui reproche d'avoir, dans un tweet, \"banalisé\" un massacre et \"valorisé\" l'auteur d'un attentat à Tel-Aviv en 1972."
-    },
-    {
-     "id": "ef69b82a228f",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Procès de Rima Hassan pour apologie du terrorisme : le parquet réclame dix mois de prison avec sursis et deux ans d'inéligibilité pour l'eurodéputée LFI",
-     "url": "https://www.europe1.fr/police-justice/proces-de-rima-hassan-pour-apologie-du-terrorisme-le-parquet-reclame-dix-mois-de-prison-avec-sursis-et-deux-ans-dineligibilite-pour-leurodeputee-lfi-1167288?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-20T14:15:26+00:00",
-     "snippet": "Le parquet a requis mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, poursuivie pour apologie du terrorisme après un tweet faisant référence à l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. Le parquet a réclamé mardi à Paris dix mois de prison avec sursis et deux ans d'inéligibilité contre l'eurodéputée LFI Rima Hassan, jugée pour un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts. \"Banaliser\" un massacre et \"va"
-    },
-    {
-     "id": "f23c83cb0c85",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Procès pour apologie du terrorisme : deux ans d’inéligibilité requis contre Rima Hassan",
-     "url": "https://www.leparisien.fr/politique/proces-pour-apologie-du-terrorisme-deux-ans-dineligibilite-requis-contre-rima-hassan-20-10-2026-IWT7532KPBB6RGIH6D6M3AAYJE.php",
-     "published_at": "2026-10-20T15:21:49+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
    "headline": "17 octobre : LFI accuse le gouvernement de manipuler le renseignement, Nuñez et Lecornu démentent",
    "chapo": "Après un article de Mediapart affirmant que des policiers du renseignement territorial auraient reçu pour consigne de mettre en cause LFI, Manuel Bompard a interpellé le gouvernement à l'Assemblée. Laurent Nuñez et Sébastien Lecornu ont répondu que c'était faux.",
    "points": [
@@ -489,7 +343,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 12.37,
    "sources": [
     {
      "id": "15a8bf919944",
@@ -612,7 +466,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 12.37,
    "sources": [
     {
      "id": "1fb1b032d565",
@@ -721,14 +575,13 @@
     "focus_x": 0.7,
     "focus_y": 0.6299074074074074
    },
-   "social_requested": "2026-10-21T10:53:08+00:00",
    "id": 157,
    "section": "presidentielle",
    "reviewed_at": "2026-10-21T10:53:09+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 9.89,
    "sources": [
     {
      "id": "18e017214635",
@@ -765,6 +618,152 @@
      "url": "https://www.midilibre.fr/2026/10/20/presidentielle-2027-comme-par-hasard-pourquoi-bruno-retailleau-veut-changer-la-date-du-second-tour-du-scrutin-13611434.php",
      "published_at": "2026-10-20T09:49:15+00:00",
      "snippet": "Bruno Retailleau, candidat Les Républicains à la présidentielle, critique la date du second tour prévu le 2 mai, lendemain de la Fête du Travail. Il redoute des troubles à l’ordre public après les manifestations du..."
+    }
+   ]
+  },
+  {
+   "headline": "Violences du 17 octobre : Lecornu fait déclencher des couvre-feux localisés",
+   "chapo": "Lundi 19 octobre, le Premier ministre a demandé aux préfets d'instaurer des couvre-feux « partiels » et « très localisés » dès le soir, à Paris, Lyon, Nice et dans le Nord. Le gouvernement annonce aussi du chômage partiel à 100 % et un fonds de soutien pour les commerçants. L'état d'urgence n'est pas exclu.",
+   "points": [
+    {
+     "text": "Sébastien Lecornu : « J'ai demandé aux préfets de déclencher un certain nombre de couvre-feux pour ce soir, couvre-feux partiels, très localisés ». Il juge que le désordre « est très localisé sur des centres urbains », selon Le JDD.",
+     "sources": [
+      "3d9a1f252250"
+     ]
+    },
+    {
+     "text": "À Paris, un couvre-feu de 23 heures à 6 heures vise la place de la République et le quartier des Halles. À Lyon, il court de 21 heures à 6 heures dans une partie de la Presqu'île. À Nice, il concerne les mineurs jusqu'au dimanche 25 octobre, selon Le Monde.",
+     "sources": [
+      "35795754b3d0"
+     ]
+    },
+    {
+     "text": "Dans le Nord, des couvre-feux de 20 heures à 6 heures sont prévus à Lille, Douai, Denain et Wattignies, sur des « portions » de ces communes, selon Le Monde. L'Obs précise qu'à Lille il « concernera uniquement les mineurs ».",
+     "sources": [
+      "35795754b3d0",
+      "f667f19e6b78"
+     ]
+    },
+    {
+     "text": "Pour les commerces, le gouvernement annonce un chômage partiel « à 100 % » dès mardi, un fonds de soutien spécifique et le report des charges sociales, selon LCP. Le ministre Serge Papin estime à « au moins 3.000 » le nombre de commerces touchés, selon LCP.",
+     "sources": [
+      "655a127f667c",
+      "3d9a1f252250"
+     ]
+    },
+    {
+     "text": "Le projet de loi « casseurs-payeurs », dont le calendrier est accéléré, prévoit une responsabilité civile collective pour les personnes présentes à un rassemblement ayant causé des dommages. Il sera examiné au Sénat à partir du 27 octobre, selon LCP.",
+     "sources": [
+      "655a127f667c"
+     ]
+    },
+    {
+     "text": "Du côté de l'opposition de droite, Bruno Retailleau demandait dès dimanche soir l'état d'urgence et Gabriel Attal proposait le recours « à des forces armées temporairement ». Sébastien Lecornu a écarté ces propositions, selon Le Figaro, tout en n'excluant pas l'état d'urgence « si c'est utile », selon Le JDD.",
+     "sources": [
+      "f4945c01517e",
+      "3d9a1f252250"
+     ]
+    },
+    {
+     "text": "Jordan Bardella annonce que ni lui ni Marine Le Pen n'iront à la réunion des chefs de parti à Matignon : le RN sera « très certainement représenté par l'un de ses vice-présidents ». Il dit : « L'ultragauche est le cancer de notre démocratie », selon 20 Minutes.",
+     "sources": [
+      "6799f7a071f3"
+     ]
+    },
+    {
+     "text": "Pour L'Humanité, « Emmanuel Macron avait pris la parole pour ne rien dire, le 18 octobre, c'est donc Sébastien Lecornu qui s'est chargé des basses besognes ». Le journal évoque des « couvre-feux partiels », la « menace de recourir à l'état d'urgence » et la « promesse de condamner rapidement les casseurs ».",
+     "sources": [
+      "3a1123435add"
+     ]
+    },
+    {
+     "text": "Pour L'Obs, Sébastien Lecornu s'inscrit « dans les pas sécuritaires du président de la République », alors que l'exécutif est « accusé d'avoir gravement sous-estimé la mobilisation ». La préfecture de police de Paris justifie les mesures pour « rétablir la paix publique à laquelle une minorité de délinquants a gravement porté atteinte ».",
+     "sources": [
+      "f667f19e6b78"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/19/14/sipa_ap23068070_000038.jpg?VersionId=xnJCdRZbKGLPmL4XdLGxE9CZZif9Tcwz",
+    "source": "Le JDD",
+    "article_url": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438",
+    "article_id": "3d9a1f252250"
+   },
+   "id": 147,
+   "section": "institutions",
+   "reviewed_at": "2026-10-20T15:17:42+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.35,
+   "sources": [
+    {
+     "id": "35795754b3d0",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "De premiers couvre-feux localisés annoncés à Paris, à Nice, à Lyon et à Lille, à la suite des violences du week-end",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/19/de-premiers-couvre-feux-localises-annonces-a-paris-nice-et-lille-apres-les-violences-du-week-end_6797576_823448.html",
+     "published_at": "2026-10-19T17:35:30+00:00",
+     "snippet": "Sébastien Lecornu a annoncé avoir demandé aux préfets la mise en place de couvre-feux « localisés » dès lundi soir, pour protéger les commerces après les pillages et les violences constatés dans plusieurs villes samedi et dimanche."
+    },
+    {
+     "id": "3a1123435add",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Couvre-feux, menace d’état d’urgence, promesse de condamner les casseurs : les annonces de Lecornu",
+     "url": "https://www.humanite.fr/politique/casseurs/couvre-feux-menace-detat-durgence-promesse-de-condamner-les-casseurs-les-annonces-de-lecornu",
+     "published_at": "2026-10-19T21:30:34+00:00",
+     "snippet": "Emmanuel Macron avait pris la parole pour ne rien dire, le 18 octobre, c'est donc Sébastien Lecornu qui s'est chargé des basses besognes, ce lundi 19 octobre, à l'issue d'une cellule de crise intermin"
+    },
+    {
+     "id": "3d9a1f252250",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Violences urbaines : Sébastien Lecornu demande aux préfets de «déclencher un certain nombre de couvre-feux» localisés",
+     "url": "https://www.lejdd.fr/politique/violences-urbaines-sebastien-lecornu-demande-aux-prefets-de-declencher-un-certain-nombre-de-couvre-feux-localises-186438",
+     "published_at": "2026-10-19T12:39:14+00:00",
+     "snippet": "Le Premier ministre a annoncé des couvre-feux partiels et localisés dès ce lundi soir. Le gouvernement promet également un fonds de soutien et des mesures de chômage partiel pour les quelque 3 000 commerces touchés par les dégradations et les pillages."
+    },
+    {
+     "id": "655a127f667c",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Saccages et pillages du 17 octobre: l'État au chevet des commerçants, le projet de loi \"casseurs-payeurs\" bientôt examiné",
+     "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
+     "published_at": "2026-10-19T21:21:03+00:00",
+     "snippet": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 15:23 Après les saccages qui ont eu lieu ce week-end, le gouvernement a annoncé, ce lundi 19 octobre, une série de mesures d'urgence à destination des commerçants, parmi lesquelles le déclenchement immédiat d'un chômage partiel à 100%, le report des charges sociales, ainsi que la mise en place d'un fonds de soutien. \"Au moins 3.000\". Telle est la dernière estimation du ministre des Petites et Moyennes entreprises et du Commerce, Serge Papin, concernant le nombre de commerces touchés au cours du week-end par les saccages et les pillages. Au sort"
+    },
+    {
+     "id": "6799f7a071f3",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Violences du 17 octobre : Le Pen et Bardella boycottent la réunion des chefs de parti avec Lecornu",
+     "url": "https://www.20minutes.fr/politique/4255668-20261019-violences-17-octobre-pen-bardella-boycottent-reunion-chefs-parti-lecornu?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-19T12:20:38+00:00",
+     "snippet": "À propos de la réunion des partis politiques évoquée dimanche soir par Emmanuel Macron, le RN a indiqué qu’il sera « très certainement représenté par l’un de ses vice-présidents »"
+    },
+    {
+     "id": "f4945c01517e",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "État d’urgence, couvre-feu… L’arsenal juridique dont dispose l’État pour rétablir l’ordre",
+     "url": "https://www.lefigaro.fr/actualite-france/etat-d-urgence-couvre-feu-l-arsenal-juridique-dont-dispose-l-etat-pour-retablir-l-ordre-20261019",
+     "published_at": "2026-10-19T18:20:00+00:00",
+     "snippet": "DÉCRYPTAGE - Après un week-end de violences urbaines dans plusieurs grandes villes, Sébastien Lecornu a annoncé l’instauration de « couvre-feux partiels » et « très localisés » face aux pillages."
+    },
+    {
+     "id": "f667f19e6b78",
+     "name": "L'Obs",
+     "kind": "media",
+     "title": "Violences du 17 octobre : Paris, Lyon, Lille, Nice… Les villes concernées par un couvre-feu",
+     "url": "https://www.nouvelobs.com/social/20261019.OBS119349/lille-douai-les-villes-concernees-par-un-couvre-feu-apres-les-violences-du-17-octobre.html",
+     "published_at": "2026-10-19T18:19:18+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a estimé que « le bordel est très localisé sur des centres urbains » et a donc décidé de déclencher « un certain nombre de couvre-feux pour » lundi et mardi après les violences qui ont émaillé les manifestations de samedi."
     }
    ]
   },
@@ -842,7 +841,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.91,
+   "score": 8.87,
    "sources": [
     {
      "id": "0bb12ff48921",
@@ -964,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.91,
+   "score": 8.87,
    "sources": [
     {
      "id": "433f5d275fb7",
@@ -1094,7 +1093,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.26,
+   "score": 7.39,
    "sources": [
     {
      "id": "5b62344298fc",
@@ -1215,7 +1214,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.6,
+   "score": 5.91,
    "sources": [
     {
      "id": "052a6c386254",
@@ -1334,7 +1333,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.46,
+   "score": 5.19,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -1484,7 +1483,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.49,
+   "score": 4.27,
    "sources": [
     {
      "id": "577ecbf58f17",
@@ -1608,7 +1607,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.38,
+   "score": 4.14,
    "sources": [
     {
      "id": "14ddfc9edd6d",
@@ -1739,7 +1738,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.99,
+   "score": 3.79,
    "sources": [
     {
      "id": "2a7d1ed788b9",
@@ -1872,7 +1871,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.1,
+   "score": 3.88,
    "sources": [
     {
      "id": "59d403e277fd",
@@ -1992,7 +1991,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.03,
+   "score": 3.86,
    "sources": [
     {
      "id": "1bec5569dadf",
@@ -2126,7 +2125,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.39,
+   "score": 3.25,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -2249,7 +2248,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.55,
+   "score": 2.44,
    "sources": [
     {
      "id": "01c5163ed3ef",
