@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T16:00:04+00:00",
+ "generated_at": "2026-10-21T08:00:33+00:00",
  "posts": [
   {
    "headline": "Après le 17 octobre, la sécurité s'invite dans la présidentielle",
@@ -65,7 +65,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.48,
+   "score": 10.61,
    "sources": [
     {
      "id": "433f5d275fb7",
@@ -202,7 +202,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 20.4,
+   "score": 12.38,
    "sources": [
     {
      "id": "35795754b3d0",
@@ -343,7 +343,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.48,
+   "score": 10.61,
    "sources": [
     {
      "id": "0bb12ff48921",
@@ -473,7 +473,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.57,
+   "score": 8.84,
    "sources": [
     {
      "id": "5b62344298fc",
@@ -594,7 +594,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.65,
+   "score": 7.07,
    "sources": [
     {
      "id": "052a6c386254",
@@ -713,7 +713,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.78,
+   "score": 5.63,
    "sources": [
     {
      "id": "18dfc4a66e43",
@@ -863,7 +863,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.59,
+   "score": 4.63,
    "sources": [
     {
      "id": "577ecbf58f17",
@@ -987,7 +987,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.58,
+   "score": 4.53,
    "sources": [
     {
      "id": "14ddfc9edd6d",
@@ -1118,7 +1118,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.97,
+   "score": 4.12,
    "sources": [
     {
      "id": "2a7d1ed788b9",
@@ -1251,7 +1251,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.23,
+   "score": 4.24,
    "sources": [
     {
      "id": "59d403e277fd",
@@ -1369,7 +1369,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.67,
+   "score": 4.04,
    "sources": [
     {
      "id": "183eb501fa10",
@@ -1516,7 +1516,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.84,
+   "score": 4.14,
    "sources": [
     {
      "id": "1bec5569dadf",
@@ -1650,7 +1650,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.07,
+   "score": 3.48,
    "sources": [
     {
      "id": "290e7b009b67",
@@ -1773,7 +1773,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.06,
+   "score": 2.61,
    "sources": [
     {
      "id": "01c5163ed3ef",
@@ -1810,227 +1810,6 @@
      "url": "https://www.huffingtonpost.fr/politique/article/encore-rejetee-la-taxe-zucman-a-de-nouveau-enflamme-l-assemblee-pendant-les-discussions-budgetaires_341057.html",
      "published_at": "2026-10-17T13:26:48+00:00",
      "snippet": "Les députés ont rejeté plusieurs propositions portées par la gauche, de la création d’un impôt minimum sur les hauts patrimoines au retour de l’ISF."
-    }
-   ]
-  },
-  {
-   "headline": "Knafo et Lisnard : des convergences économiques, mais pas d'alliance annoncée",
-   "chapo": "Vendredi, Sarah Knafo (Reconquête) a dit se retrouver sur « de très nombreux points » en économie avec David Lisnard (Nouvelle Énergie), mais pas sur les sujets régaliens. Les articles ne mentionnent pas d'accord officiel : Lisnard écarte un rapprochement avec le RN et défend une primaire à droite.",
-   "points": [
-    {
-     "text": "Invitée de Sud Radio, l'eurodéputée Reconquête Sarah Knafo assure se retrouver sur « de très nombreux points » en économie avec David Lisnard, selon Le Figaro.",
-     "sources": [
-      "c21acf293ddc"
-     ]
-    },
-    {
-     "text": "Mais Lisnard « ne trouve pas grâce à ses yeux sur les sujets régaliens », d'après la même source. Sarah Knafo reste persuadée que « personne d'autre ne représente » la ligne de Reconquête.",
-     "sources": [
-      "c21acf293ddc"
-     ]
-    },
-    {
-     "text": "Les deux se sont déjà retrouvés le 30 juin devant près de 200 chefs d'entreprise sur le thème « Le tandem libéral : duel ou duo ? », selon Planet.fr.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Leurs points communs, selon Planet.fr : la critique du poids de l'État et de la dépense publique, la baisse des impôts de production, le non-remplacement de fonctionnaires partis (turn-over naturel) et un appel à l'unité des droites, tout en se distinguant du RN sur l'économie.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Leurs différences : Lisnard apparaît plus ouvert à des alliances larges et défend des primaires ; Sarah Knafo porte une dimension souverainiste et identitaire plus affirmée, selon Planet.fr.",
-     "sources": [
-      "5bdcad0820f3"
-     ]
-    },
-    {
-     "text": "Côté Lisnard, il « écarte au passage un rapprochement avec le RN », selon Nice-Matin. Il affirme : « La meilleure façon d'éviter la division qui peut faire perdre, c'est la primaire ».",
-     "sources": [
-      "3a3961021773"
-     ]
-    },
-    {
-     "text": "La dynamique de David Lisnard alimente la piste d'une primaire à droite. Il a progressé de 2,5 points dans la dernière vague Ifop-Fiducial et double Bruno Retailleau d'un point (6 % contre 5 %), selon Le Figaro.",
-     "sources": [
-      "1e3843174db9"
-     ]
-    },
-    {
-     "text": "Libération note que Retailleau et Lisnard doivent se retrouver la semaine prochaine pour un déjeuner organisé par le maire de Béziers, « alors qu'ils sont plus concurrents que jamais ». Éric Zemmour doit, lui, officialiser sa candidature début novembre, selon Le Parisien.",
-     "sources": [
-      "4fd0aff36e05",
-      "44e899c2ef6f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://assets.nicematin.com/articles/10/74/14/99/OG-10741499-1200-800-e46d9b5_ftp-1-plxm7tt7pt9z-canxxq325-pl-association-des-maires.jpg",
-    "source": "Nice-Matin",
-    "article_url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
-    "article_id": "3a3961021773",
-    "focus_x": 0.39666666666666667,
-    "focus_y": 0.21640625
-   },
-   "id": 136,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-16T17:29:29+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.24,
-   "sources": [
-    {
-     "id": "1e3843174db9",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
-     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
-     "published_at": "2026-10-15T17:30:00+00:00",
-     "snippet": "DÉCRYPTAGE - Alors que le maire de Cannes et candidat à la présidentielle connaît une dynamique nouvelle, la piste d’une primaire de la droite et du centre reprend des couleurs."
-    },
-    {
-     "id": "3a3961021773",
-     "name": "Nice-Matin",
-     "kind": "media",
-     "title": "« Je pense qu’un jour Eric Ciotti me rejoindra » : David Lisnard veut rassembler autour de sa candidature à la présidentielle",
-     "url": "https://www.nicematin.com/societe/politique/je-pense-qu-un-jour-eric-ciotti-me-rejoindra-david-lisnard-veut-rassembler-autour-de-sa-candidature-a-la-presidentielle-10741499",
-     "published_at": "2026-10-16T03:30:04+00:00",
-     "snippet": "Candidat à l’élection présidentielle, le maire de Cannes et président de l’Association des maires de France se félicite de la dynamique que connaît sa campagne. Il écarte au passage un rapprochement avec le RN. Interview."
-    },
-    {
-     "id": "44e899c2ef6f",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Il y a Sarah Knafo avec lui ? » : la précampagne diesel d’Éric Zemmour",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-y-a-sarah-knafo-avec-lui-la-precampagne-diesel-deric-zemmour-14-10-2026-BPBEAXDNSJCU3AL7CZ457AZG54.php",
-     "published_at": "2026-10-14T20:17:16+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "4fd0aff36e05",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
-     "url": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/",
-     "published_at": "2026-10-16T09:20:02+00:00",
-     "snippet": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle."
-    },
-    {
-     "id": "5bdcad0820f3",
-     "name": "Planet.fr",
-     "kind": "media",
-     "title": "Sarah Knafo et David Lisnard : convergences libérales et nuances politiques pour redresser la France",
-     "url": "https://www.planet.fr/politique-sarah-knafo-et-david-lisnard-convergences-liberales-et-nuances-politiques-pour-redresser-la-france.2997872.29334.html",
-     "published_at": "2026-07-01T08:00:00+00:00",
-     "snippet": "Le 30 juin 2026, Sarah Knafo et David Lisnard ont débattu devant des entrepreneurs sur l'avenir économique du pays. Leurs échanges révèlent de solides convergences sur les réformes à mener, tout en laissant apparaître des différences d'approche et de positionnement. Le cercle ETHIC a réuni le 30 jui"
-    },
-    {
-     "id": "c21acf293ddc",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Sarah Knafo assume ses divergences sur les questions régaliennes avec David Lisnard",
-     "url": "https://video.lefigaro.fr/figaro/elections/presidentielles/presidentielle-2027-sarah-knafo-assume-ses-divergences-sur-les-questions-regaliennes-avec-david-lisnard-20261016",
-     "published_at": "2026-10-16T09:59:00+00:00",
-     "snippet": "Invitée de Sud Radio ce vendredi, l'eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d'autre ne représente» la ligne de son parti. Si elle assure se retrouver sur «de très nombreux points» en économie avec le candidat Nouvelle Énergie, Dav"
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : les départements chahutent le gouvernement à leur congrès",
-   "chapo": "Vendredi 16 octobre, à Reims, les présidents de départements ont hué la ministre Françoise Gatel et quitté la salle pour protester contre l'absence de Sébastien Lecornu. Ils dénoncent plusieurs milliards de coupes dans le budget 2027.",
-   "points": [
-    {
-     "text": "Les présidents de départements, réunis en congrès à Reims, vivent l'absence de Sébastien Lecornu comme « un mépris ». Une grande partie de la salle a hué la ministre de la Décentralisation Françoise Gatel, puis s'est exfiltrée dans le hall pour chanter la Marseillaise, selon franceinfo.",
-     "sources": [
-      "8575ebe2a4ee"
-     ]
-    },
-    {
-     "text": "Ils attendaient le Premier ministre pour qu'il vienne « s'expliquer » sur plus de 1,2 milliard d'euros de mesures qui les touchent, dans 5,4 milliards d'euros de coupes sur les collectivités, selon franceinfo. Public Sénat parle de 1,8 milliard prélevé sur les départements.",
-     "sources": [
-      "8575ebe2a4ee",
-      "890398c04c25"
-     ]
-    },
-    {
-     "text": "Le président de l'Assemblée des départements de France, François Sauvadet (UDI), avait réclamé la venue du Premier ministre. La réponse : un courrier, quelques heures plus tard, les conviant à Matignon mi-novembre. « J'aurais aimé un petit coup de fil », regrette-t-il, au lieu d'une « missive ». « Est-ce que c'est engager un dialogue responsable et respectueux ? », demande-t-il : cela va « exacerber les tensions », selon 20 Minutes.",
-     "sources": [
-      "b71f005af2c8"
-     ]
-    },
-    {
-     "text": "Les départements sont « coincés entre la baisse de recettes des transactions immobilières et l'explosion des aides sociales », à la peine depuis plusieurs années, selon franceinfo.",
-     "sources": [
-      "8575ebe2a4ee"
-     ]
-    },
-    {
-     "text": "Françoise Gatel défend le Premier ministre : « Je ne peux pas laisser dire que le Premier ministre n'aurait pas osé venir aujourd'hui ». Elle le décrit comme « le capitaine d'un bateau profondément secoué », selon 20 Minutes. L'an dernier, Lecornu était venu annoncer un fonds de sauvegarde de 600 millions d'euros.",
-     "sources": [
-      "b71f005af2c8"
-     ]
-    },
-    {
-     "text": "Après la phrase du président du Calvados Jean-Léonce Dupont, « un ministre, ça démissionne ou ça ferme sa gueule », la ministre répond : « Je ne démissionne pas et je ne ferme pas ma gueule ». Elle annonce faire passer de 300 à 400 millions d'euros la part de CSG qui pourra leur être affectée, selon 20 Minutes.",
-     "sources": [
-      "b71f005af2c8"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/TegcPLjvdCrDlykEUN_G42KKgeo/0x80:1024x656/432x243/filters:format(jpg)/2026/10/16/6ad238e4eb8be023437621.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/politique/remontes-contre-le-budget-les-presidents-des-departements-reunis-en-congres-vivent-l-absence-de-sebastien-lecornu-comme-un-mepris_8240467.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "8575ebe2a4ee"
-   },
-   "id": 135,
-   "section": "institutions",
-   "reviewed_at": "2026-10-16T17:29:15+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.82,
-   "sources": [
-    {
-     "id": "8575ebe2a4ee",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Remontés contre le projet de budget 2027, les présidents des départements vivent comme \"un mépris\" l'absence de Sébastien Lecornu pour leur congrès",
-     "url": "https://www.franceinfo.fr/politique/remontes-contre-le-budget-les-presidents-des-departements-reunis-en-congres-vivent-l-absence-de-sebastien-lecornu-comme-un-mepris_8240467.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-16T15:27:05+00:00",
-     "snippet": "Réclamant sa venue jeudi, le président de l'Assemblée des départements de France, le centriste François Sauvadet, n'a pas apprécié la réponse du Premier ministre, un courrier envoyé quelques heures plus tard les conviant à Matignon mi-novembre."
-    },
-    {
-     "id": "890398c04c25",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "« Méthode détestable », « colère » : l’absence de Sébastien Lecornu aux Assises des départements de France tend les élus",
-     "url": "https://www.publicsenat.fr/actualites/politique/methode-detestable-colere-tensions-francois-sauvadet-repond-a-labsence-de-sebastien-lecornu-aux-assises-des-departements-de-france",
-     "published_at": "2026-10-16T11:32:59+00:00",
-     "snippet": "Alors que le gouvernement a prévu de ponctionner 1,8 milliard d’euros du budget des départements dans le projet de loi de finances pour 2027, l’absence de Sébastien Lecornu aux Assises des départements de France a fortement déplu. Le Premier ministre a néanmoins invité les départements à le rencontrer le 16 novembre à Matignon, un report qui va « exacerber les tensions », a prévenu le président (centriste) des Départements de France, François Sauvadet. Une grande partie des élus ont quitté la salle quand la ministre des Collectivités s’est exprimée."
-    },
-    {
-     "id": "b71f005af2c8",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Congrès des départements : « Je ne ferme pas ma gueule… » C’est quoi cette brouille entre le gouvernement et les élus ?",
-     "url": "https://www.20minutes.fr/politique/4255036-20261016-congres-departements-ferme-gueule-quoi-brouille-entre-gouvernement-elus?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-16T14:44:38+00:00",
-     "snippet": "Une grande partie de la salle a hué l’arrivée de la ministre, Françoise Gatel, à la tribune avant de quitter la salle en protestation de l’absence de Sébastien Lecornu"
     }
    ]
   }
