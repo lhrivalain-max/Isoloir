@@ -1,123 +1,132 @@
 {
- "generated_at": "2026-10-22T11:17:19+00:00",
+ "generated_at": "2026-10-22T11:17:27+00:00",
  "posts": [
   {
-   "headline": "Macron annonce un conseil de défense vendredi et interdit les manifestations non syndicales",
-   "chapo": "Jeudi 22 octobre, à l'issue d'un conseil de sécurité à l'Élysée, Emmanuel Macron a dénoncé des « actes séditieux » de groupes d'ultragauche et annoncé un conseil de défense vendredi. À l'approche de la manifestation du 24 octobre, seules les demandes des syndicats seront examinées par les préfets.",
+   "headline": "Congrès du RN à Orléans : contre-manifestation, dispositif de sécurité et polémique sur l'annulation",
+   "chapo": "Le Rassemblement national tient son congrès à Orléans samedi 24 octobre, avec un meeting de Marine Le Pen dimanche. Une contre-manifestation de gauche est attendue. Le gouvernement promet un important dispositif de sécurité, et Marine Le Pen dément qu'on lui ait demandé d'annuler.",
    "points": [
     {
-     "text": "Emmanuel Macron a réuni un conseil de sécurité à l'Élysée avec les services de renseignement, accusés d'avoir mal anticipé le 17 octobre. L'Élysée parle de revenir sur « les dysfonctionnements qui ont conduit aux événements du week-end passé », selon Ouest-France.",
+     "text": "Le RN s'apprête à réunir 5 000 personnes samedi puis 10 000 dimanche pour son congrès et le lancement de campagne de Marine Le Pen, selon CNews.",
      "sources": [
-      "0d71b5cac397"
+      "855db15f921d"
      ]
     },
     {
-     "text": "Il annonce qu'un conseil de défense aura lieu vendredi, selon Ouest-France, « afin de prendre des décisions supplémentaires », selon L'Humanité.",
+     "text": "Face à eux, « plusieurs dizaines de milliers » de personnes doivent défiler samedi contre « le racisme, le fascisme et l'impérialisme », à l'appel d'une cinquantaine d'organisations, selon LCP. Olivier Faure, Bally Bagayoko et Sophie Binet sont attendus, selon LCP et Le Monde.",
      "sources": [
-      "0d71b5cac397",
-      "cc0e15aa6d5d"
+      "8c8fe1cfc9fe",
+      "30a2b950f855"
      ]
     },
     {
-     "text": "Pour le chef de l'État, « des actes politiques et même séditieux » ont été « organisés par des groupes organisés d'ultragauche qui visent à faire tomber la République », avec une « extrême dangerosité » et une « planification », selon BFMTV.",
+     "text": "Manuel Bompard (La France insoumise) salue un rassemblement pour « exprimer une opposition aux idées du Rassemblement national » et appelle à des « manifestations pacifiques et non violentes », selon LCP.",
      "sources": [
-      "8767701e978b"
+      "8c8fe1cfc9fe"
      ]
     },
     {
-     "text": "Il distingue ces actes des « actes de délinquance sur lesquels nous devons aussi avoir la plus grande dureté mais qui ne sont pas de la même nature », selon Europe 1.",
+     "text": "Laurent Nuñez promet un dispositif « extrêmement conséquent, avec énormément de forces mobiles ». Selon lui, la manifestation de dimanche, qui n'est pas organisée par les syndicats et partis de gauche, « pourrait essayer d'attenter » au meeting, selon LCP.",
      "sources": [
-      "ba3af27230f7"
+      "8c8fe1cfc9fe"
      ]
     },
     {
-     "text": "Emmanuel Macron : « Quand ce ne sont pas des organisations syndicales, partout où on le peut, on interdira ». Les préfets proposeront aux syndicats « des tracés alternatifs », selon La Dépêche du Midi.",
+     "text": "Marine Le Pen : « Je trouve fou que cela ne scandalise plus personne que des mouvements cherchent à empêcher le déroulement de la vie d'un parti ou le déroulement d'une campagne », mais elle dit ne pas avoir « d'inquiétudes », selon LCP.",
      "sources": [
-      "91670ad97114"
+      "8c8fe1cfc9fe"
      ]
     },
     {
-     "text": "À Paris, la préfecture de police indique que la manifestation de la CGT entre Bastille et Nation « pourra se tenir ». Le parcours du collectif Interfac et de gilets jaunes vers l'Opéra « fera l'objet d'un arrêté d'interdiction », selon La Dépêche du Midi.",
+     "text": "Selon Le HuffPost, le JDD affirme que les renseignements ont conseillé à Marine Le Pen d'annuler le congrès. Elle répond « C'est faux » : les pouvoirs publics n'ont « jamais demandé d'annuler » et lui ont affirmé que la sécurité serait assurée.",
      "sources": [
-      "91670ad97114"
+      "855e2a3ee969"
      ]
     },
     {
-     "text": "Selon Ouest-France, le gouvernement annonce « 20 % » de forces de l'ordre en plus par rapport au 17 octobre. Emmanuel Macron reconnaît « des défauts d'anticipation » et dit que Sébastien Lecornu réunira lundi les organisations lycéennes et étudiantes.",
+     "text": "Robert Ménard, maire divers droite de Béziers : « Marine Le Pen a raison de ne pas l'annuler », selon Europe 1, qui évoque près de 40 000 opposants attendus, dont 2 000 éléments radicaux.",
      "sources": [
-      "0d71b5cac397"
+      "1fedd0395cdd"
      ]
     },
     {
-     "text": "Bruno Retailleau accuse le pouvoir de « jouer petit bras » et réclame le recours à l'état d'urgence : « Quand c'est de pire en pire, on tape du poing sur la table », selon L'Humanité.",
+     "text": "Selon RMC, le RN boycotte la commission d'enquête sur le 17 octobre : « On ne va pas assister à ce sit-in anti-flics », justifie Laurent Jacobelli. Marine Le Pen dénonce un « entre-soi gauchiste ».",
      "sources": [
-      "cc0e15aa6d5d"
+      "88de7df64943"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 5,
-    "outlets": 5
+    "articles": 6,
+    "outlets": 6
    },
    "image": {
-    "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwN2ZhNDBjNTc2ZmYyYjYxOTg5NzZkMGRlODdlY2RhOWY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0ef604719c9c3d67dd1b8df24ba63ab72b60be1d658aa487e9fcaf2f147bacf4",
-    "source": "Ouest-France",
-    "article_url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-    "article_id": "0d71b5cac397"
+    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/xbqbehu_6ad98dd720ed5.jpg?itok=E7SVmLkA",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/videos/france/2026-10-22/congres-du-rn-les-intimidations-et-les-pressions-se-multiplient-1939612",
+    "article_id": "855db15f921d"
    },
-   "id": 163,
+   "id": 162,
    "section": "institutions",
-   "reviewed_at": "2026-10-22T11:17:19+00:00",
+   "reviewed_at": "2026-10-22T11:17:27+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 18.0,
    "sources": [
     {
-     "id": "0d71b5cac397",
-     "name": "Ouest-France",
-     "kind": "media",
-     "title": "Tracés des manifestations du 24 octobre, conseil de défense… Ce qu’il faut retenir de l’intervention d’Emmanuel Macron",
-     "url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-     "published_at": "2026-10-22T10:39:58+00:00",
-     "snippet": "Le président de la République Emmanuel Macron s’est exprimé à l’issue d’un conseil de sécurité qui s’est tenu jeudi 22 octobre 2026 à l’Élysée. On fait le point sur les informations à retenir."
-    },
-    {
-     "id": "8767701e978b",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Violences du 17 octobre: Emmanuel Macron dénonce des \"actes politiques et même séditieux\" visant à \"faire tomber la République\"",
-     "url": "https://www.bfmtv.com/politique/elysee/violences-du-17-octobre-emmanuel-macron-denonce-des-actes-politiques-et-meme-seditieux-visant-a-faire-tomber-la-republique_AV-202610220514.html",
-     "published_at": "2026-10-22T10:55:49+00:00",
-     "snippet": "À deux jours d'une nouvelle journée de manifestation dans plusieurs villes de France, le président de la République s'est exprimé sur les événements violents du week-end dernier qui, selon lui, visaient à \"faire tomber la République\"."
-    },
-    {
-     "id": "91670ad97114",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Manifestations du 24 octobre : Emmanuel Macron dénonce une volonté de l'ultragauche de \"faire tomber la République\" et annonce réunir un conseil de défense",
-     "url": "https://www.ladepeche.fr/2026/10/22/direct-manifestations-du-24-octobre-emmanuel-macron-convoque-le-renseignement-a-lelysee-sebastien-lecornu-recoit-les-partis-politiques-a-matignon-13614677.php",
-     "published_at": "2026-10-22T10:52:43+00:00",
-     "snippet": "Suivez toute l'actualité liée aux suites des manifestations et des violences du 17 octobre, ainsi qu'à la préparation de l'acte II, annoncé ce samedi 24 octobre, en direct sur ladepeche.fr"
-    },
-    {
-     "id": "ba3af27230f7",
+     "id": "1fedd0395cdd",
      "name": "Europe 1",
      "kind": "media",
-     "title": "Violences : Emmanuel Macron dénonce une volonté de l'ultragauche de «faire tomber la République»",
-     "url": "https://www.europe1.fr/politique/violences-emmanuel-macron-denonce-une-volonte-de-lultragauche-de-faire-tomber-la-republique-1173594?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-22T10:52:08+00:00",
-     "snippet": "Ce jeudi, Emmanuel Macron a tenu un conseil de sécurité au palais de l'Élysée. À l'issue de cette réunion, le chef de l'État a pris la parole et s'en est pris aux groupes \"d'ultragauche\" qui souhaitent \"faire tomber la République\". Emmanuel Macron a dénoncé jeudi des \"actes séditieux\" de groupes \"d'ultragauche\" d'une \"extrême dangerosité\" visant à \"faire tomber la République\" et des \"actes de délinquance\" réclamant aussi \"la plus grande dureté\", dans les violences et pillages commis en marge des manifestations contre la \"vie chère\" samedi. \"Nous avons eu tout à la fois des actes politiques et "
+     "title": "Congrès du RN à Orléans : «Marine Le Pen a raison de ne pas l'annuler», dit Robert Ménard, malgré la venue de l'ultra-gauche",
+     "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-marine-le-pen-a-raison-de-ne-pas-lannuler-dit-robert-menard-malgre-la-venue-de-lultra-gauche-1172904?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-22T06:42:00+00:00",
+     "snippet": "Le maire Divers-droite de Béziers Robert Ménard était l'invité de La Grande interview Europe 1-CNews ce jeudi matin. Au micro de Laurence Ferrari, il estime que Marine Le Pen a raison de maintenir son congrès prévu à Orléans ce week-end, malgré une forte mobilisation de militants d'extrême-gauche. Le Rassemblement national va-t-il devoir annuler son congrès prévu ce week-end à Orléans ? Selon les informations d'Europe 1, près de 40.000 opposants, dont 2.000 éléments radicaux, doivent se déplacer dans la ville, alors que Marine Le Pen devrait officialiser sa candidature à l'élection présidentie"
     },
     {
-     "id": "cc0e15aa6d5d",
-     "name": "L'Humanité",
+     "id": "30a2b950f855",
+     "name": "Le Monde",
      "kind": "media",
-     "title": "Emmanuel Macron interdit toute manifestation en dehors de celles organisées par les syndicats",
-     "url": "https://www.humanite.fr/-/-/emmanuel-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats",
-     "published_at": "2026-10-22T10:28:00+00:00",
-     "snippet": "A l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement Emmanuel Macron s’est exprimé en direct du palais de l’Elysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester, de se regrouper, les demandes seront interdites par les préfets »,…"
+     "title": "Olivier Faure, Bally Bagayoko et Sophie Binet attendus à la manifestation contre le RN à Orléans",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/22/olivier-faure-bally-bagayoko-et-sophie-binet-attendus-a-la-manifestation-contre-le-rn-a-orleans_6798593_823448.html",
+     "published_at": "2026-10-22T08:49:39+00:00",
+     "snippet": "« Plusieurs dizaines de milliers » de contre-manifestants sont attendus à Orléans samedi, « et un peu moins le dimanche », en marge du congrès du Rassemblement national, selon le ministre de l’intérieur, Laurent Nuñez."
+    },
+    {
+     "id": "855db15f921d",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Congrès du RN : les intimidations et les pressions se multiplient",
+     "url": "https://www.cnews.fr/videos/france/2026-10-22/congres-du-rn-les-intimidations-et-les-pressions-se-multiplient-1939612",
+     "published_at": "2026-10-22T05:42:37+00:00",
+     "snippet": "Alors que le Rassemblement National organise ce week-end son congrès à Orléans, Laurent Nuñez a alerté sur la présence possible de «plusieurs dizaines de milliers» de contre-manifestants. Olivier Faure, Bally Bagayoko ou encore Sophie Binet seront présents samedi dans la ville. Un dispositif de sécurité renforcé en marge de l’événement. Alors que le Rassemblement national s’apprête à réunir 5.000 personnes samedi puis 10.000 dimanche pour son congrès et le lancement de campagne de Marine Le Pen, plusieurs associations, partis et syndicats de gauche ont annoncé leur intention de manifester dans"
+    },
+    {
+     "id": "855e2a3ee969",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Marine Le Pen dénonce les « contrevérités » du « JDD » sur le congrès du RN",
+     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-denonce-les-contreverites-du-jdd-sur-le-congres-du-rn_343268.html",
+     "published_at": "2026-10-22T09:52:54+00:00",
+     "snippet": "La candidate du Rassemblement national à la présidentielle se veut surtout rassurante avant un événement qui doit lancer sa campagne vers l’Élysée."
+    },
+    {
+     "id": "88de7df64943",
+     "name": "RMC",
+     "kind": "media",
+     "title": "Le RN boycotte la commission d'enquête sur les violences du 17 octobre: \"On ne va pas assister à ce 'sit-in' anti-flics\", justifie Laurent Jacobelli",
+     "url": "https://rmc.bfmtv.com/actualites/politique/le-rn-boycotte-la-commission-d-enquete-sur-les-violences-du-17-octobre-on-ne-va-pas-assister-a-ce-sit-in-anti-flics-justifie-laurent-jacobelli_AV-202610220269.html",
+     "published_at": "2026-10-22T06:53:08+00:00",
+     "snippet": "L'Assemblée nationale doit faire la lumière sur les dysfonctionnements après la journée du 17 octobre qui ont entraîné des pillages. Une commission d'enquête a été créée, mais elle se fera sans le Rassemblement national qui a annoncé son boycott. Marine Le Pen dénonce un \"entre-soi gauchiste\"."
+    },
+    {
+     "id": "8c8fe1cfc9fe",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Congrès du RN à Orléans: la gauche appelle à une mobilisation massive contre le RN",
+     "url": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156",
+     "published_at": "2026-10-22T10:58:49+00:00",
+     "snippet": "Par Maxence Kagni , le Jeudi 22 octobre 2026 à 12:23 Alors que le Rassemblement national y organise son congrès, près de 25 000 personnes sont attendues samedi à Orléans, lors d'une contre-manifestation organisée par des syndicats et des partis de gauche. Olivier Faure, Bally Bagayoko et Sophie Binet sont attendus sur place, tandis que le gouvernement promet un dispositif de sécurité \"extrêmement conséquent\". D'un côté des milliers de militants du Rassemblement national, de l'autre une contre-manifestation à l'initiative des syndicats et des partis de gauche. Ce week-end, tous les yeux seront "
     }
    ]
   },
@@ -271,6 +280,126 @@
      "url": "https://www.boursorama.com/actualite-economique/actualites/je-m-en-fous-c-est-pas-mon-probleme-aujourd-hui-david-lisnard-fustige-la-rhetorique-de-lfi-apres-une-question-sur-le-17-octobre-1961-bd6e291fe0c0fef4e02e7ff29577472d",
      "published_at": "2026-10-20T15:18:48+00:00",
      "snippet": "Le candidat à la présidentielle a été interrogé sur les exactions commises contre des Algériens sous l'autorité du préfet Maurice Papon. S'en est suivi un vif échange avec sa contradictrice proche de "
+    }
+   ]
+  },
+  {
+   "headline": "Macron annonce un conseil de défense vendredi et interdit les manifestations non syndicales",
+   "chapo": "Jeudi 22 octobre, à l'issue d'un conseil de sécurité à l'Élysée, Emmanuel Macron a dénoncé des « actes séditieux » de groupes d'ultragauche et annoncé un conseil de défense vendredi. À l'approche de la manifestation du 24 octobre, seules les demandes des syndicats seront examinées par les préfets.",
+   "points": [
+    {
+     "text": "Emmanuel Macron a réuni un conseil de sécurité à l'Élysée avec les services de renseignement, accusés d'avoir mal anticipé le 17 octobre. L'Élysée parle de revenir sur « les dysfonctionnements qui ont conduit aux événements du week-end passé », selon Ouest-France.",
+     "sources": [
+      "0d71b5cac397"
+     ]
+    },
+    {
+     "text": "Il annonce qu'un conseil de défense aura lieu vendredi, selon Ouest-France, « afin de prendre des décisions supplémentaires », selon L'Humanité.",
+     "sources": [
+      "0d71b5cac397",
+      "cc0e15aa6d5d"
+     ]
+    },
+    {
+     "text": "Pour le chef de l'État, « des actes politiques et même séditieux » ont été « organisés par des groupes organisés d'ultragauche qui visent à faire tomber la République », avec une « extrême dangerosité » et une « planification », selon BFMTV.",
+     "sources": [
+      "8767701e978b"
+     ]
+    },
+    {
+     "text": "Il distingue ces actes des « actes de délinquance sur lesquels nous devons aussi avoir la plus grande dureté mais qui ne sont pas de la même nature », selon Europe 1.",
+     "sources": [
+      "ba3af27230f7"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron : « Quand ce ne sont pas des organisations syndicales, partout où on le peut, on interdira ». Les préfets proposeront aux syndicats « des tracés alternatifs », selon La Dépêche du Midi.",
+     "sources": [
+      "91670ad97114"
+     ]
+    },
+    {
+     "text": "À Paris, la préfecture de police indique que la manifestation de la CGT entre Bastille et Nation « pourra se tenir ». Le parcours du collectif Interfac et de gilets jaunes vers l'Opéra « fera l'objet d'un arrêté d'interdiction », selon La Dépêche du Midi.",
+     "sources": [
+      "91670ad97114"
+     ]
+    },
+    {
+     "text": "Selon Ouest-France, le gouvernement annonce « 20 % » de forces de l'ordre en plus par rapport au 17 octobre. Emmanuel Macron reconnaît « des défauts d'anticipation » et dit que Sébastien Lecornu réunira lundi les organisations lycéennes et étudiantes.",
+     "sources": [
+      "0d71b5cac397"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau accuse le pouvoir de « jouer petit bras » et réclame le recours à l'état d'urgence : « Quand c'est de pire en pire, on tape du poing sur la table », selon L'Humanité.",
+     "sources": [
+      "cc0e15aa6d5d"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwN2ZhNDBjNTc2ZmYyYjYxOTg5NzZkMGRlODdlY2RhOWY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0ef604719c9c3d67dd1b8df24ba63ab72b60be1d658aa487e9fcaf2f147bacf4",
+    "source": "Ouest-France",
+    "article_url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+    "article_id": "0d71b5cac397"
+   },
+   "id": 163,
+   "section": "institutions",
+   "reviewed_at": "2026-10-22T11:17:19+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "0d71b5cac397",
+     "name": "Ouest-France",
+     "kind": "media",
+     "title": "Tracés des manifestations du 24 octobre, conseil de défense… Ce qu’il faut retenir de l’intervention d’Emmanuel Macron",
+     "url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+     "published_at": "2026-10-22T10:39:58+00:00",
+     "snippet": "Le président de la République Emmanuel Macron s’est exprimé à l’issue d’un conseil de sécurité qui s’est tenu jeudi 22 octobre 2026 à l’Élysée. On fait le point sur les informations à retenir."
+    },
+    {
+     "id": "8767701e978b",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Violences du 17 octobre: Emmanuel Macron dénonce des \"actes politiques et même séditieux\" visant à \"faire tomber la République\"",
+     "url": "https://www.bfmtv.com/politique/elysee/violences-du-17-octobre-emmanuel-macron-denonce-des-actes-politiques-et-meme-seditieux-visant-a-faire-tomber-la-republique_AV-202610220514.html",
+     "published_at": "2026-10-22T10:55:49+00:00",
+     "snippet": "À deux jours d'une nouvelle journée de manifestation dans plusieurs villes de France, le président de la République s'est exprimé sur les événements violents du week-end dernier qui, selon lui, visaient à \"faire tomber la République\"."
+    },
+    {
+     "id": "91670ad97114",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Manifestations du 24 octobre : Emmanuel Macron dénonce une volonté de l'ultragauche de \"faire tomber la République\" et annonce réunir un conseil de défense",
+     "url": "https://www.ladepeche.fr/2026/10/22/direct-manifestations-du-24-octobre-emmanuel-macron-convoque-le-renseignement-a-lelysee-sebastien-lecornu-recoit-les-partis-politiques-a-matignon-13614677.php",
+     "published_at": "2026-10-22T10:52:43+00:00",
+     "snippet": "Suivez toute l'actualité liée aux suites des manifestations et des violences du 17 octobre, ainsi qu'à la préparation de l'acte II, annoncé ce samedi 24 octobre, en direct sur ladepeche.fr"
+    },
+    {
+     "id": "ba3af27230f7",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Violences : Emmanuel Macron dénonce une volonté de l'ultragauche de «faire tomber la République»",
+     "url": "https://www.europe1.fr/politique/violences-emmanuel-macron-denonce-une-volonte-de-lultragauche-de-faire-tomber-la-republique-1173594?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-22T10:52:08+00:00",
+     "snippet": "Ce jeudi, Emmanuel Macron a tenu un conseil de sécurité au palais de l'Élysée. À l'issue de cette réunion, le chef de l'État a pris la parole et s'en est pris aux groupes \"d'ultragauche\" qui souhaitent \"faire tomber la République\". Emmanuel Macron a dénoncé jeudi des \"actes séditieux\" de groupes \"d'ultragauche\" d'une \"extrême dangerosité\" visant à \"faire tomber la République\" et des \"actes de délinquance\" réclamant aussi \"la plus grande dureté\", dans les violences et pillages commis en marge des manifestations contre la \"vie chère\" samedi. \"Nous avons eu tout à la fois des actes politiques et "
+    },
+    {
+     "id": "cc0e15aa6d5d",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Emmanuel Macron interdit toute manifestation en dehors de celles organisées par les syndicats",
+     "url": "https://www.humanite.fr/-/-/emmanuel-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats",
+     "published_at": "2026-10-22T10:28:00+00:00",
+     "snippet": "A l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement Emmanuel Macron s’est exprimé en direct du palais de l’Elysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester, de se regrouper, les demandes seront interdites par les préfets »,…"
     }
    ]
   },
@@ -1440,7 +1569,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.43,
+   "score": 3.42,
    "sources": [
     {
      "id": "14ddfc9edd6d",
