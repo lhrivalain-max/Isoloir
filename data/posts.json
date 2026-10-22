@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T11:17:36+00:00",
+ "generated_at": "2026-10-22T11:17:46+00:00",
  "posts": [
   {
    "headline": "Congrès du RN à Orléans : contre-manifestation, dispositif de sécurité et polémique sur l'annulation",
@@ -400,6 +400,119 @@
      "url": "https://www.humanite.fr/-/-/emmanuel-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats",
      "published_at": "2026-10-22T10:28:00+00:00",
      "snippet": "A l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement Emmanuel Macron s’est exprimé en direct du palais de l’Elysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester, de se regrouper, les demandes seront interdites par les préfets »,…"
+    }
+   ]
+  },
+  {
+   "headline": "Sébastien Delogu : cinq ans d'inéligibilité requis contre le député LFI, décision le 11 décembre",
+   "chapo": "Mercredi 21 octobre à Marseille, le parquet a requis deux ans de prison avec sursis et cinq ans d'inéligibilité avec exécution immédiate contre le député LFI, jugé pour avoir diffusé des documents privés volés à un chef d'entreprise. Il a présenté ses excuses et gardé le silence. Le jugement est attendu le 11 décembre.",
+   "points": [
+    {
+     "text": "Le parquet de Marseille a requis deux ans de prison avec sursis et cinq ans d'inéligibilité avec exécution immédiate, selon franceinfo. Selon L'Humanité, s'y ajoutent 10 000 euros d'amende. Le jugement a été mis en délibéré au 11 décembre.",
+     "sources": [
+      "dbe86a479058",
+      "4943e3e6cc0c"
+     ]
+    },
+    {
+     "text": "Sébastien Delogu est jugé pour avoir publié sur Instagram, en 2024, des correspondances privées d'Isidore Aragones, ancien dirigeant du Crif, qui avaient été volées lors d'une grève de ses salariés, selon franceinfo.",
+     "sources": [
+      "dbe86a479058"
+     ]
+    },
+    {
+     "text": "Il était poursuivi pour recel de biens provenant d'un vol, divulgation d'informations personnelles et atteinte au secret des correspondances, et risquait cinq ans de prison et 750 000 euros d'amende, selon CNews.",
+     "sources": [
+      "5333a3f449e8"
+     ]
+    },
+    {
+     "text": "La procureure Audrey Jouaneton justifie l'inéligibilité par « la gravité des faits » : le tribunal ne peut pas « permettre qu'il continue d'exercer » son mandat, car « il a sali la fonction », selon franceinfo.",
+     "sources": [
+      "dbe86a479058"
+     ]
+    },
+    {
+     "text": "Selon L'Humanité, la procureure estime qu'Isidore Aragones a été « stigmatisé en tant que juif » dans le contexte de « l'importation du conflit » israélo-palestinien. Sébastien Delogu, qui reconnaît « des maladresses », répond : « Jamais je ne me permettrais de parler de communauté juive ».",
+     "sources": [
+      "4943e3e6cc0c"
+     ]
+    },
+    {
+     "text": "À la barre, l'élu a fait valoir son droit au silence et a simplement présenté ses excuses, sans expliquer ses motivations, selon franceinfo. Selon Le Monde, il explique avoir été « mal conseillé ».",
+     "sources": [
+      "dbe86a479058",
+      "9d774c1c8f51"
+     ]
+    },
+    {
+     "text": "Isidore Aragones dit que ces publications l'ont « mis en danger » et fait de lui « une cible » : « Je vis dans la peur », selon CNews.",
+     "sources": [
+      "5333a3f449e8"
+     ]
+    },
+    {
+     "text": "Selon L'Humanité, la même peine d'inéligibilité avec application immédiate avait été infligée à Marine Le Pen en première instance. Selon CNews, Sébastien Delogu avait été condamné en 2025 à 5 000 euros d'amende pour « violences aggravées ».",
+     "sources": [
+      "4943e3e6cc0c",
+      "5333a3f449e8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/2bsX_icEST5BjNTvSfvkIQg6L3U/0x0:1024x576/432x243/filters:format(jpg)/2026/10/21/6ad909a96853f297007028.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-ans-d-ineligibilite-requis-contre-le-depute-lfi-sebastien-delogu-pour-recel-et-divulgation-d-informations-privees_8247868.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "dbe86a479058"
+   },
+   "id": 160,
+   "section": "institutions",
+   "reviewed_at": "2026-10-22T11:17:46+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "4943e3e6cc0c",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Affaire des documents volés : inéligibilité immédiate, prison avec sursis et amende, une lourde peine requise contre le député LFI Sébastien Delogu",
+     "url": "https://www.humanite.fr/politique/crif/affaire-des-documents-voles-ineligibilite-immediate-prison-avec-sursis-et-amende-une-lourde-peine-requise-contre-le-depute-lfi-sebastien-delogu",
+     "published_at": "2026-10-22T09:30:00+00:00",
+     "snippet": "Le parquet a requis mercredi 21 octobre à Marseille une lourde peine de cinq ans d’inéligibilité immédiate à l’encontre du député LFI, poursuivi pour avoir divulgué des documents privés d’un chef d’entreprise lors d’un conflit social."
+    },
+    {
+     "id": "5333a3f449e8",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Sébastien Delogu : cinq ans d'inéligibilité avec exécution immédiate requis contre le député LFI, poursuivi pour diffusion de documents issus d’un vol",
+     "url": "https://www.cnews.fr/france/2026-10-21/sebastien-delogu-cinq-ans-dineligibilite-avec-execution-immediate-requis-contre",
+     "published_at": "2026-10-21T19:05:00+00:00",
+     "snippet": "Le parquet a requis, ce mercredi, une inéligibilité de cinq ans à l’encontre du député LFI Sébastien Delogu, poursuivi pour avoir diffusé sur les réseaux sociaux des documents personnels volés à un entrepreneur à qui il reprochait ses liens avec Israël. Au cours du procès du député LFI Sébastien Delogu qui s’est tenu ce jour à Marseille, le parquet a requis deux ans de prison avec sursis et une inéligibilité de cinq ans, avec exécution immédiate, à l'encontre du parlementaire, poursuivi pour avoir divulgué des documents privés, volés à un chef d'entreprise lors d'un conflit social. La décision"
+    },
+    {
+     "id": "9d774c1c8f51",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Au tribunal de Marseille, les excuses maladroites du député Sébastien Delogu menacé d’inéligibilité",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/21/au-tribunal-de-marseille-les-excuses-maladroites-du-depute-delogu-menace-d-ineligibilite_6798309_823448.html",
+     "published_at": "2026-10-21T20:00:07+00:00",
+     "snippet": "Accusé en 2024 d’avoir diffusé sur ses réseaux sociaux des documents volés à une figure de la communauté juive, l’élu La France insoumise explique avoir été « mal conseillé »."
+    },
+    {
+     "id": "dbe86a479058",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Cinq ans d'inéligibilité, avec exécution immédiate, requis contre le député LFI Sébastien Delogu pour recel et divulgation d'informations privées",
+     "url": "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-ans-d-ineligibilite-requis-contre-le-depute-lfi-sebastien-delogu-pour-recel-et-divulgation-d-informations-privees_8247868.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-21T18:57:48+00:00",
+     "snippet": "La procureure a également requis deux ans de prison avec sursis à l'encontre de l'élu marseillais, qui a gardé le silence."
     }
    ]
   },
