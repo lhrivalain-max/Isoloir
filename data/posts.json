@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T11:17:27+00:00",
+ "generated_at": "2026-10-22T11:17:36+00:00",
  "posts": [
   {
    "headline": "Congrès du RN à Orléans : contre-manifestation, dispositif de sécurité et polémique sur l'annulation",
@@ -400,6 +400,110 @@
      "url": "https://www.humanite.fr/-/-/emmanuel-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats",
      "published_at": "2026-10-22T10:28:00+00:00",
      "snippet": "A l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement Emmanuel Macron s’est exprimé en direct du palais de l’Elysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester, de se regrouper, les demandes seront interdites par les préfets »,…"
+    }
+   ]
+  },
+  {
+   "headline": "Encadrement des loyers : le Sénat prolonge le dispositif de deux ans, sans l'étendre",
+   "chapo": "Mercredi 21 octobre, le Sénat a adopté par 325 voix contre 17 la prolongation de l'encadrement des loyers jusqu'en 2028, dans les communes qui l'appliquent déjà. Il a écarté la pérennisation et l'extension prévues par les députés. Le texte doit revenir à l'Assemblée avant le 24 novembre.",
+   "points": [
+    {
+     "text": "Le Sénat a adopté la prolongation par 325 voix contre 17, sur 342 suffrages exprimés. Le texte a été voté par tous les groupes sauf le RN, selon Le Monde, qui parle d'une « union sacrée autour du plus petit dénominateur commun ».",
+     "sources": [
+      "38c5fdc02bde",
+      "7504a7d75e4c"
+     ]
+    },
+    {
+     "text": "Le dispositif plafonne le loyer qu'un propriétaire peut demander dans neuf territoires, dont Paris, Lille, Lyon-Villeurbanne, Bordeaux et Montpellier. Il concerne 1,2 million de locataires, sur 7,7 millions dans le parc privé, selon la Cour des comptes citée par Midi Libre.",
+     "sources": [
+      "0003186580f9"
+     ]
+    },
+    {
+     "text": "Le texte de la proposition de loi socialiste visait une pérennisation et un élargissement. Les sénateurs ont préféré une prolongation de deux ans à périmètre constant : le dispositif ne sera ni étendu ni renforcé, selon Le Monde.",
+     "sources": [
+      "38c5fdc02bde"
+     ]
+    },
+    {
+     "text": "Le ministre du Logement Vincent Jeanbrun : « Le gouvernement accepte la prolongation de deux ans de cette expérimentation pour les communes déjà bénéficiaires et uniquement pour celles-ci », selon Midi Libre.",
+     "sources": [
+      "0003186580f9"
+     ]
+    },
+    {
+     "text": "Selon L'Humanité, la majorité de droite du Sénat a écarté la pérennisation, l'élargissement et le renforcement. Sans adoption définitive avant le 24 novembre, le dispositif pourrait disparaître, selon Le Monde et L'Humanité.",
+     "sources": [
+      "7504a7d75e4c",
+      "38c5fdc02bde"
+     ]
+    },
+    {
+     "text": "Le député socialiste Iñaki Echaniz, auteur du texte, a clamé « victoire », selon Le Monde. Il y voit « une véritable avancée pour protéger le pouvoir d'achat de millions de locataires ». Ian Brossat, sénateur communiste de Paris : ce compromis « nous permet d'échapper au pire », selon Midi Libre.",
+     "sources": [
+      "38c5fdc02bde",
+      "0003186580f9"
+     ]
+    },
+    {
+     "text": "Selon Midi Libre, le dispositif est décrié par des fédérations de l'immobilier et des associations de propriétaires, et défendu par les associations de défense des locataires. Que Choisir Ensemble regrette que les sénateurs se soient « arrêtés au milieu du chemin ».",
+     "sources": [
+      "0003186580f9"
+     ]
+    },
+    {
+     "text": "Selon le baromètre de la Fondation pour le logement cité par L'Humanité, 46 % des annonces parisiennes dépassaient le plafond légal entre août 2025 et août 2026, contre 31 % un an plus tôt.",
+     "sources": [
+      "7504a7d75e4c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/21/127/0/6720/3360/644/322/60/0/e98a359_upload-1-tvlfdthko1qy-cbi1349065.JPG",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
+    "article_id": "38c5fdc02bde"
+   },
+   "id": 161,
+   "section": "institutions",
+   "reviewed_at": "2026-10-22T11:17:36+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "0003186580f9",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Le Sénat vote la prolongation de l’encadrement des loyers, mais bloque son extension à d’autres villes",
+     "url": "https://www.midilibre.fr/2026/10/22/le-senat-vote-la-prolongation-de-lencadrement-des-loyers-mais-bloque-son-extension-a-dautres-villes-13614061.php",
+     "published_at": "2026-10-22T05:48:58+00:00",
+     "snippet": "Le Sénat a adopté mercredi 21 octobre la prolongation pour deux ans de l’encadrement des loyers, par 325 voix contre 17. Le texte maintient ce plafonnement à périmètre constant dans neuf territoires, dont Paris,..."
+    },
+    {
+     "id": "38c5fdc02bde",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Encadrement des loyers : le Sénat adopte la prolongation du dispositif dans une version minimaliste",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
+     "published_at": "2026-10-22T02:00:00+00:00",
+     "snippet": "Les sénateurs ont adopté, par 325 voix contre 17, une proposition de loi socialiste reconduisant pour deux ans le dispositif dans les 71 villes qui l’expérimentent déjà. Mais il ne sera pas étendu ni renforcé. Le texte devrait revenir à l’Assemblée nationale avant la date butoir du 24 novembre."
+    },
+    {
+     "id": "7504a7d75e4c",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Encadrement des loyers : le Sénat prolonge le dispositif de deux ans, mais refuse toujours de le pérenniser",
+     "url": "https://www.humanite.fr/societe/droit-au-logement/encadrement-des-loyers-le-senat-prolonge-le-dispositif-de-deux-ans-mais-refuse-toujours-de-le-perenniser",
+     "published_at": "2026-10-22T09:45:32+00:00",
+     "snippet": "L’encadrement des loyers pourrait obtenir un nouveau sursis. Le Sénat a voté, mercredi 21 octobre, sa prolongation pour deux ans dans les quelque 70 communes où il s’applique. Mais la majorité de droite a écarté sa pérennisation, son élargissement et son renforcement."
     }
    ]
   },
