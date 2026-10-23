@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:11:10+00:00",
+ "generated_at": "2026-10-23T08:09:56+00:00",
  "posts": [
   {
    "headline": "Congrès du RN à Orléans : contre-manifestation, dispositif de sécurité et polémique sur l'annulation",
@@ -72,7 +72,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.95,
+   "score": 9.63,
    "sources": [
     {
      "id": "1fedd0395cdd",
@@ -207,7 +207,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.91,
+   "score": 7.62,
    "sources": [
     {
      "id": "001d50188857",
@@ -354,7 +354,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.46,
+   "score": 8.02,
    "sources": [
     {
      "id": "0d71b5cac397",
@@ -476,7 +476,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.97,
+   "score": 6.42,
    "sources": [
     {
      "id": "4943e3e6cc0c",
@@ -589,7 +589,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.48,
+   "score": 4.81,
    "sources": [
     {
      "id": "0003186580f9",
@@ -688,7 +688,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.76,
+   "score": 5.2,
    "sources": [
     {
      "id": "35c292c5bae9",
@@ -809,7 +809,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.76,
+   "score": 5.2,
    "sources": [
     {
      "id": "15a8bf919944",
@@ -932,7 +932,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.76,
+   "score": 5.2,
    "sources": [
     {
      "id": "1fb1b032d565",
@@ -1047,7 +1047,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.4,
+   "score": 4.16,
    "sources": [
     {
      "id": "18e017214635",
@@ -1166,7 +1166,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.91,
+   "score": 5.67,
    "sources": [
     {
      "id": "35795754b3d0",
@@ -1307,7 +1307,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.93,
+   "score": 4.86,
    "sources": [
     {
      "id": "0bb12ff48921",
@@ -1429,7 +1429,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.93,
+   "score": 4.86,
    "sources": [
     {
      "id": "433f5d275fb7",
@@ -1559,7 +1559,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.94,
+   "score": 4.05,
    "sources": [
     {
      "id": "5b62344298fc",
@@ -1680,7 +1680,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.95,
+   "score": 3.24,
    "sources": [
     {
      "id": "052a6c386254",
@@ -1717,254 +1717,6 @@
      "url": "https://www.huffingtonpost.fr/politique/article/l-assemblee-nationale-valide-la-creation-d-une-commission-d-enquete-sur-les-violences-urbaines_342320.html",
      "published_at": "2026-10-20T10:44:14+00:00",
      "snippet": "Après le Sénat, l’Assemblée nationale annonce le lancement d’une enquête sur les violences en marge du 17 octobre, et le dispositif de maintien de l’ordre déployé par le gouvernement."
-    }
-   ]
-  },
-  {
-   "headline": "Après le 17 octobre, La France insoumise et Mélenchon au cœur des accusations croisées",
-   "chapo": "Le gouvernement, Les Républicains et le RN accusent La France insoumise d'avoir attisé les violences du 17 octobre. Jean-Luc Mélenchon condamne le pillage mais met en cause le maintien de l'ordre et le pouvoir.",
-   "points": [
-    {
-     "text": "Sébastien Lecornu accuse La France insoumise de vouloir faire de ces débordements « un tour de chauffe » avant la présidentielle. Il somme Jean-Luc Mélenchon de « choisir son camp » : « le camp de la République et donc des forces de l'ordre » ou celui des casseurs, selon 20 Minutes.",
-     "sources": [
-      "38c836c3739f"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon répond que le Premier ministre a « joué avec le feu, en comptant sur le pourrissement » et le juge « un commis qui est en train de provoquer une crise de régime ». Il appelle aussi à l'apaisement : « ceux qui partagent notre combat n'ont rien à faire dans le pillage, le saccage », selon 20 Minutes.",
-     "sources": [
-      "38c836c3739f"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau (LR) affirme que les élus LFI « ont armé la violence avec leurs mots d'ordre ». Il cite « Abattez la citadelle », écrit par Jean-Luc Mélenchon sur X, et la phrase du maire de Saint-Denis Bally Bagayoko, « La violence, à un moment donné, peut être légitime », que ce dernier avait nuancée : « Chaque fois qu'on peut l'éviter, c'est mieux », selon franceinfo.",
-     "sources": [
-      "522ae3e2f3b9"
-     ]
-    },
-    {
-     "text": "Selon Bruno Retailleau, Jean-Luc Mélenchon « a manipulé le mouvement des lycéens » pour « une sorte de répétition générale du troisième tour de l'élection présidentielle », selon franceinfo.",
-     "sources": [
-      "522ae3e2f3b9"
-     ]
-    },
-    {
-     "text": "Marine Le Pen juge que les « revendications sociales légitimes ont une nouvelle fois été prises en otage par l'extrême gauche » et par des députés de Jean-Luc Mélenchon qui, selon elle, « en légitimant la violence » cherchent « à précipiter le pays dans le chaos ». Le JDD note que le parti a soutenu les mobilisations avant de condamner les violences.",
-     "sources": [
-      "14ddfc9edd6d"
-     ]
-    },
-    {
-     "text": "Du côté de LFI, le député Éric Coquerel estime que le gouvernement est « principalement responsable de ce qui est en train d'arriver », selon franceinfo. Mediapart écrit que le pouvoir « essaie grossièrement de faire peser sur La France insoumise la responsabilité de l'embrasement ».",
-     "sources": [
-      "1b1c9223b92b",
-      "e30840e1bb4d"
-     ]
-    },
-    {
-     "text": "Selon 20 Minutes, Jean-Luc Mélenchon a fait de la jeunesse un pilier de sa stratégie et compte sur la mobilisation lycéenne pour gagner des points à six mois de la présidentielle. Dans un sondage Elabe réalisé avant les violences, il est crédité de 15 à 16 % au premier tour, en hausse de 1 à 2 points depuis fin août, d'après La Dépêche du Midi.",
-     "sources": [
-      "38c836c3739f",
-      "9f872caa2a2d"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/5LgcWi3cRDe9D6LowGsYfik/1200x768_17-octobre-2026-paris-france-paris-france-17-octobre-2026-des-manifestants-affrontent-la-police-anti-emeute-autour-de-la-place-de-la-republique-lors-de-manifestations-impliquant-des-lyceens-des-militants-des-gilets-jaunes-et-d-autres-groupes-contre-les-conditions-d-enseignement-et-le-cout-eleve-de-la-vie-la-police-utilise-des-gaz-lacrymogenes-et-des-canons-a-eau-lors-des-affrontements-image-de-credit-camilla-baronetto-jna-via-zuma-press-wire-20261017-zna-q101-204-zeus-2610180138",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4255258-20261018-mobilisation-17-octobre-clash-entre-lecornu-melenchon-responsabilite-violences?at_medium=display&at_campaign=149",
-    "article_id": "38c836c3739f"
-   },
-   "id": 144,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-18T19:10:21+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.28,
-   "sources": [
-    {
-     "id": "14ddfc9edd6d",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Émeutes du 17 octobre : Marine Le Pen fustige la «stratégie incendiaire» de LFI",
-     "url": "https://www.lejdd.fr/politique/emeutes-du-17-octobre-marine-le-pen-fustige-la-strategie-incendiaire-de-lfi-186336",
-     "published_at": "2026-10-18T07:37:57+00:00",
-     "snippet": "Les violences survenues en marge des mobilisations du 17 octobre ont suscité la colère de Marine Le Pen. La candidate à la présidentielle pointe la responsabilité de La France insoumise."
-    },
-    {
-     "id": "1b1c9223b92b",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Le gouvernement est \"principalement responsable de ce qui est en train d’arriver\", dénonce Éric Coquerel au lendemain des violences du 17 octobre",
-     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-est-principalement-responsable-de-ce-qui-est-en-train-d-arriver-denonce-eric-coquerel-au-lendemain-des-violences-du-17-octobre_8242570.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-18T08:46:45+00:00",
-     "snippet": "Le député LFI de Seine-Saint-Denis souligne que les insoumis n'étaient samedi que \"dans les rassemblements pacifiques\" et considère que le gouvernement \"ne comprend pas la situation qu'il a lui-même déclenchée.\""
-    },
-    {
-     "id": "38c836c3739f",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Mobilisation du 17 octobre : Clash entre Lecornu et Mélenchon sur la responsabilité des violences",
-     "url": "https://www.20minutes.fr/politique/4255258-20261018-mobilisation-17-octobre-clash-entre-lecornu-melenchon-responsabilite-violences?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-18T00:36:14+00:00",
-     "snippet": "Le Premier ministre et le leader de LFI se rejettent la faute des affrontements, dégradations et pillages à Paris, Lyon, Marseille, Lille, Nice ou encore Limoges"
-    },
-    {
-     "id": "522ae3e2f3b9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Les élus LFI \"ont armé la violence avec leurs mots d'ordre\", accuse le président de LR Bruno Retailleau",
-     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-elus-lfi-ont-arme-la-violence-avec-leurs-mots-d-ordre-accuse-le-president-de-lr-bruno-retailleau_8242834.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-18T12:54:41+00:00",
-     "snippet": "Le candidat LR à la présidentielle accuse La France insoumise d'avoir plus ou moins directement provoqué les scènes de violences et de pillages en marge de la mobilisation du 17 octobre."
-    },
-    {
-     "id": "9f872caa2a2d",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 - sondage : Marine Le Pen loin devant, Édouard Philippe, Raphaël Glucksmann et Jean-Luc Mélenchon dans un mouchoir de poche pour le second tour dans les intentions de vote",
-     "url": "https://www.ladepeche.fr/2026/10/18/presidentielle-2027-sondage-marine-le-pen-loin-devant-edouard-philippe-raphael-glucksmann-et-jean-luc-melenchon-dans-un-mouchoir-de-poche-pour-le-13608140.php",
-     "published_at": "2026-10-18T07:11:24+00:00",
-     "snippet": "Marine Le Pen reste donnée largement en tête des intentions de vote au premier tour de la présidentielle, selon un nouveau sondage Elabe publié ce dimanche. Rien n'est joué pour la seconde place où trois candidats..."
-    },
-    {
-     "id": "e30840e1bb4d",
-     "name": "Mediapart",
-     "kind": "media",
-     "title": "Acculé après le fiasco du 17 octobre, le pouvoir se défausse sur LFI",
-     "url": "https://www.mediapart.fr/journal/politique/181026/accule-apres-le-fiasco-du-17-octobre-le-pouvoir-se-defausse-sur-lfi",
-     "published_at": "2026-10-18T10:33:17+00:00",
-     "snippet": "Depuis un mois le pouvoir tente d’étouffer la contestation sociale par le mépris, la répression et le discrédit. Au lendemain d’une mobilisation massive marquée par des scènes de chaos sans précédent, il essaie grossièrement de faire peser sur La France insoumise la responsabilité de l’embrasement. Pour le plus grand plaisir de l’extrême droite."
-    }
-   ]
-  },
-  {
-   "headline": "Allocution d'Emmanuel Macron après le 17 octobre : fermeté annoncée, réactions partagées",
-   "chapo": "Dimanche 18 octobre, depuis l'Élysée, Emmanuel Macron a promis la fermeté face aux casseurs et demandé « toute la transparence » sur le maintien de l'ordre. À gauche comme à droite, plusieurs responsables jugent le discours insuffisant.",
-   "points": [
-    {
-     "text": "Emmanuel Macron a parlé d'« un moment d'une extrême gravité » : « Hier, samedi 17 octobre, des factieux issus de groupuscules d'ultra-gauche, rejoints par de nombreux délinquants, se sont livrés à une violence débridée dans nos villes », selon Le HuffPost. Il a ajouté : « Nous ressentons tous ce soir de la colère, de la honte ».",
-     "sources": [
-      "70fa40d49c1d"
-     ]
-    },
-    {
-     "text": "« Ceux qui ont détruit doivent payer, ceux qui ont pillé doivent rembourser », a dit le président, qui dit avoir demandé la « plus grande fermeté » aux procureurs. Une cellule de crise s'ouvre lundi pour « mobiliser toutes les aides rapides possibles » pour les commerçants et artisans touchés, selon L'Humanité.",
-     "sources": [
-      "b0ffbfb0703e"
-     ]
-    },
-    {
-     "text": "Les préfets pourront décider, avec les maires, d'« interdire » certains rassemblements, selon Europe 1. Valeurs actuelles souligne que le code de la sécurité intérieure permet déjà au préfet d'interdire une manifestation en cas de risque pour l'ordre public.",
-     "sources": [
-      "abde437bc419",
-      "59d403e277fd"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron a demandé au gouvernement, et notamment au ministre de l'Intérieur, de « tirer toutes les leçons » en matière de renseignement et d'anticipation : « J'attends des réponses claires et toute la transparence sera faite », selon Europe 1.",
-     "sources": [
-      "abde437bc419"
-     ]
-    },
-    {
-     "text": "Il a demandé de ne pas confondre les manifestants avec les casseurs (« Jamais nous ne devons (les) confondre ») et dit comprendre les lycéens et les étudiants : « Leur parole doit être entendue sans a priori et sans minimiser leurs difficultés », selon LCP.",
-     "sources": [
-      "e489cccbb5b2"
-     ]
-    },
-    {
-     "text": "Il a appelé les partis et les organisations syndicales à « condamner sans ambiguïté toutes les violences ». Sébastien Lecornu les réunira dans les prochains jours. À six mois de la présidentielle, il juge que « ceux qui vous expliquent que l'urgence est d'aller dans la rue et créer le désordre » veulent « abîmer la république et voler le débat », selon LCP et L'Humanité.",
-     "sources": [
-      "e489cccbb5b2",
-      "b0ffbfb0703e"
-     ]
-    },
-    {
-     "text": "Selon un bilan du ministère de l'Intérieur, près de 2 400 personnes ont été interpellées samedi et près d'un millier de policiers et gendarmes ont été blessés, dont sept gravement, d'après LCP.",
-     "sources": [
-      "e489cccbb5b2"
-     ]
-    },
-    {
-     "text": "À gauche, le communiste Fabien Roussel regrette : « Mais rien » sur les réponses à la vie chère, et Marine Tondelier aurait aimé « un mea culpa », selon L'Humanité. À droite, Bruno Retailleau juge le président « totalement dépassé » et demande l'état d'urgence. Valeurs actuelles écrit : « Un discours pour pas grand-chose », avec « une méthode claire, mais peu d'actes ».",
-     "sources": [
-      "b0ffbfb0703e",
-      "59d403e277fd"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Capture%20d%E2%80%99e%CC%81cran%202026-10-18%20a%CC%80%2020.37.34.png?h=bcc57501&itok=HPgurky5",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/violences-du-17-octobre-pour-emmanuel-macron-ceux-qui-ont-detruit-doivent-payer-443949",
-    "article_id": "e489cccbb5b2",
-    "focus_x": 0.5133333333333333,
-    "focus_y": 0.132358280002433
-   },
-   "id": 145,
-   "section": "institutions",
-   "reviewed_at": "2026-10-18T19:10:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.08,
-   "sources": [
-    {
-     "id": "59d403e277fd",
-     "name": "Valeurs actuelles",
-     "kind": "media",
-     "title": "17 octobre : Emmanuel Macron présente une méthode claire, mais peu d’actes",
-     "url": "https://www.valeursactuelles.com/politique/17-octobre-emmanuel-macron-presente-une-methode-claire-mais-peu-dactes",
-     "published_at": "2026-10-18T18:38:29+00:00",
-     "snippet": "Un discours pour pas grand-chose. Dimanche soir, au terme d’un week-end marqué par d’importantes manifestations et des dégradations qui resteront longtemps dans les esprits, Emmanuel Macron a donné une brève... L’article 17 octobre : Emmanuel Macron présente une méthode claire, mais peu d’actes est apparu en premier sur Valeurs actuelles ."
-    },
-    {
-     "id": "70fa40d49c1d",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "« Qu’ont-ils dans la tête ? » : la « colère » et la « honte » d’Emmanuel Macron après les émeutes",
-     "url": "https://www.huffingtonpost.fr/politique/video/qu-ont-ils-dans-la-tete-la-colere-et-la-honte-d-emmanuel-macron-apres-les-emeutes_341618.html",
-     "published_at": "2026-10-18T18:59:01+00:00",
-     "snippet": "Le président de la République s’est adressé aux Français dimanche soir, au lendemain d’émeutes inédites dans le pays."
-    },
-    {
-     "id": "abde437bc419",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Casseurs, préfets, présidentielle... Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron",
-     "url": "https://www.europe1.fr/politique/casseurs-prefets-presidentielle-ce-quil-faut-retenir-de-la-prise-de-parole-demmanuel-macron-1160943?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-18T18:38:00+00:00",
-     "snippet": "Au lendemain des violences et des scènes de pillages qui ont éclaté après les manifestations contre la vie chère, Emmanuel Macron a prononcé une allocution dans laquelle il a promis que l'État serait \"intraitable\" face aux casseurs, les préfets pourront \"interdire\" certains rassemblements. Mais le chef de l'État a également évoqué la prochaine présidentielle. Les scènes de pillages et de violences ont fait le tour du monde et ont choqué. Face à cette situation, Emmanuel Macron a prononcé une allocution aux Français. Depuis le palais de l'Élysée, le chef de l'État a promis que l'exécutif sera \""
-    },
-    {
-     "id": "b0ffbfb0703e",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Ceux qui vous expliquent que l’urgence est d’aller dans la rue n’ont qu’un but : abîmer la république » : ce qu’il faut retenir de l’allocution d’Emmanuel Macron",
-     "url": "https://www.humanite.fr/politique/emmanuel-macron/ceux-qui-vous-expliquent-que-lurgence-est-daller-dans-la-rue-nont-quun-but-abimer-la-republique-ce-quil-faut-retenir",
-     "published_at": "2026-10-18T18:43:10+00:00",
-     "snippet": "Au lendemain d’une journée de mobilisation émaillée par des violences et des scènes de pillages, Emmanuel Macron s’est adressé aux Français à l’occasion d’une allocution ce dimanche 18 octobre."
-    },
-    {
-     "id": "e489cccbb5b2",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Violences du 17 octobre: pour Emmanuel Macron, \"ceux qui ont détruit doivent payer\"",
-     "url": "https://lcp.fr/actualites/violences-du-17-octobre-pour-emmanuel-macron-ceux-qui-ont-detruit-doivent-payer-443949",
-     "published_at": "2026-10-18T19:02:26+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Dimanche 18 octobre 2026 à 20:43 Le chef de l'Etat, Emmanuel Macron, a pris la parole dimanche soir au lendemain des violences et pillages en marge des manifestations du 17 octobre. \"Ceux qui ont cherché à faire tomber la République auront à en répondre\", a-t-il déclaré, assurant par ailleurs \"entendre la colère\" des lycéens et étudiants. Le Président a aussi eu un mot à l'égard des responsables politiques à six mois de la présidentielle. Ce dimanche soir, lors d'une allocution télévisée, Emmanuel Macron a parlé \"d'un moment d'une extrême gravité\". \"Hier (same"
     }
    ]
   }
