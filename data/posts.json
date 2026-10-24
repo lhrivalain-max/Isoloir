@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:58:39+00:00",
+ "generated_at": "2026-10-24T10:57:17+00:00",
  "posts": [
   {
    "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
@@ -74,7 +74,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 21.0,
+   "score": 20.18,
    "sources": [
     {
      "id": "115735dc9542",
@@ -214,7 +214,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.29,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -355,7 +355,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 19.0,
+   "score": 18.26,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -495,7 +495,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.3,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -550,6 +550,126 @@
      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
      "published_at": "2026-10-24T09:26:08+00:00",
      "snippet": "Par Maxence Kagni , le Vendredi 23 octobre 2026 à 16:23 Un homme a tiré en rafale vendredi depuis une voiture dans les rues de Trappes et de La Verrière dans les Yvelines, tuant une personne et en blessant au moins quatre, dont une enfant. La classe politique dénonce unanimement cette attaque dont s'est saisi le parquet antiterroriste, la gauche insistant sur son caractère raciste. Ce vendredi, un homme âgé de 39 ans est suspecté d'avoir ouvert le feu à l'arme automatique sur des passants dans les rues de Trappes et de La Verrière dans les Yvelines, tuant une personne et en blessant au moins q"
+    }
+   ]
+  },
+  {
+   "headline": "Villepin : où en est sa candidature, entre parrainages et appel à « la paix civile »",
+   "chapo": "Dominique de Villepin n'a pas officialisé sa candidature à la présidentielle, mais dit avoir dépassé la barre des 300 signatures d'élus. Il faut en réunir 500. Il a aussi proposé une plateforme commune anticrise aux autres candidats. Son pari est salué par certains, moqué par d'autres.",
+   "points": [
+    {
+     "text": "Selon LCP, l'ancien Premier ministre est en quête des 500 signatures d'élus, préalable incontournable d'une éventuelle candidature. Invité de BFMTV, il dit avoir « dépassé la barre des 300 signatures », évoquant « un combat ».",
+     "sources": [
+      "6e732759d089"
+     ]
+    },
+    {
+     "text": "Il décrit la difficulté : « C'est difficile dans le contexte actuel compte tenu du nombre de candidats ». Il annonce qu'il fera connaître sa décision « au cours des prochaines semaines », selon LCP.",
+     "sources": [
+      "6e732759d089"
+     ]
+    },
+    {
+     "text": "Sur le terrain, LCP rappelle qu'il est régulièrement crédité entre 1 et 4 % dans les sondages de ces derniers mois. Le Canard enchaîné parle de « résultats nettement moins pétaradants que ses discours : 3 % d'intentions de vote ».",
+     "sources": [
+      "6e732759d089",
+      "343afa741b42"
+     ]
+    },
+    {
+     "text": "Après les violences du 17 octobre, Le Parisien rapporte qu'il lance, dans une vidéo, un « appel à la paix civile et sociale » et veut réunir ses rivaux sur « une plate-forme commune anticrise ». Il dit que « la guerre civile frappe à la porte ».",
+     "sources": [
+      "4215d58e98fc"
+     ]
+    },
+    {
+     "text": "Il présente le Rassemblement national comme la force qui se rapproche du pouvoir à « chaque image de barricade en feu », et La France insoumise comme celle qui se renforce à « chaque image de violence commise par des policiers », selon Le Parisien.",
+     "sources": [
+      "4215d58e98fc"
+     ]
+    },
+    {
+     "text": "Selon CNews, il plaide pour des « États Généraux de la République » et des consultations au niveau des communes. Les engagements cités : revenir sous les 3 % de déficit public pendant le quinquennat, rester dans l'Union européenne, respecter l'État de droit ou bâtir une intelligence artificielle souveraine.",
+     "sources": [
+      "3a3e1b34bd19"
+     ]
+    },
+    {
+     "text": "Sur BFMTV, il a déploré la « logique du bouc émissaire » au sommet de l'État, alors que l'exécutif pointe la responsabilité de LFI dans les pillages du 17 octobre. Pour lui, « cette logique va enflammer le pays et mettre le feu à la République », rapporte Libération. Le journal le juge « l'un des rares, à droite, à tenir un discours de raison ».",
+     "sources": [
+      "2ce086fce328"
+     ]
+    },
+    {
+     "text": "Le Canard enchaîné est plus critique : il l'accuse de vilipender Emmanuel Macron tout en jouant à fond du « en même temps ».",
+     "sources": [
+      "343afa741b42"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-08/AFP__20260605__HL_RDOUCELIN_3185128__v1__HighRes__FranceDominiqueDeVillepinSaintEtie.jpg?h=c3566377&itok=UzdU4RbY",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
+    "article_id": "6e732759d089"
+   },
+   "id": 171,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-24T10:57:17+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "2ce086fce328",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Villepin dénonce l’amalgame entre LFI et ultragauche et défonce la «logique du bouc émissaire» du gouvernement",
+     "url": "https://www.liberation.fr/politique/villepin-denonce-lamalgame-entre-lfi-et-ultragauche-et-defonce-la-logique-du-bouc-emissaire-du-gouvernement-20261023_PMICIJJWBNDLNBYZVBI7JE76NU/",
+     "published_at": "2026-10-23T12:44:37+00:00",
+     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
+    },
+    {
+     "id": "343afa741b42",
+     "name": "Le Canard enchaîné",
+     "kind": "media",
+     "title": "Présidentielle 2027 Un Villepin complet en autopromotion",
+     "url": "https://www.lecanardenchaine.fr/dossiers/le-catalogue-de-la-presidentielle-2027/55016-un-villepin-complet-en-autopromotion",
+     "published_at": "2026-10-17T06:01:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "3a3e1b34bd19",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : face au risque d'une «guerre civile», Dominique de Villepin appelle tous les candidats à se réunir",
+     "url": "https://www.cnews.fr/france/2026-10-21/presidentielle-2027-face-au-risque-dune-guerre-civile-dominique-de-villepin",
+     "published_at": "2026-10-21T20:20:00+00:00",
+     "snippet": "Ce mercredi, Dominique de Villepin a appelé ses rivaux à s'entendre sur «une plateforme commune anticrise». Il estime que «la guerre civile frappe à la porte» de la France Une initiative solidaire. Ce mercredi, Dominique de Villepin a appelé tous les candidats à l 'élection présidentielle et leurs partis à se réunir via «une plateforme commune anticrise». «La campagne ne peut pas continuer comme avant», a-t-il assuré. Dans une longue vidéo publiée sur les réseaux sociaux, l'ancien Premier ministre a estimé que «la guerre civile frappe à la porte». «Le danger, c'est maintenant. C'est la déchiru"
+    },
+    {
+     "id": "4215d58e98fc",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin appelle les candidats à se réunir via « une plate-forme commune anticrise »",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-dominique-de-villepin-appelle-les-candidats-a-se-reunir-via-une-plate-forme-commune-anticrise-22-10-2026-VSHLWWJ66FBR7CQJXDLECSK5MY.php",
+     "published_at": "2026-10-24T09:26:05+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "6e732759d089",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: Dominique de Villepin annonce avoir \"dépassé la barre des 300 signatures\"",
+     "url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
+     "published_at": "2026-10-24T09:26:08+00:00",
+     "snippet": "Par Soizic BONVARLET , le Vendredi 23 octobre 2026 à 11:57 Invité de BFMTV jeudi soir, l'ancien Premier ministre Dominique de Villepin a affiché sa volonté d'incarner une voix pour le pays en vue de la prochaine échéance présidentielle, tout en remettant sa décision définitive à plus tard. Il a cependant indiqué avoir déjà \"dépassé la barre des 300 signatures\" d'élus en vue de sa potentielle candidature. Un bulletin estampillé \"Dominique de Villepin\" sera-t-il à disposition des électeurs le 18 avril prochain ? Pour l'heure, l'ancien Premier ministre est en quête des 500 signatures d'élus, préa"
     }
    ]
   },
@@ -631,7 +751,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.87,
+   "score": 14.29,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -743,7 +863,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.86,
+   "score": 14.28,
    "sources": [
     {
      "id": "66f1e25479fc",
@@ -863,7 +983,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.11,
+   "score": 6.03,
    "sources": [
     {
      "id": "1fedd0395cdd",
@@ -992,7 +1112,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.09,
+   "score": 5.02,
    "sources": [
     {
      "id": "0d71b5cac397",
@@ -1114,7 +1234,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.07,
+   "score": 4.02,
    "sources": [
     {
      "id": "4943e3e6cc0c",
@@ -1227,7 +1347,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.06,
+   "score": 3.01,
    "sources": [
     {
      "id": "0003186580f9",
@@ -1335,7 +1455,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.55,
+   "score": 5.5,
    "sources": [
     {
      "id": "001d50188857",
@@ -1479,7 +1599,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.79,
+   "score": 3.75,
    "sources": [
     {
      "id": "35c292c5bae9",
@@ -1600,7 +1720,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.79,
+   "score": 3.75,
    "sources": [
     {
      "id": "15a8bf919944",
@@ -1723,7 +1843,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.79,
+   "score": 3.75,
    "sources": [
     {
      "id": "1fb1b032d565",
@@ -1838,7 +1958,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.03,
+   "score": 3.0,
    "sources": [
     {
      "id": "18e017214635",
@@ -1957,7 +2077,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.39,
+   "score": 4.36,
    "sources": [
     {
      "id": "35795754b3d0",
@@ -2098,7 +2218,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.77,
+   "score": 3.73,
    "sources": [
     {
      "id": "0bb12ff48921",
@@ -2220,7 +2340,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.77,
+   "score": 3.73,
    "sources": [
     {
      "id": "433f5d275fb7",
@@ -2350,7 +2470,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.14,
+   "score": 3.11,
    "sources": [
     {
      "id": "5b62344298fc",
@@ -2471,7 +2591,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.51,
+   "score": 2.49,
    "sources": [
     {
      "id": "052a6c386254",
