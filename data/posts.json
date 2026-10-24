@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T10:57:17+00:00",
+ "generated_at": "2026-10-24T10:57:30+00:00",
  "posts": [
   {
    "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
@@ -74,7 +74,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 20.18,
+   "score": 20.17,
    "sources": [
     {
      "id": "115735dc9542",
@@ -355,7 +355,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.26,
+   "score": 18.25,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -419,6 +419,147 @@
      "url": "https://www.europe1.fr/politique/limoges-letat-sera-la-pour-reconstruire-la-mairie-a-lidentique-dit-sebastien-lecornu-1177827?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-24T03:30:00+00:00",
      "snippet": "\"L'État sera là\" pour reconstruire \"à l'identique\" la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"L'État sera là\" pour reconstruire \"à l'identique\", en procédure accélérée \"Notre-Dame\", la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville\", a assuré devant la "
+    }
+   ]
+  },
+  {
+   "headline": "Moody's maintient la note de la France à Aa3 : ce que ça change pour la dette",
+   "chapo": "Moody's n'a pas dégradé la note de la France, contrairement à ce qu'attendaient la plupart des analystes, mais garde une perspective négative. Une note pèse sur le taux auquel l'État emprunte. Le gouvernement y voit un signal positif, des économistes jugent que la pression reste forte.",
+   "points": [
+    {
+     "text": "Selon Boursorama, Moody's a décidé vendredi de maintenir la note de crédit de la France à Aa3, assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à une dégradation à A1.",
+     "sources": [
+      "10922cda0006"
+     ]
+    },
+    {
+     "text": "À quoi sert une note ? Selon Europe 1, Moody's, S&P et Fitch évaluent la capacité d'un emprunteur, un État comme une grande entreprise, à rembourser ses dettes. Leur note sert d'« indicateur de confiance pour les investisseurs du monde entier ».",
+     "sources": [
+      "04d6bb28b725"
+     ]
+    },
+    {
+     "text": "Quel effet sur le coût de la dette ? Toujours selon Europe 1, quand la note baisse, le risque perçu augmente et l'État doit offrir des taux plus élevés pour convaincre les marchés. De nombreux fonds d'investissement appliquent aussi des règles qui limitent les placements en dessous d'un certain seuil de notation.",
+     "sources": [
+      "04d6bb28b725"
+     ]
+    },
+    {
+     "text": "Les taux sont déjà élevés. Selon Le Monde, le rendement des obligations françaises à 10 ans a atteint jeudi un niveau inédit depuis juin 2002, frôlant les 5,14 %. Boursorama ajoute que les coûts d'emprunt de la France dépassent déjà ceux de pays moins bien notés comme l'Italie.",
+     "sources": [
+      "4068d5eaeee3",
+      "10922cda0006"
+     ]
+    },
+    {
+     "text": "Moody's explique que sa note « part de l’hypothèse qu’un budget 2027 réduisant le déficit public sera adopté » et que les tensions sociales se modéreront. Elle souligne « le risque accru que la fragmentation du paysage politique français continue de nuire au fonctionnement des institutions législatives », rapporte Le Monde.",
+     "sources": [
+      "4068d5eaeee3"
+     ]
+    },
+    {
+     "text": "Selon CNews, le Premier ministre Sébastien Lecornu a salué une décision qui « déjoue les pronostics déclinistes ». CNews y voit « une bonne nouvelle » puisqu'une dégradation était attendue.",
+     "sources": [
+      "090b71759789"
+     ]
+    },
+    {
+     "text": "Sur franceinfo, le ministre de l'Économie Roland Lescure y voit « un avertissement à tous ceux qui veulent s'éloigner de la copie budgétaire », et « un avertissement pour ceux qui jouent la pagaille ».",
+     "sources": [
+      "b22c82eacea0"
+     ]
+    },
+    {
+     "text": "Des économistes cités par Le Monde s'attendaient à l'inverse. Pour Éric Dor (IÉSEG), une dégradation était « très plausible ». Mathieu Plane (OFCE) parle d'un « cocktail Molotov pour les marchés, qui considèrent que la France devient risquée ».",
+     "sources": [
+      "4068d5eaeee3"
+     ]
+    },
+    {
+     "text": "Anthony Morlet-Lavidalie, économiste chez Rexecode, cité par Europe 1 : « La capacité de la France à se réformer [...] est extrêmement faible ». Le prochain rendez-vous est la mise à jour de la note par S&P le 27 novembre.",
+     "sources": [
+      "04d6bb28b725"
+     ]
+    },
+    {
+     "text": "Le débat gagne la campagne présidentielle. Selon L'Obs, il a été lancé avant le 17 octobre par Jean-Luc Mélenchon, avec sa proposition de « congeler » une partie de la dette publique.",
+     "sources": [
+      "feef648f4a5e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2024/04/26/302/0/4588/2294/644/322/60/0/0b14626_5311719-01-06.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
+    "article_id": "4068d5eaeee3"
+   },
+   "id": 170,
+   "section": "institutions",
+   "reviewed_at": "2026-10-24T10:57:30+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "04d6bb28b725",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Dette française : pas de dégradation de la note chez Moody's, mais la pression reste forte",
+     "url": "https://www.europe1.fr/economie/dette-francaise-pas-de-degradation-de-la-note-chez-moodys-mais-la-pression-reste-forte-1177134",
+     "published_at": "2026-10-23T23:03:00+00:00",
+     "snippet": "L'agence de notation Moody's n'a pas dégradé la note de la France, maintenue à Aa3, mais l'assortit d'une perspective négative. L'agence était critiquée pour sa supposée mansuétude envers la France, a"
+    },
+    {
+     "id": "090b71759789",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Dette publique : l'agence Moody's maintient la note souveraine de la France, mais avec une perspective négative",
+     "url": "https://www.cnews.fr/france/2026-10-23/dette-publique-lagence-moodys-maintient-la-note-souveraine-de-la-france-mais-avec",
+     "published_at": "2026-10-23T23:01:00+00:00",
+     "snippet": "L'agence de notation Moody's a annoncé ce vendredi soir maintenir la note de la dette souveraine française à Aa3, mais avec une perspective négative. Sébastien Lecornu a salué cette décision qui «déjo"
+    },
+    {
+     "id": "10922cda0006",
+     "name": "Boursorama",
+     "kind": "media",
+     "title": "Moody's maintient la note souveraine de la France à \"Aa3\"",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-52e9ef42bff0b0b16c1ab1b8c10ca511",
+     "published_at": "2026-10-24T00:29:00+00:00",
+     "snippet": "L'agence de notation Moody's a décidé vendredi de maintenir la note de crédit de la France à \"Aa3\", assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à une dégradat"
+    },
+    {
+     "id": "4068d5eaeee3",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "L’agence Moody’s maintient la note souveraine de la France à Aa3, mais y assortit une perspective négative",
+     "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
+     "published_at": "2026-10-23T21:22:46+00:00",
+     "snippet": "Cette décision « déjoue les pronostics déclinistes de nombreux “experts” et de ceux qui spéculent sur la dette française », a salué le premier ministre, Sébastien Lecornu."
+    },
+    {
+     "id": "b22c82eacea0",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Un avertissement \"pour ceux qui jouent la pagaille\", réagit le ministre de l'Economie Roland Lescure après le maintien de la note de la France par l'agence Moody's",
+     "url": "https://www.franceinfo.fr/economie/budget/un-avertissement-pour-ceux-qui-jouent-la-pagaille-reagit-le-ministre-de-l-economie-roland-lescure-apres-le-maintien-de-la-note-de-la-france-par-l-agence-moody-s_8251963.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-24T06:22:51+00:00",
+     "snippet": "L'agence Moody's a annoncé vendredi soir maintenir la note souveraine de la France à Aa3, avec perspective négative."
+    },
+    {
+     "id": "feef648f4a5e",
+     "name": "L'Obs",
+     "kind": "media",
+     "title": "Comment régler le problème de la dette ? « Pas besoin de faire la révolution, on a déjà des outils »",
+     "url": "https://www.nouvelobs.com/economie/20261023.OBS119461/comment-regler-le-probleme-de-la-dette-pas-besoin-de-faire-la-revolution-on-a-deja-des-outils.html",
+     "published_at": "2026-10-23T15:32:20+00:00",
+     "snippet": "Les taux auxquels la France emprunte connaissent une forte poussée, faisant craindre une crise de la dette publique. Alors que l’agence Moody’s doit révéler ce vendredi la note qu’elle donne au pays, l’économiste Clara Leonard analyse la manière dont ce sujet prend corps dans la campagne."
     }
    ]
   },
@@ -495,7 +636,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.3,
+   "score": 17.29,
    "sources": [
     {
      "id": "1792233a8e91",
