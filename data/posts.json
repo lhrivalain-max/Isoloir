@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:46:00+00:00",
+ "generated_at": "2026-10-24T09:58:29+00:00",
  "posts": [
   {
    "headline": "Casseurs-payeurs : le projet de loi débute son examen au Sénat, la gauche très hostile",
@@ -79,7 +79,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.87,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -129,155 +129,133 @@
    ]
   },
   {
-   "headline": "David Lisnard : sa réponse sur le 17 octobre 1961 provoque une polémique",
-   "chapo": "Invité du 20H de TF1 puis de LCI lundi, le candidat Nouvelle Énergie a parlé des violences du week-end. Sa réponse à une question sur le 17 octobre 1961 a fait réagir la gauche. Il est par ailleurs en hausse dans les sondages.",
+   "headline": "Présidentielle : Marine Le Pen lance sa campagne à Orléans, en tête des sondages et sous tension",
+   "chapo": "Après le congrès du RN samedi, Marine Le Pen tient dimanche à Orléans son premier grand meeting de campagne, sous forte protection policière et face à une contre-manifestation. Un sondage OpinionWay la place en tête au premier tour et au second tour dans trois scénarios. La gauche débat de la façon de lui répondre.",
    "points": [
     {
-     "text": "Sur LCI, interrogé par une étudiante proche de LFI sur le 17 octobre 1961, David Lisnard répond : « Non mais je m'en fous madame, je n'en ai rien à foutre, je n'en ai rien à cirer, je n'étais pas né, depuis il y a eu l'indépendance de l'Algérie », selon 20 Minutes.",
+     "text": "Selon Le Parisien, Marine Le Pen tient dimanche son premier grand meeting à Orléans, devant près de 10 000 militants. Un responsable du RN : « Ça sera le top départ de la campagne. On va poser le narratif ».",
      "sources": [
-      "67424d109f47"
+      "c6c3ccb48436"
      ]
     },
     {
-     "text": "Il ajoute : « C'est très grave, c'est dramatique, mais c'était en 61 », et que ce n'était « pas (son) problème aujourd'hui », alors qu'il parlait des violences et des pillages du week-end, selon Le Parisien.",
+     "text": "La ville est « saturée » de forces de l'ordre, selon l'expression du préfet : 3 000 au total, auxquelles s'ajoutent 200 personnes du service d'ordre du parti, selon Le Parisien.",
      "sources": [
-      "c6c0a28ddedc"
+      "c6c3ccb48436"
      ]
     },
     {
-     "text": "Le 17 octobre 1961, selon les historiens, entre une trentaine et 200 manifestants algériens ont été tués lors d'une répression sous l'autorité du préfet Maurice Papon. En 2024, l'Assemblée a approuvé une résolution condamnant le « massacre », et Emmanuel Macron a parlé de « faits inexcusables pour la République », selon 20 Minutes.",
+     "text": "Jordan Bardella doit être réélu président du RN samedi. Selon Europe 1, le congrès doit lui permettre de « tourner la page des soupçons liés à ses propos supposés à 17 ans ». Selon L'Humanité, c'est moins d'un mois après la révélation par Mediapart d'écrits qualifiés d'antisémites, ce qui « ajoute du trouble » dans un mouvement « de plus en plus fracturé ».",
      "sources": [
-      "67424d109f47"
+      "e0041a73da7c",
+      "af68c548dab9"
      ]
     },
     {
-     "text": "L'étudiante, Lola-Fleur Whittaker, lui répond : « Vous vous en foutez, il est peut-être là, le problème », selon La Dépêche du Midi.",
+     "text": "Selon un sondage OpinionWay pour CNews, Europe 1 et Le JDD, Marine Le Pen recueillerait 36 % au premier tour, devant Jean-Luc Mélenchon (16 %), Raphaël Glucksmann (13 %) et Édouard Philippe (12 %). David Lisnard et Bruno Retailleau sont à 6 %.",
      "sources": [
-      "289d035de89f"
+      "8e6190adea3b"
      ]
     },
     {
-     "text": "À gauche, Olivier Faure (PS) écrit : « Non David Lisnard, on ne \"s'en fout\" pas ! ». Manuel Bompard (LFI) dénonce un candidat « violent, sexiste, arrogant », selon Le JDD.",
+     "text": "Au second tour, toujours selon Le JDD, elle l'emporterait sur Jean-Luc Mélenchon par 69 % contre 31 %, et sur Raphaël Glucksmann comme sur Édouard Philippe par 56 %. Dans le scénario face à Mélenchon, 33 % des personnes interrogées n'expriment pas d'intention de vote.",
      "sources": [
-      "3b918de2b028"
+      "8e6190adea3b"
      ]
     },
     {
-     "text": "Selon Boursorama, il explique sa réponse ainsi : « Parce que c'est pas mon problème aujourd'hui ! Pour une fois, vous ne serez pas dans votre rhétorique qui essaie d'écraser tout le monde. On vous connait par coeur ! ». Il lui lance aussi : « Votre rhétorique ne m'intéresse pas ! ».",
+     "text": "Une contre-manifestation de 20 000 à 30 000 personnes est attendue à Orléans. Public Sénat se demande s'il s'agit d'un « aveu de faiblesse » pour la gauche ou du signe d'une dédiabolisation « pas encore aboutie » du RN.",
      "sources": [
-      "dd27fdcd97f0"
+      "b704c4afb868"
      ]
     },
     {
-     "text": "Au 20H de TF1, David Lisnard dit qu'il n'installerait pas de couvre-feu à Cannes. Pour lui, l'état d'urgence peut être utile, mais c'est aux dirigeants d'en décider. Il propose de revoir le protocole d'utilisation de la police et le droit pénal des mineurs, selon TF1 Info.",
+     "text": "Olivier Faure (PS) : « Ce qui m'inquiète, c'est la banalisation de l'extrême droite ». Il dit craindre que le RN « puisse instaurer une xénophobie d'État ». Raphaël Glucksmann estime que sa place n'est pas dans cette manifestation, mais « de porter le fer, dans cette élection, contre le projet de Marine Le Pen », selon Public Sénat.",
      "sources": [
-      "3402a5260acd"
+      "b704c4afb868"
      ]
     },
     {
-     "text": "Il voit une responsabilité de l'extrême gauche dans la situation, sans exonérer les dirigeants de leurs manquements, selon TF1 Info. Selon Libération, il a aussi accusé le plateau des Millevaches d'abriter « des camps d'entraînement terroristes », ce que le journal titre comme un « fantasme ».",
+     "text": "Selon BFMTV, au RN, on dit avoir « le vent de face », mais être « resté ultra-favori » à l'approche du congrès.",
      "sources": [
-      "3402a5260acd",
-      "001d50188857"
-     ]
-    },
-    {
-     "text": "Dans un sondage Cluster 17 pour Le Point, le maire de Cannes est crédité de 17 % des intentions de vote s'il est le candidat unique de la droite et du centre. Avec Philippe et Retailleau sur la ligne de départ, il est à 7 %, à égalité avec Bruno Retailleau, selon Le Parisien.",
-     "sources": [
-      "0633d045b17a"
+      "962ab1cc2be3"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 8,
-    "outlets": 7
+    "articles": 6,
+    "outlets": 6
    },
    "image": {
-    "url": "https://img.20mn.fr/eKjKo8pZSBuEWXIwLlSLYSk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1718-credit-alain-robert-sipa-2610081948",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4255857-20261020-fous-interroge-17-octobre-1961-david-lisnard-enerve?at_medium=display&at_campaign=149",
-    "article_id": "67424d109f47"
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/23/22/000_d2cr3xm_1_6adbc99fba47c.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "e0041a73da7c",
+    "focus_x": 0.37666666666666665,
+    "focus_y": 0.12366703803915327
    },
-   "id": 151,
+   "id": 169,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-21T10:53:56+00:00",
+   "reviewed_at": "2026-10-24T09:58:29+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.57,
+   "score": 18.0,
    "sources": [
     {
-     "id": "001d50188857",
-     "name": "Libération",
-     "kind": "media",
-     "title": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
-     "url": "https://www.liberation.fr/politique/david-lisnard-fantasme-sur-des-camps-dentrainement-dans-le-limousin-pour-les-terroristes-de-gauche-20261020_RJQ4XNZ32NBDPAUDG73MCYCIFU/",
-     "published_at": "2026-10-20T09:59:41+00:00",
-     "snippet": "Le maire de Cannes a accusé, lundi 19 et mardi 20 octobre, le plateau des Millevaches d’abriter des groupes se préparant à la «guérilla urbaine». Le candidat libertarien à la présidentielle trouve également suspect que Mélenchon s’y rende «chaque 11 novembre»."
-    },
-    {
-     "id": "0633d045b17a",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Sondage présidentielle 2027 : à droite, David Lisnard au coude à coude avec Bruno Retailleau",
-     "url": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-a-droite-david-lisnard-au-coude-a-coude-avec-bruno-retailleau-20-10-2026-4MWSC4QKXRDQXAAGX7GQL7SOUA.php",
-     "published_at": "2026-10-20T13:07:56+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "289d035de89f",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "\"Vous vous en foutez, il est peut-être là, le problème\" : cette étudiante proche de LFI confronte David Lisnard sur un plateau télé",
-     "url": "https://www.ladepeche.fr/2026/10/20/jen-ai-rien-a-cirer-jetais-pas-ne-ce-nest-pas-le-probleme-aujourdhui-lechange-muscle-entre-david-lisnard-et-une-etudiante-proche-de-lfi-sur-le-17-13611417.php",
-     "published_at": "2026-10-20T12:03:19+00:00",
-     "snippet": "Lors d'un débat sur LCI, David Lisnard, candidat à la présidentielle, a suscité la controverse en répondant à une question d'une invitée proche de LFI à propos de l'importance du 17 octobre 1961, où des Algériens..."
-    },
-    {
-     "id": "3402a5260acd",
-     "name": "TF1 Info",
-     "kind": "media",
-     "title": "Violences urbaines en France : David Lisnard, invité du 20H de TF1",
-     "url": "https://www.tf1info.fr/politique/videos/video-violences-urbaines-en-france-david-lisnard-invite-du-20h-de-tf1-66494-2470878.html",
-     "published_at": "2026-10-20T15:04:25+00:00",
-     "snippet": "David Lisnard, invité du 20H, a annoncé qu'il n'installerait pas de couvre-feu dans la ville de Cannes, dont il est le maire. Pour lui, l'instauration de l'état d'urgence peut être utile, mais c'est a"
-    },
-    {
-     "id": "3b918de2b028",
+     "id": "8e6190adea3b",
      "name": "Le JDD",
      "kind": "media",
-     "title": "«J'en ai rien à foutre» : Lisnard ulcère la gauche en balayant une question sur le 17 octobre 1961",
-     "url": "https://www.lejdd.fr/politique/jen-ai-rien-a-foutre-lisnard-ulcere-la-gauche-en-balayant-une-question-sur-le-17-octobre-1961-186477",
-     "published_at": "2026-10-20T15:04:25+00:00",
-     "snippet": "Interrogé sur la répression sanglante de manifestants algériens du 17 octobre 1961, le candidat à la présidentielle David Lisnard s'est emporté, affirmant que cet épisode historique n'était « pas son "
+     "title": "SONDAGE. Présidentielle 2027 : Marine Le Pen domine à 36 %, Lisnard devance Attal",
+     "url": "https://www.lejdd.fr/politique/sondage-presidentielle-2027-marine-le-pen-domine-a-36-lisnard-devance-attal-186765",
+     "published_at": "2026-10-23T06:54:16+00:00",
+     "snippet": "Selon un sondage OpinionWay, la candidate du Rassemblement national (RN) conforte sa position en tête de la course à l’Élysée. Elle sortirait également victorieuse des trois scénarios de second tour testés, face à Jean-Luc Mélenchon, Édouard Philippe et Raphaël Glucksmann."
     },
     {
-     "id": "67424d109f47",
-     "name": "20 Minutes",
+     "id": "962ab1cc2be3",
+     "name": "BFMTV",
      "kind": "media",
-     "title": "« Je m’en fous »… Interrogé sur le 17 octobre 1961, David Lisnard s’énerve",
-     "url": "https://www.20minutes.fr/politique/4255857-20261020-fous-interroge-17-octobre-1961-david-lisnard-enerve?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-20T06:47:15+00:00",
-     "snippet": "Le candidat à la présidentielle David Lisnard s’est emporté sur LCI lorsqu’une étudiante proche de LFI l’a interrogé sur le 17 octobre 1961"
+     "title": "\"On a le vent de face mais on est reste ultra-favori\": un congrès du RN sous haute tension à Orléans, Marine Le Pen en position de force",
+     "url": "https://www.bfmtv.com/politique/front-national/on-a-le-vent-de-face-mais-on-est-reste-ultra-favori-un-congres-du-rn-sous-haute-tension-a-orleans-marine-le-pen-en-position-de-force_AN-202610240047.html",
+     "published_at": "2026-10-24T07:11:00+00:00",
+     "snippet": "Le congrès du RN, organisé ce week-end à Orléans, devait être l'occasion d'afficher unité et sérénité derrière la candidate Marine Le Pen. L'événement s'annonce pourtant sous haute tension en plein \"acte 2\" de la colère sociale et sur fond d'inquiétudes sécuritaires. Sans empêcher Marine Le Pen de faire largement la course en tête pour 2027, malgré une campagne déjà marquée par des turbulences."
     },
     {
-     "id": "c6c0a28ddedc",
+     "id": "af68c548dab9",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« Certains chez nous paniquent » : ce week-end, un congrès du RN sur fond d’affaire Bardella et de divisions",
+     "url": "https://www.humanite.fr/politique/jordan-bardella/certains-chez-nous-paniquent-ce-week-end-un-congres-du-rn-sur-fond-daffaire-bardella-et-de-divisions",
+     "published_at": "2026-10-23T04:30:00+00:00",
+     "snippet": "Jordan Bardella doit être réélu, ce samedi 24 octobre à Orléans, à la tête du parti à la flamme, moins d’un mois après la révélation de ses écrits antisémites par Mediapart. Une affaire qui ajoute du trouble au sein d’un mouvement de plus en plus fracturé."
+    },
+    {
+     "id": "b704c4afb868",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Manifestation contre le RN à Orléans : un « aveu de faiblesse » pour la gauche ou un échec de la dédiabolisation de Marine Le Pen ?",
+     "url": "https://www.publicsenat.fr/actualites/politique/manifestation-contre-le-rn-a-orleans-un-aveu-de-faiblesse-pour-la-gauche-ou-un-echec-de-la-dediabolisation-de-marine-le-pen",
+     "published_at": "2026-10-23T14:52:39+00:00",
+     "snippet": "20 000 à 30 000 opposants au Rassemblement national sont attendus samedi à Orléans où se tient le congrès du parti. Associations, syndicats, mais aussi responsables politiques comme Olivier Faure, Marine Tondelier ou Bally Bagayoko feront partie du cortège. Signe d’une dédiabolisation qui n’est pas encore aboutie pour le parti de Jordan Bardella et Marine Le Pen ? Ou un aveu d’impuissance de la gauche ? En 1997, une contre-manifestation avait rassemblé 50 000 personnes et les chefs de partis de gauche à Strasbourg où se tenait le congrès du Front national."
+    },
+    {
+     "id": "c6c3ccb48436",
      "name": "Le Parisien",
      "kind": "media",
-     "title": "« Je m’en fous » : David Lisnard s’agace après avoir été interrogé sur le 17 octobre 1961",
-     "url": "https://www.leparisien.fr/politique/je-men-fous-david-lisnard-sagace-apres-avoir-ete-interroge-sur-le-17-octobre-1961-20-10-2026-67QQ72XSNJGMBHDQG3MQNZYXKM.php",
-     "published_at": "2026-10-20T13:07:56+00:00",
+     "title": "« Nous voulons être outrageusement optimistes » : Marine Le Pen lance sa campagne sous haute pression",
+     "url": "https://www.leparisien.fr/elections/presidentielle/nous-voulons-etre-outrageusement-optimistes-marine-le-pen-lance-sa-campagne-sous-haute-pression-24-10-2026-34DN2WVRVNA6LJJCUBH4FHLZIM.php",
+     "published_at": "2026-10-24T09:26:05+00:00",
      "snippet": ""
     },
     {
-     "id": "dd27fdcd97f0",
-     "name": "Boursorama",
+     "id": "e0041a73da7c",
+     "name": "Europe 1",
      "kind": "media",
-     "title": "« Je m'en fous, c'est pas mon problème aujourd'hui » : David Lisnard fustige la « rhétorique » de LFI",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/je-m-en-fous-c-est-pas-mon-probleme-aujourd-hui-david-lisnard-fustige-la-rhetorique-de-lfi-apres-une-question-sur-le-17-octobre-1961-bd6e291fe0c0fef4e02e7ff29577472d",
-     "published_at": "2026-10-20T15:18:48+00:00",
-     "snippet": "Le candidat à la présidentielle a été interrogé sur les exactions commises contre des Algériens sous l'autorité du préfet Maurice Papon. S'en est suivi un vif échange avec sa contradictrice proche de "
+     "title": "Rassemblement national : les enjeux du congrès d'Orléans pour Marine Le Pen et Jordan Bardella",
+     "url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-24T05:02:00+00:00",
+     "snippet": "Sans surprise attendue, Jordan Bardella devrait conserver la présidence du RN ce week-end. Le congrès du parti doit aussi lui permettre de tourner la page des soupçons liés à ses propos supposés à 17 ans. Avec Marine Le Pen, il s'adressera à près de 10.000 militants pour conclure ce week-end. Jordan Bardella devrait être réélu sans surprise président du Rassemblement national ce week-end, lors du congrès du parti à Orléans. Il conservera la tête du mouvement, un moment qui doit aussi permettre de rassurer les sceptiques en interne, après les révélations de Mediapart. Les enquêtes de Mediapart "
     }
    ]
   },
@@ -344,7 +322,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.99,
+   "score": 14.86,
    "sources": [
     {
      "id": "66f1e25479fc",
@@ -464,7 +442,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.13,
+   "score": 6.11,
    "sources": [
     {
      "id": "1fedd0395cdd",
@@ -593,7 +571,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.11,
+   "score": 5.09,
    "sources": [
     {
      "id": "0d71b5cac397",
@@ -715,7 +693,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.09,
+   "score": 4.07,
    "sources": [
     {
      "id": "4943e3e6cc0c",
@@ -856,6 +834,159 @@
      "url": "https://www.humanite.fr/societe/droit-au-logement/encadrement-des-loyers-le-senat-prolonge-le-dispositif-de-deux-ans-mais-refuse-toujours-de-le-perenniser",
      "published_at": "2026-10-22T09:45:32+00:00",
      "snippet": "L’encadrement des loyers pourrait obtenir un nouveau sursis. Le Sénat a voté, mercredi 21 octobre, sa prolongation pour deux ans dans les quelque 70 communes où il s’applique. Mais la majorité de droite a écarté sa pérennisation, son élargissement et son renforcement."
+    }
+   ]
+  },
+  {
+   "headline": "David Lisnard : sa réponse sur le 17 octobre 1961 provoque une polémique",
+   "chapo": "Invité du 20H de TF1 puis de LCI lundi, le candidat Nouvelle Énergie a parlé des violences du week-end. Sa réponse à une question sur le 17 octobre 1961 a fait réagir la gauche. Il est par ailleurs en hausse dans les sondages.",
+   "points": [
+    {
+     "text": "Sur LCI, interrogé par une étudiante proche de LFI sur le 17 octobre 1961, David Lisnard répond : « Non mais je m'en fous madame, je n'en ai rien à foutre, je n'en ai rien à cirer, je n'étais pas né, depuis il y a eu l'indépendance de l'Algérie », selon 20 Minutes.",
+     "sources": [
+      "67424d109f47"
+     ]
+    },
+    {
+     "text": "Il ajoute : « C'est très grave, c'est dramatique, mais c'était en 61 », et que ce n'était « pas (son) problème aujourd'hui », alors qu'il parlait des violences et des pillages du week-end, selon Le Parisien.",
+     "sources": [
+      "c6c0a28ddedc"
+     ]
+    },
+    {
+     "text": "Le 17 octobre 1961, selon les historiens, entre une trentaine et 200 manifestants algériens ont été tués lors d'une répression sous l'autorité du préfet Maurice Papon. En 2024, l'Assemblée a approuvé une résolution condamnant le « massacre », et Emmanuel Macron a parlé de « faits inexcusables pour la République », selon 20 Minutes.",
+     "sources": [
+      "67424d109f47"
+     ]
+    },
+    {
+     "text": "L'étudiante, Lola-Fleur Whittaker, lui répond : « Vous vous en foutez, il est peut-être là, le problème », selon La Dépêche du Midi.",
+     "sources": [
+      "289d035de89f"
+     ]
+    },
+    {
+     "text": "À gauche, Olivier Faure (PS) écrit : « Non David Lisnard, on ne \"s'en fout\" pas ! ». Manuel Bompard (LFI) dénonce un candidat « violent, sexiste, arrogant », selon Le JDD.",
+     "sources": [
+      "3b918de2b028"
+     ]
+    },
+    {
+     "text": "Selon Boursorama, il explique sa réponse ainsi : « Parce que c'est pas mon problème aujourd'hui ! Pour une fois, vous ne serez pas dans votre rhétorique qui essaie d'écraser tout le monde. On vous connait par coeur ! ». Il lui lance aussi : « Votre rhétorique ne m'intéresse pas ! ».",
+     "sources": [
+      "dd27fdcd97f0"
+     ]
+    },
+    {
+     "text": "Au 20H de TF1, David Lisnard dit qu'il n'installerait pas de couvre-feu à Cannes. Pour lui, l'état d'urgence peut être utile, mais c'est aux dirigeants d'en décider. Il propose de revoir le protocole d'utilisation de la police et le droit pénal des mineurs, selon TF1 Info.",
+     "sources": [
+      "3402a5260acd"
+     ]
+    },
+    {
+     "text": "Il voit une responsabilité de l'extrême gauche dans la situation, sans exonérer les dirigeants de leurs manquements, selon TF1 Info. Selon Libération, il a aussi accusé le plateau des Millevaches d'abriter « des camps d'entraînement terroristes », ce que le journal titre comme un « fantasme ».",
+     "sources": [
+      "3402a5260acd",
+      "001d50188857"
+     ]
+    },
+    {
+     "text": "Dans un sondage Cluster 17 pour Le Point, le maire de Cannes est crédité de 17 % des intentions de vote s'il est le candidat unique de la droite et du centre. Avec Philippe et Retailleau sur la ligne de départ, il est à 7 %, à égalité avec Bruno Retailleau, selon Le Parisien.",
+     "sources": [
+      "0633d045b17a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 8,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://img.20mn.fr/eKjKo8pZSBuEWXIwLlSLYSk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1718-credit-alain-robert-sipa-2610081948",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4255857-20261020-fous-interroge-17-octobre-1961-david-lisnard-enerve?at_medium=display&at_campaign=149",
+    "article_id": "67424d109f47"
+   },
+   "id": 151,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-21T10:53:56+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 5.55,
+   "sources": [
+    {
+     "id": "001d50188857",
+     "name": "Libération",
+     "kind": "media",
+     "title": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
+     "url": "https://www.liberation.fr/politique/david-lisnard-fantasme-sur-des-camps-dentrainement-dans-le-limousin-pour-les-terroristes-de-gauche-20261020_RJQ4XNZ32NBDPAUDG73MCYCIFU/",
+     "published_at": "2026-10-20T09:59:41+00:00",
+     "snippet": "Le maire de Cannes a accusé, lundi 19 et mardi 20 octobre, le plateau des Millevaches d’abriter des groupes se préparant à la «guérilla urbaine». Le candidat libertarien à la présidentielle trouve également suspect que Mélenchon s’y rende «chaque 11 novembre»."
+    },
+    {
+     "id": "0633d045b17a",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Sondage présidentielle 2027 : à droite, David Lisnard au coude à coude avec Bruno Retailleau",
+     "url": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-a-droite-david-lisnard-au-coude-a-coude-avec-bruno-retailleau-20-10-2026-4MWSC4QKXRDQXAAGX7GQL7SOUA.php",
+     "published_at": "2026-10-20T13:07:56+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "289d035de89f",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "\"Vous vous en foutez, il est peut-être là, le problème\" : cette étudiante proche de LFI confronte David Lisnard sur un plateau télé",
+     "url": "https://www.ladepeche.fr/2026/10/20/jen-ai-rien-a-cirer-jetais-pas-ne-ce-nest-pas-le-probleme-aujourdhui-lechange-muscle-entre-david-lisnard-et-une-etudiante-proche-de-lfi-sur-le-17-13611417.php",
+     "published_at": "2026-10-20T12:03:19+00:00",
+     "snippet": "Lors d'un débat sur LCI, David Lisnard, candidat à la présidentielle, a suscité la controverse en répondant à une question d'une invitée proche de LFI à propos de l'importance du 17 octobre 1961, où des Algériens..."
+    },
+    {
+     "id": "3402a5260acd",
+     "name": "TF1 Info",
+     "kind": "media",
+     "title": "Violences urbaines en France : David Lisnard, invité du 20H de TF1",
+     "url": "https://www.tf1info.fr/politique/videos/video-violences-urbaines-en-france-david-lisnard-invite-du-20h-de-tf1-66494-2470878.html",
+     "published_at": "2026-10-20T15:04:25+00:00",
+     "snippet": "David Lisnard, invité du 20H, a annoncé qu'il n'installerait pas de couvre-feu dans la ville de Cannes, dont il est le maire. Pour lui, l'instauration de l'état d'urgence peut être utile, mais c'est a"
+    },
+    {
+     "id": "3b918de2b028",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«J'en ai rien à foutre» : Lisnard ulcère la gauche en balayant une question sur le 17 octobre 1961",
+     "url": "https://www.lejdd.fr/politique/jen-ai-rien-a-foutre-lisnard-ulcere-la-gauche-en-balayant-une-question-sur-le-17-octobre-1961-186477",
+     "published_at": "2026-10-20T15:04:25+00:00",
+     "snippet": "Interrogé sur la répression sanglante de manifestants algériens du 17 octobre 1961, le candidat à la présidentielle David Lisnard s'est emporté, affirmant que cet épisode historique n'était « pas son "
+    },
+    {
+     "id": "67424d109f47",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "« Je m’en fous »… Interrogé sur le 17 octobre 1961, David Lisnard s’énerve",
+     "url": "https://www.20minutes.fr/politique/4255857-20261020-fous-interroge-17-octobre-1961-david-lisnard-enerve?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-20T06:47:15+00:00",
+     "snippet": "Le candidat à la présidentielle David Lisnard s’est emporté sur LCI lorsqu’une étudiante proche de LFI l’a interrogé sur le 17 octobre 1961"
+    },
+    {
+     "id": "c6c0a28ddedc",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Je m’en fous » : David Lisnard s’agace après avoir été interrogé sur le 17 octobre 1961",
+     "url": "https://www.leparisien.fr/politique/je-men-fous-david-lisnard-sagace-apres-avoir-ete-interroge-sur-le-17-octobre-1961-20-10-2026-67QQ72XSNJGMBHDQG3MQNZYXKM.php",
+     "published_at": "2026-10-20T13:07:56+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "dd27fdcd97f0",
+     "name": "Boursorama",
+     "kind": "media",
+     "title": "« Je m'en fous, c'est pas mon problème aujourd'hui » : David Lisnard fustige la « rhétorique » de LFI",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/je-m-en-fous-c-est-pas-mon-probleme-aujourd-hui-david-lisnard-fustige-la-rhetorique-de-lfi-apres-une-question-sur-le-17-octobre-1961-bd6e291fe0c0fef4e02e7ff29577472d",
+     "published_at": "2026-10-20T15:18:48+00:00",
+     "snippet": "Le candidat à la présidentielle a été interrogé sur les exactions commises contre des Algériens sous l'autorité du préfet Maurice Papon. S'en est suivi un vif échange avec sa contradictrice proche de "
     }
    ]
   },
@@ -1286,7 +1417,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.04,
+   "score": 3.03,
    "sources": [
     {
      "id": "18e017214635",
@@ -1405,7 +1536,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.4,
+   "score": 4.39,
    "sources": [
     {
      "id": "35795754b3d0",
@@ -1919,7 +2050,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.52,
+   "score": 2.51,
    "sources": [
     {
      "id": "052a6c386254",
