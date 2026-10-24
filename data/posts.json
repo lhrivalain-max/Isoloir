@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:58:34+00:00",
+ "generated_at": "2026-10-24T09:58:37+00:00",
  "posts": [
   {
    "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
@@ -269,6 +269,156 @@
      "url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-24T05:02:00+00:00",
      "snippet": "Sans surprise attendue, Jordan Bardella devrait conserver la présidence du RN ce week-end. Le congrès du parti doit aussi lui permettre de tourner la page des soupçons liés à ses propos supposés à 17 ans. Avec Marine Le Pen, il s'adressera à près de 10.000 militants pour conclure ce week-end. Jordan Bardella devrait être réélu sans surprise président du Rassemblement national ce week-end, lors du congrès du parti à Orléans. Il conservera la tête du mouvement, un moment qui doit aussi permettre de rassurer les sceptiques en interne, après les révélations de Mediapart. Les enquêtes de Mediapart "
+    }
+   ]
+  },
+  {
+   "headline": "Limoges : Lecornu promet que l'État financera la reconstruction de la mairie incendiée",
+   "chapo": "Vendredi, le Premier ministre a promis à Limoges une reconstruction « à l'identique » de la mairie incendiée le 17 octobre, sans coût pour le contribuable local, via une procédure accélérée inspirée de Notre-Dame. Le maire LR, très critique envers l'État après l'incendie, était à ses côtés.",
+   "points": [
+    {
+     "text": "Sébastien Lecornu : « L'État sera là » pour reconstruire « à l'identique » la mairie de Limoges, en procédure accélérée « Notre-Dame », selon Europe 1.",
+     "sources": [
+      "dd69003c943f"
+     ]
+    },
+    {
+     "text": "Il assure : « Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville », aux côtés du maire Guillaume Guérin (LR), selon Europe 1 et CNews.",
+     "sources": [
+      "dd69003c943f",
+      "c373965b94e1"
+     ]
+    },
+    {
+     "text": "Le maire s'était montré très critique envers l'État au lendemain du sinistre : il avait réclamé un « plan Marshall » et une « pluie de millions » pour financer la remise en état, selon CNews.",
+     "sources": [
+      "c373965b94e1"
+     ]
+    },
+    {
+     "text": "Selon ici (France Bleu), des élus de gauche de Haute-Vienne boycottent la venue du Premier ministre. Le député socialiste Stéphane Delautrette dénonce un protocole sans temps d'échange avec les élus, hormis le maire de Limoges.",
+     "sources": [
+      "d8e1c4d380c6"
+     ]
+    },
+    {
+     "text": "Un habitant de Limoges déclare à RMC : « J'attends une reconnaissance de faute, car tout ce qui s'est passé à Limoges et ailleurs en France, c'est la faute du gouvernement ».",
+     "sources": [
+      "be6571edca16"
+     ]
+    },
+    {
+     "text": "Le classement du bâtiment aux Monuments historiques doit permettre à l'État de prendre en charge 80 % du montant des réparations, selon une source proche du dossier citée par l'AFP. Une « conférence des financeurs » attirera du mécénat public et privé, avec une exonération fiscale des dons portée à 75 % dans le budget 2027, selon Europe 1.",
+     "sources": [
+      "dd69003c943f"
+     ]
+    },
+    {
+     "text": "La responsabilité civile « de celles et ceux qui ont brûlé » sera mise à contribution, selon le Premier ministre. Un article consacré à la mairie de Limoges sera ajouté au projet de loi Logement pour accélérer le chantier, selon CNews.",
+     "sources": [
+      "c373965b94e1"
+     ]
+    },
+    {
+     "text": "Interrogé sur la responsabilité de l'État dans l'intervention tardive de la police, Sébastien Lecornu répond : « je crois encore à la responsabilité individuelle, ceux qui sont responsables ce sont celles et ceux qui ont mis le feu », selon BFMTV.",
+     "sources": [
+      "dce84de59499"
+     ]
+    },
+    {
+     "text": "Selon Le Monde, Limoges est placée sous couvre-feu, et de nombreux arrêtés ont été pris en vue de la mobilisation de samedi.",
+     "sources": [
+      "7c708e9636b2"
+     ]
+    },
+    {
+     "text": "Selon Le Monde, des maires de droite, David Lisnard en tête, accusent « l'ultragauche française » établie sur le plateau de Millevaches d'avoir mis le feu à la mairie. Dans une tribune, une centaine d'élus locaux répondent : « Nous refusons les amalgames et les caricatures qu'on fait de notre territoire ».",
+     "sources": [
+      "6497706b05ca"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/24/07/000_d3mb6g9_2_1_6adc3f28529d5.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/limoges-letat-sera-la-pour-reconstruire-la-mairie-a-lidentique-dit-sebastien-lecornu-1177827?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "dd69003c943f"
+   },
+   "id": 166,
+   "section": "institutions",
+   "reviewed_at": "2026-10-24T09:58:37+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 19.0,
+   "sources": [
+    {
+     "id": "6497706b05ca",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Incendie de la mairie de Limoges : « Nous, élus du plateau de Millevaches, refusons les amalgames et les caricatures qu’on fait de notre territoire »",
+     "url": "https://www.lemonde.fr/idees/article/2026/10/23/incendie-de-la-mairie-de-limoges-nous-elus-du-plateau-de-millevaches-refusons-les-amalgames-et-les-caricatures-qu-on-fait-de-notre-territoire_6799099_3232.html",
+     "published_at": "2026-10-23T15:00:31+00:00",
+     "snippet": "Des maires de droite, David Lisnard en tête, accusent « l’ultragauche française » établie dans ce terroir rural d’avoir mis le feu à l’hôtel de ville du chef-lieu de la Haute-Vienne, le 17 octobre. Dans une tribune au « Monde », une centaine d’élus locaux dénoncent des propos infondés."
+    },
+    {
+     "id": "7c708e9636b2",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "A Limoges sous couvre-feu, Sébastien Lecornu promet la reconstruction de l’hôtel de ville incendié le 17 octobre et un dispositif sécuritaire fort",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/24/a-limoges-sous-couvre-feu-sebastien-lecornu-promet-la-reconstruction-de-l-hotel-de-ville-incendie-le-17-octobre-et-un-dispositif-securitaire-fort_6799668_823448.html",
+     "published_at": "2026-10-24T06:56:32+00:00",
+     "snippet": "Le premier ministre s’est engagé, vendredi, à la reconstruction à l’identique de l’édifice dans le cadre d’une « procédure Notre-Dame ». De nombreux arrêtés ont été pris en vue de la mobilisation de samedi."
+    },
+    {
+     "id": "be6571edca16",
+     "name": "RMC",
+     "kind": "media",
+     "title": "\"Reconnaissance de faute\": élus et habitants de Limoges attendent de pied ferme Sébastien Lecornu, six jours après l'incendie de la mairie",
+     "url": "https://rmc.bfmtv.com/actualites/politique/reconnaissance-de-faute-elus-et-habitants-de-limoges-attendent-de-pied-ferme-sebastien-lecornu-six-jours-apres-l-incendie-de-la-mairie_AV-202610230522.html",
+     "published_at": "2026-10-23T12:04:14+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu est attendu ce vendredi soir à Limoges, six jours après l'incendie ayant détruit partiellement l'Hôtel de ville, en marge des manifestations du 17 octobre. \"J'attends une reconnaissance de faute, car tout ce qui s'est passé à Limoges et ailleurs en France, c'est la faute du gouvernement\", lance ce Limougeaud au micro de RMC."
+    },
+    {
+     "id": "c373965b94e1",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Incendie de la mairie de Limoges : Sébastien Lecornu promet que «le contribuable local ne mettra pas un euro» dans la reconstruction du bâtiment",
+     "url": "https://www.cnews.fr/france/2026-10-24/incendie-de-la-mairie-de-limoges-sebastien-lecornu-promet-que-le-contribuable",
+     "published_at": "2026-10-24T06:14:27+00:00",
+     "snippet": "Après l’incendie de la mairie de Limoges lors de la mobilisation du 17 octobre, Sébastien Lecornu a annoncé vendredi soir que l’État prendrait en charge la reconstruction du bâtiment à l’identique. Le gouvernement s’engage à financer la reconstruction de la mairie de Limoges, incendiée lors de la mobilisation du 17 octobre. En déplacement sur place vendredi soir, le Premier ministre Sébastien Lecornu a assuré que les habitants de la commune n’auraient pas à supporter le coût des travaux. L’exécutif prévoit une reconstruction à l’identique, selon une procédure accélérée inspirée de celle mise e"
+    },
+    {
+     "id": "d8e1c4d380c6",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Sébastien Lecornu à Limoges : des élus de gauche boycottent le Premier ministre, faute de temps d'échange prévu",
+     "url": "https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/sebastien-lecornu-a-limoges-des-elus-de-gauche-boycottent-le-premier-ministre-faute-de-temps-d-echange-prevu-5060486?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-23T14:39:23+00:00",
+     "snippet": "Des élus de Haute-Vienne annoncent ce vendredi boycotter Sébastien Lecornu, attendu à Limoges dans la soirée. Parmi eux, le député socialiste de Haute-Vienne Stéphane Delautrette dénonce le protocole prévu où aucun temps d'échanges avec les élus n'est prévu, à part avec le maire de Limoges."
+    },
+    {
+     "id": "dce84de59499",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Reconstruction de la mairie de Limoges incendiée: \"Le contribuable municipal ne sera pas sollicité\", assure Sébastien Lecornu",
+     "url": "https://www.bfmtv.com/politique/video-reconstruction-de-la-mairie-de-limoges-incendiee-le-contribuable-municipal-ne-sera-pas-sollicite-assure-sebastien-lecornu_VN-202610230857.html",
+     "published_at": "2026-10-23T20:27:52+00:00",
+     "snippet": "S'exprimant depuis Limoges (Haute-Vienne), Sébastien Lecornu est revenu sur l'incendie de la mairie de la ville le week-end dernier. Interrogé sur la responsabilité de l'État dans l'intervention tardive de la police, il a répondu: \"je crois encore à la responsabilité individuelle ceux qui sont responsables ce sont celles et ceux qui ont mis le feu\"."
+    },
+    {
+     "id": "dd69003c943f",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Limoges: «L'État sera là» pour reconstruire la mairie «à l'identique», dit Sébastien Lecornu",
+     "url": "https://www.europe1.fr/politique/limoges-letat-sera-la-pour-reconstruire-la-mairie-a-lidentique-dit-sebastien-lecornu-1177827?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-24T03:30:00+00:00",
+     "snippet": "\"L'État sera là\" pour reconstruire \"à l'identique\" la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"L'État sera là\" pour reconstruire \"à l'identique\", en procédure accélérée \"Notre-Dame\", la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville\", a assuré devant la "
     }
    ]
   },
