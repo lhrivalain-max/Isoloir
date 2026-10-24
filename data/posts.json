@@ -1,47 +1,64 @@
 {
- "generated_at": "2026-10-24T09:45:04+00:00",
+ "generated_at": "2026-10-24T09:46:00+00:00",
  "posts": [
   {
-   "headline": "Mouvement lycéen : reçus par Macron, les représentants appellent à continuer à se mobiliser",
-   "chapo": "Vendredi 23 octobre, Emmanuel Macron a reçu pendant près de trois heures les organisations lycéennes à l'Élysée. Il leur a promis une « refonte » de Parcoursup, mais les représentants réclament toujours son abrogation et appellent à rester mobilisés. Une rencontre avec Sébastien Lecornu est prévue lundi.",
+   "headline": "Casseurs-payeurs : le projet de loi débute son examen au Sénat, la gauche très hostile",
+   "chapo": "Mercredi 21 octobre, le projet de loi « casseurs-payeurs » entame son parcours parlementaire en commission au Sénat. Le Premier ministre le juge « absolument indispensable ». La gauche y est très hostile. La Commission des lois du Sénat publie aussi 30 propositions sur le maintien de l'ordre.",
    "points": [
     {
-     "text": "Pour la première fois depuis le début du mouvement, des organisations lycéennes ont été reçues par Emmanuel Macron, vendredi à 15 heures, selon franceinfo et Le Parisien. Après plus d'un mois de colère, la présidence dit vouloir « écouter les revendications », selon BFMTV.",
+     "text": "Le texte entame son examen en commission au Sénat ce mercredi, selon Libération et L'Humanité. Selon LCP, il doit être examiné au Sénat à partir du 27 octobre, puis transmis à l'Assemblée.",
      "sources": [
-      "b784c3d02fc9",
-      "66f1e25479fc",
-      "f3c204579763"
+      "2b5ff92d4049",
+      "67b963643b23",
+      "655a127f667c"
      ]
     },
     {
-     "text": "La rencontre a duré près de trois heures. Les représentants se disent globalement « satisfaits » de l'écoute du chef de l'État, qui leur aurait promis une « refonte » de Parcoursup. L'entourage du président confirme qu'il a souligné « le besoin d'une refonte en profondeur de Parcoursup », selon Le HuffPost.",
+     "text": "Il prévoit une responsabilité civile collective pour l'ensemble des personnes ayant participé à un attroupement, une manifestation ou un rassemblement ayant causé des dommages, sans que la responsabilité de chacun soit précisément établie, selon LCP.",
      "sources": [
-      "69bb6dce5cf9"
+      "655a127f667c"
      ]
     },
     {
-     "text": "Ryad Rani, président de l'Union syndicale lycéenne : « On lui parle d'abrogation, [...] on nous parle de lisibilité, de transparence et de refonte ». Il juge néanmoins que « c'est déjà une victoire d'avoir été reçu », selon Le HuffPost.",
+     "text": "Selon LCP, le dispositif « permettra d'aller prélever, dans les prestations familiales lorsque c'est nécessaire, pour des dégradations commises par des majeurs ou des mineurs », comme l'expliquait la porte-parole du gouvernement Maud Bregeon.",
      "sources": [
-      "69bb6dce5cf9"
+      "655a127f667c"
      ]
     },
     {
-     "text": "Louis Letoublon (Les Lycéens !) : « on a une brèche », une « ouverture » dans laquelle « il faut que nous nous y engouffrions », selon Le HuffPost. Les représentants appellent à « continuer à se mobiliser », selon La Croix.",
+     "text": "Le ministre Serge Papin défend le texte : « Ce n'est ni aux victimes, ni aux contribuables » de payer ; il juge que ceux qui ont cassé et pillé doivent être poursuivis et en assumer le coût, selon LCP.",
      "sources": [
-      "69bb6dce5cf9",
-      "9c82f33f888b"
+      "655a127f667c"
      ]
     },
     {
-     "text": "Une rencontre avec le Premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup, selon La Croix.",
+     "text": "Sébastien Lecornu juge le texte « absolument indispensable » et a mis la pression pour le faire passer, selon Libération.",
      "sources": [
-      "9c82f33f888b"
+      "2b5ff92d4049"
      ]
     },
     {
-     "text": "Selon franceinfo, la plateforme en ligne pour recueillir les doléances des lycéens clôture vendredi soir, avec plus de 100 000 contributions. Un spécialiste estime que « tous ces dispositifs ne semblent pas avoir véritablement d'impact ».",
+     "text": "Libération qualifie le projet de loi de « très critiqué » et « très critiquable », avec des « mesures controversées » sur la responsabilité civile collective. Selon le journal, la gauche y est très hostile, et la droite n'a plus que ce texte « à la bouche » comme réponse législative.",
      "sources": [
-      "b784c3d02fc9"
+      "2b5ff92d4049"
+     ]
+    },
+    {
+     "text": "L'Humanité parle d'un texte aux « mesures largement décriées » et le présente comme la réponse phare du gouvernement à la mobilisation.",
+     "sources": [
+      "67b963643b23"
+     ]
+    },
+    {
+     "text": "Côté justice, le ministre Gérald Darmanin a demandé aux procureurs « d'être impitoyables avec les casseurs ». Il évoque 800 personnes déférées devant un tribunal depuis lundi, avec des comparutions immédiates « à rythme effréné », selon France 24.",
+     "sources": [
+      "c7055b531cb7"
+     ]
+    },
+    {
+     "text": "La Commission des lois du Sénat, présidée par Muriel Jourda (LR), présente un rapport intitulé « L'avenir du maintien de l'ordre : 30 propositions pour reprendre le contrôle », qui prévoit de sanctionner plus durement les pillards, selon Le Figaro.",
+     "sources": [
+      "477a543ac0e5"
      ]
     }
    ],
@@ -51,65 +68,63 @@
     "outlets": 5
    },
    "image": {
-    "url": "https://focus.huffingtonpost.fr/2026/06/06/62/0/1200/675/0/0/60/0/a03df63_upload-1-oz7kzesbxay5-afp-20260601-b4mx92x-v3-midres-franceeconomybusinesssummit.jpg",
-    "source": "Le HuffPost",
-    "article_url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
-    "article_id": "69bb6dce5cf9",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.24138888888888888
+    "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/21/185f49712f883c7c53714e03f319cb5410bbd426748a4efec372ab22acea5eb6.jpg",
+    "source": "Le Figaro",
+    "article_url": "https://www.lefigaro.fr/actualite-france/maintien-de-l-ordre-le-rapport-choc-du-senat-pour-en-finir-avec-les-casseurs-20261021",
+    "article_id": "477a543ac0e5"
    },
-   "id": 165,
+   "id": 159,
    "section": "institutions",
-   "reviewed_at": "2026-10-24T09:45:04+00:00",
+   "reviewed_at": "2026-10-24T09:46:00+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
    "score": 15.0,
    "sources": [
     {
-     "id": "66f1e25479fc",
-     "name": "Le Parisien",
+     "id": "2b5ff92d4049",
+     "name": "Libération",
      "kind": "media",
-     "title": "Emmanuel Macron recevra les organisations lycéennes ce vendredi à 15 heures",
-     "url": "https://www.leparisien.fr/societe/emmanuel-macron-recevra-les-organisations-lyceennes-ce-vendredi-a-15-heures-22-10-2026-OP5DPSB6QRDFZI3QRTEVXUOXK4.php",
-     "published_at": "2026-10-24T09:26:05+00:00",
-     "snippet": ""
+     "title": "Sébastien Lecornu juge «absolument indispensable» la très critiquée et très critiquable loi «casseurs-payeurs»",
+     "url": "https://www.liberation.fr/politique/sebastien-lecornu-juge-absolument-indispensable-la-tres-critiquee-et-tres-critiquable-loi-casseurs-payeurs-20261021_VUU2HJRRHZCYBECVMCON3T5YJM/",
+     "published_at": "2026-10-21T09:23:55+00:00",
+     "snippet": "Le Premier ministre a mis la pression pour faire passer ce texte, en réponse aux violences en marge des manifestations, qui débute son examen en commission au Sénat, ce mercredi 21 octobre. La gauche y est, quant à elle, très hostile."
     },
     {
-     "id": "69bb6dce5cf9",
-     "name": "Le HuffPost",
+     "id": "477a543ac0e5",
+     "name": "Le Figaro",
      "kind": "media",
-     "title": "Mouvement lycéen : cette promesse de Macron n’a pas empêché un nouvel appel à la mobilisation",
-     "url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
-     "published_at": "2026-10-23T19:04:24+00:00",
-     "snippet": "Les représentants des lycéens ont apprécié l’écoute du président et assurent qu’il leur a fait une promesse sur Parcoursup. Pour autant, ils appellent à continuer le mouvement."
+     "title": "Maintien de l’ordre : le rapport choc du Sénat pour en finir avec les casseurs",
+     "url": "https://www.lefigaro.fr/actualite-france/maintien-de-l-ordre-le-rapport-choc-du-senat-pour-en-finir-avec-les-casseurs-20261021",
+     "published_at": "2026-10-21T08:24:31+00:00",
+     "snippet": "EXCLUSIF - La Commission des lois de la Haute Assemblée dégaine 30 mesures à adopter pour mieux anticiper les troubles, renforcer l’efficacité opérationnelle des unités et sanctionner plus durement factieux et pilleurs."
     },
     {
-     "id": "9c82f33f888b",
-     "name": "La Croix",
+     "id": "655a127f667c",
+     "name": "LCP",
      "kind": "media",
-     "title": "Mouvement lycéen : après leur rencontre avec Macron, les représentants appellent à continuer à se mobiliser",
-     "url": "https://www.la-croix.com/politique/mouvement-lyceen-apres-leur-rencontre-avec-macron-les-representants-appellent-a-continuer-a-se-mobiliser-20261023",
-     "published_at": "2026-10-23T19:18:54+00:00",
-     "snippet": "Reçus vendredi 23 octobre à l’Élysée par Emmanuel Macron, les représentants des lycéens appellent à poursuivre la mobilisation. Une rencontre avec le premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup."
+     "title": "Saccages et pillages du 17 octobre: l'État au chevet des commerçants, le projet de loi \"casseurs-payeurs\" bientôt examiné",
+     "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
+     "published_at": "2026-10-19T21:21:03+00:00",
+     "snippet": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 15:23 Après les saccages qui ont eu lieu ce week-end, le gouvernement a annoncé, ce lundi 19 octobre, une série de mesures d'urgence à destination des commerçants, parmi lesquelles le déclenchement immédiat d'un chômage partiel à 100%, le report des charges sociales, ainsi que la mise en place d'un fonds de soutien. \"Au moins 3.000\". Telle est la dernière estimation du ministre des Petites et Moyennes entreprises et du Commerce, Serge Papin, concernant le nombre de commerces touchés au cours du week-end par les saccages et les pillages. Au sort"
     },
     {
-     "id": "b784c3d02fc9",
-     "name": "franceinfo",
+     "id": "67b963643b23",
+     "name": "L'Humanité",
      "kind": "media",
-     "title": "Quels résultats après les consultations de lycéens ? \"Tous ces dispositifs ne semblent pas avoir véritablement d'impact\", pointe un spécialiste",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quels-resultats-apres-les-consultations-de-lyceens-tous-ces-dispositifs-ne-semblent-pas-avoir-veritablement-d-impact-pointe-un-specialiste_8251474.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-23T22:07:24+00:00",
-     "snippet": "Pour la première fois depuis le début du mouvement, des représentants d'organisations lycéennes ont été reçus, vendredi 23 octobre, par Emmanuel Macron. Le chef de l'État leur a promis une \"refonte\" de Parcoursup, mais cela suffira-t-il à répondre à leurs revendications ? Alors que la plateforme en ligne conçue pour recueillir leurs doléances clôture ce soir, plus de 100 000 contributions ont été postées."
+     "title": "Le projet de loi « casseurs-payeurs » débarque au Sénat",
+     "url": "https://www.humanite.fr/-/-/la-loi-casseurs-payeurs-debarque-au-senat",
+     "published_at": "2026-10-21T06:55:00+00:00",
+     "snippet": "L’extrême droite en rêvait, Sébastien Lecornu le fait : punir les familles modestes en tapant dans leurs prestations sociales. Le projet de loi « casseurs-payeurs » débute son parcours parlementaire ce mercredi 21 octobre au Sénat, quelques jours après les pillages et les dégradations survenus lors des manifestations du 17 octobre dans plusieurs villes de France. Ce texte envisage de faire…"
     },
     {
-     "id": "f3c204579763",
-     "name": "BFMTV",
+     "id": "c7055b531cb7",
+     "name": "France 24",
      "kind": "media",
-     "title": "Colère sociale: des représentants lycéens appellent à \"continuer à se mobiliser\" après une rencontre avec Emmanuel Macron",
-     "url": "https://www.bfmtv.com/politique/direct-colere-sociale-conseil-de-defense-rencontre-avec-les-organisations-lyceennes-et-les-forces-de-l-ordre-la-journee-tres-chargee-d-emmanuel-macron-avant-une-nouvelle-mobilisation-attendue-le-24-octobre_LN-202610230108.html",
-     "published_at": "2026-10-23T22:33:03+00:00",
-     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République a reçu les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. À 24 heures des manifestations du 24 octobre, Sébastien Lecornu s'est rendu à Limoges pour évoquer la reconstruction de la mairie, incendiée dans les violences du 17 octobre."
+     "title": "17 octobre : des consignes de fermeté à des tribunaux débordés",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-17-octobre-des-consignes-de-fermet%C3%A9-%C3%A0-des-tribunaux-d%C3%A9bord%C3%A9s",
+     "published_at": "2026-10-21T09:19:47+00:00",
+     "snippet": "Le gouvernement, sous pression, affiche une ligne dure. Le ministre de la Justice a demandé aux procureurs \"d'être impitoyables avec les casseurs\", assurant que \"le peuple français veut de l'extrême fermeté\". Depuis lundi 19 octobre, dans nombre de tribunaux de France, ont lieu des comparutions immédiates à rythme effréné. Gérald Darmanin évoque le chiffre de 800 personnes déférées devant un tribunal."
     }
    ]
   },
@@ -263,6 +278,118 @@
      "url": "https://www.boursorama.com/actualite-economique/actualites/je-m-en-fous-c-est-pas-mon-probleme-aujourd-hui-david-lisnard-fustige-la-rhetorique-de-lfi-apres-une-question-sur-le-17-octobre-1961-bd6e291fe0c0fef4e02e7ff29577472d",
      "published_at": "2026-10-20T15:18:48+00:00",
      "snippet": "Le candidat à la présidentielle a été interrogé sur les exactions commises contre des Algériens sous l'autorité du préfet Maurice Papon. S'en est suivi un vif échange avec sa contradictrice proche de "
+    }
+   ]
+  },
+  {
+   "headline": "Mouvement lycéen : reçus par Macron, les représentants appellent à continuer à se mobiliser",
+   "chapo": "Vendredi 23 octobre, Emmanuel Macron a reçu pendant près de trois heures les organisations lycéennes à l'Élysée. Il leur a promis une « refonte » de Parcoursup, mais les représentants réclament toujours son abrogation et appellent à rester mobilisés. Une rencontre avec Sébastien Lecornu est prévue lundi.",
+   "points": [
+    {
+     "text": "Pour la première fois depuis le début du mouvement, des organisations lycéennes ont été reçues par Emmanuel Macron, vendredi à 15 heures, selon franceinfo et Le Parisien. Après plus d'un mois de colère, la présidence dit vouloir « écouter les revendications », selon BFMTV.",
+     "sources": [
+      "b784c3d02fc9",
+      "66f1e25479fc",
+      "f3c204579763"
+     ]
+    },
+    {
+     "text": "La rencontre a duré près de trois heures. Les représentants se disent globalement « satisfaits » de l'écoute du chef de l'État, qui leur aurait promis une « refonte » de Parcoursup. L'entourage du président confirme qu'il a souligné « le besoin d'une refonte en profondeur de Parcoursup », selon Le HuffPost.",
+     "sources": [
+      "69bb6dce5cf9"
+     ]
+    },
+    {
+     "text": "Ryad Rani, président de l'Union syndicale lycéenne : « On lui parle d'abrogation, [...] on nous parle de lisibilité, de transparence et de refonte ». Il juge néanmoins que « c'est déjà une victoire d'avoir été reçu », selon Le HuffPost.",
+     "sources": [
+      "69bb6dce5cf9"
+     ]
+    },
+    {
+     "text": "Louis Letoublon (Les Lycéens !) : « on a une brèche », une « ouverture » dans laquelle « il faut que nous nous y engouffrions », selon Le HuffPost. Les représentants appellent à « continuer à se mobiliser », selon La Croix.",
+     "sources": [
+      "69bb6dce5cf9",
+      "9c82f33f888b"
+     ]
+    },
+    {
+     "text": "Une rencontre avec le Premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup, selon La Croix.",
+     "sources": [
+      "9c82f33f888b"
+     ]
+    },
+    {
+     "text": "Selon franceinfo, la plateforme en ligne pour recueillir les doléances des lycéens clôture vendredi soir, avec plus de 100 000 contributions. Un spécialiste estime que « tous ces dispositifs ne semblent pas avoir véritablement d'impact ».",
+     "sources": [
+      "b784c3d02fc9"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://focus.huffingtonpost.fr/2026/06/06/62/0/1200/675/0/0/60/0/a03df63_upload-1-oz7kzesbxay5-afp-20260601-b4mx92x-v3-midres-franceeconomybusinesssummit.jpg",
+    "source": "Le HuffPost",
+    "article_url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
+    "article_id": "69bb6dce5cf9",
+    "focus_x": 0.4666666666666667,
+    "focus_y": 0.24138888888888888
+   },
+   "id": 165,
+   "section": "institutions",
+   "reviewed_at": "2026-10-24T09:45:04+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 14.99,
+   "sources": [
+    {
+     "id": "66f1e25479fc",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Emmanuel Macron recevra les organisations lycéennes ce vendredi à 15 heures",
+     "url": "https://www.leparisien.fr/societe/emmanuel-macron-recevra-les-organisations-lyceennes-ce-vendredi-a-15-heures-22-10-2026-OP5DPSB6QRDFZI3QRTEVXUOXK4.php",
+     "published_at": "2026-10-24T09:26:05+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "69bb6dce5cf9",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Mouvement lycéen : cette promesse de Macron n’a pas empêché un nouvel appel à la mobilisation",
+     "url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
+     "published_at": "2026-10-23T19:04:24+00:00",
+     "snippet": "Les représentants des lycéens ont apprécié l’écoute du président et assurent qu’il leur a fait une promesse sur Parcoursup. Pour autant, ils appellent à continuer le mouvement."
+    },
+    {
+     "id": "9c82f33f888b",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Mouvement lycéen : après leur rencontre avec Macron, les représentants appellent à continuer à se mobiliser",
+     "url": "https://www.la-croix.com/politique/mouvement-lyceen-apres-leur-rencontre-avec-macron-les-representants-appellent-a-continuer-a-se-mobiliser-20261023",
+     "published_at": "2026-10-23T19:18:54+00:00",
+     "snippet": "Reçus vendredi 23 octobre à l’Élysée par Emmanuel Macron, les représentants des lycéens appellent à poursuivre la mobilisation. Une rencontre avec le premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup."
+    },
+    {
+     "id": "b784c3d02fc9",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Quels résultats après les consultations de lycéens ? \"Tous ces dispositifs ne semblent pas avoir véritablement d'impact\", pointe un spécialiste",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quels-resultats-apres-les-consultations-de-lyceens-tous-ces-dispositifs-ne-semblent-pas-avoir-veritablement-d-impact-pointe-un-specialiste_8251474.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-23T22:07:24+00:00",
+     "snippet": "Pour la première fois depuis le début du mouvement, des représentants d'organisations lycéennes ont été reçus, vendredi 23 octobre, par Emmanuel Macron. Le chef de l'État leur a promis une \"refonte\" de Parcoursup, mais cela suffira-t-il à répondre à leurs revendications ? Alors que la plateforme en ligne conçue pour recueillir leurs doléances clôture ce soir, plus de 100 000 contributions ont été postées."
+    },
+    {
+     "id": "f3c204579763",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Colère sociale: des représentants lycéens appellent à \"continuer à se mobiliser\" après une rencontre avec Emmanuel Macron",
+     "url": "https://www.bfmtv.com/politique/direct-colere-sociale-conseil-de-defense-rencontre-avec-les-organisations-lyceennes-et-les-forces-de-l-ordre-la-journee-tres-chargee-d-emmanuel-macron-avant-une-nouvelle-mobilisation-attendue-le-24-octobre_LN-202610230108.html",
+     "published_at": "2026-10-23T22:33:03+00:00",
+     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République a reçu les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. À 24 heures des manifestations du 24 octobre, Sébastien Lecornu s'est rendu à Limoges pour évoquer la reconstruction de la mairie, incendiée dans les violences du 17 octobre."
     }
    ]
   },
@@ -701,7 +828,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.07,
+   "score": 3.06,
    "sources": [
     {
      "id": "0003186580f9",
@@ -800,7 +927,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.8,
+   "score": 3.79,
    "sources": [
     {
      "id": "35c292c5bae9",
@@ -921,7 +1048,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.8,
+   "score": 3.79,
    "sources": [
     {
      "id": "15a8bf919944",
@@ -1044,7 +1171,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.8,
+   "score": 3.79,
    "sources": [
     {
      "id": "1fb1b032d565",
@@ -1671,7 +1798,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.15,
+   "score": 3.14,
    "sources": [
     {
      "id": "5b62344298fc",
