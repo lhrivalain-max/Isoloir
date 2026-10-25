@@ -1,146 +1,6 @@
 {
- "generated_at": "2026-10-24T16:03:48+00:00",
+ "generated_at": "2026-10-25T09:08:52+00:00",
  "posts": [
-  {
-   "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
-   "chapo": "Une semaine après le 17 octobre, une nouvelle journée de mobilisation a lieu samedi dans toute la France, avec 70 000 policiers et gendarmes. Les autorités n'autorisent que les manifestations syndicales. À Paris, la justice administrative a validé le parcours de la préfecture, que l'intersyndicale conteste.",
-   "points": [
-    {
-     "text": "Laurent Nuñez annonce 70 000 policiers et gendarmes. Il alerte sur « de nombreux appels de la mouvance ultragauche et de l'extrême gauche radicale » à « s'en prendre à des bâtiments publics » et à commettre des « pillages », selon Le JDD.",
-     "sources": [
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Le dispositif compte le RAID, le GIGN, la BRI à Paris, une vingtaine de blindés Centaure, 15 lanceurs d'eau, des hélicoptères et des drones. Les unités d'élite n'ont pas vocation à assurer le maintien de l'ordre, selon Le JDD. Nuñez : « On sera absolument intraitables ».",
-     "sources": [
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, « les centres-villes se barricadent » et les manifestations de la gauche et de l'extrême gauche pourraient réunir « jusqu'à un demi-million de personnes », selon certaines estimations policières. Pour le journal, Emmanuel Macron « n'a pas le droit à l'erreur » après le 17 octobre.",
-     "sources": [
-      "115735dc9542"
-     ]
-    },
-    {
-     "text": "Selon Libération, les préfets ont interdit les cortèges dans des dizaines de villes. Les syndicats ont déposé vendredi des demandes en bonne et due forme, ce qui a sauvé des défilés, notamment à Marseille.",
-     "sources": [
-      "5084d4a40f4f"
-     ]
-    },
-    {
-     "text": "À Paris, le parcours négocié jeudi entre la Bastille et la Nation a été interdit par la préfecture de police, selon Le Progrès. Le tribunal administratif a rejeté le recours : le parcours porte d'Italie – porte de Vincennes reste le seul autorisé, selon Le Monde.",
-     "sources": [
-      "39a8e215b8c0",
-      "2a7cc723d352"
-     ]
-    },
-    {
-     "text": "Selon L'Humanité, la CGT Île-de-France dénonce « un tour de force du gouvernement » : la préfecture a transmis l'arrêté d'interdiction à 18 heures, « afin de nous empêcher tout recours ». L'Unef parle d'un « contexte global de répression et d'attaques sur nos libertés fondamentales ».",
-     "sources": [
-      "40523eb0489c"
-     ]
-    },
-    {
-     "text": "Sophie Binet (CGT) : « C'est très grave, la liberté de manifester, c'est le fondement de la démocratie », selon L'Humanité. Laurent Nuñez rappelle qu'il revient à chaque préfet d'interdire un cortège « en cas de menace pour l'ordre public », selon Le JDD.",
-     "sources": [
-      "40523eb0489c",
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu : « Le niveau de menace reste encore élevé demain », selon BFMTV. Libération évoque plus de 700 mobilisations prévues par les gilets jaunes, dont 500 manifestations.",
-     "sources": [
-      "e16dd7579ab5",
-      "5084d4a40f4f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/23/13/000_d47w472.jpg?VersionId=uJLoBoBrpbxxTf708ZFf3PkU6Y9SrGuX",
-    "source": "Le JDD",
-    "article_url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
-    "article_id": "3e6025b436b2"
-   },
-   "id": 167,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:58:34+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 16.75,
-   "sources": [
-    {
-     "id": "115735dc9542",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre : après le fiasco, l’épreuve de vérité pour le gouvernement",
-     "url": "https://www.lefigaro.fr/actualite-france/manifestations-du-24-octobre-apres-le-fiasco-l-epreuve-de-verite-pour-le-gouvernement-20261023",
-     "published_at": "2026-10-23T17:25:46+00:00",
-     "snippet": "DÉCRYPTAGE - À l’heure de l’« acte II » de la fronde sociale, les centres-villes se barricadent, des manifestations sont interdites dans plusieurs villes et 70.000 membres des forces de l’ordre sont mobilisés. Emmanuel Macron sait qu’il n’a pas le droit à l’erreur après les violences du 17 octobre."
-    },
-    {
-     "id": "2a7cc723d352",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "EN DIRECT, manifestations du 24 octobre : à Paris, le parcours entre la porte d’Italie et la porte de Vincennes reste le seul autorisé, après le rejet d’un recours par le tribunal administratif",
-     "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
-     "published_at": "2026-10-24T09:10:59+00:00",
-     "snippet": "Les organisateurs avaient déposé un référé au tribunal administratif, dénonçant un itinéraire « imposé » alors que préfecture et intersyndicale s’étaient mises d’accord jeudi sur un cortège entre Bastille et Nation."
-    },
-    {
-     "id": "39a8e215b8c0",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Social. Mobilisation du 24 octobre : la manifestation anti-RN s'élance à Orléans, le tracé confirmé à Paris",
-     "url": "https://www.leprogres.fr/social/2026/10/24/mobilisation-du-24-octobre-une-nouvelle-journee-de-manifestations-sous-haute-tension",
-     "published_at": "2026-10-24T09:06:00+00:00",
-     "snippet": "De nombreuses manifestations sont prévues partout en France ce samedi sur fond de crise sociale et de contestation lycéenne. Les autorités entendent déployer un dispositif de sécurité XXL pour éviter de nouvelles violences et pillages comme ceux survenus le 17 octobre. Suivez l'évolution de la situation dans ce direct."
-    },
-    {
-     "id": "3e6025b436b2",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre : blindés, unités d’élite… Nuñez mobilise 70 000 policiers et gendarmes",
-     "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
-     "published_at": "2026-10-23T12:09:02+00:00",
-     "snippet": "À la veille des manifestations de samedi, Laurent Nuñez alerte sur les appels aux pillages et aux dégradations. Des blindés et des unités d’élite renforceront le dispositif de sécurité, une semaine après les violences du 17 octobre."
-    },
-    {
-     "id": "40523eb0489c",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "24 octobre : le recours des syndicats rejeté, le cortège parisien partira de la porte d’Italie, la CGT dénonce « un tour de force du gouvernement »",
-     "url": "https://www.humanite.fr/-/-/24-octobre-le-recours-des-syndicats-rejete-le-cortege-parisien-partira-de-la-porte-ditalie-la-cgt-denonce-un-tour-de-force-du-gouvernement",
-     "published_at": "2026-10-24T09:34:22+00:00",
-     "snippet": "La justice administrative a rejeté le recours des organisations syndicales, qui contestaient le parcours imposé par la préfecture de police entre la porte d’Italie et la porte de Vincennes. « Nous dénonçons fermement cette décision, qui s’inscrit dans un contexte global de répression et d’attaques sur nos libertés fondamentales », déplore, dans un communiqué l’Unef. Jeudi, les syndicats et…"
-    },
-    {
-     "id": "5084d4a40f4f",
-     "name": "Libération",
-     "kind": "media",
-     "title": "EN DIRECT – Mouvement social : le tribunal administratif de Paris valide le parcours de la préfecture, de porte d’Italie à porte de Vincennes",
-     "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/",
-     "published_at": "2026-10-24T09:14:58+00:00",
-     "snippet": "Une semaine après les manifestations du 17 octobre marquées par des violences et des pillages, les préfets ont interdit les cortèges dans des dizaines de villes. A Paris, l’itinéraire, modifié par la préfecture et validé ce matin, est contesté par l’intersyndicale."
-    },
-    {
-     "id": "e16dd7579ab5",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "24 octobre: \"Le niveau de menace reste encore élevé demain\", déclare Sébastien Lecornu dans la Haute-Vienne",
-     "url": "https://www.bfmtv.com/politique/video-24-octobre-le-niveau-de-menace-reste-encore-eleve-demain-declare-sebastien-lecornu-dans-la-haute-vienne_VN-202610230856.html",
-     "published_at": "2026-10-23T20:25:32+00:00",
-     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République va recevoir ce vendredi 23 octobre les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. Il se rendra ensuite auprès des forces de l'ordre à 24 heures des manifestations du 24 octobre, particulièrement tendues après les violences de la semaine dernière."
-    }
-   ]
-  },
   {
    "headline": "Présidentielle : Marine Le Pen lance sa campagne à Orléans, en tête des sondages et sous tension",
    "chapo": "Après le congrès du RN samedi, Marine Le Pen tient dimanche à Orléans son premier grand meeting de campagne, sous forte protection policière et face à une contre-manifestation. Un sondage OpinionWay la place en tête au premier tour et au second tour dans trois scénarios. La gauche débat de la façon de lui répondre.",
@@ -214,7 +74,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.36,
+   "score": 9.16,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -269,6 +129,146 @@
      "url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-24T05:02:00+00:00",
      "snippet": "Sans surprise attendue, Jordan Bardella devrait conserver la présidence du RN ce week-end. Le congrès du parti doit aussi lui permettre de tourner la page des soupçons liés à ses propos supposés à 17 ans. Avec Marine Le Pen, il s'adressera à près de 10.000 militants pour conclure ce week-end. Jordan Bardella devrait être réélu sans surprise président du Rassemblement national ce week-end, lors du congrès du parti à Orléans. Il conservera la tête du mouvement, un moment qui doit aussi permettre de rassurer les sceptiques en interne, après les révélations de Mediapart. Les enquêtes de Mediapart "
+    }
+   ]
+  },
+  {
+   "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
+   "chapo": "Une semaine après le 17 octobre, une nouvelle journée de mobilisation a lieu samedi dans toute la France, avec 70 000 policiers et gendarmes. Les autorités n'autorisent que les manifestations syndicales. À Paris, la justice administrative a validé le parcours de la préfecture, que l'intersyndicale conteste.",
+   "points": [
+    {
+     "text": "Laurent Nuñez annonce 70 000 policiers et gendarmes. Il alerte sur « de nombreux appels de la mouvance ultragauche et de l'extrême gauche radicale » à « s'en prendre à des bâtiments publics » et à commettre des « pillages », selon Le JDD.",
+     "sources": [
+      "3e6025b436b2"
+     ]
+    },
+    {
+     "text": "Le dispositif compte le RAID, le GIGN, la BRI à Paris, une vingtaine de blindés Centaure, 15 lanceurs d'eau, des hélicoptères et des drones. Les unités d'élite n'ont pas vocation à assurer le maintien de l'ordre, selon Le JDD. Nuñez : « On sera absolument intraitables ».",
+     "sources": [
+      "3e6025b436b2"
+     ]
+    },
+    {
+     "text": "Selon Le Figaro, « les centres-villes se barricadent » et les manifestations de la gauche et de l'extrême gauche pourraient réunir « jusqu'à un demi-million de personnes », selon certaines estimations policières. Pour le journal, Emmanuel Macron « n'a pas le droit à l'erreur » après le 17 octobre.",
+     "sources": [
+      "115735dc9542"
+     ]
+    },
+    {
+     "text": "Selon Libération, les préfets ont interdit les cortèges dans des dizaines de villes. Les syndicats ont déposé vendredi des demandes en bonne et due forme, ce qui a sauvé des défilés, notamment à Marseille.",
+     "sources": [
+      "5084d4a40f4f"
+     ]
+    },
+    {
+     "text": "À Paris, le parcours négocié jeudi entre la Bastille et la Nation a été interdit par la préfecture de police, selon Le Progrès. Le tribunal administratif a rejeté le recours : le parcours porte d'Italie – porte de Vincennes reste le seul autorisé, selon Le Monde.",
+     "sources": [
+      "39a8e215b8c0",
+      "2a7cc723d352"
+     ]
+    },
+    {
+     "text": "Selon L'Humanité, la CGT Île-de-France dénonce « un tour de force du gouvernement » : la préfecture a transmis l'arrêté d'interdiction à 18 heures, « afin de nous empêcher tout recours ». L'Unef parle d'un « contexte global de répression et d'attaques sur nos libertés fondamentales ».",
+     "sources": [
+      "40523eb0489c"
+     ]
+    },
+    {
+     "text": "Sophie Binet (CGT) : « C'est très grave, la liberté de manifester, c'est le fondement de la démocratie », selon L'Humanité. Laurent Nuñez rappelle qu'il revient à chaque préfet d'interdire un cortège « en cas de menace pour l'ordre public », selon Le JDD.",
+     "sources": [
+      "40523eb0489c",
+      "3e6025b436b2"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu : « Le niveau de menace reste encore élevé demain », selon BFMTV. Libération évoque plus de 700 mobilisations prévues par les gilets jaunes, dont 500 manifestations.",
+     "sources": [
+      "e16dd7579ab5",
+      "5084d4a40f4f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 7,
+    "outlets": 7
+   },
+   "image": {
+    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/23/13/000_d47w472.jpg?VersionId=uJLoBoBrpbxxTf708ZFf3PkU6Y9SrGuX",
+    "source": "Le JDD",
+    "article_url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
+    "article_id": "3e6025b436b2"
+   },
+   "id": 167,
+   "section": "institutions",
+   "reviewed_at": "2026-10-24T09:58:34+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.68,
+   "sources": [
+    {
+     "id": "115735dc9542",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Manifestations du 24 octobre : après le fiasco, l’épreuve de vérité pour le gouvernement",
+     "url": "https://www.lefigaro.fr/actualite-france/manifestations-du-24-octobre-apres-le-fiasco-l-epreuve-de-verite-pour-le-gouvernement-20261023",
+     "published_at": "2026-10-23T17:25:46+00:00",
+     "snippet": "DÉCRYPTAGE - À l’heure de l’« acte II » de la fronde sociale, les centres-villes se barricadent, des manifestations sont interdites dans plusieurs villes et 70.000 membres des forces de l’ordre sont mobilisés. Emmanuel Macron sait qu’il n’a pas le droit à l’erreur après les violences du 17 octobre."
+    },
+    {
+     "id": "2a7cc723d352",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "EN DIRECT, manifestations du 24 octobre : à Paris, le parcours entre la porte d’Italie et la porte de Vincennes reste le seul autorisé, après le rejet d’un recours par le tribunal administratif",
+     "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
+     "published_at": "2026-10-24T09:10:59+00:00",
+     "snippet": "Les organisateurs avaient déposé un référé au tribunal administratif, dénonçant un itinéraire « imposé » alors que préfecture et intersyndicale s’étaient mises d’accord jeudi sur un cortège entre Bastille et Nation."
+    },
+    {
+     "id": "39a8e215b8c0",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Social. Mobilisation du 24 octobre : la manifestation anti-RN s'élance à Orléans, le tracé confirmé à Paris",
+     "url": "https://www.leprogres.fr/social/2026/10/24/mobilisation-du-24-octobre-une-nouvelle-journee-de-manifestations-sous-haute-tension",
+     "published_at": "2026-10-24T09:06:00+00:00",
+     "snippet": "De nombreuses manifestations sont prévues partout en France ce samedi sur fond de crise sociale et de contestation lycéenne. Les autorités entendent déployer un dispositif de sécurité XXL pour éviter de nouvelles violences et pillages comme ceux survenus le 17 octobre. Suivez l'évolution de la situation dans ce direct."
+    },
+    {
+     "id": "3e6025b436b2",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Manifestations du 24 octobre : blindés, unités d’élite… Nuñez mobilise 70 000 policiers et gendarmes",
+     "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
+     "published_at": "2026-10-23T12:09:02+00:00",
+     "snippet": "À la veille des manifestations de samedi, Laurent Nuñez alerte sur les appels aux pillages et aux dégradations. Des blindés et des unités d’élite renforceront le dispositif de sécurité, une semaine après les violences du 17 octobre."
+    },
+    {
+     "id": "40523eb0489c",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "24 octobre : le recours des syndicats rejeté, le cortège parisien partira de la porte d’Italie, la CGT dénonce « un tour de force du gouvernement »",
+     "url": "https://www.humanite.fr/-/-/24-octobre-le-recours-des-syndicats-rejete-le-cortege-parisien-partira-de-la-porte-ditalie-la-cgt-denonce-un-tour-de-force-du-gouvernement",
+     "published_at": "2026-10-24T09:34:22+00:00",
+     "snippet": "La justice administrative a rejeté le recours des organisations syndicales, qui contestaient le parcours imposé par la préfecture de police entre la porte d’Italie et la porte de Vincennes. « Nous dénonçons fermement cette décision, qui s’inscrit dans un contexte global de répression et d’attaques sur nos libertés fondamentales », déplore, dans un communiqué l’Unef. Jeudi, les syndicats et…"
+    },
+    {
+     "id": "5084d4a40f4f",
+     "name": "Libération",
+     "kind": "media",
+     "title": "EN DIRECT – Mouvement social : le tribunal administratif de Paris valide le parcours de la préfecture, de porte d’Italie à porte de Vincennes",
+     "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/",
+     "published_at": "2026-10-24T09:14:58+00:00",
+     "snippet": "Une semaine après les manifestations du 17 octobre marquées par des violences et des pillages, les préfets ont interdit les cortèges dans des dizaines de villes. A Paris, l’itinéraire, modifié par la préfecture et validé ce matin, est contesté par l’intersyndicale."
+    },
+    {
+     "id": "e16dd7579ab5",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "24 octobre: \"Le niveau de menace reste encore élevé demain\", déclare Sébastien Lecornu dans la Haute-Vienne",
+     "url": "https://www.bfmtv.com/politique/video-24-octobre-le-niveau-de-menace-reste-encore-eleve-demain-declare-sebastien-lecornu-dans-la-haute-vienne_VN-202610230856.html",
+     "published_at": "2026-10-23T20:25:32+00:00",
+     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République va recevoir ce vendredi 23 octobre les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. Il se rendra ensuite auprès des forces de l'ordre à 24 heures des manifestations du 24 octobre, particulièrement tendues après les violences de la semaine dernière."
     }
    ]
   },
@@ -355,7 +355,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.16,
+   "score": 9.67,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -505,7 +505,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.84,
+   "score": 9.35,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -636,7 +636,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.36,
+   "score": 9.16,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -765,7 +765,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.37,
+   "score": 7.79,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -892,7 +892,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.88,
+   "score": 7.6,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -1004,7 +1004,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.88,
+   "score": 7.6,
    "sources": [
     {
      "id": "66f1e25479fc",
@@ -1124,7 +1124,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.63,
+   "score": 4.6,
    "sources": [
     {
      "id": "1fedd0395cdd",
@@ -1253,7 +1253,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.69,
+   "score": 3.84,
    "sources": [
     {
      "id": "0d71b5cac397",
@@ -1375,7 +1375,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.75,
+   "score": 3.07,
    "sources": [
     {
      "id": "4943e3e6cc0c",
@@ -1488,7 +1488,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.81,
+   "score": 2.3,
    "sources": [
     {
      "id": "0003186580f9",
@@ -1596,7 +1596,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.22,
+   "score": 4.47,
    "sources": [
     {
      "id": "001d50188857",
@@ -1740,7 +1740,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.56,
+   "score": 3.04,
    "sources": [
     {
      "id": "35c292c5bae9",
@@ -1861,7 +1861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.56,
+   "score": 3.04,
    "sources": [
     {
      "id": "15a8bf919944",
@@ -1984,7 +1984,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.56,
+   "score": 3.04,
    "sources": [
     {
      "id": "1fb1b032d565",
@@ -2099,7 +2099,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.85,
+   "score": 2.44,
    "sources": [
     {
      "id": "18e017214635",
