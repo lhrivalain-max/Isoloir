@@ -401,6 +401,129 @@
    ]
   },
   {
+   "headline": "Budget de la Sécu 2027 : l'Assemblée le rejette, que se passe-t-il maintenant ?",
+   "chapo": "Les députés ont rejeté la partie « recettes » du budget de la Sécurité sociale, ce qui interrompt leur examen du texte. Il part au Sénat dans sa version initiale. Droite, gauche et bloc central se renvoient la responsabilité de cet échec.",
+   "points": [
+    {
+     "text": "Selon LCP, l'Assemblée a rejeté vendredi la partie « recettes » du projet de loi de financement de la Sécurité sociale par 115 voix contre 1. Tous les groupes se sont opposés, sauf le bloc central (Ensemble pour la République, Les Démocrates, Horizons), qui s'est abstenu.",
+     "sources": [
+      "fa181d7d95f1"
+     ]
+    },
+    {
+     "text": "Pourquoi le texte s'arrête-t-il là ? Selon LCP, les députés ne peuvent pas débattre des dépenses si le financement n'a pas été adopté. Le texte va donc au Sénat, dans la version initiale du gouvernement.",
+     "sources": [
+      "fa181d7d95f1"
+     ]
+    },
+    {
+     "text": "Boursorama précise que le Sénat s'en saisira le 9 novembre. Le gouvernement vise un déficit de la Sécu de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
+     "sources": [
+      "6332a83f9c0e"
+     ]
+    },
+    {
+     "text": "Avant le vote final, Le Monde relève que sur 18 articles initiaux, 15 avaient été supprimés. Parmi eux : la prorogation de la taxe des organismes complémentaires (1,1 milliard d'euros attendus), l'extension de la taxe sur les produits sucrés (300 millions) ou la diminution des allégements (3,7 milliards).",
+     "sources": [
+      "2ef82dd3b2d9"
+     ]
+    },
+    {
+     "text": "Sur la taxe sur les produits sucrés, selon CNews, LR, RN et leurs alliés ont voté pour sa suppression (86 voix contre 58). MoDem, LFI, socialistes, écologistes et Liot s'y sont opposés ; Horizons et Renaissance se sont divisés.",
+     "sources": [
+      "b992d6e596de"
+     ]
+    },
+    {
+     "text": "Le RN a fait passer un amendement supprimant la C3S (coût : 5,5 milliards d'euros selon le ministre David Amiel). Un amendement écologiste sur un départ à 62 ans pour 42 ans de cotisation représente 1,2 milliard de perte, selon le ministre, d'après Boursorama.",
+     "sources": [
+      "6332a83f9c0e"
+     ]
+    },
+    {
+     "text": "David Amiel dit que les votes ont « virtuellement » dégradé le déficit à 24 milliards d'euros. Selon Le Monde, il a lancé : « Le budget de la France, ce n’est pas un jeu vidéo ».",
+     "sources": [
+      "6332a83f9c0e",
+      "2ef82dd3b2d9"
+     ]
+    },
+    {
+     "text": "Chacun s'est renvoyé la responsabilité, selon Boursorama. Christophe Bentz (RN) au bloc central : « Vos députés, vos soldats, ils ont déserté ». Sandrine Runel (PS) : « Nous avons des recettes à proposer, mais vous avez tout refusé ».",
+     "sources": [
+      "6332a83f9c0e"
+     ]
+    },
+    {
+     "text": "Côté critiques de fond, LCP cite Justine Gruet (Droite républicaine) : « L'impératif de redressement des comptes sociaux n'est pas tenu ». Sandrine Runel juge que le texte « n'apporte aucune recette à la hauteur des besoins ». Joëlle Mélin (RN) dénonce des « rustines ».",
+     "sources": [
+      "fa181d7d95f1"
+     ]
+    },
+    {
+     "text": "Et après ? Boursorama écrit que tous anticipent le recours à l'article 49 alinéa 3 de la Constitution ou aux ordonnances. Le rapporteur Thibault Bazin (LR) espère une seconde lecture où « il faudra essayer de trouver un chemin ».",
+     "sources": [
+      "6332a83f9c0e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/rousseau%20an%2023%2010%2026.jpg?h=c673cd1c&itok=MkAvUIB0",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+    "article_id": "fa181d7d95f1"
+   },
+   "id": 173,
+   "section": "institutions",
+   "reviewed_at": "2026-10-25T17:10:49+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "2ef82dd3b2d9",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
+     "published_at": "2026-10-23T16:21:16+00:00",
+     "snippet": "Dans un hémicycle quasiment déserté par les soutiens du gouvernement, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale. Le parcours du texte n’est pas terminé et le gouvernement espère encore trouver une voie de passage."
+    },
+    {
+     "id": "6332a83f9c0e",
+     "name": "Boursorama",
+     "kind": "media",
+     "title": "L'Assemblée rejette à la quasi-unanimité le budget de la Sécu, qui part au Sénat",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/l-assemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat-22fd8675720f04c3797bbd039474a296",
+     "published_at": "2026-10-23T15:14:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b992d6e596de",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Budget de la Sécu : les députés rejettent une taxe sur les produits sucrés",
+     "url": "https://www.cnews.fr/france/2026-10-23/budget-de-la-secu-les-deputes-rejettent-une-taxe-sur-les-produits-sucres-1940335",
+     "published_at": "2026-10-23T05:13:28+00:00",
+     "snippet": "Les députés ont rejeté ce jeudi la création d'une taxe sur les produits transformés sucrés, mesure destinée à pousser les industriels à réduire le taux de sucre dans leurs recettes. Un premier vote clair. Les députés ont rejeté jeudi la création d'une taxe sur les produits transformés sucrés, proposée par le gouvernement dans le budget de la Sécurité sociale pour 2027, et visant à lutter contre les maladies chroniques associées à l'excès de sucre. La mesure est destinée à pousser les industriels à réduire le taux de sucre dans leurs recettes, mais elle suscite une levée de boucliers de leur pa"
+    },
+    {
+     "id": "fa181d7d95f1",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget de la Sécu: l'Assemblée nationale rejette la partie \"recettes\", l'ensemble du texte va être transmis au Sénat",
+     "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+     "published_at": "2026-10-24T09:26:08+00:00",
+     "snippet": "Par Maxence Kagni Ludovic FAU, le Vendredi 23 octobre 2026 à 12:59 L'Assemblée nationale a rejeté, ce vendredi 23 octobre, la partie \"recettes\" du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. L'ensemble du texte va donc être transmis au Sénat, sans que la partie \"dépenses\" ne soit examinée par les députés. Pas de recettes, pas de dépenses... Après avoir largement détricoté la partie \"recettes\" du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, l'Assemblée nationale l'a finalement rejetée, ce vendredi 23 octobre, par 115 voix \"contre\" 1 voix \"pou"
+    }
+   ]
+  },
+  {
    "headline": "Gazole : le décret des stocks stratégiques est publié, une baisse attendue le 1er novembre",
    "chapo": "Le gouvernement a publié le décret qui libère 10 millions de barils de gazole des réserves stratégiques. Il espère une baisse de 12 à 18 centimes par litre dès le 1er novembre. Des spécialistes jugent le chiffre incertain.",
    "points": [
