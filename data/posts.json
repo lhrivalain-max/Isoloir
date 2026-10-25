@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:11:01+00:00",
+ "generated_at": "2026-10-25T17:11:25+00:00",
  "posts": [
   {
    "headline": "Interdire LFI : la proposition de Retailleau et Larcher tient-elle juridiquement ?",
@@ -84,7 +84,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.99,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -130,6 +130,139 @@
      "url": "https://www.publicsenat.fr/actualites/politique/exclusif-bruno-retailleau-est-ridicule-jean-luc-melenchon-reagit-a-sa-proposition-dinterdire-lfi",
      "published_at": "2026-10-01T14:47:00+00:00",
      "snippet": "Invité de BFMTV-RMC ce jeudi 1er octobre, le candidat LR à la présidentielle Bruno Retailleau a réagi au mouvement des lycéens. Il a déclaré que La France Insoumise était un parti « fasciné par la vio"
+    }
+   ]
+  },
+  {
+   "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
+   "chapo": "Marine Le Pen a tenu dimanche son premier grand meeting de campagne, à Orléans. Elle promet une « renaissance », un gouvernement d'union nationale dirigé par Jordan Bardella, la priorité nationale et plus de référendums. Le discours de Bardella a été interrompu par des militants de l'UEJF.",
+   "points": [
+    {
+     "text": "Le thème central : la « Renaissance ». Marine Le Pen a déclaré, selon BFMTV : « je ne vous propose pas de refaire la France d'avant, je vous propose de concevoir et de construire la France de demain ». Elle a ajouté : « C’était bien avant, ce sera mieux demain ».",
+     "sources": [
+      "f69ab0162765"
+     ]
+    },
+    {
+     "text": "Elle promet un gouvernement « d’union nationale », « pluraliste » et dirigé par Jordan Bardella, rapporte Le Monde. Elle justifie ce « gouvernement ouvert » par « la situation d’un pays fracturé ».",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Sur les institutions, selon CNews : un recours au référendum pour rétablir le « droit d’expression politique » des citoyens et un mode de scrutin proportionnel « avec prime majoritaire ».",
+     "sources": [
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Sur l'immigration et la nationalité, CNews cite : « La nationalité française redeviendra un privilège qui s’hérite ou se mérite », avec « la priorité nationale ». Midi Libre ajoute l'« expulsion automatique et définitive » des étrangers délinquants et l'« interdiction du communautarisme ».",
+     "sources": [
+      "bcaf77466d6e",
+      "b0f25dd5f473"
+     ]
+    },
+    {
+     "text": "Sur l'Europe, Midi Libre rapporte qu'elle affirme la primauté de la Constitution : « Aucun texte, aucune autorité, et surtout pas étrangère, même européenne, ne lui sera supérieure ». Le journal y voit un possible « choc frontal » avec l'Union européenne.",
+     "sources": [
+      "b0f25dd5f473"
+     ]
+    },
+    {
+     "text": "Sur les retraites, selon Midi Libre, elle ne s'est pas engagée à revenir à 60 ans comme par le passé, mais à ne pas repousser l'âge de départ au-delà de 64 ans. CNews cite : faire « entrer plus tôt les jeunes sur le marché du travail ».",
+     "sources": [
+      "b0f25dd5f473",
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Sur la guerre et la paix, Le Monde rapporte son engagement à faire de la France une « nation de paix » et à ne pas envoyer « nos jeunes mourir dans des aventures guerrières inconsidérées ou irresponsables ».",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Elle a aussi visé « LFI et sa branche armée, les casseurs antifa », selon CNews, qu'elle range parmi les mouvements qui prônent « l’intolérance et la violence ». CNews cite enfin sa promesse d'abolir « la stupide loi Hulot » sur les hydrocarbures.",
+     "sources": [
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Le contexte, selon Le Monde : 8 500 personnes, selon les organisateurs, dans une salle « transformée en camp retranché ». Une centaine de militants antifascistes se sont rassemblés loin du congrès, malgré l'interdiction préfectorale.",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Le discours de Jordan Bardella a été interrompu par des militants de l'UEJF, qui ont déployé une banderole sur le « racisme et l’antisémitisme ». Ils ont été expulsés par le service d'ordre du RN, selon Le Parisien. L'UEJF dit avoir été « agressée » et veut porter plainte. Bardella a répondu : « Ne faites pas de publicité à l’ultragauche qui déteste la démocratie ».",
+     "sources": [
+      "4eb908b50010"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ekloaGpGRb4eHmRuRaswUM4iWQI=/0x0:1920x1080/800x0/images/Marine-Le-Pen-au-congres-du-RN-a-Orleans-le-25-octobre-2026-2371866.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
+    "article_id": "f69ab0162765"
+   },
+   "id": 177,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-25T17:11:25+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "40ac98698f53",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
+     "published_at": "2026-10-25T13:42:59+00:00",
+     "snippet": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours."
+    },
+    {
+     "id": "4eb908b50010",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Vous êtes un danger pour la France » : des militants de l’UEJF interrompent Jordan Bardella en plein discours au congrès du RN",
+     "url": "https://www.leparisien.fr/politique/congres-du-rn-le-discours-de-jordan-bardella-interrompu-par-des-militants-dune-association-de-lutte-contre-lantisemitisme-25-10-2026-WDRDLBUZ3JABNBKS45UK4ILHXE.php",
+     "published_at": "2026-10-25T17:10:47+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b0f25dd5f473",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Présidentielle 2027 : priorité nationale, Jordan Bardella Premier ministre, référendum… que retenir du premier meeting de Marine Le Pen",
+     "url": "https://www.midilibre.fr/2026/10/25/presidentielle-2027-priorite-nationale-jordan-bardella-premier-ministre-referendum-que-retenir-du-premier-meeting-de-marine-le-pen-13619984.php",
+     "published_at": "2026-10-25T16:59:02+00:00",
+     "snippet": "Marine Le Pen a tenu son premier meeting de campagne ce dimanche 25 octobre à Orléans en conclusion du congrès du RN. Devant ses militants, la candidate à la présidentielle a promis un gouvernement \"d’union nationale\"..."
+    },
+    {
+     "id": "bcaf77466d6e",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Congrès du RN : sécurité, identité, souveraineté... Ce qu'il faut retenir du premier grand discours de campagne de Marine Le Pen",
+     "url": "https://www.cnews.fr/france/2026-10-25/congres-du-rn-securite-identite-souverainete-ce-quil-faut-retenir-du-premier",
+     "published_at": "2026-10-25T17:04:21+00:00",
+     "snippet": "À six mois de la présidentielle et dans le cadre de la deuxième journée du congrès du Rassemblement national à Orléans, Marine Le Pen s’est exprimée autour de trois grands axes que sont la renaissance, la puissance et sa vision pour l'avenir du pays. La renaissance au premier plan pour Marine Le Pen. Au deuxième jour du congrès du Rassemblement national, qui se tient à Orléans dans un contexte national tendu, la candidate à la présidentielle a tenu son premier grand discours de campagne. La présidente du groupe RN à l’Assemblée nationale a ainsi affirmé son objectif «d’offrir au pays une grand"
+    },
+    {
+     "id": "f69ab0162765",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Je ne vous propose pas de refaire la France d'avant\": Marine Le Pen plaide pour une \"Renaissance\" du pays",
+     "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
+     "published_at": "2026-10-25T16:48:05+00:00",
+     "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
     }
    ]
   },
@@ -483,7 +616,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 11.99,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -600,7 +733,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 11.99,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -1144,7 +1277,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.83,
+   "score": 7.82,
    "sources": [
     {
      "id": "1792233a8e91",
