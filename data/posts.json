@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:11:00+00:00",
+ "generated_at": "2026-10-25T17:11:01+00:00",
  "posts": [
   {
    "headline": "Interdire LFI : la proposition de Retailleau et Larcher tient-elle juridiquement ?",
@@ -220,7 +220,7 @@
    },
    "id": 174,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-25T17:10:43+00:00",
+   "reviewed_at": "2026-10-25T17:11:01+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
@@ -351,7 +351,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.99,
    "sources": [
     {
      "id": "09854a8f5f8f",
