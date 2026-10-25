@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:10:32+00:00",
+ "generated_at": "2026-10-25T17:10:39+00:00",
  "posts": [
   {
    "headline": "Mobilisation du 24 octobre : un bilan plus calme que le 17, mais des interdictions contestées",
@@ -256,6 +256,123 @@
      "url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-24T05:02:00+00:00",
      "snippet": "Sans surprise attendue, Jordan Bardella devrait conserver la présidence du RN ce week-end. Le congrès du parti doit aussi lui permettre de tourner la page des soupçons liés à ses propos supposés à 17 ans. Avec Marine Le Pen, il s'adressera à près de 10.000 militants pour conclure ce week-end. Jordan Bardella devrait être réélu sans surprise président du Rassemblement national ce week-end, lors du congrès du parti à Orléans. Il conservera la tête du mouvement, un moment qui doit aussi permettre de rassurer les sceptiques en interne, après les révélations de Mediapart. Les enquêtes de Mediapart "
+    }
+   ]
+  },
+  {
+   "headline": "Gazole : le décret des stocks stratégiques est publié, une baisse attendue le 1er novembre",
+   "chapo": "Le gouvernement a publié le décret qui libère 10 millions de barils de gazole des réserves stratégiques. Il espère une baisse de 12 à 18 centimes par litre dès le 1er novembre. Des spécialistes jugent le chiffre incertain.",
+   "points": [
+    {
+     "text": "Selon franceinfo, un décret a été publié samedi au Journal officiel. Il autorise la vente de stocks stratégiques pour 1,6 million de m3, soit environ 10 millions de barils, jusqu'au 31 janvier. La répercussion sur les consommateurs est prévue à compter du 1er novembre.",
+     "sources": [
+      "e482ad513179"
+     ]
+    },
+    {
+     "text": "Le contexte, selon Public Sénat : les prix des carburants restent très élevés sur les marchés mondiaux « en raison du conflit dans le Golfe et du blocage du détroit d'Ormuz ». Le gazole libéré a été acheté avant la flambée des cours.",
+     "sources": [
+      "cab9373d141e"
+     ]
+    },
+    {
+     "text": "Le gouvernement espère diminuer le prix du gazole de 12 à 18 centimes par litre, selon franceinfo. Depuis début octobre, il oscille en moyenne entre 2,3 et 2,4 euros le litre, selon les chiffres du gouvernement.",
+     "sources": [
+      "e482ad513179"
+     ]
+    },
+    {
+     "text": "Selon La Dépêche du Midi, Sébastien Lecornu assure que ces stocks seront mis sur le marché à leur prix d'acquisition, « près de quatre fois inférieur au prix actuel du marché ». Sur un plein de 50 litres, la baisse de 18 centimes représente 9 euros d'économie, calcule le quotidien.",
+     "sources": [
+      "bfedb08cd3b8"
+     ]
+    },
+    {
+     "text": "Le décret impose aux distributeurs de répercuter intégralement la baisse sur les consommateurs et de les informer avant la vente. Des bilans réguliers des ventes sont transmis aux autorités pour contrôle, selon franceinfo.",
+     "sources": [
+      "e482ad513179"
+     ]
+    },
+    {
+     "text": "D'où viennent ces stocks ? Public Sénat explique que les pays membres de l'AIE doivent garder au minimum 90 jours d'importations nettes. Les stocks français correspondent au minimum à 105 jours, selon la spécialiste Alice Moscovici.",
+     "sources": [
+      "cab9373d141e"
+     ]
+    },
+    {
+     "text": "Alice Moscovici prévient aussi : « ces 12 à 18 centimes, c'est ce que le gouvernement espère », car l'impact dépend de beaucoup de choses, notamment du prix auquel les barils ont été achetés, selon Public Sénat.",
+     "sources": [
+      "cab9373d141e"
+     ]
+    },
+    {
+     "text": "Pierre Chasseray, de l'association 40 millions d'automobilistes, estime sur Europe 1 : « Le gouvernement fait un pari quand même très risqué ». Il redoute que « la moindre étincelle du côté du détroit d'Ormuz » fasse repartir les prix à la hausse.",
+     "sources": [
+      "af33e58914d4"
+     ]
+    },
+    {
+     "text": "La Dépêche du Midi rappelle que le patron de TotalEnergies, Patrick Pouyanné, s'était engagé à baisser d'environ 10 centimes le prix du litre de gazole pour les particuliers. franceinfo ajoute qu'un décret distinct prolonge jusqu'en décembre l'aide de 15 centimes par litre sur le gazole non routier agricole.",
+     "sources": [
+      "bfedb08cd3b8",
+      "e482ad513179"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.franceinfo.fr/pictures/Ts4mANaUoCa1L5GNKlo0xOaOU7s/0x59:1024x635/432x243/filters:format(jpg)/2026/10/24/6adcbb76656b7057203332.jpg",
+    "source": "franceinfo",
+    "article_url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D",
+    "article_id": "e482ad513179"
+   },
+   "id": 175,
+   "section": "institutions",
+   "reviewed_at": "2026-10-25T17:10:39+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "af33e58914d4",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Prix des carburants : le déblocage de 10 millions de barils de gazole est « un pari risqué », juge Pierre Chasseray",
+     "url": "https://www.europe1.fr/economie/prix-des-carburants-le-deblocage-de-10-millions-de-barils-de-gazole-est-un-pari-risque-juge-pierre-chasseray-1133843",
+     "published_at": "2026-10-09T12:42:00+00:00",
+     "snippet": "Après l'annonce du déblocage de dix millions de barils de gazole issus des réserves stratégiques françaises, Pierre Chasseray, délégué général de l'association 40 millions d'automobilistes, doute de l"
+    },
+    {
+     "id": "bfedb08cd3b8",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Prix des carburants : \"Cette baisse est attendue à compter du 1er novembre\", Sébastien Lecornu annonce la signature du décret visant à réduire le prix du litre de gazole de 18 centimes",
+     "url": "https://www.ladepeche.fr/2026/10/24/prix-des-carburants-cette-baisse-est-attendue-a-compter-du-1er-novembre-sebastien-lecornu-annonce-la-signature-du-decret-visant-a-reduire-le-prix-du-13618356.php",
+     "published_at": "2026-10-24T10:01:38+00:00",
+     "snippet": "Le Premier ministre Sébastien Lecornu a annoncé ce samedi la signature d'un décret \"permettant la libération de 10 millions de barils de gazole\". Un décret qui pourrait rapidement avoir des effets sur le prix à la..."
+    },
+    {
+     "id": "cab9373d141e",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Prix du carburant : les mesures annoncées par Sébastien Lecornu auront-elles vraiment un impact sur les prix ?",
+     "url": "https://www.publicsenat.fr/actualites/politique/prix-du-carburant-les-mesures-annoncees-par-sebastien-lecornu-auront-elles-vraiment-un-impact-sur-les-prix",
+     "published_at": "2026-10-08T15:38:41+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "e482ad513179",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Un décret a été publié en vue de la libération de stocks stratégiques de gazole pour faire baisser les prix à la pompe",
+     "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-24T14:07:35+00:00",
+     "snippet": "Le texte autorise la vente de stocks stratégiques pour un volume maximum de 1,6 million de mètres cubes. Le gouvernement de Sébastien Lecornu espère ainsi diminuer de 12 à 18 centimes par litre le prix du gazole."
     }
    ]
   },
