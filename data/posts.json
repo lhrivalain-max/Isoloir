@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:18:39+00:00",
+ "generated_at": "2026-10-26T14:18:52+00:00",
  "posts": [
   {
    "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
@@ -131,6 +131,98 @@
      "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
      "published_at": "2026-10-25T16:48:05+00:00",
      "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
+    }
+   ]
+  },
+  {
+   "headline": "Mélenchon à Macron : « céder » ou « la porte de sortie », avec une grève générale en vue le 5 novembre",
+   "chapo": "Dans le cortège parisien du 24 octobre, Jean-Luc Mélenchon a sommé Emmanuel Macron de « céder » aux revendications, en évoquant une grève générale dès le 5 novembre. Les syndicats préparent une journée interprofessionnelle à cette date. Mélenchon a aussi pris à partie un journaliste de BFMTV, et la bataille à gauche avec Raphaël Glucksmann s'intensifie.",
+   "points": [
+    {
+     "text": "Selon BFMTV, Jean-Luc Mélenchon a exhorté Emmanuel Macron à « céder » car « après, il ne lui restera plus que la porte de sortie » : « ça va se répéter toutes les semaines ». Pour lui, ce qui « pend au nez » de l'exécutif, c'est « la grève générale », à partir du 5 novembre, à l'appel de la patronne de la CGT Sophie Binet.",
+     "sources": [
+      "58613e847632"
+     ]
+    },
+    {
+     "text": "Il a demandé à l'exécutif « d'arrêter les provocations » après le changement tardif de parcours. Marine Tondelier (Écologistes) accuse le gouvernement d'avoir joué « la stratégie du pourrissement » pendant un mois, selon BFMTV.",
+     "sources": [
+      "58613e847632"
+     ]
+    },
+    {
+     "text": "L'Humanité raconte une foule « massive et calme » à Paris et des syndicats qui annoncent 250 000 personnes. Ils préparent désormais la journée de mobilisation interprofessionnelle du 5 novembre. Le tribunal administratif a rejeté leur référé contre le parcours, « déposé hors délai ».",
+     "sources": [
+      "d08abf2dcae1"
+     ]
+    },
+    {
+     "text": "Le JDD relate qu'interrogé par un journaliste de BFMTV, Mélenchon a répondu : « Allez faire du racisme à la télé et foutez-nous la paix ». Le JDD rappelle qu'en septembre, LFI avait annoncé boycotter BFMTV une semaine en raison de sa ligne éditoriale « de plus en plus à droite ».",
+     "sources": [
+      "d4118d5b8a8c"
+     ]
+    },
+    {
+     "text": "À gauche, la concurrence s'aiguise, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon atteint 17 % et se qualifie pour le second tour dans tous les cas de figure. L'équipe de Glucksmann espère lui disputer le vote utile face au RN : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ».",
+     "sources": [
+      "047bda588bce"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rImiZVpvmIKYShSOqEkOJ7AOLF8=/0x0:1920x1080/800x0/images/Jean-Luc-Melenchon-a-Paris-lors-d-une-manifestation-le-24-octobre-2026-2371469.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
+    "article_id": "58613e847632"
+   },
+   "id": 179,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-26T14:18:52+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "047bda588bce",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
+     "published_at": "2026-10-25T11:04:54+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "58613e847632",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Manifestations du 24 octobre: Jean-Luc Mélenchon appelle Emmanuel Macron à \"céder\" face aux revendications car \"après, il ne lui restera plus que la porte de sortie\"",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
+     "published_at": "2026-10-24T13:07:47+00:00",
+     "snippet": "Le candidat à la présidentielle, présent dans le cortège à Paris du 24 octobre, a souligné que le chef de l'État \"va comprendre que ça va se répéter toutes les semaines\"."
+    },
+    {
+     "id": "d08abf2dcae1",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "24 octobre : la rue parisienne répond par le calme aux provocations d’Emmanuel Macron, et prépare la grève du 5 novembre",
+     "url": "https://www.humanite.fr/social-et-economie/cgt/24-octobre-la-rue-parisienne-repond-par-le-calme-aux-provocations-demmanuel-macron-et-prepare-la-greve-du-5-novembre",
+     "published_at": "2026-10-24T15:30:29+00:00",
+     "snippet": "Loin d’affaiblir la mobilisation sociale, les mesures répressives ont galvanisé les manifestants dans la capitale, ce samedi. Les syndicats ont désormais les yeux rivés sur la journée de mobilisation interprofessionnelle du 5 novembre."
+    },
+    {
+     "id": "d4118d5b8a8c",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«Commencez à vous calmer» : Mélenchon prend encore un journaliste à partie en pleine manifestation",
+     "url": "https://www.lejdd.fr/politique/commencez-a-vous-calmer-melenchon-prend-encore-un-journaliste-a-partie-en-pleine-manifestation-186870",
+     "published_at": "2026-10-24T15:27:16+00:00",
+     "snippet": "Présent dans le cortège parisien ce samedi 24 octobre, le fondateur de La France insoumise a vivement pris à partie un journaliste de BFMTV, lui lançant notamment : « Allez faire du racisme à la télé et foutez-nous la paix. »"
     }
    ]
   },
