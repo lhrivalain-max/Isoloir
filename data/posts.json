@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:41:44+00:00",
+ "generated_at": "2026-10-26T15:42:01+00:00",
  "posts": [
   {
    "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
@@ -126,6 +126,122 @@
      "url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
      "published_at": "2026-10-26T10:50:43+00:00",
      "snippet": "L’institution affirme que la procédure lancée par les parlementaires d’extrême droite ne repose « sur aucune base constitutionnelle ». Ces derniers estiment que le président du Conseil constitutionnel a outrepassé sa fonction en prenant position contre la révision de la Constitution par référendum, une mesure figurant au programme de Marine Le Pen."
+    }
+   ]
+  },
+  {
+   "headline": "Macron à Marseille : l'état d'urgence n'est « pas un tabou », et les prochaines manifestations hors des centres-villes",
+   "chapo": "En visite surprise à Marseille, Emmanuel Macron a reconnu que le 17 octobre n'avait « pas du tout » été anticipé. Il écarte pour l'instant l'état d'urgence, sans l'exclure si « les choses devaient se dégrader ». Pour le 31 octobre, les cortèges devront rester hors des centres-villes. À droite, la surenchère sécuritaire se poursuit.",
+   "points": [
+    {
+     "text": "Selon BFMTV, Macron a reconnu que les autorités n'avaient « pas du tout anticipé » le 17 octobre et que « les forces de police n'étaient pas dûment proportionnées ». Il explique qu'on n'avait pas prévu autant de forces d'ultragauche mobilisées très tôt le matin, ni la délinquance venue s'y greffer.",
+     "sources": [
+      "e0e84ecdce55"
+     ]
+    },
+    {
+     "text": "Sur l'état d'urgence, il estime : « On tient la République et l'ordre public sans état d'urgence ». Mais ce n'est pas « un interdit ou un tabou » si « les choses devaient se dégrader ». L'origine de la crise n'est « pas comparable » à l'été 2023, ajoute-t-il, selon BFMTV.",
+     "sources": [
+      "e0e84ecdce55"
+     ]
+    },
+    {
+     "text": "Pour le samedi 31 octobre, jugé « à risque », LCP rapporte qu'il demande des tracés hors des centres-villes, comme le 24 octobre, pour prévenir dégradations et pillages. La mission est de « tenir et protéger », et le gouvernement est « humble et concentré ».",
+     "sources": [
+      "6b82573877bb"
+     ]
+    },
+    {
+     "text": "Il évoque aussi la journée de mobilisation nationale du 5 novembre. « Il n'est pas écrit qu'il y ait une chronique de chaque samedi qui doive reprendre », espère-t-il, en référence aux gilets jaunes, selon BFMTV.",
+     "sources": [
+      "e0e84ecdce55"
+     ]
+    },
+    {
+     "text": "Selon BFMTV, il a aussi jugé que « les réseaux sociaux abîment nos démocraties », car ils ont été utilisés le 17 pour faire venir des gens sur les lieux de pillage.",
+     "sources": [
+      "e0e84ecdce55"
+     ]
+    },
+    {
+     "text": "L'Humanité rapporte un « mea-culpa » de Macron sur le manque d'anticipation, et note qu'il s'est félicité d'un retour à l'« ordre public » après l'interdiction des manifestations non syndicales et les couvre-feux.",
+     "sources": [
+      "1a0f78b60ef6"
+     ]
+    },
+    {
+     "text": "Le maire de Marseille, Benoît Payan, présent aux côtés du président, a appelé à une « sortie politique » du mouvement social. Macron a admis des « demandes légitimes » à l'origine du conflit, selon LCP.",
+     "sources": [
+      "6b82573877bb"
+     ]
+    },
+    {
+     "text": "À droite, la course à la fermeté continue, selon Europe 1 (20 octobre) : Bruno Retailleau réclame l'état d'urgence, qui donnerait aux préfets des moyens d'interpellation et d'interdiction. Gabriel Attal n'écarte pas le recours à l'armée : « S'il faut temporairement avoir recours à des forces armées, il faut le faire ».",
+     "sources": [
+      "2e0bbb71a2d9"
+     ]
+    },
+    {
+     "text": "Jordan Bardella lui répond que « les forces armées dans la rue ont un nom, ça s'appelle la gendarmerie ». Le RN veut voter la loi « casseur-payeur », abaisser la majorité pénale à 16 ans et créer des centres de rétention, rapporte Europe 1.",
+     "sources": [
+      "2e0bbb71a2d9"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yWzN8QxzAlVpMjoIHWwuP2nrpc4=/0x0:1920x1080/800x0/images/Emmanuel-Macron-a-Marseille-le-26-octobre-2026-dix-jours-apres-les-violences-lors-de-la-manifestation-du-17-octobre-2372317.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-reconnait-que-les-violences-du-17-octobre-n-avaient-pas-du-tout-ete-anticipees_AD-202610260458.html",
+    "article_id": "e0e84ecdce55"
+   },
+   "id": 182,
+   "section": "institutions",
+   "reviewed_at": "2026-10-26T15:42:01+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "1a0f78b60ef6",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "En déplacement à Marseille, Macron estime que l’état d’urgence n’est pas « un tabou » si « les choses devaient se dégrader »",
+     "url": "https://www.humanite.fr/politique/emmanuel-macron/en-deplacement-a-marseille-macron-estime-que-letat-durgence-nest-pas-un-tabou-si-les-choses-devaient-se-degrader",
+     "published_at": "2026-10-26T14:17:16+00:00",
+     "snippet": "Emmanuel Macron est en visite surprise, lundi 26 octobre, à Marseille. Depuis, la cité phocéenne le chef de l’État a reconnu un manque d’anticipation de la journée du 17 octobre, marquée par de nombreux pillages et des dégradations. Il s’est par contre félicité d’un retour à l'« ordre public » après l’interdiction des manifestations non syndicales et la mise en place de couvre-feu. Il a précisé ne pas écarter un recours à « l’état d’urgence si les choses devaient se dégrader »."
+    },
+    {
+     "id": "2e0bbb71a2d9",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Les propositions des candidats de droite à la présidentielle : état d'urgence, recours à l'armée, nouvelles lois anti-casseurs... La course à la fermeté après les émeutes",
+     "url": "https://www.europe1.fr/politique/les-propositions-des-candidats-de-droite-a-la-presidentielle-etat-durgence-recours-a-larmee-nouvelles-lois-anti-casseurs-la-course-a-la-fermete-apres-les-emeutes-1164663",
+     "published_at": "2026-10-20T06:32:00+00:00",
+     "snippet": "Après trois jours de violences, les candidats à la présidentielle rivalisent de fermeté. Bruno Retailleau réclame l'état d'urgence, Gabriel Attal n'écarte pas le recours à l'armée, Jordan Bardella mis"
+    },
+    {
+     "id": "6b82573877bb",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Manifestations du 31 octobre: Macron demande des cortèges hors des centres-villes",
+     "url": "https://lcp.fr/actualites/manifestations-du-31-octobre-macron-demande-des-corteges-hors-des-centres-villes-444302",
+     "published_at": "2026-10-26T15:36:45+00:00",
+     "snippet": "Par Pierre Levrel , le Lundi 26 octobre 2026 à 15:48 En visite à Marseille ce lundi 26 octobre, pour constater le \"retour de l'ordre\", le président de la République a annoncé suivre de près les mobilisation prévues le 31 octobre, puis le 5 novembre. Les parcours des manifestants seront établis hors des centres-villes, pour prévenir les dommages matériels. Emmanuel Macron a admis un \"manque d'anticipation\" du gouvernement, aux premières heures du conflit social. \"Je tenais à venir à Marseille pour être aux côtés de monsieur le maire\". En visite lundi 26 octobre dans la deuxième ville de France,"
+    },
+    {
+     "id": "e0e84ecdce55",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Emmanuel Macron reconnaît que les violences du 17 octobre n'avaient \"pas du tout été anticipées\"",
+     "url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-reconnait-que-les-violences-du-17-octobre-n-avaient-pas-du-tout-ete-anticipees_AD-202610260458.html",
+     "published_at": "2026-10-26T12:25:31+00:00",
+     "snippet": "En visite à Marseille, Emmanuel Macron a admis lundi que \"les forces de police n'étaient pas dûment proportionnées\" pour la journée de mobilisation du 17 octobre, en marge de laquelle des dégradations et des pillages ont été commis."
     }
    ]
   },
@@ -430,7 +546,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.35,
+   "score": 11.34,
    "sources": [
     {
      "id": "047bda588bce",
