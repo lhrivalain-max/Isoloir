@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:19:38+00:00",
+ "generated_at": "2026-10-26T15:41:44+00:00",
  "posts": [
   {
    "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
@@ -80,7 +80,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.19,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -205,7 +205,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 11.35,
    "sources": [
     {
      "id": "2872055df568",
@@ -329,7 +329,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.98,
+   "score": 7.74,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -430,7 +430,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 11.35,
    "sources": [
     {
      "id": "047bda588bce",
@@ -467,6 +467,110 @@
      "url": "https://www.lejdd.fr/politique/commencez-a-vous-calmer-melenchon-prend-encore-un-journaliste-a-partie-en-pleine-manifestation-186870",
      "published_at": "2026-10-24T15:27:16+00:00",
      "snippet": "Présent dans le cortège parisien ce samedi 24 octobre, le fondateur de La France insoumise a vivement pris à partie un journaliste de BFMTV, lui lançant notamment : « Allez faire du racisme à la télé et foutez-nous la paix. »"
+    }
+   ]
+  },
+  {
+   "headline": "Tondelier prête à se retirer de la présidentielle « s'il y a un chemin de victoire » à gauche",
+   "chapo": "La candidate des Écologistes n'exclut plus de retirer sa candidature au profit d'un autre candidat de gauche, sous conditions. Les adhérents trancheront du 10 au 13 décembre. Au sein du parti, certains poussent vers Mélenchon, d'autres vers Glucksmann, d'autres pour une candidature autonome.",
+   "points": [
+    {
+     "text": "Selon BFMTV, Marine Tondelier a affirmé sur France 2 qu'elle pourrait se retirer si « un chemin de victoire » est possible pour la gauche unie. « La seule raison » serait « un chemin de victoire pour (son) camp qui pourrait passer par autre chose ».",
+     "sources": [
+      "68dd05dcd257"
+     ]
+    },
+    {
+     "text": "Ses conditions, selon Le JDD : « un accord de gouvernement, un accord aux législatives, parce qu'on ne gouvernera pas seul ; c'est un accord programmatique évidemment, et c'est un accord sur le dispositif de campagne ».",
+     "sources": [
+      "6533d50f040f"
+     ]
+    },
+    {
+     "text": "Elle dit que son « travail » est « que tout soit possible » : « L'autonomie ou une campagne avec quelqu'un d'autre », rapporte Le Parisien. Elle ajoute qu'il est « assez vraisemblable qu'en réalité il y ait un chemin assez évident qui s'impose », sans en dire plus.",
+     "sources": [
+      "caf90adb0fda"
+     ]
+    },
+    {
+     "text": "Elle regrette l'absence d'union : « Sans union de toute la gauche, c'est mal parti et je vois qu'ils n'ont pas envie », en visant Mélenchon et Glucksmann, selon Le Parisien. Elle se demande comment ils pourront convaincre les Français s'ils n'y arrivent pas avec les adhérents écologistes.",
+     "sources": [
+      "caf90adb0fda"
+     ]
+    },
+    {
+     "text": "Les adhérents des Écologistes voteront du 10 au 13 décembre : se maintenir jusqu'au bout, ou se retirer derrière un autre candidat. « Je suis candidate aujourd'hui et la décision finale aura lieu le 13 décembre », a-t-elle dit, selon BFMTV.",
+     "sources": [
+      "68dd05dcd257"
+     ]
+    },
+    {
+     "text": "Dans son camp, BFMTV recense trois lignes. Sandrine Rousseau veut s'aligner rapidement derrière Mélenchon, sur une ligne radicale. Yannick Jadot plaide pour Glucksmann. Certains militants réclament une candidature écologiste autonome.",
+     "sources": [
+      "68dd05dcd257"
+     ]
+    },
+    {
+     "text": "Tondelier défend sa candidature pour porter l'écologie dans la campagne : Mélenchon et Glucksmann, « je ne dis pas qu'ils sont contre l'écologie, mais ce n'est pas leur ADN », selon BFMTV.",
+     "sources": [
+      "68dd05dcd257"
+     ]
+    },
+    {
+     "text": "Elle est donnée entre 1 et 6 % au premier tour selon les configurations, d'après Le Parisien, et autour de 5 % selon Le JDD.",
+     "sources": [
+      "caf90adb0fda",
+      "6533d50f040f"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/26/14/000_d44f2vt.jpg?VersionId=IUbgLuMn_wirLryJbioUbg67DqJ63wEK",
+    "source": "Le JDD",
+    "article_url": "https://www.lejdd.fr/politique/presidentielle-marine-tondelier-prete-a-se-retirer-sil-y-a-un-chemin-de-victoire-pour-la-gauche-187065",
+    "article_id": "6533d50f040f",
+    "focus_x": 0.52,
+    "focus_y": 0.066808142733632
+   },
+   "id": 183,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-26T15:41:44+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "6533d50f040f",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Présidentielle : Marine Tondelier prête à se retirer s'il y a «un chemin de victoire» pour la gauche",
+     "url": "https://www.lejdd.fr/politique/presidentielle-marine-tondelier-prete-a-se-retirer-sil-y-a-un-chemin-de-victoire-pour-la-gauche-187065",
+     "published_at": "2026-10-26T14:23:00+00:00",
+     "snippet": "Marine Tondelier a révélé ce lundi matin sur France 2 les conditions de son éventuel retrait de l'élection présidentielle 2027. La patronne des Écologistes a affirmé regretter l'absence d'une candidature unique de la gauche."
+    },
+    {
+     "id": "68dd05dcd257",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Marine Tondelier prête à retirer sa candidature à l'élection présidentielle \"s'il y a un chemin de victoire\" pour la gauche",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/marine-tondelier-prete-a-retirer-sa-candidature-a-l-election-presidentielle-s-il-y-a-un-chemin-de-victoire-pour-la-gauche_AD-202610260396.html",
+     "published_at": "2026-10-26T11:09:11+00:00",
+     "snippet": "La candidate Les Écologiste à la présidentielle a une nouvelle fois appelé à une union de la gauche pour l'élection que \"personne ne gagnera seul\"."
+    },
+    {
+     "id": "caf90adb0fda",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Marine Tondelier n’exclut pas de se retirer « s’il y a un chemin de victoire » à gauche",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-tondelier-nexclut-pas-de-se-retirer-sil-y-a-un-chemin-de-victoire-a-gauche-26-10-2026-K5GDLKBVZJFVVATZN7X65DCBOI.php",
+     "published_at": "2026-10-26T14:00:25+00:00",
+     "snippet": ""
     }
    ]
   },
@@ -549,7 +653,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.99,
+   "score": 8.51,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -671,7 +775,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.97,
+   "score": 7.74,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -803,7 +907,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.97,
+   "score": 7.74,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -930,7 +1034,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.97,
+   "score": 7.74,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -1062,7 +1166,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.38,
+   "score": 6.19,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -1179,7 +1283,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.38,
+   "score": 6.19,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -1292,7 +1396,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.6,
+   "score": 6.48,
    "sources": [
     {
      "id": "115735dc9542",
@@ -1442,7 +1546,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.97,
+   "score": 5.87,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -1592,7 +1696,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.73,
+   "score": 5.63,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -1723,7 +1827,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.66,
+   "score": 5.56,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -1854,7 +1958,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.66,
+   "score": 5.56,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -1983,7 +2087,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.78,
+   "score": 4.69,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -2110,7 +2214,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.7,
+   "score": 4.62,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -2222,7 +2326,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.7,
+   "score": 4.62,
    "sources": [
     {
      "id": "66f1e25479fc",
