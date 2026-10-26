@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:04:46+00:00",
+ "generated_at": "2026-10-26T14:18:39+00:00",
  "posts": [
   {
    "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
@@ -85,7 +85,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.02,
+   "score": 7.98,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -217,7 +217,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.02,
+   "score": 7.98,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -263,6 +263,116 @@
      "url": "https://www.publicsenat.fr/actualites/politique/exclusif-bruno-retailleau-est-ridicule-jean-luc-melenchon-reagit-a-sa-proposition-dinterdire-lfi",
      "published_at": "2026-10-01T14:47:00+00:00",
      "snippet": "Invité de BFMTV-RMC ce jeudi 1er octobre, le candidat LR à la présidentielle Bruno Retailleau a réagi au mouvement des lycéens. Il a déclaré que La France Insoumise était un parti « fasciné par la vio"
+    }
+   ]
+  },
+  {
+   "headline": "Lycéens : les mesures que Lecornu s'apprête à annoncer, de Parcoursup aux classes de seconde",
+   "chapo": "Après un mois de mobilisation, Sébastien Lecornu reçoit lundi les organisations lycéennes et étudiantes à Matignon. Des mesures non encore confirmées officiellement seraient annoncées : réforme de Parcoursup, 15 000 places supplémentaires, 28 élèves maximum en seconde. Les organisations réclament bien plus, et les présidents d'université préviennent qu'il ne faut pas tout miser sur Parcoursup.",
+   "points": [
+    {
+     "text": "Le mouvement est parti d'un lycée de banlieue parisienne le 17 septembre, rappelle CNews. Lundi, Lecornu reçoit à Matignon les organisations lycéennes puis étudiantes, avant une conférence de presse des ministres de l'Éducation et de l'Enseignement supérieur à 17h30.",
+     "sources": [
+      "de6afeb98a37"
+     ]
+    },
+    {
+     "text": "Le gouvernement avait ouvert le 5 octobre une plate-forme de consultation, qui affichait, à sa clôture, quelque 100 000 contributions, selon CNews. Son contenu doit servir de base aux discussions, d'après RMC.",
+     "sources": [
+      "de6afeb98a37",
+      "47a08fd60410"
+     ]
+    },
+    {
+     "text": "Macron avait reçu les lycéens vendredi et s'était dit favorable à réformer Parcoursup, rapporte RMC. Un conseiller ministériel glisse à RMC : « Il faut leur donner un gage ». L'exécutif réfléchit à insérer certaines mesures directement dans le budget 2027.",
+     "sources": [
+      "47a08fd60410"
+     ]
+    },
+    {
+     "text": "Selon La Dépêche du Midi, qui s'appuie sur des informations de plusieurs médias, Lecornu aurait esquissé cinq mesures. D'abord, une réforme immédiate de Parcoursup dès cette année, avant un changement profond l'an prochain. Ensuite, 15 000 places supplémentaires dans l'enseignement supérieur.",
+     "sources": [
+      "1f94f02faa3c"
+     ]
+    },
+    {
+     "text": "Toujours selon La Dépêche du Midi : un plafond strict de 28 élèves par classe en seconde dès la rentrée prochaine, l'indexation des bourses sur l'inflation et cinq milliards d'euros pour la rénovation des universités. Ces mesures n'étaient pas encore annoncées officiellement.",
+     "sources": [
+      "1f94f02faa3c"
+     ]
+    },
+    {
+     "text": "Les organisations (Union étudiante, Fage, Unef, USL) revendiquent 10 mesures évaluées à 10 milliards d'euros. Parmi elles : la fin de la sélection à l'université, 250 000 places et une réforme des bourses, selon CNews.",
+     "sources": [
+      "de6afeb98a37"
+     ]
+    },
+    {
+     "text": "Louis Létoublon (Les Lycéens !) réclame l'abrogation de Parcoursup, une réforme des rythmes scolaires et des places à l'université. Il juge que le gouvernement semble enclin à satisfaire les revendications et appelle à poursuivre la mobilisation, selon RMC.",
+     "sources": [
+      "47a08fd60410"
+     ]
+    },
+    {
+     "text": "Les présidents d'université préviennent, selon CNews : supprimer Parcoursup « n'est pas la solution magique » et il ne faut « pas confondre l'outil et la politique délibérée de réduction des moyens ».",
+     "sources": [
+      "de6afeb98a37"
+     ]
+    },
+    {
+     "text": "Le calendrier presse l'exécutif, rappelle La Dépêche du Midi : une journée d'action des gilets jaunes le 31 octobre et une journée nationale de grèves et de manifestations le 5 novembre, à l'initiative des syndicats de salariés.",
+     "sources": [
+      "1f94f02faa3c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_quentindegroeve_3157322-taille1200_6adf2ff0dc844.jpg?h=f692311e&itok=PvmiKohV",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
+    "article_id": "de6afeb98a37",
+    "focus_x": 0.49666666666666665,
+    "focus_y": 0.12601851851851853
+   },
+   "id": 181,
+   "section": "institutions",
+   "reviewed_at": "2026-10-26T14:18:39+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "1f94f02faa3c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Colère sociale : Sébastien Lecornu va annoncer une réforme immédiate de Parcoursup et quatre autres mesures pour calmer la colère des lycéens",
+     "url": "https://www.ladepeche.fr/2026/10/26/direct-colere-sociale-le-gouvernement-promet-des-reponses-tres-concretes-ce-lundi-apres-un-mois-de-crise-lyceenne-les-organisations-lyceennes-et-13620644.php",
+     "published_at": "2026-10-26T13:42:56+00:00",
+     "snippet": "Après un mois de mobilisation des lycéens et étudiants qui a fait tache d’huile, le gouvernement a promis de leur apporter ce lundi \"des réponses très concrètes\", qui devraient concerner Parcoursup, l’état des..."
+    },
+    {
+     "id": "47a08fd60410",
+     "name": "RMC",
+     "kind": "media",
+     "title": "\"Il faut donner un gage\": ce que pourrait annoncer Sébastien Lecornu aux lycéens qu'il doit rencontrer à Matignon",
+     "url": "https://rmc.bfmtv.com/actualites/societe/education/il-faut-donner-un-gage-ce-que-pourrait-annoncer-sebastien-lecornu-aux-lyceens-qu-il-doit-rencontrer-a-matignon_AV-202610260368.html",
+     "published_at": "2026-10-26T10:23:00+00:00",
+     "snippet": "Après un mois de mobilisation, le Premier ministre Sébastien Lecornu reçoit les lycéens à Matignon à 14h30. Il promet des réponses concrètes sur Parcoursup, l’état des bâtiments et le nombre de places à l’université. En espérant calmer la colère des lycéens avant la rentrée dans une semaine."
+    },
+    {
+     "id": "de6afeb98a37",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Mobilisation des lycéens : Parcoursup, enseignants, état des bâtiments... Quelles sont les pistes concrètes que le gouvernement compte proposer ?",
+     "url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
+     "published_at": "2026-10-26T11:12:01+00:00",
+     "snippet": "Après un mois de mobilisation des lycéens et étudiants, le gouvernement a promis de leur apporter ce lundi «des réponses très concrètes», qui devraient concerner Parcoursup, l'état des bâtiments ou encore le nombre de places à l'université. Des annonces très attendues. Ce lundi 26 octobre, Sébastien Lecornu va successivement recevoir à partir de 14h30, à Matignon, les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements. Les ministres Edouard Geffray (Éducation) et Philippe Baptiste (Enseignement supérieur) doivent égal"
     }
    ]
   },
@@ -357,7 +467,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.02,
+   "score": 7.98,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -484,7 +594,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.02,
+   "score": 7.98,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -616,7 +726,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.22,
+   "score": 6.38,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -733,7 +843,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.22,
+   "score": 6.38,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -846,7 +956,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.09,
+   "score": 6.6,
    "sources": [
     {
      "id": "115735dc9542",
@@ -996,7 +1106,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.41,
+   "score": 5.97,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -1146,7 +1256,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.16,
+   "score": 5.73,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -1277,7 +1387,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.08,
+   "score": 5.66,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -1408,7 +1518,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.08,
+   "score": 5.66,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -1537,7 +1647,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.13,
+   "score": 4.78,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -1664,7 +1774,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.05,
+   "score": 4.7,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -1776,7 +1886,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.05,
+   "score": 4.7,
    "sources": [
     {
      "id": "66f1e25479fc",
@@ -1822,472 +1932,6 @@
      "url": "https://www.bfmtv.com/politique/direct-colere-sociale-conseil-de-defense-rencontre-avec-les-organisations-lyceennes-et-les-forces-de-l-ordre-la-journee-tres-chargee-d-emmanuel-macron-avant-une-nouvelle-mobilisation-attendue-le-24-octobre_LN-202610230108.html",
      "published_at": "2026-10-23T22:33:03+00:00",
      "snippet": "Après plus d'un mois de colère des lycéens, le président de la République a reçu les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. À 24 heures des manifestations du 24 octobre, Sébastien Lecornu s'est rendu à Limoges pour évoquer la reconstruction de la mairie, incendiée dans les violences du 17 octobre."
-    }
-   ]
-  },
-  {
-   "headline": "Congrès du RN à Orléans : contre-manifestation, dispositif de sécurité et polémique sur l'annulation",
-   "chapo": "Le Rassemblement national tient son congrès à Orléans samedi 24 octobre, avec un meeting de Marine Le Pen dimanche. Une contre-manifestation de gauche est attendue. Le gouvernement promet un important dispositif de sécurité, et Marine Le Pen dément qu'on lui ait demandé d'annuler.",
-   "points": [
-    {
-     "text": "Le RN s'apprête à réunir 5 000 personnes samedi puis 10 000 dimanche pour son congrès et le lancement de campagne de Marine Le Pen, selon CNews.",
-     "sources": [
-      "855db15f921d"
-     ]
-    },
-    {
-     "text": "Face à eux, « plusieurs dizaines de milliers » de personnes doivent défiler samedi contre « le racisme, le fascisme et l'impérialisme », à l'appel d'une cinquantaine d'organisations, selon LCP. Olivier Faure, Bally Bagayoko et Sophie Binet sont attendus, selon LCP et Le Monde.",
-     "sources": [
-      "8c8fe1cfc9fe",
-      "30a2b950f855"
-     ]
-    },
-    {
-     "text": "Manuel Bompard (La France insoumise) salue un rassemblement pour « exprimer une opposition aux idées du Rassemblement national » et appelle à des « manifestations pacifiques et non violentes », selon LCP.",
-     "sources": [
-      "8c8fe1cfc9fe"
-     ]
-    },
-    {
-     "text": "Laurent Nuñez promet un dispositif « extrêmement conséquent, avec énormément de forces mobiles ». Selon lui, la manifestation de dimanche, qui n'est pas organisée par les syndicats et partis de gauche, « pourrait essayer d'attenter » au meeting, selon LCP.",
-     "sources": [
-      "8c8fe1cfc9fe"
-     ]
-    },
-    {
-     "text": "Marine Le Pen : « Je trouve fou que cela ne scandalise plus personne que des mouvements cherchent à empêcher le déroulement de la vie d'un parti ou le déroulement d'une campagne », mais elle dit ne pas avoir « d'inquiétudes », selon LCP.",
-     "sources": [
-      "8c8fe1cfc9fe"
-     ]
-    },
-    {
-     "text": "Selon Le HuffPost, le JDD affirme que les renseignements ont conseillé à Marine Le Pen d'annuler le congrès. Elle répond « C'est faux » : les pouvoirs publics n'ont « jamais demandé d'annuler » et lui ont affirmé que la sécurité serait assurée.",
-     "sources": [
-      "855e2a3ee969"
-     ]
-    },
-    {
-     "text": "Robert Ménard, maire divers droite de Béziers : « Marine Le Pen a raison de ne pas l'annuler », selon Europe 1, qui évoque près de 40 000 opposants attendus, dont 2 000 éléments radicaux.",
-     "sources": [
-      "1fedd0395cdd"
-     ]
-    },
-    {
-     "text": "Selon RMC, le RN boycotte la commission d'enquête sur le 17 octobre : « On ne va pas assister à ce sit-in anti-flics », justifie Laurent Jacobelli. Marine Le Pen dénonce un « entre-soi gauchiste ».",
-     "sources": [
-      "88de7df64943"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.cnews.fr/sites/default/files/styles/image_960_540/public/xbqbehu_6ad98dd720ed5.jpg?itok=E7SVmLkA",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/videos/france/2026-10-22/congres-du-rn-les-intimidations-et-les-pressions-se-multiplient-1939612",
-    "article_id": "855db15f921d"
-   },
-   "id": 162,
-   "section": "institutions",
-   "reviewed_at": "2026-10-22T11:17:27+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.67,
-   "sources": [
-    {
-     "id": "1fedd0395cdd",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Congrès du RN à Orléans : «Marine Le Pen a raison de ne pas l'annuler», dit Robert Ménard, malgré la venue de l'ultra-gauche",
-     "url": "https://www.europe1.fr/politique/congres-du-rn-a-orleans-marine-le-pen-a-raison-de-ne-pas-lannuler-dit-robert-menard-malgre-la-venue-de-lultra-gauche-1172904?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-22T06:42:00+00:00",
-     "snippet": "Le maire Divers-droite de Béziers Robert Ménard était l'invité de La Grande interview Europe 1-CNews ce jeudi matin. Au micro de Laurence Ferrari, il estime que Marine Le Pen a raison de maintenir son congrès prévu à Orléans ce week-end, malgré une forte mobilisation de militants d'extrême-gauche. Le Rassemblement national va-t-il devoir annuler son congrès prévu ce week-end à Orléans ? Selon les informations d'Europe 1, près de 40.000 opposants, dont 2.000 éléments radicaux, doivent se déplacer dans la ville, alors que Marine Le Pen devrait officialiser sa candidature à l'élection présidentie"
-    },
-    {
-     "id": "30a2b950f855",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Olivier Faure, Bally Bagayoko et Sophie Binet attendus à la manifestation contre le RN à Orléans",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/22/olivier-faure-bally-bagayoko-et-sophie-binet-attendus-a-la-manifestation-contre-le-rn-a-orleans_6798593_823448.html",
-     "published_at": "2026-10-22T08:49:39+00:00",
-     "snippet": "« Plusieurs dizaines de milliers » de contre-manifestants sont attendus à Orléans samedi, « et un peu moins le dimanche », en marge du congrès du Rassemblement national, selon le ministre de l’intérieur, Laurent Nuñez."
-    },
-    {
-     "id": "855db15f921d",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Congrès du RN : les intimidations et les pressions se multiplient",
-     "url": "https://www.cnews.fr/videos/france/2026-10-22/congres-du-rn-les-intimidations-et-les-pressions-se-multiplient-1939612",
-     "published_at": "2026-10-22T05:42:37+00:00",
-     "snippet": "Alors que le Rassemblement National organise ce week-end son congrès à Orléans, Laurent Nuñez a alerté sur la présence possible de «plusieurs dizaines de milliers» de contre-manifestants. Olivier Faure, Bally Bagayoko ou encore Sophie Binet seront présents samedi dans la ville. Un dispositif de sécurité renforcé en marge de l’événement. Alors que le Rassemblement national s’apprête à réunir 5.000 personnes samedi puis 10.000 dimanche pour son congrès et le lancement de campagne de Marine Le Pen, plusieurs associations, partis et syndicats de gauche ont annoncé leur intention de manifester dans"
-    },
-    {
-     "id": "855e2a3ee969",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Marine Le Pen dénonce les « contrevérités » du « JDD » sur le congrès du RN",
-     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-denonce-les-contreverites-du-jdd-sur-le-congres-du-rn_343268.html",
-     "published_at": "2026-10-22T09:52:54+00:00",
-     "snippet": "La candidate du Rassemblement national à la présidentielle se veut surtout rassurante avant un événement qui doit lancer sa campagne vers l’Élysée."
-    },
-    {
-     "id": "88de7df64943",
-     "name": "RMC",
-     "kind": "media",
-     "title": "Le RN boycotte la commission d'enquête sur les violences du 17 octobre: \"On ne va pas assister à ce 'sit-in' anti-flics\", justifie Laurent Jacobelli",
-     "url": "https://rmc.bfmtv.com/actualites/politique/le-rn-boycotte-la-commission-d-enquete-sur-les-violences-du-17-octobre-on-ne-va-pas-assister-a-ce-sit-in-anti-flics-justifie-laurent-jacobelli_AV-202610220269.html",
-     "published_at": "2026-10-22T06:53:08+00:00",
-     "snippet": "L'Assemblée nationale doit faire la lumière sur les dysfonctionnements après la journée du 17 octobre qui ont entraîné des pillages. Une commission d'enquête a été créée, mais elle se fera sans le Rassemblement national qui a annoncé son boycott. Marine Le Pen dénonce un \"entre-soi gauchiste\"."
-    },
-    {
-     "id": "8c8fe1cfc9fe",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Congrès du RN à Orléans: la gauche appelle à une mobilisation massive contre le RN",
-     "url": "https://lcp.fr/actualites/congres-du-rn-a-orleans-la-gauche-appelle-a-une-mobilisation-massive-contre-le-rn-444156",
-     "published_at": "2026-10-22T10:58:49+00:00",
-     "snippet": "Par Maxence Kagni , le Jeudi 22 octobre 2026 à 12:23 Alors que le Rassemblement national y organise son congrès, près de 25 000 personnes sont attendues samedi à Orléans, lors d'une contre-manifestation organisée par des syndicats et des partis de gauche. Olivier Faure, Bally Bagayoko et Sophie Binet sont attendus sur place, tandis que le gouvernement promet un dispositif de sécurité \"extrêmement conséquent\". D'un côté des milliers de militants du Rassemblement national, de l'autre une contre-manifestation à l'initiative des syndicats et des partis de gauche. Ce week-end, tous les yeux seront "
-    }
-   ]
-  },
-  {
-   "headline": "Macron annonce un conseil de défense vendredi et interdit les manifestations non syndicales",
-   "chapo": "Jeudi 22 octobre, à l'issue d'un conseil de sécurité à l'Élysée, Emmanuel Macron a dénoncé des « actes séditieux » de groupes d'ultragauche et annoncé un conseil de défense vendredi. À l'approche de la manifestation du 24 octobre, seules les demandes des syndicats seront examinées par les préfets.",
-   "points": [
-    {
-     "text": "Emmanuel Macron a réuni un conseil de sécurité à l'Élysée avec les services de renseignement, accusés d'avoir mal anticipé le 17 octobre. L'Élysée parle de revenir sur « les dysfonctionnements qui ont conduit aux événements du week-end passé », selon Ouest-France.",
-     "sources": [
-      "0d71b5cac397"
-     ]
-    },
-    {
-     "text": "Il annonce qu'un conseil de défense aura lieu vendredi, selon Ouest-France, « afin de prendre des décisions supplémentaires », selon L'Humanité.",
-     "sources": [
-      "0d71b5cac397",
-      "cc0e15aa6d5d"
-     ]
-    },
-    {
-     "text": "Pour le chef de l'État, « des actes politiques et même séditieux » ont été « organisés par des groupes organisés d'ultragauche qui visent à faire tomber la République », avec une « extrême dangerosité » et une « planification », selon BFMTV.",
-     "sources": [
-      "8767701e978b"
-     ]
-    },
-    {
-     "text": "Il distingue ces actes des « actes de délinquance sur lesquels nous devons aussi avoir la plus grande dureté mais qui ne sont pas de la même nature », selon Europe 1.",
-     "sources": [
-      "ba3af27230f7"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron : « Quand ce ne sont pas des organisations syndicales, partout où on le peut, on interdira ». Les préfets proposeront aux syndicats « des tracés alternatifs », selon La Dépêche du Midi.",
-     "sources": [
-      "91670ad97114"
-     ]
-    },
-    {
-     "text": "À Paris, la préfecture de police indique que la manifestation de la CGT entre Bastille et Nation « pourra se tenir ». Le parcours du collectif Interfac et de gilets jaunes vers l'Opéra « fera l'objet d'un arrêté d'interdiction », selon La Dépêche du Midi.",
-     "sources": [
-      "91670ad97114"
-     ]
-    },
-    {
-     "text": "Selon Ouest-France, le gouvernement annonce « 20 % » de forces de l'ordre en plus par rapport au 17 octobre. Emmanuel Macron reconnaît « des défauts d'anticipation » et dit que Sébastien Lecornu réunira lundi les organisations lycéennes et étudiantes.",
-     "sources": [
-      "0d71b5cac397"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau accuse le pouvoir de « jouer petit bras » et réclame le recours à l'état d'urgence : « Quand c'est de pire en pire, on tape du poing sur la table », selon L'Humanité.",
-     "sources": [
-      "cc0e15aa6d5d"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjEwN2ZhNDBjNTc2ZmYyYjYxOTg5NzZkMGRlODdlY2RhOWY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0ef604719c9c3d67dd1b8df24ba63ab72b60be1d658aa487e9fcaf2f147bacf4",
-    "source": "Ouest-France",
-    "article_url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-    "article_id": "0d71b5cac397"
-   },
-   "id": 163,
-   "section": "institutions",
-   "reviewed_at": "2026-10-22T11:17:19+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.06,
-   "sources": [
-    {
-     "id": "0d71b5cac397",
-     "name": "Ouest-France",
-     "kind": "media",
-     "title": "Tracés des manifestations du 24 octobre, conseil de défense… Ce qu’il faut retenir de l’intervention d’Emmanuel Macron",
-     "url": "https://www.ouest-france.fr/societe/manifestation/traces-des-manifestations-du-24-octobre-conseil-de-defense-ce-quil-faut-retenir-de-lintervention-demmanuel-macron-3d266458-cdf1-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-     "published_at": "2026-10-22T10:39:58+00:00",
-     "snippet": "Le président de la République Emmanuel Macron s’est exprimé à l’issue d’un conseil de sécurité qui s’est tenu jeudi 22 octobre 2026 à l’Élysée. On fait le point sur les informations à retenir."
-    },
-    {
-     "id": "8767701e978b",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Violences du 17 octobre: Emmanuel Macron dénonce des \"actes politiques et même séditieux\" visant à \"faire tomber la République\"",
-     "url": "https://www.bfmtv.com/politique/elysee/violences-du-17-octobre-emmanuel-macron-denonce-des-actes-politiques-et-meme-seditieux-visant-a-faire-tomber-la-republique_AV-202610220514.html",
-     "published_at": "2026-10-22T10:55:49+00:00",
-     "snippet": "À deux jours d'une nouvelle journée de manifestation dans plusieurs villes de France, le président de la République s'est exprimé sur les événements violents du week-end dernier qui, selon lui, visaient à \"faire tomber la République\"."
-    },
-    {
-     "id": "91670ad97114",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Manifestations du 24 octobre : Emmanuel Macron dénonce une volonté de l'ultragauche de \"faire tomber la République\" et annonce réunir un conseil de défense",
-     "url": "https://www.ladepeche.fr/2026/10/22/direct-manifestations-du-24-octobre-emmanuel-macron-convoque-le-renseignement-a-lelysee-sebastien-lecornu-recoit-les-partis-politiques-a-matignon-13614677.php",
-     "published_at": "2026-10-22T10:52:43+00:00",
-     "snippet": "Suivez toute l'actualité liée aux suites des manifestations et des violences du 17 octobre, ainsi qu'à la préparation de l'acte II, annoncé ce samedi 24 octobre, en direct sur ladepeche.fr"
-    },
-    {
-     "id": "ba3af27230f7",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Violences : Emmanuel Macron dénonce une volonté de l'ultragauche de «faire tomber la République»",
-     "url": "https://www.europe1.fr/politique/violences-emmanuel-macron-denonce-une-volonte-de-lultragauche-de-faire-tomber-la-republique-1173594?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-22T10:52:08+00:00",
-     "snippet": "Ce jeudi, Emmanuel Macron a tenu un conseil de sécurité au palais de l'Élysée. À l'issue de cette réunion, le chef de l'État a pris la parole et s'en est pris aux groupes \"d'ultragauche\" qui souhaitent \"faire tomber la République\". Emmanuel Macron a dénoncé jeudi des \"actes séditieux\" de groupes \"d'ultragauche\" d'une \"extrême dangerosité\" visant à \"faire tomber la République\" et des \"actes de délinquance\" réclamant aussi \"la plus grande dureté\", dans les violences et pillages commis en marge des manifestations contre la \"vie chère\" samedi. \"Nous avons eu tout à la fois des actes politiques et "
-    },
-    {
-     "id": "cc0e15aa6d5d",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Emmanuel Macron interdit toute manifestation en dehors de celles organisées par les syndicats",
-     "url": "https://www.humanite.fr/-/-/emmanuel-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats",
-     "published_at": "2026-10-22T10:28:00+00:00",
-     "snippet": "A l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement Emmanuel Macron s’est exprimé en direct du palais de l’Elysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester, de se regrouper, les demandes seront interdites par les préfets »,…"
-    }
-   ]
-  },
-  {
-   "headline": "Sébastien Delogu : cinq ans d'inéligibilité requis contre le député LFI, décision le 11 décembre",
-   "chapo": "Mercredi 21 octobre à Marseille, le parquet a requis deux ans de prison avec sursis et cinq ans d'inéligibilité avec exécution immédiate contre le député LFI, jugé pour avoir diffusé des documents privés volés à un chef d'entreprise. Il a présenté ses excuses et gardé le silence. Le jugement est attendu le 11 décembre.",
-   "points": [
-    {
-     "text": "Le parquet de Marseille a requis deux ans de prison avec sursis et cinq ans d'inéligibilité avec exécution immédiate, selon franceinfo. Selon L'Humanité, s'y ajoutent 10 000 euros d'amende. Le jugement a été mis en délibéré au 11 décembre.",
-     "sources": [
-      "dbe86a479058",
-      "4943e3e6cc0c"
-     ]
-    },
-    {
-     "text": "Sébastien Delogu est jugé pour avoir publié sur Instagram, en 2024, des correspondances privées d'Isidore Aragones, ancien dirigeant du Crif, qui avaient été volées lors d'une grève de ses salariés, selon franceinfo.",
-     "sources": [
-      "dbe86a479058"
-     ]
-    },
-    {
-     "text": "Il était poursuivi pour recel de biens provenant d'un vol, divulgation d'informations personnelles et atteinte au secret des correspondances, et risquait cinq ans de prison et 750 000 euros d'amende, selon CNews.",
-     "sources": [
-      "5333a3f449e8"
-     ]
-    },
-    {
-     "text": "La procureure Audrey Jouaneton justifie l'inéligibilité par « la gravité des faits » : le tribunal ne peut pas « permettre qu'il continue d'exercer » son mandat, car « il a sali la fonction », selon franceinfo.",
-     "sources": [
-      "dbe86a479058"
-     ]
-    },
-    {
-     "text": "Selon L'Humanité, la procureure estime qu'Isidore Aragones a été « stigmatisé en tant que juif » dans le contexte de « l'importation du conflit » israélo-palestinien. Sébastien Delogu, qui reconnaît « des maladresses », répond : « Jamais je ne me permettrais de parler de communauté juive ».",
-     "sources": [
-      "4943e3e6cc0c"
-     ]
-    },
-    {
-     "text": "À la barre, l'élu a fait valoir son droit au silence et a simplement présenté ses excuses, sans expliquer ses motivations, selon franceinfo. Selon Le Monde, il explique avoir été « mal conseillé ».",
-     "sources": [
-      "dbe86a479058",
-      "9d774c1c8f51"
-     ]
-    },
-    {
-     "text": "Isidore Aragones dit que ces publications l'ont « mis en danger » et fait de lui « une cible » : « Je vis dans la peur », selon CNews.",
-     "sources": [
-      "5333a3f449e8"
-     ]
-    },
-    {
-     "text": "Selon L'Humanité, la même peine d'inéligibilité avec application immédiate avait été infligée à Marine Le Pen en première instance. Selon CNews, Sébastien Delogu avait été condamné en 2025 à 5 000 euros d'amende pour « violences aggravées ».",
-     "sources": [
-      "4943e3e6cc0c",
-      "5333a3f449e8"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/2bsX_icEST5BjNTvSfvkIQg6L3U/0x0:1024x576/432x243/filters:format(jpg)/2026/10/21/6ad909a96853f297007028.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-ans-d-ineligibilite-requis-contre-le-depute-lfi-sebastien-delogu-pour-recel-et-divulgation-d-informations-privees_8247868.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "dbe86a479058"
-   },
-   "id": 160,
-   "section": "institutions",
-   "reviewed_at": "2026-10-22T11:17:46+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.45,
-   "sources": [
-    {
-     "id": "4943e3e6cc0c",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Affaire des documents volés : inéligibilité immédiate, prison avec sursis et amende, une lourde peine requise contre le député LFI Sébastien Delogu",
-     "url": "https://www.humanite.fr/politique/crif/affaire-des-documents-voles-ineligibilite-immediate-prison-avec-sursis-et-amende-une-lourde-peine-requise-contre-le-depute-lfi-sebastien-delogu",
-     "published_at": "2026-10-22T09:30:00+00:00",
-     "snippet": "Le parquet a requis mercredi 21 octobre à Marseille une lourde peine de cinq ans d’inéligibilité immédiate à l’encontre du député LFI, poursuivi pour avoir divulgué des documents privés d’un chef d’entreprise lors d’un conflit social."
-    },
-    {
-     "id": "5333a3f449e8",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Sébastien Delogu : cinq ans d'inéligibilité avec exécution immédiate requis contre le député LFI, poursuivi pour diffusion de documents issus d’un vol",
-     "url": "https://www.cnews.fr/france/2026-10-21/sebastien-delogu-cinq-ans-dineligibilite-avec-execution-immediate-requis-contre",
-     "published_at": "2026-10-21T19:05:00+00:00",
-     "snippet": "Le parquet a requis, ce mercredi, une inéligibilité de cinq ans à l’encontre du député LFI Sébastien Delogu, poursuivi pour avoir diffusé sur les réseaux sociaux des documents personnels volés à un entrepreneur à qui il reprochait ses liens avec Israël. Au cours du procès du député LFI Sébastien Delogu qui s’est tenu ce jour à Marseille, le parquet a requis deux ans de prison avec sursis et une inéligibilité de cinq ans, avec exécution immédiate, à l'encontre du parlementaire, poursuivi pour avoir divulgué des documents privés, volés à un chef d'entreprise lors d'un conflit social. La décision"
-    },
-    {
-     "id": "9d774c1c8f51",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Au tribunal de Marseille, les excuses maladroites du député Sébastien Delogu menacé d’inéligibilité",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/21/au-tribunal-de-marseille-les-excuses-maladroites-du-depute-delogu-menace-d-ineligibilite_6798309_823448.html",
-     "published_at": "2026-10-21T20:00:07+00:00",
-     "snippet": "Accusé en 2024 d’avoir diffusé sur ses réseaux sociaux des documents volés à une figure de la communauté juive, l’élu La France insoumise explique avoir été « mal conseillé »."
-    },
-    {
-     "id": "dbe86a479058",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Cinq ans d'inéligibilité, avec exécution immédiate, requis contre le député LFI Sébastien Delogu pour recel et divulgation d'informations privées",
-     "url": "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-ans-d-ineligibilite-requis-contre-le-depute-lfi-sebastien-delogu-pour-recel-et-divulgation-d-informations-privees_8247868.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-21T18:57:48+00:00",
-     "snippet": "La procureure a également requis deux ans de prison avec sursis à l'encontre de l'élu marseillais, qui a gardé le silence."
-    }
-   ]
-  },
-  {
-   "headline": "Encadrement des loyers : le Sénat prolonge le dispositif de deux ans, sans l'étendre",
-   "chapo": "Mercredi 21 octobre, le Sénat a adopté par 325 voix contre 17 la prolongation de l'encadrement des loyers jusqu'en 2028, dans les communes qui l'appliquent déjà. Il a écarté la pérennisation et l'extension prévues par les députés. Le texte doit revenir à l'Assemblée avant le 24 novembre.",
-   "points": [
-    {
-     "text": "Le Sénat a adopté la prolongation par 325 voix contre 17, sur 342 suffrages exprimés. Le texte a été voté par tous les groupes sauf le RN, selon Le Monde, qui parle d'une « union sacrée autour du plus petit dénominateur commun ».",
-     "sources": [
-      "38c5fdc02bde",
-      "7504a7d75e4c"
-     ]
-    },
-    {
-     "text": "Le dispositif plafonne le loyer qu'un propriétaire peut demander dans neuf territoires, dont Paris, Lille, Lyon-Villeurbanne, Bordeaux et Montpellier. Il concerne 1,2 million de locataires, sur 7,7 millions dans le parc privé, selon la Cour des comptes citée par Midi Libre.",
-     "sources": [
-      "0003186580f9"
-     ]
-    },
-    {
-     "text": "Le texte de la proposition de loi socialiste visait une pérennisation et un élargissement. Les sénateurs ont préféré une prolongation de deux ans à périmètre constant : le dispositif ne sera ni étendu ni renforcé, selon Le Monde.",
-     "sources": [
-      "38c5fdc02bde"
-     ]
-    },
-    {
-     "text": "Le ministre du Logement Vincent Jeanbrun : « Le gouvernement accepte la prolongation de deux ans de cette expérimentation pour les communes déjà bénéficiaires et uniquement pour celles-ci », selon Midi Libre.",
-     "sources": [
-      "0003186580f9"
-     ]
-    },
-    {
-     "text": "Selon L'Humanité, la majorité de droite du Sénat a écarté la pérennisation, l'élargissement et le renforcement. Sans adoption définitive avant le 24 novembre, le dispositif pourrait disparaître, selon Le Monde et L'Humanité.",
-     "sources": [
-      "7504a7d75e4c",
-      "38c5fdc02bde"
-     ]
-    },
-    {
-     "text": "Le député socialiste Iñaki Echaniz, auteur du texte, a clamé « victoire », selon Le Monde. Il y voit « une véritable avancée pour protéger le pouvoir d'achat de millions de locataires ». Ian Brossat, sénateur communiste de Paris : ce compromis « nous permet d'échapper au pire », selon Midi Libre.",
-     "sources": [
-      "38c5fdc02bde",
-      "0003186580f9"
-     ]
-    },
-    {
-     "text": "Selon Midi Libre, le dispositif est décrié par des fédérations de l'immobilier et des associations de propriétaires, et défendu par les associations de défense des locataires. Que Choisir Ensemble regrette que les sénateurs se soient « arrêtés au milieu du chemin ».",
-     "sources": [
-      "0003186580f9"
-     ]
-    },
-    {
-     "text": "Selon le baromètre de la Fondation pour le logement cité par L'Humanité, 46 % des annonces parisiennes dépassaient le plafond légal entre août 2025 et août 2026, contre 31 % un an plus tôt.",
-     "sources": [
-      "7504a7d75e4c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/21/127/0/6720/3360/644/322/60/0/e98a359_upload-1-tvlfdthko1qy-cbi1349065.JPG",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
-    "article_id": "38c5fdc02bde"
-   },
-   "id": 161,
-   "section": "institutions",
-   "reviewed_at": "2026-10-22T11:17:36+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.83,
-   "sources": [
-    {
-     "id": "0003186580f9",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Le Sénat vote la prolongation de l’encadrement des loyers, mais bloque son extension à d’autres villes",
-     "url": "https://www.midilibre.fr/2026/10/22/le-senat-vote-la-prolongation-de-lencadrement-des-loyers-mais-bloque-son-extension-a-dautres-villes-13614061.php",
-     "published_at": "2026-10-22T05:48:58+00:00",
-     "snippet": "Le Sénat a adopté mercredi 21 octobre la prolongation pour deux ans de l’encadrement des loyers, par 325 voix contre 17. Le texte maintient ce plafonnement à périmètre constant dans neuf territoires, dont Paris,..."
-    },
-    {
-     "id": "38c5fdc02bde",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Encadrement des loyers : le Sénat adopte la prolongation du dispositif dans une version minimaliste",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
-     "published_at": "2026-10-22T02:00:00+00:00",
-     "snippet": "Les sénateurs ont adopté, par 325 voix contre 17, une proposition de loi socialiste reconduisant pour deux ans le dispositif dans les 71 villes qui l’expérimentent déjà. Mais il ne sera pas étendu ni renforcé. Le texte devrait revenir à l’Assemblée nationale avant la date butoir du 24 novembre."
-    },
-    {
-     "id": "7504a7d75e4c",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Encadrement des loyers : le Sénat prolonge le dispositif de deux ans, mais refuse toujours de le pérenniser",
-     "url": "https://www.humanite.fr/societe/droit-au-logement/encadrement-des-loyers-le-senat-prolonge-le-dispositif-de-deux-ans-mais-refuse-toujours-de-le-perenniser",
-     "published_at": "2026-10-22T09:45:32+00:00",
-     "snippet": "L’encadrement des loyers pourrait obtenir un nouveau sursis. Le Sénat a voté, mercredi 21 octobre, sa prolongation pour deux ans dans les quelque 70 communes où il s’applique. Mais la majorité de droite a écarté sa pérennisation, son élargissement et son renforcement."
     }
    ]
   }
