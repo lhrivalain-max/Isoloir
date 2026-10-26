@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:00:05+00:00",
+ "generated_at": "2026-10-26T17:24:54+00:00",
  "posts": [
   {
    "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
@@ -80,7 +80,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.5,
+   "score": 13.29,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -126,6 +126,98 @@
      "url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
      "published_at": "2026-10-26T10:50:43+00:00",
      "snippet": "L’institution affirme que la procédure lancée par les parlementaires d’extrême droite ne repose « sur aucune base constitutionnelle ». Ces derniers estiment que le président du Conseil constitutionnel a outrepassé sa fonction en prenant position contre la révision de la Constitution par référendum, une mesure figurant au programme de Marine Le Pen."
+    }
+   ]
+  },
+  {
+   "headline": "Mélenchon à Macron : « céder » ou « la porte de sortie », avec une grève générale en vue le 5 novembre",
+   "chapo": "Dans le cortège parisien du 24 octobre, Jean-Luc Mélenchon a sommé Emmanuel Macron de « céder » aux revendications, en évoquant une grève générale dès le 5 novembre. Les syndicats préparent une journée interprofessionnelle à cette date. Mélenchon a aussi pris à partie un journaliste de BFMTV, et la bataille à gauche avec Raphaël Glucksmann s'intensifie.",
+   "points": [
+    {
+     "text": "Selon BFMTV, Jean-Luc Mélenchon a exhorté Emmanuel Macron à « céder » car « après, il ne lui restera plus que la porte de sortie » : « ça va se répéter toutes les semaines ». Pour lui, ce qui « pend au nez » de l'exécutif, c'est « la grève générale », à partir du 5 novembre, à l'appel de la patronne de la CGT Sophie Binet.",
+     "sources": [
+      "58613e847632"
+     ]
+    },
+    {
+     "text": "Il a demandé à l'exécutif « d'arrêter les provocations » après le changement tardif de parcours. Marine Tondelier (Écologistes) accuse le gouvernement d'avoir joué « la stratégie du pourrissement » pendant un mois, selon BFMTV.",
+     "sources": [
+      "58613e847632"
+     ]
+    },
+    {
+     "text": "L'Humanité raconte une foule « massive et calme » à Paris et des syndicats qui annoncent 250 000 personnes. Ils préparent désormais la journée de mobilisation interprofessionnelle du 5 novembre. Le tribunal administratif a rejeté leur référé contre le parcours, « déposé hors délai ».",
+     "sources": [
+      "d08abf2dcae1"
+     ]
+    },
+    {
+     "text": "Le JDD relate qu'interrogé par un journaliste de BFMTV, Mélenchon a répondu : « Allez faire du racisme à la télé et foutez-nous la paix ». Le JDD rappelle qu'en septembre, LFI avait annoncé boycotter BFMTV une semaine en raison de sa ligne éditoriale « de plus en plus à droite ».",
+     "sources": [
+      "d4118d5b8a8c"
+     ]
+    },
+    {
+     "text": "À gauche, la concurrence s'aiguise, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon atteint 17 % et se qualifie pour le second tour dans tous les cas de figure. L'équipe de Glucksmann espère lui disputer le vote utile face au RN : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ».",
+     "sources": [
+      "047bda588bce"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rImiZVpvmIKYShSOqEkOJ7AOLF8=/0x0:1920x1080/800x0/images/Jean-Luc-Melenchon-a-Paris-lors-d-une-manifestation-le-24-octobre-2026-2371469.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
+    "article_id": "58613e847632"
+   },
+   "id": 179,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-26T14:18:52+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.63,
+   "sources": [
+    {
+     "id": "047bda588bce",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
+     "published_at": "2026-10-25T11:04:54+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "58613e847632",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Manifestations du 24 octobre: Jean-Luc Mélenchon appelle Emmanuel Macron à \"céder\" face aux revendications car \"après, il ne lui restera plus que la porte de sortie\"",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
+     "published_at": "2026-10-24T13:07:47+00:00",
+     "snippet": "Le candidat à la présidentielle, présent dans le cortège à Paris du 24 octobre, a souligné que le chef de l'État \"va comprendre que ça va se répéter toutes les semaines\"."
+    },
+    {
+     "id": "d08abf2dcae1",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "24 octobre : la rue parisienne répond par le calme aux provocations d’Emmanuel Macron, et prépare la grève du 5 novembre",
+     "url": "https://www.humanite.fr/social-et-economie/cgt/24-octobre-la-rue-parisienne-repond-par-le-calme-aux-provocations-demmanuel-macron-et-prepare-la-greve-du-5-novembre",
+     "published_at": "2026-10-24T15:30:29+00:00",
+     "snippet": "Loin d’affaiblir la mobilisation sociale, les mesures répressives ont galvanisé les manifestants dans la capitale, ce samedi. Les syndicats ont désormais les yeux rivés sur la journée de mobilisation interprofessionnelle du 5 novembre."
+    },
+    {
+     "id": "d4118d5b8a8c",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«Commencez à vous calmer» : Mélenchon prend encore un journaliste à partie en pleine manifestation",
+     "url": "https://www.lejdd.fr/politique/commencez-a-vous-calmer-melenchon-prend-encore-un-journaliste-a-partie-en-pleine-manifestation-186870",
+     "published_at": "2026-10-24T15:27:16+00:00",
+     "snippet": "Présent dans le cortège parisien ce samedi 24 octobre, le fondateur de La France insoumise a vivement pris à partie un journaliste de BFMTV, lui lançant notamment : « Allez faire du racisme à la télé et foutez-nous la paix. »"
     }
    ]
   },
@@ -205,7 +297,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.38,
+   "score": 11.2,
    "sources": [
     {
      "id": "1a0f78b60ef6",
@@ -321,7 +413,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.79,
+   "score": 10.63,
    "sources": [
     {
      "id": "2872055df568",
@@ -362,227 +454,112 @@
    ]
   },
   {
-   "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
-   "chapo": "Marine Le Pen a tenu dimanche son premier grand meeting de campagne, à Orléans. Elle promet une « renaissance », un gouvernement d'union nationale dirigé par Jordan Bardella, la priorité nationale et plus de référendums. Le discours de Bardella a été interrompu par des militants de l'UEJF.",
+   "headline": "Crise lycéenne : Parcoursup remplacé en 2028, 28 élèves maximum en seconde, ce que le gouvernement annonce",
+   "chapo": "Après un mois de mobilisation, le gouvernement dévoile ses réponses aux lycéens et étudiants : remplacement de Parcoursup en deux temps, plafond de 28 élèves en seconde, 15 000 places supplémentaires, 5 milliards d'euros pour rénover les établissements. Les représentants lycéens saluent des annonces concrètes mais appellent à poursuivre la mobilisation. Plusieurs mesures n'entreront en vigueur qu'après 2027.",
    "points": [
     {
-     "text": "Le thème central : la « Renaissance ». Marine Le Pen a déclaré, selon BFMTV : « je ne vous propose pas de refaire la France d'avant, je vous propose de concevoir et de construire la France de demain ». Elle a ajouté : « C’était bien avant, ce sera mieux demain ».",
+     "text": "Parcoursup en deux temps, selon Public Sénat : la plateforme ne disparaîtra pas en 2027 mais évoluera sensiblement, avant qu'une nouvelle solution prenne le relais en 2028. Un groupe de travail préparera la succession, puis il faudra une loi.",
      "sources": [
-      "f69ab0162765"
+      "626d49c83d32"
      ]
     },
     {
-     "text": "Elle promet un gouvernement « d’union nationale », « pluraliste » et dirigé par Jordan Bardella, rapporte Le Monde. Elle justifie ce « gouvernement ouvert » par « la situation d’un pays fracturé ».",
+     "text": "Selon Europe 1, Parcoursup serait remplacé « en deux temps » : « quelques changements, avec une clarté pour les algorithmes locaux et pour la sélection dans chaque école », puis un chantier pour l'année suivante. Un cadre de l'exécutif a confirmé la mesure à l'AFP.",
      "sources": [
-      "40ac98698f53"
+      "95167e96cde9"
      ]
     },
     {
-     "text": "Sur les institutions, selon CNews : un recours au référendum pour rétablir le « droit d’expression politique » des citoyens et un mode de scrutin proportionnel « avec prime majoritaire ».",
+     "text": "Place dans le supérieur : 15 000 places supplémentaires, selon Europe 1, plutôt dans les filières courtes (BTS, DUT) et de santé. La Dépêche du Midi détaille : 10 000 en BTS, 4 000 en IUT et 1 000 en formations de santé.",
      "sources": [
-      "bcaf77466d6e"
+      "95167e96cde9",
+      "12deaabb6ff0"
      ]
     },
     {
-     "text": "Sur l'immigration et la nationalité, CNews cite : « La nationalité française redeviendra un privilège qui s’hérite ou se mérite », avec « la priorité nationale ». Midi Libre ajoute l'« expulsion automatique et définitive » des étrangers délinquants et l'« interdiction du communautarisme ».",
+     "text": "Classes de seconde : 28 élèves maximum, contre parfois 35 aujourd'hui, d'après La Dépêche du Midi. Public Sénat précise que 500 postes supplémentaires seraient annoncés dans le budget 2027, ce qui conduirait à renoncer à 800 suppressions de postes.",
      "sources": [
-      "bcaf77466d6e",
-      "b0f25dd5f473"
+      "12deaabb6ff0",
+      "626d49c83d32"
      ]
     },
     {
-     "text": "Sur l'Europe, Midi Libre rapporte qu'elle affirme la primauté de la Constitution : « Aucun texte, aucune autorité, et surtout pas étrangère, même européenne, ne lui sera supérieure ». Le journal y voit un possible « choc frontal » avec l'Union européenne.",
+     "text": "Selon Public Sénat, 920 nouveaux postes de remplaçants s'ajoutent aux 3 000 enseignants remplaçants non affectés remis sur le terrain depuis le 13 octobre.",
      "sources": [
-      "b0f25dd5f473"
+      "626d49c83d32"
      ]
     },
     {
-     "text": "Sur les retraites, selon Midi Libre, elle ne s'est pas engagée à revenir à 60 ans comme par le passé, mais à ne pas repousser l'âge de départ au-delà de 64 ans. CNews cite : faire « entrer plus tôt les jeunes sur le marché du travail ».",
+     "text": "Bâtiments : un plan de 5 milliards d'euros au total pour rénover lycées et universités, selon Europe 1. La Dépêche du Midi détaille 4 milliards de prêts à taux réduits aux collectivités et un milliard pour une cinquantaine d'universités jusqu'en 2031.",
      "sources": [
-      "b0f25dd5f473",
-      "bcaf77466d6e"
+      "95167e96cde9",
+      "12deaabb6ff0"
      ]
     },
     {
-     "text": "Sur la guerre et la paix, Le Monde rapporte son engagement à faire de la France une « nation de paix » et à ne pas envoyer « nos jeunes mourir dans des aventures guerrières inconsidérées ou irresponsables ».",
+     "text": "Bourses étudiantes : indexation sur l'inflation, selon Europe 1. Une source de l'exécutif cite un barème refondu pour rattraper des étudiants devenus non-boursiers, pour un coût de plus d'une centaine de millions d'euros.",
      "sources": [
-      "40ac98698f53"
+      "95167e96cde9"
      ]
     },
     {
-     "text": "Elle a aussi visé « LFI et sa branche armée, les casseurs antifa », selon CNews, qu'elle range parmi les mouvements qui prônent « l’intolérance et la violence ». CNews cite enfin sa promesse d'abolir « la stupide loi Hulot » sur les hydrocarbures.",
+     "text": "Public Sénat note que les grandes lignes ont été dévoilées par deux influenceuses éducation à la sortie de Matignon, avant la conférence de presse des ministres Geffray et Baptiste à 17h30. Un débat sans vote est prévu mercredi à l'Assemblée sur l'orientation.",
      "sources": [
-      "bcaf77466d6e"
+      "626d49c83d32"
      ]
     },
     {
-     "text": "Le contexte, selon Le Monde : 8 500 personnes, selon les organisateurs, dans une salle « transformée en camp retranché ». Une centaine de militants antifascistes se sont rassemblés loin du congrès, malgré l'interdiction préfectorale.",
+     "text": "La Dépêche du Midi avertit : plusieurs de ces mesures devront encore être financées ou adoptées par le Parlement, et certaines n'entreront en vigueur qu'en 2028, après la fin du quinquennat.",
      "sources": [
-      "40ac98698f53"
-     ]
-    },
-    {
-     "text": "Le discours de Jordan Bardella a été interrompu par des militants de l'UEJF, qui ont déployé une banderole sur le « racisme et l’antisémitisme ». Ils ont été expulsés par le service d'ordre du RN, selon Le Parisien. L'UEJF dit avoir été « agressée » et veut porter plainte. Bardella a répondu : « Ne faites pas de publicité à l’ultragauche qui déteste la démocratie ».",
-     "sources": [
-      "4eb908b50010"
+      "12deaabb6ff0"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 5,
-    "outlets": 5
+    "articles": 3,
+    "outlets": 3
    },
    "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ekloaGpGRb4eHmRuRaswUM4iWQI=/0x0:1920x1080/800x0/images/Marine-Le-Pen-au-congres-du-RN-a-Orleans-le-25-octobre-2026-2371866.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
-    "article_id": "f69ab0162765"
+    "url": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01302343_000088-845x563.jpg",
+    "source": "Public Sénat",
+    "article_url": "https://www.publicsenat.fr/actualites/education/parcoursup-effectif-des-classes-emplois-du-temps-les-reponses-du-gouvernement-a-la-mobilisation-lyceenne",
+    "article_id": "626d49c83d32"
    },
-   "id": 177,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-25T17:11:25+00:00",
+   "id": 184,
+   "section": "institutions",
+   "reviewed_at": "2026-10-26T17:24:54+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 9.0,
    "sources": [
     {
-     "id": "40ac98698f53",
-     "name": "Le Monde",
+     "id": "12deaabb6ff0",
+     "name": "La Dépêche du Midi",
      "kind": "media",
-     "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
-     "published_at": "2026-10-25T13:42:59+00:00",
-     "snippet": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours."
+     "title": "Colère lycéenne : Parcoursup supprimé, classes limitées à 28 élèves, milliers de postes supplémentaires… les annonces de Sébastien Lecornu pour apaiser les tensions",
+     "url": "https://www.ladepeche.fr/2026/10/26/colere-lyceenne-parcoursup-supprime-classes-limitees-a-28-eleves-milliers-de-postes-supplementaires-les-annonces-de-sebastien-lecornu-pour-apaiser-les-13621162.php",
+     "published_at": "2026-10-26T15:06:35+00:00",
+     "snippet": "Après plusieurs semaines de mobilisation lycéenne, le gouvernement a décidé de revoir sa copie. Suppression de Parcoursup à l'horizon 2028, classes moins chargées, créations de postes et rénovation des établissements..."
     },
     {
-     "id": "4eb908b50010",
-     "name": "Le Parisien",
+     "id": "626d49c83d32",
+     "name": "Public Sénat",
      "kind": "media",
-     "title": "« Vous êtes un danger pour la France » : des militants de l’UEJF interrompent Jordan Bardella en plein discours au congrès du RN",
-     "url": "https://www.leparisien.fr/politique/congres-du-rn-le-discours-de-jordan-bardella-interrompu-par-des-militants-dune-association-de-lutte-contre-lantisemitisme-25-10-2026-WDRDLBUZ3JABNBKS45UK4ILHXE.php",
-     "published_at": "2026-10-25T17:10:47+00:00",
-     "snippet": ""
+     "title": "Parcoursup, effectif des classes, emplois du temps : les réponses du gouvernement à la mobilisation lycéenne",
+     "url": "https://www.publicsenat.fr/actualites/education/parcoursup-effectif-des-classes-emplois-du-temps-les-reponses-du-gouvernement-a-la-mobilisation-lyceenne",
+     "published_at": "2026-10-26T15:17:56+00:00",
+     "snippet": "Le gouvernement annonce une série de mesures après plusieurs semaines de manifestations et d’actions dans les lycées. Après avoir réuni les organisations lycéennes et étudiantes, l’exécutif ouvre la voie à la refonte du processus d’orientation dans le supérieur, à un rattrapage des bourses étudiantes, ou encore à des investissements pour rénover les bâtiments vétustes."
     },
     {
-     "id": "b0f25dd5f473",
-     "name": "Midi Libre",
+     "id": "95167e96cde9",
+     "name": "Europe 1",
      "kind": "media",
-     "title": "Présidentielle 2027 : priorité nationale, Jordan Bardella Premier ministre, référendum… que retenir du premier meeting de Marine Le Pen",
-     "url": "https://www.midilibre.fr/2026/10/25/presidentielle-2027-priorite-nationale-jordan-bardella-premier-ministre-referendum-que-retenir-du-premier-meeting-de-marine-le-pen-13619984.php",
-     "published_at": "2026-10-25T16:59:02+00:00",
-     "snippet": "Marine Le Pen a tenu son premier meeting de campagne ce dimanche 25 octobre à Orléans en conclusion du congrès du RN. Devant ses militants, la candidate à la présidentielle a promis un gouvernement \"d’union nationale\"..."
-    },
-    {
-     "id": "bcaf77466d6e",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Congrès du RN : sécurité, identité, souveraineté... Ce qu'il faut retenir du premier grand discours de campagne de Marine Le Pen",
-     "url": "https://www.cnews.fr/france/2026-10-25/congres-du-rn-securite-identite-souverainete-ce-quil-faut-retenir-du-premier",
-     "published_at": "2026-10-25T17:04:21+00:00",
-     "snippet": "À six mois de la présidentielle et dans le cadre de la deuxième journée du congrès du Rassemblement national à Orléans, Marine Le Pen s’est exprimée autour de trois grands axes que sont la renaissance, la puissance et sa vision pour l'avenir du pays. La renaissance au premier plan pour Marine Le Pen. Au deuxième jour du congrès du Rassemblement national, qui se tient à Orléans dans un contexte national tendu, la candidate à la présidentielle a tenu son premier grand discours de campagne. La présidente du groupe RN à l’Assemblée nationale a ainsi affirmé son objectif «d’offrir au pays une grand"
-    },
-    {
-     "id": "f69ab0162765",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Je ne vous propose pas de refaire la France d'avant\": Marine Le Pen plaide pour une \"Renaissance\" du pays",
-     "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
-     "published_at": "2026-10-25T16:48:05+00:00",
-     "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
-    }
-   ]
-  },
-  {
-   "headline": "Mélenchon à Macron : « céder » ou « la porte de sortie », avec une grève générale en vue le 5 novembre",
-   "chapo": "Dans le cortège parisien du 24 octobre, Jean-Luc Mélenchon a sommé Emmanuel Macron de « céder » aux revendications, en évoquant une grève générale dès le 5 novembre. Les syndicats préparent une journée interprofessionnelle à cette date. Mélenchon a aussi pris à partie un journaliste de BFMTV, et la bataille à gauche avec Raphaël Glucksmann s'intensifie.",
-   "points": [
-    {
-     "text": "Selon BFMTV, Jean-Luc Mélenchon a exhorté Emmanuel Macron à « céder » car « après, il ne lui restera plus que la porte de sortie » : « ça va se répéter toutes les semaines ». Pour lui, ce qui « pend au nez » de l'exécutif, c'est « la grève générale », à partir du 5 novembre, à l'appel de la patronne de la CGT Sophie Binet.",
-     "sources": [
-      "58613e847632"
-     ]
-    },
-    {
-     "text": "Il a demandé à l'exécutif « d'arrêter les provocations » après le changement tardif de parcours. Marine Tondelier (Écologistes) accuse le gouvernement d'avoir joué « la stratégie du pourrissement » pendant un mois, selon BFMTV.",
-     "sources": [
-      "58613e847632"
-     ]
-    },
-    {
-     "text": "L'Humanité raconte une foule « massive et calme » à Paris et des syndicats qui annoncent 250 000 personnes. Ils préparent désormais la journée de mobilisation interprofessionnelle du 5 novembre. Le tribunal administratif a rejeté leur référé contre le parcours, « déposé hors délai ».",
-     "sources": [
-      "d08abf2dcae1"
-     ]
-    },
-    {
-     "text": "Le JDD relate qu'interrogé par un journaliste de BFMTV, Mélenchon a répondu : « Allez faire du racisme à la télé et foutez-nous la paix ». Le JDD rappelle qu'en septembre, LFI avait annoncé boycotter BFMTV une semaine en raison de sa ligne éditoriale « de plus en plus à droite ».",
-     "sources": [
-      "d4118d5b8a8c"
-     ]
-    },
-    {
-     "text": "À gauche, la concurrence s'aiguise, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon atteint 17 % et se qualifie pour le second tour dans tous les cas de figure. L'équipe de Glucksmann espère lui disputer le vote utile face au RN : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ».",
-     "sources": [
-      "047bda588bce"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rImiZVpvmIKYShSOqEkOJ7AOLF8=/0x0:1920x1080/800x0/images/Jean-Luc-Melenchon-a-Paris-lors-d-une-manifestation-le-24-octobre-2026-2371469.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
-    "article_id": "58613e847632"
-   },
-   "id": 179,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-26T14:18:52+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 10.79,
-   "sources": [
-    {
-     "id": "047bda588bce",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
-     "published_at": "2026-10-25T11:04:54+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "58613e847632",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre: Jean-Luc Mélenchon appelle Emmanuel Macron à \"céder\" face aux revendications car \"après, il ne lui restera plus que la porte de sortie\"",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
-     "published_at": "2026-10-24T13:07:47+00:00",
-     "snippet": "Le candidat à la présidentielle, présent dans le cortège à Paris du 24 octobre, a souligné que le chef de l'État \"va comprendre que ça va se répéter toutes les semaines\"."
-    },
-    {
-     "id": "d08abf2dcae1",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "24 octobre : la rue parisienne répond par le calme aux provocations d’Emmanuel Macron, et prépare la grève du 5 novembre",
-     "url": "https://www.humanite.fr/social-et-economie/cgt/24-octobre-la-rue-parisienne-repond-par-le-calme-aux-provocations-demmanuel-macron-et-prepare-la-greve-du-5-novembre",
-     "published_at": "2026-10-24T15:30:29+00:00",
-     "snippet": "Loin d’affaiblir la mobilisation sociale, les mesures répressives ont galvanisé les manifestants dans la capitale, ce samedi. Les syndicats ont désormais les yeux rivés sur la journée de mobilisation interprofessionnelle du 5 novembre."
-    },
-    {
-     "id": "d4118d5b8a8c",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "«Commencez à vous calmer» : Mélenchon prend encore un journaliste à partie en pleine manifestation",
-     "url": "https://www.lejdd.fr/politique/commencez-a-vous-calmer-melenchon-prend-encore-un-journaliste-a-partie-en-pleine-manifestation-186870",
-     "published_at": "2026-10-24T15:27:16+00:00",
-     "snippet": "Présent dans le cortège parisien ce samedi 24 octobre, le fondateur de La France insoumise a vivement pris à partie un journaliste de BFMTV, lui lançant notamment : « Allez faire du racisme à la télé et foutez-nous la paix. »"
+     "title": "Crise lycéenne : Parcoursup pourrait être remplacé dans les deux ans",
+     "url": "https://www.europe1.fr/societe/crise-lyceenne-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-1183752",
+     "published_at": "2026-10-26T15:30:00+00:00",
+     "snippet": "Le gouvernement prévoit le remplacement de Parcoursup en deux temps, cette année et l'année scolaire prochaine, ainsi que quatre autres mesures, selon des influenceuses dans le domaine de l'éducation "
     }
    ]
   },
@@ -659,7 +636,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.54,
+   "score": 8.4,
    "sources": [
     {
      "id": "6533d50f040f",
@@ -769,7 +746,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.09,
+   "score": 7.97,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -797,6 +774,139 @@
      "url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
      "published_at": "2026-10-26T11:12:01+00:00",
      "snippet": "Après un mois de mobilisation des lycéens et étudiants, le gouvernement a promis de leur apporter ce lundi «des réponses très concrètes», qui devraient concerner Parcoursup, l'état des bâtiments ou encore le nombre de places à l'université. Des annonces très attendues. Ce lundi 26 octobre, Sébastien Lecornu va successivement recevoir à partir de 14h30, à Matignon, les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements. Les ministres Edouard Geffray (Éducation) et Philippe Baptiste (Enseignement supérieur) doivent égal"
+    }
+   ]
+  },
+  {
+   "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
+   "chapo": "Marine Le Pen a tenu dimanche son premier grand meeting de campagne, à Orléans. Elle promet une « renaissance », un gouvernement d'union nationale dirigé par Jordan Bardella, la priorité nationale et plus de référendums. Le discours de Bardella a été interrompu par des militants de l'UEJF.",
+   "points": [
+    {
+     "text": "Le thème central : la « Renaissance ». Marine Le Pen a déclaré, selon BFMTV : « je ne vous propose pas de refaire la France d'avant, je vous propose de concevoir et de construire la France de demain ». Elle a ajouté : « C’était bien avant, ce sera mieux demain ».",
+     "sources": [
+      "f69ab0162765"
+     ]
+    },
+    {
+     "text": "Elle promet un gouvernement « d’union nationale », « pluraliste » et dirigé par Jordan Bardella, rapporte Le Monde. Elle justifie ce « gouvernement ouvert » par « la situation d’un pays fracturé ».",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Sur les institutions, selon CNews : un recours au référendum pour rétablir le « droit d’expression politique » des citoyens et un mode de scrutin proportionnel « avec prime majoritaire ».",
+     "sources": [
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Sur l'immigration et la nationalité, CNews cite : « La nationalité française redeviendra un privilège qui s’hérite ou se mérite », avec « la priorité nationale ». Midi Libre ajoute l'« expulsion automatique et définitive » des étrangers délinquants et l'« interdiction du communautarisme ».",
+     "sources": [
+      "bcaf77466d6e",
+      "b0f25dd5f473"
+     ]
+    },
+    {
+     "text": "Sur l'Europe, Midi Libre rapporte qu'elle affirme la primauté de la Constitution : « Aucun texte, aucune autorité, et surtout pas étrangère, même européenne, ne lui sera supérieure ». Le journal y voit un possible « choc frontal » avec l'Union européenne.",
+     "sources": [
+      "b0f25dd5f473"
+     ]
+    },
+    {
+     "text": "Sur les retraites, selon Midi Libre, elle ne s'est pas engagée à revenir à 60 ans comme par le passé, mais à ne pas repousser l'âge de départ au-delà de 64 ans. CNews cite : faire « entrer plus tôt les jeunes sur le marché du travail ».",
+     "sources": [
+      "b0f25dd5f473",
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Sur la guerre et la paix, Le Monde rapporte son engagement à faire de la France une « nation de paix » et à ne pas envoyer « nos jeunes mourir dans des aventures guerrières inconsidérées ou irresponsables ».",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Elle a aussi visé « LFI et sa branche armée, les casseurs antifa », selon CNews, qu'elle range parmi les mouvements qui prônent « l’intolérance et la violence ». CNews cite enfin sa promesse d'abolir « la stupide loi Hulot » sur les hydrocarbures.",
+     "sources": [
+      "bcaf77466d6e"
+     ]
+    },
+    {
+     "text": "Le contexte, selon Le Monde : 8 500 personnes, selon les organisateurs, dans une salle « transformée en camp retranché ». Une centaine de militants antifascistes se sont rassemblés loin du congrès, malgré l'interdiction préfectorale.",
+     "sources": [
+      "40ac98698f53"
+     ]
+    },
+    {
+     "text": "Le discours de Jordan Bardella a été interrompu par des militants de l'UEJF, qui ont déployé une banderole sur le « racisme et l’antisémitisme ». Ils ont été expulsés par le service d'ordre du RN, selon Le Parisien. L'UEJF dit avoir été « agressée » et veut porter plainte. Bardella a répondu : « Ne faites pas de publicité à l’ultragauche qui déteste la démocratie ».",
+     "sources": [
+      "4eb908b50010"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ekloaGpGRb4eHmRuRaswUM4iWQI=/0x0:1920x1080/800x0/images/Marine-Le-Pen-au-congres-du-RN-a-Orleans-le-25-octobre-2026-2371866.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
+    "article_id": "f69ab0162765"
+   },
+   "id": 177,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-25T17:11:25+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.47,
+   "sources": [
+    {
+     "id": "40ac98698f53",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
+     "published_at": "2026-10-25T13:42:59+00:00",
+     "snippet": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours."
+    },
+    {
+     "id": "4eb908b50010",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Vous êtes un danger pour la France » : des militants de l’UEJF interrompent Jordan Bardella en plein discours au congrès du RN",
+     "url": "https://www.leparisien.fr/politique/congres-du-rn-le-discours-de-jordan-bardella-interrompu-par-des-militants-dune-association-de-lutte-contre-lantisemitisme-25-10-2026-WDRDLBUZ3JABNBKS45UK4ILHXE.php",
+     "published_at": "2026-10-25T17:10:47+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b0f25dd5f473",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Présidentielle 2027 : priorité nationale, Jordan Bardella Premier ministre, référendum… que retenir du premier meeting de Marine Le Pen",
+     "url": "https://www.midilibre.fr/2026/10/25/presidentielle-2027-priorite-nationale-jordan-bardella-premier-ministre-referendum-que-retenir-du-premier-meeting-de-marine-le-pen-13619984.php",
+     "published_at": "2026-10-25T16:59:02+00:00",
+     "snippet": "Marine Le Pen a tenu son premier meeting de campagne ce dimanche 25 octobre à Orléans en conclusion du congrès du RN. Devant ses militants, la candidate à la présidentielle a promis un gouvernement \"d’union nationale\"..."
+    },
+    {
+     "id": "bcaf77466d6e",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Congrès du RN : sécurité, identité, souveraineté... Ce qu'il faut retenir du premier grand discours de campagne de Marine Le Pen",
+     "url": "https://www.cnews.fr/france/2026-10-25/congres-du-rn-securite-identite-souverainete-ce-quil-faut-retenir-du-premier",
+     "published_at": "2026-10-25T17:04:21+00:00",
+     "snippet": "À six mois de la présidentielle et dans le cadre de la deuxième journée du congrès du Rassemblement national à Orléans, Marine Le Pen s’est exprimée autour de trois grands axes que sont la renaissance, la puissance et sa vision pour l'avenir du pays. La renaissance au premier plan pour Marine Le Pen. Au deuxième jour du congrès du Rassemblement national, qui se tient à Orléans dans un contexte national tendu, la candidate à la présidentielle a tenu son premier grand discours de campagne. La présidente du groupe RN à l’Assemblée nationale a ainsi affirmé son objectif «d’offrir au pays une grand"
+    },
+    {
+     "id": "f69ab0162765",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Je ne vous propose pas de refaire la France d'avant\": Marine Le Pen plaide pour une \"Renaissance\" du pays",
+     "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
+     "published_at": "2026-10-25T16:48:05+00:00",
+     "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
     }
    ]
   },
@@ -891,7 +1001,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.46,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -1023,7 +1133,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.46,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -1150,7 +1260,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.53,
+   "score": 7.46,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -1282,7 +1392,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.02,
+   "score": 5.97,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -1399,7 +1509,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.02,
+   "score": 5.97,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -1512,7 +1622,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.38,
+   "score": 6.34,
    "sources": [
     {
      "id": "115735dc9542",
@@ -1662,7 +1772,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.77,
+   "score": 5.74,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -1812,7 +1922,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.54,
+   "score": 5.51,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -1943,7 +2053,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.44,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -2074,7 +2184,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.44,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -2203,7 +2313,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.61,
+   "score": 4.59,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -2330,7 +2440,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.54,
+   "score": 4.52,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -2442,7 +2552,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.54,
+   "score": 4.52,
    "sources": [
     {
      "id": "66f1e25479fc",
