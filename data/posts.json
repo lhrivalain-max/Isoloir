@@ -1,138 +1,6 @@
 {
- "generated_at": "2026-10-25T17:11:25+00:00",
+ "generated_at": "2026-10-26T09:04:46+00:00",
  "posts": [
-  {
-   "headline": "Interdire LFI : la proposition de Retailleau et Larcher tient-elle juridiquement ?",
-   "chapo": "Bruno Retailleau puis Gérard Larcher ont évoqué l'interdiction de La France insoumise, qu'ils accusent d'attiser la violence. Le droit permet de dissoudre un parti, mais dans un cadre très strict. Les juristes cités jugent l'hypothèse improbable, et LFI dénonce une manœuvre.",
-   "points": [
-    {
-     "text": "Invité de BFMTV-RMC le jeudi 1er octobre, Bruno Retailleau a jugé que LFI était un parti « fasciné par la violence » et que « la question de l'interdiction de LFI se pose ». Selon Europe 1, il a ajouté : « C'est très difficile en droit, mais je la lance dans le débat public ».",
-     "sources": [
-      "8c2bd05c073d",
-      "dd071981f197"
-     ]
-    },
-    {
-     "text": "Le président du Sénat Gérard Larcher a insisté à son tour dans une interview, le 19 octobre : « Je pense que la question [d'interdire LFI] peut être posée », rapporte LCP.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon répond, selon Public Sénat : « Il veut nous interdire parce que nos idées ne lui plaisent pas ». Il affirme que LFI est « pour des méthodes de lutte non violentes ».",
-     "sources": [
-      "dd071981f197"
-     ]
-    },
-    {
-     "text": "Que dit la loi ? Selon LCP, l'article L. 212-1 du Code de la sécurité intérieure permet de dissoudre un groupement par décret en conseil des ministres, notamment s'il provoque des agissements violents envers les personnes ou les biens.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Le juge administratif a confirmé que cet article s'applique aussi aux partis politiques, selon Le JDD, dans une décision du 30 décembre 2024. La dissolution peut être contestée devant le Conseil d'État, qui vérifie la réalité des accusations : « un appel à manifester n'est pas un appel à la violence ».",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Les précédents concernent des groupes très limités en adhérents, comme Génération identitaire, Civitas ou le Groupe antifasciste Lyon et environs. Pour le professeur de droit public Christophe Boutin, interrogé par Le JDD : « Rien à voir, donc, avec le volume et l'audience d'un parti comme LFI ».",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Les garde-fous sont nombreux, selon LCP. L'article 4 de la Constitution dit que les partis « se forment et exercent leurs activités librement ». La Cour européenne des droits de l'homme exige des raisons « convaincantes et impératives ». LCP juge la dissolution « relativement improbable ».",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Un juriste cité par LCP, Augustin Berthout, estime que la loi « politise énormément la décision », car c'est au gouvernement d'interdire un parti d'opposition.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Toujours selon Le JDD, Christophe Boutin avertit que le pouvoir « prend le risque d'être désavoué par ses juges et, finalement, d'être délégitimé ». Le JDD rappelle qu'Éric Zemmour s'oppose à cette procédure, qu'il juge antidémocratique.",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Pour L'Humanité, LFI est devenue « la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ».",
-     "sources": [
-      "771ec26fa5a1"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2023-07/P0209736%20FAITES%20MIEUX%20CETTE%20JEUNESSE%20DERRIERE%20MELENCHON.JPG?h=d1cb525d&itok=LXo1c2eB",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
-    "article_id": "b92ea1edf8cc"
-   },
-   "id": 172,
-   "section": "institutions",
-   "reviewed_at": "2026-10-25T17:10:51+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 14.99,
-   "sources": [
-    {
-     "id": "59c0b784075a",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Peut-on vraiment interdire LFI ? Les réponses d’un professeur de droit public",
-     "url": "https://www.lejdd.fr/politique/peut-on-vraiment-interdire-lfi-les-reponses-dun-professeur-de-droit-public-186762",
-     "published_at": "2026-10-22T16:36:51+00:00",
-     "snippet": "ENTRETIEN. Alors que les appels à dissoudre le mouvement de Jean-Luc Mélenchon se multiplient, Christophe Boutin, politologue et professeur à l'université de Caen-Normandie, précise les conditions juridiques d’une telle mesure et alerte sur le risque, pour l'État, d'être désavoué par les juges."
-    },
-    {
-     "id": "771ec26fa5a1",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Demandes de dissolution, attaques, mensonges… LFI cible du gouvernement et de la droite",
-     "url": "https://www.humanite.fr/politique/bruno-retailleau/demandes-de-dissolution-attaques-mensonges-lfi-cible-du-gouvernement-et-de-la-droite",
-     "published_at": "2026-10-24T06:01:00+00:00",
-     "snippet": "Pourquoi la France insoumise est-elle devenue la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ? Entre les accusations de noyautage du mouvement lycéen, les propositions de dissolution brandies par Bruno Retailleau ou Gérard Larcher, et les révélations explosives de Médiapart sur les notes des renseignements territoriaux, retour sur une séquence politique sous haute tension.Avec Rachel Garrat-Valcarcel et Théo Bourrieau."
-    },
-    {
-     "id": "8c2bd05c073d",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Blocage des lycées : B.Retailleau propose de faire interdire LFI",
-     "url": "https://www.europe1.fr/politique/tensions-devant-les-lycees-bruno-retailleau-demande-detudier-linterdiction-de-lfi-1116410",
-     "published_at": "2026-10-01T17:32:00+00:00",
-     "snippet": "En marge des blocus lycéens marqués par de vives tensions, le candidat LR à l'élection présidentielle Bruno Retailleau a proposé d'ouvrir le débat sur l'interdiction de La France Insoumise. Il accuse "
-    },
-    {
-     "id": "b92ea1edf8cc",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Interdire LFI: la proposition de Gérard Larcher et Bruno Retailleau tient-elle juridiquement ?",
-     "url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
-     "published_at": "2026-10-24T09:26:08+00:00",
-     "snippet": "Par Pierre Levrel , le Samedi 24 octobre 2026 à 08:35 Bruno Retailleau et Gérard Larcher ont évoqué une interdiction de La France insoumise, qu’ils accusent d’attiser la violence. Mais peut-on dissoudre un parti politique ? Si le droit français le permet, cette décision reste strictement encadrée, notamment pour préserver le pluralisme des opinions. Et paraît, aujourd'hui, relativement improbable. \"Fasciné par la violence\", parti qui \"appelle à la sédition\"... Bruno Retailleau n'avait pas retenu ses coups contre La France Insoumise (LFI), à l'occasion d' un entretien donné le 1er octobre sur B"
-    },
-    {
-     "id": "dd071981f197",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Exclusif. « Bruno Retailleau est ridicule » : Jean-Luc Mélenchon réagit à sa proposition d'interdire LFI",
-     "url": "https://www.publicsenat.fr/actualites/politique/exclusif-bruno-retailleau-est-ridicule-jean-luc-melenchon-reagit-a-sa-proposition-dinterdire-lfi",
-     "published_at": "2026-10-01T14:47:00+00:00",
-     "snippet": "Invité de BFMTV-RMC ce jeudi 1er octobre, le candidat LR à la présidentielle Bruno Retailleau a réagi au mouvement des lycéens. Il a déclaré que La France Insoumise était un parti « fasciné par la vio"
-    }
-   ]
-  },
   {
    "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
    "chapo": "Marine Le Pen a tenu dimanche son premier grand meeting de campagne, à Orléans. Elle promet une « renaissance », un gouvernement d'union nationale dirigé par Jordan Bardella, la priorité nationale et plus de référendums. Le discours de Bardella a été interrompu par des militants de l'UEJF.",
@@ -217,7 +85,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 9.02,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -263,6 +131,138 @@
      "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
      "published_at": "2026-10-25T16:48:05+00:00",
      "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
+    }
+   ]
+  },
+  {
+   "headline": "Interdire LFI : la proposition de Retailleau et Larcher tient-elle juridiquement ?",
+   "chapo": "Bruno Retailleau puis Gérard Larcher ont évoqué l'interdiction de La France insoumise, qu'ils accusent d'attiser la violence. Le droit permet de dissoudre un parti, mais dans un cadre très strict. Les juristes cités jugent l'hypothèse improbable, et LFI dénonce une manœuvre.",
+   "points": [
+    {
+     "text": "Invité de BFMTV-RMC le jeudi 1er octobre, Bruno Retailleau a jugé que LFI était un parti « fasciné par la violence » et que « la question de l'interdiction de LFI se pose ». Selon Europe 1, il a ajouté : « C'est très difficile en droit, mais je la lance dans le débat public ».",
+     "sources": [
+      "8c2bd05c073d",
+      "dd071981f197"
+     ]
+    },
+    {
+     "text": "Le président du Sénat Gérard Larcher a insisté à son tour dans une interview, le 19 octobre : « Je pense que la question [d'interdire LFI] peut être posée », rapporte LCP.",
+     "sources": [
+      "b92ea1edf8cc"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon répond, selon Public Sénat : « Il veut nous interdire parce que nos idées ne lui plaisent pas ». Il affirme que LFI est « pour des méthodes de lutte non violentes ».",
+     "sources": [
+      "dd071981f197"
+     ]
+    },
+    {
+     "text": "Que dit la loi ? Selon LCP, l'article L. 212-1 du Code de la sécurité intérieure permet de dissoudre un groupement par décret en conseil des ministres, notamment s'il provoque des agissements violents envers les personnes ou les biens.",
+     "sources": [
+      "b92ea1edf8cc"
+     ]
+    },
+    {
+     "text": "Le juge administratif a confirmé que cet article s'applique aussi aux partis politiques, selon Le JDD, dans une décision du 30 décembre 2024. La dissolution peut être contestée devant le Conseil d'État, qui vérifie la réalité des accusations : « un appel à manifester n'est pas un appel à la violence ».",
+     "sources": [
+      "59c0b784075a"
+     ]
+    },
+    {
+     "text": "Les précédents concernent des groupes très limités en adhérents, comme Génération identitaire, Civitas ou le Groupe antifasciste Lyon et environs. Pour le professeur de droit public Christophe Boutin, interrogé par Le JDD : « Rien à voir, donc, avec le volume et l'audience d'un parti comme LFI ».",
+     "sources": [
+      "59c0b784075a"
+     ]
+    },
+    {
+     "text": "Les garde-fous sont nombreux, selon LCP. L'article 4 de la Constitution dit que les partis « se forment et exercent leurs activités librement ». La Cour européenne des droits de l'homme exige des raisons « convaincantes et impératives ». LCP juge la dissolution « relativement improbable ».",
+     "sources": [
+      "b92ea1edf8cc"
+     ]
+    },
+    {
+     "text": "Un juriste cité par LCP, Augustin Berthout, estime que la loi « politise énormément la décision », car c'est au gouvernement d'interdire un parti d'opposition.",
+     "sources": [
+      "b92ea1edf8cc"
+     ]
+    },
+    {
+     "text": "Toujours selon Le JDD, Christophe Boutin avertit que le pouvoir « prend le risque d'être désavoué par ses juges et, finalement, d'être délégitimé ». Le JDD rappelle qu'Éric Zemmour s'oppose à cette procédure, qu'il juge antidémocratique.",
+     "sources": [
+      "59c0b784075a"
+     ]
+    },
+    {
+     "text": "Pour L'Humanité, LFI est devenue « la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ».",
+     "sources": [
+      "771ec26fa5a1"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2023-07/P0209736%20FAITES%20MIEUX%20CETTE%20JEUNESSE%20DERRIERE%20MELENCHON.JPG?h=d1cb525d&itok=LXo1c2eB",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
+    "article_id": "b92ea1edf8cc"
+   },
+   "id": 172,
+   "section": "institutions",
+   "reviewed_at": "2026-10-25T17:10:51+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.02,
+   "sources": [
+    {
+     "id": "59c0b784075a",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Peut-on vraiment interdire LFI ? Les réponses d’un professeur de droit public",
+     "url": "https://www.lejdd.fr/politique/peut-on-vraiment-interdire-lfi-les-reponses-dun-professeur-de-droit-public-186762",
+     "published_at": "2026-10-22T16:36:51+00:00",
+     "snippet": "ENTRETIEN. Alors que les appels à dissoudre le mouvement de Jean-Luc Mélenchon se multiplient, Christophe Boutin, politologue et professeur à l'université de Caen-Normandie, précise les conditions juridiques d’une telle mesure et alerte sur le risque, pour l'État, d'être désavoué par les juges."
+    },
+    {
+     "id": "771ec26fa5a1",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Demandes de dissolution, attaques, mensonges… LFI cible du gouvernement et de la droite",
+     "url": "https://www.humanite.fr/politique/bruno-retailleau/demandes-de-dissolution-attaques-mensonges-lfi-cible-du-gouvernement-et-de-la-droite",
+     "published_at": "2026-10-24T06:01:00+00:00",
+     "snippet": "Pourquoi la France insoumise est-elle devenue la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ? Entre les accusations de noyautage du mouvement lycéen, les propositions de dissolution brandies par Bruno Retailleau ou Gérard Larcher, et les révélations explosives de Médiapart sur les notes des renseignements territoriaux, retour sur une séquence politique sous haute tension.Avec Rachel Garrat-Valcarcel et Théo Bourrieau."
+    },
+    {
+     "id": "8c2bd05c073d",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Blocage des lycées : B.Retailleau propose de faire interdire LFI",
+     "url": "https://www.europe1.fr/politique/tensions-devant-les-lycees-bruno-retailleau-demande-detudier-linterdiction-de-lfi-1116410",
+     "published_at": "2026-10-01T17:32:00+00:00",
+     "snippet": "En marge des blocus lycéens marqués par de vives tensions, le candidat LR à l'élection présidentielle Bruno Retailleau a proposé d'ouvrir le débat sur l'interdiction de La France Insoumise. Il accuse "
+    },
+    {
+     "id": "b92ea1edf8cc",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Interdire LFI: la proposition de Gérard Larcher et Bruno Retailleau tient-elle juridiquement ?",
+     "url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
+     "published_at": "2026-10-24T09:26:08+00:00",
+     "snippet": "Par Pierre Levrel , le Samedi 24 octobre 2026 à 08:35 Bruno Retailleau et Gérard Larcher ont évoqué une interdiction de La France insoumise, qu’ils accusent d’attiser la violence. Mais peut-on dissoudre un parti politique ? Si le droit français le permet, cette décision reste strictement encadrée, notamment pour préserver le pluralisme des opinions. Et paraît, aujourd'hui, relativement improbable. \"Fasciné par la violence\", parti qui \"appelle à la sédition\"... Bruno Retailleau n'avait pas retenu ses coups contre La France Insoumise (LFI), à l'occasion d' un entretien donné le 1er octobre sur B"
+    },
+    {
+     "id": "dd071981f197",
+     "name": "Public Sénat",
+     "kind": "media",
+     "title": "Exclusif. « Bruno Retailleau est ridicule » : Jean-Luc Mélenchon réagit à sa proposition d'interdire LFI",
+     "url": "https://www.publicsenat.fr/actualites/politique/exclusif-bruno-retailleau-est-ridicule-jean-luc-melenchon-reagit-a-sa-proposition-dinterdire-lfi",
+     "published_at": "2026-10-01T14:47:00+00:00",
+     "snippet": "Invité de BFMTV-RMC ce jeudi 1er octobre, le candidat LR à la présidentielle Bruno Retailleau a réagi au mouvement des lycéens. Il a déclaré que La France Insoumise était un parti « fasciné par la vio"
     }
    ]
   },
@@ -357,7 +357,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 9.02,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -484,7 +484,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.99,
+   "score": 9.02,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -616,7 +616,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 7.22,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -733,7 +733,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.99,
+   "score": 7.22,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -846,7 +846,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.13,
+   "score": 7.09,
    "sources": [
     {
      "id": "115735dc9542",
@@ -996,7 +996,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.26,
+   "score": 6.41,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -1146,7 +1146,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.97,
+   "score": 6.16,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -1277,7 +1277,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.82,
+   "score": 6.08,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -1408,7 +1408,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.82,
+   "score": 6.08,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -1537,7 +1537,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.64,
+   "score": 5.13,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -1664,7 +1664,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.5,
+   "score": 5.05,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -1776,7 +1776,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.49,
+   "score": 5.05,
    "sources": [
     {
      "id": "66f1e25479fc",
@@ -1896,7 +1896,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.24,
+   "score": 3.67,
    "sources": [
     {
      "id": "1fedd0395cdd",
@@ -2025,7 +2025,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.53,
+   "score": 3.06,
    "sources": [
     {
      "id": "0d71b5cac397",
@@ -2147,7 +2147,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.83,
+   "score": 2.45,
    "sources": [
     {
      "id": "4943e3e6cc0c",
@@ -2260,7 +2260,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.12,
+   "score": 1.83,
    "sources": [
     {
      "id": "0003186580f9",
