@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:21:58+00:00",
+ "generated_at": "2026-10-27T14:22:16+00:00",
  "posts": [
   {
    "headline": "José Beaurain (RN) : une enquête préliminaire pour détournement de fonds publics, le député conteste",
@@ -114,6 +114,135 @@
    ]
   },
   {
+   "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
+   "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
+   "points": [
+    {
+     "text": "Interrogé sur TF1 sur son absence des rassemblements, Glucksmann dit être « en soutien à ces jeunes » mais « pas dans les rues ». Il affirme : « il y a une campagne de harcèlement de La France Insoumise contre moi », rapporte BFMTV.",
+     "sources": [
+      "3e3fe6123046"
+     ]
+    },
+    {
+     "text": "Il décrit : « Tous les événements qu'on organise sont troublés par des militants de La France insoumise […] c'est organisé ». Il demande : « Pourquoi ils ne ciblent pas Gabriel Attal ou Édouard Philippe ? », et répond que c'est parce que son camp veut « refonder la gauche démocratique » et « vaincre Mme Le Pen », selon LCP.",
+     "sources": [
+      "f09884e1d252"
+     ]
+    },
+    {
+     "text": "Vendredi, à Amiens, il avait dit : « Il faut que ça s'arrête, on ne va pas faire campagne pendant six mois comme ça », rappelle LCP. Le soir de sa qualification, il avait été enfariné à Paris, puis invectivé lors d'un rassemblement féministe et chahuté devant l'Hôtel de ville de Paris.",
+     "sources": [
+      "f09884e1d252"
+     ]
+    },
+    {
+     "text": "LFI répond. Manuel Bompard, sur LCI : « Il ne devrait pas dire ça, parce que ce n'est pas vrai tout simplement ». Selon BFMTV, il reproche à Glucksmann de chercher « en permanence » une « confrontation avec La France insoumise à laquelle je n'ai pas du tout envie de participer ».",
+     "sources": [
+      "3e3fe6123046"
+     ]
+    },
+    {
+     "text": "Bompard assure que Glucksmann n'est pas son « adversaire » : ses adversaires sont « à l'extrême droite et dans le bloc central ». « Quand on lance des accusations aussi graves, il faut pouvoir les démontrer », dit-il, rapporte Le HuffPost.",
+     "sources": [
+      "50b7b21d1983"
+     ]
+    },
+    {
+     "text": "Le HuffPost rappelle que cette défiance vient de loin : Glucksmann avait déjà été bousculé lors d'une manifestation du 1er mai à Saint-Étienne en 2024, par des jeunes communistes. Libération titre que LFI l'accuse de forcer « une confrontation ».",
+     "sources": [
+      "50b7b21d1983",
+      "44b858be2142"
+     ]
+    },
+    {
+     "text": "Les tensions ne datent pas d'aujourd'hui, selon Europe 1 : début octobre, Le Média a diffusé des propos privés de Glucksmann, avant le dernier débat de la primaire, critiquant durement Mélenchon et Le Pen sur le débat du Medef. Sa réaction n'a pas été commentée par son équipe.",
+     "sources": [
+      "bccd9be2eade"
+     ]
+    },
+    {
+     "text": "L'enjeu est électoral, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon est à 17 %. Chez Glucksmann : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ». L'équipe espère lui disputer le vote utile face au RN.",
+     "sources": [
+      "047bda588bce"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/biKXjhILDh5NJAPBsFPLNj9ZT7w=/7x111:2039x1254/800x0/images/Raphael-Glucksmann-2329041.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
+    "article_id": "3e3fe6123046"
+   },
+   "id": 187,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-27T14:22:16+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "047bda588bce",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
+     "published_at": "2026-10-25T11:04:54+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "3e3fe6123046",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Raphaël Glucksmann affirme être victime d'une \"campagne de harcèlement\" de La France insoumise",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
+     "published_at": "2026-10-26T09:08:19+00:00",
+     "snippet": "Le candidat PS-Place Publique à l'élection présidentielle accuse La France insoumise de mener une \"campagne de harcèlement\" contre lui, l'empêchant notamment de se rendre en manifestation."
+    },
+    {
+     "id": "44b858be2142",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Glucksmann dit être victime d’une «campagne de harcèlement» de LFI, qui l’accuse de forcer «une confrontation»",
+     "url": "https://www.liberation.fr/politique/glucksmann-dit-etre-victime-dune-campagne-de-harcelement-de-lfi-bompard-repond-quil-construit-une-confrontation-20261026_3ZY7CE5APNEIBINYIKWTN2VLXQ/",
+     "published_at": "2026-10-26T09:57:35+00:00",
+     "snippet": "Le candidat social-démocrate estime qu’il ne peut pas participer à des rassemblements «dans les rues» à cause de «l’hostilité» des militants insoumis. Manuel Bompard rétorque qu’il n’est pas son «adversaire»."
+    },
+    {
+     "id": "50b7b21d1983",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Absent aux côtés des lycéens, Raphaël Glucksmann jette la pierre à La France insoumise",
+     "url": "https://www.huffingtonpost.fr/politique/article/absent-aux-cotes-des-lyceens-raphael-glucksmann-jette-la-pierre-a-la-france-insoumise_345347.html",
+     "published_at": "2026-10-26T09:24:52+00:00",
+     "snippet": "Le candidat social-démocrate accuse les insoumis de mener « une campagne de harcèlement » à son encontre."
+    },
+    {
+     "id": "bccd9be2eade",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "« On leur pisse dessus » : les propos privés de Raphaël Glucksmann qui font polémique",
+     "url": "https://www.europe1.fr/politique/on-leur-pisse-dessus-les-propos-prives-de-raphael-glucksmann-qui-font-polemique-1120982",
+     "published_at": "2026-10-03T20:46:00+00:00",
+     "snippet": "Des propos privés de Raphaël Glucksmann, tenus derrière des caméras et diffusés par Le Media, ont provoqué de vives réactions de Jean-Luc Mélenchon et Ségolène Royal. L'eurodéputé y dit \"pisser\" sur l"
+    },
+    {
+     "id": "f09884e1d252",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Absence dans les manifestations: Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
+     "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
+     "published_at": "2026-10-26T14:00:32+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
+    }
+   ]
+  },
+  {
    "headline": "Retailleau « persuadé » de battre Philippe en primaire, Aliot tend la main à Lisnard : la droite 2027 cherche son unité",
    "chapo": "Le 27 octobre, trois prises de parole à droite sur la même question : qui portera les couleurs de la droite en 2027, et avec qui s'allier. Bruno Retailleau veut une primaire avec Édouard Philippe et une coalition avec David Lisnard. Louis Aliot (RN) se dit prêt à « ouvrir les bras ».",
    "points": [
@@ -187,7 +316,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 8.99,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -749,7 +878,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.81,
+   "score": 4.8,
    "sources": [
     {
      "id": "12deaabb6ff0",
