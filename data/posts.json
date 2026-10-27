@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:22:34+00:00",
+ "generated_at": "2026-10-27T18:22:43+00:00",
  "posts": [
   {
    "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
@@ -237,7 +237,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.43,
+   "score": 15.42,
    "sources": [
     {
      "id": "047bda588bce",
@@ -748,6 +748,97 @@
      "url": "https://www.ici.fr/hauts-de-france/aisne-02/le-depute-rn-de-l-aisne-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics-8685879?at_medium=lien_RSS&at_locale=56",
      "published_at": "2026-10-27T07:48:43+00:00",
      "snippet": "INFO RADIO FRANCE - Le député RN de l’Aisne José Beaurain est visé par une enquête pour détournement de fonds publics, a appris mardi la cellule investigation de Radio France. Elle a été ouverte par le parquet de Laon et confiée à la gendarmerie de l'Aisne."
+    }
+   ]
+  },
+  {
+   "headline": "Présidentielle 2027 : peut-on encore changer les dates, comme le demande Retailleau ?",
+   "chapo": "Le premier tour est prévu le 18 avril et le second le 2 mai 2027, lendemain du 1er-Mai. Bruno Retailleau demande de modifier ce calendrier. Ce que dit la Constitution, et ce qui reste possible.",
+   "points": [
+    {
+     "text": "Retailleau juge le 2 mai « une mauvaise date pour l'expression de la démocratie », selon LCP. Il craint des « troubles à l'ordre public » après les défilés du 1er-Mai : « On ne va pas prendre le risque qu'il y ait des manifestations et des troubles à l'ordre public et le lendemain aller aux urnes », selon Le Parisien.",
+     "sources": [
+      "a31b96b627bf",
+      "829a27aba163"
+     ]
+    },
+    {
+     "text": "Il ajoute : « la gauche pense qu'un second tour après le 1er Mai, ça l'avantagera », selon La Dépêche du Midi. Aucune réaction de la gauche à cet argument ne figure dans les articles que nous avons lus.",
+     "sources": [
+      "4c096eb1c11c"
+     ]
+    },
+    {
+     "text": "La Constitution encadre les dates : le second tour a lieu « le quatorzième jour suivant » le premier. Décaler le seul second tour est donc « a priori impossible » sans réviser la Constitution. L'exécutif aurait pu choisir les 11 et 25 avril, mais le 25 avril tombe pendant les vacances scolaires, selon LCP.",
+     "sources": [
+      "a31b96b627bf"
+     ]
+    },
+    {
+     "text": "La juriste Anne-Charlène Bezzina prévient qu'un changement « bousculerait beaucoup de choses, notamment en termes de règles de financement de la campagne ou de décompte de temps de parole », selon LCP.",
+     "sources": [
+      "a31b96b627bf"
+     ]
+    },
+    {
+     "text": "La date limite : l'exécutif peut modifier le calendrier par décret jusqu'au 7 février 2027, selon La Dépêche du Midi. Le Parisien rapporte que l'idée d'avancer le scrutin d'une semaine est revenue après les violences du 17 octobre.",
+     "sources": [
+      "4c096eb1c11c",
+      "829a27aba163"
+     ]
+    },
+    {
+     "text": "Pour Le Parisien, le sujet « électrise la classe politique », mais il n'est pas à l'ordre du jour des priorités de l'exécutif.",
+     "sources": [
+      "829a27aba163"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-03/Urne%20vote%202.png?h=d1cb525d&itok=4e_g6ycH",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-les-dates-de-l-election-peuvent-elles-encore-etre-modifiees-444349",
+    "article_id": "a31b96b627bf"
+   },
+   "id": 196,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-27T18:22:43+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "4c096eb1c11c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
+     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
+     "published_at": "2026-10-27T11:39:29+00:00",
+     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+    },
+    {
+     "id": "829a27aba163",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« C’est un bâton merdeux » : le second tour de la présidentielle avancé ?",
+     "url": "https://www.leparisien.fr/elections/presidentielle/cest-un-baton-merdeux-le-second-tour-de-la-presidentielle-avance-27-10-2026-E4U7LM5UNJH77NTU6PQ5WV6U6I.php",
+     "published_at": "2026-10-27T14:05:01+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "a31b96b627bf",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: les dates de l'élection peuvent-elles encore être modifiées?",
+     "url": "https://lcp.fr/actualites/presidentielle-les-dates-de-l-election-peuvent-elles-encore-etre-modifiees-444349",
+     "published_at": "2026-10-27T18:12:45+00:00",
+     "snippet": "Par Soizic BONVARLET , le Mardi 27 octobre 2026 à 17:41 Alors que des voix se sont élevées pour critiquer la date de scrutin du deuxième tour de l'élection présidentielle au lendemain du 1er mai, Bruno Retailleau va jusqu'à demander le report de ce calendrier. Mais cette hypothèse est-elle juridiquement tenable ? \"Une mauvaise date pour l’expression de la démocratie\". C'est ainsi que Bruno Retailleau qualifie le choix de l'exécutif de fixer le second tour de l'élection présidentielle au 2 mai 2027, soit au lendemain du 1er-Mai, Fête du Travail, à haute valeur symbolique pour la gauche. \"Qu'on "
     }
    ]
   },
