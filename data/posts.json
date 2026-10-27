@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:22:24+00:00",
+ "generated_at": "2026-10-27T14:22:36+00:00",
  "posts": [
   {
    "headline": "Corse : le Sénat rejette la réforme de l'autonomie, les autonomistes se retirent du processus de Beauvau",
@@ -243,6 +243,133 @@
    ]
   },
   {
+   "headline": "Présidentielle : Le Pen à 33 %, Mélenchon passe devant Philippe, Lisnard devant Retailleau : ce que disent les nouveaux sondages",
+   "chapo": "Deux sondages publiés par la presse placent Marine Le Pen largement en tête au premier tour. Jean-Luc Mélenchon dépasse Édouard Philippe, qui recule. À droite, David Lisnard devancerait Bruno Retailleau s'il se présentait. Ce sont des photographies de l'opinion à six mois du scrutin, avec des écarts selon les scénarios testés.",
+   "points": [
+    {
+     "text": "Selon le sondage Cluster 17 pour Politico, Marine Le Pen est à 33 % des intentions de vote au premier tour, soit 2 points de plus qu'en septembre. Jean-Luc Mélenchon est à 18,5 %, Édouard Philippe à 16 % (contre 19 %), Raphaël Glucksmann à 13 %, rapporte Le JDD.",
+     "sources": [
+      "58ecf2108238"
+     ]
+    },
+    {
+     "text": "Le Parisien précise que Philippe recule de 3 points et se fait dépasser par Mélenchon. Le sondage a été mené entre le 19 et le 20 octobre, selon La Dépêche du Midi. La Dépêche note aussi que Le Pen ne subit pas d'impact après les révélations de Mediapart sur Bardella.",
+     "sources": [
+      "c6b77efd28a4",
+      "37f994d642f7"
+     ]
+    },
+    {
+     "text": "Si Gabriel Attal remplace Édouard Philippe pour le bloc central, il recueillerait 12 % des intentions de vote (contre 13,5 % en septembre). Dans ce cas, Mélenchon monterait à 19,5 % et Glucksmann à 14 %, selon Le JDD.",
+     "sources": [
+      "58ecf2108238"
+     ]
+    },
+    {
+     "text": "À droite, Bruno Retailleau plafonne entre 7,5 % et 8 %. Avec David Lisnard (Nouvelle Énergie) dans le scénario, celui-ci atteint 8 % et Retailleau 7 %, d'après Le Parisien. Dans ce cas, Le Pen est à 30,5 %, selon Le JDD.",
+     "sources": [
+      "c6b77efd28a4",
+      "58ecf2108238"
+     ]
+    },
+    {
+     "text": "Le Parisien rappelle que Lisnard est poussé par une communauté active sur les réseaux sociaux, autour du slogan « Il se passe quelque chose ». Les deux candidats de droite ont déjeuné ensemble, et le porte-parole de LR affirme qu'« ils trouveraient une solution pour avoir une candidature unique ».",
+     "sources": [
+      "c6b77efd28a4"
+     ]
+    },
+    {
+     "text": "Glucksmann progresse de 12 à 13 % après sa victoire à la primaire. Il capte 29 % des anciens électeurs de Macron, d'après La Dépêche du Midi. Le président de Cluster 17, Jean-Yves Dormagen : « Glucksmann progresse parce que Philippe ne s'adresse pas assez à l'aile sociale-démocrate de l'espace modéré ».",
+     "sources": [
+      "37f994d642f7"
+     ]
+    },
+    {
+     "text": "Un autre sondage, Ipsos-BVA-Cési pour Le Parisien, relayé par CNews : seuls 55 % des électeurs de Macron en 2022 voteraient pour Philippe (42 %) ou Attal (13 %) si les deux sont candidats. Si Philippe est seul, il n'a que 49 %, contre 21 % pour Glucksmann.",
+     "sources": [
+      "827001de1be8"
+     ]
+    },
+    {
+     "text": "Selon CNews, 92 à 94 % des électeurs de Le Pen en 2022 reproduiraient leur vote en 2027 dans toutes les configurations. Ce serait la base la plus ancrée de tous les candidats.",
+     "sources": [
+      "827001de1be8"
+     ]
+    },
+    {
+     "text": "Un duel entre le RN et LFI inquiète le camp présidentiel. La députée Renaissance Prisca Thevenot dénonce : « On le voit sondage après sondage que le RN et LFI s'installent dans un duel de second tour », selon BFMTV.",
+     "sources": [
+      "f57d0ee91abb"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/26/13/sipa_01310191_000004.jpg?VersionId=neFp66epXDEErYTGWc1AFbp79.BdPU6G",
+    "source": "Le JDD",
+    "article_url": "https://www.lejdd.fr/politique/presidentielle-le-pen-creuse-lecart-avec-melenchon-lisnard-depasse-retailleau-les-enseignements-dun-nouveau-sondage-187047",
+    "article_id": "58ecf2108238"
+   },
+   "id": 186,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-27T14:22:36+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "37f994d642f7",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 - sondage : Edouard Philippe en chute libre, Jean-Luc Mélenchon en embuscade, Marine Le Pen consolide son avance",
+     "url": "https://www.ladepeche.fr/2026/10/26/presidentielle-2027-sondage-edouard-philippe-en-chute-libre-jean-luc-melenchon-en-embuscade-marine-le-pen-consolide-son-avance-13620689.php",
+     "published_at": "2026-10-26T08:25:36+00:00",
+     "snippet": "À l’approche de la présidentielle, Édouard Philippe perd du terrain dans les intentions de vote, tandis que Jean-Luc Mélenchon se hisse à la deuxième place et que Marine Le Pen renforce son statut de favorite, selon..."
+    },
+    {
+     "id": "58ecf2108238",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Présidentielle : Le Pen creuse l’écart avec Mélenchon, Lisnard dépasse Retailleau… Les enseignements d'un nouveau sondage",
+     "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-creuse-lecart-avec-melenchon-lisnard-depasse-retailleau-les-enseignements-dun-nouveau-sondage-187047",
+     "published_at": "2026-10-26T15:17:39+00:00",
+     "snippet": "Le dernier sondage Cluster 17 pour Politico confirme l’avance de Marine Le Pen, créditée de 33 % des intentions de vote. Derrière elle, Jean-Luc Mélenchon profite de la chute d’Édouard Philippe, tandis que David Lisnard vient concurrencer Bruno Retailleau."
+    },
+    {
+     "id": "827001de1be8",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : près de la moitié des électeurs d’Emmanuel Macron en 2022 ne voteront pas pour le bloc central, selon un sondage",
+     "url": "https://www.cnews.fr/france/2026-10-26/presidentielle-2027-pres-de-la-moitie-des-electeurs-demmanuel-macron-en-2022-ne",
+     "published_at": "2026-10-26T15:15:31+00:00",
+     "snippet": "A moins de six mois de la présidentielle de 2027, un sondage révèle que près de la moitié des électeurs d’Emmanuel Macron au premier tour en 2022 ne voteront pas pour un candidat du bloc central. La fin du macronisme ? Alors que la campagne pour 2027 bat son plein, près d’un électeur sur deux d’Emmanuel Macron, au premier tour de la présidentielle de 2022, ne votera pas pour un candidat du bloc central, dont les deux déclarés à ce stade sont Edouard Philippe (Horizons) et Gabriel Attal (Renaissance), selon un sondage Ipsos-BVA-Cési École d’ingénieurs pour le Parisien. Selon cette enquête, les "
+    },
+    {
+     "id": "c6b77efd28a4",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Édouard Philippe doublé par Jean-Luc Mélenchon, qualifié pour un second tour avec Marine Le Pen, selon un nouveau sondage",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-edouard-philippe-double-par-jean-luc-melenchon-qualifie-pour-un-second-tour-avec-marine-le-pen-selon-un-nouveau-sondage-26-10-2026-H3MMNQ4PABEDVO4TC4OYKNTQIQ.php",
+     "published_at": "2026-10-26T14:00:25+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "f57d0ee91abb",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Présidentielle 2027: \"On le voit sondage après sondage que le RN et LFI s'installent dans un duel de second tour\", dénonce Prisca Thévenot, députée Renaissance",
+     "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-on-le-voit-sondage-apres-sondage-que-le-rn-et-lfi-s-installent-dans-un-duel-de-second-tour-denonce-prisca-thevenot-deputee-renaissance_VN-202610250419.html",
+     "published_at": "2026-10-25T22:38:45+00:00",
+     "snippet": "Après la \"grande réussite\" des manifestations du samedi 24 octobre, les syndicats et figures du mouvement social qui secoue actuellement le pays ont d'ores et déjà annoncé plusieurs nouvelles dates de mobilisation. Le mouvement pourrait s'installer dans la durée."
+    }
+   ]
+  },
+  {
    "headline": "José Beaurain (RN) : une enquête préliminaire pour détournement de fonds publics, le député conteste",
    "chapo": "Le parquet de Laon a ouvert une enquête préliminaire visant le député RN de l'Aisne, après des révélations du Canard enchaîné fin août. Le parquet rappelle qu'il est « présumé innocent ». Le député dément et a porté plainte pour diffamation.",
    "points": [
@@ -314,7 +441,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 11.99,
    "sources": [
     {
      "id": "12c7299de9c6",
