@@ -1,6 +1,118 @@
 {
- "generated_at": "2026-10-27T14:21:24+00:00",
+ "generated_at": "2026-10-27T14:21:58+00:00",
  "posts": [
+  {
+   "headline": "José Beaurain (RN) : une enquête préliminaire pour détournement de fonds publics, le député conteste",
+   "chapo": "Le parquet de Laon a ouvert une enquête préliminaire visant le député RN de l'Aisne, après des révélations du Canard enchaîné fin août. Le parquet rappelle qu'il est « présumé innocent ». Le député dément et a porté plainte pour diffamation.",
+   "points": [
+    {
+     "text": "L'enquête a été ouverte par le procureur de Laon et confiée au groupement de gendarmerie de l'Aisne. « Les investigations sont en cours », indique le parquet, qui rappelle que « à ce stade, l'intéressé est présumé innocent », selon Midi Libre.",
+     "sources": [
+      "516deba9b3cf"
+     ]
+    },
+    {
+     "text": "L'origine est un signalement reçu en août. José Beaurain est soupçonné de l'avoir demandé à ses assistants de lui reverser en espèces la moitié de leurs primes, d'avoir fait des achats personnels avec son enveloppe de député, et d'avoir rémunéré son frère via un prête-nom, selon ici (Radio France).",
+     "sources": [
+      "c3177562b137"
+     ]
+    },
+    {
+     "text": "Élu en 2022 puis réélu en 2024, il dispose d'une enveloppe de 15 000 euros en tant que député non-voyant, contre 10 000 pour les autres députés, selon Midi Libre.",
+     "sources": [
+      "516deba9b3cf"
+     ]
+    },
+    {
+     "text": "Sa défense : « Je réfute l'intégralité des propos tenus à mon encontre dans la presse par trois anciens collaborateurs avec lesquels j'étais en conflit, et qui souhaitent me nuire de toutes les manières possibles depuis maintenant deux ans ». Il a porté plainte pour « diffamation, abus de confiance et abus de faiblesse sur personne vulnérable ainsi que pour vol de documents », selon Midi Libre.",
+     "sources": [
+      "516deba9b3cf"
+     ]
+    },
+    {
+     "text": "Selon L'Indépendant, il avait aussi déclaré : « Je réfute toutes ces sottises. Elles ont été diffusées par volonté de me nuire et de me salir. Il sera démontré que je n'ai rien fait ».",
+     "sources": [
+      "12c7299de9c6"
+     ]
+    },
+    {
+     "text": "Deux anciens assistants disent à Radio France avoir prévenu dès janvier 2024 le secrétaire général du groupe RN à l'Assemblée : « Nous lui avons tout raconté, en particulier le détournement de nos primes et l'usage personnel qu'il faisait de son avance de frais de mandat », selon Le Parisien. Il aurait été convoqué à deux reprises par Marine Le Pen pour un recadrage.",
+     "sources": [
+      "38b8fda47f55"
+     ]
+    },
+    {
+     "text": "Selon la cellule investigation de Radio France, le RN l'a investi aux législatives de 2024 et aux municipales de 2026 malgré plusieurs alertes internes, dont certaines remontées jusqu'à Marine Le Pen, d'après ici. Le parti n'avait pas encore réagi dans les articles que nous avons lus.",
+     "sources": [
+      "c3177562b137"
+     ]
+    },
+    {
+     "text": "La présidente de l'Assemblée, Yaël Braun-Pivet, avait demandé au déontologue de l'institution des vérifications complémentaires, dont les conclusions sont attendues prochainement, selon L'Indépendant.",
+     "sources": [
+      "12c7299de9c6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://images.lindependant.fr/api/v1/images/view/6ae07182f105f812e60040f4/standard/image.jpg?v=1",
+    "source": "L'Indépendant",
+    "article_url": "https://www.lindependant.fr/2026/10/27/achats-personnels-avec-son-enveloppe-de-depute-remuneration-a-son-frere-un-depute-rn-vise-par-une-enquete-pour-detournement-de-fonds-publics-13622232.php",
+    "article_id": "12c7299de9c6",
+    "focus_x": 0.4766666666666667,
+    "focus_y": 0.014583333333333334
+   },
+   "id": 192,
+   "section": "institutions",
+   "reviewed_at": "2026-10-27T14:21:58+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "12c7299de9c6",
+     "name": "L'Indépendant",
+     "kind": "media",
+     "title": "Achats personnels avec son enveloppe de député, rémunération à son frère… un député RN visé par une enquête pour détournement de fonds publics",
+     "url": "https://www.lindependant.fr/2026/10/27/achats-personnels-avec-son-enveloppe-de-depute-remuneration-a-son-frere-un-depute-rn-vise-par-une-enquete-pour-detournement-de-fonds-publics-13622232.php",
+     "published_at": "2026-10-27T09:51:26+00:00",
+     "snippet": "Le député RN José Beaurain est visé par une enquête pour détournement de fonds publics, ouverte par le procureur de Laon et confiée à la gendarmerie de l’Aisne. Alors que le Rassemblement national, soi-disant informé,..."
+    },
+    {
+     "id": "38b8fda47f55",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Aisne : une enquête ouverte pour détournement de fonds publics contre le député RN José Beaurain",
+     "url": "https://www.leparisien.fr/politique/aisne-une-enquete-ouverte-pour-detournement-de-fonds-publics-contre-le-depute-rn-jose-beaurain-27-10-2026-L7NTGSWKSZE5PIDFGOBN7EHYA4.php",
+     "published_at": "2026-10-27T14:05:01+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "516deba9b3cf",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Le député RN est accusé d’avoir détourné les primes de ses assistants parlementaires : José Beaurain visé par une enquête préliminaire",
+     "url": "https://www.midilibre.fr/2026/10/27/le-depute-rn-est-accuse-davoir-detourne-les-primes-de-ses-assistants-parlementaires-jose-beaurain-vise-par-une-enquete-preliminaire-13622344.php",
+     "published_at": "2026-10-27T12:29:39+00:00",
+     "snippet": "Le député RN de l’Aisne, José Beaurain, fait l’objet d’une enquête préliminaire pour détournements de fonds publics, a annoncé mardi 27 octobre le procureur de Laon. Accusé par le Canard enchaîné d’avoir détourné une..."
+    },
+    {
+     "id": "c3177562b137",
+     "name": "ici (France Bleu)",
+     "kind": "media",
+     "title": "Le député RN de l’Aisne José Beaurain visé par une enquête pour détournement de fonds publics",
+     "url": "https://www.ici.fr/hauts-de-france/aisne-02/le-depute-rn-de-l-aisne-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics-8685879?at_medium=lien_RSS&at_locale=56",
+     "published_at": "2026-10-27T07:48:43+00:00",
+     "snippet": "INFO RADIO FRANCE - Le député RN de l’Aisne José Beaurain est visé par une enquête pour détournement de fonds publics, a appris mardi la cellule investigation de Radio France. Elle a été ouverte par le parquet de Laon et confiée à la gendarmerie de l'Aisne."
+    }
+   ]
+  },
   {
    "headline": "Retailleau « persuadé » de battre Philippe en primaire, Aliot tend la main à Lisnard : la droite 2027 cherche son unité",
    "chapo": "Le 27 octobre, trois prises de parole à droite sur la même question : qui portera les couleurs de la droite en 2027, et avec qui s'allier. Bruno Retailleau veut une primaire avec Édouard Philippe et une coalition avec David Lisnard. Louis Aliot (RN) se dit prêt à « ouvrir les bras ».",
@@ -71,7 +183,7 @@
    },
    "id": 194,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-27T14:21:24+00:00",
+   "reviewed_at": "2026-10-27T14:21:15+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
@@ -103,6 +215,134 @@
      "url": "https://www.europe1.fr/politique/alliance-des-droites-louis-aliot-interroge-david-lisnard-sur-un-potentiel-soutien-a-marine-le-pen-au-second-tour-de-la-presidentielle-1185963?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-27T10:32:00+00:00",
      "snippet": "Pour Louis Aliot, les clivages entre le RN et la droite se limitent à l'économie, mais une union est possible. Le maire de Perpignan déplore pourtant que les mains tendues restent sans réponse. Louis Aliot, maire Rassemblement national de Perpignan, s'est dit prêt à travailler avec David Lisnard. Selon lui, les différences entre le RN et la droite se limitent à \"des différences sur l'économie\". \"Le reste, c'est la préservation de la France, la préservation des valeurs de notre pays, de son histoire. Sur tout cela, on pense la même chose\", affirme-t-il, en jugeant que \"ne pas s'attaquer\" est \"u"
+    }
+   ]
+  },
+  {
+   "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
+   "chapo": "Le RN et l'UDR réclamaient la démission d'office du président du Conseil constitutionnel, après ses propos sur une révision de la Constitution par référendum. Alain Juppé a répondu que la procédure ne repose « sur aucune base constitutionnelle ». Derrière l'affaire : par quelle voie Marine Le Pen pourrait-elle changer la Constitution ?",
+   "points": [
+    {
+     "text": "Selon Le Monde, Richard Ferrand, en fonction depuis mars 2025 pour neuf ans, était accusé par le RN et l'UDR d'avoir outrepassé sa fonction. Il a pris position contre une révision de la Constitution par référendum sans passer par le Parlement, ce que Marine Le Pen veut entreprendre pour mettre en place une préférence nationale ou appliquer son projet de politique migratoire.",
+     "sources": [
+      "fbd81b35afdc"
+     ]
+    },
+    {
+     "text": "Dans un podcast mis en ligne le 9 octobre, Ferrand a dit : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat ». Marine Le Pen a répondu : « Il a rompu avec l'obligation qui est la sienne de neutralité », rapporte LCP.",
+     "sources": [
+      "c0a6fdbee400"
+     ]
+    },
+    {
+     "text": "Selon Boursorama, le RN et l'UDR ont saisi vendredi le doyen d'âge du Conseil, Alain Juppé. Ils estiment que Ferrand a « préjugé publiquement d'une question de droit non encore tranchée par le Conseil constitutionnel », en s'appuyant sur l'article 7 de l'ordonnance de 1958.",
+     "sources": [
+      "4e1fb8f6f47b"
+     ]
+    },
+    {
+     "text": "La réponse est tombée lundi. Selon Le JDD et Europe 1, le Conseil a rejeté la demande. Alain Juppé écrit que la procédure ne repose « sur aucune base constitutionnelle » : seul le Conseil peut « constater la démission d'office d'un de ses membres », au nom de la séparation des pouvoirs.",
+     "sources": [
+      "2c46711d946a",
+      "3e982d31d74e"
+     ]
+    },
+    {
+     "text": "Sur le fond, Juppé écrit que Ferrand « s'est contenté de décrire exactement l'état de notre droit » : seule la procédure de l'article 89 permet de réviser la Constitution. Elle exige un vote en termes identiques de l'Assemblée et du Sénat, puis un référendum ou un Congrès, explique LCP.",
+     "sources": [
+      "c0a6fdbee400"
+     ]
+    },
+    {
+     "text": "Le RN invoque de Gaulle, qui a utilisé l'article 11 en 1962 pour l'élection du président au suffrage universel. Ferrand répond : « n'est pas De Gaulle qui veut » et « la vie a changé », selon LCP.",
+     "sources": [
+      "c0a6fdbee400"
+     ]
+    },
+    {
+     "text": "Jordan Bardella a répliqué vendredi : Juppé est « extrêmement mal placé » car sa famille politique a utilisé l'article 11. Il accuse le Conseil d'utiliser les institutions « à des fins politiciennes ». Juppé juge, lui, que de Gaulle a commis « une mauvaise interprétation » de l'article 11 en 1962, selon Boursorama.",
+     "sources": [
+      "4e1fb8f6f47b"
+     ]
+    },
+    {
+     "text": "Le juriste Jean-Philippe Derosier (université de Lille) estime que « ce type de recours n'existe pas davantage que les licornes et les éléphants volants », et que la meilleure réponse pourrait être de l'ignorer, selon Boursorama.",
+     "sources": [
+      "4e1fb8f6f47b"
+     ]
+    },
+    {
+     "text": "Dans sa lettre, Juppé rappelle que le Conseil est chargé, en vertu de l'article 60, de veiller à la régularité des référendums. LCP y voit une manière de souligner qu'un tel scrutin sur la base de l'article 11 « s'exposerait à une censure » du Conseil.",
+     "sources": [
+      "c0a6fdbee400"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/09/02/0/0/7488/3744/644/322/60/0/1b8ac61_upload-1-gyfd0yfeirn0-000-93dq4gr.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
+    "article_id": "fbd81b35afdc",
+    "focus_x": 0.4766666666666667,
+    "focus_y": 0.12322916666666667
+   },
+   "id": 180,
+   "section": "institutions",
+   "reviewed_at": "2026-10-26T14:19:38+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.49,
+   "sources": [
+    {
+     "id": "2c46711d946a",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "Démission de Richard Ferrand : le Conseil constitutionnel rejette la demande du RN et de l'UDR",
+     "url": "https://www.lejdd.fr/politique/demission-de-richard-ferrand-le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-187053",
+     "published_at": "2026-10-26T13:23:17+00:00",
+     "snippet": "Richard Ferrand restera au Conseil constitutionnel. L'institution a rejeté ce lundi la demande formulée par le Rassemblement national et l'UDR, qui exigeaient la démission de Richard Ferrand après sa prise de position sur le projet de référendum constitutionnel de Marine Le Pen."
+    },
+    {
+     "id": "3e982d31d74e",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Le Conseil constitutionnel rejette la demande du RN et de l'UDR visant à obtenir la démission de Richard Ferrand",
+     "url": "https://www.europe1.fr/politique/le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-visant-a-obtenir-la-demission-de-richard-ferrand-1183167?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-26T10:09:53+00:00",
+     "snippet": "Le Conseil constitutionnel a rejeté la demande du RN et de l'UDR visant à obtenir la \"démission d'office\" de son président, Richard Ferrand. Les parlementaires de ces partis lui reprochaient d'avoir pris position contre une révision de la Constitution par référendum. Le Conseil constitutionnel a opposé lundi une fin de non-recevoir aux parlementaires du Rassemblement national (RN) et de l'Union des droites (UDR) qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Richard Ferrand, en fonction depuis mars 2025 pour un mandat de 9 ans, é"
+    },
+    {
+     "id": "4e1fb8f6f47b",
+     "name": "Boursorama",
+     "kind": "media",
+     "title": "Le RN et l'UDR saisissent le Conseil constitutionnel, réclamant la démission de Ferrand",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-et-l-udr-saisissent-le-conseil-constitutionnel-reclamant-la-demission-de-ferrand-5a430a5ceabc434ccc4da88b2d393736",
+     "published_at": "2026-10-16T18:42:00+00:00",
+     "snippet": "Les parlementaires du Rassemblement national (RN) et de l'Union des droites pour la République (UDR) ont saisi vendredi le Conseil constitutionnel pour demander la \"démission d'office\" de son présiden"
+    },
+    {
+     "id": "c0a6fdbee400",
+     "name": "LCP",
+     "kind": "media",
+     "title": "\"Démission d'office\" de Richard Ferrand: le Conseil constitutionnel écarte la demande du RN et de l'UDR",
+     "url": "https://lcp.fr/actualites/demission-d-office-de-richard-ferrand-le-conseil-constitutionnel-ecarte-la-demande-du-rn",
+     "published_at": "2026-10-26T14:00:32+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 12:25 Le Conseil constitutionnel a opposé, ce lundi 26 octobre, une fin de non-recevoir aux parlementaires du Rassemblement national et de l'Union des droites pour la République qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Il y a dix jours, les députés du Rassemblement national et leurs alliés de l'Union des droites pour la République avaient saisi le Conseil constitutionnel pour demander la \"démission d'office\" du président de l'institution, Richard Ferrand. La raison ?"
+    },
+    {
+     "id": "fbd81b35afdc",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Le Conseil constitutionnel rejette la demande, portée par le RN et l’UDR, de démission de Richard Ferrand",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
+     "published_at": "2026-10-26T10:50:43+00:00",
+     "snippet": "L’institution affirme que la procédure lancée par les parlementaires d’extrême droite ne repose « sur aucune base constitutionnelle ». Ces derniers estiment que le président du Conseil constitutionnel a outrepassé sa fonction en prenant position contre la révision de la Constitution par référendum, une mesure figurant au programme de Marine Le Pen."
     }
    ]
   },
@@ -219,134 +459,6 @@
      "url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-reconnait-que-les-violences-du-17-octobre-n-avaient-pas-du-tout-ete-anticipees_AD-202610260458.html",
      "published_at": "2026-10-26T12:25:31+00:00",
      "snippet": "En visite à Marseille, Emmanuel Macron a admis lundi que \"les forces de police n'étaient pas dûment proportionnées\" pour la journée de mobilisation du 17 octobre, en marge de laquelle des dégradations et des pillages ont été commis."
-    }
-   ]
-  },
-  {
-   "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
-   "chapo": "Le RN et l'UDR réclamaient la démission d'office du président du Conseil constitutionnel, après ses propos sur une révision de la Constitution par référendum. Alain Juppé a répondu que la procédure ne repose « sur aucune base constitutionnelle ». Derrière l'affaire : par quelle voie Marine Le Pen pourrait-elle changer la Constitution ?",
-   "points": [
-    {
-     "text": "Selon Le Monde, Richard Ferrand, en fonction depuis mars 2025 pour neuf ans, était accusé par le RN et l'UDR d'avoir outrepassé sa fonction. Il a pris position contre une révision de la Constitution par référendum sans passer par le Parlement, ce que Marine Le Pen veut entreprendre pour mettre en place une préférence nationale ou appliquer son projet de politique migratoire.",
-     "sources": [
-      "fbd81b35afdc"
-     ]
-    },
-    {
-     "text": "Dans un podcast mis en ligne le 9 octobre, Ferrand a dit : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat ». Marine Le Pen a répondu : « Il a rompu avec l'obligation qui est la sienne de neutralité », rapporte LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Selon Boursorama, le RN et l'UDR ont saisi vendredi le doyen d'âge du Conseil, Alain Juppé. Ils estiment que Ferrand a « préjugé publiquement d'une question de droit non encore tranchée par le Conseil constitutionnel », en s'appuyant sur l'article 7 de l'ordonnance de 1958.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "La réponse est tombée lundi. Selon Le JDD et Europe 1, le Conseil a rejeté la demande. Alain Juppé écrit que la procédure ne repose « sur aucune base constitutionnelle » : seul le Conseil peut « constater la démission d'office d'un de ses membres », au nom de la séparation des pouvoirs.",
-     "sources": [
-      "2c46711d946a",
-      "3e982d31d74e"
-     ]
-    },
-    {
-     "text": "Sur le fond, Juppé écrit que Ferrand « s'est contenté de décrire exactement l'état de notre droit » : seule la procédure de l'article 89 permet de réviser la Constitution. Elle exige un vote en termes identiques de l'Assemblée et du Sénat, puis un référendum ou un Congrès, explique LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Le RN invoque de Gaulle, qui a utilisé l'article 11 en 1962 pour l'élection du président au suffrage universel. Ferrand répond : « n'est pas De Gaulle qui veut » et « la vie a changé », selon LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Jordan Bardella a répliqué vendredi : Juppé est « extrêmement mal placé » car sa famille politique a utilisé l'article 11. Il accuse le Conseil d'utiliser les institutions « à des fins politiciennes ». Juppé juge, lui, que de Gaulle a commis « une mauvaise interprétation » de l'article 11 en 1962, selon Boursorama.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "Le juriste Jean-Philippe Derosier (université de Lille) estime que « ce type de recours n'existe pas davantage que les licornes et les éléphants volants », et que la meilleure réponse pourrait être de l'ignorer, selon Boursorama.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "Dans sa lettre, Juppé rappelle que le Conseil est chargé, en vertu de l'article 60, de veiller à la régularité des référendums. LCP y voit une manière de souligner qu'un tel scrutin sur la base de l'article 11 « s'exposerait à une censure » du Conseil.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/09/02/0/0/7488/3744/644/322/60/0/1b8ac61_upload-1-gyfd0yfeirn0-000-93dq4gr.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
-    "article_id": "fbd81b35afdc",
-    "focus_x": 0.4766666666666667,
-    "focus_y": 0.12322916666666667
-   },
-   "id": 180,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T14:19:38+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 7.5,
-   "sources": [
-    {
-     "id": "2c46711d946a",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Démission de Richard Ferrand : le Conseil constitutionnel rejette la demande du RN et de l'UDR",
-     "url": "https://www.lejdd.fr/politique/demission-de-richard-ferrand-le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-187053",
-     "published_at": "2026-10-26T13:23:17+00:00",
-     "snippet": "Richard Ferrand restera au Conseil constitutionnel. L'institution a rejeté ce lundi la demande formulée par le Rassemblement national et l'UDR, qui exigeaient la démission de Richard Ferrand après sa prise de position sur le projet de référendum constitutionnel de Marine Le Pen."
-    },
-    {
-     "id": "3e982d31d74e",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Le Conseil constitutionnel rejette la demande du RN et de l'UDR visant à obtenir la démission de Richard Ferrand",
-     "url": "https://www.europe1.fr/politique/le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-visant-a-obtenir-la-demission-de-richard-ferrand-1183167?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-26T10:09:53+00:00",
-     "snippet": "Le Conseil constitutionnel a rejeté la demande du RN et de l'UDR visant à obtenir la \"démission d'office\" de son président, Richard Ferrand. Les parlementaires de ces partis lui reprochaient d'avoir pris position contre une révision de la Constitution par référendum. Le Conseil constitutionnel a opposé lundi une fin de non-recevoir aux parlementaires du Rassemblement national (RN) et de l'Union des droites (UDR) qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Richard Ferrand, en fonction depuis mars 2025 pour un mandat de 9 ans, é"
-    },
-    {
-     "id": "4e1fb8f6f47b",
-     "name": "Boursorama",
-     "kind": "media",
-     "title": "Le RN et l'UDR saisissent le Conseil constitutionnel, réclamant la démission de Ferrand",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-et-l-udr-saisissent-le-conseil-constitutionnel-reclamant-la-demission-de-ferrand-5a430a5ceabc434ccc4da88b2d393736",
-     "published_at": "2026-10-16T18:42:00+00:00",
-     "snippet": "Les parlementaires du Rassemblement national (RN) et de l'Union des droites pour la République (UDR) ont saisi vendredi le Conseil constitutionnel pour demander la \"démission d'office\" de son présiden"
-    },
-    {
-     "id": "c0a6fdbee400",
-     "name": "LCP",
-     "kind": "media",
-     "title": "\"Démission d'office\" de Richard Ferrand: le Conseil constitutionnel écarte la demande du RN et de l'UDR",
-     "url": "https://lcp.fr/actualites/demission-d-office-de-richard-ferrand-le-conseil-constitutionnel-ecarte-la-demande-du-rn",
-     "published_at": "2026-10-26T14:00:32+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 12:25 Le Conseil constitutionnel a opposé, ce lundi 26 octobre, une fin de non-recevoir aux parlementaires du Rassemblement national et de l'Union des droites pour la République qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Il y a dix jours, les députés du Rassemblement national et leurs alliés de l'Union des droites pour la République avaient saisi le Conseil constitutionnel pour demander la \"démission d'office\" du président de l'institution, Richard Ferrand. La raison ?"
-    },
-    {
-     "id": "fbd81b35afdc",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Le Conseil constitutionnel rejette la demande, portée par le RN et l’UDR, de démission de Richard Ferrand",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
-     "published_at": "2026-10-26T10:50:43+00:00",
-     "snippet": "L’institution affirme que la procédure lancée par les parlementaires d’extrême droite ne repose « sur aucune base constitutionnelle ». Ces derniers estiment que le président du Conseil constitutionnel a outrepassé sa fonction en prenant position contre la révision de la Constitution par référendum, une mesure figurant au programme de Marine Le Pen."
     }
    ]
   },
@@ -851,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.5,
+   "score": 4.49,
    "sources": [
     {
      "id": "1f94f02faa3c",
