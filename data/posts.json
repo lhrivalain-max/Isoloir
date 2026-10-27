@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:00:04+00:00",
+ "generated_at": "2026-10-27T18:22:34+00:00",
  "posts": [
   {
    "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
@@ -81,7 +81,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 22.54,
+   "score": 21.43,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -237,7 +237,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.22,
+   "score": 15.43,
    "sources": [
     {
      "id": "047bda588bce",
@@ -373,7 +373,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.52,
+   "score": 12.86,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -419,6 +419,111 @@
      "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-on-le-voit-sondage-apres-sondage-que-le-rn-et-lfi-s-installent-dans-un-duel-de-second-tour-denonce-prisca-thevenot-deputee-renaissance_VN-202610250419.html",
      "published_at": "2026-10-25T22:38:45+00:00",
      "snippet": "Après la \"grande réussite\" des manifestations du samedi 24 octobre, les syndicats et figures du mouvement social qui secoue actuellement le pays ont d'ores et déjà annoncé plusieurs nouvelles dates de mobilisation. Le mouvement pourrait s'installer dans la durée."
+    }
+   ]
+  },
+  {
+   "headline": "Budget de la Sécu : rejeté à l'Assemblée, Lecornu face au choix entre 49.3 et ordonnances",
+   "chapo": "Les députés ont rejeté presque à l'unanimité le budget de la Sécurité sociale 2027. Le texte part au Sénat sans majorité claire. Ce que sont ces deux budgets, pourquoi le gouvernement est coincé, et ce que disent les chiffres du déficit.",
+   "points": [
+    {
+     "text": "Les députés ont rejeté vendredi 23 octobre la partie recettes du budget de la Sécurité sociale 2027 par 115 voix contre une, ce qui revient à rejeter le texte en entier, selon L'Humanité. La gauche, l'alliance RN-UDR et l'essentiel des LR ont voté contre ; le reste du camp gouvernemental s'est surtout abstenu.",
+     "sources": [
+      "8feeda54aabf",
+      "8747dc411834"
+     ]
+    },
+    {
+     "text": "Il y a deux budgets : celui de l'État, qui finance « notamment l'école, la justice et la défense », et les comptes de la Sécurité sociale, qui financent « notamment les retraites, les soins et les prestations familiales », selon LCP.",
+     "sources": [
+      "8747dc411834"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu est « piégé par sa promesse initiale : naviguer sans recours au 49.3 ni aux ordonnances », selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Le 49.3 permettrait de négocier des concessions pour éviter la censure, mais si l'Assemblée renversait le gouvernement, « le budget s'effondrerait avec lui », selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Les ordonnances permettraient d'appliquer le texte sans vote si le Parlement ne s'est pas prononcé dans les délais ; même en cas de censure, la copie budgétaire resterait en vigueur. Les oppositions pourraient dénoncer « un contournement délibéré du Parlement » et les syndicats rejeter des mesures imposées sans concertation, selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Le déficit de la Sécurité sociale est passé de 15,3 milliards d'euros en 2024 à 21,6 milliards en 2025, et devrait atteindre 21,8 milliards en 2026, « le déficit le plus élevé depuis 2012, hors période de crise sanitaire », selon la tribune de Christophe Daunique dans Atlantico, qui s'appuie sur le rapport de la Cour des comptes du 20 octobre.",
+     "sources": [
+      "b76d6934dc3c"
+     ]
+    },
+    {
+     "text": "La loi de financement pour 2026 prévoyait une réduction du déficit à 19,4 milliards d'euros. La prévision de croissance pour 2026 a été ramenée de 1 % à 0,5 %, selon la même tribune dans Atlantico.",
+     "sources": [
+      "b76d6934dc3c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.humanite.fr/wp-content/uploads/2026/10/rejet-budget-secu.jpg",
+    "source": "L'Humanité",
+    "article_url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
+    "article_id": "8feeda54aabf"
+   },
+   "id": 198,
+   "section": "institutions",
+   "reviewed_at": "2026-10-27T18:22:34+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "5dd8b17855ef",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
+     "url": "https://www.europe1.fr/politique/budget-de-la-securite-sociale-face-au-blocage-lexecutif-hesite-entre-493-et-ordonnances-1186089?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-27T11:30:00+00:00",
+     "snippet": "Trois semaines après le lancement du marathon budgétaire, le rejet massif du volet recettes de la Sécurité sociale à l'Assemblée plonge le gouvernement dans l'impasse. Alors que le texte arrive au Sénat sans majorité évidente, Sébastien Lecornu se retrouve coincé par son engagement de ne pas recourir au 49.3 ni aux ordonnances, deux options juridiques hautement risquées qui menacent de provoquer une double crise politique et sociale. Trois semaines après son lancement, le marathon budgétaire vient de connaître son premier véritable accident de parcours. Vendredi dernier, les députés ont rejeté"
+    },
+    {
+     "id": "8747dc411834",
+     "name": "LCP",
+     "kind": "media",
+     "title": "PLF et PLFSS: pourquoi vote-t-on deux budgets en France?",
+     "url": "https://lcp.fr/actualites/plf-et-plfss-pourquoi-vote-t-on-deux-budgets-en-france-444233",
+     "published_at": "2026-10-26T14:00:32+00:00",
+     "snippet": "Par Aglaée Marchand , le Lundi 26 octobre 2026 à 06:50 Pourquoi les députés examinent-ils deux textes budgétaires chaque automne ? Le PLF, projet de loi de finances, fixe le budget de l’État, tandis que le PLFSS, projet de loi de financement de la Sécurité sociale, porte sur le financement de la Sécurité sociale. LCP décrypte les différences entre ces deux textes essentiels. Cette année encore, les discussions budgétaires sont tumultueuses à l'Assemblée nationale. Après l'avoir largement vidé de sa substance, les députés ont rejeté vendredi à la quasi-unanimité le projet de budget de la Sécuri"
+    },
+    {
+     "id": "8feeda54aabf",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "L’Assemblée rejette à la quasi-unanimité le budget de la Sécurité sociale pour 2027",
+     "url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
+     "published_at": "2026-10-23T12:57:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b76d6934dc3c",
+     "name": "Atlantico",
+     "kind": "media",
+     "title": "PLFSS 2027 : Le gouvernement serre les dépenses mais esquive les vrais arbitrages",
+     "url": "https://atlantico.fr/article/decryptage/plfss-2027-le-gouvernement-serre-les-depenses-mais-esquive-les-vrais-arbitrages-daunique",
+     "published_at": "2026-10-27T10:55:00+00:00",
+     "snippet": "Le 20 octobre dernier, la Cour des comptes a publié un nouveau rapport consacré à la situation financière de la Sécurité sociale, à l'occasion de l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. Elle constate notamment que les finances sociales demeurent profondément déséquilibrées, en dépit des mesures prises ces dernières années."
     }
    ]
   },
@@ -494,7 +599,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.82,
+   "score": 10.28,
    "sources": [
     {
      "id": "68698bda4961",
@@ -606,7 +711,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.81,
+   "score": 10.28,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -720,7 +825,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.11,
+   "score": 7.71,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -830,7 +935,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.1,
+   "score": 6.92,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -955,7 +1060,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.84,
+   "score": 5.68,
    "sources": [
     {
      "id": "1a0f78b60ef6",
@@ -1071,7 +1176,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.68,
+   "score": 5.53,
    "sources": [
     {
      "id": "2872055df568",
@@ -1163,7 +1268,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.68,
+   "score": 5.53,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1282,7 +1387,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.54,
+   "score": 4.41,
    "sources": [
     {
      "id": "12deaabb6ff0",
@@ -1386,7 +1491,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.38,
+   "score": 4.26,
    "sources": [
     {
      "id": "6533d50f040f",
@@ -1496,7 +1601,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.26,
+   "score": 4.15,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -1611,7 +1716,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 4.92,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -1751,7 +1856,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 4.92,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -1883,7 +1988,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 4.92,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -2010,7 +2115,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 4.92,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -2142,7 +2247,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 3.93,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -2259,7 +2364,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 3.93,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -2372,7 +2477,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.89,
+   "score": 4.83,
    "sources": [
     {
      "id": "115735dc9542",
@@ -2522,7 +2627,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.43,
+   "score": 4.37,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -2672,7 +2777,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.23,
+   "score": 4.18,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -2803,7 +2908,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.19,
+   "score": 4.14,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -2934,7 +3039,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.19,
+   "score": 4.14,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -3063,7 +3168,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.53,
+   "score": 3.48,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -3190,7 +3295,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.49,
+   "score": 3.44,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -3302,7 +3407,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.49,
+   "score": 3.44,
    "sources": [
     {
      "id": "66f1e25479fc",
