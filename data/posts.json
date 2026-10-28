@@ -1,6 +1,135 @@
 {
- "generated_at": "2026-10-28T09:00:36+00:00",
+ "generated_at": "2026-10-28T09:30:15+00:00",
  "posts": [
+  {
+   "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
+   "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
+   "points": [
+    {
+     "text": "Interrogé sur TF1 sur son absence des rassemblements, Glucksmann dit être « en soutien à ces jeunes » mais « pas dans les rues ». Il affirme : « il y a une campagne de harcèlement de La France Insoumise contre moi », rapporte BFMTV.",
+     "sources": [
+      "3e3fe6123046"
+     ]
+    },
+    {
+     "text": "Il décrit : « Tous les événements qu'on organise sont troublés par des militants de La France insoumise […] c'est organisé ». Il demande : « Pourquoi ils ne ciblent pas Gabriel Attal ou Édouard Philippe ? », et répond que c'est parce que son camp veut « refonder la gauche démocratique » et « vaincre Mme Le Pen », selon LCP.",
+     "sources": [
+      "f09884e1d252"
+     ]
+    },
+    {
+     "text": "Vendredi, à Amiens, il avait dit : « Il faut que ça s'arrête, on ne va pas faire campagne pendant six mois comme ça », rappelle LCP. Le soir de sa qualification, il avait été enfariné à Paris, puis invectivé lors d'un rassemblement féministe et chahuté devant l'Hôtel de ville de Paris.",
+     "sources": [
+      "f09884e1d252"
+     ]
+    },
+    {
+     "text": "LFI répond. Manuel Bompard, sur LCI : « Il ne devrait pas dire ça, parce que ce n'est pas vrai tout simplement ». Selon BFMTV, il reproche à Glucksmann de chercher « en permanence » une « confrontation avec La France insoumise à laquelle je n'ai pas du tout envie de participer ».",
+     "sources": [
+      "3e3fe6123046"
+     ]
+    },
+    {
+     "text": "Bompard assure que Glucksmann n'est pas son « adversaire » : ses adversaires sont « à l'extrême droite et dans le bloc central ». « Quand on lance des accusations aussi graves, il faut pouvoir les démontrer », dit-il, rapporte Le HuffPost.",
+     "sources": [
+      "50b7b21d1983"
+     ]
+    },
+    {
+     "text": "Le HuffPost rappelle que cette défiance vient de loin : Glucksmann avait déjà été bousculé lors d'une manifestation du 1er mai à Saint-Étienne en 2024, par des jeunes communistes. Libération titre que LFI l'accuse de forcer « une confrontation ».",
+     "sources": [
+      "50b7b21d1983",
+      "44b858be2142"
+     ]
+    },
+    {
+     "text": "Les tensions ne datent pas d'aujourd'hui, selon Europe 1 : début octobre, Le Média a diffusé des propos privés de Glucksmann, avant le dernier débat de la primaire, critiquant durement Mélenchon et Le Pen sur le débat du Medef. Sa réaction n'a pas été commentée par son équipe.",
+     "sources": [
+      "bccd9be2eade"
+     ]
+    },
+    {
+     "text": "L'enjeu est électoral, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon est à 17 %. Chez Glucksmann : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ». L'équipe espère lui disputer le vote utile face au RN.",
+     "sources": [
+      "047bda588bce"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/biKXjhILDh5NJAPBsFPLNj9ZT7w=/7x111:2039x1254/800x0/images/Raphael-Glucksmann-2329041.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
+    "article_id": "3e3fe6123046"
+   },
+   "id": 187,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-27T14:22:16+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 10.02,
+   "sources": [
+    {
+     "id": "047bda588bce",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
+     "published_at": "2026-10-25T11:04:54+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "3e3fe6123046",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Raphaël Glucksmann affirme être victime d'une \"campagne de harcèlement\" de La France insoumise",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
+     "published_at": "2026-10-26T09:08:19+00:00",
+     "snippet": "Le candidat PS-Place Publique à l'élection présidentielle accuse La France insoumise de mener une \"campagne de harcèlement\" contre lui, l'empêchant notamment de se rendre en manifestation."
+    },
+    {
+     "id": "44b858be2142",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Glucksmann dit être victime d’une «campagne de harcèlement» de LFI, qui l’accuse de forcer «une confrontation»",
+     "url": "https://www.liberation.fr/politique/glucksmann-dit-etre-victime-dune-campagne-de-harcelement-de-lfi-bompard-repond-quil-construit-une-confrontation-20261026_3ZY7CE5APNEIBINYIKWTN2VLXQ/",
+     "published_at": "2026-10-26T09:57:35+00:00",
+     "snippet": "Le candidat social-démocrate estime qu’il ne peut pas participer à des rassemblements «dans les rues» à cause de «l’hostilité» des militants insoumis. Manuel Bompard rétorque qu’il n’est pas son «adversaire»."
+    },
+    {
+     "id": "50b7b21d1983",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Absent aux côtés des lycéens, Raphaël Glucksmann jette la pierre à La France insoumise",
+     "url": "https://www.huffingtonpost.fr/politique/article/absent-aux-cotes-des-lyceens-raphael-glucksmann-jette-la-pierre-a-la-france-insoumise_345347.html",
+     "published_at": "2026-10-26T09:24:52+00:00",
+     "snippet": "Le candidat social-démocrate accuse les insoumis de mener « une campagne de harcèlement » à son encontre."
+    },
+    {
+     "id": "bccd9be2eade",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "« On leur pisse dessus » : les propos privés de Raphaël Glucksmann qui font polémique",
+     "url": "https://www.europe1.fr/politique/on-leur-pisse-dessus-les-propos-prives-de-raphael-glucksmann-qui-font-polemique-1120982",
+     "published_at": "2026-10-03T20:46:00+00:00",
+     "snippet": "Des propos privés de Raphaël Glucksmann, tenus derrière des caméras et diffusés par Le Media, ont provoqué de vives réactions de Jean-Luc Mélenchon et Ségolène Royal. L'eurodéputé y dit \"pisser\" sur l"
+    },
+    {
+     "id": "f09884e1d252",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Absence dans les manifestations: Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
+     "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
+     "published_at": "2026-10-26T14:00:32+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
+    }
+   ]
+  },
   {
    "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
    "chapo": "Après l'attaque raciste de Trappes et La Verrière, qui a fait un mort et cinq blessés, la gauche et Dominique de Villepin mettent en cause le climat politique et le RN. Le RN rejette toute responsabilité et dénonce une récupération, tout en qualifiant l'acte de « crime raciste, terroriste ». Le RN accuse Macron d'avoir « oublié » des victimes d'attentats passés.",
@@ -81,7 +210,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 14.07,
+   "score": 13.91,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -167,131 +296,104 @@
    ]
   },
   {
-   "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
-   "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
+   "headline": "Parcoursup : un débat sans vote à l'Assemblée ce mercredi, ce que le gouvernement va présenter et ce que veulent les groupes",
+   "chapo": "Ce mercredi 28 octobre à 17h, les députés débattent de l'avenir de Parcoursup à la demande de Sébastien Lecornu. Le débat ne sera pas suivi d'un vote. Ce que prévoit le gouvernement, et les positions de la gauche, du PS et de la droite.",
    "points": [
     {
-     "text": "Interrogé sur TF1 sur son absence des rassemblements, Glucksmann dit être « en soutien à ces jeunes » mais « pas dans les rues ». Il affirme : « il y a une campagne de harcèlement de La France Insoumise contre moi », rapporte BFMTV.",
+     "text": "Le débat, fondé sur l'article 50-1 de la Constitution, ne sera pas suivi d'un vote. Le gouvernement veut « recueillir les propositions de chaque groupe politique », selon Europe 1.",
      "sources": [
-      "3e3fe6123046"
+      "adf3b6a5a2e1",
+      "0dbf936a8d2e"
      ]
     },
     {
-     "text": "Il décrit : « Tous les événements qu'on organise sont troublés par des militants de La France insoumise […] c'est organisé ». Il demande : « Pourquoi ils ne ciblent pas Gabriel Attal ou Édouard Philippe ? », et répond que c'est parce que son camp veut « refonder la gauche démocratique » et « vaincre Mme Le Pen », selon LCP.",
+     "text": "Phase 1 : dès la rentrée 2027, une « évolution forte » avec plus de clarté sur les algorithmes : critères de sélection transparents, lettres de motivation justifiées, refus expliqués. Phase 2 : « le remplacement » de la plateforme à la rentrée 2028, selon Le HuffPost.",
      "sources": [
-      "f09884e1d252"
+      "5da71d6dd1be"
      ]
     },
     {
-     "text": "Vendredi, à Amiens, il avait dit : « Il faut que ça s'arrête, on ne va pas faire campagne pendant six mois comme ça », rappelle LCP. Le soir de sa qualification, il avait été enfariné à Paris, puis invectivé lors d'un rassemblement féministe et chahuté devant l'Hôtel de ville de Paris.",
+     "text": "Le ministre Edouard Geffray : « il faut surtout que les lycéens retiennent qu'on va changer Parcoursup et que leur vie va changer dès cette année », selon Europe 1. Europe 1 note que la charge du remplacement reviendra à la prochaine majorité.",
      "sources": [
-      "f09884e1d252"
+      "0dbf936a8d2e"
      ]
     },
     {
-     "text": "LFI répond. Manuel Bompard, sur LCI : « Il ne devrait pas dire ça, parce que ce n'est pas vrai tout simplement ». Selon BFMTV, il reproche à Glucksmann de chercher « en permanence » une « confrontation avec La France insoumise à laquelle je n'ai pas du tout envie de participer ».",
+     "text": "Mathilde Panot (LFI) : Parcoursup « est devenu une machine à tri social qui laisse 125 000 bacheliers sur le carreau ». Louis Boyard (LFI) : « Si jamais il n'y a pas de vote, alors ce débat 50-1 ne sert à rien », selon LCP.",
      "sources": [
-      "3e3fe6123046"
+      "adf3b6a5a2e1"
      ]
     },
     {
-     "text": "Bompard assure que Glucksmann n'est pas son « adversaire » : ses adversaires sont « à l'extrême droite et dans le bloc central ». « Quand on lance des accusations aussi graves, il faut pouvoir les démontrer », dit-il, rapporte Le HuffPost.",
+     "text": "Fatiha Keloua-Hachi (Socialistes) juge que c'est « un bon début » : depuis 2018, dit-elle, « cette discussion, on n'a jamais pu l'avoir », selon LCP.",
      "sources": [
-      "50b7b21d1983"
+      "adf3b6a5a2e1"
      ]
     },
     {
-     "text": "Le HuffPost rappelle que cette défiance vient de loin : Glucksmann avait déjà été bousculé lors d'une manifestation du 1er mai à Saint-Étienne en 2024, par des jeunes communistes. Libération titre que LFI l'accuse de forcer « une confrontation ».",
+     "text": "Maxime Michelet (Union des droites pour la République) : les annonces « ne seront probablement pas menées jusqu'à leur terme » et « La procédure Parcoursup doit être abrogée parce qu'elle doit être changée de fond en comble », selon LCP.",
      "sources": [
-      "50b7b21d1983",
-      "44b858be2142"
+      "adf3b6a5a2e1"
      ]
     },
     {
-     "text": "Les tensions ne datent pas d'aujourd'hui, selon Europe 1 : début octobre, Le Média a diffusé des propos privés de Glucksmann, avant le dernier débat de la primaire, critiquant durement Mélenchon et Le Pen sur le débat du Medef. Sa réaction n'a pas été commentée par son équipe.",
+     "text": "La question que le gouvernement n'a pas tranchée : que mettre à la place ? Les organisations étudiantes qui veulent sa suppression estiment qu'il faudrait créer 250 000 places à l'université, une option « fort coûteuse pour les finances publiques », selon Le HuffPost.",
      "sources": [
-      "bccd9be2eade"
+      "5da71d6dd1be"
      ]
     },
     {
-     "text": "L'enjeu est électoral, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon est à 17 %. Chez Glucksmann : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ». L'équipe espère lui disputer le vote utile face au RN.",
+     "text": "L'intersyndicale lycéenne appelle à poursuivre la mobilisation dans les prochains jours, selon Europe 1.",
      "sources": [
-      "047bda588bce"
+      "0dbf936a8d2e"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 6,
-    "outlets": 6
+    "articles": 3,
+    "outlets": 3
    },
    "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/biKXjhILDh5NJAPBsFPLNj9ZT7w=/7x111:2039x1254/800x0/images/Raphael-Glucksmann-2329041.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
-    "article_id": "3e3fe6123046"
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2025-12/H%C3%A9micycle%20de%20l%27Assembl%C3%A9e%20nationale%2C%20le%2010%20d%C3%A9cembre%202025.jpg?h=c673cd1c&itok=ZI9ej9rJ",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
+    "article_id": "adf3b6a5a2e1"
    },
-   "id": 187,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-27T14:22:16+00:00",
+   "id": 207,
+   "section": "institutions",
+   "reviewed_at": "2026-10-28T09:30:15+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.13,
+   "score": 9.0,
    "sources": [
     {
-     "id": "047bda588bce",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
-     "published_at": "2026-10-25T11:04:54+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "3e3fe6123046",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Raphaël Glucksmann affirme être victime d'une \"campagne de harcèlement\" de La France insoumise",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
-     "published_at": "2026-10-26T09:08:19+00:00",
-     "snippet": "Le candidat PS-Place Publique à l'élection présidentielle accuse La France insoumise de mener une \"campagne de harcèlement\" contre lui, l'empêchant notamment de se rendre en manifestation."
-    },
-    {
-     "id": "44b858be2142",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Glucksmann dit être victime d’une «campagne de harcèlement» de LFI, qui l’accuse de forcer «une confrontation»",
-     "url": "https://www.liberation.fr/politique/glucksmann-dit-etre-victime-dune-campagne-de-harcelement-de-lfi-bompard-repond-quil-construit-une-confrontation-20261026_3ZY7CE5APNEIBINYIKWTN2VLXQ/",
-     "published_at": "2026-10-26T09:57:35+00:00",
-     "snippet": "Le candidat social-démocrate estime qu’il ne peut pas participer à des rassemblements «dans les rues» à cause de «l’hostilité» des militants insoumis. Manuel Bompard rétorque qu’il n’est pas son «adversaire»."
-    },
-    {
-     "id": "50b7b21d1983",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Absent aux côtés des lycéens, Raphaël Glucksmann jette la pierre à La France insoumise",
-     "url": "https://www.huffingtonpost.fr/politique/article/absent-aux-cotes-des-lyceens-raphael-glucksmann-jette-la-pierre-a-la-france-insoumise_345347.html",
-     "published_at": "2026-10-26T09:24:52+00:00",
-     "snippet": "Le candidat social-démocrate accuse les insoumis de mener « une campagne de harcèlement » à son encontre."
-    },
-    {
-     "id": "bccd9be2eade",
+     "id": "0dbf936a8d2e",
      "name": "Europe 1",
      "kind": "media",
-     "title": "« On leur pisse dessus » : les propos privés de Raphaël Glucksmann qui font polémique",
-     "url": "https://www.europe1.fr/politique/on-leur-pisse-dessus-les-propos-prives-de-raphael-glucksmann-qui-font-polemique-1120982",
-     "published_at": "2026-10-03T20:46:00+00:00",
-     "snippet": "Des propos privés de Raphaël Glucksmann, tenus derrière des caméras et diffusés par Le Media, ont provoqué de vives réactions de Jean-Luc Mélenchon et Ségolène Royal. L'eurodéputé y dit \"pisser\" sur l"
+     "title": "Mouvement des lycéens : le gouvernement mobilisé pour encourager le retour des élèves en classe",
+     "url": "https://www.europe1.fr/international/mouvement-des-lyceens-le-gouvernement-mobilise-pour-encourager-le-retour-des-eleves-en-classe-1188228?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-28T06:40:00+00:00",
+     "snippet": "Face à la colère des lycéens et aux annonces du gouvernement, un grand débat se tiendra ce mercredi à l'Assemblée nationale autour de Parcoursup. Objectif pour l'exécutif : entendre les propositions des oppositions pour améliorer l'affectation des élèves dans le supérieur et permettre le retour des lycéens en cours. C'est l'enjeu numéro un du gouvernement : que les lycéens retournent en cours. Face au mouvement des adolescents, le gouvernement a annoncé plusieurs décisions pour apaiser la colère des élèves, comme le remplacement de Parcoursup ou encore la création de milliers de places supplém"
     },
     {
-     "id": "f09884e1d252",
+     "id": "5da71d6dd1be",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "À quoi peut bien servir le débat (sans vote) convoqué par Lecornu sur Parcoursup ?",
+     "url": "https://www.huffingtonpost.fr/politique/article/a-quoi-peut-bien-servir-le-debat-sans-vote-convoque-par-lecornu-sur-parcoursup_346172.html",
+     "published_at": "2026-10-28T05:00:11+00:00",
+     "snippet": "Le chef du gouvernement Sébastien Lecornu a réclamé un débat à l’Assemblée nationale, deux jours après que son gouvernement a promis la fin de Parcoursup."
+    },
+    {
+     "id": "adf3b6a5a2e1",
      "name": "LCP",
      "kind": "media",
-     "title": "Absence dans les manifestations: Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
-     "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
-     "published_at": "2026-10-26T14:00:32+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
+     "title": "Parcoursup: suppression, remplacement, réforme... Le débat aura lieu cet après-midi à l'Assemblée nationale",
+     "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 10:07 Un débat sur \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" aura lieu à 17h, ce mercredi 28 octobre, dans l'hémicycle de l'Assemblée nationale, à la demande du gouvernement. La France insoumise déplore l'absence de vote à l'issue de ce débat. C'est un débat sur Parcoursup organisé alors que la mobilisation lycéenne, qui a débuté à la mi-septembre, se poursuit malgré les récentes annonces du gouvernement . Ce mercredi à 17 heures, les députés débattront dans l'hémicycle de \"l'avenir du pr"
     }
    ]
   },
@@ -373,7 +475,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.44,
+   "score": 8.35,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -487,7 +589,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.45,
+   "score": 7.36,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -599,7 +701,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.75,
+   "score": 6.68,
    "sources": [
     {
      "id": "68698bda4961",
@@ -711,7 +813,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.75,
+   "score": 6.68,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -811,7 +913,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.59,
+   "score": 5.52,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -916,7 +1018,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.06,
+   "score": 5.01,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -1026,7 +1128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.4,
+   "score": 5.36,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -1151,7 +1253,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.41,
+   "score": 4.38,
    "sources": [
     {
      "id": "1a0f78b60ef6",
@@ -1267,7 +1369,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.32,
+   "score": 4.29,
    "sources": [
     {
      "id": "2872055df568",
@@ -1359,7 +1461,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.32,
+   "score": 4.29,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1478,7 +1580,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.4,
+   "score": 3.37,
    "sources": [
     {
      "id": "12deaabb6ff0",
@@ -1582,7 +1684,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.31,
+   "score": 3.28,
    "sources": [
     {
      "id": "6533d50f040f",
@@ -1692,7 +1794,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.24,
+   "score": 3.21,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -1807,7 +1909,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.1,
+   "score": 4.08,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -1947,7 +2049,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.1,
+   "score": 4.08,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -2079,7 +2181,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.1,
+   "score": 4.08,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -2206,7 +2308,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.1,
+   "score": 4.08,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -2338,7 +2440,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 3.26,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -2455,7 +2557,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 3.26,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -2568,7 +2670,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.23,
+   "score": 4.22,
    "sources": [
     {
      "id": "115735dc9542",
@@ -2718,7 +2820,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.83,
+   "score": 3.82,
    "sources": [
     {
      "id": "6497706b05ca",
@@ -2868,7 +2970,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.66,
+   "score": 3.64,
    "sources": [
     {
      "id": "04d6bb28b725",
@@ -2999,7 +3101,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.63,
+   "score": 3.61,
    "sources": [
     {
      "id": "1792233a8e91",
@@ -3130,7 +3232,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.63,
+   "score": 3.61,
    "sources": [
     {
      "id": "8e6190adea3b",
@@ -3259,7 +3361,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.04,
    "sources": [
     {
      "id": "2ce086fce328",
@@ -3386,7 +3488,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 3.01,
    "sources": [
     {
      "id": "2b5ff92d4049",
@@ -3498,7 +3600,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 3.01,
    "sources": [
     {
      "id": "66f1e25479fc",
