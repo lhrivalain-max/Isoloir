@@ -1,6 +1,405 @@
 {
- "generated_at": "2026-10-28T09:30:43+00:00",
+ "generated_at": "2026-10-28T17:00:05+00:00",
  "posts": [
+  {
+   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
+   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
+   "points": [
+    {
+     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
+     "sources": [
+      "39fec858ff48",
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    },
+    {
+     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
+     "sources": [
+      "4c096eb1c11c"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+    "article_id": "6a7d09056f81"
+   },
+   "id": 205,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T09:30:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.86,
+   "sources": [
+    {
+     "id": "39fec858ff48",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
+     "published_at": "2026-10-28T09:23:18+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4c096eb1c11c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
+     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
+     "published_at": "2026-10-27T11:39:29+00:00",
+     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+    },
+    {
+     "id": "6a7d09056f81",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
+     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
+    }
+   ]
+  },
+  {
+   "headline": "Budget de la Sécu : rejeté à l'Assemblée, Lecornu face au choix entre 49.3 et ordonnances",
+   "chapo": "Les députés ont rejeté presque à l'unanimité le budget de la Sécurité sociale 2027. Le texte part au Sénat sans majorité claire. Ce que sont ces deux budgets, pourquoi le gouvernement est coincé, et ce que disent les chiffres du déficit.",
+   "points": [
+    {
+     "text": "Les députés ont rejeté vendredi 23 octobre la partie recettes du budget de la Sécurité sociale 2027 par 115 voix contre une, ce qui revient à rejeter le texte en entier, selon L'Humanité. La gauche, l'alliance RN-UDR et l'essentiel des LR ont voté contre ; le reste du camp gouvernemental s'est surtout abstenu.",
+     "sources": [
+      "8feeda54aabf",
+      "8747dc411834"
+     ]
+    },
+    {
+     "text": "Il y a deux budgets : celui de l'État, qui finance « notamment l'école, la justice et la défense », et les comptes de la Sécurité sociale, qui financent « notamment les retraites, les soins et les prestations familiales », selon LCP.",
+     "sources": [
+      "8747dc411834"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu est « piégé par sa promesse initiale : naviguer sans recours au 49.3 ni aux ordonnances », selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Le 49.3 permettrait de négocier des concessions pour éviter la censure, mais si l'Assemblée renversait le gouvernement, « le budget s'effondrerait avec lui », selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Les ordonnances permettraient d'appliquer le texte sans vote si le Parlement ne s'est pas prononcé dans les délais ; même en cas de censure, la copie budgétaire resterait en vigueur. Les oppositions pourraient dénoncer « un contournement délibéré du Parlement » et les syndicats rejeter des mesures imposées sans concertation, selon Europe 1.",
+     "sources": [
+      "5dd8b17855ef"
+     ]
+    },
+    {
+     "text": "Le déficit de la Sécurité sociale est passé de 15,3 milliards d'euros en 2024 à 21,6 milliards en 2025, et devrait atteindre 21,8 milliards en 2026, « le déficit le plus élevé depuis 2012, hors période de crise sanitaire », selon la tribune de Christophe Daunique dans Atlantico, qui s'appuie sur le rapport de la Cour des comptes du 20 octobre.",
+     "sources": [
+      "b76d6934dc3c"
+     ]
+    },
+    {
+     "text": "La loi de financement pour 2026 prévoyait une réduction du déficit à 19,4 milliards d'euros. La prévision de croissance pour 2026 a été ramenée de 1 % à 0,5 %, selon la même tribune dans Atlantico.",
+     "sources": [
+      "b76d6934dc3c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.humanite.fr/wp-content/uploads/2026/10/rejet-budget-secu.jpg",
+    "source": "L'Humanité",
+    "article_url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
+    "article_id": "8feeda54aabf"
+   },
+   "id": 198,
+   "section": "institutions",
+   "reviewed_at": "2026-10-27T18:22:34+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.18,
+   "sources": [
+    {
+     "id": "5dd8b17855ef",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
+     "url": "https://www.europe1.fr/politique/budget-de-la-securite-sociale-face-au-blocage-lexecutif-hesite-entre-493-et-ordonnances-1186089?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-27T11:30:00+00:00",
+     "snippet": "Trois semaines après le lancement du marathon budgétaire, le rejet massif du volet recettes de la Sécurité sociale à l'Assemblée plonge le gouvernement dans l'impasse. Alors que le texte arrive au Sénat sans majorité évidente, Sébastien Lecornu se retrouve coincé par son engagement de ne pas recourir au 49.3 ni aux ordonnances, deux options juridiques hautement risquées qui menacent de provoquer une double crise politique et sociale. Trois semaines après son lancement, le marathon budgétaire vient de connaître son premier véritable accident de parcours. Vendredi dernier, les députés ont rejeté"
+    },
+    {
+     "id": "8747dc411834",
+     "name": "LCP",
+     "kind": "media",
+     "title": "PLF et PLFSS: pourquoi vote-t-on deux budgets en France?",
+     "url": "https://lcp.fr/actualites/plf-et-plfss-pourquoi-vote-t-on-deux-budgets-en-france-444233",
+     "published_at": "2026-10-26T14:00:32+00:00",
+     "snippet": "Par Aglaée Marchand , le Lundi 26 octobre 2026 à 06:50 Pourquoi les députés examinent-ils deux textes budgétaires chaque automne ? Le PLF, projet de loi de finances, fixe le budget de l’État, tandis que le PLFSS, projet de loi de financement de la Sécurité sociale, porte sur le financement de la Sécurité sociale. LCP décrypte les différences entre ces deux textes essentiels. Cette année encore, les discussions budgétaires sont tumultueuses à l'Assemblée nationale. Après l'avoir largement vidé de sa substance, les députés ont rejeté vendredi à la quasi-unanimité le projet de budget de la Sécuri"
+    },
+    {
+     "id": "8feeda54aabf",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "L’Assemblée rejette à la quasi-unanimité le budget de la Sécurité sociale pour 2027",
+     "url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
+     "published_at": "2026-10-23T12:57:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b76d6934dc3c",
+     "name": "Atlantico",
+     "kind": "media",
+     "title": "PLFSS 2027 : Le gouvernement serre les dépenses mais esquive les vrais arbitrages",
+     "url": "https://atlantico.fr/article/decryptage/plfss-2027-le-gouvernement-serre-les-depenses-mais-esquive-les-vrais-arbitrages-daunique",
+     "published_at": "2026-10-27T10:55:00+00:00",
+     "snippet": "Le 20 octobre dernier, la Cour des comptes a publié un nouveau rapport consacré à la situation financière de la Sécurité sociale, à l'occasion de l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. Elle constate notamment que les finances sociales demeurent profondément déséquilibrées, en dépit des mesures prises ces dernières années."
+    }
+   ]
+  },
+  {
+   "headline": "Loi « casseurs-payeurs » : ce que contient le texte adopté par le Sénat, et ce que la gauche conteste",
+   "chapo": "Dans la nuit du 27 au 28 octobre, le Sénat a adopté par 229 voix contre 105 le projet de loi « casseurs-payeurs », nettement durci. Le texte part à l'Assemblée nationale. Ce qu'il prévoit, ce que dit le gouvernement, et les critiques de la gauche.",
+   "points": [
+    {
+     "text": "Le texte a été adopté par 229 voix contre 105, avec le soutien du RN et malgré la « vive opposition de la gauche », selon LCP. Il contenait au départ cinq articles, et le Sénat l'a « nettement durci », selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    },
+    {
+     "text": "Mesure phare : une solidarité financière pour toute personne ayant « sciemment participé » à un groupement formé pour commettre des dégradations. L'État pourrait se retourner contre les auteurs indirects, dans la limite de 10 000 euros par personne, selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    },
+    {
+     "text": "Les allocations familiales, les aides personnelles au logement et le RSA pourront être saisis, selon LCP. Selon Midi Libre, les sénateurs ont durci la mesure en y ajoutant le complément familial, l'allocation de rentrée scolaire et la prime d'activité.",
+     "sources": [
+      "00c374c10d7a",
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Le texte fait polémique parce qu'il s'applique aussi aux personnes qui n'ont pas participé directement aux violences mais qui étaient dans l'attroupement, selon franceinfo.",
+     "sources": [
+      "8b49351f9748"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Intérieur Laurent Nuñez défend un texte de « bon sens », face à « l'urgence » : plus de 2 500 commerces touchés selon CCI France. Il saisira le Conseil d'État sur les extensions, pour vérifier si « l'équilibre entre solidarité et réparation » est respecté, selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Côté droite, David Margueritte (LR) : « Ce texte renforce au contraire la liberté de manifester », selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Côté gauche, Fabien Gay (communiste) parle d'une « forfaiture juridique, qui confond volontairement manifestants et casseurs ». Mélanie Vogel (écologiste) dit que le texte ne dissuadera pas les casseurs mais « la mère de famille, le salarié, la lycéenne » de manifester, selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Autres mesures votées : nouvelles interdictions administratives de manifester, drones judiciaires et vidéoprotection algorithmique facilités, expulsions de logements sociaux, et une procédure d'urgence pour demander le retrait en moins de 24 heures de contenus appelant aux dégradations, décriée à gauche, selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2020-02/field_media_image-1522-violences_gilets_jaunes.jpg?h=38234820&itok=HKx0BHjD",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
+    "article_id": "00c374c10d7a"
+   },
+   "id": 201,
+   "section": "institutions",
+   "reviewed_at": "2026-10-28T09:30:43+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.86,
+   "sources": [
+    {
+     "id": "00c374c10d7a",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Projet de loi \"casseurs-payeurs\": le texte transmis à l'Assemblée après son adoption au Sénat",
+     "url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 08:53 Érigé comme une \"urgence\" pour répondre aux débordements tels que ceux qui ont été commis en marge des manifestations du 17 octobre, le projet de loi \"casseurs-payeurs\" a été adopté dans une version élargie et durcie, mardi 27 octobre au soir, par le Sénat. Les discussions à l'Assemblée nationale s'annoncent déjà électriques. Le projet de loi \"casseurs-payeurs\" a été adopté dans la nuit de mardi à mercredi au Sénat. Prochaine étape : son examen au Palais-Bourbon. Élaboré durant l'été après les débordements ayant suivi le sacre européen "
+    },
+    {
+     "id": "8b49351f9748",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Une loi polémique pour faire payer les casseurs",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/une-loi-polemique-pour-faire-payer-les-casseurs_8256406.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-28T07:00:01+00:00",
+     "snippet": "Les casseurs vont-ils payer la facture des dégâts du 17 octobre ? Le projet de loi qui arrive au Sénat prévoit même de saisir les allocations sociales. Le texte fait polémique parce qu’il s’applique aussi aux personnes qui n’ont pas participé directement aux violences mais qui étaient dans l’attroupement."
+    },
+    {
+     "id": "ef2b405e0c7d",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Loi \"casseurs payeurs\" : le texte approuvé et \"considérablement élargi\" au Sénat, la gauche dénonce une \"instrumentalisation des commerçants\"",
+     "url": "https://www.midilibre.fr/2026/10/28/loi-casseurs-payeurs-le-texte-approuve-et-considerablement-elargi-au-senat-la-gauche-denonce-une-instrumentalisation-des-commercants-13624106.php",
+     "published_at": "2026-10-28T07:37:54+00:00",
+     "snippet": "Le Sénat a adopté dans la nuit du 27 au 28 octobre, par 229 voix contre 105, le projet de loi \"casseurs payeurs\" nettement durci. La mesure prévoit une solidarité financière de 10 000 euros maximum et la saisie..."
+    }
+   ]
+  },
+  {
+   "headline": "Parcoursup : un débat sans vote à l'Assemblée ce mercredi, ce que le gouvernement va présenter et ce que veulent les groupes",
+   "chapo": "Ce mercredi 28 octobre à 17h, les députés débattent de l'avenir de Parcoursup à la demande de Sébastien Lecornu. Le débat ne sera pas suivi d'un vote. Ce que prévoit le gouvernement, et les positions de la gauche, du PS et de la droite.",
+   "points": [
+    {
+     "text": "Le débat, fondé sur l'article 50-1 de la Constitution, ne sera pas suivi d'un vote. Le gouvernement veut « recueillir les propositions de chaque groupe politique », selon Europe 1.",
+     "sources": [
+      "adf3b6a5a2e1",
+      "0dbf936a8d2e"
+     ]
+    },
+    {
+     "text": "Phase 1 : dès la rentrée 2027, une « évolution forte » avec plus de clarté sur les algorithmes : critères de sélection transparents, lettres de motivation justifiées, refus expliqués. Phase 2 : « le remplacement » de la plateforme à la rentrée 2028, selon Le HuffPost.",
+     "sources": [
+      "5da71d6dd1be"
+     ]
+    },
+    {
+     "text": "Le ministre Edouard Geffray : « il faut surtout que les lycéens retiennent qu'on va changer Parcoursup et que leur vie va changer dès cette année », selon Europe 1. Europe 1 note que la charge du remplacement reviendra à la prochaine majorité.",
+     "sources": [
+      "0dbf936a8d2e"
+     ]
+    },
+    {
+     "text": "Mathilde Panot (LFI) : Parcoursup « est devenu une machine à tri social qui laisse 125 000 bacheliers sur le carreau ». Louis Boyard (LFI) : « Si jamais il n'y a pas de vote, alors ce débat 50-1 ne sert à rien », selon LCP.",
+     "sources": [
+      "adf3b6a5a2e1"
+     ]
+    },
+    {
+     "text": "Fatiha Keloua-Hachi (Socialistes) juge que c'est « un bon début » : depuis 2018, dit-elle, « cette discussion, on n'a jamais pu l'avoir », selon LCP.",
+     "sources": [
+      "adf3b6a5a2e1"
+     ]
+    },
+    {
+     "text": "Maxime Michelet (Union des droites pour la République) : les annonces « ne seront probablement pas menées jusqu'à leur terme » et « La procédure Parcoursup doit être abrogée parce qu'elle doit être changée de fond en comble », selon LCP.",
+     "sources": [
+      "adf3b6a5a2e1"
+     ]
+    },
+    {
+     "text": "La question que le gouvernement n'a pas tranchée : que mettre à la place ? Les organisations étudiantes qui veulent sa suppression estiment qu'il faudrait créer 250 000 places à l'université, une option « fort coûteuse pour les finances publiques », selon Le HuffPost.",
+     "sources": [
+      "5da71d6dd1be"
+     ]
+    },
+    {
+     "text": "L'intersyndicale lycéenne appelle à poursuivre la mobilisation dans les prochains jours, selon Europe 1.",
+     "sources": [
+      "0dbf936a8d2e"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2025-12/H%C3%A9micycle%20de%20l%27Assembl%C3%A9e%20nationale%2C%20le%2010%20d%C3%A9cembre%202025.jpg?h=c673cd1c&itok=ZI9ej9rJ",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
+    "article_id": "adf3b6a5a2e1"
+   },
+   "id": 207,
+   "section": "institutions",
+   "reviewed_at": "2026-10-28T09:30:15+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.86,
+   "sources": [
+    {
+     "id": "0dbf936a8d2e",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Mouvement des lycéens : le gouvernement mobilisé pour encourager le retour des élèves en classe",
+     "url": "https://www.europe1.fr/international/mouvement-des-lyceens-le-gouvernement-mobilise-pour-encourager-le-retour-des-eleves-en-classe-1188228?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-28T06:40:00+00:00",
+     "snippet": "Face à la colère des lycéens et aux annonces du gouvernement, un grand débat se tiendra ce mercredi à l'Assemblée nationale autour de Parcoursup. Objectif pour l'exécutif : entendre les propositions des oppositions pour améliorer l'affectation des élèves dans le supérieur et permettre le retour des lycéens en cours. C'est l'enjeu numéro un du gouvernement : que les lycéens retournent en cours. Face au mouvement des adolescents, le gouvernement a annoncé plusieurs décisions pour apaiser la colère des élèves, comme le remplacement de Parcoursup ou encore la création de milliers de places supplém"
+    },
+    {
+     "id": "5da71d6dd1be",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "À quoi peut bien servir le débat (sans vote) convoqué par Lecornu sur Parcoursup ?",
+     "url": "https://www.huffingtonpost.fr/politique/article/a-quoi-peut-bien-servir-le-debat-sans-vote-convoque-par-lecornu-sur-parcoursup_346172.html",
+     "published_at": "2026-10-28T05:00:11+00:00",
+     "snippet": "Le chef du gouvernement Sébastien Lecornu a réclamé un débat à l’Assemblée nationale, deux jours après que son gouvernement a promis la fin de Parcoursup."
+    },
+    {
+     "id": "adf3b6a5a2e1",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Parcoursup: suppression, remplacement, réforme... Le débat aura lieu cet après-midi à l'Assemblée nationale",
+     "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 10:07 Un débat sur \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" aura lieu à 17h, ce mercredi 28 octobre, dans l'hémicycle de l'Assemblée nationale, à la demande du gouvernement. La France insoumise déplore l'absence de vote à l'issue de ce débat. C'est un débat sur Parcoursup organisé alors que la mobilisation lycéenne, qui a débuté à la mi-septembre, se poursuit malgré les récentes annonces du gouvernement . Ce mercredi à 17 heures, les députés débattront dans l'hémicycle de \"l'avenir du pr"
+    }
+   ]
+  },
   {
    "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
    "chapo": "Après l'attaque raciste de Trappes et La Verrière, qui a fait un mort et cinq blessés, la gauche et Dominique de Villepin mettent en cause le climat politique et le RN. Le RN rejette toute responsabilité et dénonce une récupération, tout en qualifiant l'acte de « crime raciste, terroriste ». Le RN accuse Macron d'avoir « oublié » des victimes d'attentats passés.",
@@ -81,7 +480,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.91,
+   "score": 11.85,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -167,108 +566,6 @@
    ]
   },
   {
-   "headline": "Loi « casseurs-payeurs » : ce que contient le texte adopté par le Sénat, et ce que la gauche conteste",
-   "chapo": "Dans la nuit du 27 au 28 octobre, le Sénat a adopté par 229 voix contre 105 le projet de loi « casseurs-payeurs », nettement durci. Le texte part à l'Assemblée nationale. Ce qu'il prévoit, ce que dit le gouvernement, et les critiques de la gauche.",
-   "points": [
-    {
-     "text": "Le texte a été adopté par 229 voix contre 105, avec le soutien du RN et malgré la « vive opposition de la gauche », selon LCP. Il contenait au départ cinq articles, et le Sénat l'a « nettement durci », selon LCP.",
-     "sources": [
-      "00c374c10d7a"
-     ]
-    },
-    {
-     "text": "Mesure phare : une solidarité financière pour toute personne ayant « sciemment participé » à un groupement formé pour commettre des dégradations. L'État pourrait se retourner contre les auteurs indirects, dans la limite de 10 000 euros par personne, selon LCP.",
-     "sources": [
-      "00c374c10d7a"
-     ]
-    },
-    {
-     "text": "Les allocations familiales, les aides personnelles au logement et le RSA pourront être saisis, selon LCP. Selon Midi Libre, les sénateurs ont durci la mesure en y ajoutant le complément familial, l'allocation de rentrée scolaire et la prime d'activité.",
-     "sources": [
-      "00c374c10d7a",
-      "ef2b405e0c7d"
-     ]
-    },
-    {
-     "text": "Le texte fait polémique parce qu'il s'applique aussi aux personnes qui n'ont pas participé directement aux violences mais qui étaient dans l'attroupement, selon franceinfo.",
-     "sources": [
-      "8b49351f9748"
-     ]
-    },
-    {
-     "text": "Le ministre de l'Intérieur Laurent Nuñez défend un texte de « bon sens », face à « l'urgence » : plus de 2 500 commerces touchés selon CCI France. Il saisira le Conseil d'État sur les extensions, pour vérifier si « l'équilibre entre solidarité et réparation » est respecté, selon Midi Libre.",
-     "sources": [
-      "ef2b405e0c7d"
-     ]
-    },
-    {
-     "text": "Côté droite, David Margueritte (LR) : « Ce texte renforce au contraire la liberté de manifester », selon Midi Libre.",
-     "sources": [
-      "ef2b405e0c7d"
-     ]
-    },
-    {
-     "text": "Côté gauche, Fabien Gay (communiste) parle d'une « forfaiture juridique, qui confond volontairement manifestants et casseurs ». Mélanie Vogel (écologiste) dit que le texte ne dissuadera pas les casseurs mais « la mère de famille, le salarié, la lycéenne » de manifester, selon Midi Libre.",
-     "sources": [
-      "ef2b405e0c7d"
-     ]
-    },
-    {
-     "text": "Autres mesures votées : nouvelles interdictions administratives de manifester, drones judiciaires et vidéoprotection algorithmique facilités, expulsions de logements sociaux, et une procédure d'urgence pour demander le retrait en moins de 24 heures de contenus appelant aux dégradations, décriée à gauche, selon LCP.",
-     "sources": [
-      "00c374c10d7a"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2020-02/field_media_image-1522-violences_gilets_jaunes.jpg?h=38234820&itok=HKx0BHjD",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
-    "article_id": "00c374c10d7a"
-   },
-   "id": 201,
-   "section": "institutions",
-   "reviewed_at": "2026-10-28T09:30:43+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "00c374c10d7a",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Projet de loi \"casseurs-payeurs\": le texte transmis à l'Assemblée après son adoption au Sénat",
-     "url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
-     "published_at": "2026-10-28T09:23:22+00:00",
-     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 08:53 Érigé comme une \"urgence\" pour répondre aux débordements tels que ceux qui ont été commis en marge des manifestations du 17 octobre, le projet de loi \"casseurs-payeurs\" a été adopté dans une version élargie et durcie, mardi 27 octobre au soir, par le Sénat. Les discussions à l'Assemblée nationale s'annoncent déjà électriques. Le projet de loi \"casseurs-payeurs\" a été adopté dans la nuit de mardi à mercredi au Sénat. Prochaine étape : son examen au Palais-Bourbon. Élaboré durant l'été après les débordements ayant suivi le sacre européen "
-    },
-    {
-     "id": "8b49351f9748",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Une loi polémique pour faire payer les casseurs",
-     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/une-loi-polemique-pour-faire-payer-les-casseurs_8256406.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-28T07:00:01+00:00",
-     "snippet": "Les casseurs vont-ils payer la facture des dégâts du 17 octobre ? Le projet de loi qui arrive au Sénat prévoit même de saisir les allocations sociales. Le texte fait polémique parce qu’il s’applique aussi aux personnes qui n’ont pas participé directement aux violences mais qui étaient dans l’attroupement."
-    },
-    {
-     "id": "ef2b405e0c7d",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Loi \"casseurs payeurs\" : le texte approuvé et \"considérablement élargi\" au Sénat, la gauche dénonce une \"instrumentalisation des commerçants\"",
-     "url": "https://www.midilibre.fr/2026/10/28/loi-casseurs-payeurs-le-texte-approuve-et-considerablement-elargi-au-senat-la-gauche-denonce-une-instrumentalisation-des-commercants-13624106.php",
-     "published_at": "2026-10-28T07:37:54+00:00",
-     "snippet": "Le Sénat a adopté dans la nuit du 27 au 28 octobre, par 229 voix contre 105, le projet de loi \"casseurs payeurs\" nettement durci. La mesure prévoit une solidarité financière de 10 000 euros maximum et la saisie..."
-    }
-   ]
-  },
-  {
    "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
    "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
    "points": [
@@ -339,7 +636,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.01,
+   "score": 8.53,
    "sources": [
     {
      "id": "047bda588bce",
@@ -394,198 +691,6 @@
      "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
      "published_at": "2026-10-26T14:00:32+00:00",
      "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
-    }
-   ]
-  },
-  {
-   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
-   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
-   "points": [
-    {
-     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
-     "sources": [
-      "39fec858ff48",
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
-     "sources": [
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
-     "sources": [
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
-     "sources": [
-      "39fec858ff48"
-     ]
-    },
-    {
-     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
-     "sources": [
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
-     "sources": [
-      "39fec858ff48"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-    "article_id": "6a7d09056f81"
-   },
-   "id": 205,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-28T09:30:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "39fec858ff48",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
-     "published_at": "2026-10-28T09:23:18+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "4c096eb1c11c",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
-     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
-     "published_at": "2026-10-27T11:39:29+00:00",
-     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
-    },
-    {
-     "id": "6a7d09056f81",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
-     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-     "published_at": "2026-10-28T09:23:22+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
-    }
-   ]
-  },
-  {
-   "headline": "Parcoursup : un débat sans vote à l'Assemblée ce mercredi, ce que le gouvernement va présenter et ce que veulent les groupes",
-   "chapo": "Ce mercredi 28 octobre à 17h, les députés débattent de l'avenir de Parcoursup à la demande de Sébastien Lecornu. Le débat ne sera pas suivi d'un vote. Ce que prévoit le gouvernement, et les positions de la gauche, du PS et de la droite.",
-   "points": [
-    {
-     "text": "Le débat, fondé sur l'article 50-1 de la Constitution, ne sera pas suivi d'un vote. Le gouvernement veut « recueillir les propositions de chaque groupe politique », selon Europe 1.",
-     "sources": [
-      "adf3b6a5a2e1",
-      "0dbf936a8d2e"
-     ]
-    },
-    {
-     "text": "Phase 1 : dès la rentrée 2027, une « évolution forte » avec plus de clarté sur les algorithmes : critères de sélection transparents, lettres de motivation justifiées, refus expliqués. Phase 2 : « le remplacement » de la plateforme à la rentrée 2028, selon Le HuffPost.",
-     "sources": [
-      "5da71d6dd1be"
-     ]
-    },
-    {
-     "text": "Le ministre Edouard Geffray : « il faut surtout que les lycéens retiennent qu'on va changer Parcoursup et que leur vie va changer dès cette année », selon Europe 1. Europe 1 note que la charge du remplacement reviendra à la prochaine majorité.",
-     "sources": [
-      "0dbf936a8d2e"
-     ]
-    },
-    {
-     "text": "Mathilde Panot (LFI) : Parcoursup « est devenu une machine à tri social qui laisse 125 000 bacheliers sur le carreau ». Louis Boyard (LFI) : « Si jamais il n'y a pas de vote, alors ce débat 50-1 ne sert à rien », selon LCP.",
-     "sources": [
-      "adf3b6a5a2e1"
-     ]
-    },
-    {
-     "text": "Fatiha Keloua-Hachi (Socialistes) juge que c'est « un bon début » : depuis 2018, dit-elle, « cette discussion, on n'a jamais pu l'avoir », selon LCP.",
-     "sources": [
-      "adf3b6a5a2e1"
-     ]
-    },
-    {
-     "text": "Maxime Michelet (Union des droites pour la République) : les annonces « ne seront probablement pas menées jusqu'à leur terme » et « La procédure Parcoursup doit être abrogée parce qu'elle doit être changée de fond en comble », selon LCP.",
-     "sources": [
-      "adf3b6a5a2e1"
-     ]
-    },
-    {
-     "text": "La question que le gouvernement n'a pas tranchée : que mettre à la place ? Les organisations étudiantes qui veulent sa suppression estiment qu'il faudrait créer 250 000 places à l'université, une option « fort coûteuse pour les finances publiques », selon Le HuffPost.",
-     "sources": [
-      "5da71d6dd1be"
-     ]
-    },
-    {
-     "text": "L'intersyndicale lycéenne appelle à poursuivre la mobilisation dans les prochains jours, selon Europe 1.",
-     "sources": [
-      "0dbf936a8d2e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2025-12/H%C3%A9micycle%20de%20l%27Assembl%C3%A9e%20nationale%2C%20le%2010%20d%C3%A9cembre%202025.jpg?h=c673cd1c&itok=ZI9ej9rJ",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
-    "article_id": "adf3b6a5a2e1"
-   },
-   "id": 207,
-   "section": "institutions",
-   "reviewed_at": "2026-10-28T09:30:15+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "0dbf936a8d2e",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Mouvement des lycéens : le gouvernement mobilisé pour encourager le retour des élèves en classe",
-     "url": "https://www.europe1.fr/international/mouvement-des-lyceens-le-gouvernement-mobilise-pour-encourager-le-retour-des-eleves-en-classe-1188228?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-28T06:40:00+00:00",
-     "snippet": "Face à la colère des lycéens et aux annonces du gouvernement, un grand débat se tiendra ce mercredi à l'Assemblée nationale autour de Parcoursup. Objectif pour l'exécutif : entendre les propositions des oppositions pour améliorer l'affectation des élèves dans le supérieur et permettre le retour des lycéens en cours. C'est l'enjeu numéro un du gouvernement : que les lycéens retournent en cours. Face au mouvement des adolescents, le gouvernement a annoncé plusieurs décisions pour apaiser la colère des élèves, comme le remplacement de Parcoursup ou encore la création de milliers de places supplém"
-    },
-    {
-     "id": "5da71d6dd1be",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "À quoi peut bien servir le débat (sans vote) convoqué par Lecornu sur Parcoursup ?",
-     "url": "https://www.huffingtonpost.fr/politique/article/a-quoi-peut-bien-servir-le-debat-sans-vote-convoque-par-lecornu-sur-parcoursup_346172.html",
-     "published_at": "2026-10-28T05:00:11+00:00",
-     "snippet": "Le chef du gouvernement Sébastien Lecornu a réclamé un débat à l’Assemblée nationale, deux jours après que son gouvernement a promis la fin de Parcoursup."
-    },
-    {
-     "id": "adf3b6a5a2e1",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Parcoursup: suppression, remplacement, réforme... Le débat aura lieu cet après-midi à l'Assemblée nationale",
-     "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
-     "published_at": "2026-10-28T09:23:22+00:00",
-     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 10:07 Un débat sur \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" aura lieu à 17h, ce mercredi 28 octobre, dans l'hémicycle de l'Assemblée nationale, à la demande du gouvernement. La France insoumise déplore l'absence de vote à l'issue de ce débat. C'est un débat sur Parcoursup organisé alors que la mobilisation lycéenne, qui a débuté à la mi-septembre, se poursuit malgré les récentes annonces du gouvernement . Ce mercredi à 17 heures, les députés débattront dans l'hémicycle de \"l'avenir du pr"
     }
    ]
   },
@@ -667,7 +772,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.35,
+   "score": 7.11,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -713,111 +818,6 @@
      "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-on-le-voit-sondage-apres-sondage-que-le-rn-et-lfi-s-installent-dans-un-duel-de-second-tour-denonce-prisca-thevenot-deputee-renaissance_VN-202610250419.html",
      "published_at": "2026-10-25T22:38:45+00:00",
      "snippet": "Après la \"grande réussite\" des manifestations du samedi 24 octobre, les syndicats et figures du mouvement social qui secoue actuellement le pays ont d'ores et déjà annoncé plusieurs nouvelles dates de mobilisation. Le mouvement pourrait s'installer dans la durée."
-    }
-   ]
-  },
-  {
-   "headline": "Budget de la Sécu : rejeté à l'Assemblée, Lecornu face au choix entre 49.3 et ordonnances",
-   "chapo": "Les députés ont rejeté presque à l'unanimité le budget de la Sécurité sociale 2027. Le texte part au Sénat sans majorité claire. Ce que sont ces deux budgets, pourquoi le gouvernement est coincé, et ce que disent les chiffres du déficit.",
-   "points": [
-    {
-     "text": "Les députés ont rejeté vendredi 23 octobre la partie recettes du budget de la Sécurité sociale 2027 par 115 voix contre une, ce qui revient à rejeter le texte en entier, selon L'Humanité. La gauche, l'alliance RN-UDR et l'essentiel des LR ont voté contre ; le reste du camp gouvernemental s'est surtout abstenu.",
-     "sources": [
-      "8feeda54aabf",
-      "8747dc411834"
-     ]
-    },
-    {
-     "text": "Il y a deux budgets : celui de l'État, qui finance « notamment l'école, la justice et la défense », et les comptes de la Sécurité sociale, qui financent « notamment les retraites, les soins et les prestations familiales », selon LCP.",
-     "sources": [
-      "8747dc411834"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu est « piégé par sa promesse initiale : naviguer sans recours au 49.3 ni aux ordonnances », selon Europe 1.",
-     "sources": [
-      "5dd8b17855ef"
-     ]
-    },
-    {
-     "text": "Le 49.3 permettrait de négocier des concessions pour éviter la censure, mais si l'Assemblée renversait le gouvernement, « le budget s'effondrerait avec lui », selon Europe 1.",
-     "sources": [
-      "5dd8b17855ef"
-     ]
-    },
-    {
-     "text": "Les ordonnances permettraient d'appliquer le texte sans vote si le Parlement ne s'est pas prononcé dans les délais ; même en cas de censure, la copie budgétaire resterait en vigueur. Les oppositions pourraient dénoncer « un contournement délibéré du Parlement » et les syndicats rejeter des mesures imposées sans concertation, selon Europe 1.",
-     "sources": [
-      "5dd8b17855ef"
-     ]
-    },
-    {
-     "text": "Le déficit de la Sécurité sociale est passé de 15,3 milliards d'euros en 2024 à 21,6 milliards en 2025, et devrait atteindre 21,8 milliards en 2026, « le déficit le plus élevé depuis 2012, hors période de crise sanitaire », selon la tribune de Christophe Daunique dans Atlantico, qui s'appuie sur le rapport de la Cour des comptes du 20 octobre.",
-     "sources": [
-      "b76d6934dc3c"
-     ]
-    },
-    {
-     "text": "La loi de financement pour 2026 prévoyait une réduction du déficit à 19,4 milliards d'euros. La prévision de croissance pour 2026 a été ramenée de 1 % à 0,5 %, selon la même tribune dans Atlantico.",
-     "sources": [
-      "b76d6934dc3c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.humanite.fr/wp-content/uploads/2026/10/rejet-budget-secu.jpg",
-    "source": "L'Humanité",
-    "article_url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
-    "article_id": "8feeda54aabf"
-   },
-   "id": 198,
-   "section": "institutions",
-   "reviewed_at": "2026-10-27T18:22:34+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 7.36,
-   "sources": [
-    {
-     "id": "5dd8b17855ef",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Budget de la Sécurité sociale : face au blocage, l'exécutif hésite entre 49.3 et ordonnances",
-     "url": "https://www.europe1.fr/politique/budget-de-la-securite-sociale-face-au-blocage-lexecutif-hesite-entre-493-et-ordonnances-1186089?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-27T11:30:00+00:00",
-     "snippet": "Trois semaines après le lancement du marathon budgétaire, le rejet massif du volet recettes de la Sécurité sociale à l'Assemblée plonge le gouvernement dans l'impasse. Alors que le texte arrive au Sénat sans majorité évidente, Sébastien Lecornu se retrouve coincé par son engagement de ne pas recourir au 49.3 ni aux ordonnances, deux options juridiques hautement risquées qui menacent de provoquer une double crise politique et sociale. Trois semaines après son lancement, le marathon budgétaire vient de connaître son premier véritable accident de parcours. Vendredi dernier, les députés ont rejeté"
-    },
-    {
-     "id": "8747dc411834",
-     "name": "LCP",
-     "kind": "media",
-     "title": "PLF et PLFSS: pourquoi vote-t-on deux budgets en France?",
-     "url": "https://lcp.fr/actualites/plf-et-plfss-pourquoi-vote-t-on-deux-budgets-en-france-444233",
-     "published_at": "2026-10-26T14:00:32+00:00",
-     "snippet": "Par Aglaée Marchand , le Lundi 26 octobre 2026 à 06:50 Pourquoi les députés examinent-ils deux textes budgétaires chaque automne ? Le PLF, projet de loi de finances, fixe le budget de l’État, tandis que le PLFSS, projet de loi de financement de la Sécurité sociale, porte sur le financement de la Sécurité sociale. LCP décrypte les différences entre ces deux textes essentiels. Cette année encore, les discussions budgétaires sont tumultueuses à l'Assemblée nationale. Après l'avoir largement vidé de sa substance, les députés ont rejeté vendredi à la quasi-unanimité le projet de budget de la Sécuri"
-    },
-    {
-     "id": "8feeda54aabf",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "L’Assemblée rejette à la quasi-unanimité le budget de la Sécurité sociale pour 2027",
-     "url": "https://www.humanite.fr/politique/assemblee-nationale/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-securite-sociale-pour-2027",
-     "published_at": "2026-10-23T12:57:34+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b76d6934dc3c",
-     "name": "Atlantico",
-     "kind": "media",
-     "title": "PLFSS 2027 : Le gouvernement serre les dépenses mais esquive les vrais arbitrages",
-     "url": "https://atlantico.fr/article/decryptage/plfss-2027-le-gouvernement-serre-les-depenses-mais-esquive-les-vrais-arbitrages-daunique",
-     "published_at": "2026-10-27T10:55:00+00:00",
-     "snippet": "Le 20 octobre dernier, la Cour des comptes a publié un nouveau rapport consacré à la situation financière de la Sécurité sociale, à l'occasion de l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. Elle constate notamment que les finances sociales demeurent profondément déséquilibrées, en dépit des mesures prises ces dernières années."
     }
    ]
   },
@@ -893,7 +893,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.68,
+   "score": 5.69,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1005,7 +1005,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.68,
+   "score": 5.69,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1105,7 +1105,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.52,
+   "score": 4.63,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -1210,7 +1210,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.0,
+   "score": 4.26,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -1320,7 +1320,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.36,
+   "score": 4.82,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -1445,7 +1445,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.38,
+   "score": 3.93,
    "sources": [
     {
      "id": "1a0f78b60ef6",
@@ -1561,7 +1561,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.29,
+   "score": 3.86,
    "sources": [
     {
      "id": "2872055df568",
@@ -1653,7 +1653,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.29,
+   "score": 3.86,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1772,7 +1772,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.37,
+   "score": 3.02,
    "sources": [
     {
      "id": "12deaabb6ff0",
@@ -1876,7 +1876,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 2.95,
    "sources": [
     {
      "id": "6533d50f040f",
@@ -1986,7 +1986,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.21,
+   "score": 2.89,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -2101,7 +2101,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.76,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -2241,7 +2241,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.76,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -2373,7 +2373,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.76,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -2500,7 +2500,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.76,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -2632,7 +2632,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.26,
+   "score": 3.01,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -2749,7 +2749,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.26,
+   "score": 3.01,
    "sources": [
     {
      "id": "af33e58914d4",
@@ -2786,1058 +2786,6 @@
      "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D",
      "published_at": "2026-10-24T14:07:35+00:00",
      "snippet": "Le texte autorise la vente de stocks stratégiques pour un volume maximum de 1,6 million de mètres cubes. Le gouvernement de Sébastien Lecornu espère ainsi diminuer de 12 à 18 centimes par litre le prix du gazole."
-    }
-   ]
-  },
-  {
-   "headline": "Manifestations du 24 octobre : dispositif massif, interdictions de cortèges et tracé parisien contesté",
-   "chapo": "Une semaine après le 17 octobre, une nouvelle journée de mobilisation a lieu samedi dans toute la France, avec 70 000 policiers et gendarmes. Les autorités n'autorisent que les manifestations syndicales. À Paris, la justice administrative a validé le parcours de la préfecture, que l'intersyndicale conteste.",
-   "points": [
-    {
-     "text": "Laurent Nuñez annonce 70 000 policiers et gendarmes. Il alerte sur « de nombreux appels de la mouvance ultragauche et de l'extrême gauche radicale » à « s'en prendre à des bâtiments publics » et à commettre des « pillages », selon Le JDD.",
-     "sources": [
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Le dispositif compte le RAID, le GIGN, la BRI à Paris, une vingtaine de blindés Centaure, 15 lanceurs d'eau, des hélicoptères et des drones. Les unités d'élite n'ont pas vocation à assurer le maintien de l'ordre, selon Le JDD. Nuñez : « On sera absolument intraitables ».",
-     "sources": [
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, « les centres-villes se barricadent » et les manifestations de la gauche et de l'extrême gauche pourraient réunir « jusqu'à un demi-million de personnes », selon certaines estimations policières. Pour le journal, Emmanuel Macron « n'a pas le droit à l'erreur » après le 17 octobre.",
-     "sources": [
-      "115735dc9542"
-     ]
-    },
-    {
-     "text": "Selon Libération, les préfets ont interdit les cortèges dans des dizaines de villes. Les syndicats ont déposé vendredi des demandes en bonne et due forme, ce qui a sauvé des défilés, notamment à Marseille.",
-     "sources": [
-      "5084d4a40f4f"
-     ]
-    },
-    {
-     "text": "À Paris, le parcours négocié jeudi entre la Bastille et la Nation a été interdit par la préfecture de police, selon Le Progrès. Le tribunal administratif a rejeté le recours : le parcours porte d'Italie – porte de Vincennes reste le seul autorisé, selon Le Monde.",
-     "sources": [
-      "39a8e215b8c0",
-      "2a7cc723d352"
-     ]
-    },
-    {
-     "text": "Selon L'Humanité, la CGT Île-de-France dénonce « un tour de force du gouvernement » : la préfecture a transmis l'arrêté d'interdiction à 18 heures, « afin de nous empêcher tout recours ». L'Unef parle d'un « contexte global de répression et d'attaques sur nos libertés fondamentales ».",
-     "sources": [
-      "40523eb0489c"
-     ]
-    },
-    {
-     "text": "Sophie Binet (CGT) : « C'est très grave, la liberté de manifester, c'est le fondement de la démocratie », selon L'Humanité. Laurent Nuñez rappelle qu'il revient à chaque préfet d'interdire un cortège « en cas de menace pour l'ordre public », selon Le JDD.",
-     "sources": [
-      "40523eb0489c",
-      "3e6025b436b2"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu : « Le niveau de menace reste encore élevé demain », selon BFMTV. Libération évoque plus de 700 mobilisations prévues par les gilets jaunes, dont 500 manifestations.",
-     "sources": [
-      "e16dd7579ab5",
-      "5084d4a40f4f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 7
-   },
-   "image": {
-    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/23/13/000_d47w472.jpg?VersionId=uJLoBoBrpbxxTf708ZFf3PkU6Y9SrGuX",
-    "source": "Le JDD",
-    "article_url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
-    "article_id": "3e6025b436b2"
-   },
-   "id": 167,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:58:34+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 4.22,
-   "sources": [
-    {
-     "id": "115735dc9542",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre : après le fiasco, l’épreuve de vérité pour le gouvernement",
-     "url": "https://www.lefigaro.fr/actualite-france/manifestations-du-24-octobre-apres-le-fiasco-l-epreuve-de-verite-pour-le-gouvernement-20261023",
-     "published_at": "2026-10-23T17:25:46+00:00",
-     "snippet": "DÉCRYPTAGE - À l’heure de l’« acte II » de la fronde sociale, les centres-villes se barricadent, des manifestations sont interdites dans plusieurs villes et 70.000 membres des forces de l’ordre sont mobilisés. Emmanuel Macron sait qu’il n’a pas le droit à l’erreur après les violences du 17 octobre."
-    },
-    {
-     "id": "2a7cc723d352",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "EN DIRECT, manifestations du 24 octobre : à Paris, le parcours entre la porte d’Italie et la porte de Vincennes reste le seul autorisé, après le rejet d’un recours par le tribunal administratif",
-     "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
-     "published_at": "2026-10-24T09:10:59+00:00",
-     "snippet": "Les organisateurs avaient déposé un référé au tribunal administratif, dénonçant un itinéraire « imposé » alors que préfecture et intersyndicale s’étaient mises d’accord jeudi sur un cortège entre Bastille et Nation."
-    },
-    {
-     "id": "39a8e215b8c0",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Social. Mobilisation du 24 octobre : la manifestation anti-RN s'élance à Orléans, le tracé confirmé à Paris",
-     "url": "https://www.leprogres.fr/social/2026/10/24/mobilisation-du-24-octobre-une-nouvelle-journee-de-manifestations-sous-haute-tension",
-     "published_at": "2026-10-24T09:06:00+00:00",
-     "snippet": "De nombreuses manifestations sont prévues partout en France ce samedi sur fond de crise sociale et de contestation lycéenne. Les autorités entendent déployer un dispositif de sécurité XXL pour éviter de nouvelles violences et pillages comme ceux survenus le 17 octobre. Suivez l'évolution de la situation dans ce direct."
-    },
-    {
-     "id": "3e6025b436b2",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre : blindés, unités d’élite… Nuñez mobilise 70 000 policiers et gendarmes",
-     "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-blindes-unites-delite-nunez-mobilise-70-000-policiers-et-gendarmes-186792",
-     "published_at": "2026-10-23T12:09:02+00:00",
-     "snippet": "À la veille des manifestations de samedi, Laurent Nuñez alerte sur les appels aux pillages et aux dégradations. Des blindés et des unités d’élite renforceront le dispositif de sécurité, une semaine après les violences du 17 octobre."
-    },
-    {
-     "id": "40523eb0489c",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "24 octobre : le recours des syndicats rejeté, le cortège parisien partira de la porte d’Italie, la CGT dénonce « un tour de force du gouvernement »",
-     "url": "https://www.humanite.fr/-/-/24-octobre-le-recours-des-syndicats-rejete-le-cortege-parisien-partira-de-la-porte-ditalie-la-cgt-denonce-un-tour-de-force-du-gouvernement",
-     "published_at": "2026-10-24T09:34:22+00:00",
-     "snippet": "La justice administrative a rejeté le recours des organisations syndicales, qui contestaient le parcours imposé par la préfecture de police entre la porte d’Italie et la porte de Vincennes. « Nous dénonçons fermement cette décision, qui s’inscrit dans un contexte global de répression et d’attaques sur nos libertés fondamentales », déplore, dans un communiqué l’Unef. Jeudi, les syndicats et…"
-    },
-    {
-     "id": "5084d4a40f4f",
-     "name": "Libération",
-     "kind": "media",
-     "title": "EN DIRECT – Mouvement social : le tribunal administratif de Paris valide le parcours de la préfecture, de porte d’Italie à porte de Vincennes",
-     "url": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/",
-     "published_at": "2026-10-24T09:14:58+00:00",
-     "snippet": "Une semaine après les manifestations du 17 octobre marquées par des violences et des pillages, les préfets ont interdit les cortèges dans des dizaines de villes. A Paris, l’itinéraire, modifié par la préfecture et validé ce matin, est contesté par l’intersyndicale."
-    },
-    {
-     "id": "e16dd7579ab5",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "24 octobre: \"Le niveau de menace reste encore élevé demain\", déclare Sébastien Lecornu dans la Haute-Vienne",
-     "url": "https://www.bfmtv.com/politique/video-24-octobre-le-niveau-de-menace-reste-encore-eleve-demain-declare-sebastien-lecornu-dans-la-haute-vienne_VN-202610230856.html",
-     "published_at": "2026-10-23T20:25:32+00:00",
-     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République va recevoir ce vendredi 23 octobre les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. Il se rendra ensuite auprès des forces de l'ordre à 24 heures des manifestations du 24 octobre, particulièrement tendues après les violences de la semaine dernière."
-    }
-   ]
-  },
-  {
-   "headline": "Limoges : Lecornu promet que l'État financera la reconstruction de la mairie incendiée",
-   "chapo": "Vendredi, le Premier ministre a promis à Limoges une reconstruction « à l'identique » de la mairie incendiée le 17 octobre, sans coût pour le contribuable local, via une procédure accélérée inspirée de Notre-Dame. Le maire LR, très critique envers l'État après l'incendie, était à ses côtés.",
-   "points": [
-    {
-     "text": "Sébastien Lecornu : « L'État sera là » pour reconstruire « à l'identique » la mairie de Limoges, en procédure accélérée « Notre-Dame », selon Europe 1.",
-     "sources": [
-      "dd69003c943f"
-     ]
-    },
-    {
-     "text": "Il assure : « Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville », aux côtés du maire Guillaume Guérin (LR), selon Europe 1 et CNews.",
-     "sources": [
-      "dd69003c943f",
-      "c373965b94e1"
-     ]
-    },
-    {
-     "text": "Le maire s'était montré très critique envers l'État au lendemain du sinistre : il avait réclamé un « plan Marshall » et une « pluie de millions » pour financer la remise en état, selon CNews.",
-     "sources": [
-      "c373965b94e1"
-     ]
-    },
-    {
-     "text": "Selon ici (France Bleu), des élus de gauche de Haute-Vienne boycottent la venue du Premier ministre. Le député socialiste Stéphane Delautrette dénonce un protocole sans temps d'échange avec les élus, hormis le maire de Limoges.",
-     "sources": [
-      "d8e1c4d380c6"
-     ]
-    },
-    {
-     "text": "Un habitant de Limoges déclare à RMC : « J'attends une reconnaissance de faute, car tout ce qui s'est passé à Limoges et ailleurs en France, c'est la faute du gouvernement ».",
-     "sources": [
-      "be6571edca16"
-     ]
-    },
-    {
-     "text": "Le classement du bâtiment aux Monuments historiques doit permettre à l'État de prendre en charge 80 % du montant des réparations, selon une source proche du dossier citée par l'AFP. Une « conférence des financeurs » attirera du mécénat public et privé, avec une exonération fiscale des dons portée à 75 % dans le budget 2027, selon Europe 1.",
-     "sources": [
-      "dd69003c943f"
-     ]
-    },
-    {
-     "text": "La responsabilité civile « de celles et ceux qui ont brûlé » sera mise à contribution, selon le Premier ministre. Un article consacré à la mairie de Limoges sera ajouté au projet de loi Logement pour accélérer le chantier, selon CNews.",
-     "sources": [
-      "c373965b94e1"
-     ]
-    },
-    {
-     "text": "Interrogé sur la responsabilité de l'État dans l'intervention tardive de la police, Sébastien Lecornu répond : « je crois encore à la responsabilité individuelle, ceux qui sont responsables ce sont celles et ceux qui ont mis le feu », selon BFMTV.",
-     "sources": [
-      "dce84de59499"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, Limoges est placée sous couvre-feu, et de nombreux arrêtés ont été pris en vue de la mobilisation de samedi.",
-     "sources": [
-      "7c708e9636b2"
-     ]
-    },
-    {
-     "text": "Selon Le Monde, des maires de droite, David Lisnard en tête, accusent « l'ultragauche française » établie sur le plateau de Millevaches d'avoir mis le feu à la mairie. Dans une tribune, une centaine d'élus locaux répondent : « Nous refusons les amalgames et les caricatures qu'on fait de notre territoire ».",
-     "sources": [
-      "6497706b05ca"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 7,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/24/07/000_d3mb6g9_2_1_6adc3f28529d5.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/politique/limoges-letat-sera-la-pour-reconstruire-la-mairie-a-lidentique-dit-sebastien-lecornu-1177827?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "dd69003c943f"
-   },
-   "id": 166,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:58:37+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.81,
-   "sources": [
-    {
-     "id": "6497706b05ca",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Incendie de la mairie de Limoges : « Nous, élus du plateau de Millevaches, refusons les amalgames et les caricatures qu’on fait de notre territoire »",
-     "url": "https://www.lemonde.fr/idees/article/2026/10/23/incendie-de-la-mairie-de-limoges-nous-elus-du-plateau-de-millevaches-refusons-les-amalgames-et-les-caricatures-qu-on-fait-de-notre-territoire_6799099_3232.html",
-     "published_at": "2026-10-23T15:00:31+00:00",
-     "snippet": "Des maires de droite, David Lisnard en tête, accusent « l’ultragauche française » établie dans ce terroir rural d’avoir mis le feu à l’hôtel de ville du chef-lieu de la Haute-Vienne, le 17 octobre. Dans une tribune au « Monde », une centaine d’élus locaux dénoncent des propos infondés."
-    },
-    {
-     "id": "7c708e9636b2",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "A Limoges sous couvre-feu, Sébastien Lecornu promet la reconstruction de l’hôtel de ville incendié le 17 octobre et un dispositif sécuritaire fort",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/24/a-limoges-sous-couvre-feu-sebastien-lecornu-promet-la-reconstruction-de-l-hotel-de-ville-incendie-le-17-octobre-et-un-dispositif-securitaire-fort_6799668_823448.html",
-     "published_at": "2026-10-24T06:56:32+00:00",
-     "snippet": "Le premier ministre s’est engagé, vendredi, à la reconstruction à l’identique de l’édifice dans le cadre d’une « procédure Notre-Dame ». De nombreux arrêtés ont été pris en vue de la mobilisation de samedi."
-    },
-    {
-     "id": "be6571edca16",
-     "name": "RMC",
-     "kind": "media",
-     "title": "\"Reconnaissance de faute\": élus et habitants de Limoges attendent de pied ferme Sébastien Lecornu, six jours après l'incendie de la mairie",
-     "url": "https://rmc.bfmtv.com/actualites/politique/reconnaissance-de-faute-elus-et-habitants-de-limoges-attendent-de-pied-ferme-sebastien-lecornu-six-jours-apres-l-incendie-de-la-mairie_AV-202610230522.html",
-     "published_at": "2026-10-23T12:04:14+00:00",
-     "snippet": "Le Premier ministre Sébastien Lecornu est attendu ce vendredi soir à Limoges, six jours après l'incendie ayant détruit partiellement l'Hôtel de ville, en marge des manifestations du 17 octobre. \"J'attends une reconnaissance de faute, car tout ce qui s'est passé à Limoges et ailleurs en France, c'est la faute du gouvernement\", lance ce Limougeaud au micro de RMC."
-    },
-    {
-     "id": "c373965b94e1",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Incendie de la mairie de Limoges : Sébastien Lecornu promet que «le contribuable local ne mettra pas un euro» dans la reconstruction du bâtiment",
-     "url": "https://www.cnews.fr/france/2026-10-24/incendie-de-la-mairie-de-limoges-sebastien-lecornu-promet-que-le-contribuable",
-     "published_at": "2026-10-24T06:14:27+00:00",
-     "snippet": "Après l’incendie de la mairie de Limoges lors de la mobilisation du 17 octobre, Sébastien Lecornu a annoncé vendredi soir que l’État prendrait en charge la reconstruction du bâtiment à l’identique. Le gouvernement s’engage à financer la reconstruction de la mairie de Limoges, incendiée lors de la mobilisation du 17 octobre. En déplacement sur place vendredi soir, le Premier ministre Sébastien Lecornu a assuré que les habitants de la commune n’auraient pas à supporter le coût des travaux. L’exécutif prévoit une reconstruction à l’identique, selon une procédure accélérée inspirée de celle mise e"
-    },
-    {
-     "id": "d8e1c4d380c6",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Sébastien Lecornu à Limoges : des élus de gauche boycottent le Premier ministre, faute de temps d'échange prévu",
-     "url": "https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/sebastien-lecornu-a-limoges-des-elus-de-gauche-boycottent-le-premier-ministre-faute-de-temps-d-echange-prevu-5060486?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-23T14:39:23+00:00",
-     "snippet": "Des élus de Haute-Vienne annoncent ce vendredi boycotter Sébastien Lecornu, attendu à Limoges dans la soirée. Parmi eux, le député socialiste de Haute-Vienne Stéphane Delautrette dénonce le protocole prévu où aucun temps d'échanges avec les élus n'est prévu, à part avec le maire de Limoges."
-    },
-    {
-     "id": "dce84de59499",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Reconstruction de la mairie de Limoges incendiée: \"Le contribuable municipal ne sera pas sollicité\", assure Sébastien Lecornu",
-     "url": "https://www.bfmtv.com/politique/video-reconstruction-de-la-mairie-de-limoges-incendiee-le-contribuable-municipal-ne-sera-pas-sollicite-assure-sebastien-lecornu_VN-202610230857.html",
-     "published_at": "2026-10-23T20:27:52+00:00",
-     "snippet": "S'exprimant depuis Limoges (Haute-Vienne), Sébastien Lecornu est revenu sur l'incendie de la mairie de la ville le week-end dernier. Interrogé sur la responsabilité de l'État dans l'intervention tardive de la police, il a répondu: \"je crois encore à la responsabilité individuelle ceux qui sont responsables ce sont celles et ceux qui ont mis le feu\"."
-    },
-    {
-     "id": "dd69003c943f",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Limoges: «L'État sera là» pour reconstruire la mairie «à l'identique», dit Sébastien Lecornu",
-     "url": "https://www.europe1.fr/politique/limoges-letat-sera-la-pour-reconstruire-la-mairie-a-lidentique-dit-sebastien-lecornu-1177827?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-24T03:30:00+00:00",
-     "snippet": "\"L'État sera là\" pour reconstruire \"à l'identique\" la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"L'État sera là\" pour reconstruire \"à l'identique\", en procédure accélérée \"Notre-Dame\", la mairie de Limoges incendiée lors de la mobilisation du 17 octobre, a déclaré le Premier ministre Sébastien Lecornu à l'issue de sa visite de l'édifice vendredi soir. \"Le contribuable local, communal, ne mettra pas un euro dans la reconstruction de cet hôtel de ville\", a assuré devant la "
-    }
-   ]
-  },
-  {
-   "headline": "Moody's maintient la note de la France à Aa3 : ce que ça change pour la dette",
-   "chapo": "Moody's n'a pas dégradé la note de la France, contrairement à ce qu'attendaient la plupart des analystes, mais garde une perspective négative. Une note pèse sur le taux auquel l'État emprunte. Le gouvernement y voit un signal positif, des économistes jugent que la pression reste forte.",
-   "points": [
-    {
-     "text": "Selon Boursorama, Moody's a décidé vendredi de maintenir la note de crédit de la France à Aa3, assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à une dégradation à A1.",
-     "sources": [
-      "10922cda0006"
-     ]
-    },
-    {
-     "text": "À quoi sert une note ? Selon Europe 1, Moody's, S&P et Fitch évaluent la capacité d'un emprunteur, un État comme une grande entreprise, à rembourser ses dettes. Leur note sert d'« indicateur de confiance pour les investisseurs du monde entier ».",
-     "sources": [
-      "04d6bb28b725"
-     ]
-    },
-    {
-     "text": "Quel effet sur le coût de la dette ? Toujours selon Europe 1, quand la note baisse, le risque perçu augmente et l'État doit offrir des taux plus élevés pour convaincre les marchés. De nombreux fonds d'investissement appliquent aussi des règles qui limitent les placements en dessous d'un certain seuil de notation.",
-     "sources": [
-      "04d6bb28b725"
-     ]
-    },
-    {
-     "text": "Les taux sont déjà élevés. Selon Le Monde, le rendement des obligations françaises à 10 ans a atteint jeudi un niveau inédit depuis juin 2002, frôlant les 5,14 %. Boursorama ajoute que les coûts d'emprunt de la France dépassent déjà ceux de pays moins bien notés comme l'Italie.",
-     "sources": [
-      "4068d5eaeee3",
-      "10922cda0006"
-     ]
-    },
-    {
-     "text": "Moody's explique que sa note « part de l’hypothèse qu’un budget 2027 réduisant le déficit public sera adopté » et que les tensions sociales se modéreront. Elle souligne « le risque accru que la fragmentation du paysage politique français continue de nuire au fonctionnement des institutions législatives », rapporte Le Monde.",
-     "sources": [
-      "4068d5eaeee3"
-     ]
-    },
-    {
-     "text": "Selon CNews, le Premier ministre Sébastien Lecornu a salué une décision qui « déjoue les pronostics déclinistes ». CNews y voit « une bonne nouvelle » puisqu'une dégradation était attendue.",
-     "sources": [
-      "090b71759789"
-     ]
-    },
-    {
-     "text": "Sur franceinfo, le ministre de l'Économie Roland Lescure y voit « un avertissement à tous ceux qui veulent s'éloigner de la copie budgétaire », et « un avertissement pour ceux qui jouent la pagaille ».",
-     "sources": [
-      "b22c82eacea0"
-     ]
-    },
-    {
-     "text": "Des économistes cités par Le Monde s'attendaient à l'inverse. Pour Éric Dor (IÉSEG), une dégradation était « très plausible ». Mathieu Plane (OFCE) parle d'un « cocktail Molotov pour les marchés, qui considèrent que la France devient risquée ».",
-     "sources": [
-      "4068d5eaeee3"
-     ]
-    },
-    {
-     "text": "Anthony Morlet-Lavidalie, économiste chez Rexecode, cité par Europe 1 : « La capacité de la France à se réformer [...] est extrêmement faible ». Le prochain rendez-vous est la mise à jour de la note par S&P le 27 novembre.",
-     "sources": [
-      "04d6bb28b725"
-     ]
-    },
-    {
-     "text": "Le débat gagne la campagne présidentielle. Selon L'Obs, il a été lancé avant le 17 octobre par Jean-Luc Mélenchon, avec sa proposition de « congeler » une partie de la dette publique.",
-     "sources": [
-      "feef648f4a5e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2024/04/26/302/0/4588/2294/644/322/60/0/0b14626_5311719-01-06.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
-    "article_id": "4068d5eaeee3"
-   },
-   "id": 170,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T10:57:30+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.64,
-   "sources": [
-    {
-     "id": "04d6bb28b725",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Dette française : pas de dégradation de la note chez Moody's, mais la pression reste forte",
-     "url": "https://www.europe1.fr/economie/dette-francaise-pas-de-degradation-de-la-note-chez-moodys-mais-la-pression-reste-forte-1177134",
-     "published_at": "2026-10-23T23:03:00+00:00",
-     "snippet": "L'agence de notation Moody's n'a pas dégradé la note de la France, maintenue à Aa3, mais l'assortit d'une perspective négative. L'agence était critiquée pour sa supposée mansuétude envers la France, a"
-    },
-    {
-     "id": "090b71759789",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Dette publique : l'agence Moody's maintient la note souveraine de la France, mais avec une perspective négative",
-     "url": "https://www.cnews.fr/france/2026-10-23/dette-publique-lagence-moodys-maintient-la-note-souveraine-de-la-france-mais-avec",
-     "published_at": "2026-10-23T23:01:00+00:00",
-     "snippet": "L'agence de notation Moody's a annoncé ce vendredi soir maintenir la note de la dette souveraine française à Aa3, mais avec une perspective négative. Sébastien Lecornu a salué cette décision qui «déjo"
-    },
-    {
-     "id": "10922cda0006",
-     "name": "Boursorama",
-     "kind": "media",
-     "title": "Moody's maintient la note souveraine de la France à \"Aa3\"",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-52e9ef42bff0b0b16c1ab1b8c10ca511",
-     "published_at": "2026-10-24T00:29:00+00:00",
-     "snippet": "L'agence de notation Moody's a décidé vendredi de maintenir la note de crédit de la France à \"Aa3\", assortie d'une perspective négative, alors que la plupart des analystes s'attendaient à une dégradat"
-    },
-    {
-     "id": "4068d5eaeee3",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "L’agence Moody’s maintient la note souveraine de la France à Aa3, mais y assortit une perspective négative",
-     "url": "https://www.lemonde.fr/economie/article/2026/10/23/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-mais-y-assortit-une-perspective-negative_6799147_3234.html",
-     "published_at": "2026-10-23T21:22:46+00:00",
-     "snippet": "Cette décision « déjoue les pronostics déclinistes de nombreux “experts” et de ceux qui spéculent sur la dette française », a salué le premier ministre, Sébastien Lecornu."
-    },
-    {
-     "id": "b22c82eacea0",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Un avertissement \"pour ceux qui jouent la pagaille\", réagit le ministre de l'Economie Roland Lescure après le maintien de la note de la France par l'agence Moody's",
-     "url": "https://www.franceinfo.fr/economie/budget/un-avertissement-pour-ceux-qui-jouent-la-pagaille-reagit-le-ministre-de-l-economie-roland-lescure-apres-le-maintien-de-la-note-de-la-france-par-l-agence-moody-s_8251963.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-24T06:22:51+00:00",
-     "snippet": "L'agence Moody's a annoncé vendredi soir maintenir la note souveraine de la France à Aa3, avec perspective négative."
-    },
-    {
-     "id": "feef648f4a5e",
-     "name": "L'Obs",
-     "kind": "media",
-     "title": "Comment régler le problème de la dette ? « Pas besoin de faire la révolution, on a déjà des outils »",
-     "url": "https://www.nouvelobs.com/economie/20261023.OBS119461/comment-regler-le-probleme-de-la-dette-pas-besoin-de-faire-la-revolution-on-a-deja-des-outils.html",
-     "published_at": "2026-10-23T15:32:20+00:00",
-     "snippet": "Les taux auxquels la France emprunte connaissent une forte poussée, faisant craindre une crise de la dette publique. Alors que l’agence Moody’s doit révéler ce vendredi la note qu’elle donne au pays, l’économiste Clara Leonard analyse la manière dont ce sujet prend corps dans la campagne."
-    }
-   ]
-  },
-  {
-   "headline": "Attaque de Trappes : les propos de Macron sur un « premier » acte terroriste raciste font polémique",
-   "chapo": "Vendredi 23 octobre, un homme a ouvert le feu à Trappes et La Verrière (Yvelines), faisant un mort et cinq blessés. Le Parquet national antiterroriste est saisi. Les responsables politiques condamnent l'attaque unanimement, mais la formule d'Emmanuel Macron sur une « première fois » est contestée à gauche comme à droite. L'Élysée a précisé sa pensée.",
-   "points": [
-    {
-     "text": "Un homme de 39 ans a ouvert le feu à l'arme automatique depuis un véhicule à Trappes puis à La Verrière, faisant un mort et cinq blessés, dont une fille de 12 ans. Il a été interpellé et placé en garde à vue, et le Parquet national antiterroriste s'est saisi, selon L'Express.",
-     "sources": [
-      "1792233a8e91"
-     ]
-    },
-    {
-     "text": "Selon LCP, le Pnat enquête pour « assassinat en relation avec une entreprise terroriste » commis à raison de l'appartenance vraie ou supposée à une « race », une ethnie, une nation ou une religion. Le ministre Laurent Nuñez parle d'un « acte extrêmement grave » à « caractère terroriste », dont les motivations restent à déterminer, selon L'Express.",
-     "sources": [
-      "dfba09d01947",
-      "1792233a8e91"
-     ]
-    },
-    {
-     "text": "Selon Le JDD, la condamnation est unanime « du gouvernement à La France insoumise, en passant par la droite ». Gérard Larcher parle d'un « drame inacceptable », Gérald Darmanin d'une « attaque ignoble », Mathilde Panot d'« horreur et effroi ».",
-     "sources": [
-      "1824e46a5dcc"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron, à Trappes : « Ce qui s'est passé aujourd'hui, c'est un attentat terroriste, raciste ». Il dit aussi : « C'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes, nos enfants, en raison de leur couleur de peau ou de la religion qu'on leur donne », selon L'Obs. Il invite à « ne pas tomber dans le piège d'un camp contre l'autre », selon L'Express.",
-     "sources": [
-      "c0127ab5f68a",
-      "1792233a8e91"
-     ]
-    },
-    {
-     "text": "Il est accusé d'« oublier » ou de « nier la réalité » : L'Obs cite les attentats de Mohamed Merah en 2012, de l'hypercasher en 2015, l'assassinat du père Hamel en 2016 et l'attaque de la basilique de Nice en 2020.",
-     "sources": [
-      "c0127ab5f68a"
-     ]
-    },
-    {
-     "text": "Jordan Bardella (RN) : « ce n'est pas la première fois que des Français sont visés et tués. Jérôme Guedj (PS) juge la déclaration « factuellement fausse donc politiquement problématique ». François-Xavier Bellamy (LR) appelle à ne pas « nier soudain la réalité des larmes versées par la France », selon L'Obs. Valeurs actuelles titre sur un « tollé ».",
-     "sources": [
-      "c0127ab5f68a",
-      "ae3c74ceb410"
-     ]
-    },
-    {
-     "text": "L'Élysée précise que le chef de l'État parlait « bien évidemment du premier attentat raciste sur le fondement de la couleur de peau commis dans [le] pays », selon Le Monde.",
-     "sources": [
-      "3a9eb3ef722f"
-     ]
-    },
-    {
-     "text": "À gauche, Jean-Luc Mélenchon : « Le racisme tue ». Olivier Faure (PS) appelle à mesurer la gravité des discours qui banalisent le racisme. À droite, Marine Le Pen évoque « un acte barbare dont les motivations devront être établies », Bruno Retailleau une « violence terrifiante », Gabriel Attal : « La haine doit cesser », selon LCP.",
-     "sources": [
-      "dfba09d01947"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://www.lexpress.fr/resizer/v2/366JQ7GVYRGHZD3LPWELAHVWHE.jpg?auth=8dccf34e948fd2524f7602fc661cd6b2ec85117b6e6a7c7a4455ae2f45124af7&smart=true&width=5000&height=3333",
-    "source": "L'Express",
-    "article_url": "https://www.lexpress.fr/france/tirs-a-trappes-et-a-la-verriere-ce-que-lon-sait-du-crime-terroriste-qui-a-fait-un-mort-et-quatre-RHGV3EISV5F4DABNLNDCE3MD54/",
-    "article_id": "1792233a8e91"
-   },
-   "id": 164,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:58:39+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.61,
-   "sources": [
-    {
-     "id": "1792233a8e91",
-     "name": "L'Express",
-     "kind": "media",
-     "title": "Tirs à Trappes et à La Verrière : ce que l'on sait de l'\"attentat terroriste raciste\" qui a fait un mort et cinq blessés",
-     "url": "https://www.lexpress.fr/france/tirs-a-trappes-et-a-la-verriere-ce-que-lon-sait-du-crime-terroriste-qui-a-fait-un-mort-et-quatre-RHGV3EISV5F4DABNLNDCE3MD54/",
-     "published_at": "2026-10-23T18:18:44+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "1824e46a5dcc",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Attaque terroriste à Trappes : de Mélenchon à Bardella, la condamnation unanime",
-     "url": "https://www.lejdd.fr/politique/attaque-terroriste-a-trappes-de-melenchon-a-bardella-la-condamnation-unanime-186804",
-     "published_at": "2026-10-23T14:59:54+00:00",
-     "snippet": "De Sébastien Lecornu à Jean-Luc Mélenchon, en passant par Gérard Larcher et Jordan Bardella, les responsables politiques ont exprimé leur soutien aux victimes et salué l’intervention des forces de l’ordre."
-    },
-    {
-     "id": "3a9eb3ef722f",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Attaque meurtrière de Trappes : Emmanuel Macron fait polémique en évoquant un « premier » acte terroriste en raison de la « couleur de peau ou de la religion », malgré des précédents",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/24/attaque-meurtriere-de-trappes-emmanuel-macron-fait-polemique-en-evoquant-un-premier-acte-terroriste-en-raison-de-la-couleur-de-peau-ou-de-la-religion-malgre-des-precedents_6799666_3224.html",
-     "published_at": "2026-10-24T06:23:44+00:00",
-     "snippet": "L’Elysée a réagi en expliquant que « le chef de l’Etat parl[ait] bien évidemment du premier attentat raciste sur le fondement de la couleur de peau commis dans [le] pays, ainsi qu’il l’a précisé au début de son intervention »."
-    },
-    {
-     "id": "ae3c74ceb410",
-     "name": "Valeurs actuelles",
-     "kind": "media",
-     "title": "« Première fois » qu’un acte terroriste se produit en raison « de la couleur de peau ou de la religion » : tollé pour Emmanuel Macron après ses propos à Trappes",
-     "url": "https://www.valeursactuelles.com/societe/premiere-fois-quun-acte-terroriste-se-produit-en-raison-de-la-couleur-de-peau-ou-de-la-religion-tolle-pour-emmanuel-macron-apres-ses-propos-a-trappes",
-     "published_at": "2026-10-24T09:15:26+00:00",
-     "snippet": "Un drame glaçant : celui de la fusillade meurtrière, dont l’auteur présumé, Kévin T, habitant de Trappes a été immédiatement soupçonné d’avoir un mobile raciste. Depuis la fenêtre de sa... L’article « Première fois » qu’un acte terroriste se produit en raison « de la couleur de peau ou de la religion » : tollé pour Emmanuel Macron après ses propos à Trappes est apparu en premier sur Valeurs actuelles ."
-    },
-    {
-     "id": "c0127ab5f68a",
-     "name": "L'Obs",
-     "kind": "media",
-     "title": "Attentat de Trappes : Macron accusé de « nier la réalité » après des propos polémiques lors d’un discours",
-     "url": "https://www.nouvelobs.com/terrorisme/20261024.OBS119481/attentat-de-trappes-macron-accuse-de-nier-la-realite-apres-des-propos-polemiques-lors-d-un-discours.html",
-     "published_at": "2026-10-24T07:55:36+00:00",
-     "snippet": "Dans son discours lors d’un déplacement à Trappes, où un homme a été tué vendredi et cinq autres personnes blessées, le chef de l’Etat a indiqué que c’était « la première fois » qu’un acte terroriste est planifié pour tuer « en raison de la couleur de peau ou de la religion »."
-    },
-    {
-     "id": "dfba09d01947",
-     "name": "LCP",
-     "kind": "media",
-     "title": "\"La haine doit cesser\": l’émotion de la classe politique après l’attaque dans les Yvelines",
-     "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
-     "published_at": "2026-10-24T09:26:08+00:00",
-     "snippet": "Par Maxence Kagni , le Vendredi 23 octobre 2026 à 16:23 Un homme a tiré en rafale vendredi depuis une voiture dans les rues de Trappes et de La Verrière dans les Yvelines, tuant une personne et en blessant au moins quatre, dont une enfant. La classe politique dénonce unanimement cette attaque dont s'est saisi le parquet antiterroriste, la gauche insistant sur son caractère raciste. Ce vendredi, un homme âgé de 39 ans est suspecté d'avoir ouvert le feu à l'arme automatique sur des passants dans les rues de Trappes et de La Verrière dans les Yvelines, tuant une personne et en blessant au moins q"
-    }
-   ]
-  },
-  {
-   "headline": "Présidentielle : Marine Le Pen lance sa campagne à Orléans, en tête des sondages et sous tension",
-   "chapo": "Après le congrès du RN samedi, Marine Le Pen tient dimanche à Orléans son premier grand meeting de campagne, sous forte protection policière et face à une contre-manifestation. Un sondage OpinionWay la place en tête au premier tour et au second tour dans trois scénarios. La gauche débat de la façon de lui répondre.",
-   "points": [
-    {
-     "text": "Selon Le Parisien, Marine Le Pen tient dimanche son premier grand meeting à Orléans, devant près de 10 000 militants. Un responsable du RN : « Ça sera le top départ de la campagne. On va poser le narratif ».",
-     "sources": [
-      "c6c3ccb48436"
-     ]
-    },
-    {
-     "text": "La ville est « saturée » de forces de l'ordre, selon l'expression du préfet : 3 000 au total, auxquelles s'ajoutent 200 personnes du service d'ordre du parti, selon Le Parisien.",
-     "sources": [
-      "c6c3ccb48436"
-     ]
-    },
-    {
-     "text": "Jordan Bardella doit être réélu président du RN samedi. Selon Europe 1, le congrès doit lui permettre de « tourner la page des soupçons liés à ses propos supposés à 17 ans ». Selon L'Humanité, c'est moins d'un mois après la révélation par Mediapart d'écrits qualifiés d'antisémites, ce qui « ajoute du trouble » dans un mouvement « de plus en plus fracturé ».",
-     "sources": [
-      "e0041a73da7c",
-      "af68c548dab9"
-     ]
-    },
-    {
-     "text": "Selon un sondage OpinionWay pour CNews, Europe 1 et Le JDD, Marine Le Pen recueillerait 36 % au premier tour, devant Jean-Luc Mélenchon (16 %), Raphaël Glucksmann (13 %) et Édouard Philippe (12 %). David Lisnard et Bruno Retailleau sont à 6 %.",
-     "sources": [
-      "8e6190adea3b"
-     ]
-    },
-    {
-     "text": "Au second tour, toujours selon Le JDD, elle l'emporterait sur Jean-Luc Mélenchon par 69 % contre 31 %, et sur Raphaël Glucksmann comme sur Édouard Philippe par 56 %. Dans le scénario face à Mélenchon, 33 % des personnes interrogées n'expriment pas d'intention de vote.",
-     "sources": [
-      "8e6190adea3b"
-     ]
-    },
-    {
-     "text": "Une contre-manifestation de 20 000 à 30 000 personnes est attendue à Orléans. Public Sénat se demande s'il s'agit d'un « aveu de faiblesse » pour la gauche ou du signe d'une dédiabolisation « pas encore aboutie » du RN.",
-     "sources": [
-      "b704c4afb868"
-     ]
-    },
-    {
-     "text": "Olivier Faure (PS) : « Ce qui m'inquiète, c'est la banalisation de l'extrême droite ». Il dit craindre que le RN « puisse instaurer une xénophobie d'État ». Raphaël Glucksmann estime que sa place n'est pas dans cette manifestation, mais « de porter le fer, dans cette élection, contre le projet de Marine Le Pen », selon Public Sénat.",
-     "sources": [
-      "b704c4afb868"
-     ]
-    },
-    {
-     "text": "Selon BFMTV, au RN, on dit avoir « le vent de face », mais être « resté ultra-favori » à l'approche du congrès.",
-     "sources": [
-      "962ab1cc2be3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/23/22/000_d2cr3xm_1_6adbc99fba47c.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "e0041a73da7c",
-    "focus_x": 0.37666666666666665,
-    "focus_y": 0.2459016393442623
-   },
-   "id": 169,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-24T09:58:29+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.61,
-   "sources": [
-    {
-     "id": "8e6190adea3b",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "SONDAGE. Présidentielle 2027 : Marine Le Pen domine à 36 %, Lisnard devance Attal",
-     "url": "https://www.lejdd.fr/politique/sondage-presidentielle-2027-marine-le-pen-domine-a-36-lisnard-devance-attal-186765",
-     "published_at": "2026-10-23T06:54:16+00:00",
-     "snippet": "Selon un sondage OpinionWay, la candidate du Rassemblement national (RN) conforte sa position en tête de la course à l’Élysée. Elle sortirait également victorieuse des trois scénarios de second tour testés, face à Jean-Luc Mélenchon, Édouard Philippe et Raphaël Glucksmann."
-    },
-    {
-     "id": "962ab1cc2be3",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"On a le vent de face mais on est reste ultra-favori\": un congrès du RN sous haute tension à Orléans, Marine Le Pen en position de force",
-     "url": "https://www.bfmtv.com/politique/front-national/on-a-le-vent-de-face-mais-on-est-reste-ultra-favori-un-congres-du-rn-sous-haute-tension-a-orleans-marine-le-pen-en-position-de-force_AN-202610240047.html",
-     "published_at": "2026-10-24T07:11:00+00:00",
-     "snippet": "Le congrès du RN, organisé ce week-end à Orléans, devait être l'occasion d'afficher unité et sérénité derrière la candidate Marine Le Pen. L'événement s'annonce pourtant sous haute tension en plein \"acte 2\" de la colère sociale et sur fond d'inquiétudes sécuritaires. Sans empêcher Marine Le Pen de faire largement la course en tête pour 2027, malgré une campagne déjà marquée par des turbulences."
-    },
-    {
-     "id": "af68c548dab9",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« Certains chez nous paniquent » : ce week-end, un congrès du RN sur fond d’affaire Bardella et de divisions",
-     "url": "https://www.humanite.fr/politique/jordan-bardella/certains-chez-nous-paniquent-ce-week-end-un-congres-du-rn-sur-fond-daffaire-bardella-et-de-divisions",
-     "published_at": "2026-10-23T04:30:00+00:00",
-     "snippet": "Jordan Bardella doit être réélu, ce samedi 24 octobre à Orléans, à la tête du parti à la flamme, moins d’un mois après la révélation de ses écrits antisémites par Mediapart. Une affaire qui ajoute du trouble au sein d’un mouvement de plus en plus fracturé."
-    },
-    {
-     "id": "b704c4afb868",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Manifestation contre le RN à Orléans : un « aveu de faiblesse » pour la gauche ou un échec de la dédiabolisation de Marine Le Pen ?",
-     "url": "https://www.publicsenat.fr/actualites/politique/manifestation-contre-le-rn-a-orleans-un-aveu-de-faiblesse-pour-la-gauche-ou-un-echec-de-la-dediabolisation-de-marine-le-pen",
-     "published_at": "2026-10-23T14:52:39+00:00",
-     "snippet": "20 000 à 30 000 opposants au Rassemblement national sont attendus samedi à Orléans où se tient le congrès du parti. Associations, syndicats, mais aussi responsables politiques comme Olivier Faure, Marine Tondelier ou Bally Bagayoko feront partie du cortège. Signe d’une dédiabolisation qui n’est pas encore aboutie pour le parti de Jordan Bardella et Marine Le Pen ? Ou un aveu d’impuissance de la gauche ? En 1997, une contre-manifestation avait rassemblé 50 000 personnes et les chefs de partis de gauche à Strasbourg où se tenait le congrès du Front national."
-    },
-    {
-     "id": "c6c3ccb48436",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Nous voulons être outrageusement optimistes » : Marine Le Pen lance sa campagne sous haute pression",
-     "url": "https://www.leparisien.fr/elections/presidentielle/nous-voulons-etre-outrageusement-optimistes-marine-le-pen-lance-sa-campagne-sous-haute-pression-24-10-2026-34DN2WVRVNA6LJJCUBH4FHLZIM.php",
-     "published_at": "2026-10-24T09:26:05+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "e0041a73da7c",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Rassemblement national : les enjeux du congrès d'Orléans pour Marine Le Pen et Jordan Bardella",
-     "url": "https://www.europe1.fr/politique/rassemblement-national-les-enjeux-du-congres-dorleans-pour-marine-le-pen-et-jordan-bardella-1177161?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-24T05:02:00+00:00",
-     "snippet": "Sans surprise attendue, Jordan Bardella devrait conserver la présidence du RN ce week-end. Le congrès du parti doit aussi lui permettre de tourner la page des soupçons liés à ses propos supposés à 17 ans. Avec Marine Le Pen, il s'adressera à près de 10.000 militants pour conclure ce week-end. Jordan Bardella devrait être réélu sans surprise président du Rassemblement national ce week-end, lors du congrès du parti à Orléans. Il conservera la tête du mouvement, un moment qui doit aussi permettre de rassurer les sceptiques en interne, après les révélations de Mediapart. Les enquêtes de Mediapart "
-    }
-   ]
-  },
-  {
-   "headline": "Villepin : où en est sa candidature, entre parrainages et appel à « la paix civile »",
-   "chapo": "Dominique de Villepin n'a pas officialisé sa candidature à la présidentielle, mais dit avoir dépassé la barre des 300 signatures d'élus. Il faut en réunir 500. Il a aussi proposé une plateforme commune anticrise aux autres candidats. Son pari est salué par certains, moqué par d'autres.",
-   "points": [
-    {
-     "text": "Selon LCP, l'ancien Premier ministre est en quête des 500 signatures d'élus, préalable incontournable d'une éventuelle candidature. Invité de BFMTV, il dit avoir « dépassé la barre des 300 signatures », évoquant « un combat ».",
-     "sources": [
-      "6e732759d089"
-     ]
-    },
-    {
-     "text": "Il décrit la difficulté : « C'est difficile dans le contexte actuel compte tenu du nombre de candidats ». Il annonce qu'il fera connaître sa décision « au cours des prochaines semaines », selon LCP.",
-     "sources": [
-      "6e732759d089"
-     ]
-    },
-    {
-     "text": "Sur le terrain, LCP rappelle qu'il est régulièrement crédité entre 1 et 4 % dans les sondages de ces derniers mois. Le Canard enchaîné parle de « résultats nettement moins pétaradants que ses discours : 3 % d'intentions de vote ».",
-     "sources": [
-      "6e732759d089",
-      "343afa741b42"
-     ]
-    },
-    {
-     "text": "Après les violences du 17 octobre, Le Parisien rapporte qu'il lance, dans une vidéo, un « appel à la paix civile et sociale » et veut réunir ses rivaux sur « une plate-forme commune anticrise ». Il dit que « la guerre civile frappe à la porte ».",
-     "sources": [
-      "4215d58e98fc"
-     ]
-    },
-    {
-     "text": "Il présente le Rassemblement national comme la force qui se rapproche du pouvoir à « chaque image de barricade en feu », et La France insoumise comme celle qui se renforce à « chaque image de violence commise par des policiers », selon Le Parisien.",
-     "sources": [
-      "4215d58e98fc"
-     ]
-    },
-    {
-     "text": "Selon CNews, il plaide pour des « États Généraux de la République » et des consultations au niveau des communes. Les engagements cités : revenir sous les 3 % de déficit public pendant le quinquennat, rester dans l'Union européenne, respecter l'État de droit ou bâtir une intelligence artificielle souveraine.",
-     "sources": [
-      "3a3e1b34bd19"
-     ]
-    },
-    {
-     "text": "Sur BFMTV, il a déploré la « logique du bouc émissaire » au sommet de l'État, alors que l'exécutif pointe la responsabilité de LFI dans les pillages du 17 octobre. Pour lui, « cette logique va enflammer le pays et mettre le feu à la République », rapporte Libération. Le journal le juge « l'un des rares, à droite, à tenir un discours de raison ».",
-     "sources": [
-      "2ce086fce328"
-     ]
-    },
-    {
-     "text": "Le Canard enchaîné est plus critique : il l'accuse de vilipender Emmanuel Macron tout en jouant à fond du « en même temps ».",
-     "sources": [
-      "343afa741b42"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-08/AFP__20260605__HL_RDOUCELIN_3185128__v1__HighRes__FranceDominiqueDeVillepinSaintEtie.jpg?h=c3566377&itok=UzdU4RbY",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
-    "article_id": "6e732759d089"
-   },
-   "id": 171,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-24T10:57:17+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.04,
-   "sources": [
-    {
-     "id": "2ce086fce328",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Villepin dénonce l’amalgame entre LFI et ultragauche et défonce la «logique du bouc émissaire» du gouvernement",
-     "url": "https://www.liberation.fr/politique/villepin-denonce-lamalgame-entre-lfi-et-ultragauche-et-defonce-la-logique-du-bouc-emissaire-du-gouvernement-20261023_PMICIJJWBNDLNBYZVBI7JE76NU/",
-     "published_at": "2026-10-23T12:44:37+00:00",
-     "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique."
-    },
-    {
-     "id": "343afa741b42",
-     "name": "Le Canard enchaîné",
-     "kind": "media",
-     "title": "Présidentielle 2027 Un Villepin complet en autopromotion",
-     "url": "https://www.lecanardenchaine.fr/dossiers/le-catalogue-de-la-presidentielle-2027/55016-un-villepin-complet-en-autopromotion",
-     "published_at": "2026-10-17T06:01:00+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "3a3e1b34bd19",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : face au risque d'une «guerre civile», Dominique de Villepin appelle tous les candidats à se réunir",
-     "url": "https://www.cnews.fr/france/2026-10-21/presidentielle-2027-face-au-risque-dune-guerre-civile-dominique-de-villepin",
-     "published_at": "2026-10-21T20:20:00+00:00",
-     "snippet": "Ce mercredi, Dominique de Villepin a appelé ses rivaux à s'entendre sur «une plateforme commune anticrise». Il estime que «la guerre civile frappe à la porte» de la France Une initiative solidaire. Ce mercredi, Dominique de Villepin a appelé tous les candidats à l 'élection présidentielle et leurs partis à se réunir via «une plateforme commune anticrise». «La campagne ne peut pas continuer comme avant», a-t-il assuré. Dans une longue vidéo publiée sur les réseaux sociaux, l'ancien Premier ministre a estimé que «la guerre civile frappe à la porte». «Le danger, c'est maintenant. C'est la déchiru"
-    },
-    {
-     "id": "4215d58e98fc",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Dominique de Villepin appelle les candidats à se réunir via « une plate-forme commune anticrise »",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-dominique-de-villepin-appelle-les-candidats-a-se-reunir-via-une-plate-forme-commune-anticrise-22-10-2026-VSHLWWJ66FBR7CQJXDLECSK5MY.php",
-     "published_at": "2026-10-24T09:26:05+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "6e732759d089",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Présidentielle: Dominique de Villepin annonce avoir \"dépassé la barre des 300 signatures\"",
-     "url": "https://lcp.fr/actualites/presidentielle-dominique-de-villepin-annonce-avoir-depasse-la-barre-des-300-signatures",
-     "published_at": "2026-10-24T09:26:08+00:00",
-     "snippet": "Par Soizic BONVARLET , le Vendredi 23 octobre 2026 à 11:57 Invité de BFMTV jeudi soir, l'ancien Premier ministre Dominique de Villepin a affiché sa volonté d'incarner une voix pour le pays en vue de la prochaine échéance présidentielle, tout en remettant sa décision définitive à plus tard. Il a cependant indiqué avoir déjà \"dépassé la barre des 300 signatures\" d'élus en vue de sa potentielle candidature. Un bulletin estampillé \"Dominique de Villepin\" sera-t-il à disposition des électeurs le 18 avril prochain ? Pour l'heure, l'ancien Premier ministre est en quête des 500 signatures d'élus, préa"
-    }
-   ]
-  },
-  {
-   "headline": "Casseurs-payeurs : le projet de loi débute son examen au Sénat, la gauche très hostile",
-   "chapo": "Mercredi 21 octobre, le projet de loi « casseurs-payeurs » entame son parcours parlementaire en commission au Sénat. Le Premier ministre le juge « absolument indispensable ». La gauche y est très hostile. La Commission des lois du Sénat publie aussi 30 propositions sur le maintien de l'ordre.",
-   "points": [
-    {
-     "text": "Le texte entame son examen en commission au Sénat ce mercredi, selon Libération et L'Humanité. Selon LCP, il doit être examiné au Sénat à partir du 27 octobre, puis transmis à l'Assemblée.",
-     "sources": [
-      "2b5ff92d4049",
-      "67b963643b23",
-      "655a127f667c"
-     ]
-    },
-    {
-     "text": "Il prévoit une responsabilité civile collective pour l'ensemble des personnes ayant participé à un attroupement, une manifestation ou un rassemblement ayant causé des dommages, sans que la responsabilité de chacun soit précisément établie, selon LCP.",
-     "sources": [
-      "655a127f667c"
-     ]
-    },
-    {
-     "text": "Selon LCP, le dispositif « permettra d'aller prélever, dans les prestations familiales lorsque c'est nécessaire, pour des dégradations commises par des majeurs ou des mineurs », comme l'expliquait la porte-parole du gouvernement Maud Bregeon.",
-     "sources": [
-      "655a127f667c"
-     ]
-    },
-    {
-     "text": "Le ministre Serge Papin défend le texte : « Ce n'est ni aux victimes, ni aux contribuables » de payer ; il juge que ceux qui ont cassé et pillé doivent être poursuivis et en assumer le coût, selon LCP.",
-     "sources": [
-      "655a127f667c"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu juge le texte « absolument indispensable » et a mis la pression pour le faire passer, selon Libération.",
-     "sources": [
-      "2b5ff92d4049"
-     ]
-    },
-    {
-     "text": "Libération qualifie le projet de loi de « très critiqué » et « très critiquable », avec des « mesures controversées » sur la responsabilité civile collective. Selon le journal, la gauche y est très hostile, et la droite n'a plus que ce texte « à la bouche » comme réponse législative.",
-     "sources": [
-      "2b5ff92d4049"
-     ]
-    },
-    {
-     "text": "L'Humanité parle d'un texte aux « mesures largement décriées » et le présente comme la réponse phare du gouvernement à la mobilisation.",
-     "sources": [
-      "67b963643b23"
-     ]
-    },
-    {
-     "text": "Côté justice, le ministre Gérald Darmanin a demandé aux procureurs « d'être impitoyables avec les casseurs ». Il évoque 800 personnes déférées devant un tribunal depuis lundi, avec des comparutions immédiates « à rythme effréné », selon France 24.",
-     "sources": [
-      "c7055b531cb7"
-     ]
-    },
-    {
-     "text": "La Commission des lois du Sénat, présidée par Muriel Jourda (LR), présente un rapport intitulé « L'avenir du maintien de l'ordre : 30 propositions pour reprendre le contrôle », qui prévoit de sanctionner plus durement les pillards, selon Le Figaro.",
-     "sources": [
-      "477a543ac0e5"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/21/185f49712f883c7c53714e03f319cb5410bbd426748a4efec372ab22acea5eb6.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/actualite-france/maintien-de-l-ordre-le-rapport-choc-du-senat-pour-en-finir-avec-les-casseurs-20261021",
-    "article_id": "477a543ac0e5"
-   },
-   "id": 159,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:46:00+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.01,
-   "sources": [
-    {
-     "id": "2b5ff92d4049",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Sébastien Lecornu juge «absolument indispensable» la très critiquée et très critiquable loi «casseurs-payeurs»",
-     "url": "https://www.liberation.fr/politique/sebastien-lecornu-juge-absolument-indispensable-la-tres-critiquee-et-tres-critiquable-loi-casseurs-payeurs-20261021_VUU2HJRRHZCYBECVMCON3T5YJM/",
-     "published_at": "2026-10-21T09:23:55+00:00",
-     "snippet": "Le Premier ministre a mis la pression pour faire passer ce texte, en réponse aux violences en marge des manifestations, qui débute son examen en commission au Sénat, ce mercredi 21 octobre. La gauche y est, quant à elle, très hostile."
-    },
-    {
-     "id": "477a543ac0e5",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Maintien de l’ordre : le rapport choc du Sénat pour en finir avec les casseurs",
-     "url": "https://www.lefigaro.fr/actualite-france/maintien-de-l-ordre-le-rapport-choc-du-senat-pour-en-finir-avec-les-casseurs-20261021",
-     "published_at": "2026-10-21T08:24:31+00:00",
-     "snippet": "EXCLUSIF - La Commission des lois de la Haute Assemblée dégaine 30 mesures à adopter pour mieux anticiper les troubles, renforcer l’efficacité opérationnelle des unités et sanctionner plus durement factieux et pilleurs."
-    },
-    {
-     "id": "655a127f667c",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Saccages et pillages du 17 octobre: l'État au chevet des commerçants, le projet de loi \"casseurs-payeurs\" bientôt examiné",
-     "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
-     "published_at": "2026-10-19T21:21:03+00:00",
-     "snippet": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 15:23 Après les saccages qui ont eu lieu ce week-end, le gouvernement a annoncé, ce lundi 19 octobre, une série de mesures d'urgence à destination des commerçants, parmi lesquelles le déclenchement immédiat d'un chômage partiel à 100%, le report des charges sociales, ainsi que la mise en place d'un fonds de soutien. \"Au moins 3.000\". Telle est la dernière estimation du ministre des Petites et Moyennes entreprises et du Commerce, Serge Papin, concernant le nombre de commerces touchés au cours du week-end par les saccages et les pillages. Au sort"
-    },
-    {
-     "id": "67b963643b23",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Le projet de loi « casseurs-payeurs » débarque au Sénat",
-     "url": "https://www.humanite.fr/-/-/la-loi-casseurs-payeurs-debarque-au-senat",
-     "published_at": "2026-10-21T06:55:00+00:00",
-     "snippet": "L’extrême droite en rêvait, Sébastien Lecornu le fait : punir les familles modestes en tapant dans leurs prestations sociales. Le projet de loi « casseurs-payeurs » débute son parcours parlementaire ce mercredi 21 octobre au Sénat, quelques jours après les pillages et les dégradations survenus lors des manifestations du 17 octobre dans plusieurs villes de France. Ce texte envisage de faire…"
-    },
-    {
-     "id": "c7055b531cb7",
-     "name": "France 24",
-     "kind": "media",
-     "title": "17 octobre : des consignes de fermeté à des tribunaux débordés",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-17-octobre-des-consignes-de-fermet%C3%A9-%C3%A0-des-tribunaux-d%C3%A9bord%C3%A9s",
-     "published_at": "2026-10-21T09:19:47+00:00",
-     "snippet": "Le gouvernement, sous pression, affiche une ligne dure. Le ministre de la Justice a demandé aux procureurs \"d'être impitoyables avec les casseurs\", assurant que \"le peuple français veut de l'extrême fermeté\". Depuis lundi 19 octobre, dans nombre de tribunaux de France, ont lieu des comparutions immédiates à rythme effréné. Gérald Darmanin évoque le chiffre de 800 personnes déférées devant un tribunal."
-    }
-   ]
-  },
-  {
-   "headline": "Mouvement lycéen : reçus par Macron, les représentants appellent à continuer à se mobiliser",
-   "chapo": "Vendredi 23 octobre, Emmanuel Macron a reçu pendant près de trois heures les organisations lycéennes à l'Élysée. Il leur a promis une « refonte » de Parcoursup, mais les représentants réclament toujours son abrogation et appellent à rester mobilisés. Une rencontre avec Sébastien Lecornu est prévue lundi.",
-   "points": [
-    {
-     "text": "Pour la première fois depuis le début du mouvement, des organisations lycéennes ont été reçues par Emmanuel Macron, vendredi à 15 heures, selon franceinfo et Le Parisien. Après plus d'un mois de colère, la présidence dit vouloir « écouter les revendications », selon BFMTV.",
-     "sources": [
-      "b784c3d02fc9",
-      "66f1e25479fc",
-      "f3c204579763"
-     ]
-    },
-    {
-     "text": "La rencontre a duré près de trois heures. Les représentants se disent globalement « satisfaits » de l'écoute du chef de l'État, qui leur aurait promis une « refonte » de Parcoursup. L'entourage du président confirme qu'il a souligné « le besoin d'une refonte en profondeur de Parcoursup », selon Le HuffPost.",
-     "sources": [
-      "69bb6dce5cf9"
-     ]
-    },
-    {
-     "text": "Ryad Rani, président de l'Union syndicale lycéenne : « On lui parle d'abrogation, [...] on nous parle de lisibilité, de transparence et de refonte ». Il juge néanmoins que « c'est déjà une victoire d'avoir été reçu », selon Le HuffPost.",
-     "sources": [
-      "69bb6dce5cf9"
-     ]
-    },
-    {
-     "text": "Louis Letoublon (Les Lycéens !) : « on a une brèche », une « ouverture » dans laquelle « il faut que nous nous y engouffrions », selon Le HuffPost. Les représentants appellent à « continuer à se mobiliser », selon La Croix.",
-     "sources": [
-      "69bb6dce5cf9",
-      "9c82f33f888b"
-     ]
-    },
-    {
-     "text": "Une rencontre avec le Premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup, selon La Croix.",
-     "sources": [
-      "9c82f33f888b"
-     ]
-    },
-    {
-     "text": "Selon franceinfo, la plateforme en ligne pour recueillir les doléances des lycéens clôture vendredi soir, avec plus de 100 000 contributions. Un spécialiste estime que « tous ces dispositifs ne semblent pas avoir véritablement d'impact ».",
-     "sources": [
-      "b784c3d02fc9"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://focus.huffingtonpost.fr/2026/06/06/62/0/1200/675/0/0/60/0/a03df63_upload-1-oz7kzesbxay5-afp-20260601-b4mx92x-v3-midres-franceeconomybusinesssummit.jpg",
-    "source": "Le HuffPost",
-    "article_url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
-    "article_id": "69bb6dce5cf9",
-    "focus_x": 0.4666666666666667,
-    "focus_y": 0.24138888888888888
-   },
-   "id": 165,
-   "section": "institutions",
-   "reviewed_at": "2026-10-24T09:45:04+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.01,
-   "sources": [
-    {
-     "id": "66f1e25479fc",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Emmanuel Macron recevra les organisations lycéennes ce vendredi à 15 heures",
-     "url": "https://www.leparisien.fr/societe/emmanuel-macron-recevra-les-organisations-lyceennes-ce-vendredi-a-15-heures-22-10-2026-OP5DPSB6QRDFZI3QRTEVXUOXK4.php",
-     "published_at": "2026-10-24T09:26:05+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "69bb6dce5cf9",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Mouvement lycéen : cette promesse de Macron n’a pas empêché un nouvel appel à la mobilisation",
-     "url": "https://www.huffingtonpost.fr/france/article/mouvement-lyceen-cette-promesse-de-macron-n-a-pas-empeche-un-nouvel-appel-a-la-mobilisation_343961.html",
-     "published_at": "2026-10-23T19:04:24+00:00",
-     "snippet": "Les représentants des lycéens ont apprécié l’écoute du président et assurent qu’il leur a fait une promesse sur Parcoursup. Pour autant, ils appellent à continuer le mouvement."
-    },
-    {
-     "id": "9c82f33f888b",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Mouvement lycéen : après leur rencontre avec Macron, les représentants appellent à continuer à se mobiliser",
-     "url": "https://www.la-croix.com/politique/mouvement-lyceen-apres-leur-rencontre-avec-macron-les-representants-appellent-a-continuer-a-se-mobiliser-20261023",
-     "published_at": "2026-10-23T19:18:54+00:00",
-     "snippet": "Reçus vendredi 23 octobre à l’Élysée par Emmanuel Macron, les représentants des lycéens appellent à poursuivre la mobilisation. Une rencontre avec le premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup."
-    },
-    {
-     "id": "b784c3d02fc9",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Quels résultats après les consultations de lycéens ? \"Tous ces dispositifs ne semblent pas avoir véritablement d'impact\", pointe un spécialiste",
-     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quels-resultats-apres-les-consultations-de-lyceens-tous-ces-dispositifs-ne-semblent-pas-avoir-veritablement-d-impact-pointe-un-specialiste_8251474.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-23T22:07:24+00:00",
-     "snippet": "Pour la première fois depuis le début du mouvement, des représentants d'organisations lycéennes ont été reçus, vendredi 23 octobre, par Emmanuel Macron. Le chef de l'État leur a promis une \"refonte\" de Parcoursup, mais cela suffira-t-il à répondre à leurs revendications ? Alors que la plateforme en ligne conçue pour recueillir leurs doléances clôture ce soir, plus de 100 000 contributions ont été postées."
-    },
-    {
-     "id": "f3c204579763",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Colère sociale: des représentants lycéens appellent à \"continuer à se mobiliser\" après une rencontre avec Emmanuel Macron",
-     "url": "https://www.bfmtv.com/politique/direct-colere-sociale-conseil-de-defense-rencontre-avec-les-organisations-lyceennes-et-les-forces-de-l-ordre-la-journee-tres-chargee-d-emmanuel-macron-avant-une-nouvelle-mobilisation-attendue-le-24-octobre_LN-202610230108.html",
-     "published_at": "2026-10-23T22:33:03+00:00",
-     "snippet": "Après plus d'un mois de colère des lycéens, le président de la République a reçu les organisations lycéennes à l'Élysée pour \"écouter les revendications\", selon la présidence. À 24 heures des manifestations du 24 octobre, Sébastien Lecornu s'est rendu à Limoges pour évoquer la reconstruction de la mairie, incendiée dans les violences du 17 octobre."
     }
    ]
   }
