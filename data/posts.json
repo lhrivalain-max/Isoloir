@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:55:11+00:00",
+ "generated_at": "2026-10-28T18:00:21+00:00",
  "posts": [
   {
    "headline": "Attentat de Trappes : un hommage national annoncé, et une minute de silence suivie d'une passe d'armes à l'Assemblée",
@@ -61,7 +61,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.94,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -120,92 +120,95 @@
    ]
   },
   {
-   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
-   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
+   "headline": "Marine Le Pen est-elle éligible ? Un magistrat honoraire dit non, ses avocats saisissent le CSM",
+   "chapo": "Dans Le Monde, Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme que la candidate RN reste inéligible tant que la Cour n'a pas statué sur son pourvoi. Le procureur général de la Cour de cassation avait une lecture inverse en juillet.",
    "points": [
     {
-     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
+     "text": "Didier Guérin : « Marine Le Pen est actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi ». Selon lui, l'inéligibilité de cinq ans avec exécution provisoire prononcée en première instance « continue à s'exécuter et n'est pas suspendue, elle, par le pourvoi », selon Le Parisien.",
      "sources": [
-      "39fec858ff48",
-      "6a7d09056f81"
+      "7f1e854aa29a"
      ]
     },
     {
-     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
+     "text": "Le contexte : condamnée le 30 mars 2025 à cinq ans d'inéligibilité avec exécution provisoire, Marine Le Pen a vu sa peine réduite en appel à 15 mois d'inéligibilité, « soit une durée déjà purgée », la cour invoquant « la préservation de la liberté de l'électeur ». Elle a formé un pourvoi en cassation, en cours d'examen, selon Le Parisien et Le HuffPost.",
      "sources": [
-      "6a7d09056f81"
+      "7f1e854aa29a",
+      "d5abac7145ed"
      ]
     },
     {
-     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
+     "text": "Le procureur général de la Cour de cassation, Rémy Heitz, disait le 9 juillet que le pourvoi ne faisait pas « revivre » le jugement de première instance : « Ça, ce n'est pas un raisonnement fondé », selon Midi Libre.",
      "sources": [
-      "6a7d09056f81"
+      "394b3410d53f"
      ]
     },
     {
-     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
+     "text": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature (CSM). Ils estiment que ces prises de position « contreviennent gravement » au devoir de réserve des magistrats honoraires et que le magistrat développe « des thèses à finalité en réalité purement politiques », selon RMC.",
      "sources": [
-      "39fec858ff48"
+      "f53a53a21fbd"
      ]
     },
     {
-     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
+     "text": "D'après RMC, la lecture de la cour d'appel est que Marine Le Pen « peut a priori être de nouveau candidate ». Dans les articles lus, la Cour de cassation n'avait pas fixé de date pour trancher.",
      "sources": [
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
-     "sources": [
-      "39fec858ff48"
+      "f53a53a21fbd"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 3,
-    "outlets": 3
+    "articles": 4,
+    "outlets": 4
    },
    "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-    "article_id": "6a7d09056f81"
+    "url": "https://focus.huffingtonpost.fr/2026/07/21/0/0/4000/2250/0/0/60/0/effacb2_upload-1-5b1g1nqj54yf-gettyimages-2232755571.jpg",
+    "source": "Le HuffPost",
+    "article_url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
+    "article_id": "d5abac7145ed"
    },
-   "id": 205,
+   "id": 212,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-28T09:30:26+00:00",
+   "reviewed_at": "2026-10-28T18:00:21+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.66,
+   "score": 12.0,
    "sources": [
     {
-     "id": "39fec858ff48",
+     "id": "394b3410d53f",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Présidentielle 2027 : \"Marine Le Pen est toujours inéligible !\"... déclaration d'un haut-magistrat, réplique du RN, ce que l'on sait",
+     "url": "https://www.midilibre.fr/2026/10/28/presidentielle-2027-marine-le-pen-est-toujours-ineligible-declaration-dun-haut-magistrat-replique-du-rn-ce-que-lon-sait-13624589.php",
+     "published_at": "2026-10-28T11:34:31+00:00",
+     "snippet": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature le 28 octobre contre un magistrat honoraire. Dans Le Monde, ce dernier affirmait que la responsable d'extrême droite restait inéligible..."
+    },
+    {
+     "id": "7f1e854aa29a",
      "name": "Le Parisien",
      "kind": "media",
-     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
-     "published_at": "2026-10-28T09:23:18+00:00",
+     "title": "Présidentielle 2027 : un magistrat honoraire conteste l’éligibilité de Marine Le Pen, elle saisit le Conseil supérieur de la magistrature",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-un-magistrat-honoraire-conteste-leligibilite-de-marine-le-pen-elle-saisit-le-conseil-superieur-de-la-magistrature-28-10-2026-R4BIBD6KC5DMXKRT6PUTJCKSIY.php",
+     "published_at": "2026-10-28T16:34:46+00:00",
      "snippet": ""
     },
     {
-     "id": "4c096eb1c11c",
-     "name": "La Dépêche du Midi",
+     "id": "d5abac7145ed",
+     "name": "Le HuffPost",
      "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
-     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
-     "published_at": "2026-10-27T11:39:29+00:00",
-     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+     "title": "Marine Le Pen n’a pas apprécié le point de vue de ce magistrat sur son inéligibilité",
+     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
+     "published_at": "2026-10-28T12:42:09+00:00",
+     "snippet": "Le débat sur l’inéligibilité de Marine Le Pen, qui est dans l’attente de la décision de la Cour de cassation, refait surface à six mois du premier tour de la présidentielle."
     },
     {
-     "id": "6a7d09056f81",
-     "name": "LCP",
+     "id": "f53a53a21fbd",
+     "name": "RMC",
      "kind": "media",
-     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
-     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-     "published_at": "2026-10-28T09:23:22+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
+     "title": "Un magistrat assure que Marine Le Pen est toujours inéligible pour la présidentielle, ses avocats dénoncent une position \"politique\"",
+     "url": "https://rmc.bfmtv.com/actualites/politique/un-magistrat-assure-que-marine-le-pen-est-toujours-ineligible-pour-la-presidentielle-ses-avocats-denoncent-une-position-politique_AV-202610280471.html",
+     "published_at": "2026-10-28T11:34:25+00:00",
+     "snippet": "Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme dans \"Revue Pénale\" et \"Le Monde\" que Marine Le Pen serait toujours inéligible à l'élection présidentielle, en raison de son pourvoi en cassation, suspendant la décision de la cour d'appel. Ses avocats fustigent des \"considérations politiques\" et saisissent le Conseil supérieur de la magistrature."
     }
    ]
   },
@@ -268,7 +271,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 15.0,
+   "score": 14.95,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -388,7 +391,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.67,
+   "score": 6.65,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -416,6 +419,96 @@
      "url": "https://www.midilibre.fr/2026/10/28/loi-casseurs-payeurs-le-texte-approuve-et-considerablement-elargi-au-senat-la-gauche-denonce-une-instrumentalisation-des-commercants-13624106.php",
      "published_at": "2026-10-28T07:37:54+00:00",
      "snippet": "Le Sénat a adopté dans la nuit du 27 au 28 octobre, par 229 voix contre 105, le projet de loi \"casseurs payeurs\" nettement durci. La mesure prévoit une solidarité financière de 10 000 euros maximum et la saisie..."
+    }
+   ]
+  },
+  {
+   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
+   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
+   "points": [
+    {
+     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
+     "sources": [
+      "39fec858ff48",
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    },
+    {
+     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
+     "sources": [
+      "4c096eb1c11c"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+    "article_id": "6a7d09056f81"
+   },
+   "id": 205,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T09:30:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.65,
+   "sources": [
+    {
+     "id": "39fec858ff48",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
+     "published_at": "2026-10-28T09:23:18+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4c096eb1c11c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
+     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
+     "published_at": "2026-10-27T11:39:29+00:00",
+     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+    },
+    {
+     "id": "6a7d09056f81",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
+     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
     }
    ]
   },
@@ -490,7 +583,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.66,
+   "score": 6.65,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -601,7 +694,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 11.64,
+   "score": 11.62,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -757,7 +850,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.38,
+   "score": 8.37,
    "sources": [
     {
      "id": "047bda588bce",
@@ -893,7 +986,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.98,
+   "score": 6.97,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -1007,7 +1100,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.06,
+   "score": 6.05,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1119,7 +1212,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.59,
+   "score": 5.58,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1231,7 +1324,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.59,
+   "score": 5.58,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1436,7 +1529,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.19,
+   "score": 4.18,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -1787,7 +1880,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.81,
+   "score": 3.8,
    "sources": [
     {
      "id": "2872055df568",
@@ -1879,7 +1972,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.81,
+   "score": 3.8,
    "sources": [
     {
      "id": "047bda588bce",
@@ -2212,7 +2305,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.86,
+   "score": 2.85,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -2858,7 +2951,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.98,
+   "score": 2.97,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -2975,7 +3068,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.98,
+   "score": 2.97,
    "sources": [
     {
      "id": "af33e58914d4",
