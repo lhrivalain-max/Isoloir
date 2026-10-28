@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:00:21+00:00",
+ "generated_at": "2026-10-28T18:00:23+00:00",
  "posts": [
   {
    "headline": "Attentat de Trappes : un hommage national annoncé, et une minute de silence suivie d'une passe d'armes à l'Assemblée",
@@ -317,6 +317,95 @@
      "url": "https://www.ladepeche.fr/2026/10/28/incendie-de-lhotel-de-ville-de-limoges-le-maire-a-recu-le-soutien-du-vice-president-americain-jd-vance-mais-pas-de-lelysee-je-nai-pas-eu-emmanuel-13624971.php",
      "published_at": "2026-10-28T15:50:29+00:00",
      "snippet": "Le 17 octobre dernier, la mairie de Limoges a été ravagée par un violent incendie. Alors que le maire LR Guillaume Guérin affirme ce mercredi 28 octobre avoir reçu le soutien surprise de dirigeants étrangers, dont le..."
+    }
+   ]
+  },
+  {
+   "headline": "Mélenchon veut un « pôle public bancaire » et remplacer le patron de Bpifrance : ce que prévoit LFI",
+   "chapo": "Lors d'une conférence de presse le 28 octobre, le candidat insoumis a présenté un plan pour doubler l'investissement public et orienter l'épargne vers la production. Il a aussi annoncé vouloir remplacer Nicolas Dufourcq à la tête de Bpifrance.",
+   "points": [
+    {
+     "text": "L'objectif affiché : faire passer l'investissement public du pôle financier de « 100 milliards d'euros par an à 200 milliards par an ». La nationalisation des banques, comme en 1982, n'est « pas à l'ordre du jour », a dit Jean-Luc Mélenchon, selon Le Monde.",
+     "sources": [
+      "d1236866f5b5"
+     ]
+    },
+    {
+     "text": "Pour financer ce pôle, LFI veut des « mécanismes de réorientation de l'épargne française non contraignants et toujours rémunérateurs ». Le plafond du livret A passerait de 23 000 à 30 000 euros, ce qui dégagerait 40 milliards d'euros supplémentaires, selon LFI, avec un taux aligné sur l'inflation, selon Le Progrès.",
+     "sources": [
+      "d1236866f5b5"
+     ]
+    },
+    {
+     "text": "Aurélie Trouvé décrit aussi un « livret B », épargne bloquée « trois, cinq, dix ans » avec un taux supérieur, adossé à un fonds de reconversion productive, selon Le Monde.",
+     "sources": [
+      "cff29acd37c4"
+     ]
+    },
+    {
+     "text": "Sur Bpifrance : « Le directeur de Bpifrance (…) n'en fait qu'à sa tête parce que personne ne contrôle rien. (…) Sa présence à la tête de cette banque est incompatible avec la nôtre à la tête de l'État », selon Jean-Luc Mélenchon cité par Le Monde. Il vise Nicolas Dufourcq.",
+     "sources": [
+      "cff29acd37c4"
+     ]
+    },
+    {
+     "text": "L'Humanité présente le projet comme un moyen de « se soustraire de la dictature des marchés internationaux » et d'investir « sans faire la danse du ventre devant les investisseurs privés étrangers ».",
+     "sources": [
+      "5dc2d6d91a63"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, ni Nicolas Dufourcq ni les autres candidats n'avaient réagi, et aucun économiste n'a chiffré le coût ou l'effet du plan.",
+     "sources": [
+      "d1236866f5b5"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/28/221/0/8416/4208/644/322/60/0/fa52b7b_ftp-1-pseivtgd1mp2-afp-d4nc892.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html",
+    "article_id": "cff29acd37c4"
+   },
+   "id": 213,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T18:00:23+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "5dc2d6d91a63",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Présidentielle 2027 : tout comprendre au « pôle bancaire public » que veut créer Jean-Luc Mélenchon pour échapper à la « dictature des marchés »",
+     "url": "https://www.humanite.fr/politique/france-insoumise/presidentielle-2027-tout-comprendre-au-pole-bancaire-public-que-veut-creer-jean-luc-melenchon-pour-echapper-a-la-dictature-des-marches",
+     "published_at": "2026-10-28T17:46:08+00:00",
+     "snippet": "Réindustrialisation, transition écologique, logements sociaux… Jean-Luc Mélenchon veut remettre la finance au service de ses priorités. Pour y parvenir, le candidat insoumis mise sur une nouvelle gouvernance de BPIFrance et une réorientation de l’épargne nationale."
+    },
+    {
+     "id": "cff29acd37c4",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Jean-Luc Mélenchon affirme qu’il remplacera le directeur de Bpifrance s’il est élu",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html",
+     "published_at": "2026-10-28T16:22:01+00:00",
+     "snippet": "« Le directeur de Bpifrance (…) n’en fait qu’à sa tête parce que personne ne contrôle rien, personne ne peut lui donner d’ordre », a déclaré le dirigeant « insoumis », ajoutant qu’il « est clair que sa présence à la tête de cette banque est incompatible avec la nôtre à la tête de l’Etat »."
+    },
+    {
+     "id": "d1236866f5b5",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Présidentielle 2027. Jean-Luc Mélenchon veut remplacer le patron de Bpifrance qui « n'en fait qu'à sa tête »",
+     "url": "https://www.leprogres.fr/politique/2026/10/28/il-n-en-fait-qu-a-sa-tete-melenchon-veut-remplacer-le-patron-de-bpifrance-s-il-elu",
+     "published_at": "2026-10-28T14:00:00+00:00",
+     "snippet": "Jean-Luc Mélenchon a indiqué ce mercredi souhaiter remplacer Nicolas Dufourcq, le directeur général de Bpifrance, s’il accède à l’Élysée en 2027. Le candidat insoumis entend également doubler les investissements publics et créer un « livret B » pour financer la production."
     }
    ]
   },
