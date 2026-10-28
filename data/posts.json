@@ -1,6 +1,214 @@
 {
- "generated_at": "2026-10-28T17:55:09+00:00",
+ "generated_at": "2026-10-28T17:55:11+00:00",
  "posts": [
+  {
+   "headline": "Attentat de Trappes : un hommage national annoncé, et une minute de silence suivie d'une passe d'armes à l'Assemblée",
+   "chapo": "Le gouvernement a annoncé le 28 octobre un « hommage national » présidé par Sébastien Lecornu, sans date ni présence d'Emmanuel Macron. La veille, l'Assemblée avait observé une minute de silence avant que la séance ne tourne à l'affrontement entre le RN, la gauche et le Premier ministre.",
+   "points": [
+    {
+     "text": "Un « hommage national » sera présidé par Sébastien Lecornu, a annoncé la porte-parole du gouvernement Maud Bregeon. Aucune date n'est fixée et le chef de l'État ne le présidera pas. Aurore Bergé explique que « certaines victimes continuent à lutter pour leur vie », donc que les modalités sont « à préciser », selon Le Monde.",
+     "sources": [
+      "6bb40293aeb8"
+     ]
+    },
+    {
+     "text": "En conseil des ministres, Emmanuel Macron a appelé à « l'unité » et « la dignité », et a insisté sur « la très faible compassion » des premières heures et sur « les tentatives d'instrumentalisation », selon les propos rapportés par Maud Bregeon (Le Monde). L'écologiste Cyrielle Chatelain avait réclamé cet hommage la veille ; Sébastien Lecornu n'avait pas répondu. Le maire de Trappes, Ali Rabeh, remercie le président « de donner à ce crime raciste toute la gravité et la solennité qu'il exige ».",
+     "sources": [
+      "6bb40293aeb8"
+     ]
+    },
+    {
+     "text": "Mardi 27 octobre, après la minute de silence, le nouveau patron des députés RN, Sébastien Chenu, a rejeté tout lien entre les propos de son parti et l'attaque : « Le concours de fake news a été ouvert, relayé par le journal Le Monde et boosté par les responsables politiques de gauche et d'extrême gauche. » Les socialistes et les écologistes ont alors quitté l'hémicycle, selon Europe 1.",
+     "sources": [
+      "056016f5e39a",
+      "d9a8b3b8360e"
+     ]
+    },
+    {
+     "text": "Sébastien Lecornu a répondu à la gauche : « tout sent le recel politicien, marque une forme d'indignité. Et croyant combattre le racisme, précisément, vous êtes en train de faire le jeu de l'extrême droite, du RN. » Il a dénoncé une « ambiance particulièrement nauséabonde », selon Le HuffPost.",
+     "sources": [
+      "d9a8b3b8360e"
+     ]
+    },
+    {
+     "text": "Côté gauche, Ali Rabeh (Génération.s) a fait part de sa « colère » : il dénonce « une forme d'indécence à renvoyer dos à dos ultra droite et ultra gauche », en référence à Quentin Deranque évoqué par le Premier ministre, et regrette « l'absence éloquente de Marine Le Pen », selon LCP. Libération publie une chronique titrée « le parallèle détestable de Sébastien Lecornu avec la mort de Quentin Deranque ».",
+     "sources": [
+      "971aabf03a99",
+      "2cdda9ea0c83"
+     ]
+    },
+    {
+     "text": "Côté droite, Valeurs actuelles juge « le crime odieux » et « les premiers éléments de l'enquête accablants », mais consacre une analyse à une « récupération » de l'attentat par LFI et des militants décoloniaux. Selon Le Monde cité par le magazine, le suspect, Kevin T., aurait dit avoir visé des « Noirs et des Arabes » pour venger les commerçants victimes des pillages du 17 octobre ; le parquet national antiterroriste a retenu la circonstance aggravante raciste.",
+     "sources": [
+      "472a55152f57"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/24/1020/0/6240/3120/644/322/60/0/5d333e4_upload-1-teph6q0xlevn-18-trappes-attentat-raciste-hleuqeux-dsc5688.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/societe/article/2026/10/28/attentat-raciste-de-trappes-le-gouvernement-annonce-un-hommage-national-sans-en-preciser-la-date_6801574_3224.html",
+    "article_id": "6bb40293aeb8"
+   },
+   "id": 208,
+   "section": "institutions",
+   "reviewed_at": "2026-10-28T17:55:11+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "056016f5e39a",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Attentat raciste de Trappes : une séance sous tension à l'Assemblée après la minute de silence en hommage aux victimes",
+     "url": "https://www.europe1.fr/politique/attentat-raciste-de-trappes-une-seance-sous-tension-a-lassemblee-apres-la-minute-de-silence-en-hommage-aux-victimes-1186986?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-27T19:11:00+00:00",
+     "snippet": "Ce mardi 27 octobre, les députés ont observé une minute de silence à l'Assemblée nationale en hommage aux victimes de l'attentat raciste de Trappes, qui a fait un mort et cinq blessés vendredi dernier. Mais les questions au gouvernement ont rapidement tourné au pugilat. Quatre jours après l'attentat raciste de Trappes et de La Verrière, dans les Yvelines, le drame continue de déchirer la classe politique. Ce mardi après-midi, à l'Assemblée nationale, les députés ont observé une minute de silence en hommage aux victimes, dont Pengo Bossio Wangui, abattu par Kevin T. vendredi 23 octobre. Mais tr"
+    },
+    {
+     "id": "2cdda9ea0c83",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Attentat raciste de Trappes : le parallèle détestable de Sébastien Lecornu avec la mort de Quentin Deranque",
+     "url": "https://www.liberation.fr/politique/attentat-raciste-de-trappes-le-parallele-detestable-de-sebastien-lecornu-avec-la-mort-de-quentin-deranque-20261028_ITOEKN3EHREMDMCZY2S2HXVAKY/",
+     "published_at": "2026-10-28T09:45:48+00:00",
+     "snippet": "A l’Assemblée, mardi 27 octobre, le Premier ministre a établi une équivalence entre l’assassinat de Pengo Bossio Wangi et la mort du militant d’extrême droite tué en février à Lyon dans une rixe. Une déclaration qui révèle l’état de la banalisation du fascisme et du racisme en France."
+    },
+    {
+     "id": "472a55152f57",
+     "name": "Valeurs actuelles",
+     "kind": "media",
+     "title": "Attentat de Trappes : de LFI aux militants décoloniaux, radiographie d’une récupération",
+     "url": "https://www.valeursactuelles.com/clubvaleurs/politique/attentat-de-trappes-de-lfi-aux-militants-decoloniaux-radiographie-dune-recuperation",
+     "published_at": "2026-10-28T16:03:32+00:00",
+     "snippet": "Elle hausse le sourcil, mais ne laisse rien transparaître. Assa Traoré est à nouveau sur le devant de la scène. Devant elle, l’influenceur Golo, suivi par des dizaines de milliers... L’article Attentat de Trappes : de LFI aux militants décoloniaux, radiographie d’une récupération est apparu en premier sur Valeurs actuelles ."
+    },
+    {
+     "id": "6bb40293aeb8",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Attentat raciste de Trappes : Sébastien Lecornu présidera un « hommage national », à une date encore inconnue",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/28/attentat-raciste-de-trappes-le-gouvernement-annonce-un-hommage-national-sans-en-preciser-la-date_6801574_3224.html",
+     "published_at": "2026-10-28T12:41:21+00:00",
+     "snippet": "La demande avait été formulée plus tôt par l’opposition de gauche à l’Assemblée nationale, et a été officialisée mercredi par le gouvernement."
+    },
+    {
+     "id": "971aabf03a99",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Après l'hommage rendu par l'Assemblée aux victimes de l'attentat de Trappes, le maire fait part de sa \"frustration\" et de sa \"colère\"",
+     "url": "https://lcp.fr/actualites/apres-l-hommage-rendu-par-l-assemblee-aux-victimes-de-l-attentat-de-trappes-le-maire",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Soizic BONVARLET , le Mardi 27 octobre 2026 à 21:25 Lors d'une conférence de presse, le maire de Trappes, Ali Rabeh, a fait part de sa \"frustration\" et de sa \"colère\" au sujet de la séance qui a suivi l'hommage rendu par l'Assemblée nationale aux victimes de l'attentat raciste survenu vendredi dernier. L'élu, qui était présent dans les tribunes du Palais-Bourbon ce mardi 27 octobre, a notamment déploré \"l'absence éloquente de Marine Le Pen\" et \"une forme d'indécence\" dans certains propos tenus par le Premier ministre. Il retiendra \"cette minute de silence solennelle où pendant un instant a"
+    },
+    {
+     "id": "d9a8b3b8360e",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Sébastien Lecornu dénonce « l’ambiance nauséabonde » à l’Assemblée nationale après la minute de silence",
+     "url": "https://www.huffingtonpost.fr/politique/article/sebastien-lecornu-denonce-l-ambiance-nauseabonde-a-l-assemblee-nationale-apres-la-minute-de-silence_346210.html",
+     "published_at": "2026-10-27T16:24:58+00:00",
+     "snippet": "Immédiatement après la minute de silence en hommage aux victimes de l’attentat de Trappes, les échanges se sont durcis entre le Premier ministre et les oppositions, en particulier à gauche."
+    }
+   ]
+  },
+  {
+   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
+   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
+   "points": [
+    {
+     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
+     "sources": [
+      "39fec858ff48",
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    },
+    {
+     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
+     "sources": [
+      "4c096eb1c11c"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+    "article_id": "6a7d09056f81"
+   },
+   "id": 205,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T09:30:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.66,
+   "sources": [
+    {
+     "id": "39fec858ff48",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
+     "published_at": "2026-10-28T09:23:18+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4c096eb1c11c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
+     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
+     "published_at": "2026-10-27T11:39:29+00:00",
+     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+    },
+    {
+     "id": "6a7d09056f81",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
+     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
+    }
+   ]
+  },
   {
    "headline": "Limoges : le maire LR regrette que Macron ne l'ait pas appelé après l'incendie de l'hôtel de ville",
    "chapo": "Invité de BFMTV le 28 octobre, Guillaume Guérin dit n'avoir reçu aucun appel du chef de l'État depuis l'incendie du 17 octobre, tout en saluant l'action du Premier ministre Sébastien Lecornu.",
@@ -106,96 +314,6 @@
      "url": "https://www.ladepeche.fr/2026/10/28/incendie-de-lhotel-de-ville-de-limoges-le-maire-a-recu-le-soutien-du-vice-president-americain-jd-vance-mais-pas-de-lelysee-je-nai-pas-eu-emmanuel-13624971.php",
      "published_at": "2026-10-28T15:50:29+00:00",
      "snippet": "Le 17 octobre dernier, la mairie de Limoges a été ravagée par un violent incendie. Alors que le maire LR Guillaume Guérin affirme ce mercredi 28 octobre avoir reçu le soutien surprise de dirigeants étrangers, dont le..."
-    }
-   ]
-  },
-  {
-   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
-   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
-   "points": [
-    {
-     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
-     "sources": [
-      "39fec858ff48",
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
-     "sources": [
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
-     "sources": [
-      "6a7d09056f81"
-     ]
-    },
-    {
-     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
-     "sources": [
-      "39fec858ff48"
-     ]
-    },
-    {
-     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
-     "sources": [
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
-     "sources": [
-      "39fec858ff48"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-    "article_id": "6a7d09056f81"
-   },
-   "id": 205,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-28T09:30:26+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 6.66,
-   "sources": [
-    {
-     "id": "39fec858ff48",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
-     "published_at": "2026-10-28T09:23:18+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "4c096eb1c11c",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
-     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
-     "published_at": "2026-10-27T11:39:29+00:00",
-     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
-    },
-    {
-     "id": "6a7d09056f81",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
-     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
-     "published_at": "2026-10-28T09:23:22+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
     }
    ]
   },
