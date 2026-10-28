@@ -1,6 +1,273 @@
 {
- "generated_at": "2026-10-28T09:30:26+00:00",
+ "generated_at": "2026-10-28T09:30:43+00:00",
  "posts": [
+  {
+   "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
+   "chapo": "Après l'attaque raciste de Trappes et La Verrière, qui a fait un mort et cinq blessés, la gauche et Dominique de Villepin mettent en cause le climat politique et le RN. Le RN rejette toute responsabilité et dénonce une récupération, tout en qualifiant l'acte de « crime raciste, terroriste ». Le RN accuse Macron d'avoir « oublié » des victimes d'attentats passés.",
+   "points": [
+    {
+     "text": "Selon La Dépêche du Midi, le suspect, Kevin T., a reconnu avoir visé des « Noirs » et des « Arabes » pour venger des « commerçants » touchés par les violences du 17 octobre. Le Parquet national antiterroriste a ouvert une procédure. Laurent Nuñez parle d'un « attentat terroriste raciste ».",
+     "sources": [
+      "3ea33e4c44fc"
+     ]
+    },
+    {
+     "text": "Le suspect dit souffrir de schizophrénie, et son sang contenait du cannabis et de la cocaïne, rapporte La Dépêche du Midi. Il est présenté comme un individu « isolé », sans lien avéré avec des groupuscules extrémistes. Un exemplaire de Mein Kampf a été trouvé chez lui, à côté d'un Coran.",
+     "sources": [
+      "3ea33e4c44fc"
+     ]
+    },
+    {
+     "text": "Dominique de Villepin, sur RTL (cité par CNews) : « il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent ». Il juge que « le RN porte une responsabilité dans la polarisation de notre pays », tout en refusant la « spirale accusatoire ». Il met aussi en cause Éric Zemmour et le « grand remplacement ».",
+     "sources": [
+      "0c42af07c9d0"
+     ]
+    },
+    {
+     "text": "À gauche, L'Humanité estime que l'attentat « est le produit de leur projet politique », en parlant du RN. Le maire de Trappes, Ali Rabeh, dit dans Le Monde que le président « n'a pas été le protecteur qu'il aurait dû être », relaie CNews.",
+     "sources": [
+      "08e0b2f412a5",
+      "0c42af07c9d0"
+     ]
+    },
+    {
+     "text": "L'Humanité rapporte que Le Monde a révélé que des tracts du RN avaient été retrouvés dans la voiture du tireur. La Dépêche du Midi nuance : une première source parle de tracts dans le véhicule, une seconde précise que des documents liés au RN ont été saisis dans un autre endroit, et que leur nature reste à confirmer.",
+     "sources": [
+      "08e0b2f412a5",
+      "3ea33e4c44fc"
+     ]
+    },
+    {
+     "text": "Du côté du RN, Sébastien Chenu « rejette toute responsabilité » et dénonce une « récupération politique indigne de LFI », selon franceinfo. Thomas Ménagé « regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne ».",
+     "sources": [
+      "b79df99be33f",
+      "7ed14885cc06"
+     ]
+    },
+    {
+     "text": "Louis Aliot a déclaré sur BFMTV : « Oui c'est un crime raciste, terroriste ». Selon Libération, Marine Le Pen avait dénoncé dès vendredi le « mobile abject du racisme », une tonalité que le journal juge nouvelle au regard de ses propos passés sur Trappes et son maire.",
+     "sources": [
+      "65c78da74267",
+      "8dc27d1f89b0"
+     ]
+    },
+    {
+     "text": "Le RN retourne l'accusation contre Macron. Jean-Philippe Tanguy, sur Europe 1 et CNews, l'accuse d'avoir « oublié » les victimes d'attentats passés, après sa formule sur un « premier » acte terroriste motivé par la couleur de peau ou la religion. Il dénonce aussi le « comportement lamentable » du maire de Trappes.",
+     "sources": [
+      "5d39f61801e1"
+     ]
+    },
+    {
+     "text": "Le Figaro s'intéresse au parcours du suspect : un ex-élu EELV proche de LFI, Olivier Pareja, assure qu'il « n'était pas plus adhérent que donateur » d'une association propalestinienne. Selon Le Figaro, le suspect aurait dit vouloir se venger des pillages du 17 octobre.",
+     "sources": [
+      "b1c5d7237ef3"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 9,
+    "outlets": 8
+   },
+   "image": {
+    "url": "https://images.ladepeche.fr/api/v1/images/view/6adf5e0fdf66ac7ff50196f0/standard/image.jpg?v=1",
+    "source": "La Dépêche du Midi",
+    "article_url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
+    "article_id": "3ea33e4c44fc"
+   },
+   "id": 185,
+   "section": "institutions",
+   "reviewed_at": "2026-10-27T14:22:40+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 13.91,
+   "sources": [
+    {
+     "id": "08e0b2f412a5",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Attentat raciste et islamophobe à Trappes : des tracts du RN retrouvés dans la voiture du tireur",
+     "url": "https://www.humanite.fr/politique/extreme-droite/attentat-raciste-et-islamophobe-a-trappes-des-tracts-du-rn-retrouves-dans-la-voiture-du-tireur",
+     "published_at": "2026-10-26T14:13:47+00:00",
+     "snippet": "Alors que le Rassemblement national réfute tout lien avec l’attentat raciste et islamophobe qui a endeuillé Trappes et La Verrière vendredi 23 octobre, « le Monde » révèle que des tracts du parti lepéniste ont été retrouvés dans la voiture du tireur. Quelques heures avant cette révélation, Sébastien Chenu comparait, sur France Inter, Trappes à « un foyer de djihadistes »."
+    },
+    {
+     "id": "0c42af07c9d0",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Attaque terroriste dans les Yvelines : pour Dominique de Villepin, «le RN porte une responsabilité dans la polarisation de notre pays»",
+     "url": "https://www.cnews.fr/france/2026-10-26/attaque-terroriste-dans-les-yvelines-pour-dominique-de-villepin-le-rn-porte-une",
+     "published_at": "2026-10-26T10:11:38+00:00",
+     "snippet": "Invité sur RTL ce lundi 26 octobre, l'ancien Premier ministre, Dominique de Villepin, a alerté contre la «polarisation» de la France, dont serait pour partie responsable le RN, deux jours après l'attentat terroriste dans les Yvelines. Des «responsables de la mise en place de cette mécanique de la haine». Invité ce lundi 26 octobre sur RTL, Dominique de Villepin est revenu sur l'attentat terroriste dans les Yvelines à Trappes et La Verrière, tuant une personne et en blessant quatre autres. Pour lui, «il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent». "
+    },
+    {
+     "id": "3ea33e4c44fc",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Attentat de Trappes : documents liés au RN, exemplaire de \"Mein Kampf\"... les découvertes des enquêteurs confirment la piste du crime raciste",
+     "url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
+     "published_at": "2026-10-26T14:36:08+00:00",
+     "snippet": "L'enquête sur l'attaque qui a fait un mort et cinq blessés vendredi dans les Yvelines s'oriente bel et bien vers la piste d'un attentat raciste. Les déclarations du suspect Kevin T. ainsi que le témoignage de ses..."
+    },
+    {
+     "id": "5d39f61801e1",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "«La haine se déploie en France sous Emmanuel Macron» : Jean-Philippe Tanguy charge le président après ses propos sur l'attentat de Trappes",
+     "url": "https://www.europe1.fr/societe/la-haine-se-deploie-en-france-sous-emmanuel-macron-jean-philippe-tanguy-charge-le-president-apres-ses-propos-sur-lattentat-de-trappes-1182768?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-26T07:59:01+00:00",
+     "snippet": "Invité de La Grande Interview sur Europe 1 et CNews ce lundi, le député RN de la Somme Jean-Philippe Tanguy a vivement critiqué les propos d'Emmanuel Macron sur l'attaque de Trappes. Il accuse le président de la République d'avoir \"oublié\" les victimes des attentats passés et dénonce une \"haine\" qui se déploierait en France. La classe politique a exprimé sa réprobation vendredi après les propos d'Emmanuel Macron sur l'attaque à Trappes, que le président a qualifiée de \"premier\" acte terroriste motivé par la \"couleur de peau ou la religion\", malgré des précédents. Des deux côtés de l'échiquier "
+    },
+    {
+     "id": "65c78da74267",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Attentat à Trappes: \"Oui c'est un crime raciste, terroriste\", affirme Louis Aliot, vice-président du RN",
+     "url": "https://www.bfmtv.com/politique/front-national/video-attentat-a-trappes-oui-c-est-un-crime-raciste-terroriste-affirme-louis-aliot-vice-president-du-rn_VN-202610250187.html",
+     "published_at": "2026-10-25T12:00:47+00:00",
+     "snippet": "Louis Aliot, vice-président du Rassemblement national et maire de Perpignan était l’invité de BFMTV ce dimanche 25 octobre."
+    },
+    {
+     "id": "7ed14885cc06",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Attentat raciste à Trappes : Thomas Ménagé \"regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne\"",
+     "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-thomas-menage-regrette-que-la-gauche-saute-sur-un-fait-aussi-abject-pour-faire-de-la-politique-politicienne_8253934.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-26T08:34:57+00:00",
+     "snippet": "Après l'attaque terroriste raciste survenue dans les Yvelines vendredi, le Rassemblement national rejette toute responsabilité."
+    },
+    {
+     "id": "8dc27d1f89b0",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Attentat raciste à Trappes : Marine Le Pen remplace des années de stigmatisation par un peu de compassion",
+     "url": "https://www.liberation.fr/politique/attentat-raciste-a-trappes-marine-le-pen-grand-remplace-des-annees-de-stigmatisation-par-un-peu-de-compassion-20261026_37WFF2DP4VB3REYEFXYVEE3DRA/",
+     "published_at": "2026-10-26T10:25:46+00:00",
+     "snippet": "La candidate d’extrême droite s’indigne du caractère «raciste» de l’attentat qui a fait un mort dans la ville des Yvelines vendredi 23 octobre, oubliant ses innombrables propos jetant l’opprobre sur la commune et son maire qui seraient «islamisés» par «l’immigration dérégulée»."
+    },
+    {
+     "id": "b1c5d7237ef3",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "«On a appris qu’il avait tourné extrême droite» : Kévin T., le suspect de l’attentat de Trappes, a-t-il été identifié sur la photo d’un groupe propalestinien ?",
+     "url": "https://www.lefigaro.fr/faits-divers/on-a-appris-qu-il-avait-tourne-extreme-droite-kevin-t-le-suspect-de-l-attentat-de-trappes-a-t-il-ete-identifie-sur-la-photo-d-un-groupe-propalestinien-20261026",
+     "published_at": "2026-10-26T13:32:45+00:00",
+     "snippet": "Trois jours après l’attaque raciste qui a fait un mort et plusieurs blessés graves dans les Yvelines, le profil de Kévin T., qui dit souffrir de schizophrénie, se précise peu à peu."
+    },
+    {
+     "id": "b79df99be33f",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une \"récupération politique indigne\" de LFI",
+     "url": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-26T07:52:29+00:00",
+     "snippet": "Invité de France Inter lundi, Sébastien Chenu assure que le parti d'extrême droite n'a aucun lien avec l'attaque terroriste raciste qui a coûté la vie à une personne et blessé cinq autres dans les Yvelines vendredi."
+    }
+   ]
+  },
+  {
+   "headline": "Loi « casseurs-payeurs » : ce que contient le texte adopté par le Sénat, et ce que la gauche conteste",
+   "chapo": "Dans la nuit du 27 au 28 octobre, le Sénat a adopté par 229 voix contre 105 le projet de loi « casseurs-payeurs », nettement durci. Le texte part à l'Assemblée nationale. Ce qu'il prévoit, ce que dit le gouvernement, et les critiques de la gauche.",
+   "points": [
+    {
+     "text": "Le texte a été adopté par 229 voix contre 105, avec le soutien du RN et malgré la « vive opposition de la gauche », selon LCP. Il contenait au départ cinq articles, et le Sénat l'a « nettement durci », selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    },
+    {
+     "text": "Mesure phare : une solidarité financière pour toute personne ayant « sciemment participé » à un groupement formé pour commettre des dégradations. L'État pourrait se retourner contre les auteurs indirects, dans la limite de 10 000 euros par personne, selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    },
+    {
+     "text": "Les allocations familiales, les aides personnelles au logement et le RSA pourront être saisis, selon LCP. Selon Midi Libre, les sénateurs ont durci la mesure en y ajoutant le complément familial, l'allocation de rentrée scolaire et la prime d'activité.",
+     "sources": [
+      "00c374c10d7a",
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Le texte fait polémique parce qu'il s'applique aussi aux personnes qui n'ont pas participé directement aux violences mais qui étaient dans l'attroupement, selon franceinfo.",
+     "sources": [
+      "8b49351f9748"
+     ]
+    },
+    {
+     "text": "Le ministre de l'Intérieur Laurent Nuñez défend un texte de « bon sens », face à « l'urgence » : plus de 2 500 commerces touchés selon CCI France. Il saisira le Conseil d'État sur les extensions, pour vérifier si « l'équilibre entre solidarité et réparation » est respecté, selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Côté droite, David Margueritte (LR) : « Ce texte renforce au contraire la liberté de manifester », selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Côté gauche, Fabien Gay (communiste) parle d'une « forfaiture juridique, qui confond volontairement manifestants et casseurs ». Mélanie Vogel (écologiste) dit que le texte ne dissuadera pas les casseurs mais « la mère de famille, le salarié, la lycéenne » de manifester, selon Midi Libre.",
+     "sources": [
+      "ef2b405e0c7d"
+     ]
+    },
+    {
+     "text": "Autres mesures votées : nouvelles interdictions administratives de manifester, drones judiciaires et vidéoprotection algorithmique facilités, expulsions de logements sociaux, et une procédure d'urgence pour demander le retrait en moins de 24 heures de contenus appelant aux dégradations, décriée à gauche, selon LCP.",
+     "sources": [
+      "00c374c10d7a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2020-02/field_media_image-1522-violences_gilets_jaunes.jpg?h=38234820&itok=HKx0BHjD",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
+    "article_id": "00c374c10d7a"
+   },
+   "id": 201,
+   "section": "institutions",
+   "reviewed_at": "2026-10-28T09:30:43+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "00c374c10d7a",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Projet de loi \"casseurs-payeurs\": le texte transmis à l'Assemblée après son adoption au Sénat",
+     "url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 08:53 Érigé comme une \"urgence\" pour répondre aux débordements tels que ceux qui ont été commis en marge des manifestations du 17 octobre, le projet de loi \"casseurs-payeurs\" a été adopté dans une version élargie et durcie, mardi 27 octobre au soir, par le Sénat. Les discussions à l'Assemblée nationale s'annoncent déjà électriques. Le projet de loi \"casseurs-payeurs\" a été adopté dans la nuit de mardi à mercredi au Sénat. Prochaine étape : son examen au Palais-Bourbon. Élaboré durant l'été après les débordements ayant suivi le sacre européen "
+    },
+    {
+     "id": "8b49351f9748",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Une loi polémique pour faire payer les casseurs",
+     "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/une-loi-polemique-pour-faire-payer-les-casseurs_8256406.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-10-28T07:00:01+00:00",
+     "snippet": "Les casseurs vont-ils payer la facture des dégâts du 17 octobre ? Le projet de loi qui arrive au Sénat prévoit même de saisir les allocations sociales. Le texte fait polémique parce qu’il s’applique aussi aux personnes qui n’ont pas participé directement aux violences mais qui étaient dans l’attroupement."
+    },
+    {
+     "id": "ef2b405e0c7d",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Loi \"casseurs payeurs\" : le texte approuvé et \"considérablement élargi\" au Sénat, la gauche dénonce une \"instrumentalisation des commerçants\"",
+     "url": "https://www.midilibre.fr/2026/10/28/loi-casseurs-payeurs-le-texte-approuve-et-considerablement-elargi-au-senat-la-gauche-denonce-une-instrumentalisation-des-commercants-13624106.php",
+     "published_at": "2026-10-28T07:37:54+00:00",
+     "snippet": "Le Sénat a adopté dans la nuit du 27 au 28 octobre, par 229 voix contre 105, le projet de loi \"casseurs payeurs\" nettement durci. La mesure prévoit une solidarité financière de 10 000 euros maximum et la saisie..."
+    }
+   ]
+  },
   {
    "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
    "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
@@ -217,171 +484,6 @@
      "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
      "published_at": "2026-10-28T09:23:22+00:00",
      "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
-    }
-   ]
-  },
-  {
-   "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
-   "chapo": "Après l'attaque raciste de Trappes et La Verrière, qui a fait un mort et cinq blessés, la gauche et Dominique de Villepin mettent en cause le climat politique et le RN. Le RN rejette toute responsabilité et dénonce une récupération, tout en qualifiant l'acte de « crime raciste, terroriste ». Le RN accuse Macron d'avoir « oublié » des victimes d'attentats passés.",
-   "points": [
-    {
-     "text": "Selon La Dépêche du Midi, le suspect, Kevin T., a reconnu avoir visé des « Noirs » et des « Arabes » pour venger des « commerçants » touchés par les violences du 17 octobre. Le Parquet national antiterroriste a ouvert une procédure. Laurent Nuñez parle d'un « attentat terroriste raciste ».",
-     "sources": [
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Le suspect dit souffrir de schizophrénie, et son sang contenait du cannabis et de la cocaïne, rapporte La Dépêche du Midi. Il est présenté comme un individu « isolé », sans lien avéré avec des groupuscules extrémistes. Un exemplaire de Mein Kampf a été trouvé chez lui, à côté d'un Coran.",
-     "sources": [
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin, sur RTL (cité par CNews) : « il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent ». Il juge que « le RN porte une responsabilité dans la polarisation de notre pays », tout en refusant la « spirale accusatoire ». Il met aussi en cause Éric Zemmour et le « grand remplacement ».",
-     "sources": [
-      "0c42af07c9d0"
-     ]
-    },
-    {
-     "text": "À gauche, L'Humanité estime que l'attentat « est le produit de leur projet politique », en parlant du RN. Le maire de Trappes, Ali Rabeh, dit dans Le Monde que le président « n'a pas été le protecteur qu'il aurait dû être », relaie CNews.",
-     "sources": [
-      "08e0b2f412a5",
-      "0c42af07c9d0"
-     ]
-    },
-    {
-     "text": "L'Humanité rapporte que Le Monde a révélé que des tracts du RN avaient été retrouvés dans la voiture du tireur. La Dépêche du Midi nuance : une première source parle de tracts dans le véhicule, une seconde précise que des documents liés au RN ont été saisis dans un autre endroit, et que leur nature reste à confirmer.",
-     "sources": [
-      "08e0b2f412a5",
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Du côté du RN, Sébastien Chenu « rejette toute responsabilité » et dénonce une « récupération politique indigne de LFI », selon franceinfo. Thomas Ménagé « regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne ».",
-     "sources": [
-      "b79df99be33f",
-      "7ed14885cc06"
-     ]
-    },
-    {
-     "text": "Louis Aliot a déclaré sur BFMTV : « Oui c'est un crime raciste, terroriste ». Selon Libération, Marine Le Pen avait dénoncé dès vendredi le « mobile abject du racisme », une tonalité que le journal juge nouvelle au regard de ses propos passés sur Trappes et son maire.",
-     "sources": [
-      "65c78da74267",
-      "8dc27d1f89b0"
-     ]
-    },
-    {
-     "text": "Le RN retourne l'accusation contre Macron. Jean-Philippe Tanguy, sur Europe 1 et CNews, l'accuse d'avoir « oublié » les victimes d'attentats passés, après sa formule sur un « premier » acte terroriste motivé par la couleur de peau ou la religion. Il dénonce aussi le « comportement lamentable » du maire de Trappes.",
-     "sources": [
-      "5d39f61801e1"
-     ]
-    },
-    {
-     "text": "Le Figaro s'intéresse au parcours du suspect : un ex-élu EELV proche de LFI, Olivier Pareja, assure qu'il « n'était pas plus adhérent que donateur » d'une association propalestinienne. Selon Le Figaro, le suspect aurait dit vouloir se venger des pillages du 17 octobre.",
-     "sources": [
-      "b1c5d7237ef3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://images.ladepeche.fr/api/v1/images/view/6adf5e0fdf66ac7ff50196f0/standard/image.jpg?v=1",
-    "source": "La Dépêche du Midi",
-    "article_url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
-    "article_id": "3ea33e4c44fc"
-   },
-   "id": 185,
-   "section": "institutions",
-   "reviewed_at": "2026-10-27T14:22:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 13.91,
-   "sources": [
-    {
-     "id": "08e0b2f412a5",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Attentat raciste et islamophobe à Trappes : des tracts du RN retrouvés dans la voiture du tireur",
-     "url": "https://www.humanite.fr/politique/extreme-droite/attentat-raciste-et-islamophobe-a-trappes-des-tracts-du-rn-retrouves-dans-la-voiture-du-tireur",
-     "published_at": "2026-10-26T14:13:47+00:00",
-     "snippet": "Alors que le Rassemblement national réfute tout lien avec l’attentat raciste et islamophobe qui a endeuillé Trappes et La Verrière vendredi 23 octobre, « le Monde » révèle que des tracts du parti lepéniste ont été retrouvés dans la voiture du tireur. Quelques heures avant cette révélation, Sébastien Chenu comparait, sur France Inter, Trappes à « un foyer de djihadistes »."
-    },
-    {
-     "id": "0c42af07c9d0",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Attaque terroriste dans les Yvelines : pour Dominique de Villepin, «le RN porte une responsabilité dans la polarisation de notre pays»",
-     "url": "https://www.cnews.fr/france/2026-10-26/attaque-terroriste-dans-les-yvelines-pour-dominique-de-villepin-le-rn-porte-une",
-     "published_at": "2026-10-26T10:11:38+00:00",
-     "snippet": "Invité sur RTL ce lundi 26 octobre, l'ancien Premier ministre, Dominique de Villepin, a alerté contre la «polarisation» de la France, dont serait pour partie responsable le RN, deux jours après l'attentat terroriste dans les Yvelines. Des «responsables de la mise en place de cette mécanique de la haine». Invité ce lundi 26 octobre sur RTL, Dominique de Villepin est revenu sur l'attentat terroriste dans les Yvelines à Trappes et La Verrière, tuant une personne et en blessant quatre autres. Pour lui, «il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent». "
-    },
-    {
-     "id": "3ea33e4c44fc",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Attentat de Trappes : documents liés au RN, exemplaire de \"Mein Kampf\"... les découvertes des enquêteurs confirment la piste du crime raciste",
-     "url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
-     "published_at": "2026-10-26T14:36:08+00:00",
-     "snippet": "L'enquête sur l'attaque qui a fait un mort et cinq blessés vendredi dans les Yvelines s'oriente bel et bien vers la piste d'un attentat raciste. Les déclarations du suspect Kevin T. ainsi que le témoignage de ses..."
-    },
-    {
-     "id": "5d39f61801e1",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "«La haine se déploie en France sous Emmanuel Macron» : Jean-Philippe Tanguy charge le président après ses propos sur l'attentat de Trappes",
-     "url": "https://www.europe1.fr/societe/la-haine-se-deploie-en-france-sous-emmanuel-macron-jean-philippe-tanguy-charge-le-president-apres-ses-propos-sur-lattentat-de-trappes-1182768?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-26T07:59:01+00:00",
-     "snippet": "Invité de La Grande Interview sur Europe 1 et CNews ce lundi, le député RN de la Somme Jean-Philippe Tanguy a vivement critiqué les propos d'Emmanuel Macron sur l'attaque de Trappes. Il accuse le président de la République d'avoir \"oublié\" les victimes des attentats passés et dénonce une \"haine\" qui se déploierait en France. La classe politique a exprimé sa réprobation vendredi après les propos d'Emmanuel Macron sur l'attaque à Trappes, que le président a qualifiée de \"premier\" acte terroriste motivé par la \"couleur de peau ou la religion\", malgré des précédents. Des deux côtés de l'échiquier "
-    },
-    {
-     "id": "65c78da74267",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Attentat à Trappes: \"Oui c'est un crime raciste, terroriste\", affirme Louis Aliot, vice-président du RN",
-     "url": "https://www.bfmtv.com/politique/front-national/video-attentat-a-trappes-oui-c-est-un-crime-raciste-terroriste-affirme-louis-aliot-vice-president-du-rn_VN-202610250187.html",
-     "published_at": "2026-10-25T12:00:47+00:00",
-     "snippet": "Louis Aliot, vice-président du Rassemblement national et maire de Perpignan était l’invité de BFMTV ce dimanche 25 octobre."
-    },
-    {
-     "id": "7ed14885cc06",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Thomas Ménagé \"regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne\"",
-     "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-thomas-menage-regrette-que-la-gauche-saute-sur-un-fait-aussi-abject-pour-faire-de-la-politique-politicienne_8253934.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-26T08:34:57+00:00",
-     "snippet": "Après l'attaque terroriste raciste survenue dans les Yvelines vendredi, le Rassemblement national rejette toute responsabilité."
-    },
-    {
-     "id": "8dc27d1f89b0",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Marine Le Pen remplace des années de stigmatisation par un peu de compassion",
-     "url": "https://www.liberation.fr/politique/attentat-raciste-a-trappes-marine-le-pen-grand-remplace-des-annees-de-stigmatisation-par-un-peu-de-compassion-20261026_37WFF2DP4VB3REYEFXYVEE3DRA/",
-     "published_at": "2026-10-26T10:25:46+00:00",
-     "snippet": "La candidate d’extrême droite s’indigne du caractère «raciste» de l’attentat qui a fait un mort dans la ville des Yvelines vendredi 23 octobre, oubliant ses innombrables propos jetant l’opprobre sur la commune et son maire qui seraient «islamisés» par «l’immigration dérégulée»."
-    },
-    {
-     "id": "b1c5d7237ef3",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "«On a appris qu’il avait tourné extrême droite» : Kévin T., le suspect de l’attentat de Trappes, a-t-il été identifié sur la photo d’un groupe propalestinien ?",
-     "url": "https://www.lefigaro.fr/faits-divers/on-a-appris-qu-il-avait-tourne-extreme-droite-kevin-t-le-suspect-de-l-attentat-de-trappes-a-t-il-ete-identifie-sur-la-photo-d-un-groupe-propalestinien-20261026",
-     "published_at": "2026-10-26T13:32:45+00:00",
-     "snippet": "Trois jours après l’attaque raciste qui a fait un mort et plusieurs blessés graves dans les Yvelines, le profil de Kévin T., qui dit souffrir de schizophrénie, se précise peu à peu."
-    },
-    {
-     "id": "b79df99be33f",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une \"récupération politique indigne\" de LFI",
-     "url": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-26T07:52:29+00:00",
-     "snippet": "Invité de France Inter lundi, Sébastien Chenu assure que le parti d'extrême droite n'a aucun lien avec l'attaque terroriste raciste qui a coûté la vie à une personne et blessé cinq autres dans les Yvelines vendredi."
     }
    ]
   },
@@ -1108,7 +1210,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.01,
+   "score": 5.0,
    "sources": [
     {
      "id": "4c096eb1c11c",
