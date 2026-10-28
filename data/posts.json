@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T09:30:15+00:00",
+ "generated_at": "2026-10-28T09:30:26+00:00",
  "posts": [
   {
    "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
@@ -72,7 +72,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.02,
+   "score": 10.01,
    "sources": [
     {
      "id": "047bda588bce",
@@ -127,6 +127,96 @@
      "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
      "published_at": "2026-10-26T14:00:32+00:00",
      "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
+    }
+   ]
+  },
+  {
+   "headline": "Braun-Pivet plaide pour un « candidat unique » du centre et de la droite, et cite Gérard Larcher",
+   "chapo": "Dans un entretien au Figaro publié le 27 octobre au soir, la présidente de l'Assemblée nationale appelle à une candidature commune « du MoDem à la droite républicaine » pour éviter un second tour Le Pen–Mélenchon. Elle cite le président du Sénat comme recours possible.",
+   "points": [
+    {
+     "text": "Yaël Braun-Pivet : « Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement », et Gérard Larcher, « comme d'autres (…) peut incarner ce rassemblement ». Il faut « travailler avec les candidats du socle commun déjà déclarés, du MoDem à la droite républicaine » pour trouver « un candidat unique », à la faveur de « compromis », selon Le Parisien. Gérard Larcher est membre des Républicains, selon LCP.",
+     "sources": [
+      "39fec858ff48",
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "« Le plus vite sera le mieux », dit-elle. Elle juge qu'il faut « absolument empêcher » un duel entre Marine Le Pen et Jean-Luc Mélenchon, selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Sur une primaire, elle affirme que « peu importent les modalités » : « Je souhaite qu'avec les différents candidats nous puissions converger autour d'un projet, d'une vision et d'une personne », selon LCP.",
+     "sources": [
+      "6a7d09056f81"
+     ]
+    },
+    {
+     "text": "Plusieurs candidats sont déjà en lice dans cet espace, comme Gabriel Attal ou Édouard Philippe, mais aucun sondage n'en envoie un seul au second tour. Les intentions de vote pour Philippe « s'essoufflent semaine après semaine », selon Le Parisien.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    },
+    {
+     "text": "La veille, Bruno Retailleau disait déjà qu'une coalition avec David Lisnard était « inévitable » et qu'il serait « persuadé » de battre Édouard Philippe en primaire, selon La Dépêche du Midi.",
+     "sources": [
+      "4c096eb1c11c"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, ni Gérard Larcher ni les candidats cités n'avaient encore réagi à cette prise de position.",
+     "sources": [
+      "39fec858ff48"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/Questions%20au%20gouvernement_0.jpg?h=d1cb525d&itok=3bRUuhNL",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+    "article_id": "6a7d09056f81"
+   },
+   "id": 205,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T09:30:26+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "39fec858ff48",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Yaël Braun-Pivet estime que Gérard Larcher peut « incarner le rassemblement » du centre et de la droite",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-yael-braun-pivet-estime-que-gerard-larcher-peut-incarner-le-rassemblement-du-centre-et-de-la-droite-27-10-2026-RXEYXPAFX5F4PJWL7ZAHJY2KBM.php",
+     "published_at": "2026-10-28T09:23:18+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "4c096eb1c11c",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
+     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
+     "published_at": "2026-10-27T11:39:29+00:00",
+     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
+    },
+    {
+     "id": "6a7d09056f81",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Présidentielle: Yaël Braun-Pivet plaide pour un \"candidat unique\" du centre et de la droite, mentionnant Gérard Larcher comme recours possible",
+     "url": "https://lcp.fr/actualites/presidentielle-yael-braun-pivet-plaide-pour-un-candidat-unique-du-centre-et-de-la-droite",
+     "published_at": "2026-10-28T09:23:22+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Mardi 27 octobre 2026 à 22:55 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, plaide dans Le Figaro pour une candidature unique allant \"du MoDem à la droite républicaine\" pour l'élection présidentielle 2027, afin de préserver les chances du bloc central de parvenir au second tour, mentionnant son homologue du Sénat, Gérard Larcher, comme un recours possible. \"Dans ces temps difficiles, nous avons besoin d'unité et d'apaisement. Comme d'autres, Gérard Larcher peut incarner ce rassemblement.\" Ces mots sont ceux de Yaël Braun-Pivet – élue des Yvelines c"
     }
    ]
   },
@@ -2820,7 +2910,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.82,
+   "score": 3.81,
    "sources": [
     {
      "id": "6497706b05ca",
