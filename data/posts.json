@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:28:27+00:00",
+ "generated_at": "2026-10-29T15:28:35+00:00",
  "posts": [
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
@@ -62,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 17.91,
+   "score": 17.9,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -121,95 +121,111 @@
    ]
   },
   {
-   "headline": "Marine Le Pen est-elle éligible ? Un magistrat honoraire dit non, ses avocats saisissent le CSM",
-   "chapo": "Dans Le Monde, Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme que la candidate RN reste inéligible tant que la Cour n'a pas statué sur son pourvoi. Le procureur général de la Cour de cassation avait une lecture inverse en juillet.",
+   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
+   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
    "points": [
     {
-     "text": "Didier Guérin : « Marine Le Pen est actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi ». Selon lui, l'inéligibilité de cinq ans avec exécution provisoire prononcée en première instance « continue à s'exécuter et n'est pas suspendue, elle, par le pourvoi », selon Le Parisien.",
+     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
      "sources": [
-      "7f1e854aa29a"
+      "ec850d6b4f35"
      ]
     },
     {
-     "text": "Le contexte : condamnée le 30 mars 2025 à cinq ans d'inéligibilité avec exécution provisoire, Marine Le Pen a vu sa peine réduite en appel à 15 mois d'inéligibilité, « soit une durée déjà purgée », la cour invoquant « la préservation de la liberté de l'électeur ». Elle a formé un pourvoi en cassation, en cours d'examen, selon Le Parisien et Le HuffPost.",
+     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
      "sources": [
-      "7f1e854aa29a",
-      "d5abac7145ed"
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
      ]
     },
     {
-     "text": "Le procureur général de la Cour de cassation, Rémy Heitz, disait le 9 juillet que le pourvoi ne faisait pas « revivre » le jugement de première instance : « Ça, ce n'est pas un raisonnement fondé », selon Midi Libre.",
+     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
      "sources": [
-      "394b3410d53f"
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
      ]
     },
     {
-     "text": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature (CSM). Ils estiment que ces prises de position « contreviennent gravement » au devoir de réserve des magistrats honoraires et que le magistrat développe « des thèses à finalité en réalité purement politiques », selon RMC.",
+     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
      "sources": [
-      "f53a53a21fbd"
+      "0c848649e720"
      ]
     },
     {
-     "text": "D'après RMC, la lecture de la cour d'appel est que Marine Le Pen « peut a priori être de nouveau candidate ». Dans les articles lus, la Cour de cassation n'avait pas fixé de date pour trancher.",
+     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
      "sources": [
-      "f53a53a21fbd"
+      "909c19c404cb"
+     ]
+    },
+    {
+     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
+     "sources": [
+      "5a9e1ccd28ca"
      ]
     }
    ],
    "perspectives": [],
    "coverage": {
-    "articles": 4,
-    "outlets": 4
+    "articles": 5,
+    "outlets": 5
    },
    "image": {
-    "url": "https://focus.huffingtonpost.fr/2026/07/21/0/0/4000/2250/0/0/60/0/effacb2_upload-1-5b1g1nqj54yf-gettyimages-2232755571.jpg",
-    "source": "Le HuffPost",
-    "article_url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
-    "article_id": "d5abac7145ed"
+    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+    "article_id": "5a9e1ccd28ca"
    },
-   "id": 212,
+   "id": 221,
    "section": "presidentielle",
-   "reviewed_at": "2026-10-28T18:00:21+00:00",
+   "reviewed_at": "2026-10-29T15:28:35+00:00",
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.33,
+   "score": 15.0,
    "sources": [
     {
-     "id": "394b3410d53f",
-     "name": "Midi Libre",
+     "id": "0c848649e720",
+     "name": "La Croix",
      "kind": "media",
-     "title": "Présidentielle 2027 : \"Marine Le Pen est toujours inéligible !\"... déclaration d'un haut-magistrat, réplique du RN, ce que l'on sait",
-     "url": "https://www.midilibre.fr/2026/10/28/presidentielle-2027-marine-le-pen-est-toujours-ineligible-declaration-dun-haut-magistrat-replique-du-rn-ce-que-lon-sait-13624589.php",
-     "published_at": "2026-10-28T11:34:31+00:00",
-     "snippet": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature le 28 octobre contre un magistrat honoraire. Dans Le Monde, ce dernier affirmait que la responsable d'extrême droite restait inéligible..."
+     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
+     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
+     "published_at": "2026-10-29T09:07:14+00:00",
+     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
     },
     {
-     "id": "7f1e854aa29a",
+     "id": "5a9e1ccd28ca",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
+     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T02:06:07+00:00",
+     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
+    },
+    {
+     "id": "909c19c404cb",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
+     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
+     "published_at": "2026-10-29T10:08:00+00:00",
+     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
+    },
+    {
+     "id": "9d868f20d38e",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+     "published_at": "2026-10-28T20:55:17+00:00",
+     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
+    },
+    {
+     "id": "ec850d6b4f35",
      "name": "Le Parisien",
      "kind": "media",
-     "title": "Présidentielle 2027 : un magistrat honoraire conteste l’éligibilité de Marine Le Pen, elle saisit le Conseil supérieur de la magistrature",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-un-magistrat-honoraire-conteste-leligibilite-de-marine-le-pen-elle-saisit-le-conseil-superieur-de-la-magistrature-28-10-2026-R4BIBD6KC5DMXKRT6PUTJCKSIY.php",
-     "published_at": "2026-10-28T16:34:46+00:00",
+     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
      "snippet": ""
-    },
-    {
-     "id": "d5abac7145ed",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Marine Le Pen n’a pas apprécié le point de vue de ce magistrat sur son inéligibilité",
-     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
-     "published_at": "2026-10-28T12:42:09+00:00",
-     "snippet": "Le débat sur l’inéligibilité de Marine Le Pen, qui est dans l’attente de la décision de la Cour de cassation, refait surface à six mois du premier tour de la présidentielle."
-    },
-    {
-     "id": "f53a53a21fbd",
-     "name": "RMC",
-     "kind": "media",
-     "title": "Un magistrat assure que Marine Le Pen est toujours inéligible pour la présidentielle, ses avocats dénoncent une position \"politique\"",
-     "url": "https://rmc.bfmtv.com/actualites/politique/un-magistrat-assure-que-marine-le-pen-est-toujours-ineligible-pour-la-presidentielle-ses-avocats-denoncent-une-position-politique_AV-202610280471.html",
-     "published_at": "2026-10-28T11:34:25+00:00",
-     "snippet": "Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme dans \"Revue Pénale\" et \"Le Monde\" que Marine Le Pen serait toujours inéligible à l'élection présidentielle, en raison de son pourvoi en cassation, suspendant la décision de la cour d'appel. Ses avocats fustigent des \"considérations politiques\" et saisissent le Conseil supérieur de la magistrature."
     }
    ]
   },
@@ -266,7 +282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.96,
+   "score": 8.95,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -691,6 +707,99 @@
      "url": "https://www.ladepeche.fr/2026/10/28/incendie-de-lhotel-de-ville-de-limoges-le-maire-a-recu-le-soutien-du-vice-president-americain-jd-vance-mais-pas-de-lelysee-je-nai-pas-eu-emmanuel-13624971.php",
      "published_at": "2026-10-28T15:50:29+00:00",
      "snippet": "Le 17 octobre dernier, la mairie de Limoges a été ravagée par un violent incendie. Alors que le maire LR Guillaume Guérin affirme ce mercredi 28 octobre avoir reçu le soutien surprise de dirigeants étrangers, dont le..."
+    }
+   ]
+  },
+  {
+   "headline": "Marine Le Pen est-elle éligible ? Un magistrat honoraire dit non, ses avocats saisissent le CSM",
+   "chapo": "Dans Le Monde, Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme que la candidate RN reste inéligible tant que la Cour n'a pas statué sur son pourvoi. Le procureur général de la Cour de cassation avait une lecture inverse en juillet.",
+   "points": [
+    {
+     "text": "Didier Guérin : « Marine Le Pen est actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi ». Selon lui, l'inéligibilité de cinq ans avec exécution provisoire prononcée en première instance « continue à s'exécuter et n'est pas suspendue, elle, par le pourvoi », selon Le Parisien.",
+     "sources": [
+      "7f1e854aa29a"
+     ]
+    },
+    {
+     "text": "Le contexte : condamnée le 30 mars 2025 à cinq ans d'inéligibilité avec exécution provisoire, Marine Le Pen a vu sa peine réduite en appel à 15 mois d'inéligibilité, « soit une durée déjà purgée », la cour invoquant « la préservation de la liberté de l'électeur ». Elle a formé un pourvoi en cassation, en cours d'examen, selon Le Parisien et Le HuffPost.",
+     "sources": [
+      "7f1e854aa29a",
+      "d5abac7145ed"
+     ]
+    },
+    {
+     "text": "Le procureur général de la Cour de cassation, Rémy Heitz, disait le 9 juillet que le pourvoi ne faisait pas « revivre » le jugement de première instance : « Ça, ce n'est pas un raisonnement fondé », selon Midi Libre.",
+     "sources": [
+      "394b3410d53f"
+     ]
+    },
+    {
+     "text": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature (CSM). Ils estiment que ces prises de position « contreviennent gravement » au devoir de réserve des magistrats honoraires et que le magistrat développe « des thèses à finalité en réalité purement politiques », selon RMC.",
+     "sources": [
+      "f53a53a21fbd"
+     ]
+    },
+    {
+     "text": "D'après RMC, la lecture de la cour d'appel est que Marine Le Pen « peut a priori être de nouveau candidate ». Dans les articles lus, la Cour de cassation n'avait pas fixé de date pour trancher.",
+     "sources": [
+      "f53a53a21fbd"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://focus.huffingtonpost.fr/2026/07/21/0/0/4000/2250/0/0/60/0/effacb2_upload-1-5b1g1nqj54yf-gettyimages-2232755571.jpg",
+    "source": "Le HuffPost",
+    "article_url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
+    "article_id": "d5abac7145ed"
+   },
+   "id": 212,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-28T18:00:21+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.33,
+   "sources": [
+    {
+     "id": "394b3410d53f",
+     "name": "Midi Libre",
+     "kind": "media",
+     "title": "Présidentielle 2027 : \"Marine Le Pen est toujours inéligible !\"... déclaration d'un haut-magistrat, réplique du RN, ce que l'on sait",
+     "url": "https://www.midilibre.fr/2026/10/28/presidentielle-2027-marine-le-pen-est-toujours-ineligible-declaration-dun-haut-magistrat-replique-du-rn-ce-que-lon-sait-13624589.php",
+     "published_at": "2026-10-28T11:34:31+00:00",
+     "snippet": "Les avocats de Marine Le Pen ont saisi le Conseil supérieur de la magistrature le 28 octobre contre un magistrat honoraire. Dans Le Monde, ce dernier affirmait que la responsable d'extrême droite restait inéligible..."
+    },
+    {
+     "id": "7f1e854aa29a",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : un magistrat honoraire conteste l’éligibilité de Marine Le Pen, elle saisit le Conseil supérieur de la magistrature",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-un-magistrat-honoraire-conteste-leligibilite-de-marine-le-pen-elle-saisit-le-conseil-superieur-de-la-magistrature-28-10-2026-R4BIBD6KC5DMXKRT6PUTJCKSIY.php",
+     "published_at": "2026-10-28T16:34:46+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "d5abac7145ed",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Marine Le Pen n’a pas apprécié le point de vue de ce magistrat sur son inéligibilité",
+     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-n-a-pas-apprecie-le-point-de-vue-de-ce-magistrat-sur-son-ineligibilite_346667.html",
+     "published_at": "2026-10-28T12:42:09+00:00",
+     "snippet": "Le débat sur l’inéligibilité de Marine Le Pen, qui est dans l’attente de la décision de la Cour de cassation, refait surface à six mois du premier tour de la présidentielle."
+    },
+    {
+     "id": "f53a53a21fbd",
+     "name": "RMC",
+     "kind": "media",
+     "title": "Un magistrat assure que Marine Le Pen est toujours inéligible pour la présidentielle, ses avocats dénoncent une position \"politique\"",
+     "url": "https://rmc.bfmtv.com/actualites/politique/un-magistrat-assure-que-marine-le-pen-est-toujours-ineligible-pour-la-presidentielle-ses-avocats-denoncent-une-position-politique_AV-202610280471.html",
+     "published_at": "2026-10-28T11:34:25+00:00",
+     "snippet": "Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme dans \"Revue Pénale\" et \"Le Monde\" que Marine Le Pen serait toujours inéligible à l'élection présidentielle, en raison de son pourvoi en cassation, suspendant la décision de la cour d'appel. Ses avocats fustigent des \"considérations politiques\" et saisissent le Conseil supérieur de la magistrature."
     }
    ]
   },
