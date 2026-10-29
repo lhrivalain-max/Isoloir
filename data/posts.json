@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:20:54+00:00",
+ "generated_at": "2026-10-29T15:21:17+00:00",
  "posts": [
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
@@ -210,6 +210,90 @@
      "url": "https://rmc.bfmtv.com/actualites/politique/un-magistrat-assure-que-marine-le-pen-est-toujours-ineligible-pour-la-presidentielle-ses-avocats-denoncent-une-position-politique_AV-202610280471.html",
      "published_at": "2026-10-28T11:34:25+00:00",
      "snippet": "Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme dans \"Revue Pénale\" et \"Le Monde\" que Marine Le Pen serait toujours inéligible à l'élection présidentielle, en raison de son pourvoi en cassation, suspendant la décision de la cour d'appel. Ses avocats fustigent des \"considérations politiques\" et saisissent le Conseil supérieur de la magistrature."
+    }
+   ]
+  },
+  {
+   "headline": "Le Sénat vote l'imprescriptibilité des crimes sexuels sur mineurs : ce qui change et ce qui reste à faire",
+   "chapo": "Le 28 octobre, les sénateurs ont adopté par 252 voix contre 80 une mesure jusqu'ici réservée aux crimes contre l'humanité. Le vote n'est pas définitif.",
+   "points": [
+    {
+     "text": "Aujourd'hui, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans : la prescription est de 30 ans à compter de la majorité. Ce délai est « jugé insuffisant par certaines associations de protection de l'enfance », selon Le Parisien.",
+     "sources": [
+      "9c55b0c799c0"
+     ]
+    },
+    {
+     "text": "Le vote (252 pour, 80 contre) porte sur le projet de loi sur la protection des enfants, soutenu par le gouvernement. Seule la droite a voté majoritairement contre, avec une poignée de centristes et trois socialistes, selon La Croix.",
+     "sources": [
+      "de3aa1fa5876"
+     ]
+    },
+    {
+     "text": "Pour : Aurore Bergé, ministre déléguée à l'Égalité : « Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler. » La centriste Annick Billon : « La prescription est une forme d'impunité. »",
+     "sources": [
+      "9c55b0c799c0",
+      "ed9a2e171c83"
+     ]
+    },
+    {
+     "text": "Contre : Muriel Jourda (LR) : « Il y a des victimes qui parlent parce que la prescription est écoulée », reprochant aux soutiens de faire « un choix entre les victimes ». Le Sénat avait d'abord rejeté la mesure en commission des Lois, y voyant une « rupture majeure » avec la « tradition juridique », selon 20 Minutes.",
+     "sources": [
+      "ed9a2e171c83"
+     ]
+    },
+    {
+     "text": "La suite : un vote solennel sur l'ensemble du texte mardi 3 novembre au Sénat, puis une commission mixte paritaire. Le texte du Sénat se limite aux crimes sexuels (viols, viols aggravés, incestueux) ; celui des députés incluait aussi d'autres crimes comme les meurtres, jugé fragile par le gouvernement au regard de la Constitution, selon La Croix.",
+     "sources": [
+      "de3aa1fa5876"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://i.la-croix.com/x/2026/10/29/2575107-l-hemicycle-du-senat-a-paris-le-27-octobre-2026.jpg",
+    "source": "La Croix",
+    "article_url": "https://www.la-croix.com/le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs-20261028",
+    "article_id": "de3aa1fa5876"
+   },
+   "id": 217,
+   "section": "institutions",
+   "reviewed_at": "2026-10-29T15:21:17+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "9c55b0c799c0",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Les crimes sexuels sur mineurs bientôt imprescriptibles ? Le vote positif du Sénat ouvre la voie à l’adoption de la mesure",
+     "url": "https://www.leparisien.fr/politique/les-crimes-sexuels-sur-mineurs-bientot-imprescriptibles-le-vote-positif-du-senat-ouvre-la-voie-a-ladoption-de-la-mesure-29-10-2026-NCKZZRQFS5CJ5JN3I3QWWX32NY.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "de3aa1fa5876",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "L’imprescriptibilité des crimes sexuels commis sur les mineurs votée au Sénat",
+     "url": "https://www.la-croix.com/le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs-20261028",
+     "published_at": "2026-10-29T06:57:33+00:00",
+     "snippet": "Le Sénat a voté mercredi 28 octobre pour l’imprescriptibilité des crimes sexuels commis sur les mineurs, étendant cette exception jusqu’ici réservée aux crimes contre l’humanité et ouvrant la voie à un changement majeur dans la justice française."
+    },
+    {
+     "id": "ed9a2e171c83",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Le Sénat vote l’imprescriptibilité des crimes sexuels sur les mineurs, 80 voix contre",
+     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4258452-20261029-senat-vote-imprescriptibilite-crimes-sexuels-mineurs-80-voix-contre?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T00:33:15+00:00",
+     "snippet": "Les députés avaient déjà approuvé cette exception jusqu’ici réservée aux crimes contre l’humanité. L’adoption définitive, dans les prochaines semaines, marquera un changement majeur pour la justice française"
     }
    ]
   },
