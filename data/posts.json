@@ -1,6 +1,125 @@
 {
- "generated_at": "2026-10-29T15:20:42+00:00",
+ "generated_at": "2026-10-29T15:20:54+00:00",
  "posts": [
+  {
+   "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
+   "chapo": "Dans une interview de plus d'une heure diffusée le 28 octobre au soir sur YouTube, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, défendu Parcoursup tout en voulant le « refonder », et esquivé la question d'une hausse du Smic.",
+   "points": [
+    {
+     "text": "Sur les lycéens blessés : « Rien ne justifie cela et c'est pour cela qu'il faut revenir au calme », a-t-il dit, en appelant à un calme « des deux côtés », manifestants comme policiers blessés. Il reconnaît : « on n'a pas été assez rapides collectivement dans la réponse (…) moi le premier », selon Le HuffPost et Le Parisien.",
+     "sources": [
+      "8c8acad86257",
+      "b42acf8c4038"
+     ]
+    },
+    {
+     "text": "Sur Parcoursup : « bien meilleur que ce qu'on avait avant », mais il « crée de la défiance, donc on doit le refonder ». Il veut « plus de clarté sur les critères de choix » et souhaite que les lycées rouvrent à la rentrée, selon Le HuffPost et Europe 1.",
+     "sources": [
+      "8c8acad86257",
+      "579abbbede89"
+     ]
+    },
+    {
+     "text": "Sur le Smic, il n'a pas répondu sur un « coup de pouce » et a renvoyé au Premier ministre. Il appelle à « relancer » les négociations dans les branches « sous le Smic » ; selon une étude de la CGT citée par BFM Business, 122 branches proposent encore un niveau sous le Smic. Les syndicats demandent de 7 % à 10 % de hausse.",
+     "sources": [
+      "8773bc1d38b4"
+     ]
+    },
+    {
+     "text": "Sur les carburants, il refuse de baisser les taxes : « Si je baisse les taxes sur le carburant, j'enlève du budget pour les régions (…) on les baisse pour tout le monde, donc ce n'est pas juste », selon Le Parisien.",
+     "sources": [
+      "b42acf8c4038"
+     ]
+    },
+    {
+     "text": "Sur les réseaux sociaux, il a reconnu des « discussions » menées par Sébastien Lecornu, sans préciser lesquelles, et nié avoir envisagé de les bloquer ; il dit militer pour retirer les contenus illégaux, selon Le Parisien et Nice-Matin.",
+     "sources": [
+      "b42acf8c4038",
+      "4726b777ba24"
+     ]
+    },
+    {
+     "text": "Sur le climat politique après l'attentat de Trappes, il a dénoncé « une désinhibition d'un antisémitisme chez certains et une désinhibition du racisme chez les autres », visant LFI et le RN, et appelé à un « sursaut », selon Le Monde. Il a aussi eu pour la première fois un mot de « compassion » pour les jeunes blessés par les forces de l'ordre.",
+     "sources": [
+      "ccf2566efc25"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 6,
+    "outlets": 6
+   },
+   "image": {
+    "url": "https://focus.huffingtonpost.fr/2026/10/28/0/9/2876/1618/0/0/60/0/a62e88a_upload-1-tqvwvvj7lkrl-screenshot-2026-10-28-at-4-23-57-pm.png",
+    "source": "Le HuffPost",
+    "article_url": "https://www.huffingtonpost.fr/politique/article/chez-hugodecrypte-macron-reconnait-la-gravite-de-la-crise-lyceenne-mais-defend-la-facon-dont-le-gouvernement-l-a-geree_347064.html",
+    "article_id": "8c8acad86257"
+   },
+   "id": 214,
+   "section": "institutions",
+   "reviewed_at": "2026-10-29T15:20:54+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 18.0,
+   "sources": [
+    {
+     "id": "4726b777ba24",
+     "name": "Nice-Matin",
+     "kind": "media",
+     "title": "Réouverture des lycées, revalorisation du Smic, réseaux sociaux… : ce qu’a dit Emmanuel Macron lors de son interview à HugoDécrypte ce mercredi soir",
+     "url": "https://www.nicematin.com/societe/politique/reouverture-des-lycees-coup-de-pouce-envisage-au-smic-reseaux-sociaux-ce-qu-a-dit-emmanuel-macron-lors-de-son-interview-a-hugodecrypte-ce-mercredi-soir-10748346",
+     "published_at": "2026-10-29T06:33:26+00:00",
+     "snippet": "Le président de la République, Emmanuel Macron, a donné une interview au journaliste et youtubeur Hugo Travers, mise en ligne sur sa chaîne YouTube Hugo Décrypte ce mercredi 28 octobre 2026 en soirée. Un média extrêmement suivi par les jeunes. Voici ce qu’il faut en retenir."
+    },
+    {
+     "id": "579abbbede89",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "En direct - Trappes, Parcoursup, Smic... Ce qu'il faut retenir de l'interview d'Emmanuel Macron face à HugoDécrypte",
+     "url": "https://www.europe1.fr/politique/en-direct-trappes-parcoursup-smic-ce-quil-faut-retenir-de-linterview-demmanuel-macron-face-a-hugodecrypte-1191267?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-29T07:00:00+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "8773bc1d38b4",
+     "name": "BFM Business",
+     "kind": "media",
+     "title": "Macron met la pression sur les branches professionnelles sous le Smic, mais élude la question d'une hausse",
+     "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/macron-met-la-pression-sur-les-branches-professionnelles-sous-le-smic-mais-elude-la-question-d-une-hausse_AD-202610290101.html",
+     "published_at": "2026-10-29T05:25:21+00:00",
+     "snippet": "Alors que le gouvernement envisage une revalorisation anticipée du salaire minimum, Emmanuel Macron appelle les branches professionnelles dont les grilles salariales sont inférieures au Smic à rouvrir des négociations. Une piste qui ne répond pas aux revendications des syndicats, dont certains réclament jusqu'à 10% d'augmentation."
+    },
+    {
+     "id": "8c8acad86257",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Chez HugoDécrypte, Macron reconnaît la gravité de la crise lycéenne, mais défend la façon dont le gouvernement l’a gérée",
+     "url": "https://www.huffingtonpost.fr/politique/article/chez-hugodecrypte-macron-reconnait-la-gravite-de-la-crise-lyceenne-mais-defend-la-facon-dont-le-gouvernement-l-a-geree_347064.html",
+     "published_at": "2026-10-29T05:38:00+00:00",
+     "snippet": "Le président de la République a été questionné sur l’avenir de Parcoursup, du pouvoir d’achat et des réseaux sociaux. Il a appelé les lycéens à revenir en cours."
+    },
+    {
+     "id": "b42acf8c4038",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Lycées, 17 octobre, attentat de Trappes… Ce qu’il faut retenir de l’interview d’Emmanuel Macron par Hugo Décrypte",
+     "url": "https://www.leparisien.fr/politique/lycees-17-octobre-attentat-de-trappes-ce-quil-faut-retenir-de-linterview-demmanuel-macron-par-hugo-decrypte-29-10-2026-YYUHFVMTT5HFVM6OTX2PTC6TQI.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "ccf2566efc25",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », en visant le RN et LFI",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
+     "published_at": "2026-10-29T00:28:55+00:00",
+     "snippet": "Le chef de l’Etat a, par ailleurs, appelé les lycéens, mercredi dans un entretien diffusé par la chaîne YouTube HugoDécrypte, à « reprendre les cours » dans « le calme » à la rentrée, lundi 2 novembre."
+    }
+   ]
+  },
   {
    "headline": "Marine Le Pen est-elle éligible ? Un magistrat honoraire dit non, ses avocats saisissent le CSM",
    "chapo": "Dans Le Monde, Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme que la candidate RN reste inéligible tant que la Cour n'a pas statué sur son pourvoi. Le procureur général de la Cour de cassation avait une lecture inverse en juillet.",
@@ -91,6 +210,96 @@
      "url": "https://rmc.bfmtv.com/actualites/politique/un-magistrat-assure-que-marine-le-pen-est-toujours-ineligible-pour-la-presidentielle-ses-avocats-denoncent-une-position-politique_AV-202610280471.html",
      "published_at": "2026-10-28T11:34:25+00:00",
      "snippet": "Didier Guérin, président de chambre honoraire à la Cour de cassation, affirme dans \"Revue Pénale\" et \"Le Monde\" que Marine Le Pen serait toujours inéligible à l'élection présidentielle, en raison de son pourvoi en cassation, suspendant la décision de la cour d'appel. Ses avocats fustigent des \"considérations politiques\" et saisissent le Conseil supérieur de la magistrature."
+    }
+   ]
+  },
+  {
+   "headline": "Lycéens reçus par Laurent Nuñez : ce qu'ils demandent sur le maintien de l'ordre",
+   "chapo": "Jeudi 29 octobre à 15 h, les organisations lycéennes sont reçues à Beauvau. Elles réclament un changement de doctrine ; le ministre défend une action « proportionnée ».",
+   "points": [
+    {
+     "text": "Les Lycéens ! demandent d'interdire aux forces de l'ordre « les grenades de désencerclement, les gaz lacrymogènes, les sprays au poivre, ainsi que les lanceurs de balles de défense (LBD) » dans les mobilisations lycéennes : « Sur la question des violences policières, nous serons intransigeants », dit Pierre Sourzat, selon 20 Minutes.",
+     "sources": [
+      "cf138c448a52"
+     ]
+    },
+    {
+     "text": "L'USL réclame aussi l'amnistie des lycéens poursuivis ou sanctionnés et la garantie du « droit fondamental » à manifester. Elle conditionne sa venue à la présence des organisations étudiantes, selon 20 Minutes.",
+     "sources": [
+      "cf138c448a52"
+     ]
+    },
+    {
+     "text": "Les blessures citées : un adolescent de 14 ans touché au visage par un tir de lance-grenades, un lycéen de 16 ans éborgné à Tours, un lycéen de 15 ans à la main arrachée à Lens. 48 enquêtes ont été ouvertes par l'IGPN, dont 36 dans le cadre du mouvement lycéen, selon L'Humanité.",
+     "sources": [
+      "5e4fca0c46b8"
+     ]
+    },
+    {
+     "text": "Laurent Nuñez défend une action « proportionnée » des forces de l'ordre, selon L'Humanité. La gauche le met en cause pour sa stratégie de maintien de l'ordre, selon 20 Minutes.",
+     "sources": [
+      "5e4fca0c46b8",
+      "cf138c448a52"
+     ]
+    },
+    {
+     "text": "Emmanuel Macron a dit chez Hugo Décrypte : « À chaque fois que des policiers ont été engagés dans des actes pas normaux, des enquêtes ont été engagées », et appelé au calme « des deux côtés », en évoquant aussi des policiers blessés, selon Le Parisien.",
+     "sources": [
+      "b42acf8c4038"
+     ]
+    },
+    {
+     "text": "Dans les articles lus, l'issue de la réunion n'était pas encore connue.",
+     "sources": [
+      "5e4fca0c46b8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/ph8WzRPWTTa7v-SykHw-Nik/1200x768_laurent-nunez-atmosphere-dans-la-salle-des-conferences-jour-de-seance-des-questions-au-gouvernement-par-les-senateurs-palais-du-luxembourg-senat-paris-france-le-28-octobre-2026-ambiance-dans-la-salle-de-conference-le-jour-de-la-seance-hebdomadaire-des-questions-au-gouvernement-par-les-senateurs-palais-du-luxembourg-senat-paris-france-28-octobre-2026-nicolasmessyasz-2026-10-28a-278a-credit-nicolas-messyasz-sipa-2610282136",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258486-20261029-colere-lyceenne-organisations-jeunes-recues-beauvau-nunez-jeudi?at_medium=display&at_campaign=149",
+    "article_id": "cf138c448a52"
+   },
+   "id": 218,
+   "section": "institutions",
+   "reviewed_at": "2026-10-29T15:20:42+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "5e4fca0c46b8",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "« On va le mettre face à ses actes » : les violences policières au cœur de la rencontre entre Laurent Nuñez et les lycéens demain",
+     "url": "https://www.humanite.fr/societe/greve-generale/on-va-le-mettre-face-a-ses-actes-les-violences-policieres-au-coeur-de-la-rencontre-entre-laurent-nunez-et-les-lyceens-demain",
+     "published_at": "2026-10-28T18:33:27+00:00",
+     "snippet": "Reçues jeudi 29 octobre à Beauvau, les organisations lycéennes réclament un changement de doctrine du maintien de l’ordre, après plusieurs blessures graves dans leurs rangs lors des mobilisations."
+    },
+    {
+     "id": "b42acf8c4038",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Lycées, 17 octobre, attentat de Trappes… Ce qu’il faut retenir de l’interview d’Emmanuel Macron par Hugo Décrypte",
+     "url": "https://www.leparisien.fr/politique/lycees-17-octobre-attentat-de-trappes-ce-quil-faut-retenir-de-linterview-demmanuel-macron-par-hugo-decrypte-29-10-2026-YYUHFVMTT5HFVM6OTX2PTC6TQI.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "cf138c448a52",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Colère lycéenne : Les organisations de jeunes reçues à Beauvau par Nuñez ce jeudi",
+     "url": "https://www.20minutes.fr/politique/4258486-20261029-colere-lyceenne-organisations-jeunes-recues-beauvau-nunez-jeudi?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T06:37:49+00:00",
+     "snippet": "Les organisations lycéennes comptent demander à Laurent Nuñez « de revoir sa doctrine de maintien de l’ordre », alors que près de 36 enquêtes ont été ouvertes par l’IGPN dans le cadre du mouvement lycéen"
     }
    ]
   },
@@ -209,96 +418,6 @@
      "url": "https://www.huffingtonpost.fr/politique/article/sebastien-lecornu-denonce-l-ambiance-nauseabonde-a-l-assemblee-nationale-apres-la-minute-de-silence_346210.html",
      "published_at": "2026-10-27T16:24:58+00:00",
      "snippet": "Immédiatement après la minute de silence en hommage aux victimes de l’attentat de Trappes, les échanges se sont durcis entre le Premier ministre et les oppositions, en particulier à gauche."
-    }
-   ]
-  },
-  {
-   "headline": "Lycéens reçus par Laurent Nuñez : ce qu'ils demandent sur le maintien de l'ordre",
-   "chapo": "Jeudi 29 octobre à 15 h, les organisations lycéennes sont reçues à Beauvau. Elles réclament un changement de doctrine ; le ministre défend une action « proportionnée ».",
-   "points": [
-    {
-     "text": "Les Lycéens ! demandent d'interdire aux forces de l'ordre « les grenades de désencerclement, les gaz lacrymogènes, les sprays au poivre, ainsi que les lanceurs de balles de défense (LBD) » dans les mobilisations lycéennes : « Sur la question des violences policières, nous serons intransigeants », dit Pierre Sourzat, selon 20 Minutes.",
-     "sources": [
-      "cf138c448a52"
-     ]
-    },
-    {
-     "text": "L'USL réclame aussi l'amnistie des lycéens poursuivis ou sanctionnés et la garantie du « droit fondamental » à manifester. Elle conditionne sa venue à la présence des organisations étudiantes, selon 20 Minutes.",
-     "sources": [
-      "cf138c448a52"
-     ]
-    },
-    {
-     "text": "Les blessures citées : un adolescent de 14 ans touché au visage par un tir de lance-grenades, un lycéen de 16 ans éborgné à Tours, un lycéen de 15 ans à la main arrachée à Lens. 48 enquêtes ont été ouvertes par l'IGPN, dont 36 dans le cadre du mouvement lycéen, selon L'Humanité.",
-     "sources": [
-      "5e4fca0c46b8"
-     ]
-    },
-    {
-     "text": "Laurent Nuñez défend une action « proportionnée » des forces de l'ordre, selon L'Humanité. La gauche le met en cause pour sa stratégie de maintien de l'ordre, selon 20 Minutes.",
-     "sources": [
-      "5e4fca0c46b8",
-      "cf138c448a52"
-     ]
-    },
-    {
-     "text": "Emmanuel Macron a dit chez Hugo Décrypte : « À chaque fois que des policiers ont été engagés dans des actes pas normaux, des enquêtes ont été engagées », et appelé au calme « des deux côtés », en évoquant aussi des policiers blessés, selon Le Parisien.",
-     "sources": [
-      "b42acf8c4038"
-     ]
-    },
-    {
-     "text": "Dans les articles lus, l'issue de la réunion n'était pas encore connue.",
-     "sources": [
-      "5e4fca0c46b8"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/ph8WzRPWTTa7v-SykHw-Nik/1200x768_laurent-nunez-atmosphere-dans-la-salle-des-conferences-jour-de-seance-des-questions-au-gouvernement-par-les-senateurs-palais-du-luxembourg-senat-paris-france-le-28-octobre-2026-ambiance-dans-la-salle-de-conference-le-jour-de-la-seance-hebdomadaire-des-questions-au-gouvernement-par-les-senateurs-palais-du-luxembourg-senat-paris-france-28-octobre-2026-nicolasmessyasz-2026-10-28a-278a-credit-nicolas-messyasz-sipa-2610282136",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258486-20261029-colere-lyceenne-organisations-jeunes-recues-beauvau-nunez-jeudi?at_medium=display&at_campaign=149",
-    "article_id": "cf138c448a52"
-   },
-   "id": 218,
-   "section": "institutions",
-   "reviewed_at": "2026-10-29T15:20:42+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "5e4fca0c46b8",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "« On va le mettre face à ses actes » : les violences policières au cœur de la rencontre entre Laurent Nuñez et les lycéens demain",
-     "url": "https://www.humanite.fr/societe/greve-generale/on-va-le-mettre-face-a-ses-actes-les-violences-policieres-au-coeur-de-la-rencontre-entre-laurent-nunez-et-les-lyceens-demain",
-     "published_at": "2026-10-28T18:33:27+00:00",
-     "snippet": "Reçues jeudi 29 octobre à Beauvau, les organisations lycéennes réclament un changement de doctrine du maintien de l’ordre, après plusieurs blessures graves dans leurs rangs lors des mobilisations."
-    },
-    {
-     "id": "b42acf8c4038",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Lycées, 17 octobre, attentat de Trappes… Ce qu’il faut retenir de l’interview d’Emmanuel Macron par Hugo Décrypte",
-     "url": "https://www.leparisien.fr/politique/lycees-17-octobre-attentat-de-trappes-ce-quil-faut-retenir-de-linterview-demmanuel-macron-par-hugo-decrypte-29-10-2026-YYUHFVMTT5HFVM6OTX2PTC6TQI.php",
-     "published_at": "2026-10-29T07:43:27+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "cf138c448a52",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Colère lycéenne : Les organisations de jeunes reçues à Beauvau par Nuñez ce jeudi",
-     "url": "https://www.20minutes.fr/politique/4258486-20261029-colere-lyceenne-organisations-jeunes-recues-beauvau-nunez-jeudi?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T06:37:49+00:00",
-     "snippet": "Les organisations lycéennes comptent demander à Laurent Nuñez « de revoir sa doctrine de maintien de l’ordre », alors que près de 36 enquêtes ont été ouvertes par l’IGPN dans le cadre du mouvement lycéen"
     }
    ]
   },
