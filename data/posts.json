@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:21:17+00:00",
+ "generated_at": "2026-10-29T15:28:27+00:00",
  "posts": [
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
@@ -62,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 18.0,
+   "score": 17.91,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -173,7 +173,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.35,
+   "score": 6.33,
    "sources": [
     {
      "id": "394b3410d53f",
@@ -266,7 +266,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 8.96,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -356,7 +356,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 8.95,
    "sources": [
     {
      "id": "5e4fca0c46b8",
@@ -384,6 +384,87 @@
      "url": "https://www.20minutes.fr/politique/4258486-20261029-colere-lyceenne-organisations-jeunes-recues-beauvau-nunez-jeudi?at_medium=display&at_campaign=149",
      "published_at": "2026-10-29T06:37:49+00:00",
      "snippet": "Les organisations lycéennes comptent demander à Laurent Nuñez « de revoir sa doctrine de maintien de l’ordre », alors que près de 36 enquêtes ont été ouvertes par l’IGPN dans le cadre du mouvement lycéen"
+    }
+   ]
+  },
+  {
+   "headline": "TotalEnergies : bénéfice record de 8,3 milliards de dollars, ce que demandent le gouvernement, LFI et le RN",
+   "chapo": "Le groupe a annoncé le 29 octobre un bénéfice net plus que doublé en un an, alors que le gazole dépasse 2,35 € le litre. Le gouvernement demande à Total d'être « exemplaire » ; la gauche et le RN veulent aller plus loin.",
+   "points": [
+    {
+     "text": "Les chiffres : un bénéfice net de 8,3 milliards de dollars (environ 7,5 milliards d'euros) au troisième trimestre, contre 3,7 milliards un an plus tôt, soit environ +125 %, selon La Croix. La hausse vient surtout du raffinage, dont le résultat passe de 687 millions à 3,5 milliards de dollars.",
+     "sources": [
+      "f38dbc4d6feb"
+     ]
+    },
+    {
+     "text": "Pourquoi : les frappes sur des installations énergétiques ont tendu le marché du diesel et gonflé les marges de raffinage, c'est-à-dire l'écart de prix entre pétrole brut et pétrole raffiné. Le PDG Patrick Pouyanné évoque des « marges de raffinage à des niveaux historiques », selon LCP.",
+     "sources": [
+      "f38dbc4d6feb",
+      "6d4db6cff210"
+     ]
+    },
+    {
+     "text": "Pour les automobilistes : le gazole dépasse 2,35 € le litre, tandis que Total plafonne son prix à 2,25 € dans ses stations, selon La Croix.",
+     "sources": [
+      "f38dbc4d6feb"
+     ]
+    },
+    {
+     "text": "Gouvernement : Maud Bregeon refuse de « sombrer dans le Total bashing » (« On a de la chance d'avoir un grand major pétrolier dans une crise telle que celle que l'on traverse »), mais demande à Total d'être « exemplaire », de « répercuter à la baisse l'avantage de la libération des barils » de stock stratégique et de poursuivre son plafonnement, selon LCP.",
+     "sources": [
+      "6d4db6cff210"
+     ]
+    },
+    {
+     "text": "LFI : Aurélie Trouvé : « Le gouvernement doit bloquer les prix ! » Manuel Bompard : « C'est pas la crise des carburants pour tout le monde. » Danièle Obono appelle à « taxer les superprofits », selon LCP.",
+     "sources": [
+      "6d4db6cff210"
+     ]
+    },
+    {
+     "text": "RN : Marine Le Pen répond au ministre de l'Économie Roland Lescure (« ce n'est pas une taxe qui m'empêche de dormir ») : « Votre dédain est insupportable ». Le député Julien Odoul propose de baisser la TVA sur les carburants de 20 % à 5,5 %, selon LCP.",
+     "sources": [
+      "6d4db6cff210"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 2,
+    "outlets": 2
+   },
+   "image": {
+    "url": "https://i.la-croix.com/x/2026/10/29/2575263-la-ministre-de-l-energie-maud-bregeon-a-demande-je.jpg",
+    "source": "La Croix",
+    "article_url": "https://www.la-croix.com/economie/benefice-record-pour-totalenergies-le-gouvernement-demande-a-l-entreprise-detre-exemplaire-20261029",
+    "article_id": "f38dbc4d6feb"
+   },
+   "id": 222,
+   "section": "institutions",
+   "reviewed_at": "2026-10-29T15:28:27+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.0,
+   "sources": [
+    {
+     "id": "6d4db6cff210",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Bénéfices records de Total: LFI réclame un \"blocage des prix\", le gouvernement demande au groupe de \"répercuter\" le déstockage des barils",
+     "url": "https://lcp.fr/actualites/benefices-records-de-total-lfi-reclame-un-blocage-des-prix-le-gouvernement-demande-au",
+     "published_at": "2026-10-29T10:59:49+00:00",
+     "snippet": "Par Maxence Kagni , le Jeudi 29 octobre 2026 à 11:49 TotalEnergies a annoncé un bénéfice net record de 7,45 milliards d'euros au troisième trimestre. Dans la foulée de la publication de ces résultats, La France insoumise a estimé que l'entreprise pétrolière \"profit[ait] de la guerre\" et de nouveau réclamé de \"bloquer les prix\" des carburants. De son côté, tout en refusant un \"Total bashing\", le gouvernement demande au groupe d'être \"exemplaire\" et de \"répercuter à la baisse\" l'impact du déstockage stratégique de gazole. Selon La France insoumise, \"Total profite grassement de la guerre\". Ce jeu"
+    },
+    {
+     "id": "f38dbc4d6feb",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Bénéfice record pour TotalEnergies : le gouvernement demande à l’entreprise d’être « exemplaire »",
+     "url": "https://www.la-croix.com/economie/benefice-record-pour-totalenergies-le-gouvernement-demande-a-l-entreprise-detre-exemplaire-20261029",
+     "published_at": "2026-10-29T09:08:41+00:00",
+     "snippet": "Avec 8,3 milliards de dollars de bénéfice net au 3e trimestre, TotalEnergies affiche des résultats historiques. La ministre de l’énergie Maud Bregeon réclame une répercussion à la baisse de l’avantage de la libération du stock stratégique de barils, alors que le gazole dépasse 2,35 €/litre."
     }
    ]
   },
@@ -447,7 +528,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.51,
+   "score": 9.48,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -564,7 +645,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.92,
+   "score": 7.9,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -671,7 +752,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.76,
+   "score": 4.75,
    "sources": [
     {
      "id": "5dc2d6d91a63",
@@ -773,7 +854,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 4.0,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -863,7 +944,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 4.0,
    "sources": [
     {
      "id": "39fec858ff48",
@@ -965,7 +1046,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.01,
+   "score": 4.0,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -1076,7 +1157,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.22,
+   "score": 8.21,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -1232,7 +1313,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.92,
+   "score": 5.91,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1368,7 +1449,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.93,
+   "score": 4.92,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -1482,7 +1563,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.18,
+   "score": 4.17,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1594,7 +1675,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.95,
+   "score": 3.94,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1706,7 +1787,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.95,
+   "score": 3.94,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1911,7 +1992,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.96,
+   "score": 2.95,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2262,7 +2343,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.97,
+   "score": 2.96,
    "sources": [
     {
      "id": "2872055df568",
@@ -2354,7 +2435,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.97,
+   "score": 2.96,
    "sources": [
     {
      "id": "047bda588bce",
@@ -2687,7 +2768,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.23,
+   "score": 2.22,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -2802,7 +2883,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.04,
    "sources": [
     {
      "id": "40ac98698f53",
@@ -2942,7 +3023,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.04,
    "sources": [
     {
      "id": "0eb443cd641f",
@@ -3074,7 +3155,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.04,
    "sources": [
     {
      "id": "59c0b784075a",
@@ -3201,7 +3282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.05,
+   "score": 3.04,
    "sources": [
     {
      "id": "09854a8f5f8f",
@@ -3333,7 +3414,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.44,
+   "score": 2.43,
    "sources": [
     {
      "id": "2ef82dd3b2d9",
@@ -3450,7 +3531,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.44,
+   "score": 2.43,
    "sources": [
     {
      "id": "af33e58914d4",
