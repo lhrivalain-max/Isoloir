@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-10-29T17:00:02+00:00",
+ "generated_at": "2026-10-30T09:05:33+00:00",
  "posts": [
+  {
+   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
+   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
+   "points": [
+    {
+     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
+     "sources": [
+      "ec850d6b4f35"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
+     "sources": [
+      "0c848649e720"
+     ]
+    },
+    {
+     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
+     "sources": [
+      "909c19c404cb"
+     ]
+    },
+    {
+     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
+     "sources": [
+      "5a9e1ccd28ca"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+    "article_id": "5a9e1ccd28ca"
+   },
+   "id": 221,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-29T15:28:35+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 8.65,
+   "sources": [
+    {
+     "id": "0c848649e720",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
+     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
+     "published_at": "2026-10-29T09:07:14+00:00",
+     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
+    },
+    {
+     "id": "5a9e1ccd28ca",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
+     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T02:06:07+00:00",
+     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
+    },
+    {
+     "id": "909c19c404cb",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
+     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
+     "published_at": "2026-10-29T10:08:00+00:00",
+     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
+    },
+    {
+     "id": "9d868f20d38e",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+     "published_at": "2026-10-28T20:55:17+00:00",
+     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
+    },
+    {
+     "id": "ec850d6b4f35",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
    "chapo": "Dans une interview de plus d'une heure diffusée le 28 octobre au soir sur YouTube, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, défendu Parcoursup tout en voulant le « refonder », et esquivé la question d'une hausse du Smic.",
@@ -62,7 +171,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 16.84,
+   "score": 10.35,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -121,115 +230,6 @@
    ]
   },
   {
-   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
-   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
-   "points": [
-    {
-     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
-     "sources": [
-      "ec850d6b4f35"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
-     "sources": [
-      "0c848649e720"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
-     "sources": [
-      "909c19c404cb"
-     ]
-    },
-    {
-     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
-     "sources": [
-      "5a9e1ccd28ca"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-    "article_id": "5a9e1ccd28ca"
-   },
-   "id": 221,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-29T15:28:35+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 14.1,
-   "sources": [
-    {
-     "id": "0c848649e720",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
-     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
-     "published_at": "2026-10-29T09:07:14+00:00",
-     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
-    },
-    {
-     "id": "5a9e1ccd28ca",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
-     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T02:06:07+00:00",
-     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
-    },
-    {
-     "id": "909c19c404cb",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
-     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
-     "published_at": "2026-10-29T10:08:00+00:00",
-     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
-    },
-    {
-     "id": "9d868f20d38e",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
-     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
-     "published_at": "2026-10-28T20:55:17+00:00",
-     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
-    },
-    {
-     "id": "ec850d6b4f35",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
-     "published_at": "2026-10-29T07:43:27+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
    "headline": "Le Sénat vote l'imprescriptibilité des crimes sexuels sur mineurs : ce qui change et ce qui reste à faire",
    "chapo": "Le 28 octobre, les sénateurs ont adopté par 252 voix contre 80 une mesure jusqu'ici réservée aux crimes contre l'humanité. Le vote n'est pas définitif.",
    "points": [
@@ -282,7 +282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.42,
+   "score": 5.18,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -372,7 +372,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.42,
+   "score": 5.17,
    "sources": [
     {
      "id": "5e4fca0c46b8",
@@ -462,7 +462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.64,
+   "score": 3.46,
    "sources": [
     {
      "id": "6d4db6cff210",
@@ -544,7 +544,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.18,
+   "score": 6.84,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.65,
+   "score": 5.7,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -763,7 +763,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.13,
+   "score": 4.57,
    "sources": [
     {
      "id": "394b3410d53f",
@@ -861,7 +861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.6,
+   "score": 3.42,
    "sources": [
     {
      "id": "5dc2d6d91a63",
@@ -963,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.89,
+   "score": 3.02,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -1053,7 +1053,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.89,
+   "score": 3.02,
    "sources": [
     {
      "id": "39fec858ff48",
@@ -1155,7 +1155,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.89,
+   "score": 3.02,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -1266,7 +1266,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.04,
+   "score": 6.61,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -1422,7 +1422,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.79,
+   "score": 4.76,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1558,7 +1558,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.82,
+   "score": 3.97,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -1672,7 +1672,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.08,
+   "score": 3.32,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1784,7 +1784,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.86,
+   "score": 3.17,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1896,7 +1896,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.86,
+   "score": 3.17,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1996,7 +1996,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.06,
+   "score": 2.49,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2101,7 +2101,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.89,
+   "score": 2.38,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2211,7 +2211,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.65,
+   "score": 3.14,
    "sources": [
     {
      "id": "2c46711d946a",
@@ -2336,7 +2336,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.96,
+   "score": 2.54,
    "sources": [
     {
      "id": "1a0f78b60ef6",
@@ -2452,7 +2452,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.92,
+   "score": 2.51,
    "sources": [
     {
      "id": "2872055df568",
@@ -2544,7 +2544,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.92,
+   "score": 2.51,
    "sources": [
     {
      "id": "047bda588bce",
@@ -2663,7 +2663,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.26,
+   "score": 1.93,
    "sources": [
     {
      "id": "12deaabb6ff0",
@@ -2767,7 +2767,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.22,
+   "score": 1.9,
    "sources": [
     {
      "id": "6533d50f040f",
@@ -2877,7 +2877,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.19,
+   "score": 1.88,
    "sources": [
     {
      "id": "1f94f02faa3c",
@@ -2905,778 +2905,6 @@
      "url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
      "published_at": "2026-10-26T11:12:01+00:00",
      "snippet": "Après un mois de mobilisation des lycéens et étudiants, le gouvernement a promis de leur apporter ce lundi «des réponses très concrètes», qui devraient concerner Parcoursup, l'état des bâtiments ou encore le nombre de places à l'université. Des annonces très attendues. Ce lundi 26 octobre, Sébastien Lecornu va successivement recevoir à partir de 14h30, à Matignon, les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements. Les ministres Edouard Geffray (Éducation) et Philippe Baptiste (Enseignement supérieur) doivent égal"
-    }
-   ]
-  },
-  {
-   "headline": "Marine Le Pen lance sa campagne à Orléans : les principales promesses de son premier discours",
-   "chapo": "Marine Le Pen a tenu dimanche son premier grand meeting de campagne, à Orléans. Elle promet une « renaissance », un gouvernement d'union nationale dirigé par Jordan Bardella, la priorité nationale et plus de référendums. Le discours de Bardella a été interrompu par des militants de l'UEJF.",
-   "points": [
-    {
-     "text": "Le thème central : la « Renaissance ». Marine Le Pen a déclaré, selon BFMTV : « je ne vous propose pas de refaire la France d'avant, je vous propose de concevoir et de construire la France de demain ». Elle a ajouté : « C’était bien avant, ce sera mieux demain ».",
-     "sources": [
-      "f69ab0162765"
-     ]
-    },
-    {
-     "text": "Elle promet un gouvernement « d’union nationale », « pluraliste » et dirigé par Jordan Bardella, rapporte Le Monde. Elle justifie ce « gouvernement ouvert » par « la situation d’un pays fracturé ».",
-     "sources": [
-      "40ac98698f53"
-     ]
-    },
-    {
-     "text": "Sur les institutions, selon CNews : un recours au référendum pour rétablir le « droit d’expression politique » des citoyens et un mode de scrutin proportionnel « avec prime majoritaire ».",
-     "sources": [
-      "bcaf77466d6e"
-     ]
-    },
-    {
-     "text": "Sur l'immigration et la nationalité, CNews cite : « La nationalité française redeviendra un privilège qui s’hérite ou se mérite », avec « la priorité nationale ». Midi Libre ajoute l'« expulsion automatique et définitive » des étrangers délinquants et l'« interdiction du communautarisme ».",
-     "sources": [
-      "bcaf77466d6e",
-      "b0f25dd5f473"
-     ]
-    },
-    {
-     "text": "Sur l'Europe, Midi Libre rapporte qu'elle affirme la primauté de la Constitution : « Aucun texte, aucune autorité, et surtout pas étrangère, même européenne, ne lui sera supérieure ». Le journal y voit un possible « choc frontal » avec l'Union européenne.",
-     "sources": [
-      "b0f25dd5f473"
-     ]
-    },
-    {
-     "text": "Sur les retraites, selon Midi Libre, elle ne s'est pas engagée à revenir à 60 ans comme par le passé, mais à ne pas repousser l'âge de départ au-delà de 64 ans. CNews cite : faire « entrer plus tôt les jeunes sur le marché du travail ».",
-     "sources": [
-      "b0f25dd5f473",
-      "bcaf77466d6e"
-     ]
-    },
-    {
-     "text": "Sur la guerre et la paix, Le Monde rapporte son engagement à faire de la France une « nation de paix » et à ne pas envoyer « nos jeunes mourir dans des aventures guerrières inconsidérées ou irresponsables ».",
-     "sources": [
-      "40ac98698f53"
-     ]
-    },
-    {
-     "text": "Elle a aussi visé « LFI et sa branche armée, les casseurs antifa », selon CNews, qu'elle range parmi les mouvements qui prônent « l’intolérance et la violence ». CNews cite enfin sa promesse d'abolir « la stupide loi Hulot » sur les hydrocarbures.",
-     "sources": [
-      "bcaf77466d6e"
-     ]
-    },
-    {
-     "text": "Le contexte, selon Le Monde : 8 500 personnes, selon les organisateurs, dans une salle « transformée en camp retranché ». Une centaine de militants antifascistes se sont rassemblés loin du congrès, malgré l'interdiction préfectorale.",
-     "sources": [
-      "40ac98698f53"
-     ]
-    },
-    {
-     "text": "Le discours de Jordan Bardella a été interrompu par des militants de l'UEJF, qui ont déployé une banderole sur le « racisme et l’antisémitisme ». Ils ont été expulsés par le service d'ordre du RN, selon Le Parisien. L'UEJF dit avoir été « agressée » et veut porter plainte. Bardella a répondu : « Ne faites pas de publicité à l’ultragauche qui déteste la démocratie ».",
-     "sources": [
-      "4eb908b50010"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ekloaGpGRb4eHmRuRaswUM4iWQI=/0x0:1920x1080/800x0/images/Marine-Le-Pen-au-congres-du-RN-a-Orleans-le-25-octobre-2026-2371866.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
-    "article_id": "f69ab0162765"
-   },
-   "id": 177,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-25T17:11:25+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.0,
-   "sources": [
-    {
-     "id": "40ac98698f53",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
-     "published_at": "2026-10-25T13:42:59+00:00",
-     "snippet": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours."
-    },
-    {
-     "id": "4eb908b50010",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Vous êtes un danger pour la France » : des militants de l’UEJF interrompent Jordan Bardella en plein discours au congrès du RN",
-     "url": "https://www.leparisien.fr/politique/congres-du-rn-le-discours-de-jordan-bardella-interrompu-par-des-militants-dune-association-de-lutte-contre-lantisemitisme-25-10-2026-WDRDLBUZ3JABNBKS45UK4ILHXE.php",
-     "published_at": "2026-10-25T17:10:47+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b0f25dd5f473",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Présidentielle 2027 : priorité nationale, Jordan Bardella Premier ministre, référendum… que retenir du premier meeting de Marine Le Pen",
-     "url": "https://www.midilibre.fr/2026/10/25/presidentielle-2027-priorite-nationale-jordan-bardella-premier-ministre-referendum-que-retenir-du-premier-meeting-de-marine-le-pen-13619984.php",
-     "published_at": "2026-10-25T16:59:02+00:00",
-     "snippet": "Marine Le Pen a tenu son premier meeting de campagne ce dimanche 25 octobre à Orléans en conclusion du congrès du RN. Devant ses militants, la candidate à la présidentielle a promis un gouvernement \"d’union nationale\"..."
-    },
-    {
-     "id": "bcaf77466d6e",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Congrès du RN : sécurité, identité, souveraineté... Ce qu'il faut retenir du premier grand discours de campagne de Marine Le Pen",
-     "url": "https://www.cnews.fr/france/2026-10-25/congres-du-rn-securite-identite-souverainete-ce-quil-faut-retenir-du-premier",
-     "published_at": "2026-10-25T17:04:21+00:00",
-     "snippet": "À six mois de la présidentielle et dans le cadre de la deuxième journée du congrès du Rassemblement national à Orléans, Marine Le Pen s’est exprimée autour de trois grands axes que sont la renaissance, la puissance et sa vision pour l'avenir du pays. La renaissance au premier plan pour Marine Le Pen. Au deuxième jour du congrès du Rassemblement national, qui se tient à Orléans dans un contexte national tendu, la candidate à la présidentielle a tenu son premier grand discours de campagne. La présidente du groupe RN à l’Assemblée nationale a ainsi affirmé son objectif «d’offrir au pays une grand"
-    },
-    {
-     "id": "f69ab0162765",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Je ne vous propose pas de refaire la France d'avant\": Marine Le Pen plaide pour une \"Renaissance\" du pays",
-     "url": "https://www.bfmtv.com/politique/front-national/je-ne-vous-propose-pas-de-refaire-la-france-d-avant-marine-le-pen-plaide-pour-une-renaissance-du-pays_AD-202610250302.html",
-     "published_at": "2026-10-25T16:48:05+00:00",
-     "snippet": "Lors du congrès du RN à Orléans ce dimanche, Marine Le Pen a promis la Renaissance pour la France, faisant un comparatif entre la période actuelle et cette époque historique."
-    }
-   ]
-  },
-  {
-   "headline": "Bardella réélu Président du RN à 98,98 % des voix",
-   "chapo": "Jordan Bardella n'a pas été élu à un poste public : il a été réélu à la tête de son parti, le Rassemblement national, par ses adhérents, lors du congrès d'Orléans. Marine Le Pen reste la candidate du RN à la présidentielle. Il était le seul candidat et a obtenu 98,98 % des voix.",
-   "points": [
-    {
-     "text": "De quoi s'agit-il ? Selon Le Monde, Jordan Bardella a été reconduit samedi à la présidence du Rassemblement national, « premier parti d'opposition de France », lors de son congrès à Orléans. C'est un poste de dirigeant de parti, voté par les adhérents. Ce n'est ni un mandat électif national ni la candidature à la présidentielle.",
-     "sources": [
-      "4da958975751"
-     ]
-    },
-    {
-     "text": "Qui est candidat à la présidentielle ? Marine Le Pen, selon Le Monde. Bardella a dit devant les militants : « Pour conduire Marine [Le Pen, candidate à l’élection présidentielle] à l’Elysée, j’aurai besoin de vous ». Selon LCP, il est « promis à Matignon » en cas de victoire du RN à la présidentielle et aux législatives.",
-     "sources": [
-      "4da958975751",
-      "da0ebc9ffb2c"
-     ]
-    },
-    {
-     "text": "Le mandat dure trois ans, selon CNews. Bardella, qui a pris la tête du RN en 2022, est le premier à la diriger sans être issu de la famille Le Pen, d'après CNews.",
-     "sources": [
-      "2d1a3f0603bd"
-     ]
-    },
-    {
-     "text": "Selon franceinfo, il était seul candidat et a recueilli 75 497 suffrages contre 779 bulletins blancs, soit 98,98 % des voix, pour une participation proche de 68 %.",
-     "sources": [
-      "5a422e38db95"
-     ]
-    },
-    {
-     "text": "L'unique suspense résidait dans le nombre de voix, écrit LCP. En 2022, il avait recueilli 85 % face à Louis Aliot, avec 36 000 adhérents. LCP chiffre à 112 000 les adhérents revendiqués aujourd'hui.",
-     "sources": [
-      "da0ebc9ffb2c"
-     ]
-    },
-    {
-     "text": "Bardella revendique, selon CNews : « Une multiplication par trois du nombre de nos adhérents en seulement quatre ans ». Il cite 110 000 adhérents appelés à voter sur près de 160 000 statutaires.",
-     "sources": [
-      "2d1a3f0603bd"
-     ]
-    },
-    {
-     "text": "Le Monde rappelle des accusations d'écrits antisémites, que Bardella nie. LCP précise que les propos qu'il aurait tenus dans sa jeunesse sont issus de révélations de Mediapart, qu'il conteste en justice.",
-     "sources": [
-      "4da958975751",
-      "da0ebc9ffb2c"
-     ]
-    },
-    {
-     "text": "Il a appelé à l'unité et au « sang-froid » face à « des adversaires politiques qui légitiment la violence », visant La France insoumise, selon Le Monde.",
-     "sources": [
-      "4da958975751"
-     ]
-    },
-    {
-     "text": "Le vote du Conseil national, le « parlement » du parti, qui a surtout valeur de test de popularité interne selon Europe 1, a placé Jean-Philippe Tanguy en tête, devant Louis Aliot et Sébastien Chenu.",
-     "sources": [
-      "0eb443cd641f"
-     ]
-    },
-    {
-     "text": "En marge du congrès, une contre-manifestation a réuni 13 000 personnes selon les autorités et 26 000 selon les organisateurs, d'après franceinfo. Dans le cortège, plusieurs responsables de gauche ont évoqué un climat raciste créé, selon eux, par le RN, rapporte Le Monde.",
-     "sources": [
-      "5a422e38db95",
-      "4da958975751"
-     ]
-    },
-    {
-     "text": "Bardella s'exprimera dimanche à Orléans, avant Marine Le Pen, pour le premier meeting de campagne du RN en vue de la présidentielle de 2027, selon LCP.",
-     "sources": [
-      "da0ebc9ffb2c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/24/266/0/1600/800/644/322/60/0/60f9a0c_upload-1-ralhul3ft8wm-whatsapp-image-2026-10-24-at-15-15-54.jpeg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
-    "article_id": "4da958975751"
-   },
-   "id": 174,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-25T17:11:01+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.0,
-   "sources": [
-    {
-     "id": "0eb443cd641f",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Seul candidat, Bardella réélu président du RN avec 98,98% des voix",
-     "url": "https://www.europe1.fr/police-justice/seul-candidat-bardella-reelu-president-du-rn-avec-9898-des-voix-1178640?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-24T13:54:11+00:00",
-     "snippet": "Le président du Rassemblement national, Jordan Bardella, a été réélu sans surprise ce samedi lors du congrès du parti à Orléans avec 99,98% des voix pour un taux de participation proche de 68%. Un rôle de dauphin conservé. Seul candidat à sa succession à la présidence du Rassemblement national, Jordan Bardella a sans surprise été réélu samedi lors du congrès du parti à Orléans, avec près de 99% des voix et un taux de participation proche de 68%. Chiffre inédit pour un congrès du parti à la flamme et participation triplée en quatre ans, quand Jordan Bardella avait repris les rênes du RN. Le sor"
-    },
-    {
-     "id": "2d1a3f0603bd",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Jordan Bardella réélu président du Rassemblement national",
-     "url": "https://www.cnews.fr/france/2026-10-24/jordan-bardella-reelu-president-du-rassemblement-national-1941190",
-     "published_at": "2026-10-24T13:51:20+00:00",
-     "snippet": "Sans surprise, Jordan Bardella a été réélu président du Rassemblement national ce samedi 24 octobre lors du 19e congrès du parti à Orléans (Loiret). Seul candidat, il a obtenu 98,98% des voix. Une victoire peu surprenante. A l’occasion du 19e congrès du Rassemblement national, qui se tient ces 24 et 25 octobre à Orléans, Jordan Bardella a été réélu à la tête du parti pour un nouveau mandat de trois ans. Seul candidat en lice dans cette élection, Jordan Bardella a obtenu 98,98% des voix. Le député Yoann Gillet, chargé de l'organisation du congrès, a indiqué que le député européen avait obtenu 7"
-    },
-    {
-     "id": "4da958975751",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Au congrès du RN à Orléans, Jordan Bardella, seul candidat à sa succession, est réélu président du parti avec 98,98 % des voix",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html",
-     "published_at": "2026-10-24T14:06:13+00:00",
-     "snippet": "L’eurodéputé a été reconduit samedi à la présidence ‌du Rassemblement national lors d’un congrès à Orléans, où des personnalités de gauche ont participé, de leur côté, à une manifestation contre l’extrême droite."
-    },
-    {
-     "id": "5a422e38db95",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Au congrès du Rassemblement national, l'unique candidat Jordan Bardella est réélu sans surprise à la présidence du parti avec 98,98% des voix",
-     "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-24T15:15:19+00:00",
-     "snippet": "Le chef du parti d'extrême droite a recueilli 75 497 suffrages, contre à peine 779 bulletins blancs."
-    },
-    {
-     "id": "da0ebc9ffb2c",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Jordan Bardella réélu à la tête du Rassemblement national",
-     "url": "https://lcp.fr/actualites/jordan-bardella-reelu-a-la-tete-du-rassemblement-national-444251",
-     "published_at": "2026-10-24T16:08:46+00:00",
-     "snippet": "Par Raphaël Marchal , le Samedi 24 octobre 2026 à 15:49 Unique candidat à sa succession, Jordan Bardella a été réélu à la présidence du Rassemblement national. Les résultats ont été annoncés ce samedi lors du congrès du parti à Orléans. L'unique suspense résidait dans le nombre de voix qu'il allait recueillir. Seul candidat à sa succession, Jordan Bardella a été réélu président du Rassemblement national. Il est donc logiquement reconduit, avec 98,98% des voix parmi les adhérents du mouvement qui se sont prononcés. Les résultats ont été annoncés ce samedi 24 octobre durant le congrès du RN à Or"
-    }
-   ]
-  },
-  {
-   "headline": "Interdire LFI : la proposition de Retailleau et Larcher tient-elle juridiquement ?",
-   "chapo": "Bruno Retailleau puis Gérard Larcher ont évoqué l'interdiction de La France insoumise, qu'ils accusent d'attiser la violence. Le droit permet de dissoudre un parti, mais dans un cadre très strict. Les juristes cités jugent l'hypothèse improbable, et LFI dénonce une manœuvre.",
-   "points": [
-    {
-     "text": "Invité de BFMTV-RMC le jeudi 1er octobre, Bruno Retailleau a jugé que LFI était un parti « fasciné par la violence » et que « la question de l'interdiction de LFI se pose ». Selon Europe 1, il a ajouté : « C'est très difficile en droit, mais je la lance dans le débat public ».",
-     "sources": [
-      "8c2bd05c073d",
-      "dd071981f197"
-     ]
-    },
-    {
-     "text": "Le président du Sénat Gérard Larcher a insisté à son tour dans une interview, le 19 octobre : « Je pense que la question [d'interdire LFI] peut être posée », rapporte LCP.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon répond, selon Public Sénat : « Il veut nous interdire parce que nos idées ne lui plaisent pas ». Il affirme que LFI est « pour des méthodes de lutte non violentes ».",
-     "sources": [
-      "dd071981f197"
-     ]
-    },
-    {
-     "text": "Que dit la loi ? Selon LCP, l'article L. 212-1 du Code de la sécurité intérieure permet de dissoudre un groupement par décret en conseil des ministres, notamment s'il provoque des agissements violents envers les personnes ou les biens.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Le juge administratif a confirmé que cet article s'applique aussi aux partis politiques, selon Le JDD, dans une décision du 30 décembre 2024. La dissolution peut être contestée devant le Conseil d'État, qui vérifie la réalité des accusations : « un appel à manifester n'est pas un appel à la violence ».",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Les précédents concernent des groupes très limités en adhérents, comme Génération identitaire, Civitas ou le Groupe antifasciste Lyon et environs. Pour le professeur de droit public Christophe Boutin, interrogé par Le JDD : « Rien à voir, donc, avec le volume et l'audience d'un parti comme LFI ».",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Les garde-fous sont nombreux, selon LCP. L'article 4 de la Constitution dit que les partis « se forment et exercent leurs activités librement ». La Cour européenne des droits de l'homme exige des raisons « convaincantes et impératives ». LCP juge la dissolution « relativement improbable ».",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Un juriste cité par LCP, Augustin Berthout, estime que la loi « politise énormément la décision », car c'est au gouvernement d'interdire un parti d'opposition.",
-     "sources": [
-      "b92ea1edf8cc"
-     ]
-    },
-    {
-     "text": "Toujours selon Le JDD, Christophe Boutin avertit que le pouvoir « prend le risque d'être désavoué par ses juges et, finalement, d'être délégitimé ». Le JDD rappelle qu'Éric Zemmour s'oppose à cette procédure, qu'il juge antidémocratique.",
-     "sources": [
-      "59c0b784075a"
-     ]
-    },
-    {
-     "text": "Pour L'Humanité, LFI est devenue « la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ».",
-     "sources": [
-      "771ec26fa5a1"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2023-07/P0209736%20FAITES%20MIEUX%20CETTE%20JEUNESSE%20DERRIERE%20MELENCHON.JPG?h=d1cb525d&itok=LXo1c2eB",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
-    "article_id": "b92ea1edf8cc"
-   },
-   "id": 172,
-   "section": "institutions",
-   "reviewed_at": "2026-10-25T17:10:51+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.0,
-   "sources": [
-    {
-     "id": "59c0b784075a",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Peut-on vraiment interdire LFI ? Les réponses d’un professeur de droit public",
-     "url": "https://www.lejdd.fr/politique/peut-on-vraiment-interdire-lfi-les-reponses-dun-professeur-de-droit-public-186762",
-     "published_at": "2026-10-22T16:36:51+00:00",
-     "snippet": "ENTRETIEN. Alors que les appels à dissoudre le mouvement de Jean-Luc Mélenchon se multiplient, Christophe Boutin, politologue et professeur à l'université de Caen-Normandie, précise les conditions juridiques d’une telle mesure et alerte sur le risque, pour l'État, d'être désavoué par les juges."
-    },
-    {
-     "id": "771ec26fa5a1",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Demandes de dissolution, attaques, mensonges… LFI cible du gouvernement et de la droite",
-     "url": "https://www.humanite.fr/politique/bruno-retailleau/demandes-de-dissolution-attaques-mensonges-lfi-cible-du-gouvernement-et-de-la-droite",
-     "published_at": "2026-10-24T06:01:00+00:00",
-     "snippet": "Pourquoi la France insoumise est-elle devenue la cible privilégiée et le bouc émissaire du gouvernement, de la droite et des éditorialistes ? Entre les accusations de noyautage du mouvement lycéen, les propositions de dissolution brandies par Bruno Retailleau ou Gérard Larcher, et les révélations explosives de Médiapart sur les notes des renseignements territoriaux, retour sur une séquence politique sous haute tension.Avec Rachel Garrat-Valcarcel et Théo Bourrieau."
-    },
-    {
-     "id": "8c2bd05c073d",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Blocage des lycées : B.Retailleau propose de faire interdire LFI",
-     "url": "https://www.europe1.fr/politique/tensions-devant-les-lycees-bruno-retailleau-demande-detudier-linterdiction-de-lfi-1116410",
-     "published_at": "2026-10-01T17:32:00+00:00",
-     "snippet": "En marge des blocus lycéens marqués par de vives tensions, le candidat LR à l'élection présidentielle Bruno Retailleau a proposé d'ouvrir le débat sur l'interdiction de La France Insoumise. Il accuse "
-    },
-    {
-     "id": "b92ea1edf8cc",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Interdire LFI: la proposition de Gérard Larcher et Bruno Retailleau tient-elle juridiquement ?",
-     "url": "https://lcp.fr/actualites/interdire-lfi-la-proposition-de-gerard-larcher-et-bruno-retailleau-tient-elle",
-     "published_at": "2026-10-24T09:26:08+00:00",
-     "snippet": "Par Pierre Levrel , le Samedi 24 octobre 2026 à 08:35 Bruno Retailleau et Gérard Larcher ont évoqué une interdiction de La France insoumise, qu’ils accusent d’attiser la violence. Mais peut-on dissoudre un parti politique ? Si le droit français le permet, cette décision reste strictement encadrée, notamment pour préserver le pluralisme des opinions. Et paraît, aujourd'hui, relativement improbable. \"Fasciné par la violence\", parti qui \"appelle à la sédition\"... Bruno Retailleau n'avait pas retenu ses coups contre La France Insoumise (LFI), à l'occasion d' un entretien donné le 1er octobre sur B"
-    },
-    {
-     "id": "dd071981f197",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Exclusif. « Bruno Retailleau est ridicule » : Jean-Luc Mélenchon réagit à sa proposition d'interdire LFI",
-     "url": "https://www.publicsenat.fr/actualites/politique/exclusif-bruno-retailleau-est-ridicule-jean-luc-melenchon-reagit-a-sa-proposition-dinterdire-lfi",
-     "published_at": "2026-10-01T14:47:00+00:00",
-     "snippet": "Invité de BFMTV-RMC ce jeudi 1er octobre, le candidat LR à la présidentielle Bruno Retailleau a réagi au mouvement des lycéens. Il a déclaré que La France Insoumise était un parti « fasciné par la vio"
-    }
-   ]
-  },
-  {
-   "headline": "Mobilisation du 24 octobre : un bilan plus calme que le 17, mais des interdictions contestées",
-   "chapo": "La deuxième journée de manifestations contre la vie chère a été moins violente que celle du 17 octobre, selon le gouvernement. Près de 1 000 interpellations ont eu lieu et des heurts ont éclaté dans plusieurs villes. Les chiffres de participation divergent entre l'État et la CGT, et des manifestations interdites ont tout de même rassemblé du monde.",
-   "points": [
-    {
-     "text": "Selon Le JDD, 410 000 personnes ont défilé en France samedi d'après le ministère de l'Intérieur, contre 550 000 le 17 octobre. La CGT en compte 800 000, autant que le 17. Les autorités ont recensé 289 actions, contre 430 une semaine plus tôt.",
-     "sources": [
-      "21e3b30e849c",
-      "a3f64ba6c024"
-     ]
-    },
-    {
-     "text": "Laurent Nuñez a assuré que « les cortèges se sont bien passés », selon BFMTV. Il a parlé de « groupes à risque » de militants d'extrême gauche radicale et d'ultragauche, qui ont cherché à commettre des exactions, stoppées par les forces de l'ordre.",
-     "sources": [
-      "12c830e79d30"
-     ]
-    },
-    {
-     "text": "Près de 1 000 interpellations avaient eu lieu à 19h30, selon BFMTV, qui cite le ministre : « Au même moment le 17 octobre, nous étions à 385 interpellations ». Il annonçait un chiffre amené à « augmenter considérablement ».",
-     "sources": [
-      "12c830e79d30"
-     ]
-    },
-    {
-     "text": "Nuñez s'est satisfait qu'aucune « attaque contre des bâtiments publics » n'ait eu lieu, une semaine après l'incendie de la mairie de Limoges. Selon lui, « au même moment le 17 octobre, on était à peu près à 300 commerces pillés », d'après BFMTV. Il reconnaît toutefois quelques pillages en « nombre limité ».",
-     "sources": [
-      "12c830e79d30"
-     ]
-    },
-    {
-     "text": "Le Figaro explique le changement par un dispositif plus musclé : plus d'hommes prépositionnés dans les rues, des « contrôles de flux » et des « fouilles » dans les gares et sur les axes routiers. La journée « n'a rien à voir avec la semaine dernière », a déclaré Nuñez.",
-     "sources": [
-      "15b07708416f"
-     ]
-    },
-    {
-     "text": "Malgré le calme d'ensemble, Le Figaro note des affrontements en fin de cortège dans plusieurs grandes villes. À Paris, selon BFMTV, des casseurs et des « militants politiques radicalisés » sont venus au contact des forces de l'ordre, pour un affrontement d'au moins deux heures.",
-     "sources": [
-      "15b07708416f",
-      "12c830e79d30"
-     ]
-    },
-    {
-     "text": "Le JDD relève des heurts dans plusieurs villes, des pillages et du vandalisme. À Paris, la préfecture a recensé 142 interpellations et 120 gardes à vue. Deux personnes ont été grièvement blessées à Toulouse et à Clermont-Ferrand, selon Nuñez.",
-     "sources": [
-      "21e3b30e849c"
-     ]
-    },
-    {
-     "text": "À Lyon, selon Le Monde, plus de 10 000 personnes ont défilé alors que la manifestation était interdite par la préfecture, interdiction confirmée par le tribunal administratif. Le journal écrit que les forces de l'ordre ont « systématiquement réprimé les cortèges disséminés », y compris des manifestants pacifiques.",
-     "sources": [
-      "09854a8f5f8f"
-     ]
-    },
-    {
-     "text": "Frédéric Volle (FO), cité par Le Monde : « Les interdictions de manifester sont honteuses. Nous ne sommes pas responsables des violences ». Deux étudiantes : « Bien sûr nous avons peur, mais si nous ne venons pas, ils ont gagné ».",
-     "sources": [
-      "09854a8f5f8f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://www.ici.fr/pikapi/images/cfbf0d26-08dc-4416-aa25-165df489e778/920x517?webp=false",
-    "source": "ici (France Bleu)",
-    "article_url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021?at_medium=lien_RSS&at_locale=56",
-    "article_id": "a3f64ba6c024"
-   },
-   "id": 176,
-   "section": "institutions",
-   "reviewed_at": "2026-10-25T17:10:32+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.0,
-   "sources": [
-    {
-     "id": "09854a8f5f8f",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "A Lyon, la manifestation interdite et étouffée par le gaz lacrymogène",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/24/a-lyon-la-manifestation-interdite-etouffee-par-le-gaz-lacrymogene_6799727_3224.html",
-     "published_at": "2026-10-24T18:40:14+00:00",
-     "snippet": "Plus de 10 000 personnes ont défilé dans le désordre et sous pression permanente, alors que la manifestation était interdite. Les forces de l’ordre ont systématiquement réprimé les cortèges disséminés, en chargeant à plusieurs reprises sur des manifestants pacifiques."
-    },
-    {
-     "id": "12c830e79d30",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Cortège calme, 1.000 interpellations, bâtiments publics intacts: Laurent Nuñez tire son bilan des manifestations du 24 octobre",
-     "url": "https://www.bfmtv.com/politique/gouvernement/cortege-calme-1-000-interpellations-batiments-publics-intacts-laurent-nunez-tire-son-bilan-des-manifestations-du-24-octobre_AV-202610240415.html",
-     "published_at": "2026-10-24T19:20:46+00:00",
-     "snippet": "Après une nouvelle journée de mobilisation contre la \"vie chère\", Laurent Nuñez a tiré son bilan des manifestations du 24 octobre. Il a évoqué des cortèges calmes, des interpellations et des bâtiments intacts tout en appelant à la vigilance pour la suite de la soirée."
-    },
-    {
-     "id": "15b07708416f",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Des cortèges calmes, moins de casse, des heurts contenus… Une nouvelle journée de mobilisation sous haute surveillance partout en France",
-     "url": "https://www.lefigaro.fr/actualite-france/des-corteges-calmes-moins-de-casse-des-heurts-contenus-une-nouvelle-journee-de-mobilisation-sous-haute-surveillance-partout-en-france-20261024",
-     "published_at": "2026-10-25T10:44:38+00:00",
-     "snippet": "REPORTAGE - Une semaine après les scènes de chaos du 17 octobre, les manifestations contre la vie chère se sont déroulées dans un calme relatif ce samedi. Malgré des affrontements en fin de cortège dans plusieurs grandes villes, les forces de l’ordre sont parvenues à limiter les pillages et les dégradations."
-    },
-    {
-     "id": "21e3b30e849c",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre : interpellations, nombre de manifestants... Le bilan des autorités",
-     "url": "https://www.lejdd.fr/Societe/manifestations-du-24-octobre-interpellations-nombre-de-manifestants-le-bilan-des-autorites-186957",
-     "published_at": "2026-10-25T08:26:00+00:00",
-     "snippet": "Le ministère de l'Intérieur a fait état d'une mobilisation plus faible ce 24 octobre que le samedi précédent et a assuré que « les cortèges se sont bien passés ». Quelque 1 000 interpellations ont tou"
-    },
-    {
-     "id": "a3f64ba6c024",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Mobilisation du 24 octobre : 410.000 manifestants en France selon le gouvernement, 800.000 d'après la CGT",
-     "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-24T18:40:56+00:00",
-     "snippet": "De nombreux manifestants, 410.000 selon le ministère de l'Intérieur, 800.000 selon la CGT, ont défilé ce samedi pour l'acte II de la mobilisation contre la vie chère. Quelques heurts et affrontements ont éclaté à Paris, Lyon, Toulouse ou Bordeaux. Revivez cette journée avec ICI."
-    }
-   ]
-  },
-  {
-   "headline": "Budget de la Sécu 2027 : l'Assemblée le rejette, que se passe-t-il maintenant ?",
-   "chapo": "Les députés ont rejeté la partie « recettes » du budget de la Sécurité sociale, ce qui interrompt leur examen du texte. Il part au Sénat dans sa version initiale. Droite, gauche et bloc central se renvoient la responsabilité de cet échec.",
-   "points": [
-    {
-     "text": "Selon LCP, l'Assemblée a rejeté vendredi la partie « recettes » du projet de loi de financement de la Sécurité sociale par 115 voix contre 1. Tous les groupes se sont opposés, sauf le bloc central (Ensemble pour la République, Les Démocrates, Horizons), qui s'est abstenu.",
-     "sources": [
-      "fa181d7d95f1"
-     ]
-    },
-    {
-     "text": "Pourquoi le texte s'arrête-t-il là ? Selon LCP, les députés ne peuvent pas débattre des dépenses si le financement n'a pas été adopté. Le texte va donc au Sénat, dans la version initiale du gouvernement.",
-     "sources": [
-      "fa181d7d95f1"
-     ]
-    },
-    {
-     "text": "Boursorama précise que le Sénat s'en saisira le 9 novembre. Le gouvernement vise un déficit de la Sécu de 12,7 milliards d'euros en 2027, contre 21,8 milliards en 2026.",
-     "sources": [
-      "6332a83f9c0e"
-     ]
-    },
-    {
-     "text": "Avant le vote final, Le Monde relève que sur 18 articles initiaux, 15 avaient été supprimés. Parmi eux : la prorogation de la taxe des organismes complémentaires (1,1 milliard d'euros attendus), l'extension de la taxe sur les produits sucrés (300 millions) ou la diminution des allégements (3,7 milliards).",
-     "sources": [
-      "2ef82dd3b2d9"
-     ]
-    },
-    {
-     "text": "Sur la taxe sur les produits sucrés, selon CNews, LR, RN et leurs alliés ont voté pour sa suppression (86 voix contre 58). MoDem, LFI, socialistes, écologistes et Liot s'y sont opposés ; Horizons et Renaissance se sont divisés.",
-     "sources": [
-      "b992d6e596de"
-     ]
-    },
-    {
-     "text": "Le RN a fait passer un amendement supprimant la C3S (coût : 5,5 milliards d'euros selon le ministre David Amiel). Un amendement écologiste sur un départ à 62 ans pour 42 ans de cotisation représente 1,2 milliard de perte, selon le ministre, d'après Boursorama.",
-     "sources": [
-      "6332a83f9c0e"
-     ]
-    },
-    {
-     "text": "David Amiel dit que les votes ont « virtuellement » dégradé le déficit à 24 milliards d'euros. Selon Le Monde, il a lancé : « Le budget de la France, ce n’est pas un jeu vidéo ».",
-     "sources": [
-      "6332a83f9c0e",
-      "2ef82dd3b2d9"
-     ]
-    },
-    {
-     "text": "Chacun s'est renvoyé la responsabilité, selon Boursorama. Christophe Bentz (RN) au bloc central : « Vos députés, vos soldats, ils ont déserté ». Sandrine Runel (PS) : « Nous avons des recettes à proposer, mais vous avez tout refusé ».",
-     "sources": [
-      "6332a83f9c0e"
-     ]
-    },
-    {
-     "text": "Côté critiques de fond, LCP cite Justine Gruet (Droite républicaine) : « L'impératif de redressement des comptes sociaux n'est pas tenu ». Sandrine Runel juge que le texte « n'apporte aucune recette à la hauteur des besoins ». Joëlle Mélin (RN) dénonce des « rustines ».",
-     "sources": [
-      "fa181d7d95f1"
-     ]
-    },
-    {
-     "text": "Et après ? Boursorama écrit que tous anticipent le recours à l'article 49 alinéa 3 de la Constitution ou aux ordonnances. Le rapporteur Thibault Bazin (LR) espère une seconde lecture où « il faudra essayer de trouver un chemin ».",
-     "sources": [
-      "6332a83f9c0e"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-10/rousseau%20an%2023%2010%2026.jpg?h=c673cd1c&itok=MkAvUIB0",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
-    "article_id": "fa181d7d95f1"
-   },
-   "id": 173,
-   "section": "institutions",
-   "reviewed_at": "2026-10-25T17:10:49+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.4,
-   "sources": [
-    {
-     "id": "2ef82dd3b2d9",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
-     "published_at": "2026-10-23T16:21:16+00:00",
-     "snippet": "Dans un hémicycle quasiment déserté par les soutiens du gouvernement, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale. Le parcours du texte n’est pas terminé et le gouvernement espère encore trouver une voie de passage."
-    },
-    {
-     "id": "6332a83f9c0e",
-     "name": "Boursorama",
-     "kind": "media",
-     "title": "L'Assemblée rejette à la quasi-unanimité le budget de la Sécu, qui part au Sénat",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/l-assemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat-22fd8675720f04c3797bbd039474a296",
-     "published_at": "2026-10-23T15:14:00+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b992d6e596de",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Budget de la Sécu : les députés rejettent une taxe sur les produits sucrés",
-     "url": "https://www.cnews.fr/france/2026-10-23/budget-de-la-secu-les-deputes-rejettent-une-taxe-sur-les-produits-sucres-1940335",
-     "published_at": "2026-10-23T05:13:28+00:00",
-     "snippet": "Les députés ont rejeté ce jeudi la création d'une taxe sur les produits transformés sucrés, mesure destinée à pousser les industriels à réduire le taux de sucre dans leurs recettes. Un premier vote clair. Les députés ont rejeté jeudi la création d'une taxe sur les produits transformés sucrés, proposée par le gouvernement dans le budget de la Sécurité sociale pour 2027, et visant à lutter contre les maladies chroniques associées à l'excès de sucre. La mesure est destinée à pousser les industriels à réduire le taux de sucre dans leurs recettes, mais elle suscite une levée de boucliers de leur pa"
-    },
-    {
-     "id": "fa181d7d95f1",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget de la Sécu: l'Assemblée nationale rejette la partie \"recettes\", l'ensemble du texte va être transmis au Sénat",
-     "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
-     "published_at": "2026-10-24T09:26:08+00:00",
-     "snippet": "Par Maxence Kagni Ludovic FAU, le Vendredi 23 octobre 2026 à 12:59 L'Assemblée nationale a rejeté, ce vendredi 23 octobre, la partie \"recettes\" du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. L'ensemble du texte va donc être transmis au Sénat, sans que la partie \"dépenses\" ne soit examinée par les députés. Pas de recettes, pas de dépenses... Après avoir largement détricoté la partie \"recettes\" du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027, l'Assemblée nationale l'a finalement rejetée, ce vendredi 23 octobre, par 115 voix \"contre\" 1 voix \"pou"
-    }
-   ]
-  },
-  {
-   "headline": "Gazole : le décret des stocks stratégiques est publié, une baisse attendue le 1er novembre",
-   "chapo": "Le gouvernement a publié le décret qui libère 10 millions de barils de gazole des réserves stratégiques. Il espère une baisse de 12 à 18 centimes par litre dès le 1er novembre. Des spécialistes jugent le chiffre incertain.",
-   "points": [
-    {
-     "text": "Selon franceinfo, un décret a été publié samedi au Journal officiel. Il autorise la vente de stocks stratégiques pour 1,6 million de m3, soit environ 10 millions de barils, jusqu'au 31 janvier. La répercussion sur les consommateurs est prévue à compter du 1er novembre.",
-     "sources": [
-      "e482ad513179"
-     ]
-    },
-    {
-     "text": "Le contexte, selon Public Sénat : les prix des carburants restent très élevés sur les marchés mondiaux « en raison du conflit dans le Golfe et du blocage du détroit d'Ormuz ». Le gazole libéré a été acheté avant la flambée des cours.",
-     "sources": [
-      "cab9373d141e"
-     ]
-    },
-    {
-     "text": "Le gouvernement espère diminuer le prix du gazole de 12 à 18 centimes par litre, selon franceinfo. Depuis début octobre, il oscille en moyenne entre 2,3 et 2,4 euros le litre, selon les chiffres du gouvernement.",
-     "sources": [
-      "e482ad513179"
-     ]
-    },
-    {
-     "text": "Selon La Dépêche du Midi, Sébastien Lecornu assure que ces stocks seront mis sur le marché à leur prix d'acquisition, « près de quatre fois inférieur au prix actuel du marché ». Sur un plein de 50 litres, la baisse de 18 centimes représente 9 euros d'économie, calcule le quotidien.",
-     "sources": [
-      "bfedb08cd3b8"
-     ]
-    },
-    {
-     "text": "Le décret impose aux distributeurs de répercuter intégralement la baisse sur les consommateurs et de les informer avant la vente. Des bilans réguliers des ventes sont transmis aux autorités pour contrôle, selon franceinfo.",
-     "sources": [
-      "e482ad513179"
-     ]
-    },
-    {
-     "text": "D'où viennent ces stocks ? Public Sénat explique que les pays membres de l'AIE doivent garder au minimum 90 jours d'importations nettes. Les stocks français correspondent au minimum à 105 jours, selon la spécialiste Alice Moscovici.",
-     "sources": [
-      "cab9373d141e"
-     ]
-    },
-    {
-     "text": "Alice Moscovici prévient aussi : « ces 12 à 18 centimes, c'est ce que le gouvernement espère », car l'impact dépend de beaucoup de choses, notamment du prix auquel les barils ont été achetés, selon Public Sénat.",
-     "sources": [
-      "cab9373d141e"
-     ]
-    },
-    {
-     "text": "Pierre Chasseray, de l'association 40 millions d'automobilistes, estime sur Europe 1 : « Le gouvernement fait un pari quand même très risqué ». Il redoute que « la moindre étincelle du côté du détroit d'Ormuz » fasse repartir les prix à la hausse.",
-     "sources": [
-      "af33e58914d4"
-     ]
-    },
-    {
-     "text": "La Dépêche du Midi rappelle que le patron de TotalEnergies, Patrick Pouyanné, s'était engagé à baisser d'environ 10 centimes le prix du litre de gazole pour les particuliers. franceinfo ajoute qu'un décret distinct prolonge jusqu'en décembre l'aide de 15 centimes par litre sur le gazole non routier agricole.",
-     "sources": [
-      "bfedb08cd3b8",
-      "e482ad513179"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://www.franceinfo.fr/pictures/Ts4mANaUoCa1L5GNKlo0xOaOU7s/0x59:1024x635/432x243/filters:format(jpg)/2026/10/24/6adcbb76656b7057203332.jpg",
-    "source": "franceinfo",
-    "article_url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D",
-    "article_id": "e482ad513179"
-   },
-   "id": 175,
-   "section": "institutions",
-   "reviewed_at": "2026-10-25T17:10:39+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.4,
-   "sources": [
-    {
-     "id": "af33e58914d4",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Prix des carburants : le déblocage de 10 millions de barils de gazole est « un pari risqué », juge Pierre Chasseray",
-     "url": "https://www.europe1.fr/economie/prix-des-carburants-le-deblocage-de-10-millions-de-barils-de-gazole-est-un-pari-risque-juge-pierre-chasseray-1133843",
-     "published_at": "2026-10-09T12:42:00+00:00",
-     "snippet": "Après l'annonce du déblocage de dix millions de barils de gazole issus des réserves stratégiques françaises, Pierre Chasseray, délégué général de l'association 40 millions d'automobilistes, doute de l"
-    },
-    {
-     "id": "bfedb08cd3b8",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Prix des carburants : \"Cette baisse est attendue à compter du 1er novembre\", Sébastien Lecornu annonce la signature du décret visant à réduire le prix du litre de gazole de 18 centimes",
-     "url": "https://www.ladepeche.fr/2026/10/24/prix-des-carburants-cette-baisse-est-attendue-a-compter-du-1er-novembre-sebastien-lecornu-annonce-la-signature-du-decret-visant-a-reduire-le-prix-du-13618356.php",
-     "published_at": "2026-10-24T10:01:38+00:00",
-     "snippet": "Le Premier ministre Sébastien Lecornu a annoncé ce samedi la signature d'un décret \"permettant la libération de 10 millions de barils de gazole\". Un décret qui pourrait rapidement avoir des effets sur le prix à la..."
-    },
-    {
-     "id": "cab9373d141e",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Prix du carburant : les mesures annoncées par Sébastien Lecornu auront-elles vraiment un impact sur les prix ?",
-     "url": "https://www.publicsenat.fr/actualites/politique/prix-du-carburant-les-mesures-annoncees-par-sebastien-lecornu-auront-elles-vraiment-un-impact-sur-les-prix",
-     "published_at": "2026-10-08T15:38:41+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "e482ad513179",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Un décret a été publié en vue de la libération de stocks stratégiques de gazole pour faire baisser les prix à la pompe",
-     "url": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-24T14:07:35+00:00",
-     "snippet": "Le texte autorise la vente de stocks stratégiques pour un volume maximum de 1,6 million de mètres cubes. Le gouvernement de Sébastien Lecornu espère ainsi diminuer de 12 à 18 centimes par litre le prix du gazole."
     }
    ]
   }
