@@ -1,115 +1,6 @@
 {
- "generated_at": "2026-10-30T09:05:33+00:00",
+ "generated_at": "2026-10-30T17:05:20+00:00",
  "posts": [
-  {
-   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
-   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
-   "points": [
-    {
-     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
-     "sources": [
-      "ec850d6b4f35"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
-     "sources": [
-      "0c848649e720"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
-     "sources": [
-      "909c19c404cb"
-     ]
-    },
-    {
-     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
-     "sources": [
-      "5a9e1ccd28ca"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-    "article_id": "5a9e1ccd28ca"
-   },
-   "id": 221,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-29T15:28:35+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 8.65,
-   "sources": [
-    {
-     "id": "0c848649e720",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
-     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
-     "published_at": "2026-10-29T09:07:14+00:00",
-     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
-    },
-    {
-     "id": "5a9e1ccd28ca",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
-     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T02:06:07+00:00",
-     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
-    },
-    {
-     "id": "909c19c404cb",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
-     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
-     "published_at": "2026-10-29T10:08:00+00:00",
-     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
-    },
-    {
-     "id": "9d868f20d38e",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
-     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
-     "published_at": "2026-10-28T20:55:17+00:00",
-     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
-    },
-    {
-     "id": "ec850d6b4f35",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
-     "published_at": "2026-10-29T07:43:27+00:00",
-     "snippet": ""
-    }
-   ]
-  },
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
    "chapo": "Dans une interview de plus d'une heure diffusée le 28 octobre au soir sur YouTube, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, défendu Parcoursup tout en voulant le « refonder », et esquivé la question d'une hausse du Smic.",
@@ -171,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 10.35,
+   "score": 8.69,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -230,6 +121,115 @@
    ]
   },
   {
+   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
+   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
+   "points": [
+    {
+     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
+     "sources": [
+      "ec850d6b4f35"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
+     "sources": [
+      "0c848649e720"
+     ]
+    },
+    {
+     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
+     "sources": [
+      "909c19c404cb"
+     ]
+    },
+    {
+     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
+     "sources": [
+      "5a9e1ccd28ca"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+    "article_id": "5a9e1ccd28ca"
+   },
+   "id": 221,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-29T15:28:35+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 7.26,
+   "sources": [
+    {
+     "id": "0c848649e720",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
+     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
+     "published_at": "2026-10-29T09:07:14+00:00",
+     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
+    },
+    {
+     "id": "5a9e1ccd28ca",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
+     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T02:06:07+00:00",
+     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
+    },
+    {
+     "id": "909c19c404cb",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
+     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
+     "published_at": "2026-10-29T10:08:00+00:00",
+     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
+    },
+    {
+     "id": "9d868f20d38e",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+     "published_at": "2026-10-28T20:55:17+00:00",
+     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
+    },
+    {
+     "id": "ec850d6b4f35",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
    "headline": "Le Sénat vote l'imprescriptibilité des crimes sexuels sur mineurs : ce qui change et ce qui reste à faire",
    "chapo": "Le 28 octobre, les sénateurs ont adopté par 252 voix contre 80 une mesure jusqu'ici réservée aux crimes contre l'humanité. Le vote n'est pas définitif.",
    "points": [
@@ -282,7 +282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.18,
+   "score": 4.34,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -372,7 +372,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.17,
+   "score": 4.34,
    "sources": [
     {
      "id": "5e4fca0c46b8",
@@ -462,7 +462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.46,
+   "score": 2.9,
    "sources": [
     {
      "id": "6d4db6cff210",
@@ -544,7 +544,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.84,
+   "score": 6.07,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.7,
+   "score": 5.06,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -763,7 +763,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.57,
+   "score": 4.05,
    "sources": [
     {
      "id": "394b3410d53f",
@@ -861,7 +861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.42,
+   "score": 3.04,
    "sources": [
     {
      "id": "5dc2d6d91a63",
@@ -963,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 2.71,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -1053,7 +1053,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 2.71,
    "sources": [
     {
      "id": "39fec858ff48",
@@ -1155,7 +1155,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.02,
+   "score": 2.71,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -1266,7 +1266,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.61,
+   "score": 6.08,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -1422,7 +1422,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.76,
+   "score": 4.38,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1558,7 +1558,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.97,
+   "score": 3.65,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -1672,7 +1672,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.32,
+   "score": 3.04,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1784,7 +1784,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.17,
+   "score": 2.92,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1896,7 +1896,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.17,
+   "score": 2.92,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1996,7 +1996,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.49,
+   "score": 2.28,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2101,7 +2101,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.38,
+   "score": 2.19,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2129,458 +2129,6 @@
      "url": "https://www.europe1.fr/politique/alliance-des-droites-louis-aliot-interroge-david-lisnard-sur-un-potentiel-soutien-a-marine-le-pen-au-second-tour-de-la-presidentielle-1185963?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-27T10:32:00+00:00",
      "snippet": "Pour Louis Aliot, les clivages entre le RN et la droite se limitent à l'économie, mais une union est possible. Le maire de Perpignan déplore pourtant que les mains tendues restent sans réponse. Louis Aliot, maire Rassemblement national de Perpignan, s'est dit prêt à travailler avec David Lisnard. Selon lui, les différences entre le RN et la droite se limitent à \"des différences sur l'économie\". \"Le reste, c'est la préservation de la France, la préservation des valeurs de notre pays, de son histoire. Sur tout cela, on pense la même chose\", affirme-t-il, en jugeant que \"ne pas s'attaquer\" est \"u"
-    }
-   ]
-  },
-  {
-   "headline": "Le Conseil constitutionnel écarte la demande du RN de faire démissionner Richard Ferrand : l'enjeu du référendum de l'article 11",
-   "chapo": "Le RN et l'UDR réclamaient la démission d'office du président du Conseil constitutionnel, après ses propos sur une révision de la Constitution par référendum. Alain Juppé a répondu que la procédure ne repose « sur aucune base constitutionnelle ». Derrière l'affaire : par quelle voie Marine Le Pen pourrait-elle changer la Constitution ?",
-   "points": [
-    {
-     "text": "Selon Le Monde, Richard Ferrand, en fonction depuis mars 2025 pour neuf ans, était accusé par le RN et l'UDR d'avoir outrepassé sa fonction. Il a pris position contre une révision de la Constitution par référendum sans passer par le Parlement, ce que Marine Le Pen veut entreprendre pour mettre en place une préférence nationale ou appliquer son projet de politique migratoire.",
-     "sources": [
-      "fbd81b35afdc"
-     ]
-    },
-    {
-     "text": "Dans un podcast mis en ligne le 9 octobre, Ferrand a dit : « Vouloir réformer la Constitution par l'article 11, ça n'existe pas. C'est l'article 89 (...). Il n'y a pas de débat ». Marine Le Pen a répondu : « Il a rompu avec l'obligation qui est la sienne de neutralité », rapporte LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Selon Boursorama, le RN et l'UDR ont saisi vendredi le doyen d'âge du Conseil, Alain Juppé. Ils estiment que Ferrand a « préjugé publiquement d'une question de droit non encore tranchée par le Conseil constitutionnel », en s'appuyant sur l'article 7 de l'ordonnance de 1958.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "La réponse est tombée lundi. Selon Le JDD et Europe 1, le Conseil a rejeté la demande. Alain Juppé écrit que la procédure ne repose « sur aucune base constitutionnelle » : seul le Conseil peut « constater la démission d'office d'un de ses membres », au nom de la séparation des pouvoirs.",
-     "sources": [
-      "2c46711d946a",
-      "3e982d31d74e"
-     ]
-    },
-    {
-     "text": "Sur le fond, Juppé écrit que Ferrand « s'est contenté de décrire exactement l'état de notre droit » : seule la procédure de l'article 89 permet de réviser la Constitution. Elle exige un vote en termes identiques de l'Assemblée et du Sénat, puis un référendum ou un Congrès, explique LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Le RN invoque de Gaulle, qui a utilisé l'article 11 en 1962 pour l'élection du président au suffrage universel. Ferrand répond : « n'est pas De Gaulle qui veut » et « la vie a changé », selon LCP.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    },
-    {
-     "text": "Jordan Bardella a répliqué vendredi : Juppé est « extrêmement mal placé » car sa famille politique a utilisé l'article 11. Il accuse le Conseil d'utiliser les institutions « à des fins politiciennes ». Juppé juge, lui, que de Gaulle a commis « une mauvaise interprétation » de l'article 11 en 1962, selon Boursorama.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "Le juriste Jean-Philippe Derosier (université de Lille) estime que « ce type de recours n'existe pas davantage que les licornes et les éléphants volants », et que la meilleure réponse pourrait être de l'ignorer, selon Boursorama.",
-     "sources": [
-      "4e1fb8f6f47b"
-     ]
-    },
-    {
-     "text": "Dans sa lettre, Juppé rappelle que le Conseil est chargé, en vertu de l'article 60, de veiller à la régularité des référendums. LCP y voit une manière de souligner qu'un tel scrutin sur la base de l'article 11 « s'exposerait à une censure » du Conseil.",
-     "sources": [
-      "c0a6fdbee400"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/09/02/0/0/7488/3744/644/322/60/0/1b8ac61_upload-1-gyfd0yfeirn0-000-93dq4gr.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
-    "article_id": "fbd81b35afdc",
-    "focus_x": 0.4766666666666667,
-    "focus_y": 0.12322916666666667
-   },
-   "id": 180,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T14:19:38+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.14,
-   "sources": [
-    {
-     "id": "2c46711d946a",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Démission de Richard Ferrand : le Conseil constitutionnel rejette la demande du RN et de l'UDR",
-     "url": "https://www.lejdd.fr/politique/demission-de-richard-ferrand-le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-187053",
-     "published_at": "2026-10-26T13:23:17+00:00",
-     "snippet": "Richard Ferrand restera au Conseil constitutionnel. L'institution a rejeté ce lundi la demande formulée par le Rassemblement national et l'UDR, qui exigeaient la démission de Richard Ferrand après sa prise de position sur le projet de référendum constitutionnel de Marine Le Pen."
-    },
-    {
-     "id": "3e982d31d74e",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Le Conseil constitutionnel rejette la demande du RN et de l'UDR visant à obtenir la démission de Richard Ferrand",
-     "url": "https://www.europe1.fr/politique/le-conseil-constitutionnel-rejette-la-demande-du-rn-et-de-ludr-visant-a-obtenir-la-demission-de-richard-ferrand-1183167?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-26T10:09:53+00:00",
-     "snippet": "Le Conseil constitutionnel a rejeté la demande du RN et de l'UDR visant à obtenir la \"démission d'office\" de son président, Richard Ferrand. Les parlementaires de ces partis lui reprochaient d'avoir pris position contre une révision de la Constitution par référendum. Le Conseil constitutionnel a opposé lundi une fin de non-recevoir aux parlementaires du Rassemblement national (RN) et de l'Union des droites (UDR) qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Richard Ferrand, en fonction depuis mars 2025 pour un mandat de 9 ans, é"
-    },
-    {
-     "id": "4e1fb8f6f47b",
-     "name": "Boursorama",
-     "kind": "media",
-     "title": "Le RN et l'UDR saisissent le Conseil constitutionnel, réclamant la démission de Ferrand",
-     "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-et-l-udr-saisissent-le-conseil-constitutionnel-reclamant-la-demission-de-ferrand-5a430a5ceabc434ccc4da88b2d393736",
-     "published_at": "2026-10-16T18:42:00+00:00",
-     "snippet": "Les parlementaires du Rassemblement national (RN) et de l'Union des droites pour la République (UDR) ont saisi vendredi le Conseil constitutionnel pour demander la \"démission d'office\" de son présiden"
-    },
-    {
-     "id": "c0a6fdbee400",
-     "name": "LCP",
-     "kind": "media",
-     "title": "\"Démission d'office\" de Richard Ferrand: le Conseil constitutionnel écarte la demande du RN et de l'UDR",
-     "url": "https://lcp.fr/actualites/demission-d-office-de-richard-ferrand-le-conseil-constitutionnel-ecarte-la-demande-du-rn",
-     "published_at": "2026-10-26T14:00:32+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 12:25 Le Conseil constitutionnel a opposé, ce lundi 26 octobre, une fin de non-recevoir aux parlementaires du Rassemblement national et de l'Union des droites pour la République qui réclamaient la \"démission d'office\" de son président Richard Ferrand, selon un courrier consulté par l'AFP. Il y a dix jours, les députés du Rassemblement national et leurs alliés de l'Union des droites pour la République avaient saisi le Conseil constitutionnel pour demander la \"démission d'office\" du président de l'institution, Richard Ferrand. La raison ?"
-    },
-    {
-     "id": "fbd81b35afdc",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Le Conseil constitutionnel rejette la demande, portée par le RN et l’UDR, de démission de Richard Ferrand",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/26/le-conseil-constitutionnel-rejette-la-demande-portee-par-le-rn-et-l-udr-de-demission-de-richard-ferrand_6800741_823448.html",
-     "published_at": "2026-10-26T10:50:43+00:00",
-     "snippet": "L’institution affirme que la procédure lancée par les parlementaires d’extrême droite ne repose « sur aucune base constitutionnelle ». Ces derniers estiment que le président du Conseil constitutionnel a outrepassé sa fonction en prenant position contre la révision de la Constitution par référendum, une mesure figurant au programme de Marine Le Pen."
-    }
-   ]
-  },
-  {
-   "headline": "Macron à Marseille : l'état d'urgence n'est « pas un tabou », et les prochaines manifestations hors des centres-villes",
-   "chapo": "En visite surprise à Marseille, Emmanuel Macron a reconnu que le 17 octobre n'avait « pas du tout » été anticipé. Il écarte pour l'instant l'état d'urgence, sans l'exclure si « les choses devaient se dégrader ». Pour le 31 octobre, les cortèges devront rester hors des centres-villes. À droite, la surenchère sécuritaire se poursuit.",
-   "points": [
-    {
-     "text": "Selon BFMTV, Macron a reconnu que les autorités n'avaient « pas du tout anticipé » le 17 octobre et que « les forces de police n'étaient pas dûment proportionnées ». Il explique qu'on n'avait pas prévu autant de forces d'ultragauche mobilisées très tôt le matin, ni la délinquance venue s'y greffer.",
-     "sources": [
-      "e0e84ecdce55"
-     ]
-    },
-    {
-     "text": "Sur l'état d'urgence, il estime : « On tient la République et l'ordre public sans état d'urgence ». Mais ce n'est pas « un interdit ou un tabou » si « les choses devaient se dégrader ». L'origine de la crise n'est « pas comparable » à l'été 2023, ajoute-t-il, selon BFMTV.",
-     "sources": [
-      "e0e84ecdce55"
-     ]
-    },
-    {
-     "text": "Pour le samedi 31 octobre, jugé « à risque », LCP rapporte qu'il demande des tracés hors des centres-villes, comme le 24 octobre, pour prévenir dégradations et pillages. La mission est de « tenir et protéger », et le gouvernement est « humble et concentré ».",
-     "sources": [
-      "6b82573877bb"
-     ]
-    },
-    {
-     "text": "Il évoque aussi la journée de mobilisation nationale du 5 novembre. « Il n'est pas écrit qu'il y ait une chronique de chaque samedi qui doive reprendre », espère-t-il, en référence aux gilets jaunes, selon BFMTV.",
-     "sources": [
-      "e0e84ecdce55"
-     ]
-    },
-    {
-     "text": "Selon BFMTV, il a aussi jugé que « les réseaux sociaux abîment nos démocraties », car ils ont été utilisés le 17 pour faire venir des gens sur les lieux de pillage.",
-     "sources": [
-      "e0e84ecdce55"
-     ]
-    },
-    {
-     "text": "L'Humanité rapporte un « mea-culpa » de Macron sur le manque d'anticipation, et note qu'il s'est félicité d'un retour à l'« ordre public » après l'interdiction des manifestations non syndicales et les couvre-feux.",
-     "sources": [
-      "1a0f78b60ef6"
-     ]
-    },
-    {
-     "text": "Le maire de Marseille, Benoît Payan, présent aux côtés du président, a appelé à une « sortie politique » du mouvement social. Macron a admis des « demandes légitimes » à l'origine du conflit, selon LCP.",
-     "sources": [
-      "6b82573877bb"
-     ]
-    },
-    {
-     "text": "À droite, la course à la fermeté continue, selon Europe 1 (20 octobre) : Bruno Retailleau réclame l'état d'urgence, qui donnerait aux préfets des moyens d'interpellation et d'interdiction. Gabriel Attal n'écarte pas le recours à l'armée : « S'il faut temporairement avoir recours à des forces armées, il faut le faire ».",
-     "sources": [
-      "2e0bbb71a2d9"
-     ]
-    },
-    {
-     "text": "Jordan Bardella lui répond que « les forces armées dans la rue ont un nom, ça s'appelle la gendarmerie ». Le RN veut voter la loi « casseur-payeur », abaisser la majorité pénale à 16 ans et créer des centres de rétention, rapporte Europe 1.",
-     "sources": [
-      "2e0bbb71a2d9"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yWzN8QxzAlVpMjoIHWwuP2nrpc4=/0x0:1920x1080/800x0/images/Emmanuel-Macron-a-Marseille-le-26-octobre-2026-dix-jours-apres-les-violences-lors-de-la-manifestation-du-17-octobre-2372317.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-reconnait-que-les-violences-du-17-octobre-n-avaient-pas-du-tout-ete-anticipees_AD-202610260458.html",
-    "article_id": "e0e84ecdce55"
-   },
-   "id": 182,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T15:42:01+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.54,
-   "sources": [
-    {
-     "id": "1a0f78b60ef6",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "En déplacement à Marseille, Macron estime que l’état d’urgence n’est pas « un tabou » si « les choses devaient se dégrader »",
-     "url": "https://www.humanite.fr/politique/emmanuel-macron/en-deplacement-a-marseille-macron-estime-que-letat-durgence-nest-pas-un-tabou-si-les-choses-devaient-se-degrader",
-     "published_at": "2026-10-26T14:17:16+00:00",
-     "snippet": "Emmanuel Macron est en visite surprise, lundi 26 octobre, à Marseille. Depuis, la cité phocéenne le chef de l’État a reconnu un manque d’anticipation de la journée du 17 octobre, marquée par de nombreux pillages et des dégradations. Il s’est par contre félicité d’un retour à l'« ordre public » après l’interdiction des manifestations non syndicales et la mise en place de couvre-feu. Il a précisé ne pas écarter un recours à « l’état d’urgence si les choses devaient se dégrader »."
-    },
-    {
-     "id": "2e0bbb71a2d9",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Les propositions des candidats de droite à la présidentielle : état d'urgence, recours à l'armée, nouvelles lois anti-casseurs... La course à la fermeté après les émeutes",
-     "url": "https://www.europe1.fr/politique/les-propositions-des-candidats-de-droite-a-la-presidentielle-etat-durgence-recours-a-larmee-nouvelles-lois-anti-casseurs-la-course-a-la-fermete-apres-les-emeutes-1164663",
-     "published_at": "2026-10-20T06:32:00+00:00",
-     "snippet": "Après trois jours de violences, les candidats à la présidentielle rivalisent de fermeté. Bruno Retailleau réclame l'état d'urgence, Gabriel Attal n'écarte pas le recours à l'armée, Jordan Bardella mis"
-    },
-    {
-     "id": "6b82573877bb",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Manifestations du 31 octobre: Macron demande des cortèges hors des centres-villes",
-     "url": "https://lcp.fr/actualites/manifestations-du-31-octobre-macron-demande-des-corteges-hors-des-centres-villes-444302",
-     "published_at": "2026-10-26T15:36:45+00:00",
-     "snippet": "Par Pierre Levrel , le Lundi 26 octobre 2026 à 15:48 En visite à Marseille ce lundi 26 octobre, pour constater le \"retour de l'ordre\", le président de la République a annoncé suivre de près les mobilisation prévues le 31 octobre, puis le 5 novembre. Les parcours des manifestants seront établis hors des centres-villes, pour prévenir les dommages matériels. Emmanuel Macron a admis un \"manque d'anticipation\" du gouvernement, aux premières heures du conflit social. \"Je tenais à venir à Marseille pour être aux côtés de monsieur le maire\". En visite lundi 26 octobre dans la deuxième ville de France,"
-    },
-    {
-     "id": "e0e84ecdce55",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Emmanuel Macron reconnaît que les violences du 17 octobre n'avaient \"pas du tout été anticipées\"",
-     "url": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-reconnait-que-les-violences-du-17-octobre-n-avaient-pas-du-tout-ete-anticipees_AD-202610260458.html",
-     "published_at": "2026-10-26T12:25:31+00:00",
-     "snippet": "En visite à Marseille, Emmanuel Macron a admis lundi que \"les forces de police n'étaient pas dûment proportionnées\" pour la journée de mobilisation du 17 octobre, en marge de laquelle des dégradations et des pillages ont été commis."
-    }
-   ]
-  },
-  {
-   "headline": "Manifestation à Paris le 24 octobre : pourquoi le parcours Bastille-Nation a été interdit à la dernière minute",
-   "chapo": "La préfecture de police a interdit vendredi le parcours négocié avec les syndicats et imposé un itinéraire en bordure de Paris. L'intersyndicale a dénoncé un revirement de dernière minute. Le cortège s'est déroulé dans le calme avant des heurts en fin de parcours.",
-   "points": [
-    {
-     "text": "Selon CNews, la préfecture de police de Paris a interdit vendredi après-midi le parcours Bastille-Nation, négocié la veille avec les syndicats. Elle a proposé un itinéraire de la Porte d'Italie à la Porte de Vincennes, par les boulevards des Maréchaux, de 13h à 19h.",
-     "sources": [
-      "54f4e98f7e80"
-     ]
-    },
-    {
-     "text": "Selon Le Figaro, le parcours Bastille-Nation avait été signé jeudi par l'intersyndicale d'Île-de-France après « deux longues réunions » avec la préfecture. Les syndicats disent avoir apporté « toutes les garanties nécessaires ».",
-     "sources": [
-      "f64b4c6163c9"
-     ]
-    },
-    {
-     "text": "L'intersyndicale (CGT, CFDT, FO, FSU, Solidaires et organisations de jeunesse) a refusé cette demande « inacceptable ». Pour la CGT de Paris, l'itinéraire est « impossible à sécuriser ». La CGT a contesté l'arrêté devant le tribunal administratif, selon CNews.",
-     "sources": [
-      "54f4e98f7e80"
-     ]
-    },
-    {
-     "text": "CNews rappelle que la préfecture avait déjà interdit jeudi un autre parcours, entre Bastille et Opéra, demandé par le collectif étudiant Interfac et des gilets jaunes.",
-     "sources": [
-      "54f4e98f7e80"
-     ]
-    },
-    {
-     "text": "Côté préfecture, sa porte-parole a reconnu, selon Le Monde, que l'afflux de personnes « qui souhaitaient en découdre » avait été « mal estimé » le 17 octobre. Le dispositif du 24 avait pour objectif de « sécuriser cette manifestation et de dissuader, d’entraver la venue de casseurs ».",
-     "sources": [
-      "2872055df568"
-     ]
-    },
-    {
-     "text": "Le Figaro écrit que les organisateurs ont dénoncé une stratégie du « désordre » et une atteinte à la liberté de manifester. Le journal note aussi que le cortège est resté calme et apaisé jusqu'en fin d'après-midi, avant quelques débordements à l'arrivée.",
-     "sources": [
-      "f64b4c6163c9"
-     ]
-    },
-    {
-     "text": "Selon L'Obs, la foule a marché « calme et déterminée » malgré la pluie : 110 000 manifestants selon la préfecture, le double selon la CGT. Marion, 19 ans : « Mais on ne s’épuisera pas aussi facilement ».",
-     "sources": [
-      "e435b540c30b"
-     ]
-    },
-    {
-     "text": "À Paris, 142 personnes ont été interpellées, dont 126 placées en garde à vue, selon la préfecture citée par Le Monde, qui évoque aussi la présence de « 500 casseurs » en fin de cortège.",
-     "sources": [
-      "2872055df568"
-     ]
-    },
-    {
-     "text": "Au niveau national, le ministère de l'Intérieur a annoncé dimanche, selon Le Monde, 1 314 interpellations, 53 membres des forces de l'ordre blessés et 24 commerces pillés, un bilan « provisoire ».",
-     "sources": [
-      "2872055df568"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://i.f1g.fr/media/cms/2850x1604_crop/2026/10/25/69173c091f9faed634cdc2edbff26dd074954a508b5ead055292d1a2fbbceb07.jpg",
-    "source": "Le Figaro",
-    "article_url": "https://www.lefigaro.fr/actualite-france/il-est-ou-le-cortege-les-dessous-de-l-interdiction-in-extremis-du-parcours-de-la-manifestation-a-paris-20261025",
-    "article_id": "f64b4c6163c9"
-   },
-   "id": 178,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T14:18:56+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.51,
-   "sources": [
-    {
-     "id": "2872055df568",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Manifestation du 24 octobre à Paris : 142 personnes interpellées, dont 126 placées en garde à vue, annonce la Préfecture de police",
-     "url": "https://www.lemonde.fr/politique/article/2026/10/25/manifestation-142-personnes-interpellees-dont-120-placees-en-garde-a-vue-a-paris-selon-la-prefecture-de-police_6800057_823448.html",
-     "published_at": "2026-10-25T07:42:46+00:00",
-     "snippet": "Un commerce a subi des vols et une concession automobile a été endommagée, mais « l’action rapide des forces de l’ordre » a permis de la protéger, selon la porte-parole de la Préfecture de police."
-    },
-    {
-     "id": "54f4e98f7e80",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Mobilisation du 24 octobre à Paris : le parcours entre Bastille et Nation finalement interdit, un autre itinéraire proposé",
-     "url": "https://www.cnews.fr/france/2026-10-24/mobilisation-du-24-octobre-paris-le-parcours-entre-bastille-et-nation-finalement",
-     "published_at": "2026-10-24T08:48:00+00:00",
-     "snippet": "À Paris, le manifestation prévue ce samedi entre Bastille et Nation a été interdite vendredi par la préfecture de police, qui a soumis un nouvel itinéraire aux syndicats. L'intersyndicale l'a refusé. "
-    },
-    {
-     "id": "e435b540c30b",
-     "name": "L'Obs",
-     "kind": "media",
-     "title": "« C’est une tactique pour nous épuiser » : à Paris, un cortège déplacé mais des manifestants déterminés",
-     "url": "https://www.nouvelobs.com/societe/20261024.OBS119499/c-est-une-tactique-pour-nous-epuiser-a-paris-un-cortege-deplace-mais-des-manifestants-determines.html",
-     "published_at": "2026-10-24T18:15:04+00:00",
-     "snippet": "Malgré un changement de parcours au dernier moment, la manifestation du 24 octobre à Paris a rassemblé une foule nombreuse entre la Porte d’Italie et la Porte de Vincennes. Des manifestants déterminés à affronter la pluie en soutien aux lycéens mais aussi contre la vie chère."
-    },
-    {
-     "id": "f64b4c6163c9",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
-     "url": "https://www.lefigaro.fr/actualite-france/il-est-ou-le-cortege-les-dessous-de-l-interdiction-in-extremis-du-parcours-de-la-manifestation-a-paris-20261025",
-     "published_at": "2026-10-25T16:38:23+00:00",
-     "snippet": "RÉCIT - Au grand dam des organisateurs de l’«acte II» de la mobilisation contre la vie chère, la préfecture a interdit au dernier moment le parcours initial dans le centre-ville pour imposer une déambulation en bordure de la capitale."
-    }
-   ]
-  },
-  {
-   "headline": "Mélenchon à Macron : « céder » ou « la porte de sortie », avec une grève générale en vue le 5 novembre",
-   "chapo": "Dans le cortège parisien du 24 octobre, Jean-Luc Mélenchon a sommé Emmanuel Macron de « céder » aux revendications, en évoquant une grève générale dès le 5 novembre. Les syndicats préparent une journée interprofessionnelle à cette date. Mélenchon a aussi pris à partie un journaliste de BFMTV, et la bataille à gauche avec Raphaël Glucksmann s'intensifie.",
-   "points": [
-    {
-     "text": "Selon BFMTV, Jean-Luc Mélenchon a exhorté Emmanuel Macron à « céder » car « après, il ne lui restera plus que la porte de sortie » : « ça va se répéter toutes les semaines ». Pour lui, ce qui « pend au nez » de l'exécutif, c'est « la grève générale », à partir du 5 novembre, à l'appel de la patronne de la CGT Sophie Binet.",
-     "sources": [
-      "58613e847632"
-     ]
-    },
-    {
-     "text": "Il a demandé à l'exécutif « d'arrêter les provocations » après le changement tardif de parcours. Marine Tondelier (Écologistes) accuse le gouvernement d'avoir joué « la stratégie du pourrissement » pendant un mois, selon BFMTV.",
-     "sources": [
-      "58613e847632"
-     ]
-    },
-    {
-     "text": "L'Humanité raconte une foule « massive et calme » à Paris et des syndicats qui annoncent 250 000 personnes. Ils préparent désormais la journée de mobilisation interprofessionnelle du 5 novembre. Le tribunal administratif a rejeté leur référé contre le parcours, « déposé hors délai ».",
-     "sources": [
-      "d08abf2dcae1"
-     ]
-    },
-    {
-     "text": "Le JDD relate qu'interrogé par un journaliste de BFMTV, Mélenchon a répondu : « Allez faire du racisme à la télé et foutez-nous la paix ». Le JDD rappelle qu'en septembre, LFI avait annoncé boycotter BFMTV une semaine en raison de sa ligne éditoriale « de plus en plus à droite ».",
-     "sources": [
-      "d4118d5b8a8c"
-     ]
-    },
-    {
-     "text": "À gauche, la concurrence s'aiguise, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon atteint 17 % et se qualifie pour le second tour dans tous les cas de figure. L'équipe de Glucksmann espère lui disputer le vote utile face au RN : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ».",
-     "sources": [
-      "047bda588bce"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rImiZVpvmIKYShSOqEkOJ7AOLF8=/0x0:1920x1080/800x0/images/Jean-Luc-Melenchon-a-Paris-lors-d-une-manifestation-le-24-octobre-2026-2371469.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
-    "article_id": "58613e847632"
-   },
-   "id": 179,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-26T14:18:52+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.51,
-   "sources": [
-    {
-     "id": "047bda588bce",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
-     "published_at": "2026-10-25T11:04:54+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "58613e847632",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Manifestations du 24 octobre: Jean-Luc Mélenchon appelle Emmanuel Macron à \"céder\" face aux revendications car \"après, il ne lui restera plus que la porte de sortie\"",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/manifestations-du-24-octobre-jean-luc-melenchon-appelle-emmanuel-macron-a-ceder-face-aux-revendications-car-apres-il-ne-lui-restera-plus-que-la-porte-de-sortie_AD-202610240286.html",
-     "published_at": "2026-10-24T13:07:47+00:00",
-     "snippet": "Le candidat à la présidentielle, présent dans le cortège à Paris du 24 octobre, a souligné que le chef de l'État \"va comprendre que ça va se répéter toutes les semaines\"."
-    },
-    {
-     "id": "d08abf2dcae1",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "24 octobre : la rue parisienne répond par le calme aux provocations d’Emmanuel Macron, et prépare la grève du 5 novembre",
-     "url": "https://www.humanite.fr/social-et-economie/cgt/24-octobre-la-rue-parisienne-repond-par-le-calme-aux-provocations-demmanuel-macron-et-prepare-la-greve-du-5-novembre",
-     "published_at": "2026-10-24T15:30:29+00:00",
-     "snippet": "Loin d’affaiblir la mobilisation sociale, les mesures répressives ont galvanisé les manifestants dans la capitale, ce samedi. Les syndicats ont désormais les yeux rivés sur la journée de mobilisation interprofessionnelle du 5 novembre."
-    },
-    {
-     "id": "d4118d5b8a8c",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "«Commencez à vous calmer» : Mélenchon prend encore un journaliste à partie en pleine manifestation",
-     "url": "https://www.lejdd.fr/politique/commencez-a-vous-calmer-melenchon-prend-encore-un-journaliste-a-partie-en-pleine-manifestation-186870",
-     "published_at": "2026-10-24T15:27:16+00:00",
-     "snippet": "Présent dans le cortège parisien ce samedi 24 octobre, le fondateur de La France insoumise a vivement pris à partie un journaliste de BFMTV, lui lançant notamment : « Allez faire du racisme à la télé et foutez-nous la paix. »"
     }
    ]
   },
@@ -2663,7 +2211,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.93,
+   "score": 1.8,
    "sources": [
     {
      "id": "12deaabb6ff0",
@@ -2691,220 +2239,6 @@
      "url": "https://www.europe1.fr/societe/crise-lyceenne-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-1183752",
      "published_at": "2026-10-26T15:30:00+00:00",
      "snippet": "Le gouvernement prévoit le remplacement de Parcoursup en deux temps, cette année et l'année scolaire prochaine, ainsi que quatre autres mesures, selon des influenceuses dans le domaine de l'éducation "
-    }
-   ]
-  },
-  {
-   "headline": "Tondelier prête à se retirer de la présidentielle « s'il y a un chemin de victoire » à gauche",
-   "chapo": "La candidate des Écologistes n'exclut plus de retirer sa candidature au profit d'un autre candidat de gauche, sous conditions. Les adhérents trancheront du 10 au 13 décembre. Au sein du parti, certains poussent vers Mélenchon, d'autres vers Glucksmann, d'autres pour une candidature autonome.",
-   "points": [
-    {
-     "text": "Selon BFMTV, Marine Tondelier a affirmé sur France 2 qu'elle pourrait se retirer si « un chemin de victoire » est possible pour la gauche unie. « La seule raison » serait « un chemin de victoire pour (son) camp qui pourrait passer par autre chose ».",
-     "sources": [
-      "68dd05dcd257"
-     ]
-    },
-    {
-     "text": "Ses conditions, selon Le JDD : « un accord de gouvernement, un accord aux législatives, parce qu'on ne gouvernera pas seul ; c'est un accord programmatique évidemment, et c'est un accord sur le dispositif de campagne ».",
-     "sources": [
-      "6533d50f040f"
-     ]
-    },
-    {
-     "text": "Elle dit que son « travail » est « que tout soit possible » : « L'autonomie ou une campagne avec quelqu'un d'autre », rapporte Le Parisien. Elle ajoute qu'il est « assez vraisemblable qu'en réalité il y ait un chemin assez évident qui s'impose », sans en dire plus.",
-     "sources": [
-      "caf90adb0fda"
-     ]
-    },
-    {
-     "text": "Elle regrette l'absence d'union : « Sans union de toute la gauche, c'est mal parti et je vois qu'ils n'ont pas envie », en visant Mélenchon et Glucksmann, selon Le Parisien. Elle se demande comment ils pourront convaincre les Français s'ils n'y arrivent pas avec les adhérents écologistes.",
-     "sources": [
-      "caf90adb0fda"
-     ]
-    },
-    {
-     "text": "Les adhérents des Écologistes voteront du 10 au 13 décembre : se maintenir jusqu'au bout, ou se retirer derrière un autre candidat. « Je suis candidate aujourd'hui et la décision finale aura lieu le 13 décembre », a-t-elle dit, selon BFMTV.",
-     "sources": [
-      "68dd05dcd257"
-     ]
-    },
-    {
-     "text": "Dans son camp, BFMTV recense trois lignes. Sandrine Rousseau veut s'aligner rapidement derrière Mélenchon, sur une ligne radicale. Yannick Jadot plaide pour Glucksmann. Certains militants réclament une candidature écologiste autonome.",
-     "sources": [
-      "68dd05dcd257"
-     ]
-    },
-    {
-     "text": "Tondelier défend sa candidature pour porter l'écologie dans la campagne : Mélenchon et Glucksmann, « je ne dis pas qu'ils sont contre l'écologie, mais ce n'est pas leur ADN », selon BFMTV.",
-     "sources": [
-      "68dd05dcd257"
-     ]
-    },
-    {
-     "text": "Elle est donnée entre 1 et 6 % au premier tour selon les configurations, d'après Le Parisien, et autour de 5 % selon Le JDD.",
-     "sources": [
-      "caf90adb0fda",
-      "6533d50f040f"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/26/14/000_d44f2vt.jpg?VersionId=IUbgLuMn_wirLryJbioUbg67DqJ63wEK",
-    "source": "Le JDD",
-    "article_url": "https://www.lejdd.fr/politique/presidentielle-marine-tondelier-prete-a-se-retirer-sil-y-a-un-chemin-de-victoire-pour-la-gauche-187065",
-    "article_id": "6533d50f040f",
-    "focus_x": 0.52,
-    "focus_y": 0.066808142733632
-   },
-   "id": 183,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-26T15:41:44+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.9,
-   "sources": [
-    {
-     "id": "6533d50f040f",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Présidentielle : Marine Tondelier prête à se retirer s'il y a «un chemin de victoire» pour la gauche",
-     "url": "https://www.lejdd.fr/politique/presidentielle-marine-tondelier-prete-a-se-retirer-sil-y-a-un-chemin-de-victoire-pour-la-gauche-187065",
-     "published_at": "2026-10-26T14:23:00+00:00",
-     "snippet": "Marine Tondelier a révélé ce lundi matin sur France 2 les conditions de son éventuel retrait de l'élection présidentielle 2027. La patronne des Écologistes a affirmé regretter l'absence d'une candidature unique de la gauche."
-    },
-    {
-     "id": "68dd05dcd257",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Marine Tondelier prête à retirer sa candidature à l'élection présidentielle \"s'il y a un chemin de victoire\" pour la gauche",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/marine-tondelier-prete-a-retirer-sa-candidature-a-l-election-presidentielle-s-il-y-a-un-chemin-de-victoire-pour-la-gauche_AD-202610260396.html",
-     "published_at": "2026-10-26T11:09:11+00:00",
-     "snippet": "La candidate Les Écologiste à la présidentielle a une nouvelle fois appelé à une union de la gauche pour l'élection que \"personne ne gagnera seul\"."
-    },
-    {
-     "id": "caf90adb0fda",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Marine Tondelier n’exclut pas de se retirer « s’il y a un chemin de victoire » à gauche",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-tondelier-nexclut-pas-de-se-retirer-sil-y-a-un-chemin-de-victoire-a-gauche-26-10-2026-K5GDLKBVZJFVVATZN7X65DCBOI.php",
-     "published_at": "2026-10-26T14:00:25+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Lycéens : les mesures que Lecornu s'apprête à annoncer, de Parcoursup aux classes de seconde",
-   "chapo": "Après un mois de mobilisation, Sébastien Lecornu reçoit lundi les organisations lycéennes et étudiantes à Matignon. Des mesures non encore confirmées officiellement seraient annoncées : réforme de Parcoursup, 15 000 places supplémentaires, 28 élèves maximum en seconde. Les organisations réclament bien plus, et les présidents d'université préviennent qu'il ne faut pas tout miser sur Parcoursup.",
-   "points": [
-    {
-     "text": "Le mouvement est parti d'un lycée de banlieue parisienne le 17 septembre, rappelle CNews. Lundi, Lecornu reçoit à Matignon les organisations lycéennes puis étudiantes, avant une conférence de presse des ministres de l'Éducation et de l'Enseignement supérieur à 17h30.",
-     "sources": [
-      "de6afeb98a37"
-     ]
-    },
-    {
-     "text": "Le gouvernement avait ouvert le 5 octobre une plate-forme de consultation, qui affichait, à sa clôture, quelque 100 000 contributions, selon CNews. Son contenu doit servir de base aux discussions, d'après RMC.",
-     "sources": [
-      "de6afeb98a37",
-      "47a08fd60410"
-     ]
-    },
-    {
-     "text": "Macron avait reçu les lycéens vendredi et s'était dit favorable à réformer Parcoursup, rapporte RMC. Un conseiller ministériel glisse à RMC : « Il faut leur donner un gage ». L'exécutif réfléchit à insérer certaines mesures directement dans le budget 2027.",
-     "sources": [
-      "47a08fd60410"
-     ]
-    },
-    {
-     "text": "Selon La Dépêche du Midi, qui s'appuie sur des informations de plusieurs médias, Lecornu aurait esquissé cinq mesures. D'abord, une réforme immédiate de Parcoursup dès cette année, avant un changement profond l'an prochain. Ensuite, 15 000 places supplémentaires dans l'enseignement supérieur.",
-     "sources": [
-      "1f94f02faa3c"
-     ]
-    },
-    {
-     "text": "Toujours selon La Dépêche du Midi : un plafond strict de 28 élèves par classe en seconde dès la rentrée prochaine, l'indexation des bourses sur l'inflation et cinq milliards d'euros pour la rénovation des universités. Ces mesures n'étaient pas encore annoncées officiellement.",
-     "sources": [
-      "1f94f02faa3c"
-     ]
-    },
-    {
-     "text": "Les organisations (Union étudiante, Fage, Unef, USL) revendiquent 10 mesures évaluées à 10 milliards d'euros. Parmi elles : la fin de la sélection à l'université, 250 000 places et une réforme des bourses, selon CNews.",
-     "sources": [
-      "de6afeb98a37"
-     ]
-    },
-    {
-     "text": "Louis Létoublon (Les Lycéens !) réclame l'abrogation de Parcoursup, une réforme des rythmes scolaires et des places à l'université. Il juge que le gouvernement semble enclin à satisfaire les revendications et appelle à poursuivre la mobilisation, selon RMC.",
-     "sources": [
-      "47a08fd60410"
-     ]
-    },
-    {
-     "text": "Les présidents d'université préviennent, selon CNews : supprimer Parcoursup « n'est pas la solution magique » et il ne faut « pas confondre l'outil et la politique délibérée de réduction des moyens ».",
-     "sources": [
-      "de6afeb98a37"
-     ]
-    },
-    {
-     "text": "Le calendrier presse l'exécutif, rappelle La Dépêche du Midi : une journée d'action des gilets jaunes le 31 octobre et une journée nationale de grèves et de manifestations le 5 novembre, à l'initiative des syndicats de salariés.",
-     "sources": [
-      "1f94f02faa3c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/080_hl_quentindegroeve_3157322-taille1200_6adf2ff0dc844.jpg?h=f692311e&itok=PvmiKohV",
-    "source": "CNews",
-    "article_url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
-    "article_id": "de6afeb98a37",
-    "focus_x": 0.49666666666666665,
-    "focus_y": 0.12601851851851853
-   },
-   "id": 181,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T14:18:39+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.88,
-   "sources": [
-    {
-     "id": "1f94f02faa3c",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Colère sociale : Sébastien Lecornu va annoncer une réforme immédiate de Parcoursup et quatre autres mesures pour calmer la colère des lycéens",
-     "url": "https://www.ladepeche.fr/2026/10/26/direct-colere-sociale-le-gouvernement-promet-des-reponses-tres-concretes-ce-lundi-apres-un-mois-de-crise-lyceenne-les-organisations-lyceennes-et-13620644.php",
-     "published_at": "2026-10-26T13:42:56+00:00",
-     "snippet": "Après un mois de mobilisation des lycéens et étudiants qui a fait tache d’huile, le gouvernement a promis de leur apporter ce lundi \"des réponses très concrètes\", qui devraient concerner Parcoursup, l’état des..."
-    },
-    {
-     "id": "47a08fd60410",
-     "name": "RMC",
-     "kind": "media",
-     "title": "\"Il faut donner un gage\": ce que pourrait annoncer Sébastien Lecornu aux lycéens qu'il doit rencontrer à Matignon",
-     "url": "https://rmc.bfmtv.com/actualites/societe/education/il-faut-donner-un-gage-ce-que-pourrait-annoncer-sebastien-lecornu-aux-lyceens-qu-il-doit-rencontrer-a-matignon_AV-202610260368.html",
-     "published_at": "2026-10-26T10:23:00+00:00",
-     "snippet": "Après un mois de mobilisation, le Premier ministre Sébastien Lecornu reçoit les lycéens à Matignon à 14h30. Il promet des réponses concrètes sur Parcoursup, l’état des bâtiments et le nombre de places à l’université. En espérant calmer la colère des lycéens avant la rentrée dans une semaine."
-    },
-    {
-     "id": "de6afeb98a37",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Mobilisation des lycéens : Parcoursup, enseignants, état des bâtiments... Quelles sont les pistes concrètes que le gouvernement compte proposer ?",
-     "url": "https://www.cnews.fr/france/2026-10-26/mobilisation-des-lyceens-parcoursup-enseignants-etat-des-batiments-quelles-sont",
-     "published_at": "2026-10-26T11:12:01+00:00",
-     "snippet": "Après un mois de mobilisation des lycéens et étudiants, le gouvernement a promis de leur apporter ce lundi «des réponses très concrètes», qui devraient concerner Parcoursup, l'état des bâtiments ou encore le nombre de places à l'université. Des annonces très attendues. Ce lundi 26 octobre, Sébastien Lecornu va successivement recevoir à partir de 14h30, à Matignon, les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements. Les ministres Edouard Geffray (Éducation) et Philippe Baptiste (Enseignement supérieur) doivent égal"
     }
    ]
   }
