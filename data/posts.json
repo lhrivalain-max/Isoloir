@@ -1,115 +1,6 @@
 {
- "generated_at": "2026-10-31T09:08:50+00:00",
+ "generated_at": "2026-10-31T17:07:33+00:00",
  "posts": [
-  {
-   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
-   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
-   "points": [
-    {
-     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
-     "sources": [
-      "ec850d6b4f35"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
-     "sources": [
-      "0c848649e720"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
-     "sources": [
-      "909c19c404cb"
-     ]
-    },
-    {
-     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
-     "sources": [
-      "5a9e1ccd28ca"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-    "article_id": "5a9e1ccd28ca"
-   },
-   "id": 221,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-29T15:28:35+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.48,
-   "sources": [
-    {
-     "id": "0c848649e720",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
-     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
-     "published_at": "2026-10-29T09:07:14+00:00",
-     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
-    },
-    {
-     "id": "5a9e1ccd28ca",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
-     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T02:06:07+00:00",
-     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
-    },
-    {
-     "id": "909c19c404cb",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
-     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
-     "published_at": "2026-10-29T10:08:00+00:00",
-     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
-    },
-    {
-     "id": "9d868f20d38e",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
-     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
-     "published_at": "2026-10-28T20:55:17+00:00",
-     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
-    },
-    {
-     "id": "ec850d6b4f35",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
-     "published_at": "2026-10-29T07:43:27+00:00",
-     "snippet": ""
-    }
-   ]
-  },
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
    "chapo": "Dans une interview de plus d'une heure diffusée le 28 octobre au soir sur YouTube, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, défendu Parcoursup tout en voulant le « refonder », et esquivé la question d'une hausse du Smic.",
@@ -171,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.57,
+   "score": 5.86,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -230,6 +121,115 @@
    ]
   },
   {
+   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
+   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
+   "points": [
+    {
+     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
+     "sources": [
+      "ec850d6b4f35"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
+     "sources": [
+      "0c848649e720"
+     ]
+    },
+    {
+     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
+     "sources": [
+      "909c19c404cb"
+     ]
+    },
+    {
+     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
+     "sources": [
+      "5a9e1ccd28ca"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+    "article_id": "5a9e1ccd28ca"
+   },
+   "id": 221,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-29T15:28:35+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 4.89,
+   "sources": [
+    {
+     "id": "0c848649e720",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
+     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
+     "published_at": "2026-10-29T09:07:14+00:00",
+     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
+    },
+    {
+     "id": "5a9e1ccd28ca",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
+     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T02:06:07+00:00",
+     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
+    },
+    {
+     "id": "909c19c404cb",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
+     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
+     "published_at": "2026-10-29T10:08:00+00:00",
+     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
+    },
+    {
+     "id": "9d868f20d38e",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+     "published_at": "2026-10-28T20:55:17+00:00",
+     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
+    },
+    {
+     "id": "ec850d6b4f35",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    }
+   ]
+  },
+  {
    "headline": "Le Sénat vote l'imprescriptibilité des crimes sexuels sur mineurs : ce qui change et ce qui reste à faire",
    "chapo": "Le 28 octobre, les sénateurs ont adopté par 252 voix contre 80 une mesure jusqu'ici réservée aux crimes contre l'humanité. Le vote n'est pas définitif.",
    "points": [
@@ -282,7 +282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 2.93,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -372,7 +372,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.28,
+   "score": 2.93,
    "sources": [
     {
      "id": "5e4fca0c46b8",
@@ -462,7 +462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.19,
+   "score": 1.96,
    "sources": [
     {
      "id": "6d4db6cff210",
@@ -544,7 +544,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.95,
+   "score": 4.54,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.13,
+   "score": 3.78,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -763,7 +763,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.3,
+   "score": 3.03,
    "sources": [
     {
      "id": "394b3410d53f",
@@ -861,7 +861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.48,
+   "score": 2.27,
    "sources": [
     {
      "id": "5dc2d6d91a63",
@@ -963,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.26,
+   "score": 2.08,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -1053,7 +1053,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.26,
+   "score": 2.08,
    "sources": [
     {
      "id": "39fec858ff48",
@@ -1155,7 +1155,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.26,
+   "score": 2.08,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -1183,427 +1183,6 @@
      "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-le-debat-aura-lieu-cet-apres-midi-a-l",
      "published_at": "2026-10-28T09:23:22+00:00",
      "snippet": "Par Raphaël Marchal , le Mercredi 28 octobre 2026 à 10:07 Un débat sur \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" aura lieu à 17h, ce mercredi 28 octobre, dans l'hémicycle de l'Assemblée nationale, à la demande du gouvernement. La France insoumise déplore l'absence de vote à l'issue de ce débat. C'est un débat sur Parcoursup organisé alors que la mobilisation lycéenne, qui a débuté à la mi-septembre, se poursuit malgré les récentes annonces du gouvernement . Ce mercredi à 17 heures, les députés débattront dans l'hémicycle de \"l'avenir du pr"
-    }
-   ]
-  },
-  {
-   "headline": "Après l'attentat de Trappes, la polémique sur la responsabilité du climat politique",
-   "chapo": "Après l'attaque raciste de Trappes et La Verrière, qui a fait un mort et cinq blessés, la gauche et Dominique de Villepin mettent en cause le climat politique et le RN. Le RN rejette toute responsabilité et dénonce une récupération, tout en qualifiant l'acte de « crime raciste, terroriste ». Le RN accuse Macron d'avoir « oublié » des victimes d'attentats passés.",
-   "points": [
-    {
-     "text": "Selon La Dépêche du Midi, le suspect, Kevin T., a reconnu avoir visé des « Noirs » et des « Arabes » pour venger des « commerçants » touchés par les violences du 17 octobre. Le Parquet national antiterroriste a ouvert une procédure. Laurent Nuñez parle d'un « attentat terroriste raciste ».",
-     "sources": [
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Le suspect dit souffrir de schizophrénie, et son sang contenait du cannabis et de la cocaïne, rapporte La Dépêche du Midi. Il est présenté comme un individu « isolé », sans lien avéré avec des groupuscules extrémistes. Un exemplaire de Mein Kampf a été trouvé chez lui, à côté d'un Coran.",
-     "sources": [
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin, sur RTL (cité par CNews) : « il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent ». Il juge que « le RN porte une responsabilité dans la polarisation de notre pays », tout en refusant la « spirale accusatoire ». Il met aussi en cause Éric Zemmour et le « grand remplacement ».",
-     "sources": [
-      "0c42af07c9d0"
-     ]
-    },
-    {
-     "text": "À gauche, L'Humanité estime que l'attentat « est le produit de leur projet politique », en parlant du RN. Le maire de Trappes, Ali Rabeh, dit dans Le Monde que le président « n'a pas été le protecteur qu'il aurait dû être », relaie CNews.",
-     "sources": [
-      "08e0b2f412a5",
-      "0c42af07c9d0"
-     ]
-    },
-    {
-     "text": "L'Humanité rapporte que Le Monde a révélé que des tracts du RN avaient été retrouvés dans la voiture du tireur. La Dépêche du Midi nuance : une première source parle de tracts dans le véhicule, une seconde précise que des documents liés au RN ont été saisis dans un autre endroit, et que leur nature reste à confirmer.",
-     "sources": [
-      "08e0b2f412a5",
-      "3ea33e4c44fc"
-     ]
-    },
-    {
-     "text": "Du côté du RN, Sébastien Chenu « rejette toute responsabilité » et dénonce une « récupération politique indigne de LFI », selon franceinfo. Thomas Ménagé « regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne ».",
-     "sources": [
-      "b79df99be33f",
-      "7ed14885cc06"
-     ]
-    },
-    {
-     "text": "Louis Aliot a déclaré sur BFMTV : « Oui c'est un crime raciste, terroriste ». Selon Libération, Marine Le Pen avait dénoncé dès vendredi le « mobile abject du racisme », une tonalité que le journal juge nouvelle au regard de ses propos passés sur Trappes et son maire.",
-     "sources": [
-      "65c78da74267",
-      "8dc27d1f89b0"
-     ]
-    },
-    {
-     "text": "Le RN retourne l'accusation contre Macron. Jean-Philippe Tanguy, sur Europe 1 et CNews, l'accuse d'avoir « oublié » les victimes d'attentats passés, après sa formule sur un « premier » acte terroriste motivé par la couleur de peau ou la religion. Il dénonce aussi le « comportement lamentable » du maire de Trappes.",
-     "sources": [
-      "5d39f61801e1"
-     ]
-    },
-    {
-     "text": "Le Figaro s'intéresse au parcours du suspect : un ex-élu EELV proche de LFI, Olivier Pareja, assure qu'il « n'était pas plus adhérent que donateur » d'une association propalestinienne. Selon Le Figaro, le suspect aurait dit vouloir se venger des pillages du 17 octobre.",
-     "sources": [
-      "b1c5d7237ef3"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 9,
-    "outlets": 8
-   },
-   "image": {
-    "url": "https://images.ladepeche.fr/api/v1/images/view/6adf5e0fdf66ac7ff50196f0/standard/image.jpg?v=1",
-    "source": "La Dépêche du Midi",
-    "article_url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
-    "article_id": "3ea33e4c44fc"
-   },
-   "id": 185,
-   "section": "institutions",
-   "reviewed_at": "2026-10-27T14:22:40+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 5.23,
-   "sources": [
-    {
-     "id": "08e0b2f412a5",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Attentat raciste et islamophobe à Trappes : des tracts du RN retrouvés dans la voiture du tireur",
-     "url": "https://www.humanite.fr/politique/extreme-droite/attentat-raciste-et-islamophobe-a-trappes-des-tracts-du-rn-retrouves-dans-la-voiture-du-tireur",
-     "published_at": "2026-10-26T14:13:47+00:00",
-     "snippet": "Alors que le Rassemblement national réfute tout lien avec l’attentat raciste et islamophobe qui a endeuillé Trappes et La Verrière vendredi 23 octobre, « le Monde » révèle que des tracts du parti lepéniste ont été retrouvés dans la voiture du tireur. Quelques heures avant cette révélation, Sébastien Chenu comparait, sur France Inter, Trappes à « un foyer de djihadistes »."
-    },
-    {
-     "id": "0c42af07c9d0",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Attaque terroriste dans les Yvelines : pour Dominique de Villepin, «le RN porte une responsabilité dans la polarisation de notre pays»",
-     "url": "https://www.cnews.fr/france/2026-10-26/attaque-terroriste-dans-les-yvelines-pour-dominique-de-villepin-le-rn-porte-une",
-     "published_at": "2026-10-26T10:11:38+00:00",
-     "snippet": "Invité sur RTL ce lundi 26 octobre, l'ancien Premier ministre, Dominique de Villepin, a alerté contre la «polarisation» de la France, dont serait pour partie responsable le RN, deux jours après l'attentat terroriste dans les Yvelines. Des «responsables de la mise en place de cette mécanique de la haine». Invité ce lundi 26 octobre sur RTL, Dominique de Villepin est revenu sur l'attentat terroriste dans les Yvelines à Trappes et La Verrière, tuant une personne et en blessant quatre autres. Pour lui, «il y a des paroles qui tuent, il y a des actes qui tuent, mais il y a des abandons qui tuent». "
-    },
-    {
-     "id": "3ea33e4c44fc",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Attentat de Trappes : documents liés au RN, exemplaire de \"Mein Kampf\"... les découvertes des enquêteurs confirment la piste du crime raciste",
-     "url": "https://www.ladepeche.fr/2026/10/26/attentat-de-trappes-documents-lies-au-rn-exemplaire-de-mein-kampf-les-decouvertes-des-enqueteurs-confirment-la-piste-du-crime-raciste-13621096.php",
-     "published_at": "2026-10-26T14:36:08+00:00",
-     "snippet": "L'enquête sur l'attaque qui a fait un mort et cinq blessés vendredi dans les Yvelines s'oriente bel et bien vers la piste d'un attentat raciste. Les déclarations du suspect Kevin T. ainsi que le témoignage de ses..."
-    },
-    {
-     "id": "5d39f61801e1",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "«La haine se déploie en France sous Emmanuel Macron» : Jean-Philippe Tanguy charge le président après ses propos sur l'attentat de Trappes",
-     "url": "https://www.europe1.fr/societe/la-haine-se-deploie-en-france-sous-emmanuel-macron-jean-philippe-tanguy-charge-le-president-apres-ses-propos-sur-lattentat-de-trappes-1182768?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-26T07:59:01+00:00",
-     "snippet": "Invité de La Grande Interview sur Europe 1 et CNews ce lundi, le député RN de la Somme Jean-Philippe Tanguy a vivement critiqué les propos d'Emmanuel Macron sur l'attaque de Trappes. Il accuse le président de la République d'avoir \"oublié\" les victimes des attentats passés et dénonce une \"haine\" qui se déploierait en France. La classe politique a exprimé sa réprobation vendredi après les propos d'Emmanuel Macron sur l'attaque à Trappes, que le président a qualifiée de \"premier\" acte terroriste motivé par la \"couleur de peau ou la religion\", malgré des précédents. Des deux côtés de l'échiquier "
-    },
-    {
-     "id": "65c78da74267",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Attentat à Trappes: \"Oui c'est un crime raciste, terroriste\", affirme Louis Aliot, vice-président du RN",
-     "url": "https://www.bfmtv.com/politique/front-national/video-attentat-a-trappes-oui-c-est-un-crime-raciste-terroriste-affirme-louis-aliot-vice-president-du-rn_VN-202610250187.html",
-     "published_at": "2026-10-25T12:00:47+00:00",
-     "snippet": "Louis Aliot, vice-président du Rassemblement national et maire de Perpignan était l’invité de BFMTV ce dimanche 25 octobre."
-    },
-    {
-     "id": "7ed14885cc06",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Thomas Ménagé \"regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne\"",
-     "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-thomas-menage-regrette-que-la-gauche-saute-sur-un-fait-aussi-abject-pour-faire-de-la-politique-politicienne_8253934.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-26T08:34:57+00:00",
-     "snippet": "Après l'attaque terroriste raciste survenue dans les Yvelines vendredi, le Rassemblement national rejette toute responsabilité."
-    },
-    {
-     "id": "8dc27d1f89b0",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Marine Le Pen remplace des années de stigmatisation par un peu de compassion",
-     "url": "https://www.liberation.fr/politique/attentat-raciste-a-trappes-marine-le-pen-grand-remplace-des-annees-de-stigmatisation-par-un-peu-de-compassion-20261026_37WFF2DP4VB3REYEFXYVEE3DRA/",
-     "published_at": "2026-10-26T10:25:46+00:00",
-     "snippet": "La candidate d’extrême droite s’indigne du caractère «raciste» de l’attentat qui a fait un mort dans la ville des Yvelines vendredi 23 octobre, oubliant ses innombrables propos jetant l’opprobre sur la commune et son maire qui seraient «islamisés» par «l’immigration dérégulée»."
-    },
-    {
-     "id": "b1c5d7237ef3",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "«On a appris qu’il avait tourné extrême droite» : Kévin T., le suspect de l’attentat de Trappes, a-t-il été identifié sur la photo d’un groupe propalestinien ?",
-     "url": "https://www.lefigaro.fr/faits-divers/on-a-appris-qu-il-avait-tourne-extreme-droite-kevin-t-le-suspect-de-l-attentat-de-trappes-a-t-il-ete-identifie-sur-la-photo-d-un-groupe-propalestinien-20261026",
-     "published_at": "2026-10-26T13:32:45+00:00",
-     "snippet": "Trois jours après l’attaque raciste qui a fait un mort et plusieurs blessés graves dans les Yvelines, le profil de Kévin T., qui dit souffrir de schizophrénie, se précise peu à peu."
-    },
-    {
-     "id": "b79df99be33f",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une \"récupération politique indigne\" de LFI",
-     "url": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-26T07:52:29+00:00",
-     "snippet": "Invité de France Inter lundi, Sébastien Chenu assure que le parti d'extrême droite n'a aucun lien avec l'attaque terroriste raciste qui a coûté la vie à une personne et blessé cinq autres dans les Yvelines vendredi."
-    }
-   ]
-  },
-  {
-   "headline": "Glucksmann accuse LFI de « campagne de harcèlement » : ce que chacun dit, et pourquoi c'est une bataille pour la gauche",
-   "chapo": "Raphaël Glucksmann explique son absence des manifestations par une « hostilité organisée » de militants insoumis. LFI répond que c'est « pas vrai » et que Glucksmann cherche une « confrontation ». Derrière l'affrontement, les deux candidats se disputent le vote utile à gauche face au RN.",
-   "points": [
-    {
-     "text": "Interrogé sur TF1 sur son absence des rassemblements, Glucksmann dit être « en soutien à ces jeunes » mais « pas dans les rues ». Il affirme : « il y a une campagne de harcèlement de La France Insoumise contre moi », rapporte BFMTV.",
-     "sources": [
-      "3e3fe6123046"
-     ]
-    },
-    {
-     "text": "Il décrit : « Tous les événements qu'on organise sont troublés par des militants de La France insoumise […] c'est organisé ». Il demande : « Pourquoi ils ne ciblent pas Gabriel Attal ou Édouard Philippe ? », et répond que c'est parce que son camp veut « refonder la gauche démocratique » et « vaincre Mme Le Pen », selon LCP.",
-     "sources": [
-      "f09884e1d252"
-     ]
-    },
-    {
-     "text": "Vendredi, à Amiens, il avait dit : « Il faut que ça s'arrête, on ne va pas faire campagne pendant six mois comme ça », rappelle LCP. Le soir de sa qualification, il avait été enfariné à Paris, puis invectivé lors d'un rassemblement féministe et chahuté devant l'Hôtel de ville de Paris.",
-     "sources": [
-      "f09884e1d252"
-     ]
-    },
-    {
-     "text": "LFI répond. Manuel Bompard, sur LCI : « Il ne devrait pas dire ça, parce que ce n'est pas vrai tout simplement ». Selon BFMTV, il reproche à Glucksmann de chercher « en permanence » une « confrontation avec La France insoumise à laquelle je n'ai pas du tout envie de participer ».",
-     "sources": [
-      "3e3fe6123046"
-     ]
-    },
-    {
-     "text": "Bompard assure que Glucksmann n'est pas son « adversaire » : ses adversaires sont « à l'extrême droite et dans le bloc central ». « Quand on lance des accusations aussi graves, il faut pouvoir les démontrer », dit-il, rapporte Le HuffPost.",
-     "sources": [
-      "50b7b21d1983"
-     ]
-    },
-    {
-     "text": "Le HuffPost rappelle que cette défiance vient de loin : Glucksmann avait déjà été bousculé lors d'une manifestation du 1er mai à Saint-Étienne en 2024, par des jeunes communistes. Libération titre que LFI l'accuse de forcer « une confrontation ».",
-     "sources": [
-      "50b7b21d1983",
-      "44b858be2142"
-     ]
-    },
-    {
-     "text": "Les tensions ne datent pas d'aujourd'hui, selon Europe 1 : début octobre, Le Média a diffusé des propos privés de Glucksmann, avant le dernier débat de la primaire, critiquant durement Mélenchon et Le Pen sur le débat du Medef. Sa réaction n'a pas été commentée par son équipe.",
-     "sources": [
-      "bccd9be2eade"
-     ]
-    },
-    {
-     "text": "L'enjeu est électoral, selon Le Parisien : Glucksmann oscille entre 13 % et 15,5 % au premier tour, Mélenchon est à 17 %. Chez Glucksmann : « Mélenchon est dans la position du lièvre, on sera derrière en train de chasser ». L'équipe espère lui disputer le vote utile face au RN.",
-     "sources": [
-      "047bda588bce"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 6,
-    "outlets": 6
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/biKXjhILDh5NJAPBsFPLNj9ZT7w=/7x111:2039x1254/800x0/images/Raphael-Glucksmann-2329041.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
-    "article_id": "3e3fe6123046"
-   },
-   "id": 187,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-27T14:22:16+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.76,
-   "sources": [
-    {
-     "id": "047bda588bce",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Mélenchon est dans la position du lièvre, on sera derrière en train de chasser » : la bataille entre Glucksmann et LFI franchement lancée",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-est-dans-la-position-du-lievre-on-sera-derriere-en-train-de-chasser-la-bataille-melenchon-glucksmann-franchement-lancee-25-10-2026-DLV4JGDRLVECZAJR4ZVFZ4E4GA.php",
-     "published_at": "2026-10-25T11:04:54+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "3e3fe6123046",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Raphaël Glucksmann affirme être victime d'une \"campagne de harcèlement\" de La France insoumise",
-     "url": "https://www.bfmtv.com/politique/parti-socialiste/raphael-glucksmann-affirme-etre-victime-d-une-campagne-de-harcelement-de-la-france-insoumise_AD-202610260306.html",
-     "published_at": "2026-10-26T09:08:19+00:00",
-     "snippet": "Le candidat PS-Place Publique à l'élection présidentielle accuse La France insoumise de mener une \"campagne de harcèlement\" contre lui, l'empêchant notamment de se rendre en manifestation."
-    },
-    {
-     "id": "44b858be2142",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Glucksmann dit être victime d’une «campagne de harcèlement» de LFI, qui l’accuse de forcer «une confrontation»",
-     "url": "https://www.liberation.fr/politique/glucksmann-dit-etre-victime-dune-campagne-de-harcelement-de-lfi-bompard-repond-quil-construit-une-confrontation-20261026_3ZY7CE5APNEIBINYIKWTN2VLXQ/",
-     "published_at": "2026-10-26T09:57:35+00:00",
-     "snippet": "Le candidat social-démocrate estime qu’il ne peut pas participer à des rassemblements «dans les rues» à cause de «l’hostilité» des militants insoumis. Manuel Bompard rétorque qu’il n’est pas son «adversaire»."
-    },
-    {
-     "id": "50b7b21d1983",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Absent aux côtés des lycéens, Raphaël Glucksmann jette la pierre à La France insoumise",
-     "url": "https://www.huffingtonpost.fr/politique/article/absent-aux-cotes-des-lyceens-raphael-glucksmann-jette-la-pierre-a-la-france-insoumise_345347.html",
-     "published_at": "2026-10-26T09:24:52+00:00",
-     "snippet": "Le candidat social-démocrate accuse les insoumis de mener « une campagne de harcèlement » à son encontre."
-    },
-    {
-     "id": "bccd9be2eade",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "« On leur pisse dessus » : les propos privés de Raphaël Glucksmann qui font polémique",
-     "url": "https://www.europe1.fr/politique/on-leur-pisse-dessus-les-propos-prives-de-raphael-glucksmann-qui-font-polemique-1120982",
-     "published_at": "2026-10-03T20:46:00+00:00",
-     "snippet": "Des propos privés de Raphaël Glucksmann, tenus derrière des caméras et diffusés par Le Media, ont provoqué de vives réactions de Jean-Luc Mélenchon et Ségolène Royal. L'eurodéputé y dit \"pisser\" sur l"
-    },
-    {
-     "id": "f09884e1d252",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Absence dans les manifestations: Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
-     "url": "https://lcp.fr/actualites/absence-dans-les-manifestations-raphael-glucksmann-dit-etre-victime-d-une-campagne-de",
-     "published_at": "2026-10-26T14:00:32+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Lundi 26 octobre 2026 à 09:07 Raphaël Glucksmann a accusé lundi La France insoumise de mener une \"campagne de harcèlement\" contre lui, assurant que cela l'empêche de participer aux manifestations, car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\". Interrogé ce lundi 26 octobre sur son absence des rassemblements de ces dernières semaines, Raphaël Glucksmann (Place publique) a répondu, sur TF1, qu'il était \"en soutien à ces jeunes\" mais \"pas dans les rues\". \"Il y a une campagne de harcèlement de La France Insoumise contre moi\", a dénoncé le "
-    }
-   ]
-  },
-  {
-   "headline": "Présidentielle : Le Pen à 33 %, Mélenchon passe devant Philippe, Lisnard devant Retailleau : ce que disent les nouveaux sondages",
-   "chapo": "Deux sondages publiés par la presse placent Marine Le Pen largement en tête au premier tour. Jean-Luc Mélenchon dépasse Édouard Philippe, qui recule. À droite, David Lisnard devancerait Bruno Retailleau s'il se présentait. Ce sont des photographies de l'opinion à six mois du scrutin, avec des écarts selon les scénarios testés.",
-   "points": [
-    {
-     "text": "Selon le sondage Cluster 17 pour Politico, Marine Le Pen est à 33 % des intentions de vote au premier tour, soit 2 points de plus qu'en septembre. Jean-Luc Mélenchon est à 18,5 %, Édouard Philippe à 16 % (contre 19 %), Raphaël Glucksmann à 13 %, rapporte Le JDD.",
-     "sources": [
-      "58ecf2108238"
-     ]
-    },
-    {
-     "text": "Le Parisien précise que Philippe recule de 3 points et se fait dépasser par Mélenchon. Le sondage a été mené entre le 19 et le 20 octobre, selon La Dépêche du Midi. La Dépêche note aussi que Le Pen ne subit pas d'impact après les révélations de Mediapart sur Bardella.",
-     "sources": [
-      "c6b77efd28a4",
-      "37f994d642f7"
-     ]
-    },
-    {
-     "text": "Si Gabriel Attal remplace Édouard Philippe pour le bloc central, il recueillerait 12 % des intentions de vote (contre 13,5 % en septembre). Dans ce cas, Mélenchon monterait à 19,5 % et Glucksmann à 14 %, selon Le JDD.",
-     "sources": [
-      "58ecf2108238"
-     ]
-    },
-    {
-     "text": "À droite, Bruno Retailleau plafonne entre 7,5 % et 8 %. Avec David Lisnard (Nouvelle Énergie) dans le scénario, celui-ci atteint 8 % et Retailleau 7 %, d'après Le Parisien. Dans ce cas, Le Pen est à 30,5 %, selon Le JDD.",
-     "sources": [
-      "c6b77efd28a4",
-      "58ecf2108238"
-     ]
-    },
-    {
-     "text": "Le Parisien rappelle que Lisnard est poussé par une communauté active sur les réseaux sociaux, autour du slogan « Il se passe quelque chose ». Les deux candidats de droite ont déjeuné ensemble, et le porte-parole de LR affirme qu'« ils trouveraient une solution pour avoir une candidature unique ».",
-     "sources": [
-      "c6b77efd28a4"
-     ]
-    },
-    {
-     "text": "Glucksmann progresse de 12 à 13 % après sa victoire à la primaire. Il capte 29 % des anciens électeurs de Macron, d'après La Dépêche du Midi. Le président de Cluster 17, Jean-Yves Dormagen : « Glucksmann progresse parce que Philippe ne s'adresse pas assez à l'aile sociale-démocrate de l'espace modéré ».",
-     "sources": [
-      "37f994d642f7"
-     ]
-    },
-    {
-     "text": "Un autre sondage, Ipsos-BVA-Cési pour Le Parisien, relayé par CNews : seuls 55 % des électeurs de Macron en 2022 voteraient pour Philippe (42 %) ou Attal (13 %) si les deux sont candidats. Si Philippe est seul, il n'a que 49 %, contre 21 % pour Glucksmann.",
-     "sources": [
-      "827001de1be8"
-     ]
-    },
-    {
-     "text": "Selon CNews, 92 à 94 % des électeurs de Le Pen en 2022 reproduiraient leur vote en 2027 dans toutes les configurations. Ce serait la base la plus ancrée de tous les candidats.",
-     "sources": [
-      "827001de1be8"
-     ]
-    },
-    {
-     "text": "Un duel entre le RN et LFI inquiète le camp présidentiel. La députée Renaissance Prisca Thevenot dénonce : « On le voit sondage après sondage que le RN et LFI s'installent dans un duel de second tour », selon BFMTV.",
-     "sources": [
-      "f57d0ee91abb"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/10/26/13/sipa_01310191_000004.jpg?VersionId=neFp66epXDEErYTGWc1AFbp79.BdPU6G",
-    "source": "Le JDD",
-    "article_url": "https://www.lejdd.fr/politique/presidentielle-le-pen-creuse-lecart-avec-melenchon-lisnard-depasse-retailleau-les-enseignements-dun-nouveau-sondage-187047",
-    "article_id": "58ecf2108238"
-   },
-   "id": 186,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-27T14:22:36+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.14,
-   "sources": [
-    {
-     "id": "37f994d642f7",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 - sondage : Edouard Philippe en chute libre, Jean-Luc Mélenchon en embuscade, Marine Le Pen consolide son avance",
-     "url": "https://www.ladepeche.fr/2026/10/26/presidentielle-2027-sondage-edouard-philippe-en-chute-libre-jean-luc-melenchon-en-embuscade-marine-le-pen-consolide-son-avance-13620689.php",
-     "published_at": "2026-10-26T08:25:36+00:00",
-     "snippet": "À l’approche de la présidentielle, Édouard Philippe perd du terrain dans les intentions de vote, tandis que Jean-Luc Mélenchon se hisse à la deuxième place et que Marine Le Pen renforce son statut de favorite, selon..."
-    },
-    {
-     "id": "58ecf2108238",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "Présidentielle : Le Pen creuse l’écart avec Mélenchon, Lisnard dépasse Retailleau… Les enseignements d'un nouveau sondage",
-     "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-creuse-lecart-avec-melenchon-lisnard-depasse-retailleau-les-enseignements-dun-nouveau-sondage-187047",
-     "published_at": "2026-10-26T15:17:39+00:00",
-     "snippet": "Le dernier sondage Cluster 17 pour Politico confirme l’avance de Marine Le Pen, créditée de 33 % des intentions de vote. Derrière elle, Jean-Luc Mélenchon profite de la chute d’Édouard Philippe, tandis que David Lisnard vient concurrencer Bruno Retailleau."
-    },
-    {
-     "id": "827001de1be8",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : près de la moitié des électeurs d’Emmanuel Macron en 2022 ne voteront pas pour le bloc central, selon un sondage",
-     "url": "https://www.cnews.fr/france/2026-10-26/presidentielle-2027-pres-de-la-moitie-des-electeurs-demmanuel-macron-en-2022-ne",
-     "published_at": "2026-10-26T15:15:31+00:00",
-     "snippet": "A moins de six mois de la présidentielle de 2027, un sondage révèle que près de la moitié des électeurs d’Emmanuel Macron au premier tour en 2022 ne voteront pas pour un candidat du bloc central. La fin du macronisme ? Alors que la campagne pour 2027 bat son plein, près d’un électeur sur deux d’Emmanuel Macron, au premier tour de la présidentielle de 2022, ne votera pas pour un candidat du bloc central, dont les deux déclarés à ce stade sont Edouard Philippe (Horizons) et Gabriel Attal (Renaissance), selon un sondage Ipsos-BVA-Cési École d’ingénieurs pour le Parisien. Selon cette enquête, les "
-    },
-    {
-     "id": "c6b77efd28a4",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Édouard Philippe doublé par Jean-Luc Mélenchon, qualifié pour un second tour avec Marine Le Pen, selon un nouveau sondage",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-edouard-philippe-double-par-jean-luc-melenchon-qualifie-pour-un-second-tour-avec-marine-le-pen-selon-un-nouveau-sondage-26-10-2026-H3MMNQ4PABEDVO4TC4OYKNTQIQ.php",
-     "published_at": "2026-10-26T14:00:25+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "f57d0ee91abb",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Présidentielle 2027: \"On le voit sondage après sondage que le RN et LFI s'installent dans un duel de second tour\", dénonce Prisca Thévenot, députée Renaissance",
-     "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-on-le-voit-sondage-apres-sondage-que-le-rn-et-lfi-s-installent-dans-un-duel-de-second-tour-denonce-prisca-thevenot-deputee-renaissance_VN-202610250419.html",
-     "published_at": "2026-10-25T22:38:45+00:00",
-     "snippet": "Après la \"grande réussite\" des manifestations du samedi 24 octobre, les syndicats et figures du mouvement social qui secoue actuellement le pays ont d'ores et déjà annoncé plusieurs nouvelles dates de mobilisation. Le mouvement pourrait s'installer dans la durée."
     }
    ]
   },
@@ -1672,7 +1251,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.6,
+   "score": 2.43,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1709,230 +1288,6 @@
      "url": "https://atlantico.fr/article/decryptage/plfss-2027-le-gouvernement-serre-les-depenses-mais-esquive-les-vrais-arbitrages-daunique",
      "published_at": "2026-10-27T10:55:00+00:00",
      "snippet": "Le 20 octobre dernier, la Cour des comptes a publié un nouveau rapport consacré à la situation financière de la Sécurité sociale, à l'occasion de l'examen du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027. Elle constate notamment que les finances sociales demeurent profondément déséquilibrées, en dépit des mesures prises ces dernières années."
-    }
-   ]
-  },
-  {
-   "headline": "Corse : le Sénat rejette la réforme de l'autonomie, les autonomistes se retirent du processus de Beauvau",
-   "chapo": "Dans la nuit du 26 au 27 octobre, le Sénat a rejeté l'ensemble de la réforme constitutionnelle par 181 voix contre 134, après l'avoir largement réécrite à l'initiative de la droite. Les autonomistes ont quitté l'hémicycle et annoncé leur retrait du processus. Le gouvernement dit vouloir continuer à discuter.",
-   "points": [
-    {
-     "text": "Le texte a été rejeté dans son ensemble à 181 voix contre 134, « emporté par l'addition des voix des opposants à toute réforme et de ceux qui refusaient la copie sénatoriale », selon La Croix. Le Parisien note que le projet avait été « largement réécrit » avant ce rejet.",
-     "sources": [
-      "df465007d4d9",
-      "68698bda4961"
-     ]
-    },
-    {
-     "text": "À l'initiative de la droite, le Sénat avait remplacé la « communauté insulaire » par la notion de « patrimoine historique, linguistique et culturel singulier » et amoindri les pouvoirs dérogatoires de l'île, avec des habilitations « au cas par cas », selon L'Indépendant.",
-     "sources": [
-      "c70e7d974cf0",
-      "68698bda4961"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau reproche au texte de « constitutionnaliser le communautarisme » : « Il ne peut pas y avoir une sorte de double souveraineté populaire avec une loi corse qui dirait quelque chose, et une loi française qui dirait autre chose », selon L'Indépendant.",
-     "sources": [
-      "c70e7d974cf0"
-     ]
-    },
-    {
-     "text": "La rapporteure LR Muriel Jourda parle d'« une question de cohérence législative » et craignait un « désordre considérable dans l'État de droit ». La ministre Françoise Gatel répond que cette version est « un leurre » qui vient « dévoyer le principe d'autonomie », selon L'Indépendant.",
-     "sources": [
-      "c70e7d974cf0"
-     ]
-    },
-    {
-     "text": "Le sénateur Paul-Toussaint Parigi (Femu a Corsica) : « Une majorité archaïque a choisi ce soir de détruire un accord politique équilibré patiemment construit et porteur d'espoir (...) Dans ces conditions, nous nous retirons du processus de Beauvau ». Gilles Simeoni a regretté « une volonté claire de mettre à bas tout cela », selon La Croix.",
-     "sources": [
-      "df465007d4d9"
-     ]
-    },
-    {
-     "text": "Le président des sénateurs socialistes, Patrick Kanner, accuse la droite de « bloquer un processus qui a longuement mûri », selon L'Indépendant. Femu a Corsica juge de son côté que l'adoption du texte réécrit « aurait été inacceptable ».",
-     "sources": [
-      "c70e7d974cf0"
-     ]
-    },
-    {
-     "text": "Le compromis avait été validé par l'Assemblée de Corse en 2024, puis par l'Assemblée nationale en juin 2026. Pour aboutir, une réforme constitutionnelle doit être votée dans les mêmes termes par les deux chambres, puis par les trois cinquièmes du Congrès : un aboutissement avant la présidentielle paraissait déjà « très improbable », selon La Croix.",
-     "sources": [
-      "df465007d4d9"
-     ]
-    },
-    {
-     "text": "Sébastien Lecornu a demandé à Françoise Gatel de « réunir toutes les parties prenantes au processus pour trouver des solutions pour continuer à faire avancer ce dossier », selon franceinfo.",
-     "sources": [
-      "b8a0631e2acf"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://i.la-croix.com/x/2026/10/27/2573289-le-senat-a-paris-le-17-novembre-2016.jpg",
-    "source": "La Croix",
-    "article_url": "https://www.la-croix.com/statut-de-la-corse-le-senat-rejette-la-reforme-le-camp-autonomiste-claque-la-porte-20261026",
-    "article_id": "df465007d4d9"
-   },
-   "id": 191,
-   "section": "institutions",
-   "reviewed_at": "2026-10-27T14:22:24+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.51,
-   "sources": [
-    {
-     "id": "68698bda4961",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« J’ai peur des conséquences » : après le rejet de l’« autonomie » corse au Sénat, la crainte de négociations enterrées",
-     "url": "https://www.leparisien.fr/politique/le-senat-rejette-la-reforme-sur-lautonomie-de-la-corse-compromettant-la-suite-du-processus-27-10-2026-HU5EHE3TZNCXBPN4YIY6AJO2E4.php",
-     "published_at": "2026-10-27T14:05:01+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b8a0631e2acf",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "Statut de la Corse : après le rejet du texte par le Sénat, Sébastien Lecornu demande à la ministre de l'Aménagement du territoire de \"réunir toutes les parties prenantes\" pour trouver des solutions",
-     "url": "https://www.franceinfo.fr/france/corse/statut-de-la-corse-apres-le-rejet-du-texte-par-le-senat-sebastien-lecornu-demande-a-la-ministre-de-l-amenagement-du-territoire-de-reunir-toutes-les-parties-prenantes-pour-trouver-des-solutions_8255308.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-10-27T07:25:37+00:00",
-     "snippet": "le camp autonomiste a annoncé lundi soir son \"retrait\" du processus de Beauvau devant conduire l'île à un statut d'autonomie dans la République, face au détricotage d'une réforme constitutionnelle très sensible, finalement rejetée au Sénat."
-    },
-    {
-     "id": "c70e7d974cf0",
-     "name": "L'Indépendant",
-     "kind": "media",
-     "title": "\"Les masques tombent\" : le Sénat rejette le projet de loi sur l'autonomie de la Corse, le camp autonomiste claque la porte",
-     "url": "https://www.lindependant.fr/2026/10/27/les-masques-tombent-le-senat-rejette-le-projet-de-loi-sur-lautonomie-de-la-corse-le-camp-autonomiste-claque-la-porte-13622135.php",
-     "published_at": "2026-10-27T07:25:45+00:00",
-     "snippet": "Le processus d'autonomie de la Corse est en péril après le retrait des autonomistes du processus de Beauvau, lundi soir. Le Sénat a rejeté une réforme constitutionnelle, initialement validée par l'Assemblée nationale,..."
-    },
-    {
-     "id": "df465007d4d9",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Statut de la Corse : le Sénat rejette la réforme, les autonomistes quittent les négociations",
-     "url": "https://www.la-croix.com/statut-de-la-corse-le-senat-rejette-la-reforme-le-camp-autonomiste-claque-la-porte-20261026",
-     "published_at": "2026-10-27T08:21:48+00:00",
-     "snippet": "Le Sénat a rejeté dans la nuit du lundi 26 au mardi 27 octobre la réforme constitutionnelle sur l’autonomie de la Corse. Le vote a suscité la colère du camp autonomiste, qui a annoncé son « retrait » du processus de Beauvau, initié en 2022, censé aboutir à l’octroi de pouvoirs dérogatoires à l’île."
-    }
-   ]
-  },
-  {
-   "headline": "José Beaurain (RN) : une enquête préliminaire pour détournement de fonds publics, le député conteste",
-   "chapo": "Le parquet de Laon a ouvert une enquête préliminaire visant le député RN de l'Aisne, après des révélations du Canard enchaîné fin août. Le parquet rappelle qu'il est « présumé innocent ». Le député dément et a porté plainte pour diffamation.",
-   "points": [
-    {
-     "text": "L'enquête a été ouverte par le procureur de Laon et confiée au groupement de gendarmerie de l'Aisne. « Les investigations sont en cours », indique le parquet, qui rappelle que « à ce stade, l'intéressé est présumé innocent », selon Midi Libre.",
-     "sources": [
-      "516deba9b3cf"
-     ]
-    },
-    {
-     "text": "L'origine est un signalement reçu en août. José Beaurain est soupçonné de l'avoir demandé à ses assistants de lui reverser en espèces la moitié de leurs primes, d'avoir fait des achats personnels avec son enveloppe de député, et d'avoir rémunéré son frère via un prête-nom, selon ici (Radio France).",
-     "sources": [
-      "c3177562b137"
-     ]
-    },
-    {
-     "text": "Élu en 2022 puis réélu en 2024, il dispose d'une enveloppe de 15 000 euros en tant que député non-voyant, contre 10 000 pour les autres députés, selon Midi Libre.",
-     "sources": [
-      "516deba9b3cf"
-     ]
-    },
-    {
-     "text": "Sa défense : « Je réfute l'intégralité des propos tenus à mon encontre dans la presse par trois anciens collaborateurs avec lesquels j'étais en conflit, et qui souhaitent me nuire de toutes les manières possibles depuis maintenant deux ans ». Il a porté plainte pour « diffamation, abus de confiance et abus de faiblesse sur personne vulnérable ainsi que pour vol de documents », selon Midi Libre.",
-     "sources": [
-      "516deba9b3cf"
-     ]
-    },
-    {
-     "text": "Selon L'Indépendant, il avait aussi déclaré : « Je réfute toutes ces sottises. Elles ont été diffusées par volonté de me nuire et de me salir. Il sera démontré que je n'ai rien fait ».",
-     "sources": [
-      "12c7299de9c6"
-     ]
-    },
-    {
-     "text": "Deux anciens assistants disent à Radio France avoir prévenu dès janvier 2024 le secrétaire général du groupe RN à l'Assemblée : « Nous lui avons tout raconté, en particulier le détournement de nos primes et l'usage personnel qu'il faisait de son avance de frais de mandat », selon Le Parisien. Il aurait été convoqué à deux reprises par Marine Le Pen pour un recadrage.",
-     "sources": [
-      "38b8fda47f55"
-     ]
-    },
-    {
-     "text": "Selon la cellule investigation de Radio France, le RN l'a investi aux législatives de 2024 et aux municipales de 2026 malgré plusieurs alertes internes, dont certaines remontées jusqu'à Marine Le Pen, d'après ici. Le parti n'avait pas encore réagi dans les articles que nous avons lus.",
-     "sources": [
-      "c3177562b137"
-     ]
-    },
-    {
-     "text": "La présidente de l'Assemblée, Yaël Braun-Pivet, avait demandé au déontologue de l'institution des vérifications complémentaires, dont les conclusions sont attendues prochainement, selon L'Indépendant.",
-     "sources": [
-      "12c7299de9c6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://images.lindependant.fr/api/v1/images/view/6ae07182f105f812e60040f4/standard/image.jpg?v=1",
-    "source": "L'Indépendant",
-    "article_url": "https://www.lindependant.fr/2026/10/27/achats-personnels-avec-son-enveloppe-de-depute-remuneration-a-son-frere-un-depute-rn-vise-par-une-enquete-pour-detournement-de-fonds-publics-13622232.php",
-    "article_id": "12c7299de9c6",
-    "focus_x": 0.4766666666666667,
-    "focus_y": 0.014583333333333334
-   },
-   "id": 192,
-   "section": "institutions",
-   "reviewed_at": "2026-10-27T14:21:58+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.51,
-   "sources": [
-    {
-     "id": "12c7299de9c6",
-     "name": "L'Indépendant",
-     "kind": "media",
-     "title": "Achats personnels avec son enveloppe de député, rémunération à son frère… un député RN visé par une enquête pour détournement de fonds publics",
-     "url": "https://www.lindependant.fr/2026/10/27/achats-personnels-avec-son-enveloppe-de-depute-remuneration-a-son-frere-un-depute-rn-vise-par-une-enquete-pour-detournement-de-fonds-publics-13622232.php",
-     "published_at": "2026-10-27T09:51:26+00:00",
-     "snippet": "Le député RN José Beaurain est visé par une enquête pour détournement de fonds publics, ouverte par le procureur de Laon et confiée à la gendarmerie de l’Aisne. Alors que le Rassemblement national, soi-disant informé,..."
-    },
-    {
-     "id": "38b8fda47f55",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Aisne : une enquête ouverte pour détournement de fonds publics contre le député RN José Beaurain",
-     "url": "https://www.leparisien.fr/politique/aisne-une-enquete-ouverte-pour-detournement-de-fonds-publics-contre-le-depute-rn-jose-beaurain-27-10-2026-L7NTGSWKSZE5PIDFGOBN7EHYA4.php",
-     "published_at": "2026-10-27T14:05:01+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "516deba9b3cf",
-     "name": "Midi Libre",
-     "kind": "media",
-     "title": "Le député RN est accusé d’avoir détourné les primes de ses assistants parlementaires : José Beaurain visé par une enquête préliminaire",
-     "url": "https://www.midilibre.fr/2026/10/27/le-depute-rn-est-accuse-davoir-detourne-les-primes-de-ses-assistants-parlementaires-jose-beaurain-vise-par-une-enquete-preliminaire-13622344.php",
-     "published_at": "2026-10-27T12:29:39+00:00",
-     "snippet": "Le député RN de l’Aisne, José Beaurain, fait l’objet d’une enquête préliminaire pour détournements de fonds publics, a annoncé mardi 27 octobre le procureur de Laon. Accusé par le Canard enchaîné d’avoir détourné une..."
-    },
-    {
-     "id": "c3177562b137",
-     "name": "ici (France Bleu)",
-     "kind": "media",
-     "title": "Le député RN de l’Aisne José Beaurain visé par une enquête pour détournement de fonds publics",
-     "url": "https://www.ici.fr/hauts-de-france/aisne-02/le-depute-rn-de-l-aisne-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics-8685879?at_medium=lien_RSS&at_locale=56",
-     "published_at": "2026-10-27T07:48:43+00:00",
-     "snippet": "INFO RADIO FRANCE - Le député RN de l’Aisne José Beaurain est visé par une enquête pour détournement de fonds publics, a appris mardi la cellule investigation de Radio France. Elle a été ouverte par le parquet de Laon et confiée à la gendarmerie de l'Aisne."
     }
    ]
   },
@@ -1996,7 +1351,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.95,
+   "score": 1.82,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2024,111 +1379,6 @@
      "url": "https://lcp.fr/actualites/presidentielle-les-dates-de-l-election-peuvent-elles-encore-etre-modifiees-444349",
      "published_at": "2026-10-27T18:12:45+00:00",
      "snippet": "Par Soizic BONVARLET , le Mardi 27 octobre 2026 à 17:41 Alors que des voix se sont élevées pour critiquer la date de scrutin du deuxième tour de l'élection présidentielle au lendemain du 1er mai, Bruno Retailleau va jusqu'à demander le report de ce calendrier. Mais cette hypothèse est-elle juridiquement tenable ? \"Une mauvaise date pour l’expression de la démocratie\". C'est ainsi que Bruno Retailleau qualifie le choix de l'exécutif de fixer le second tour de l'élection présidentielle au 2 mai 2027, soit au lendemain du 1er-Mai, Fête du Travail, à haute valeur symbolique pour la gauche. \"Qu'on "
-    }
-   ]
-  },
-  {
-   "headline": "Retailleau « persuadé » de battre Philippe en primaire, Aliot tend la main à Lisnard : la droite 2027 cherche son unité",
-   "chapo": "Le 27 octobre, trois prises de parole à droite sur la même question : qui portera les couleurs de la droite en 2027, et avec qui s'allier. Bruno Retailleau veut une primaire avec Édouard Philippe et une coalition avec David Lisnard. Louis Aliot (RN) se dit prêt à « ouvrir les bras ».",
-   "points": [
-    {
-     "text": "Bruno Retailleau, candidat LR : « Si demain il y avait une primaire, je suis persuadé que je le battrai », en parlant d'Édouard Philippe, selon Le Parisien. Il soutiendrait le gagnant, « la règle pour tout le monde ».",
-     "sources": [
-      "6ee32150ff4d",
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Il estime que les anciens Premiers ministres d'Emmanuel Macron en sont « comptables et coresponsables », selon La Dépêche du Midi. Le Parisien rapporte qu'il juge ce bilan « cataclysmique ».",
-     "sources": [
-      "4c096eb1c11c",
-      "6ee32150ff4d"
-     ]
-    },
-    {
-     "text": "Dans le sondage Ipsos-BVA-Cési publié par Le Parisien, Retailleau oscille entre 5,5 et 8 % selon le scénario, contre 13 à 15 % pour Édouard Philippe.",
-     "sources": [
-      "6ee32150ff4d"
-     ]
-    },
-    {
-     "text": "Sur David Lisnard, Retailleau juge une coalition « inévitable » et ne conçoit une primaire que si Édouard Philippe y participe, selon La Dépêche du Midi.",
-     "sources": [
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Mi-octobre, Retailleau avait rejeté la main tendue de Philippe, qui l'appelait en substance à se ranger derrière lui. Il préférait un « débat public devant les Français pour confronter nos convictions et nos projets », selon Le Parisien.",
-     "sources": [
-      "6ee32150ff4d"
-     ]
-    },
-    {
-     "text": "Louis Aliot, vice-président du RN, sur CNews : « Nous avons des différences de fond avec David Lisnard, mais nous pourrions travailler ensemble à l'avenir », selon La Dépêche du Midi.",
-     "sources": [
-      "4c096eb1c11c"
-     ]
-    },
-    {
-     "text": "Sur Europe 1, Aliot estime que le RN et la droite ne se distinguent que par « des différences sur l'économie » : « Le reste, c'est la préservation de la France, la préservation des valeurs de notre pays, de son histoire. Sur tout cela, on pense la même chose ». Il ajoute : « On est prêts, nous, à ouvrir les bras à ceux qui veulent bien nous répondre ».",
-     "sources": [
-      "c5f721021e83"
-     ]
-    },
-    {
-     "text": "Aliot pose une question à Lisnard, invité ce soir sur Europe 1 : au second tour, face à Marine Le Pen et « Jean-Luc Mélenchon ou je ne sais qui », « est-ce qu'il apportera son soutien à Marine Le Pen ? », selon Europe 1.",
-     "sources": [
-      "c5f721021e83"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://images.ladepeche.fr/api/v1/images/view/6ae05881e4d52939d10fa851/standard/image.jpg?v=4",
-    "source": "La Dépêche du Midi",
-    "article_url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
-    "article_id": "4c096eb1c11c",
-    "focus_x": 0.4533333333333333,
-    "focus_y": 0.08125
-   },
-   "id": 194,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-27T14:21:15+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.88,
-   "sources": [
-    {
-     "id": "4c096eb1c11c",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "DIRECT. Présidentielle 2027 : Bruno Retailleau est \"persuadé\" qu'il battrait Édouard Philippe dans le cadre d'une primaire de la droite et du centre",
-     "url": "https://www.ladepeche.fr/2026/10/27/direct-presidentielle-2027-des-risques-de-debordements-bruno-retailleau-candidat-lr-souhaite-modifier-les-dates-du-scrutin-13622128.php",
-     "published_at": "2026-10-27T11:39:29+00:00",
-     "snippet": "À six mois de la présidentielle 2027, les sondages se multiplient. Bruno Retailleau, candidat LR, a fait savoir qu'il souhaitait une modification des dates de scrutin, craignant des \"débordements\". La Dépêche du Midi..."
-    },
-    {
-     "id": "6ee32150ff4d",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Le bilan est cataclysmique » : Bruno Retailleau se dit « persuadé » qu’il battrait Édouard Philippe en cas de primaire",
-     "url": "https://www.leparisien.fr/elections/presidentielle/le-bilan-est-cataclysmique-bruno-retailleau-se-dit-persuade-quil-battrait-edouard-philippe-en-cas-de-primaire-27-10-2026-C4WGLTW4EFDQPKIL2JZBOUN7LE.php",
-     "published_at": "2026-10-27T14:05:01+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c5f721021e83",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Alliance des droites : Louis Aliot interroge David Lisnard sur un potentiel soutien à Marine Le Pen au second tour de la présidentielle",
-     "url": "https://www.europe1.fr/politique/alliance-des-droites-louis-aliot-interroge-david-lisnard-sur-un-potentiel-soutien-a-marine-le-pen-au-second-tour-de-la-presidentielle-1185963?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-27T10:32:00+00:00",
-     "snippet": "Pour Louis Aliot, les clivages entre le RN et la droite se limitent à l'économie, mais une union est possible. Le maire de Perpignan déplore pourtant que les mains tendues restent sans réponse. Louis Aliot, maire Rassemblement national de Perpignan, s'est dit prêt à travailler avec David Lisnard. Selon lui, les différences entre le RN et la droite se limitent à \"des différences sur l'économie\". \"Le reste, c'est la préservation de la France, la préservation des valeurs de notre pays, de son histoire. Sur tout cela, on pense la même chose\", affirme-t-il, en jugeant que \"ne pas s'attaquer\" est \"u"
     }
    ]
   }
