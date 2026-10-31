@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-10-30T17:05:20+00:00",
+ "generated_at": "2026-10-31T09:08:50+00:00",
  "posts": [
+  {
+   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
+   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
+   "points": [
+    {
+     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
+     "sources": [
+      "ec850d6b4f35"
+     ]
+    },
+    {
+     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
+     "sources": [
+      "9d868f20d38e",
+      "5a9e1ccd28ca"
+     ]
+    },
+    {
+     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
+     "sources": [
+      "0c848649e720"
+     ]
+    },
+    {
+     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
+     "sources": [
+      "909c19c404cb"
+     ]
+    },
+    {
+     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
+     "sources": [
+      "5a9e1ccd28ca"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+    "article_id": "5a9e1ccd28ca"
+   },
+   "id": 221,
+   "section": "presidentielle",
+   "reviewed_at": "2026-10-29T15:28:35+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 5.48,
+   "sources": [
+    {
+     "id": "0c848649e720",
+     "name": "La Croix",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
+     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
+     "published_at": "2026-10-29T09:07:14+00:00",
+     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
+    },
+    {
+     "id": "5a9e1ccd28ca",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
+     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T02:06:07+00:00",
+     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
+    },
+    {
+     "id": "909c19c404cb",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
+     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
+     "published_at": "2026-10-29T10:08:00+00:00",
+     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
+    },
+    {
+     "id": "9d868f20d38e",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+     "published_at": "2026-10-28T20:55:17+00:00",
+     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
+    },
+    {
+     "id": "ec850d6b4f35",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
+     "published_at": "2026-10-29T07:43:27+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "Macron chez HugoDécrypte : lycées, Parcoursup, Smic, réseaux sociaux et racisme, ce qu'il a dit",
    "chapo": "Dans une interview de plus d'une heure diffusée le 28 octobre au soir sur YouTube, Emmanuel Macron a appelé les lycéens à reprendre les cours dans le calme, défendu Parcoursup tout en voulant le « refonder », et esquivé la question d'une hausse du Smic.",
@@ -62,7 +171,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.69,
+   "score": 6.57,
    "sources": [
     {
      "id": "4726b777ba24",
@@ -121,115 +230,6 @@
    ]
   },
   {
-   "headline": "Attal propose une « primaire des démocrates » : les réponses de Philippe, Retailleau, Lisnard et Villepin",
-   "chapo": "Le 28 octobre sur TF1, Gabriel Attal (Renaissance) a appelé à une grande primaire pour éviter un second tour entre LFI et le RN. L'idée a reçu un accueil froid chez plusieurs candidats.",
-   "points": [
-    {
-     "text": "Gabriel Attal : « Il est temps d'être tous responsables et d'organiser le rassemblement auquel des millions de Français aspirent à travers une grande primaire. » Il pose comme condition le « refus de toute alliance avec l'extrême gauche ou avec l'extrême droite », selon Le Parisien.",
-     "sources": [
-      "ec850d6b4f35"
-     ]
-    },
-    {
-     "text": "Édouard Philippe, qui refuse toute compétition interne : « Les primaires produisent davantage de rancœurs que d'unité », dit-il au Point, cité par Libération. Son allié Laurent Marcangeli (Horizons) juge l'idée « cafouilleuse » et « hasardeuse », selon 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "Bruno Retailleau : « Je n'ai jamais été opposé à la primaire (…) Si Édouard Philippe n'est pas dans la primaire, ça sert à quoi ? » Son entourage juge le projet d'Attal « mort-né » parce qu'il « n'exclut pas Raphaël Glucksmann », selon Libération et 20 Minutes.",
-     "sources": [
-      "9d868f20d38e",
-      "5a9e1ccd28ca"
-     ]
-    },
-    {
-     "text": "David Lisnard se félicite que l'idée d'une primaire ouverte qu'il « propose depuis deux ans, progresse » : « bientôt il sera trop tard », selon La Croix.",
-     "sources": [
-      "0c848649e720"
-     ]
-    },
-    {
-     "text": "Dominique de Villepin a refusé d'y participer. Son entourage : « Être simplement opposé à Marine Le Pen et Jean-Luc Mélenchon ne fait pas un projet de redressement de la nation », selon CNews.",
-     "sources": [
-      "909c19c404cb"
-     ]
-    },
-    {
-     "text": "Contexte : Gabriel Attal n'a pas réussi à inverser la tendance des sondages face à Édouard Philippe, lequel n'est plus qualifié pour le second tour dans les derniers sondages, selon 20 Minutes. Dans les articles lus, Raphaël Glucksmann n'avait pas réagi.",
-     "sources": [
-      "5a9e1ccd28ca"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://img.20mn.fr/2aQKwKUbSUOB1xpkPhBeWyk/1200x768_edouard-philippe-soiree-horizons-et-gabriel-attal-soiree-renaissance-pierre-yves-bournazel-s-adresse-a-ses-partisans-lors-d-un-grand-rassemblement-de-campagne-dans-le-cadre-des-elections-municipales-de-2026-a-paris-le-10-fevrier-l-evenement-a-rassemble-des-militants-et-des-habitants-locaux-avant-le-prochain-vote-dugad-frederic-1-000090-credit-franck-derouda-sipa-2602110949",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-    "article_id": "5a9e1ccd28ca"
-   },
-   "id": 221,
-   "section": "presidentielle",
-   "reviewed_at": "2026-10-29T15:28:35+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 7.26,
-   "sources": [
-    {
-     "id": "0c848649e720",
-     "name": "La Croix",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal propose une « primaire des démocrates » sans convaincre",
-     "url": "https://www.la-croix.com/politique/presidentielle-2026-attal-propose-une-primaire-des-democrates-sans-convaincre-20261029",
-     "published_at": "2026-10-29T09:07:14+00:00",
-     "snippet": "Gabriel Attal a appelé mercredi 28 octobre à l’organisation d’une « primaire des démocrates » avant la présidentielle 2026, pour éviter un duel LFI-RN au second tour. Mais Édouard Philippe et Bruno Retailleau ont rapidement douché les espoirs du candidat Renaissance."
-    },
-    {
-     "id": "5a9e1ccd28ca",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Attal veut une « primaire des démocrates », Philippe et Retailleau réticents",
-     "url": "https://www.20minutes.fr/politique/4258468-20261029-presidentielle-2027-attal-veut-primaire-democrates-philippe-retailleau-reticents?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T02:06:07+00:00",
-     "snippet": "Le candidat Renaissance estime qu’une « primaire des démocrates » est le moyen d' « empêcher » un duel entre LFI et le RN au deuxième tour de la présidentielle"
-    },
-    {
-     "id": "909c19c404cb",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Dominique de Villepin refuse de participer à la primaire proposée par Gabriel Attal",
-     "url": "https://www.cnews.fr/france/2026-10-29/presidentielle-2027-dominique-de-villepin-refuse-de-participer-la-primaire",
-     "published_at": "2026-10-29T10:08:00+00:00",
-     "snippet": "Approché par Gabriel Attal, Dominique de Villepin a refusé de prendre part au projet de «primaire des démocrates» proposée par l'ancien Premier ministre d'Emmanuel Macron, a-t-on appris ce jeudi. Un premier refus qui en appellera d'autre ? Au lendemain de l'appel de Gabriel Attal à organiser une «primaire des démocrates» pour éviter un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l'élection présidentielle, le candidat Renaissance au scrutin a essuyé un premier refus. Contacté par l'équipe de l'ancien Premier ministre d'Emmanuel Macron ce mercredi, Dominique de Villepin a re"
-    },
-    {
-     "id": "9d868f20d38e",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
-     "url": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
-     "published_at": "2026-10-28T20:55:17+00:00",
-     "snippet": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier."
-    },
-    {
-     "id": "ec850d6b4f35",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Gabriel Attal plaide pour l’organisation d’une « grande primaire des démocrates »",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-gabriel-attal-plaide-pour-lorganisation-dune-grande-primaire-des-democrates-28-10-2026-WGXD43JJS5BMROSDPMJOIIRAVA.php",
-     "published_at": "2026-10-29T07:43:27+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
    "headline": "Le Sénat vote l'imprescriptibilité des crimes sexuels sur mineurs : ce qui change et ce qui reste à faire",
    "chapo": "Le 28 octobre, les sénateurs ont adopté par 252 voix contre 80 une mesure jusqu'ici réservée aux crimes contre l'humanité. Le vote n'est pas définitif.",
    "points": [
@@ -282,7 +282,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.34,
+   "score": 3.28,
    "sources": [
     {
      "id": "9c55b0c799c0",
@@ -372,7 +372,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.34,
+   "score": 3.28,
    "sources": [
     {
      "id": "5e4fca0c46b8",
@@ -462,7 +462,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.9,
+   "score": 2.19,
    "sources": [
     {
      "id": "6d4db6cff210",
@@ -544,7 +544,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.07,
+   "score": 4.95,
    "sources": [
     {
      "id": "056016f5e39a",
@@ -661,7 +661,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.06,
+   "score": 4.13,
    "sources": [
     {
      "id": "0f2f9688f149",
@@ -763,7 +763,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.05,
+   "score": 3.3,
    "sources": [
     {
      "id": "394b3410d53f",
@@ -861,7 +861,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.04,
+   "score": 2.48,
    "sources": [
     {
      "id": "5dc2d6d91a63",
@@ -963,7 +963,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.71,
+   "score": 2.26,
    "sources": [
     {
      "id": "00c374c10d7a",
@@ -1053,7 +1053,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.71,
+   "score": 2.26,
    "sources": [
     {
      "id": "39fec858ff48",
@@ -1155,7 +1155,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.71,
+   "score": 2.26,
    "sources": [
     {
      "id": "0dbf936a8d2e",
@@ -1266,7 +1266,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.08,
+   "score": 5.23,
    "sources": [
     {
      "id": "08e0b2f412a5",
@@ -1422,7 +1422,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.38,
+   "score": 3.76,
    "sources": [
     {
      "id": "047bda588bce",
@@ -1558,7 +1558,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.65,
+   "score": 3.14,
    "sources": [
     {
      "id": "37f994d642f7",
@@ -1672,7 +1672,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.04,
+   "score": 2.6,
    "sources": [
     {
      "id": "5dd8b17855ef",
@@ -1784,7 +1784,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.92,
+   "score": 2.51,
    "sources": [
     {
      "id": "68698bda4961",
@@ -1896,7 +1896,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.92,
+   "score": 2.51,
    "sources": [
     {
      "id": "12c7299de9c6",
@@ -1996,7 +1996,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.28,
+   "score": 1.95,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2101,7 +2101,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.19,
+   "score": 1.88,
    "sources": [
     {
      "id": "4c096eb1c11c",
@@ -2129,116 +2129,6 @@
      "url": "https://www.europe1.fr/politique/alliance-des-droites-louis-aliot-interroge-david-lisnard-sur-un-potentiel-soutien-a-marine-le-pen-au-second-tour-de-la-presidentielle-1185963?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
      "published_at": "2026-10-27T10:32:00+00:00",
      "snippet": "Pour Louis Aliot, les clivages entre le RN et la droite se limitent à l'économie, mais une union est possible. Le maire de Perpignan déplore pourtant que les mains tendues restent sans réponse. Louis Aliot, maire Rassemblement national de Perpignan, s'est dit prêt à travailler avec David Lisnard. Selon lui, les différences entre le RN et la droite se limitent à \"des différences sur l'économie\". \"Le reste, c'est la préservation de la France, la préservation des valeurs de notre pays, de son histoire. Sur tout cela, on pense la même chose\", affirme-t-il, en jugeant que \"ne pas s'attaquer\" est \"u"
-    }
-   ]
-  },
-  {
-   "headline": "Crise lycéenne : Parcoursup remplacé en 2028, 28 élèves maximum en seconde, ce que le gouvernement annonce",
-   "chapo": "Après un mois de mobilisation, le gouvernement dévoile ses réponses aux lycéens et étudiants : remplacement de Parcoursup en deux temps, plafond de 28 élèves en seconde, 15 000 places supplémentaires, 5 milliards d'euros pour rénover les établissements. Les représentants lycéens saluent des annonces concrètes mais appellent à poursuivre la mobilisation. Plusieurs mesures n'entreront en vigueur qu'après 2027.",
-   "points": [
-    {
-     "text": "Parcoursup en deux temps, selon Public Sénat : la plateforme ne disparaîtra pas en 2027 mais évoluera sensiblement, avant qu'une nouvelle solution prenne le relais en 2028. Un groupe de travail préparera la succession, puis il faudra une loi.",
-     "sources": [
-      "626d49c83d32"
-     ]
-    },
-    {
-     "text": "Selon Europe 1, Parcoursup serait remplacé « en deux temps » : « quelques changements, avec une clarté pour les algorithmes locaux et pour la sélection dans chaque école », puis un chantier pour l'année suivante. Un cadre de l'exécutif a confirmé la mesure à l'AFP.",
-     "sources": [
-      "95167e96cde9"
-     ]
-    },
-    {
-     "text": "Place dans le supérieur : 15 000 places supplémentaires, selon Europe 1, plutôt dans les filières courtes (BTS, DUT) et de santé. La Dépêche du Midi détaille : 10 000 en BTS, 4 000 en IUT et 1 000 en formations de santé.",
-     "sources": [
-      "95167e96cde9",
-      "12deaabb6ff0"
-     ]
-    },
-    {
-     "text": "Classes de seconde : 28 élèves maximum, contre parfois 35 aujourd'hui, d'après La Dépêche du Midi. Public Sénat précise que 500 postes supplémentaires seraient annoncés dans le budget 2027, ce qui conduirait à renoncer à 800 suppressions de postes.",
-     "sources": [
-      "12deaabb6ff0",
-      "626d49c83d32"
-     ]
-    },
-    {
-     "text": "Selon Public Sénat, 920 nouveaux postes de remplaçants s'ajoutent aux 3 000 enseignants remplaçants non affectés remis sur le terrain depuis le 13 octobre.",
-     "sources": [
-      "626d49c83d32"
-     ]
-    },
-    {
-     "text": "Bâtiments : un plan de 5 milliards d'euros au total pour rénover lycées et universités, selon Europe 1. La Dépêche du Midi détaille 4 milliards de prêts à taux réduits aux collectivités et un milliard pour une cinquantaine d'universités jusqu'en 2031.",
-     "sources": [
-      "95167e96cde9",
-      "12deaabb6ff0"
-     ]
-    },
-    {
-     "text": "Bourses étudiantes : indexation sur l'inflation, selon Europe 1. Une source de l'exécutif cite un barème refondu pour rattraper des étudiants devenus non-boursiers, pour un coût de plus d'une centaine de millions d'euros.",
-     "sources": [
-      "95167e96cde9"
-     ]
-    },
-    {
-     "text": "Public Sénat note que les grandes lignes ont été dévoilées par deux influenceuses éducation à la sortie de Matignon, avant la conférence de presse des ministres Geffray et Baptiste à 17h30. Un débat sans vote est prévu mercredi à l'Assemblée sur l'orientation.",
-     "sources": [
-      "626d49c83d32"
-     ]
-    },
-    {
-     "text": "La Dépêche du Midi avertit : plusieurs de ces mesures devront encore être financées ou adoptées par le Parlement, et certaines n'entreront en vigueur qu'en 2028, après la fin du quinquennat.",
-     "sources": [
-      "12deaabb6ff0"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://www.publicsenat.fr/app/uploads/2026/10/SIPA_01302343_000088-845x563.jpg",
-    "source": "Public Sénat",
-    "article_url": "https://www.publicsenat.fr/actualites/education/parcoursup-effectif-des-classes-emplois-du-temps-les-reponses-du-gouvernement-a-la-mobilisation-lyceenne",
-    "article_id": "626d49c83d32"
-   },
-   "id": 184,
-   "section": "institutions",
-   "reviewed_at": "2026-10-26T17:24:54+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.8,
-   "sources": [
-    {
-     "id": "12deaabb6ff0",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Colère lycéenne : Parcoursup supprimé, classes limitées à 28 élèves, milliers de postes supplémentaires… les annonces de Sébastien Lecornu pour apaiser les tensions",
-     "url": "https://www.ladepeche.fr/2026/10/26/colere-lyceenne-parcoursup-supprime-classes-limitees-a-28-eleves-milliers-de-postes-supplementaires-les-annonces-de-sebastien-lecornu-pour-apaiser-les-13621162.php",
-     "published_at": "2026-10-26T15:06:35+00:00",
-     "snippet": "Après plusieurs semaines de mobilisation lycéenne, le gouvernement a décidé de revoir sa copie. Suppression de Parcoursup à l'horizon 2028, classes moins chargées, créations de postes et rénovation des établissements..."
-    },
-    {
-     "id": "626d49c83d32",
-     "name": "Public Sénat",
-     "kind": "media",
-     "title": "Parcoursup, effectif des classes, emplois du temps : les réponses du gouvernement à la mobilisation lycéenne",
-     "url": "https://www.publicsenat.fr/actualites/education/parcoursup-effectif-des-classes-emplois-du-temps-les-reponses-du-gouvernement-a-la-mobilisation-lyceenne",
-     "published_at": "2026-10-26T15:17:56+00:00",
-     "snippet": "Le gouvernement annonce une série de mesures après plusieurs semaines de manifestations et d’actions dans les lycées. Après avoir réuni les organisations lycéennes et étudiantes, l’exécutif ouvre la voie à la refonte du processus d’orientation dans le supérieur, à un rattrapage des bourses étudiantes, ou encore à des investissements pour rénover les bâtiments vétustes."
-    },
-    {
-     "id": "95167e96cde9",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Crise lycéenne : Parcoursup pourrait être remplacé dans les deux ans",
-     "url": "https://www.europe1.fr/societe/crise-lyceenne-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-1183752",
-     "published_at": "2026-10-26T15:30:00+00:00",
-     "snippet": "Le gouvernement prévoit le remplacement de Parcoursup en deux temps, cette année et l'année scolaire prochaine, ainsi que quatre autres mesures, selon des influenceuses dans le domaine de l'éducation "
     }
    ]
   }
