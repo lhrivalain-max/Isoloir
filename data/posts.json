@@ -1,6 +1,106 @@
 {
- "generated_at": "2026-11-02T17:31:55+00:00",
+ "generated_at": "2026-11-02T17:31:59+00:00",
  "posts": [
+  {
+   "headline": "Taxe au gigaoctet : comment 11 députés ont voté une taxe sur Netflix et Google, et pourquoi elle a peu de chances de survivre",
+   "chapo": "Le 30 octobre, dans un hémicycle quasi vide, l'Assemblée a adopté par 11 voix contre 10 un amendement socialiste taxant les données transmises aux internautes français. La mesure, qui n'est pas définitive, a déclenché un tollé.",
+   "points": [
+    {
+     "text": "Le principe : un amendement du député socialiste Laurent Lhardit au budget 2027 crée une « taxe sur les producteurs de données numériques » de 5,5 centimes par gigaoctet transmis aux abonnés français. La taxe serait payée par l'entreprise qui émet les données, pas par les particuliers, selon Europe 1.",
+     "sources": [
+      "2591b3a6aaa3"
+     ]
+    },
+    {
+     "text": "Un exemple chiffré : transmettre 100 Go coûterait 5,50 euros à la plateforme ; la contribution serait plafonnée à 15 % du chiffre d'affaires en France ou 2 % du chiffre d'affaires total. Pour une minisérie de huit épisodes sur téléphone, environ 9 centimes d'euros, selon les calculs de Libération.",
+     "sources": [
+      "2591b3a6aaa3",
+      "26d6dc64d597"
+     ]
+    },
+    {
+     "text": "La cible : Netflix, Google, Meta, Amazon et Akamai, qui concentreraient environ la moitié des données reçues en France selon l'Arcep. L'auteur espère 10 milliards d'euros de recettes et invoque l'« équité fiscale », selon Libération.",
+     "sources": [
+      "26d6dc64d597"
+     ]
+    },
+    {
+     "text": "Le vote : 11 voix pour (socialistes, écologistes, GDR, LFI) contre 10 (droite et RN), sur 35 députés présents, contre l'avis du gouvernement et du rapporteur général. « Tout le monde a été étonné, moi le premier », reconnaît Laurent Lhardit, selon Le Parisien.",
+     "sources": [
+      "6bccdb578dd2",
+      "2591b3a6aaa3"
+     ]
+    },
+    {
+     "text": "Le tollé : Xavier Niel (Free) qualifie les députés d'« ignares incompétents » ; Éric Larchevêque craint que les plateformes répercutent la facture sur les abonnements. Laurent Lhardit répond que la taxe n'est « à aucun moment attribuée aux consommateurs », selon Libération.",
+     "sources": [
+      "26d6dc64d597"
+     ]
+    },
+    {
+     "text": "Éric Coquerel (LFI) dit s'être « trompé de bouton » : deux élus insoumis ont voté pour, et deux abstentions de plus auraient fait tomber l'amendement. Numerama rappelle qu'il avait cosigné un texte similaire en 2024, ce qui ne prouve pas que son vote de vendredi était volontaire.",
+     "sources": [
+      "469cc7368f65"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/31/10/080_hl_xbouzas_3357129_1_6ae5b129a537e.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/politique/budget-2027-les-deputes-votent-une-taxe-au-gigaoctet-1197300?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "2591b3a6aaa3"
+   },
+   "id": 240,
+   "section": "institutions",
+   "reviewed_at": "2026-11-02T17:31:59+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "2591b3a6aaa3",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Budget 2027 : les députés votent une taxe au gigaoctet",
+     "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-votent-une-taxe-au-gigaoctet-1197300?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-31T09:42:00+00:00",
+     "snippet": "L’Assemblée nationale a adopté une taxe de 5,5 centimes par gigaoctet transmis aux internautes français. Portée par le député socialiste Laurent Lhardit, la mesure vise les fournisseurs de contenus numériques, mais elle n’est pas encore définitivement adoptée. Une nouvelle taxe ? Les députés ont adopté, vendredi 30 octobre 2026, l’amendement I-1358 au projet de loi de finances pour 2027. Déposé le 9 octobre par Laurent Lhardit, membre du groupe Socialistes et apparentés, le texte crée une \"taxe sur les producteurs de données numériques\". L’amendement a recueilli 11 voix contre 10, malgré les a"
+    },
+    {
+     "id": "26d6dc64d597",
+     "name": "Libération",
+     "kind": "media",
+     "title": "«Ces fous vont nous mettre au fond du ravin» : après le vote d’une taxe sur les données numériques, la colère d’utilisateurs et de patrons",
+     "url": "https://www.liberation.fr/politique/ces-fous-vont-nous-mettre-au-fond-du-ravin-apres-le-vote-dune-taxe-sur-les-donnees-numeriques-la-colere-dutilisateurs-et-de-patrons-20261102_I2BBRYQFHFDIBFPK344MVWZHVI/",
+     "published_at": "2026-11-02T15:21:51+00:00",
+     "snippet": "Voté vendredi à l’Assemblée, l’amendement au budget 2027 prévoit de taxer les producteurs de données numériques à hauteur de 5,5 centimes d’euros par gigaoctet. Beaucoup s’inquiètent du risque d’une répercussion sur la facture des usagers."
+    },
+    {
+     "id": "469cc7368f65",
+     "name": "Numerama",
+     "kind": "media",
+     "title": "« Trompés de bouton » : Éric Coquerel (LFI) désavoue son vote pour la taxe au gigaoctet",
+     "url": "https://www.numerama.com/politique/2365485-trompes-de-bouton-eric-coquerel-lfi-desavoue-son-vote-pour-la-taxe-au-gigaoctet.html",
+     "published_at": "2026-11-02T09:18:54+00:00",
+     "snippet": "Éric Coquerel (LFI) affirme s’être trompé de bouton en votant, vendredi 30 octobre, la taxe de 5,5 centimes par gigaoctet. Une note de la communauté sur X rappelle qu’il avait pourtant cosigné un texte similaire en 2024."
+    },
+    {
+     "id": "6bccdb578dd2",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Ils ont complètement pété les plombs » : à l’Assemblée, le vote d’une taxe sur les données numériques provoque un tollé",
+     "url": "https://www.leparisien.fr/politique/ils-ont-completement-pete-les-plombs-a-lassemblee-le-vote-dune-taxe-sur-les-donnees-numeriques-provoque-un-tolle-01-11-2026-RFIZL4AFJNGBZJ3AWKPY3O5RUI.php",
+     "published_at": "2026-11-02T17:13:34+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "2,3 millions d'euros pour le futur bureau de Macron : ce que prévoit le budget, et la demande de Ruffin de supprimer les avantages des ex-présidents",
    "chapo": "Un rapport parlementaire révélé par Politico prévoit une provision de 2,3 millions d'euros pour installer Emmanuel Macron après l'Élysée. François Ruffin, candidat de gauche, demande de supprimer tous les avantages des anciens présidents. L'entourage présidentiel parle d'une procédure préventive.",
