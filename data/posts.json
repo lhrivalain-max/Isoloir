@@ -1,4 +1,99 @@
 {
- "generated_at": "2026-11-02T17:12:24+00:00",
- "posts": []
+ "generated_at": "2026-11-02T17:31:51+00:00",
+ "posts": [
+  {
+   "headline": "2,3 millions d'euros pour le futur bureau de Macron : ce que prévoit le budget, et la demande de Ruffin de supprimer les avantages des ex-présidents",
+   "chapo": "Un rapport parlementaire révélé par Politico prévoit une provision de 2,3 millions d'euros pour installer Emmanuel Macron après l'Élysée. François Ruffin, candidat de gauche, demande de supprimer tous les avantages des anciens présidents. L'entourage présidentiel parle d'une procédure préventive.",
+   "points": [
+    {
+     "text": "Ce que prévoit le budget : une provision de 2,3 millions d'euros pour le futur bureau d'Emmanuel Macron, qui doit financer un bail de six ans et la sécurisation des lieux, selon 20 Minutes. Ce n'est pas une somme versée à Emmanuel Macron : c'est une provision destinée à préparer son installation, selon La Dépêche du Midi.",
+     "sources": [
+      "53d1eab42c1e",
+      "8db17cb47975"
+     ]
+    },
+    {
+     "text": "La réponse de l'entourage présidentiel : une « procédure préventive des services, fondée sur les expériences des présidents passés ». Aucun bureau n'aurait encore été choisi, selon La Dépêche du Midi. Le Parisien parle d'une « procédure classique ».",
+     "sources": [
+      "8db17cb47975",
+      "e8bad547fea8"
+     ]
+    },
+    {
+     "text": "À quoi ont droit les anciens présidents : des locaux dont le loyer est pris en charge par l'État, une voiture avec chauffeur, un cabinet de sept collaborateurs et des frais de réception, selon 20 Minutes. Ce « soutien matériel et humain » est à vie et encadré par un décret de 2016, selon Le Parisien.",
+     "sources": [
+      "53d1eab42c1e",
+      "e8bad547fea8"
+     ]
+    },
+    {
+     "text": "Ce que cela coûte : Nicolas Sarkozy et François Hollande ont coûté ensemble 1,42 million d'euros en 2025 (756 463 euros pour le premier, 665 477 pour le second), selon le rapport parlementaire cité par La Dépêche du Midi.",
+     "sources": [
+      "8db17cb47975"
+     ]
+    },
+    {
+     "text": "François Ruffin sur BFMTV : « Vu son bilan, il ne devrait plus y avoir un rond pour Macron à la sortie de l'Élysée ». Il réclame « qu'il n'y ait plus un avantage pour les anciens présidents » et dit que « l'exemple doit venir d'en haut », selon 20 Minutes. Il promet de se rémunérer au Smic s'il est élu.",
+     "sources": [
+      "53d1eab42c1e"
+     ]
+    },
+    {
+     "text": "Le contexte : début 2026, un décret a mis fin aux avantages à vie des anciens Premiers ministres et ministres de l'Intérieur, limités à dix ou deux ans selon la fonction ; les ex-présidents gardent un « soutien matériel et humain » à vie. Ruffin avait déposé l'été dernier une proposition de loi pour que les anciens présidents « redeviennent des citoyens ordinaires », selon Le Parisien.",
+     "sources": [
+      "e8bad547fea8"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/tmw9mQJ6Te6bBonIY5nkVyk/1200x768_le-depute-de-la-france-insoumise-francois-ruffin-est-rendu-lundi-soir-10-juin-2024-a-paris-place-de-la-republique-avec-sophie-taille-polian-deputee-les-ecologistes-a-la-manifestation-contre-l-extreme-droite-suite-aux-resultats-du-rassemblement-national-lors-des-elections-europeennes-et-suite-a-la-dissolution-de-l-assemblee-nationale-annoncee-par-emmanuel-macron-paris-france-11-06-2024-france-le-depute-insoumis-francois-ruffin-a-participe-a-la-manifestation-contre-l-extreme-droite-sur-la-place-de-la-republique-a-paris-avec-sophie-taille-polian-deputee-les-ecologistes-lundi-soir-10-juin-2024-a-la-suite-des-resultats-du-rassemblement-national-pour-les-elections-europeennes-et-de-la-dissolution-de-l-assemblee-nationale-annoncee-par-emmanuel-macron-paris-france-11-06-2024-04-harsin-fruffinmanif-contre-extreme-droite004-credit-isa-harsin-sipa-2406110148",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4259071-20261030-devrait-plus-avoir-rond-ruffin-offusque-provision-2-3-millions-futur-bureau-macron?at_medium=display&at_campaign=149",
+    "article_id": "53d1eab42c1e",
+    "focus_x": 0.49,
+    "focus_y": 0.018310546875
+   },
+   "id": 243,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:31:51+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "53d1eab42c1e",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "« Il ne devrait plus avoir un rond »… Ruffin s’offusque d’une « provision » de 2,3 millions pour le futur bureau de Macron",
+     "url": "https://www.20minutes.fr/politique/4259071-20261030-devrait-plus-avoir-rond-ruffin-offusque-provision-2-3-millions-futur-bureau-macron?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-30T18:11:17+00:00",
+     "snippet": "François Ruffin dénonce la somme allouée aux travaux du futur bureau d’Emmanuel Macron. Il souhaite mettre fin aux avantages des anciens présidents"
+    },
+    {
+     "id": "8db17cb47975",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Emmanuel Macron : 2,3 millions d'euros prévus pour ses futurs bureaux, lorsqu'il quittera l'Élysée... François Ruffin demande \"qu'il n'y ait plus un avantage pour les anciens présidents\"",
+     "url": "https://www.ladepeche.fr/2026/10/30/emmanuel-macron-23-millions-deuros-prevus-pour-ses-futurs-bureaux-lorsquil-quittera-lelysee-francois-ruffin-demande-quil-ny-ait-plus-un-avantage-pour-13628290.php",
+     "published_at": "2026-10-30T16:31:57+00:00",
+     "snippet": "Alors qu'Emmanuel Macron quittera l'Élysée en mai 2027, une enveloppe de 2,3 millions d'euros est déjà prévue pour ses futurs bureaux. Une dépense qui fait bondir François Ruffin. Le candidat à la présidentielle..."
+    },
+    {
+     "id": "e8bad547fea8",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "« Il ne devrait plus y avoir un rond pour Macron à la sortie de l’Élysée » : François Ruffin appelle à supprimer les avantages des anciens présidents",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-ne-devrait-plus-y-avoir-un-rond-pour-macron-a-la-sortie-de-lelysee-francois-ruffin-appelle-a-supprimer-les-avantages-des-anciens-presidents-30-10-2026-UEVLENEICRH6VEETIXIEF2MSIY.php",
+     "published_at": "2026-10-31T11:30:29+00:00",
+     "snippet": ""
+    }
+   ]
+  }
+ ]
 }
