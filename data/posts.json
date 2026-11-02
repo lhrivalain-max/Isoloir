@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:31:59+00:00",
+ "generated_at": "2026-11-02T17:32:04+00:00",
  "posts": [
   {
    "headline": "Taxe au gigaoctet : comment 11 députés ont voté une taxe sur Netflix et Google, et pourquoi elle a peu de chances de survivre",
@@ -98,6 +98,96 @@
      "url": "https://www.leparisien.fr/politique/ils-ont-completement-pete-les-plombs-a-lassemblee-le-vote-dune-taxe-sur-les-donnees-numeriques-provoque-un-tolle-01-11-2026-RFIZL4AFJNGBZJ3AWKPY3O5RUI.php",
      "published_at": "2026-11-02T17:13:34+00:00",
      "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Lisnard : « ni avec les macronistes, ni avec le RN » ; ce que lui reprochent Fesneau et Copé",
+   "chapo": "Accusé de proximité avec l'extrême droite, le maire de Cannes a affirmé dimanche sur X qu'il ne gouvernerait avec aucun des deux camps. Marc Fesneau et Jean-François Copé lui reprochent le flou, et la question de la primaire reste ouverte.",
+   "points": [
+    {
+     "text": "David Lisnard, patron de Nouvelle Énergie : « Ma démarche est INDÉPENDANTE comme ma droite est indépendante ». Il dit qu'il ne s'alliera « ni avec les macronistes ni avec le RN. Cela a toujours été clair et net », selon 20 Minutes.",
+     "sources": [
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Pourquoi cette clarification : Marc Fesneau (MoDem) l'a accusé dans La Tribune Dimanche de « préparer la grande alliance avec l'extrême droite, comme Sarah Knafo », ce qui justifierait son exclusion d'une primaire du centre et de la droite, selon 20 Minutes.",
+     "sources": [
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Jean-François Copé (LR) sur BFMTV : « Quelque chose qui me gêne, c'est sa proximité avec Éric Ciotti » ; « quand on fait un appel du pied à Éric Ciotti (…) on fait un appel du pied à Le Pen ». Pour lui, « le mur doit être totalement étanche », selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    },
+    {
+     "text": "Lisnard a plusieurs fois appelé Ciotti à rompre son alliance avec le RN pour le rejoindre, et il a pris ses distances avec Marine Le Pen sur l'économie : « Qu'on m'explique comment on va relancer la prospérité en France et réduire les dépenses avec la retraite telle qu'elle est proposée par le RN », selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    },
+    {
+     "text": "Sa ligne sur la primaire : elle doit être ouverte aux candidats « qui se réclament de la droite et du centre ». Il ne demande pas aux perdants de suivre le gagnant, « mais de ne pas nuire à sa campagne », selon CNews. Il interpelle Édouard Philippe, « le dernier à refuser », pour qu'il clarifie « son périmètre », selon 20 Minutes.",
+     "sources": [
+      "2c2f1cf0192a",
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Copé est sceptique : « il n'y aura pas de primaire, c'est écrit », car les prétendants « ne sont pas d'accord sur qui on met dans la primaire » : Attal voudrait Glucksmann, Lisnard accueillerait Sarah Knafo, Philippe est contre, selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/UNOmSqV3QuGHd_dZhcfbCCk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1762-credit-alain-robert-sipa-2610081948",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
+    "article_id": "c8a951bf65a6"
+   },
+   "id": 238,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:32:04+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "2c2f1cf0192a",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : «Je ne gouvernerai ni avec les \"macronistes\" ni avec le RN», annonce David Lisnard",
+     "url": "https://www.cnews.fr/france/2026-11-02/presidentielle-2027-je-ne-gouvernerai-ni-avec-les-macronistes-ni-avec-le-rn",
+     "published_at": "2026-11-02T13:13:22+00:00",
+     "snippet": "Le candidat à l'élection présidentielle David Lisnard s'est défendu dimanche de vouloir gouverner avec le RN ou avec des «macronistes», alors qu'il est accusé par plusieurs personnalités d'entretenir une proximité avec l'extrême droite et le bloc central. «Ma démarche est INDÉPENDANTE comme ma droite est indépendante». C’est avec ces mots que le maire de Cannes, David Lisnard, a clarifié sa position dans un long post X publié dimanche promettant qu'il ne gouvernerait «ni avec les macronistes ni avec le RN». Une clarification qui survient après des accusations de proximité avec ces deux forces "
+    },
+    {
+     "id": "c090fa7b607c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Jean-François Copé accuse David Lisnard de ne pas être « très clair » sur sa ligne vis-à-vis du RN",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-jean-francois-cope-accuse-david-lisnard-de-ne-pas-etre-tres-clair-sur-sa-ligne-vis-a-vis-du-rn-01-11-2026-F3KPHEL6ZBGENJMH72VAQEZAEA.php",
+     "published_at": "2026-11-02T17:13:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c8a951bf65a6",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Accusé de complaisance avec l’extrême droite, David Lisnard récuse tout accord avec le RN",
+     "url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
+     "published_at": "2026-11-02T06:15:30+00:00",
+     "snippet": "Pointé du doigt par le centre pour ses ambiguïtés supposées avec l’extrême droite, le maire de Cannes et candidat à la présidentielle David Lisnard a exclu dimanche toute gouvernance avec le Rassemblement national"
     }
    ]
   },
