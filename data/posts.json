@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:32:12+00:00",
+ "generated_at": "2026-11-02T17:32:21+00:00",
  "posts": [
   {
    "headline": "Mélenchon annule le « 20 heures » de TF1 après l'interview d'Édouard Philippe : ce qui s'est dit, et ce que répond TF1",
@@ -200,6 +200,97 @@
      "url": "https://www.leparisien.fr/politique/ils-ont-completement-pete-les-plombs-a-lassemblee-le-vote-dune-taxe-sur-les-donnees-numeriques-provoque-un-tolle-01-11-2026-RFIZL4AFJNGBZJ3AWKPY3O5RUI.php",
      "published_at": "2026-11-02T17:13:34+00:00",
      "snippet": ""
+    }
+   ]
+  },
+  {
+   "headline": "Christine Lagarde quittera la BCE le 7 février : pourquoi LFI et le RN accusent Macron de manœuvrer",
+   "chapo": "La présidente de la Banque centrale européenne partira neuf mois avant la fin de son mandat, en pleine campagne présidentielle française. Mélenchon et le RN y voient un moyen pour Emmanuel Macron de peser sur sa succession ; l'entourage du président répond qu'il s'agit d'un choix personnel.",
+   "points": [
+    {
+     "text": "Christine Lagarde a annoncé dans une vidéo qu'elle quittera la BCE le 7 février, neuf mois avant le terme de son mandat (octobre 2027) : « Je quitte cette institution avec le sentiment du devoir accompli et une BCE prête pour l'avenir », selon LCP.",
+     "sources": [
+      "63f768ec2362"
+     ]
+    },
+    {
+     "text": "Elle dit vouloir « avoir la liberté de parole, la liberté d'expression et la liberté de [s']engager sur des sujets qui ne relèvent pas de la politique monétaire ». Elle exclut de se présenter à la présidentielle, selon 20 Minutes.",
+     "sources": [
+      "2a323e8b686b"
+     ]
+    },
+    {
+     "text": "Pourquoi cela concerne la France : en partant le 7 février, Christine Lagarde laisse la possibilité à Emmanuel Macron de peser sur la désignation de son successeur avant la présidentielle, selon Europe 1. Les oppositions dénoncent « un verrouillage, avant une possible alternance ».",
+     "sources": [
+      "b3e28c55d2a5"
+     ]
+    },
+    {
+     "text": "Jean-Luc Mélenchon (LFI) : « Après le départ du gouverneur de la Banque de France avant terme pour permettre à Macron de nommer son assistant, voici le départ annoncé de Christine Lagarde » pour « permettre à Macron de négocier avec le chancelier la prochaine nomination », selon 20 Minutes. Éric Coquerel (LFI) : « Emmanuel Macron veut verrouiller la politique monétaire », selon LCP.",
+     "sources": [
+      "2a323e8b686b",
+      "63f768ec2362"
+     ]
+    },
+    {
+     "text": "Jean-Philippe Tanguy (RN) dénonce une « dérive illibérale » : Macron veut « verrouiller » la BCE « après avoir placé Emmanuel Moulin à la Banque de France et Amélie de Montchalin à la Cour des comptes », selon LCP.",
+     "sources": [
+      "63f768ec2362"
+     ]
+    },
+    {
+     "text": "Côté Élysée, un proche du président : « C'est un choix personnel » de Christine Lagarde ; « Il faut arrêter de voir le complot partout », selon 20 Minutes. Macron a salué son action en appelant à une transition « ordonnée et équilibrée ». Mais « à Francfort, Emmanuel Macron ne décide pas seul » : la France a déjà fourni deux des quatre présidents de la BCE, selon Europe 1.",
+     "sources": [
+      "2a323e8b686b",
+      "b3e28c55d2a5"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/Mq3eX-AxS8Cvsym2vON32ik/1200x768_29-octobre-2026-francfort-hesse-allemagne-la-presidente-de-la-banque-centrale-europeenne-bce-christine-lagarde-arrive-pour-une-conference-de-presse-a-l-issue-d-une-reunion-du-conseil-des-gouverneurs-a-francfort-sur-le-main-en-allemagne-image-de-credit-matias-basualdo-zuma-press-wire-20261029-zip-b332-013-zeus-2610291639",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4258761-20261029-depart-christine-lagarde-bce-melenchon-lfi-tanguy-rn-accusent-macron-etre-man-uvre?at_medium=display&at_campaign=149",
+    "article_id": "2a323e8b686b"
+   },
+   "id": 233,
+   "section": "institutions",
+   "reviewed_at": "2026-11-02T17:32:21+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "2a323e8b686b",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Départ de Christine Lagarde de la BCE : Mélenchon (LFI) et Tanguy (RN) accusent Macron d’être à la manœuvre",
+     "url": "https://www.20minutes.fr/politique/4258761-20261029-depart-christine-lagarde-bce-melenchon-lfi-tanguy-rn-accusent-macron-etre-man-uvre?at_medium=display&at_campaign=149",
+     "published_at": "2026-10-29T18:40:26+00:00",
+     "snippet": "Jean-Luc Mélenchon et Jean-Philippe Tanguy (RN) accusent Emmanuel Macron d’être derrière le départ anticipé de Christine Lagarde de la tête de la Banque centrale européenne (BCE)"
+    },
+    {
+     "id": "63f768ec2362",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne",
+     "url": "https://lcp.fr/actualites/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-444496",
+     "published_at": "2026-10-30T09:15:08+00:00",
+     "snippet": "Par Maxence Kagni , le Jeudi 29 octobre 2026 à 16:36 Christine Lagarde a annoncé jeudi qu'elle quitterait début février 2027 son poste de présidente de la Banque centrale européenne (BCE). Le RN et LFI dénoncent une manoeuvre visant selon eux à permettre à Emmanuel Macron de participer aux négociations européennes pour trouver son successeur. Christine Lagarde annonce ce jeudi dans une vidéo qu'elle quitttera la présidence de la Banque centrale européenne (BCE) le 7 février prochain, soit neuf mois avant le terme officiel de son mandat, prévu en octobre 2027. \"Je quitte cette institution avec "
+    },
+    {
+     "id": "b3e28c55d2a5",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Comment Emmanuel Macron compte peser dans la désignation du successeur de Christine Lagarde à la Banque centrale européenne",
+     "url": "https://www.europe1.fr/politique/comment-emmanuel-macron-compte-peser-dans-la-designation-du-successeur-de-christine-lagarde-a-la-banque-centrale-europeenne-1192710?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-10-30T05:32:00+00:00",
+     "snippet": "Alors que Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février prochain, neuf mois avant la fin de son mandat, Emmanuel Macron a déjà imaginé comment peser dans la désignation de son successeur. Le départ de Christine Lagarde est désormais officiel. La présidente de la BCE quittera son poste le 7 février, près de neuf mois avant la fin officielle de son mandat. Sa succession pourrait donc être tranchée avant la présidentielle française. Ses partenaires ne lui feront aucun cadeau Emmanuel Macron a salué jeudi son action, tout en appelant à une transition \"ordon"
     }
    ]
   },
