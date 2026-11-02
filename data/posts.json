@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:32:25+00:00",
+ "generated_at": "2026-11-02T17:32:28+00:00",
  "posts": [
   {
    "headline": "Raphaël Arnault (LFI) entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, sa conférence à Lyon annulée",
@@ -106,6 +106,107 @@
      "url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
      "published_at": "2026-10-29T13:56:39+00:00",
      "snippet": "L’élu du Vaucluse a été interrogé par la Sous-direction antiterroriste (Sdat) sur la mort du militant d’extrême droite Quentin Deranque, survenue en février à Lyon."
+    }
+   ]
+  },
+  {
+   "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
+   "chapo": "Le 29 octobre, le candidat Horizons a été entendu toute la journée par deux juges d'instruction financiers. Ce statut est moins lourd qu'une mise en examen et n'est pas une condamnation ; la plaignante et son avocat disent vouloir que l'instruction continue.",
+   "points": [
+    {
+     "text": "L'enquête, ouverte à Paris, porte notamment sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de la communauté urbaine du Havre, dont Édouard Philippe est le président, selon LCP. BFMTV précise qu'il conteste l'ensemble des faits qui lui sont reprochés.",
+     "sources": [
+      "0f34d00e4634",
+      "d9518d973f6a"
+     ]
+    },
+    {
+     "text": "Le statut de témoin assisté est « moins incriminant qu'une mise en examen ». Il « peut être modifié au cours de l'enquête si des éléments nouveaux apparaissent », mais « en l'état, la perspective de poursuites judiciaires s'éloigne », selon BFMTV.",
+     "sources": [
+      "d9518d973f6a"
+     ]
+    },
+    {
+     "text": "Son avocat, Emmanuel Marsigny : « Édouard Philippe se félicite de cette décision favorable qui confirme qu'il n'y a rien à lui reprocher dans cette affaire », selon Libération.",
+     "sources": [
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Le point de départ : des plaintes d'une ancienne directrice générale adjointe de la communauté urbaine, déposées en 2023 puis en juin 2025. Elle a obtenu le statut de lanceuse d'alerte en janvier 2025, « contesté par Édouard Philippe », selon Libération.",
+     "sources": [
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Les faits visés : une convention de juillet 2020 pour animer la Cité numérique du Havre, confiée à l'association LH French Tech, seule candidate, pour 2,154 millions d'euros de compensation de service public, selon BFMTV. La plainte demande aussi à la justice d'étudier « si un pacte a été conclu » entre Édouard Philippe et la présidente de l'association, selon Libération.",
+     "sources": [
+      "d9518d973f6a",
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Côté plaignante, son avocat Jérôme Karsenti : « Nous nous réjouissons que l'instruction suive son cours » malgré ce statut, car les faits « nous apparaissent graves », selon LCP. Anticor s'est aussi constituée partie civile, selon Le Monde.",
+     "sources": [
+      "0f34d00e4634",
+      "e2d03d24babf"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-03/Edouard%20Philippe_0.jpg?h=18d19069&itok=8FYgQ70T",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
+    "article_id": "0f34d00e4634"
+   },
+   "id": 227,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:32:28+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "05ef43df5d68",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
+     "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
+     "published_at": "2026-10-29T20:48:58+00:00",
+     "snippet": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020."
+    },
+    {
+     "id": "0f34d00e4634",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Soupçons de détournement de fonds publics: Édouard Philippe placé sous le statut de témoin assisté, une \"décision favorable\" réagit son avocat",
+     "url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
+     "published_at": "2026-10-30T09:15:08+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:59 Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a été placé sous le statut de témoin assisté, jeudi 29 octobre, dans l'enquête ouverte à Paris, notamment pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d'agglomération du Havre, ville dont il est maire. Jeudi 29 octobre, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers, dans une enquête ouverte à Paris notamment pour détournement de fonds publics, favoritisme et harcèlement m"
+    },
+    {
+     "id": "d9518d973f6a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Soupçons de détournement de fonds publics au Havre: Édouard Philippe placé sous le statut de témoin assisté",
+     "url": "https://www.bfmtv.com/politique/horizons/soupcons-de-detournement-de-fonds-publics-au-havre-edouard-philippe-place-sous-le-statut-de-temoin-assiste_AD-202610300165.html",
+     "published_at": "2026-10-30T06:19:11+00:00",
+     "snippet": "Édouard Philippe, candidat Horizons à la présidentielle et maire du Havre, a été placé ce jeudi 29 octobre 2026 sous le statut de témoin assisté dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral au sein de sa ville."
+    },
+    {
+     "id": "e2d03d24babf",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Anticor se constitue partie civile dans l’enquête sur Edouard Philippe",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
+     "published_at": "2026-10-29T14:59:11+00:00",
+     "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
     }
    ]
   },
