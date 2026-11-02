@@ -1,6 +1,108 @@
 {
- "generated_at": "2026-11-02T17:32:06+00:00",
+ "generated_at": "2026-11-02T17:32:12+00:00",
  "posts": [
+  {
+   "headline": "Mélenchon annule le « 20 heures » de TF1 après l'interview d'Édouard Philippe : ce qui s'est dit, et ce que répond TF1",
+   "chapo": "Dimanche soir, Édouard Philippe a maintenu sur TF1 ses propos sur les jeunes issus de l'immigration dans les violences du 17 octobre. Jean-Luc Mélenchon a dit qu'il n'irait pas au « 20 heures » ; TF1 répond que sa venue était déjà annulée ou reportée. Les deux candidats se sont affrontés sur X.",
+   "points": [
+    {
+     "text": "Le point de départ : dans Le Point, après les émeutes du 17 octobre, Édouard Philippe avait jugé « patente » « la surreprésentation de jeunes issus de l'immigration » dans les violences et pointé « l'échec de l'intégration » depuis « plusieurs décennies », selon Le Monde.",
+     "sources": [
+      "b0dd86f84d2d"
+     ]
+    },
+    {
+     "text": "Sur TF1, interrogé par Anne-Claire Coudray, il a maintenu : « il y avait de fait un certain nombre et un nombre important de jeunes Français, sans doute, que je considère comme des Français issus de l'immigration. Ce qui traduit un sujet qu'on doit regarder les yeux dans les yeux », selon Le Parisien.",
+     "sources": [
+      "54007d910d79"
+     ]
+    },
+    {
+     "text": "Réaction de Jean-Luc Mélenchon sur X : « Anne-Claire Coudray reprend à son compte les calomnies racistes d'Édouard Philippe. Lequel déroule son discours dégoûtant sans être interrompu. Lundi, je n'irai pas au « 20 heures » de cette chaîne », selon Le Monde. Selon La Dépêche, il reproche à la journaliste de ne pas avoir contesté les propos.",
+     "sources": [
+      "b0dd86f84d2d",
+      "030fc36d73c1"
+     ]
+    },
+    {
+     "text": "Réponse de TF1 : Anne-Claire Coudray « a mené son entretien avec professionnalisme et rigueur ». La chaîne affirme que la venue de Mélenchon « avait été annulée/reportée » en « fin de semaine » et que « ce n'est pas une décision prise à l'issue de l'interview » ; ni LFI ni TF1 n'avaient annoncé cette invitation, selon Le Parisien. Un proche de Mélenchon assure qu'une interview était bien prévue dans la semaine, avant le meeting du Bourget.",
+     "sources": [
+      "54007d910d79",
+      "b0dd86f84d2d"
+     ]
+    },
+    {
+     "text": "Philippe sur X : « Pour vous, les pilleurs, d'où qu'ils viennent, étrangers ou français, sont des modèles d'intégration et les casseurs d'extrême gauche des victimes de la police. » Il juge que Mélenchon porte, « avec Madame Le Pen, une responsabilité immense dans la violence qui se répand en France », selon La Dépêche.",
+     "sources": [
+      "030fc36d73c1",
+      "14bffb576b2b"
+     ]
+    },
+    {
+     "text": "Mélenchon : « Vous avez ruiné le pays, martyrisé les Gilets jaunes, détruit l'école, et maintenant vous divisez le pays en mettant en cause l'éducation des jeunes Français parce qu'ils sont issus de l'immigration (…) Vous le faites par clientélisme racialiste », selon La Dépêche. Le JDD titre sur leur échange : « Vous avez ruiné le pays », « responsabilité immense dans la violence ».",
+     "sources": [
+      "030fc36d73c1",
+      "14bffb576b2b"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/31/626/0/7513/3756/644/322/60/0/0b77794_ftp-1-hlhezchwcqn3-afp-d4zl89c.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html",
+    "article_id": "b0dd86f84d2d"
+   },
+   "id": 235,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:32:12+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "030fc36d73c1",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Il \"déroule son discours dégoûtant sans être interrompu\" : Jean-Luc Mélenchon s'en prend à Édouard Philippe et claque la porte du 20 heures de TF1",
+     "url": "https://www.ladepeche.fr/2026/11/02/presidentielle-2027-il-deroule-son-discours-degoutant-sans-etre-interrompu-jean-luc-melenchon-sen-prend-a-edouard-philippe-et-claque-la-porte-du-20-13631817.php",
+     "published_at": "2026-11-02T10:09:59+00:00",
+     "snippet": "Jean-Luc Mélenchon a annoncé qu'il ne participerait pas au journal de 20 heures de TF1 ce lundi 2 novembre, après des propos d'Édouard Philippe sur les jeunes issus de l'immigration. Les deux hommes se sont ensuite..."
+    },
+    {
+     "id": "14bffb576b2b",
+     "name": "Le JDD",
+     "kind": "media",
+     "title": "«Vous avez ruiné le pays», «responsabilité immense dans la violence»... Mélenchon et Philippe s’écharpent sur l'état de la France",
+     "url": "https://www.lejdd.fr/politique/vous-avez-ruine-le-pays-responsabilite-immense-dans-la-violence-melenchon-et-philippe-secharpent-sur-letat-de-la-france-187569",
+     "published_at": "2026-11-02T09:47:07+00:00",
+     "snippet": "Les propos d'Édouard Philippe liant immigration et violences urbaines ont suscité la colère de Jean-Luc Mélenchon. Les deux candidats à l'élection présidentielle se sont rejetés mutuellement la responsabilité de la crise actuelle."
+    },
+    {
+     "id": "54007d910d79",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : TF 1 défend le « professionnalisme » d’Anne-Claire Coudray face aux critiques de Jean-Luc Mélenchon",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-tf-1-defend-le-professionnalisme-danne-claire-coudray-face-aux-critiques-de-jean-luc-melenchon-02-11-2026-AZAP3HF6OJDIHAP35SULUQARDY.php",
+     "published_at": "2026-11-02T17:13:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "b0dd86f84d2d",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html",
+     "published_at": "2026-11-02T09:53:30+00:00",
+     "snippet": "« Anne-Claire Coudray a mené son entretien avec professionnalisme et rigueur », a réagi TF1 lundi, affirmant, par ailleurs, que la venue de M. Mélenchon au « 20 heures » avait été annulée dès la fin de la semaine et qu’il ne pouvait ainsi s’agir d’une décision prise en réaction à l’interview de M. Philippe."
+    }
+   ]
+  },
   {
    "headline": "Taxe au gigaoctet : comment 11 députés ont voté une taxe sur Netflix et Google, et pourquoi elle a peu de chances de survivre",
    "chapo": "Le 30 octobre, dans un hémicycle quasi vide, l'Assemblée a adopté par 11 voix contre 10 un amendement socialiste taxant les données transmises aux internautes français. La mesure, qui n'est pas définitive, a déclenché un tollé.",
@@ -102,96 +204,6 @@
    ]
   },
   {
-   "headline": "Lisnard : « ni avec les macronistes, ni avec le RN » ; ce que lui reprochent Fesneau et Copé",
-   "chapo": "Accusé de proximité avec l'extrême droite, le maire de Cannes a affirmé dimanche sur X qu'il ne gouvernerait avec aucun des deux camps. Marc Fesneau et Jean-François Copé lui reprochent le flou, et la question de la primaire reste ouverte.",
-   "points": [
-    {
-     "text": "David Lisnard, patron de Nouvelle Énergie : « Ma démarche est INDÉPENDANTE comme ma droite est indépendante ». Il dit qu'il ne s'alliera « ni avec les macronistes ni avec le RN. Cela a toujours été clair et net », selon 20 Minutes.",
-     "sources": [
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Pourquoi cette clarification : Marc Fesneau (MoDem) l'a accusé dans La Tribune Dimanche de « préparer la grande alliance avec l'extrême droite, comme Sarah Knafo », ce qui justifierait son exclusion d'une primaire du centre et de la droite, selon 20 Minutes.",
-     "sources": [
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Jean-François Copé (LR) sur BFMTV : « Quelque chose qui me gêne, c'est sa proximité avec Éric Ciotti » ; « quand on fait un appel du pied à Éric Ciotti (…) on fait un appel du pied à Le Pen ». Pour lui, « le mur doit être totalement étanche », selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    },
-    {
-     "text": "Lisnard a plusieurs fois appelé Ciotti à rompre son alliance avec le RN pour le rejoindre, et il a pris ses distances avec Marine Le Pen sur l'économie : « Qu'on m'explique comment on va relancer la prospérité en France et réduire les dépenses avec la retraite telle qu'elle est proposée par le RN », selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    },
-    {
-     "text": "Sa ligne sur la primaire : elle doit être ouverte aux candidats « qui se réclament de la droite et du centre ». Il ne demande pas aux perdants de suivre le gagnant, « mais de ne pas nuire à sa campagne », selon CNews. Il interpelle Édouard Philippe, « le dernier à refuser », pour qu'il clarifie « son périmètre », selon 20 Minutes.",
-     "sources": [
-      "2c2f1cf0192a",
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Copé est sceptique : « il n'y aura pas de primaire, c'est écrit », car les prétendants « ne sont pas d'accord sur qui on met dans la primaire » : Attal voudrait Glucksmann, Lisnard accueillerait Sarah Knafo, Philippe est contre, selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/UNOmSqV3QuGHd_dZhcfbCCk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1762-credit-alain-robert-sipa-2610081948",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
-    "article_id": "c8a951bf65a6"
-   },
-   "id": 238,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:32:04+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 9.0,
-   "sources": [
-    {
-     "id": "2c2f1cf0192a",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : «Je ne gouvernerai ni avec les \"macronistes\" ni avec le RN», annonce David Lisnard",
-     "url": "https://www.cnews.fr/france/2026-11-02/presidentielle-2027-je-ne-gouvernerai-ni-avec-les-macronistes-ni-avec-le-rn",
-     "published_at": "2026-11-02T13:13:22+00:00",
-     "snippet": "Le candidat à l'élection présidentielle David Lisnard s'est défendu dimanche de vouloir gouverner avec le RN ou avec des «macronistes», alors qu'il est accusé par plusieurs personnalités d'entretenir une proximité avec l'extrême droite et le bloc central. «Ma démarche est INDÉPENDANTE comme ma droite est indépendante». C’est avec ces mots que le maire de Cannes, David Lisnard, a clarifié sa position dans un long post X publié dimanche promettant qu'il ne gouvernerait «ni avec les macronistes ni avec le RN». Une clarification qui survient après des accusations de proximité avec ces deux forces "
-    },
-    {
-     "id": "c090fa7b607c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Jean-François Copé accuse David Lisnard de ne pas être « très clair » sur sa ligne vis-à-vis du RN",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-jean-francois-cope-accuse-david-lisnard-de-ne-pas-etre-tres-clair-sur-sa-ligne-vis-a-vis-du-rn-01-11-2026-F3KPHEL6ZBGENJMH72VAQEZAEA.php",
-     "published_at": "2026-11-02T17:13:34+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c8a951bf65a6",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Accusé de complaisance avec l’extrême droite, David Lisnard récuse tout accord avec le RN",
-     "url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
-     "published_at": "2026-11-02T06:15:30+00:00",
-     "snippet": "Pointé du doigt par le centre pour ses ambiguïtés supposées avec l’extrême droite, le maire de Cannes et candidat à la présidentielle David Lisnard a exclu dimanche toute gouvernance avec le Rassemblement national"
-    }
-   ]
-  },
-  {
    "headline": "La pétition pour fermer CNews dépasse 500 000 signatures : ce que cela permet, et ce que cela ne permet pas",
    "chapo": "Lancée en juin, la pétition a explosé après l'attentat de Trappes. Le seuil ouvre la voie à un possible débat à l'Assemblée, mais n'entraîne ni fermeture de la chaîne ni vote automatique d'une loi. CNews dit ne pas commenter une « pétition politique ».",
    "points": [
@@ -279,6 +291,96 @@
      "url": "https://lcp.fr/actualites/la-petition-demandant-la-fermeture-de-cnews-depasse-500000-signatures-premiere-etape",
      "published_at": "2026-11-02T17:13:39+00:00",
      "snippet": "Par Raphaël Marchal , le Lundi 2 novembre 2026 à 12:58 La pétition demandant la fermeture de CNews a franchi, ce lundi 2 novembre, le cap des 500 000 signatures sur le site de l'Assemblée nationale qui accueille des pétitions citoyennes. Un seuil qui ouvre la voie à un éventuel débat dans l'hémicycle du Palais-Bourbon. Un succès fulgurant. Quelques mois après avoir été déposée sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, l'une d'entre elles demandant à \"supprimer CNews de l'audiovisuel français\" a recueilli plusieurs centaines de milliers de signatures vérifiées "
+    }
+   ]
+  },
+  {
+   "headline": "Lisnard : « ni avec les macronistes, ni avec le RN » ; ce que lui reprochent Fesneau et Copé",
+   "chapo": "Accusé de proximité avec l'extrême droite, le maire de Cannes a affirmé dimanche sur X qu'il ne gouvernerait avec aucun des deux camps. Marc Fesneau et Jean-François Copé lui reprochent le flou, et la question de la primaire reste ouverte.",
+   "points": [
+    {
+     "text": "David Lisnard, patron de Nouvelle Énergie : « Ma démarche est INDÉPENDANTE comme ma droite est indépendante ». Il dit qu'il ne s'alliera « ni avec les macronistes ni avec le RN. Cela a toujours été clair et net », selon 20 Minutes.",
+     "sources": [
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Pourquoi cette clarification : Marc Fesneau (MoDem) l'a accusé dans La Tribune Dimanche de « préparer la grande alliance avec l'extrême droite, comme Sarah Knafo », ce qui justifierait son exclusion d'une primaire du centre et de la droite, selon 20 Minutes.",
+     "sources": [
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Jean-François Copé (LR) sur BFMTV : « Quelque chose qui me gêne, c'est sa proximité avec Éric Ciotti » ; « quand on fait un appel du pied à Éric Ciotti (…) on fait un appel du pied à Le Pen ». Pour lui, « le mur doit être totalement étanche », selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    },
+    {
+     "text": "Lisnard a plusieurs fois appelé Ciotti à rompre son alliance avec le RN pour le rejoindre, et il a pris ses distances avec Marine Le Pen sur l'économie : « Qu'on m'explique comment on va relancer la prospérité en France et réduire les dépenses avec la retraite telle qu'elle est proposée par le RN », selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    },
+    {
+     "text": "Sa ligne sur la primaire : elle doit être ouverte aux candidats « qui se réclament de la droite et du centre ». Il ne demande pas aux perdants de suivre le gagnant, « mais de ne pas nuire à sa campagne », selon CNews. Il interpelle Édouard Philippe, « le dernier à refuser », pour qu'il clarifie « son périmètre », selon 20 Minutes.",
+     "sources": [
+      "2c2f1cf0192a",
+      "c8a951bf65a6"
+     ]
+    },
+    {
+     "text": "Copé est sceptique : « il n'y aura pas de primaire, c'est écrit », car les prétendants « ne sont pas d'accord sur qui on met dans la primaire » : Attal voudrait Glucksmann, Lisnard accueillerait Sarah Knafo, Philippe est contre, selon Le Parisien.",
+     "sources": [
+      "c090fa7b607c"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.20mn.fr/UNOmSqV3QuGHd_dZhcfbCCk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1762-credit-alain-robert-sipa-2610081948",
+    "source": "20 Minutes",
+    "article_url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
+    "article_id": "c8a951bf65a6"
+   },
+   "id": 238,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:32:04+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "2c2f1cf0192a",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : «Je ne gouvernerai ni avec les \"macronistes\" ni avec le RN», annonce David Lisnard",
+     "url": "https://www.cnews.fr/france/2026-11-02/presidentielle-2027-je-ne-gouvernerai-ni-avec-les-macronistes-ni-avec-le-rn",
+     "published_at": "2026-11-02T13:13:22+00:00",
+     "snippet": "Le candidat à l'élection présidentielle David Lisnard s'est défendu dimanche de vouloir gouverner avec le RN ou avec des «macronistes», alors qu'il est accusé par plusieurs personnalités d'entretenir une proximité avec l'extrême droite et le bloc central. «Ma démarche est INDÉPENDANTE comme ma droite est indépendante». C’est avec ces mots que le maire de Cannes, David Lisnard, a clarifié sa position dans un long post X publié dimanche promettant qu'il ne gouvernerait «ni avec les macronistes ni avec le RN». Une clarification qui survient après des accusations de proximité avec ces deux forces "
+    },
+    {
+     "id": "c090fa7b607c",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Jean-François Copé accuse David Lisnard de ne pas être « très clair » sur sa ligne vis-à-vis du RN",
+     "url": "https://www.leparisien.fr/politique/presidentielle-2027-jean-francois-cope-accuse-david-lisnard-de-ne-pas-etre-tres-clair-sur-sa-ligne-vis-a-vis-du-rn-01-11-2026-F3KPHEL6ZBGENJMH72VAQEZAEA.php",
+     "published_at": "2026-11-02T17:13:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c8a951bf65a6",
+     "name": "20 Minutes",
+     "kind": "media",
+     "title": "Accusé de complaisance avec l’extrême droite, David Lisnard récuse tout accord avec le RN",
+     "url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
+     "published_at": "2026-11-02T06:15:30+00:00",
+     "snippet": "Pointé du doigt par le centre pour ses ambiguïtés supposées avec l’extrême droite, le maire de Cannes et candidat à la présidentielle David Lisnard a exclu dimanche toute gouvernance avec le Rassemblement national"
     }
    ]
   },
