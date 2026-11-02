@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:32:28+00:00",
+ "generated_at": "2026-11-02T17:32:34+00:00",
  "posts": [
   {
    "headline": "Raphaël Arnault (LFI) entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, sa conférence à Lyon annulée",
@@ -207,6 +207,106 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
      "published_at": "2026-10-29T14:59:11+00:00",
      "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
+    }
+   ]
+  },
+  {
+   "headline": "PIB : l'économie française recule de 0,1 % au troisième trimestre, ce que dit Roland Lescure",
+   "chapo": "L'Insee annonce le 30 octobre une baisse du produit intérieur brut, alors qu'une légère hausse était attendue. Le ministre de l'Économie juge l'économie « à l'arrêt » et lie la reprise au vote du budget 2027.",
+   "points": [
+    {
+     "text": "Le PIB, qui mesure la richesse produite en France, a reculé de 0,1 % au troisième trimestre, après un recul de 0,2 % au premier et une stagnation au deuxième, selon l'Insee cité par Libération. Le Monde parle d'une baisse « attendue en légère hausse ».",
+     "sources": [
+      "ed57906168c7",
+      "70b8437e7172"
+     ]
+    },
+    {
+     "text": "Pourquoi : les exportations se contractent de 1,7 %, surtout dans les matériels de transport (-9,1 %), notamment l'aéronautique. La consommation des ménages progresse de 0,4 %, mais l'investissement recule de 0,6 %, selon Libération.",
+     "sources": [
+      "ed57906168c7"
+     ]
+    },
+    {
+     "text": "Récession ? Une récession « technique » correspond à deux trimestres de baisse d'affilée. « Il suffirait d'une petite révision à la baisse du deuxième trimestre pour que ce soit le cas », dit l'économiste Mathieu Plane, selon Le Monde. Les comptes révisés seront publiés fin novembre.",
+     "sources": [
+      "70b8437e7172"
+     ]
+    },
+    {
+     "text": "Roland Lescure sur France Info : « en 2026, l'économie française est à l'arrêt ». Il évoque une « conjonction inédite » de chocs : la canicule de l'été et les tensions autour du détroit d'Ormuz qui font monter les carburants, selon Nice-Matin.",
+     "sources": [
+      "2957d03c9367"
+     ]
+    },
+    {
+     "text": "Son message sur le budget : « si on n'a pas le redressement budgétaire qu'on a mis dans le budget, on ira dans le mur », avec un objectif de déficit public à 5 % du PIB en 2027, contre 5,4 % en 2026, mais « la France ne va pas à la crise », selon LCP.",
+     "sources": [
+      "5450a1967705"
+     ]
+    },
+    {
+     "text": "Les limites : l'adoption du budget est incertaine faute de majorité à l'Assemblée, l'exécutif pouvant recourir au 49.3 ou aux ordonnances, selon LCP. Le Monde note que les coupes budgétaires risquent d'affecter le pouvoir d'achat et la consommation. Dans les articles lus, aucune réaction de l'opposition n'était citée.",
+     "sources": [
+      "2957d03c9367",
+      "70b8437e7172"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/30/596/0/7143/3571/644/322/60/0/0cd51f4_upload-1-cechbep3o8pw-000-b97a2we.jpg",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
+    "article_id": "70b8437e7172"
+   },
+   "id": 228,
+   "section": "institutions",
+   "reviewed_at": "2026-11-02T17:32:34+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "2957d03c9367",
+     "name": "Nice-Matin",
+     "kind": "media",
+     "title": "« La France ira dans le mur » : le ministre de l’Économie tire le signal d’alarme pour redresser impérativement les comptes et pointe une croissance « à l’arrêt »",
+     "url": "https://www.nicematin.com/economie/la-france-ira-dans-le-mur-le-ministre-de-l-economie-tire-le-signal-d-alarme-pour-redresser-imperativement-les-comptes-et-pointe-une-croissance-a-l-arret-10749139",
+     "published_at": "2026-10-30T08:37:02+00:00",
+     "snippet": "L’économie française, à l’arrêt, ne pourra redémarrer que si le redressement prévu par le gouvernement dans le budget 2027 a lieu, a prévenu vendredi le ministre français de l’Économie et des Finances, Roland Lescure."
+    },
+    {
+     "id": "5450a1967705",
+     "name": "LCP",
+     "kind": "media",
+     "title": "\"L'économie française est à l'arrêt\" et \"ira dans le mur\" sans un \"redressement budgétaire\", alerte Roland Lescure",
+     "url": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire",
+     "published_at": "2026-10-30T09:15:08+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:27 Le ministre de l'Economie et des Finances, Roland Lescure, a jugé ce vendredi 30 octobre que l'économie française était à l'arrêt et que son redémarrage dépendait de l'adoption d'un budget pour 2027. Le produit intérieur brut (PIB) de la France a reculé de 0,1 % au troisième trimestre. \"Ça fait trois trimestres que la croissance n'est pas au rendez-vous\", a déclaré le ministre de l'Economie et des Finances, Roland Lescure, ce vendredi 30 octobre sur France Info. Selon les données tout juste publiées par l'Insee, le produit inté"
+    },
+    {
+     "id": "70b8437e7172",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Recul surprise du PIB au troisième trimestre, l’économie française flirte avec la récession",
+     "url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
+     "published_at": "2026-10-30T08:26:42+00:00",
+     "snippet": "Le produit intérieur brut de la France a reculé de 0,1 % au troisième trimestre, a annoncé vendredi l’Insee, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier. Pour le ministre de l’économie, Roland Lescure, « l’économie française est à l’arrêt » et « ira dans le mur » sans « le redressement budgétaire qu’on a mis dans le budget »."
+    },
+    {
+     "id": "ed57906168c7",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Le PIB en recul au troisième trimestre, «l’économie française est à l’arrêt» reconnait Roland Lescure",
+     "url": "https://www.liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4/",
+     "published_at": "2026-10-30T07:33:47+00:00",
+     "snippet": "Invité à commenter les chiffres de la croissance, le ministre de l’Economie a bien dû constater l’atonie de la production française, vendredi 30 octobre."
     }
    ]
   },
