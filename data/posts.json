@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:32:04+00:00",
+ "generated_at": "2026-11-02T17:32:06+00:00",
  "posts": [
   {
    "headline": "Taxe au gigaoctet : comment 11 députés ont voté une taxe sur Netflix et Google, et pourquoi elle a peu de chances de survivre",
@@ -188,6 +188,97 @@
      "url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
      "published_at": "2026-11-02T06:15:30+00:00",
      "snippet": "Pointé du doigt par le centre pour ses ambiguïtés supposées avec l’extrême droite, le maire de Cannes et candidat à la présidentielle David Lisnard a exclu dimanche toute gouvernance avec le Rassemblement national"
+    }
+   ]
+  },
+  {
+   "headline": "La pétition pour fermer CNews dépasse 500 000 signatures : ce que cela permet, et ce que cela ne permet pas",
+   "chapo": "Lancée en juin, la pétition a explosé après l'attentat de Trappes. Le seuil ouvre la voie à un possible débat à l'Assemblée, mais n'entraîne ni fermeture de la chaîne ni vote automatique d'une loi. CNews dit ne pas commenter une « pétition politique ».",
+   "points": [
+    {
+     "text": "La pétition, déposée sur le site de l'Assemblée nationale, demande de « supprimer CNews de l'audiovisuel français ». Elle a dépassé 500 000 signatures le 2 novembre, alors qu'elle était à moins de 100 000 signatures numériques fin octobre, selon Le Monde.",
+     "sources": [
+      "26ad0db5d71e"
+     ]
+    },
+    {
+     "text": "Son auteur, un particulier, écrit que CNews est « une machine de propagande » et que « une fréquence publique, ça se mérite, ça ne se souille pas », selon Le Parisien. Il demande à l'Arcom de retirer à la chaîne sa convention TNT, en listant des « manquements au droit » ayant donné lieu à des rappels à l'ordre, selon LCP.",
+     "sources": [
+      "2d3869ad5f07",
+      "bba1e846d413"
+     ]
+    },
+    {
+     "text": "L'afflux de signatures coïncide avec l'attentat raciste de Trappes. Une partie de la gauche, dont le maire de Trappes Ali Rabeh, accuse les médias, CNews en particulier, d'une responsabilité dans le climat qui l'a précédé, selon Le Monde. Thomas Portes (La France insoumise) : « Depuis des années, cette pseudo 'chaîne' met une cible dans le dos des musulmans », selon LCP.",
+     "sources": [
+      "26ad0db5d71e",
+      "bba1e846d413"
+     ]
+    },
+    {
+     "text": "La réponse de CNews : « Nous ne ferons pas de commentaires sur cette pétition politique ». La chaîne, régulièrement accusée de promouvoir des thèmes d'extrême droite, le conteste et assure défendre la liberté d'expression, selon Le Monde. Elle avait été mise en demeure en juin par l'Arcom de corriger un « déséquilibre manifeste et durable » dans l'expression des courants d'opinion.",
+     "sources": [
+      "26ad0db5d71e"
+     ]
+    },
+    {
+     "text": "La suite : la pétition va à la commission des affaires culturelles, qui choisit de la classer ou de l'examiner ; puis la Conférence des présidents décide d'un éventuel débat en séance. Un débat n'aboutirait « aucunement à la fermeture de CNews », ni à un texte de loi automatique, selon LCP.",
+     "sources": [
+      "bba1e846d413"
+     ]
+    },
+    {
+     "text": "Les rapports de force : la droite et le RN comptent 23 sièges dans cette commission, le centre 21, la gauche 25, et la pétition est soutenue uniquement par la gauche, selon Le Parisien. Précédents : la pétition contre la loi Duplomb a donné lieu à un débat sans changement du texte ; celle sur l'usage légitime de l'arme a été classée sans suite.",
+     "sources": [
+      "2d3869ad5f07"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 3,
+    "outlets": 3
+   },
+   "image": {
+    "url": "https://img.lemde.fr/2026/10/19/750/0/5000/2500/644/322/60/0/d00686f_upload-1-1mtgvl0zmzum-2026-10-18-paris-pol-lemonde-17oct-jour-apres-114.JPG",
+    "source": "Le Monde",
+    "article_url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-500-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3236.html",
+    "article_id": "26ad0db5d71e"
+   },
+   "id": 237,
+   "section": "institutions",
+   "reviewed_at": "2026-11-02T17:32:06+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.0,
+   "sources": [
+    {
+     "id": "26ad0db5d71e",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "CNews : une pétition appelant à fermer la chaîne dépasse 500 000 signatures, ouvrant la voie à un débat à l’Assemblée nationale",
+     "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-500-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3236.html",
+     "published_at": "2026-11-02T13:01:36+00:00",
+     "snippet": "« Nous ne ferons pas de commentaires sur cette pétition politique », a réagi CNews lundi. La chaîne du groupe Canal+ est régulièrement accusée de promouvoir les opinions et les thèmes d’extrême droite. L’organisation d’un débat passé le seuil de 500 000 signatures n’est toutefois pas systématique, une commission devra se prononcer en décidant de la classer ou de l’examiner."
+    },
+    {
+     "id": "2d3869ad5f07",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Plus de 550 000 signatures recueillies : quelles sont les prochaines étapes pour la pétition visant à fermer CNews ?",
+     "url": "https://www.leparisien.fr/politique/plus-de-550-000-signatures-recueillies-quelles-sont-les-prochaines-etapes-pour-la-petition-visant-a-fermer-cnews-02-11-2026-WJSU3T4ZHZAH5O3DXUY6NX4TY4.php",
+     "published_at": "2026-11-02T17:13:34+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "bba1e846d413",
+     "name": "LCP",
+     "kind": "media",
+     "title": "La pétition demandant la fermeture de CNews dépasse 500.000 signatures, première étape vers un éventuel débat dans l'hémicycle de l'Assemblée",
+     "url": "https://lcp.fr/actualites/la-petition-demandant-la-fermeture-de-cnews-depasse-500000-signatures-premiere-etape",
+     "published_at": "2026-11-02T17:13:39+00:00",
+     "snippet": "Par Raphaël Marchal , le Lundi 2 novembre 2026 à 12:58 La pétition demandant la fermeture de CNews a franchi, ce lundi 2 novembre, le cap des 500 000 signatures sur le site de l'Assemblée nationale qui accueille des pétitions citoyennes. Un seuil qui ouvre la voie à un éventuel débat dans l'hémicycle du Palais-Bourbon. Un succès fulgurant. Quelques mois après avoir été déposée sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, l'une d'entre elles demandant à \"supprimer CNews de l'audiovisuel français\" a recueilli plusieurs centaines de milliers de signatures vérifiées "
     }
    ]
   },
