@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T11:25:30+00:00",
+ "generated_at": "2026-11-03T11:25:39+00:00",
  "posts": [
   {
    "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
@@ -99,6 +99,115 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
      "published_at": "2026-10-29T14:59:11+00:00",
      "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
+    }
+   ]
+  },
+  {
+   "headline": "Nuñez devant la commission d'enquête sur le 17 octobre : ce qu'on lui demande, et ce qu'il a dit la veille sur les grenades",
+   "chapo": "Le ministre de l'Intérieur est le premier auditionné par la commission d'enquête sur les violences du 17 octobre. La veille, il a refusé de renoncer aux grenades et au gaz lacrymogène devant la commission des lois.",
+   "points": [
+    {
+     "text": "Ce mardi 3 novembre à partir de 16h30, Laurent Nuñez est le premier auditionné par la commission d'enquête sur les violences du 17 octobre, journée de manifestation contre la vie chère marquée par des pillages et des incendies, dont celui de la mairie de Limoges, selon CNews. Plus de 2 000 personnes ont été interpellées ce jour-là, selon CNews. Le ministre avait remis sa démission à Emmanuel Macron, qui l'a refusée.",
+     "sources": [
+      "c22507bd9ec7"
+     ]
+    },
+    {
+     "text": "Ce que les députés veulent comprendre : comment les pouvoirs publics se préparent à de tels événements, de quels renseignements ils disposent, quelle information a été donnée aux maires par les préfectures, et le rôle des réseaux sociaux et d'éventuelles ingérences étrangères, selon CNews. Europe 1 résume la question : les services de renseignement ont-ils mal anticipé, ou le ministère n'a-t-il pas écouté leurs alertes ?",
+     "sources": [
+      "c22507bd9ec7",
+      "f79656fdae3a"
+     ]
+    },
+    {
+     "text": "Le jugement de L'Humanité sur le ministre : « largement critiqué depuis plusieurs semaines pour sa gestion du dispositif policier », il serait « sommé de justifier son fiasco ». Le journal rappelle que des « défaillances » ont été reconnues sur l'anticipation et l'ampleur des mouvements de protestation.",
+     "sources": [
+      "f4a6e8a8c0ce"
+     ]
+    },
+    {
+     "text": "La commission est elle-même disputée : trois co-rapporteurs ont été élus (Agnès Firmin Le Bodo pour Horizons, Roger Vicot pour le PS, Pouria Amirshahi pour les écologistes), mais Agnès Firmin Le Bodo s'est mise en retrait après la décision du Rassemblement national d'être aussi rapporteur, selon CNews.",
+     "sources": [
+      "c22507bd9ec7"
+     ]
+    },
+    {
+     "text": "La veille, lundi 2 novembre, devant la commission des lois sur le budget 2027 : « Je ne renoncerai à aucun moyen intermédiaire pour la bonne et simple raison que les policiers ont besoin de se défendre quand ils sont pris à partie », a dit Laurent Nuñez, alors que des élus demandaient de renoncer aux grenades après les graves blessures de lycéens, selon LCP et Le Parisien.",
+     "sources": [
+      "672932a71cfe",
+      "232ccb849111"
+     ]
+    },
+    {
+     "text": "À la députée La France insoumise Gabrielle Cathala, qui parlait de « répression » : « La répression, elle n'existe pas. Nous, on est là pour éviter les troubles à l'ordre public. » Sur le gaz lacrymogène, il dit n'avoir « pas connaissance du caractère nocif » du produit, cite des études de 2021-2022 sans « atteintes constatées » et refuse de le suspendre « par principe de précaution », selon LCP.",
+     "sources": [
+      "672932a71cfe"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://www.cnews.fr/sites/default/files/styles/image_960_540/public/2026-10-28t142744z_1436023959_rc2esna61uve_rtrmadp_3_france-politics-taille1200_6ae8778c4851c.jpg?h=fa24193c&itok=EqwBngkU",
+    "source": "CNews",
+    "article_url": "https://www.cnews.fr/france/2026-11-03/commission-denquete-sur-le-17-octobre-entendu-ce-mardi-laurent-nunez-devra",
+    "article_id": "c22507bd9ec7"
+   },
+   "id": 245,
+   "section": "institutions",
+   "reviewed_at": "2026-11-03T11:25:39+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "232ccb849111",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Laurent Nuñez « ne renoncera à aucun moyen intermédiaire » comme les grenades et gaz lacrymogènes",
+     "url": "https://www.leparisien.fr/politique/laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-03-11-2026-LBILBNDICRHY3I2MUIU6IVBKZM.php",
+     "published_at": "2026-11-03T11:19:27+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "672932a71cfe",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Maintien de l'ordre: Laurent Nuñez \"ne renoncera à aucun moyen intermédiaire\" comme les grenades et le gaz lacrymogène",
+     "url": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les",
+     "published_at": "2026-11-03T11:19:31+00:00",
+     "snippet": "Par Maxence Kagni , le Mardi 3 novembre 2026 à 09:20 Auditionné par les députés de la commission des lois, lundi 2 novembre en fin de journée, sur les crédits de son ministère dans le cadre du budget de l'État pour 2027, le ministre de l'Intérieur a aussi été interpellé sur le maintien de l'ordre dans le contexte actuel de mobilisations sociales. À cette occasion, Laurent Nuñez a indiqué qu'il ne renoncerait à \" aucun moyen intermédiaire\" permettant aux forces de l'ordre \" de se défendre\". \"Je ne renoncerai à aucun moyen intermédiaire pour la bonne et simple raison que les policiers ont besoin"
+    },
+    {
+     "id": "c22507bd9ec7",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Commission d'enquête sur le 17 octobre : entendu ce mardi, Laurent Nuñez devra s'expliquer sur les violences urbaines",
+     "url": "https://www.cnews.fr/france/2026-11-03/commission-denquete-sur-le-17-octobre-entendu-ce-mardi-laurent-nunez-devra",
+     "published_at": "2026-11-03T05:03:07+00:00",
+     "snippet": "Une Commission d'enquête sur les violences urbaines du 17 octobre s'ouvre ce mardi 3 novembre à l'Assemblée nationale. Plusieurs acteurs devront répondre aux choix effectués en marge de la manifestation, et le ministre de l'Intérieur Laurent Nuñez est le premier à être auditionné. Les forces de l'ordre étaient-elles assez présentes en France le 17 octobre ? Le mouvement a-t-il été pris au sérieux ? Les scènes de chaos auraient-elles pu être évitées ? Voici un exemple de questions auxquelles pourrait répondre Laurent Nuñez ce mardi 3 novembre, auditionné à partir de 16h30 dans le cadre de la Co"
+    },
+    {
+     "id": "f4a6e8a8c0ce",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Violences, passivité face aux milices d’extrême droite… À l’Assemblée, Laurent Nunez sommé de justifier son fiasco",
+     "url": "https://www.humanite.fr/politique/extreme-droite/violences-passivite-face-aux-milices-dextreme-droite-a-lassemblee-laurent-nunez-somme-de-justifier-son-fiasco",
+     "published_at": "2026-11-03T05:00:00+00:00",
+     "snippet": "Auditionné ce mardi 3 novembre par la commission d’enquête sur les manifestations du 17 octobre, le ministre de l’Intérieur devrait s’entêter dans ses justifications alambiquées concernant les violences, l’attitude des policiers face aux milices d’extrême droite ou les tentatives de diversion vers « l’ultragauche »."
+    },
+    {
+     "id": "f79656fdae3a",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Émeutes du 17 octobre : Laurent Nuñez face aux questions des députés",
+     "url": "https://www.europe1.fr/politique/emeutes-du-17-octobre-laurent-nunez-face-aux-questions-des-deputes-1204586?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-11-03T06:54:47+00:00",
+     "snippet": "Le ministre de l'Intérieur Laurent Nuñez sera entendu ce mardi à l'Assemblée nationale dans le cadre de la commission d'enquête sur les violences du 17 octobre. Une audition hautement scrutée. Qui est responsable du fiasco sécuritaire du 17 octobre dernier ? C’est ce que vont chercher à comprendre les députés à travers la commission d'enquête sur les violences lors du premier week-end de manifestations contre la vie chère. Ce mardi, c'est le ministre de l'Intérieur Laurent Nuñez qui ouvre le bal. Il répondra aux questions des députés qui vont devoir comprendre d'où viennent les failles qui ont"
     }
    ]
   },
@@ -484,7 +593,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.88,
+   "score": 6.87,
    "sources": [
     {
      "id": "030fc36d73c1",
