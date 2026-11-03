@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-11-03T13:56:07+00:00",
+ "generated_at": "2026-11-03T17:00:04+00:00",
  "posts": [
+  {
+   "headline": "Budget 2027 : l'Assemblée va probablement rejeter le texte, et ensuite ? 49.3, ordonnances ou loi spéciale",
+   "chapo": "Sans majorité, les députés votent des amendements dont ils savent qu'ils seront probablement balayés. La partie « recettes » devrait être rejetée, puis le texte du gouvernement partirait au Sénat.",
+   "points": [
+    {
+     "text": "Où en est-on : les députés examinent la partie « recettes » depuis le 13 octobre, il restait 1 450 amendements à examiner lundi, et le vote solennel prévu mardi n'aura pas lieu, selon LCP. Le rejet de cette partie est « plus que vraisemblable », selon LCP : le texte ne conviendrait « vraiment à personne ». Les députés ont jusqu'au 17 novembre à minuit pour se prononcer en première lecture, selon LCP.",
+     "sources": [
+      "1336804cd586"
+     ]
+    },
+    {
+     "text": "Si la partie « recettes » est rejetée, la partie « dépenses » n'est pas examinée, le texte part au Sénat et c'est la version initiale du gouvernement que les sénateurs examinent, selon LCP. Le budget de la Sécurité sociale a déjà suivi ce chemin : rejeté en première lecture par l'Assemblée, il est examiné au Sénat cette semaine, avec un déficit à ramener de 21,8 à 12,7 milliards d'euros en 2027, selon Le Figaro.",
+     "sources": [
+      "1336804cd586",
+      "72cc7fef130b"
+     ]
+    },
+    {
+     "text": "L'ambiance dans l'Hémicycle : les députés reconnaissent qu'ils « n'ont plus la main ». « On sait que tout sera balayé par le gouvernement », dit le député RN Matthias Renault. Une députée de La Réunion demande au ministre des comptes publics, David Amiel, de garder son amendement adopté « dans le texte final », selon Le Monde.",
+     "sources": [
+      "160954682b06"
+     ]
+    },
+    {
+     "text": "Trois issues possibles, selon Le Monde : Sébastien Lecornu garde les amendements qui lui conviennent et passe par l'article 49.3 ; il promulgue le texte initial par ordonnance ; ou il n'y a pas de budget mais une « loi spéciale » pendant des mois, peut-être jusqu'à la présidentielle. Pour les ordonnances, l'échéance des 70 jours tombe le 17 décembre à minuit, selon LCP.",
+     "sources": [
+      "160954682b06",
+      "1336804cd586"
+     ]
+    },
+    {
+     "text": "Le rapporteur général du budget, Philippe Juvin (LR), prévoit sur franceinfo que « le budget sera refusé par le Parlement » et dit qu'il faudra « passer par un 49.3 », comme il le dit « depuis le mois d'août ». Il plaide pour une baisse des dépenses d'environ 10 %, une proposition qui ne trouve « pas beaucoup d'écho » chez les parlementaires, selon franceinfo.",
+     "sources": [
+      "4bcf7a82687b"
+     ]
+    },
+    {
+     "text": "Le point de vue de L'Humanité : le RN (Jean-Philippe Tanguy) et le camp présidentiel (Paul Midy) ont chacun défendu lundi la suppression immédiate de la CVAE, un impôt de production, soit quatre milliards d'euros de recettes en moins. Le journal y voit une proximité qui prolonge leurs votes communs contre la taxation des plus fortunés.",
+     "sources": [
+      "9f4c0612bea6"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2025-07/Assembl%C3%A9e%20nationale%20ext%C3%A9rieur.jpg?h=b2774bcf&itok=qHEVVhzz",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats",
+    "article_id": "1336804cd586"
+   },
+   "id": 249,
+   "section": "institutions",
+   "reviewed_at": "2026-11-03T13:56:07+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 13.3,
+   "sources": [
+    {
+     "id": "1336804cd586",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Budget 2027: calendrier, procédure, pistes d'atterrissage... Où en est-on des débats budgétaires à l'Assemblée?",
+     "url": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats",
+     "published_at": "2026-11-02T17:13:39+00:00",
+     "snippet": "Par Raphaël Marchal Ludovic FAU, le Lundi 2 novembre 2026 à 07:00 Les députés vont poursuivre, ce lundi 2 novembre, l'examen du projet de budget de l'État pour 2027, sans perspective de compromis alors que le gouvernement n'a pas de majorité à l'Assemblée nationale. Où en est-on des débats budgétaires ? Que prévoit la procédure législative en la matière ? Quels sont les moyens dont dispose l'exécutif pour doter la France d'un budget ? LCP fait le point. Après une parenthèse due à l'examen du projet de financement de la Sécurité sociale (PLFSS), les députés ont repris mardi dernier l'examen du "
+    },
+    {
+     "id": "160954682b06",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
+     "published_at": "2026-11-03T04:00:19+00:00",
+     "snippet": "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse."
+    },
+    {
+     "id": "4bcf7a82687b",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
+     "url": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-11-01T09:34:04+00:00",
+     "snippet": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027."
+    },
+    {
+     "id": "72cc7fef130b",
+     "name": "Le Figaro",
+     "kind": "media",
+     "title": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+     "url": "https://www.lefigaro.fr/social/budget-comment-le-gouvernement-compte-reduire-de-plus-de-9-milliards-d-euros-le-deficit-de-la-securite-sociale-20261102",
+     "published_at": "2026-11-02T06:58:42+00:00",
+     "snippet": "DÉCRYPTAGE - Sébastien Lecornu prévoit de faire passer le déficit de 21,8 milliards à 12,7 milliards d’euros en 2027. Une piste ambitieuse, qui suppose des choix impopulaires."
+    },
+    {
+     "id": "9f4c0612bea6",
+     "name": "L'Humanité",
+     "kind": "media",
+     "title": "Budget 2027 : le RN et les macronistes (encore) d’accord pour alléger les impôts des entreprises",
+     "url": "https://www.humanite.fr/politique/budget/budget-2027-le-rn-et-les-macronistes-encore-daccord-pour-alleger-les-impots-des-entreprises",
+     "published_at": "2026-11-02T18:58:38+00:00",
+     "snippet": "Lors des débats budgétaires, le camp présidentiel et l’extrême droite ont défendu la suppression de la cotisation sur la valeur ajoutée des entreprises. Une proximité qui prolonge leurs votes communs contre la taxation des plus fortunés."
+    }
+   ]
+  },
   {
    "headline": "Villepin sera « bien candidat » mais demande de la « patience » : ce qu'il a dit sur France Inter, et pourquoi il refuse toute alliance",
    "chapo": "Invité de France Inter, Dominique de Villepin dit n'avoir « pas de doutes » sur sa candidature à la présidentielle, mais juge que ce n'est « pas le moment » de l'annoncer. Il exclut toute alliance avec le bloc central comme avec Jean-Luc Mélenchon.",
@@ -71,7 +180,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 10.64,
    "sources": [
     {
      "id": "0cf0715e92ad",
@@ -108,115 +217,6 @@
      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-soyez-patients-dominique-de-villepin-confirme-son-intention-de-candidater-03-11-2026-XYE6ZJ64QFFYXC65PMEK4U3M5E.php",
      "published_at": "2026-11-03T11:19:27+00:00",
      "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Budget 2027 : l'Assemblée va probablement rejeter le texte, et ensuite ? 49.3, ordonnances ou loi spéciale",
-   "chapo": "Sans majorité, les députés votent des amendements dont ils savent qu'ils seront probablement balayés. La partie « recettes » devrait être rejetée, puis le texte du gouvernement partirait au Sénat.",
-   "points": [
-    {
-     "text": "Où en est-on : les députés examinent la partie « recettes » depuis le 13 octobre, il restait 1 450 amendements à examiner lundi, et le vote solennel prévu mardi n'aura pas lieu, selon LCP. Le rejet de cette partie est « plus que vraisemblable », selon LCP : le texte ne conviendrait « vraiment à personne ». Les députés ont jusqu'au 17 novembre à minuit pour se prononcer en première lecture, selon LCP.",
-     "sources": [
-      "1336804cd586"
-     ]
-    },
-    {
-     "text": "Si la partie « recettes » est rejetée, la partie « dépenses » n'est pas examinée, le texte part au Sénat et c'est la version initiale du gouvernement que les sénateurs examinent, selon LCP. Le budget de la Sécurité sociale a déjà suivi ce chemin : rejeté en première lecture par l'Assemblée, il est examiné au Sénat cette semaine, avec un déficit à ramener de 21,8 à 12,7 milliards d'euros en 2027, selon Le Figaro.",
-     "sources": [
-      "1336804cd586",
-      "72cc7fef130b"
-     ]
-    },
-    {
-     "text": "L'ambiance dans l'Hémicycle : les députés reconnaissent qu'ils « n'ont plus la main ». « On sait que tout sera balayé par le gouvernement », dit le député RN Matthias Renault. Une députée de La Réunion demande au ministre des comptes publics, David Amiel, de garder son amendement adopté « dans le texte final », selon Le Monde.",
-     "sources": [
-      "160954682b06"
-     ]
-    },
-    {
-     "text": "Trois issues possibles, selon Le Monde : Sébastien Lecornu garde les amendements qui lui conviennent et passe par l'article 49.3 ; il promulgue le texte initial par ordonnance ; ou il n'y a pas de budget mais une « loi spéciale » pendant des mois, peut-être jusqu'à la présidentielle. Pour les ordonnances, l'échéance des 70 jours tombe le 17 décembre à minuit, selon LCP.",
-     "sources": [
-      "160954682b06",
-      "1336804cd586"
-     ]
-    },
-    {
-     "text": "Le rapporteur général du budget, Philippe Juvin (LR), prévoit sur franceinfo que « le budget sera refusé par le Parlement » et dit qu'il faudra « passer par un 49.3 », comme il le dit « depuis le mois d'août ». Il plaide pour une baisse des dépenses d'environ 10 %, une proposition qui ne trouve « pas beaucoup d'écho » chez les parlementaires, selon franceinfo.",
-     "sources": [
-      "4bcf7a82687b"
-     ]
-    },
-    {
-     "text": "Le point de vue de L'Humanité : le RN (Jean-Philippe Tanguy) et le camp présidentiel (Paul Midy) ont chacun défendu lundi la suppression immédiate de la CVAE, un impôt de production, soit quatre milliards d'euros de recettes en moins. Le journal y voit une proximité qui prolonge leurs votes communs contre la taxation des plus fortunés.",
-     "sources": [
-      "9f4c0612bea6"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2025-07/Assembl%C3%A9e%20nationale%20ext%C3%A9rieur.jpg?h=b2774bcf&itok=qHEVVhzz",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats",
-    "article_id": "1336804cd586"
-   },
-   "id": 249,
-   "section": "institutions",
-   "reviewed_at": "2026-11-03T13:56:07+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.0,
-   "sources": [
-    {
-     "id": "1336804cd586",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Budget 2027: calendrier, procédure, pistes d'atterrissage... Où en est-on des débats budgétaires à l'Assemblée?",
-     "url": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats",
-     "published_at": "2026-11-02T17:13:39+00:00",
-     "snippet": "Par Raphaël Marchal Ludovic FAU, le Lundi 2 novembre 2026 à 07:00 Les députés vont poursuivre, ce lundi 2 novembre, l'examen du projet de budget de l'État pour 2027, sans perspective de compromis alors que le gouvernement n'a pas de majorité à l'Assemblée nationale. Où en est-on des débats budgétaires ? Que prévoit la procédure législative en la matière ? Quels sont les moyens dont dispose l'exécutif pour doter la France d'un budget ? LCP fait le point. Après une parenthèse due à l'examen du projet de financement de la Sécurité sociale (PLFSS), les députés ont repris mardi dernier l'examen du "
-    },
-    {
-     "id": "160954682b06",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
-     "url": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
-     "published_at": "2026-11-03T04:00:19+00:00",
-     "snippet": "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse."
-    },
-    {
-     "id": "4bcf7a82687b",
-     "name": "franceinfo",
-     "kind": "media",
-     "title": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
-     "url": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-%5Bgeneral%5D",
-     "published_at": "2026-11-01T09:34:04+00:00",
-     "snippet": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027."
-    },
-    {
-     "id": "72cc7fef130b",
-     "name": "Le Figaro",
-     "kind": "media",
-     "title": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
-     "url": "https://www.lefigaro.fr/social/budget-comment-le-gouvernement-compte-reduire-de-plus-de-9-milliards-d-euros-le-deficit-de-la-securite-sociale-20261102",
-     "published_at": "2026-11-02T06:58:42+00:00",
-     "snippet": "DÉCRYPTAGE - Sébastien Lecornu prévoit de faire passer le déficit de 21,8 milliards à 12,7 milliards d’euros en 2027. Une piste ambitieuse, qui suppose des choix impopulaires."
-    },
-    {
-     "id": "9f4c0612bea6",
-     "name": "L'Humanité",
-     "kind": "media",
-     "title": "Budget 2027 : le RN et les macronistes (encore) d’accord pour alléger les impôts des entreprises",
-     "url": "https://www.humanite.fr/politique/budget/budget-2027-le-rn-et-les-macronistes-encore-daccord-pour-alleger-les-impots-des-entreprises",
-     "published_at": "2026-11-02T18:58:38+00:00",
-     "snippet": "Lors des débats budgétaires, le camp présidentiel et l’extrême droite ont défendu la suppression de la cotisation sur la valeur ajoutée des entreprises. Une proximité qui prolonge leurs votes communs contre la taxation des plus fortunés."
     }
    ]
   },
@@ -280,7 +280,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.58,
+   "score": 12.17,
    "sources": [
     {
      "id": "232ccb849111",
@@ -392,7 +392,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 13.58,
+   "score": 12.17,
    "sources": [
     {
      "id": "69b01d6989fa",
@@ -502,7 +502,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 7.98,
    "sources": [
     {
      "id": "0813c0e0c6af",
@@ -592,7 +592,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.11,
+   "score": 7.59,
    "sources": [
     {
      "id": "2b4b7d53dd74",
@@ -701,7 +701,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.49,
+   "score": 6.07,
    "sources": [
     {
      "id": "2957d03c9367",
@@ -802,7 +802,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.49,
+   "score": 6.07,
    "sources": [
     {
      "id": "05ef43df5d68",
@@ -904,7 +904,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.49,
+   "score": 6.07,
    "sources": [
     {
      "id": "030fc36d73c1",
@@ -1004,7 +1004,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.49,
+   "score": 6.07,
    "sources": [
     {
      "id": "2591b3a6aaa3",
@@ -1104,7 +1104,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.87,
+   "score": 4.55,
    "sources": [
     {
      "id": "2a323e8b686b",
@@ -1195,7 +1195,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.86,
+   "score": 4.55,
    "sources": [
     {
      "id": "26ad0db5d71e",
@@ -1285,7 +1285,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.86,
+   "score": 4.55,
    "sources": [
     {
      "id": "2c2f1cf0192a",
@@ -1379,7 +1379,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.86,
+   "score": 4.55,
    "sources": [
     {
      "id": "53d1eab42c1e",
