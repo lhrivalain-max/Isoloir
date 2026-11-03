@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T09:02:38+00:00",
+ "generated_at": "2026-11-03T11:25:30+00:00",
  "posts": [
   {
    "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
@@ -62,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.29,
+   "score": 6.88,
    "sources": [
     {
      "id": "05ef43df5d68",
@@ -99,6 +99,118 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
      "published_at": "2026-10-29T14:59:11+00:00",
      "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
+    }
+   ]
+  },
+  {
+   "headline": "Crise lycéenne : le gouvernement a déjà beaucoup annoncé, les blocages continuent. Où en est-on ?",
+   "chapo": "Plus d'un mois après le début du mouvement, le ministre de l'Éducation dit ne pas voir comment faire plus dans l'immédiat, alors que lycéens et étudiants bloquent de nouveau mardi et que la mobilisation interprofessionnelle du 5 novembre approche.",
+   "points": [
+    {
+     "text": "Ce que le gouvernement a annoncé : la fin de Parcoursup d'ici 2028, l'annulation de suppressions de postes d'enseignants, le plafonnement des classes de seconde à 28 élèves, selon Europe 1. S'y ajoutent 500 postes de personnels médico-sociaux cette année et 200 lycées prioritaires pour les travaux, selon La Dépêche du Midi.",
+     "sources": [
+      "964d57f679ca",
+      "d7cde046c368"
+     ]
+    },
+    {
+     "text": "Les consultations des lycéens : plus de 100 000 contributions venues de 3 000 lycées sur 3 700, selon le ministre cité par La Dépêche du Midi. Les préoccupations les plus citées : le remplacement des professeurs absents (31 %), les classes surchargées (28 %) et l'état des bâtiments (29,8 % au niveau national).",
+     "sources": [
+      "d7cde046c368"
+     ]
+    },
+    {
+     "text": "Le constat du ministre : lundi 2 novembre, Édouard Geffray juge le mouvement « assez résiduel » sur France Inter et rappelle que les blocus sont « illégaux ». Il alerte sur une « année scolaire en risque » pour des élèves qui n'ont pas eu cours depuis quatre ou cinq semaines, selon LCP. Mardi, il dit ne pas voir « comment, sur le plan immédiat, on pourrait faire plus », selon Europe 1.",
+     "sources": [
+      "fbcea7009ae0",
+      "964d57f679ca"
+     ]
+    },
+    {
+     "text": "Les chiffres divergent : lundi, le ministère comptait 41 établissements bloqués, l'Union syndicale lycéenne en recensait 150, selon franceinfo. Mardi à 9 h 30, le ministère en comptait quarante-huit sur 3 700, et 51 établissements du supérieur sur 184 perturbés à la mi-journée, selon Le Monde.",
+     "sources": [
+      "69b01d6989fa",
+      "d10c47456724"
+     ]
+    },
+    {
+     "text": "Le point de vue des organisations : la vice-présidente de l'Unef, Alice de Brito, parle de « miettes » et de propositions « à côté de la plaque » ; elle réclame « l'abrogation de la sélection à l'université avec la création de places », selon franceinfo. La présidente de la FAGE, Suzanne Nijdam, veut « répondre avec du concret », selon Le Monde.",
+     "sources": [
+      "69b01d6989fa",
+      "d10c47456724"
+     ]
+    },
+    {
+     "text": "La suite : Sébastien Lecornu doit recevoir de nouveau les représentants lycéens la semaine prochaine, avec l'objectif d'obtenir une décrue du mouvement sans donner le sentiment que chaque blocage arrache une concession, selon Europe 1. Jeudi 5 novembre, une mobilisation interprofessionnelle sur le pouvoir d'achat doit aussi réunir salariés, fonctionnaires, jeunes et retraités, selon franceinfo.",
+     "sources": [
+      "964d57f679ca",
+      "69b01d6989fa"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/11/02/21/075_pinto-governme261028_npbnu_1_6ae8f6678faea.jpg",
+    "source": "Europe 1",
+    "article_url": "https://www.europe1.fr/societe/crise-lyceenne-le-gouvernement-cherche-une-porte-de-sortie-sans-ceder-davantage-1203720?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+    "article_id": "964d57f679ca"
+   },
+   "id": 247,
+   "section": "institutions",
+   "reviewed_at": "2026-11-03T11:25:30+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 15.0,
+   "sources": [
+    {
+     "id": "69b01d6989fa",
+     "name": "franceinfo",
+     "kind": "media",
+     "title": "Mobilisation des lycéens : \"Le mouvement ne s'essouffle pas\", assure l'Unef pour qui \"la mobilisation a vocation à se massifier\"",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-mouvement-ne-s-essouffle-pas-assure-l-unef-pour-qui-la-mobilisation-a-vocation-a-se-massifier_8264819.html#xtor=RSS-3-%5Bgeneral%5D",
+     "published_at": "2026-11-02T21:26:26+00:00",
+     "snippet": "Sa vice-présidente assure que mardi va être \"une journée noire sur les universités et les lycées avec des mobilisations un peu partout sur le territoire\"."
+    },
+    {
+     "id": "964d57f679ca",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Crise lycéenne : le gouvernement cherche une porte de sortie sans céder davantage",
+     "url": "https://www.europe1.fr/societe/crise-lyceenne-le-gouvernement-cherche-une-porte-de-sortie-sans-ceder-davantage-1203720?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-11-03T05:28:00+00:00",
+     "snippet": "Malgré une série d'annonces, l'exécutif n'a pas obtenu la fin des blocages. Lycéens et étudiants sont de nouveau appelés à se mobiliser. À Matignon, on veut conjuguer fermeté et dialogue, alors que le ministre de l'Éducation reconnaît qu'il ne voit pas comment, dans l'immédiat, faire plus. Alors que le mouvement lycéen ne désemplit pas après plusieurs semaines de mobilisation, le gouvernement tente de résoudre un casse-tête : comment éteindre la crise lycéenne sans céder encore ? Quelques jours après avoir multiplié les annonces pour tenter de ramener les élèves en classe, l'exécutif n'a toujo"
+    },
+    {
+     "id": "d10c47456724",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
+     "url": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
+     "published_at": "2026-11-03T09:29:05+00:00",
+     "snippet": "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre."
+    },
+    {
+     "id": "d7cde046c368",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "EXCLUSIF. Mobilisation des lycéens : que veulent les élèves en Occitanie ? Le ministre de l'Éducation Édouard Geffray révèle leurs doléances et répond à La Dépêche du Midi",
+     "url": "https://www.ladepeche.fr/2026/11/03/exclusif-mobilisation-des-lyceens-que-veulent-les-eleves-en-occitanie-le-ministre-de-leducation-edouard-geffray-revele-leurs-doleances-et-repond-a-la-13632196.php",
+     "published_at": "2026-11-03T05:31:03+00:00",
+     "snippet": "Plus de 7 700 contributions en Occitanie, des lycées prioritaires et de premières mesures annoncées… Face à la colère des lycéens, le ministre de l'Éducation nationale, Édouard Geffray, détaille les réponses du..."
+    },
+    {
+     "id": "fbcea7009ae0",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Blocage de lycées: Édouard Geffray évoque un mouvement \"résiduel\", mais alerte sur une \"année scolaire en risque\" pour de nombreux lycéens",
+     "url": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee",
+     "published_at": "2026-11-02T17:13:39+00:00",
+     "snippet": "Par Raphaël Marchal , le Lundi 2 novembre 2026 à 09:21 \"À ce stade, on était sur quelques lycées perturbés, c'est assez résiduel\", a déclaré le ministre de l'Éducation nationale ce lundi matin, sur France inter, en cette journée de rentrée scolaire du 2 novembre. \"La priorité absolue, c'est que les élèves puissent aller en cours\", a martelé Édouard Geffray. En perte de vitesse, la mobilisation lycéenne ? En tout cas, en ce qui concerne les blocages d'établissements, selon les premières remontées dont le ministre de l'Éducation nationale a fait part ce lundi sur France inter. Après deux semaine"
     }
    ]
   },
@@ -161,7 +273,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.11,
+   "score": 8.59,
    "sources": [
     {
      "id": "2b4b7d53dd74",
@@ -270,7 +382,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.29,
+   "score": 6.88,
    "sources": [
     {
      "id": "2957d03c9367",
@@ -372,7 +484,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.29,
+   "score": 6.88,
    "sources": [
     {
      "id": "030fc36d73c1",
@@ -472,7 +584,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 7.29,
+   "score": 6.87,
    "sources": [
     {
      "id": "2591b3a6aaa3",
@@ -572,7 +684,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.16,
    "sources": [
     {
      "id": "2a323e8b686b",
@@ -663,7 +775,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.16,
    "sources": [
     {
      "id": "26ad0db5d71e",
@@ -753,7 +865,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.16,
    "sources": [
     {
      "id": "2c2f1cf0192a",
@@ -847,7 +959,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.47,
+   "score": 5.16,
    "sources": [
     {
      "id": "53d1eab42c1e",
