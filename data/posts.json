@@ -1,114 +1,6 @@
 {
- "generated_at": "2026-11-02T17:32:34+00:00",
+ "generated_at": "2026-11-03T09:02:38+00:00",
  "posts": [
-  {
-   "headline": "Raphaël Arnault (LFI) entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, sa conférence à Lyon annulée",
-   "chapo": "Le député LFI a été entendu mercredi en audition libre. Il n'est pas mis en examen. Une mairie lyonnaise a retiré la salle de sa conférence du 5 novembre, après une demande d'interdiction du RN ; ses avocats la maintiennent ailleurs.",
-   "points": [
-    {
-     "text": "Raphaël Arnault, cofondateur de la Jeune Garde (mouvement antifasciste aujourd'hui dissous), a été entendu mercredi en audition libre par la Sous-direction antiterroriste, selon une source proche du dossier citée par Le HuffPost. Son avocate, Me Chirinne Ardakani, ne confirme ni n'infirme et dénonce une « campagne politique et médiatique de diffamation ».",
-     "sources": [
-      "fd0dfb02ccef"
-     ]
-    },
-    {
-     "text": "Le contexte : Quentin Deranque, militant d'extrême droite radicale, est mort en février à Lyon après avoir été frappé au sol par plusieurs personnes encagoulées, à la suite d'une bagarre entre ultragauche et ultradroite. Quatorze personnes ont été mises en examen pour meurtre ou complicité, dont des proches de Raphaël Arnault, selon Libération.",
-     "sources": [
-      "42a6430ec5d5"
-     ]
-    },
-    {
-     "text": "La famille de Quentin Deranque avait demandé son audition pour « association de malfaiteurs », selon Libération. Sur X, son avocate parle d'une « cabale politique et médiatique coordonnée de diffamation (…) visant à criminaliser » l'élu.",
-     "sources": [
-      "42a6430ec5d5"
-     ]
-    },
-    {
-     "text": "Le RN : la députée Tiffany Joncour a demandé au préfet du Rhône d'interdire sa conférence du 5 novembre : « Plusieurs de ses proches sont mis en examen dans cette affaire. Quelle indécence ! », selon CNews.",
-     "sources": [
-      "2b4b7d53dd74"
-     ]
-    },
-    {
-     "text": "La mairie du 8e arrondissement de Lyon, dirigée par l'écologiste Olivier Berzane, a annulé la réservation de la salle pour des raisons de « sécurité », la conférence étant « programmée un jour de forte mobilisation sociale », selon Le Parisien. Une autre conférence prévue à Rouen le 22 octobre avait été annulée pour les mêmes raisons.",
-     "sources": [
-      "713bd2a18095"
-     ]
-    },
-    {
-     "text": "Les avocats de la députée LFI Anaïs Belouassa-Cherifi, qui devait intervenir aussi, affirment que « la conférence sera maintenue, dans un nouveau lieu » et rappellent que « la liberté de réunion est une liberté fondamentale à valeur constitutionnelle ». LFI accuse le maire de Lyon Grégory Doucet d'avoir menti, selon Le Progrès.",
-     "sources": [
-      "713bd2a18095",
-      "c5cdbcb03209"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://focus.huffingtonpost.fr/2026/10/29/0/0/3726/2095/0/0/60/0/f620700_upload-1-f0vuypbnaryk-afp-20261020-d3vk4mg-v1-highres-francepoliticsparliamentbudget.jpg",
-    "source": "Le HuffPost",
-    "article_url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
-    "article_id": "fd0dfb02ccef"
-   },
-   "id": 231,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:32:25+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 15.0,
-   "sources": [
-    {
-     "id": "2b4b7d53dd74",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : la députée RN Tiffany Joncour réclame l'interdiction d'une conférence de Raphaël Arnault à Lyon",
-     "url": "https://www.cnews.fr/france/2026-10-28/mort-de-quentin-deranque-la-deputee-rn-tiffany-joncour-reclame-linterdiction-dune",
-     "published_at": "2026-10-28T22:15:02+00:00",
-     "snippet": "Alors que Raphaël Arnault doit tenir une conférence à Lyon pour la promotion de son livre, la députée RN du Rhône, Tiffany Joncour, a appelé à l'interdiction de l'événement, rappelant que l'Insoumis est le cofondateur de la Jeune Garde, dont deux membres sont mis en examen dans la mort de Quentin Deranque. Une conférence qui ne passe pas. La députée RN Tiffany Joncour a annoncé avoir demandé au préfet du Rhône d'interdire une conférence du député insoumis Raphaël Arnault prévue à Lyon le 5 novembre dans un local municipal. Pour rappel, Raphaël Arnault, cofondateur du mouvement antifasciste la "
-    },
-    {
-     "id": "42a6430ec5d5",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : le député LFI Raphaël Arnault auditionné par la Sous-direction antiterroriste",
-     "url": "https://www.liberation.fr/societe/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-auditionne-par-la-sous-direction-antiterroriste-20261029_RZ6DC6RDEFCAJDLPVLNZQIYC5Y/",
-     "published_at": "2026-10-29T10:11:23+00:00",
-     "snippet": "Le fondateur de la Jeune Garde - depuis dissoute - est dans la tourmente depuis février et la mort du militant d’extrême droite, frappé au sol par des antifascistes."
-    },
-    {
-     "id": "713bd2a18095",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Lyon : une mairie d’arrondissement annule une conférence du député LFI Raphaël Arnault pour des raisons de « sécurité »",
-     "url": "https://www.leparisien.fr/politique/lyon-une-mairie-darrondissement-annule-une-conference-du-depute-lfi-raphael-arnault-pour-des-raisons-de-securite-29-10-2026-HN5WVKPNVZDANKWMJNW5MZXRJ4.php",
-     "published_at": "2026-10-30T09:15:04+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c5cdbcb03209",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Lyon. La conférence du député Raphaël Arnault annulée, LFI accuse Grégory Doucet d’avoir menti",
-     "url": "https://www.leprogres.fr/politique/2026/10/29/la-conference-du-depute-raphael-arnault-annulee-lfi-accuse-gregory-doucet-d-avoir-menti",
-     "published_at": "2026-10-29T17:15:00+00:00",
-     "snippet": "Prévue le 5 novembre à Lyon, dans un contexte sécuritaire tendu, la conférence du député LFI ne pourra pas se tenir dans la salle municipale initialement prévue, sur décision du maire écologiste du 8e arrondissement."
-    },
-    {
-     "id": "fd0dfb02ccef",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : Le député LFI Raphaël Arnault a été auditionné par la police antiterroriste",
-     "url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
-     "published_at": "2026-10-29T13:56:39+00:00",
-     "snippet": "L’élu du Vaucluse a été interrogé par la Sous-direction antiterroriste (Sdat) sur la mort du militant d’extrême droite Quentin Deranque, survenue en février à Lyon."
-    }
-   ]
-  },
   {
    "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
    "chapo": "Le 29 octobre, le candidat Horizons a été entendu toute la journée par deux juges d'instruction financiers. Ce statut est moins lourd qu'une mise en examen et n'est pas une condamnation ; la plaignante et son avocat disent vouloir que l'instruction continue.",
@@ -170,7 +62,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 7.29,
    "sources": [
     {
      "id": "05ef43df5d68",
@@ -207,6 +99,114 @@
      "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
      "published_at": "2026-10-29T14:59:11+00:00",
      "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
+    }
+   ]
+  },
+  {
+   "headline": "Raphaël Arnault (LFI) entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, sa conférence à Lyon annulée",
+   "chapo": "Le député LFI a été entendu mercredi en audition libre. Il n'est pas mis en examen. Une mairie lyonnaise a retiré la salle de sa conférence du 5 novembre, après une demande d'interdiction du RN ; ses avocats la maintiennent ailleurs.",
+   "points": [
+    {
+     "text": "Raphaël Arnault, cofondateur de la Jeune Garde (mouvement antifasciste aujourd'hui dissous), a été entendu mercredi en audition libre par la Sous-direction antiterroriste, selon une source proche du dossier citée par Le HuffPost. Son avocate, Me Chirinne Ardakani, ne confirme ni n'infirme et dénonce une « campagne politique et médiatique de diffamation ».",
+     "sources": [
+      "fd0dfb02ccef"
+     ]
+    },
+    {
+     "text": "Le contexte : Quentin Deranque, militant d'extrême droite radicale, est mort en février à Lyon après avoir été frappé au sol par plusieurs personnes encagoulées, à la suite d'une bagarre entre ultragauche et ultradroite. Quatorze personnes ont été mises en examen pour meurtre ou complicité, dont des proches de Raphaël Arnault, selon Libération.",
+     "sources": [
+      "42a6430ec5d5"
+     ]
+    },
+    {
+     "text": "La famille de Quentin Deranque avait demandé son audition pour « association de malfaiteurs », selon Libération. Sur X, son avocate parle d'une « cabale politique et médiatique coordonnée de diffamation (…) visant à criminaliser » l'élu.",
+     "sources": [
+      "42a6430ec5d5"
+     ]
+    },
+    {
+     "text": "Le RN : la députée Tiffany Joncour a demandé au préfet du Rhône d'interdire sa conférence du 5 novembre : « Plusieurs de ses proches sont mis en examen dans cette affaire. Quelle indécence ! », selon CNews.",
+     "sources": [
+      "2b4b7d53dd74"
+     ]
+    },
+    {
+     "text": "La mairie du 8e arrondissement de Lyon, dirigée par l'écologiste Olivier Berzane, a annulé la réservation de la salle pour des raisons de « sécurité », la conférence étant « programmée un jour de forte mobilisation sociale », selon Le Parisien. Une autre conférence prévue à Rouen le 22 octobre avait été annulée pour les mêmes raisons.",
+     "sources": [
+      "713bd2a18095"
+     ]
+    },
+    {
+     "text": "Les avocats de la députée LFI Anaïs Belouassa-Cherifi, qui devait intervenir aussi, affirment que « la conférence sera maintenue, dans un nouveau lieu » et rappellent que « la liberté de réunion est une liberté fondamentale à valeur constitutionnelle ». LFI accuse le maire de Lyon Grégory Doucet d'avoir menti, selon Le Progrès.",
+     "sources": [
+      "713bd2a18095",
+      "c5cdbcb03209"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://focus.huffingtonpost.fr/2026/10/29/0/0/3726/2095/0/0/60/0/f620700_upload-1-f0vuypbnaryk-afp-20261020-d3vk4mg-v1-highres-francepoliticsparliamentbudget.jpg",
+    "source": "Le HuffPost",
+    "article_url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
+    "article_id": "fd0dfb02ccef"
+   },
+   "id": 231,
+   "section": "institutions",
+   "reviewed_at": "2026-11-02T17:32:25+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 9.11,
+   "sources": [
+    {
+     "id": "2b4b7d53dd74",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Mort de Quentin Deranque : la députée RN Tiffany Joncour réclame l'interdiction d'une conférence de Raphaël Arnault à Lyon",
+     "url": "https://www.cnews.fr/france/2026-10-28/mort-de-quentin-deranque-la-deputee-rn-tiffany-joncour-reclame-linterdiction-dune",
+     "published_at": "2026-10-28T22:15:02+00:00",
+     "snippet": "Alors que Raphaël Arnault doit tenir une conférence à Lyon pour la promotion de son livre, la députée RN du Rhône, Tiffany Joncour, a appelé à l'interdiction de l'événement, rappelant que l'Insoumis est le cofondateur de la Jeune Garde, dont deux membres sont mis en examen dans la mort de Quentin Deranque. Une conférence qui ne passe pas. La députée RN Tiffany Joncour a annoncé avoir demandé au préfet du Rhône d'interdire une conférence du député insoumis Raphaël Arnault prévue à Lyon le 5 novembre dans un local municipal. Pour rappel, Raphaël Arnault, cofondateur du mouvement antifasciste la "
+    },
+    {
+     "id": "42a6430ec5d5",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Mort de Quentin Deranque : le député LFI Raphaël Arnault auditionné par la Sous-direction antiterroriste",
+     "url": "https://www.liberation.fr/societe/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-auditionne-par-la-sous-direction-antiterroriste-20261029_RZ6DC6RDEFCAJDLPVLNZQIYC5Y/",
+     "published_at": "2026-10-29T10:11:23+00:00",
+     "snippet": "Le fondateur de la Jeune Garde - depuis dissoute - est dans la tourmente depuis février et la mort du militant d’extrême droite, frappé au sol par des antifascistes."
+    },
+    {
+     "id": "713bd2a18095",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Lyon : une mairie d’arrondissement annule une conférence du député LFI Raphaël Arnault pour des raisons de « sécurité »",
+     "url": "https://www.leparisien.fr/politique/lyon-une-mairie-darrondissement-annule-une-conference-du-depute-lfi-raphael-arnault-pour-des-raisons-de-securite-29-10-2026-HN5WVKPNVZDANKWMJNW5MZXRJ4.php",
+     "published_at": "2026-10-30T09:15:04+00:00",
+     "snippet": ""
+    },
+    {
+     "id": "c5cdbcb03209",
+     "name": "Le Progrès",
+     "kind": "media",
+     "title": "Lyon. La conférence du député Raphaël Arnault annulée, LFI accuse Grégory Doucet d’avoir menti",
+     "url": "https://www.leprogres.fr/politique/2026/10/29/la-conference-du-depute-raphael-arnault-annulee-lfi-accuse-gregory-doucet-d-avoir-menti",
+     "published_at": "2026-10-29T17:15:00+00:00",
+     "snippet": "Prévue le 5 novembre à Lyon, dans un contexte sécuritaire tendu, la conférence du député LFI ne pourra pas se tenir dans la salle municipale initialement prévue, sur décision du maire écologiste du 8e arrondissement."
+    },
+    {
+     "id": "fd0dfb02ccef",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Mort de Quentin Deranque : Le député LFI Raphaël Arnault a été auditionné par la police antiterroriste",
+     "url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
+     "published_at": "2026-10-29T13:56:39+00:00",
+     "snippet": "L’élu du Vaucluse a été interrogé par la Sous-direction antiterroriste (Sdat) sur la mort du militant d’extrême droite Quentin Deranque, survenue en février à Lyon."
     }
    ]
   },
@@ -270,7 +270,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 7.29,
    "sources": [
     {
      "id": "2957d03c9367",
@@ -372,7 +372,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 7.29,
    "sources": [
     {
      "id": "030fc36d73c1",
@@ -472,7 +472,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 12.0,
+   "score": 7.29,
    "sources": [
     {
      "id": "2591b3a6aaa3",
@@ -572,7 +572,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 5.47,
    "sources": [
     {
      "id": "2a323e8b686b",
@@ -663,7 +663,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 5.47,
    "sources": [
     {
      "id": "26ad0db5d71e",
@@ -753,7 +753,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 5.47,
    "sources": [
     {
      "id": "2c2f1cf0192a",
@@ -847,7 +847,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 9.0,
+   "score": 5.47,
    "sources": [
     {
      "id": "53d1eab42c1e",
