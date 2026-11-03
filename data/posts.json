@@ -1,6 +1,116 @@
 {
- "generated_at": "2026-11-03T13:55:55+00:00",
+ "generated_at": "2026-11-03T13:56:05+00:00",
  "posts": [
+  {
+   "headline": "Villepin sera « bien candidat » mais demande de la « patience » : ce qu'il a dit sur France Inter, et pourquoi il refuse toute alliance",
+   "chapo": "Invité de France Inter, Dominique de Villepin dit n'avoir « pas de doutes » sur sa candidature à la présidentielle, mais juge que ce n'est « pas le moment » de l'annoncer. Il exclut toute alliance avec le bloc central comme avec Jean-Luc Mélenchon.",
+   "points": [
+    {
+     "text": "Ce qu'il dit : « Je ne pense pas qu'au milieu d'une situation de colère générale dans notre pays, ajouter une candidature apporte quelque chose. Mais, je vous rassure, soyez patient. Il n'y en a pas (de doutes) en ce qui me concerne », selon France Inter et BFMTV. L'annonce officielle n'a pas encore été faite, rappelle CNews.",
+     "sources": [
+      "310d1c1748cd",
+      "0cf0715e92ad",
+      "1fe801a240a0"
+     ]
+    },
+    {
+     "text": "Les sondages : ils lui donnent 1 à 3 % des intentions de vote, selon France Inter. Une partie des politiques l'accuse de retarder sa candidature à cause de ce score, selon CNews. Lui répond : « C'est tout simplement parce que je ne suis pas encore candidat. Le jour où je serai candidat, les choses changeront », selon France Inter.",
+     "sources": [
+      "310d1c1748cd",
+      "1fe801a240a0"
+     ]
+    },
+    {
+     "text": "Sa ligne : « Aujourd'hui, nous avons deux extrêmes qui écrasent l'ensemble du débat. Quant aux autres candidats, ceux qui sont sur l'espace du bloc central ne cessent de descendre. Donc il faut bien des voix alternatives », selon BFMTV. Il met en avant « une certaine idée de la souveraineté, une certaine idée de la politique étrangère de la France, une certaine idée de la République » et « un État fort ».",
+     "sources": [
+      "0cf0715e92ad"
+     ]
+    },
+    {
+     "text": "Pas de primaire, pas d'alliance : il a refusé la « primaire des démocrates » proposée par Gabriel Attal, car « les grandes figures aujourd'hui du bloc central sont les héritiers du macronisme » et il n'a « aucun » lien avec elles, selon Le Parisien. CNews précise qu'Édouard Philippe refuse lui aussi cette primaire, qu'il juge source de « confusion » et de « division ».",
+     "sources": [
+      "60cf1b5bdce7",
+      "1fe801a240a0"
+     ]
+    },
+    {
+     "text": "Et Jean-Luc Mélenchon ? Malgré une popularité « désormais plus forte à gauche qu'à droite », selon BFMTV, il exclut tout rapprochement : « La politique que je veux mener n'a rien à voir avec celle de Jean-Luc Mélenchon. Elle est au contraire soucieuse de reconstruire une France qui soit faite d'équilibre et de mesure. »",
+     "sources": [
+      "0cf0715e92ad"
+     ]
+    },
+    {
+     "text": "La colère sociale : il dit souhaiter que « les cours reprennent » et que les semaines passées ne se fassent pas « au détriment de la scolarité de tous les élèves ». Il rappelle avoir proposé des « États généraux de la République » et « une plateforme anticrise », et voit dans l'élection un « malaise social extrêmement profond », avec « une addition des colères », selon France Inter.",
+     "sources": [
+      "310d1c1748cd"
+     ]
+    },
+    {
+     "text": "Son pari : « Entre ceux qui descendent et ceux qui n'ont pas commencé à monter (dans les sondages), on peut imaginer qu'il y a un certain espace », selon Le Parisien, qui note qu'il omet ainsi combien Marine Le Pen et Jean-Luc Mélenchon polarisent les intentions de vote du premier tour.",
+     "sources": [
+      "60cf1b5bdce7"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://www.radiofrance.fr/pikapi/images/05fe5e0c-97c6-4c8a-a52d-29ddd7cb1555/720x405?webp=false",
+    "source": "France Inter",
+    "article_url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-mardi-03-novembre-2026-9976645",
+    "article_id": "310d1c1748cd",
+    "focus_x": 0.5133333333333333,
+    "focus_y": 0.2563888888888889
+   },
+   "id": 252,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-03T13:56:05+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 12.0,
+   "sources": [
+    {
+     "id": "0cf0715e92ad",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Soyez patient\": Dominique de Villepin assure qu'il sera bien candidat à la présidentielle",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/soyez-patient-dominique-de-villepin-assure-qu-il-sera-bien-candidat-a-la-presidentielle_AD-202611030375.html",
+     "published_at": "2026-11-03T09:22:58+00:00",
+     "snippet": "L'ancien Premier ministre de Jacques Chirac temporise pour son annonce de candidature, tout en promettant qu'il finira par franchir le pas."
+    },
+    {
+     "id": "1fe801a240a0",
+     "name": "CNews",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Dominique de Villepin sera bien candidat, mais attend avant de l'annoncer officiellement",
+     "url": "https://www.cnews.fr/france/2026-11-03/presidentielle-2027-dominique-de-villepin-sera-bien-candidat-mais-attend-avant-de",
+     "published_at": "2026-11-03T09:31:51+00:00",
+     "snippet": "Tardant à se déclarer officiellement candidat à la présidentielle 2027 en raison du contexte social mouvementé, Dominique de Villepin a confirmé ce mardi 3 novembre se lancer dans la course à l'Élysée. «Soyez patient», a-t-il déclaré sur France Inter. L'annonce officielle de sa candidature n'a pas encore été faite, mais son implication dans la présidentielle 2027 ne fait plus aucun doute. Dominique de Villepin a assuré ce mardi 3 novembre se lancer dans la course à l'Élysée. Invité sur France Inter, il a expliqué retarder l'annonce officielle de sa candidature en raison du climat social mouvem"
+    },
+    {
+     "id": "310d1c1748cd",
+     "name": "France Inter",
+     "kind": "media",
+     "title": "Pour Dominique de Villepin, \"ce n'est pas le moment\" d'annoncer sa candidature à l'élection présidentielle",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-mardi-03-novembre-2026-9976645",
+     "published_at": "2026-11-03T07:22:10+00:00",
+     "snippet": "Dominique de Villepin, ancien Premier ministre et fondateur de la France humaniste, explique qu'il ne veut pas se déclarer candidat à la présidentielle \"au milieu d'une situation de colère générale\". Il assure tout de même ne pas avoir de doute sur sa candidature."
+    },
+    {
+     "id": "60cf1b5bdce7",
+     "name": "Le Parisien",
+     "kind": "media",
+     "title": "Présidentielle 2027 : « Soyez patients », Dominique de Villepin confirme son intention de candidater",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-soyez-patients-dominique-de-villepin-confirme-son-intention-de-candidater-03-11-2026-XYE6ZJ64QFFYXC65PMEK4U3M5E.php",
+     "published_at": "2026-11-03T11:19:27+00:00",
+     "snippet": ""
+    }
+   ]
+  },
   {
    "headline": "Nuñez devant la commission d'enquête sur le 17 octobre : ce qu'on lui demande, et ce qu'il a dit la veille sur les grenades",
    "chapo": "Le ministre de l'Intérieur est le premier auditionné par la commission d'enquête sur les violences du 17 octobre. La veille, il a refusé de renoncer aux grenades et au gaz lacrymogène devant la commission des lois.",
@@ -219,107 +329,6 @@
      "url": "https://lcp.fr/actualites/blocage-de-lycees-edouard-geffray-evoque-un-mouvement-residuel-mais-alerte-sur-une-annee",
      "published_at": "2026-11-02T17:13:39+00:00",
      "snippet": "Par Raphaël Marchal , le Lundi 2 novembre 2026 à 09:21 \"À ce stade, on était sur quelques lycées perturbés, c'est assez résiduel\", a déclaré le ministre de l'Éducation nationale ce lundi matin, sur France inter, en cette journée de rentrée scolaire du 2 novembre. \"La priorité absolue, c'est que les élèves puissent aller en cours\", a martelé Édouard Geffray. En perte de vitesse, la mobilisation lycéenne ? En tout cas, en ce qui concerne les blocages d'établissements, selon les premières remontées dont le ministre de l'Éducation nationale a fait part ce lundi sur France inter. Après deux semaine"
-    }
-   ]
-  },
-  {
-   "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
-   "chapo": "Le 29 octobre, le candidat Horizons a été entendu toute la journée par deux juges d'instruction financiers. Ce statut est moins lourd qu'une mise en examen et n'est pas une condamnation ; la plaignante et son avocat disent vouloir que l'instruction continue.",
-   "points": [
-    {
-     "text": "L'enquête, ouverte à Paris, porte notamment sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de la communauté urbaine du Havre, dont Édouard Philippe est le président, selon LCP. BFMTV précise qu'il conteste l'ensemble des faits qui lui sont reprochés.",
-     "sources": [
-      "0f34d00e4634",
-      "d9518d973f6a"
-     ]
-    },
-    {
-     "text": "Le statut de témoin assisté est « moins incriminant qu'une mise en examen ». Il « peut être modifié au cours de l'enquête si des éléments nouveaux apparaissent », mais « en l'état, la perspective de poursuites judiciaires s'éloigne », selon BFMTV.",
-     "sources": [
-      "d9518d973f6a"
-     ]
-    },
-    {
-     "text": "Son avocat, Emmanuel Marsigny : « Édouard Philippe se félicite de cette décision favorable qui confirme qu'il n'y a rien à lui reprocher dans cette affaire », selon Libération.",
-     "sources": [
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Le point de départ : des plaintes d'une ancienne directrice générale adjointe de la communauté urbaine, déposées en 2023 puis en juin 2025. Elle a obtenu le statut de lanceuse d'alerte en janvier 2025, « contesté par Édouard Philippe », selon Libération.",
-     "sources": [
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Les faits visés : une convention de juillet 2020 pour animer la Cité numérique du Havre, confiée à l'association LH French Tech, seule candidate, pour 2,154 millions d'euros de compensation de service public, selon BFMTV. La plainte demande aussi à la justice d'étudier « si un pacte a été conclu » entre Édouard Philippe et la présidente de l'association, selon Libération.",
-     "sources": [
-      "d9518d973f6a",
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Côté plaignante, son avocat Jérôme Karsenti : « Nous nous réjouissons que l'instruction suive son cours » malgré ce statut, car les faits « nous apparaissent graves », selon LCP. Anticor s'est aussi constituée partie civile, selon Le Monde.",
-     "sources": [
-      "0f34d00e4634",
-      "e2d03d24babf"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-03/Edouard%20Philippe_0.jpg?h=18d19069&itok=8FYgQ70T",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
-    "article_id": "0f34d00e4634"
-   },
-   "id": 227,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:32:28+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 6.49,
-   "sources": [
-    {
-     "id": "05ef43df5d68",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
-     "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
-     "published_at": "2026-10-29T20:48:58+00:00",
-     "snippet": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020."
-    },
-    {
-     "id": "0f34d00e4634",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Soupçons de détournement de fonds publics: Édouard Philippe placé sous le statut de témoin assisté, une \"décision favorable\" réagit son avocat",
-     "url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
-     "published_at": "2026-10-30T09:15:08+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:59 Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a été placé sous le statut de témoin assisté, jeudi 29 octobre, dans l'enquête ouverte à Paris, notamment pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d'agglomération du Havre, ville dont il est maire. Jeudi 29 octobre, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers, dans une enquête ouverte à Paris notamment pour détournement de fonds publics, favoritisme et harcèlement m"
-    },
-    {
-     "id": "d9518d973f6a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Soupçons de détournement de fonds publics au Havre: Édouard Philippe placé sous le statut de témoin assisté",
-     "url": "https://www.bfmtv.com/politique/horizons/soupcons-de-detournement-de-fonds-publics-au-havre-edouard-philippe-place-sous-le-statut-de-temoin-assiste_AD-202610300165.html",
-     "published_at": "2026-10-30T06:19:11+00:00",
-     "snippet": "Édouard Philippe, candidat Horizons à la présidentielle et maire du Havre, a été placé ce jeudi 29 octobre 2026 sous le statut de témoin assisté dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral au sein de sa ville."
-    },
-    {
-     "id": "e2d03d24babf",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Anticor se constitue partie civile dans l’enquête sur Edouard Philippe",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
-     "published_at": "2026-10-29T14:59:11+00:00",
-     "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
     }
    ]
   },
@@ -620,6 +629,107 @@
      "url": "https://www.liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4/",
      "published_at": "2026-10-30T07:33:47+00:00",
      "snippet": "Invité à commenter les chiffres de la croissance, le ministre de l’Economie a bien dû constater l’atonie de la production française, vendredi 30 octobre."
+    }
+   ]
+  },
+  {
+   "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
+   "chapo": "Le 29 octobre, le candidat Horizons a été entendu toute la journée par deux juges d'instruction financiers. Ce statut est moins lourd qu'une mise en examen et n'est pas une condamnation ; la plaignante et son avocat disent vouloir que l'instruction continue.",
+   "points": [
+    {
+     "text": "L'enquête, ouverte à Paris, porte notamment sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de la communauté urbaine du Havre, dont Édouard Philippe est le président, selon LCP. BFMTV précise qu'il conteste l'ensemble des faits qui lui sont reprochés.",
+     "sources": [
+      "0f34d00e4634",
+      "d9518d973f6a"
+     ]
+    },
+    {
+     "text": "Le statut de témoin assisté est « moins incriminant qu'une mise en examen ». Il « peut être modifié au cours de l'enquête si des éléments nouveaux apparaissent », mais « en l'état, la perspective de poursuites judiciaires s'éloigne », selon BFMTV.",
+     "sources": [
+      "d9518d973f6a"
+     ]
+    },
+    {
+     "text": "Son avocat, Emmanuel Marsigny : « Édouard Philippe se félicite de cette décision favorable qui confirme qu'il n'y a rien à lui reprocher dans cette affaire », selon Libération.",
+     "sources": [
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Le point de départ : des plaintes d'une ancienne directrice générale adjointe de la communauté urbaine, déposées en 2023 puis en juin 2025. Elle a obtenu le statut de lanceuse d'alerte en janvier 2025, « contesté par Édouard Philippe », selon Libération.",
+     "sources": [
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Les faits visés : une convention de juillet 2020 pour animer la Cité numérique du Havre, confiée à l'association LH French Tech, seule candidate, pour 2,154 millions d'euros de compensation de service public, selon BFMTV. La plainte demande aussi à la justice d'étudier « si un pacte a été conclu » entre Édouard Philippe et la présidente de l'association, selon Libération.",
+     "sources": [
+      "d9518d973f6a",
+      "05ef43df5d68"
+     ]
+    },
+    {
+     "text": "Côté plaignante, son avocat Jérôme Karsenti : « Nous nous réjouissons que l'instruction suive son cours » malgré ce statut, car les faits « nous apparaissent graves », selon LCP. Anticor s'est aussi constituée partie civile, selon Le Monde.",
+     "sources": [
+      "0f34d00e4634",
+      "e2d03d24babf"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 4,
+    "outlets": 4
+   },
+   "image": {
+    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-03/Edouard%20Philippe_0.jpg?h=18d19069&itok=8FYgQ70T",
+    "source": "LCP",
+    "article_url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
+    "article_id": "0f34d00e4634"
+   },
+   "id": 227,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-02T17:32:28+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.49,
+   "sources": [
+    {
+     "id": "05ef43df5d68",
+     "name": "Libération",
+     "kind": "media",
+     "title": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
+     "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
+     "published_at": "2026-10-29T20:48:58+00:00",
+     "snippet": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020."
+    },
+    {
+     "id": "0f34d00e4634",
+     "name": "LCP",
+     "kind": "media",
+     "title": "Soupçons de détournement de fonds publics: Édouard Philippe placé sous le statut de témoin assisté, une \"décision favorable\" réagit son avocat",
+     "url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
+     "published_at": "2026-10-30T09:15:08+00:00",
+     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:59 Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a été placé sous le statut de témoin assisté, jeudi 29 octobre, dans l'enquête ouverte à Paris, notamment pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d'agglomération du Havre, ville dont il est maire. Jeudi 29 octobre, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers, dans une enquête ouverte à Paris notamment pour détournement de fonds publics, favoritisme et harcèlement m"
+    },
+    {
+     "id": "d9518d973f6a",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "Soupçons de détournement de fonds publics au Havre: Édouard Philippe placé sous le statut de témoin assisté",
+     "url": "https://www.bfmtv.com/politique/horizons/soupcons-de-detournement-de-fonds-publics-au-havre-edouard-philippe-place-sous-le-statut-de-temoin-assiste_AD-202610300165.html",
+     "published_at": "2026-10-30T06:19:11+00:00",
+     "snippet": "Édouard Philippe, candidat Horizons à la présidentielle et maire du Havre, a été placé ce jeudi 29 octobre 2026 sous le statut de témoin assisté dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral au sein de sa ville."
+    },
+    {
+     "id": "e2d03d24babf",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Anticor se constitue partie civile dans l’enquête sur Edouard Philippe",
+     "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
+     "published_at": "2026-10-29T14:59:11+00:00",
+     "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
     }
    ]
   },
@@ -976,7 +1086,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.87,
+   "score": 4.86,
    "sources": [
     {
      "id": "26ad0db5d71e",
@@ -1066,7 +1176,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 4.87,
+   "score": 4.86,
    "sources": [
     {
      "id": "2c2f1cf0192a",
