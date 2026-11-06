@@ -1,115 +1,6 @@
 {
- "generated_at": "2026-11-06T09:10:50+00:00",
+ "generated_at": "2026-11-06T17:00:05+00:00",
  "posts": [
-  {
-   "headline": "Macron veut une « coalition » de David Lisnard à Raphaël Glucksmann pour éviter un second tour Le Pen–Mélenchon",
-   "chapo": "Selon un interlocuteur du chef de l'État cité par l'AFP, Emmanuel Macron « ne se résout pas à un duel LFI/RN ». Les intéressés, eux, ne semblent pas pressés de s'y rallier.",
-   "points": [
-    {
-     "text": "Ce que rapporte l'AFP, d'après un interlocuteur de l'Élysée : Emmanuel Macron estime que les forces politiques « de Lisnard à Glucksmann » doivent « travailler ensemble », dans une « logique de coalition », pour empêcher un second tour entre les extrêmes, selon BFMTV.",
-     "sources": [
-      "e6e23a35d0ba"
-     ]
-    },
-    {
-     "text": "Son raisonnement : « sur l'Europe, l'État de droit, l'économie de marché, le rejet des extrêmes, ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise ». Reste à trouver qui conduira cette coalition : il leur reviendra de trouver « un mode de départage », selon Europe 1.",
-     "sources": [
-      "1a821b03b87a"
-     ]
-    },
-    {
-     "text": "Le contexte, d'après Le Monde : à moins de six mois du premier tour, l'inquiétude gagne l'Élysée. Édouard Philippe a « dévissé » dans les derniers sondages au profit de Jean-Luc Mélenchon, et le camp présidentiel est menacé de ne pas figurer au second tour.",
-     "sources": [
-      "a77ecef32122"
-     ]
-    },
-    {
-     "text": "Pas de primaire, mais un programme commun : selon La Dépêche du Midi, qui s'appuie sur Le Figaro, Macron préférerait que les candidats travaillent d'abord à des compromis, qui serviraient de base à une candidature unique. Il laisserait à Philippe, Attal et Retailleau la liberté de ne pas défendre son bilan : « Il assume seul son bilan », dit son interlocuteur, selon BFMTV.",
-     "sources": [
-      "18822f896a99",
-      "e6e23a35d0ba"
-     ]
-    },
-    {
-     "text": "Les obstacles, selon Le HuffPost : Raphaël Glucksmann a déjà balayé l'idée le 2 novembre (« La droite et la gauche, ce n'est pas la même chose »), Édouard Philippe refuse tout processus de départage, qu'il juge être « une primaire de la division et de la confusion ». Le HuffPost rappelle aussi que Macron n'a lui-même jamais réussi à bâtir de telles coalitions.",
-     "sources": [
-      "fd9171b1778b"
-     ]
-    },
-    {
-     "text": "Sur l'écart entre les deux ailes, La Dépêche du Midi note que les divergences sont « considérables » sur les retraites, l'immigration ou la fiscalité. Europe 1 rappelle de son côté que le chef de l'État dit n'avoir pas vocation à s'immiscer dans la campagne.",
-     "sources": [
-      "18822f896a99",
-      "1a821b03b87a"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
-    "article_id": "e6e23a35d0ba"
-   },
-   "id": 255,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-05T12:12:36+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 8.01,
-   "sources": [
-    {
-     "id": "18822f896a99",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Emmanuel Macron échafaude un plan pour empêcher un second tour Le Pen-Mélenchon, avec une alliance allant de Raphaël Glucksmann à David Lisnard",
-     "url": "https://www.ladepeche.fr/2026/11/05/presidentielle-2027-emmanuel-macron-echafaude-un-plan-pour-empecher-un-second-tour-le-pen-melenchon-avec-une-alliance-allant-de-raphael-glucksmann-a-13637069.php",
-     "published_at": "2026-11-05T06:59:59+00:00",
-     "snippet": "À quelques mois de la présidentielle, Emmanuel Macron chercherait à favoriser une vaste coalition allant de la gauche modérée à la droite pour empêcher une victoire de Marine Le Pen ou de Jean-Luc Mélenchon."
-    },
-    {
-     "id": "1a821b03b87a",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Emmanuel Macron pour une «coalition» de David Lisnard à Raphaël Glucksmann avant la présidentielle",
-     "url": "https://www.europe1.fr/politique/emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle-1210223?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-11-05T09:53:54+00:00",
-     "snippet": "Face au risque d'un duel entre les extrêmes à la présidentielle, Emmanuel Macron appelle les forces politiques d'un arc allant de la droite modérée à la gauche sociale-démocrate à \"travailler ensemble\" dès aujourd'hui dans une \"logique de coalition\". Emmanuel Macron estime que l'ensemble des forces politiques de David Lisnard à Raphaël Glucksmann doivent se mettre à \"travailler ensemble\", dans une \"logique de coalition\", pour empêcher un second tour entre les extrêmes, a indiqué jeudi un interlocuteur du chef de l'Etat à l'AFP. \"Il ne se résoud pas à un duel LFI/RN et pense que sur l’Europe, l"
-    },
-    {
-     "id": "a77ecef32122",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
-     "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
-     "published_at": "2026-11-04T22:58:31+00:00",
-     "snippet": "Le chef de l’Etat estime que seule une coalition allant de Raphaël Glucksmann à David Lisnard permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle."
-    },
-    {
-     "id": "e6e23a35d0ba",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Il ne se résout pas à un duel LFI/RN\": Emmanuel Macron pour une \"coalition\" de David Lisnard à Raphaël Glucksmann avant la présidentielle",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
-     "published_at": "2026-11-05T10:41:13+00:00",
-     "snippet": "Le président pense que \"ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise\", d'après l'un de ses interlocuteurs."
-    },
-    {
-     "id": "fd9171b1778b",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Pour éviter un second tour Le Pen-Mélenchon en 2027, Macron propose une « coalition » au périmètre impossible",
-     "url": "https://www.huffingtonpost.fr/politique/article/pour-eviter-un-second-tour-le-pen-melenchon-en-2027-macron-propose-une-coalition-au-perimetre-impossible_352480.html",
-     "published_at": "2026-11-05T11:20:23+00:00",
-     "snippet": "Le chef de l’État jure qu’il ne veut pas s’immiscer dans la campagne mais distille malgré tout quelques idées. À la concrétisation très improbable."
-    }
-   ]
-  },
   {
    "headline": "Budget 2027 : l'Assemblée rejette la partie « recettes » par 458 voix contre zéro, le texte part au Sénat dans sa version initiale",
    "chapo": "Aucune voix pour, deux abstentions. Les amendements adoptés par les députés tombent. Le gouvernement n'a, à ce stade, pas de compromis en vue.",
@@ -178,7 +69,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 8.0,
+   "score": 6.82,
    "sources": [
     {
      "id": "09d0d7c35bdb",
@@ -224,6 +115,115 @@
      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
      "published_at": "2026-11-05T11:55:23+00:00",
      "snippet": "Par Maxence Kagni , le Jeudi 5 novembre 2026 à 12:47 Le projet de loi de finances pour l'année 2027 et le Budget de la Sécurité sociale ont été rejetés par l'Assemblée nationale. Calendrier, procédure, votes... LCP vous explique les prochaines étapes de l'automne budgétaire, qui va dans un premier temps se poursuivre au Sénat. Malgré son rejet unanime par l'Assemblée nationale ce mercredi, le projet de loi de finances 2027 continue son cheminement parlementaire, avec une question simple en toile de fond : la France aura-t-elle un Budget pour l'année 2027 ? LCP vous détaille les prochaines étap"
+    }
+   ]
+  },
+  {
+   "headline": "Macron veut une « coalition » de David Lisnard à Raphaël Glucksmann pour éviter un second tour Le Pen–Mélenchon",
+   "chapo": "Selon un interlocuteur du chef de l'État cité par l'AFP, Emmanuel Macron « ne se résout pas à un duel LFI/RN ». Les intéressés, eux, ne semblent pas pressés de s'y rallier.",
+   "points": [
+    {
+     "text": "Ce que rapporte l'AFP, d'après un interlocuteur de l'Élysée : Emmanuel Macron estime que les forces politiques « de Lisnard à Glucksmann » doivent « travailler ensemble », dans une « logique de coalition », pour empêcher un second tour entre les extrêmes, selon BFMTV.",
+     "sources": [
+      "e6e23a35d0ba"
+     ]
+    },
+    {
+     "text": "Son raisonnement : « sur l'Europe, l'État de droit, l'économie de marché, le rejet des extrêmes, ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise ». Reste à trouver qui conduira cette coalition : il leur reviendra de trouver « un mode de départage », selon Europe 1.",
+     "sources": [
+      "1a821b03b87a"
+     ]
+    },
+    {
+     "text": "Le contexte, d'après Le Monde : à moins de six mois du premier tour, l'inquiétude gagne l'Élysée. Édouard Philippe a « dévissé » dans les derniers sondages au profit de Jean-Luc Mélenchon, et le camp présidentiel est menacé de ne pas figurer au second tour.",
+     "sources": [
+      "a77ecef32122"
+     ]
+    },
+    {
+     "text": "Pas de primaire, mais un programme commun : selon La Dépêche du Midi, qui s'appuie sur Le Figaro, Macron préférerait que les candidats travaillent d'abord à des compromis, qui serviraient de base à une candidature unique. Il laisserait à Philippe, Attal et Retailleau la liberté de ne pas défendre son bilan : « Il assume seul son bilan », dit son interlocuteur, selon BFMTV.",
+     "sources": [
+      "18822f896a99",
+      "e6e23a35d0ba"
+     ]
+    },
+    {
+     "text": "Les obstacles, selon Le HuffPost : Raphaël Glucksmann a déjà balayé l'idée le 2 novembre (« La droite et la gauche, ce n'est pas la même chose »), Édouard Philippe refuse tout processus de départage, qu'il juge être « une primaire de la division et de la confusion ». Le HuffPost rappelle aussi que Macron n'a lui-même jamais réussi à bâtir de telles coalitions.",
+     "sources": [
+      "fd9171b1778b"
+     ]
+    },
+    {
+     "text": "Sur l'écart entre les deux ailes, La Dépêche du Midi note que les divergences sont « considérables » sur les retraites, l'immigration ou la fiscalité. Europe 1 rappelle de son côté que le chef de l'État dit n'avoir pas vocation à s'immiscer dans la campagne.",
+     "sources": [
+      "18822f896a99",
+      "1a821b03b87a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
+    "article_id": "e6e23a35d0ba"
+   },
+   "id": 255,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-05T12:12:36+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 6.82,
+   "sources": [
+    {
+     "id": "18822f896a99",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Emmanuel Macron échafaude un plan pour empêcher un second tour Le Pen-Mélenchon, avec une alliance allant de Raphaël Glucksmann à David Lisnard",
+     "url": "https://www.ladepeche.fr/2026/11/05/presidentielle-2027-emmanuel-macron-echafaude-un-plan-pour-empecher-un-second-tour-le-pen-melenchon-avec-une-alliance-allant-de-raphael-glucksmann-a-13637069.php",
+     "published_at": "2026-11-05T06:59:59+00:00",
+     "snippet": "À quelques mois de la présidentielle, Emmanuel Macron chercherait à favoriser une vaste coalition allant de la gauche modérée à la droite pour empêcher une victoire de Marine Le Pen ou de Jean-Luc Mélenchon."
+    },
+    {
+     "id": "1a821b03b87a",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Emmanuel Macron pour une «coalition» de David Lisnard à Raphaël Glucksmann avant la présidentielle",
+     "url": "https://www.europe1.fr/politique/emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle-1210223?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-11-05T09:53:54+00:00",
+     "snippet": "Face au risque d'un duel entre les extrêmes à la présidentielle, Emmanuel Macron appelle les forces politiques d'un arc allant de la droite modérée à la gauche sociale-démocrate à \"travailler ensemble\" dès aujourd'hui dans une \"logique de coalition\". Emmanuel Macron estime que l'ensemble des forces politiques de David Lisnard à Raphaël Glucksmann doivent se mettre à \"travailler ensemble\", dans une \"logique de coalition\", pour empêcher un second tour entre les extrêmes, a indiqué jeudi un interlocuteur du chef de l'Etat à l'AFP. \"Il ne se résoud pas à un duel LFI/RN et pense que sur l’Europe, l"
+    },
+    {
+     "id": "a77ecef32122",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
+     "published_at": "2026-11-04T22:58:31+00:00",
+     "snippet": "Le chef de l’Etat estime que seule une coalition allant de Raphaël Glucksmann à David Lisnard permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle."
+    },
+    {
+     "id": "e6e23a35d0ba",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Il ne se résout pas à un duel LFI/RN\": Emmanuel Macron pour une \"coalition\" de David Lisnard à Raphaël Glucksmann avant la présidentielle",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
+     "published_at": "2026-11-05T10:41:13+00:00",
+     "snippet": "Le président pense que \"ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise\", d'après l'un de ses interlocuteurs."
+    },
+    {
+     "id": "fd9171b1778b",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Pour éviter un second tour Le Pen-Mélenchon en 2027, Macron propose une « coalition » au périmètre impossible",
+     "url": "https://www.huffingtonpost.fr/politique/article/pour-eviter-un-second-tour-le-pen-melenchon-en-2027-macron-propose-une-coalition-au-perimetre-impossible_352480.html",
+     "published_at": "2026-11-05T11:20:23+00:00",
+     "snippet": "Le chef de l’État jure qu’il ne veut pas s’immiscer dans la campagne mais distille malgré tout quelques idées. À la concrétisation très improbable."
     }
    ]
   },
@@ -287,7 +287,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.4,
+   "score": 5.46,
    "sources": [
     {
      "id": "075ada595a36",
@@ -387,7 +387,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.95,
+   "score": 3.63,
    "sources": [
     {
      "id": "1336804cd586",
@@ -496,7 +496,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.84,
+   "score": 3.54,
    "sources": [
     {
      "id": "232ccb849111",
@@ -608,7 +608,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.84,
+   "score": 3.54,
    "sources": [
     {
      "id": "69b01d6989fa",
@@ -727,7 +727,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.16,
+   "score": 2.91,
    "sources": [
     {
      "id": "0cf0715e92ad",
@@ -828,7 +828,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.37,
+   "score": 2.18,
    "sources": [
     {
      "id": "0813c0e0c6af",
@@ -918,7 +918,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.22,
+   "score": 3.01,
    "sources": [
     {
      "id": "2b4b7d53dd74",
@@ -1027,7 +1027,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.58,
+   "score": 2.41,
    "sources": [
     {
      "id": "2957d03c9367",
@@ -1128,7 +1128,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.58,
+   "score": 2.41,
    "sources": [
     {
      "id": "05ef43df5d68",
@@ -1230,7 +1230,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.58,
+   "score": 2.41,
    "sources": [
     {
      "id": "030fc36d73c1",
@@ -1330,7 +1330,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.58,
+   "score": 2.41,
    "sources": [
     {
      "id": "2591b3a6aaa3",
@@ -1430,7 +1430,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.93,
+   "score": 1.81,
    "sources": [
     {
      "id": "2a323e8b686b",
@@ -1521,7 +1521,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.93,
+   "score": 1.81,
    "sources": [
     {
      "id": "26ad0db5d71e",
@@ -1611,7 +1611,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.93,
+   "score": 1.81,
    "sources": [
     {
      "id": "2c2f1cf0192a",
@@ -1705,7 +1705,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 1.93,
+   "score": 1.81,
    "sources": [
     {
      "id": "53d1eab42c1e",
