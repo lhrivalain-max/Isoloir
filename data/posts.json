@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-11-06T17:00:05+00:00",
+ "generated_at": "2026-11-07T09:15:31+00:00",
  "posts": [
+  {
+   "headline": "Macron veut une « coalition » de David Lisnard à Raphaël Glucksmann pour éviter un second tour Le Pen–Mélenchon",
+   "chapo": "Selon un interlocuteur du chef de l'État cité par l'AFP, Emmanuel Macron « ne se résout pas à un duel LFI/RN ». Les intéressés, eux, ne semblent pas pressés de s'y rallier.",
+   "points": [
+    {
+     "text": "Ce que rapporte l'AFP, d'après un interlocuteur de l'Élysée : Emmanuel Macron estime que les forces politiques « de Lisnard à Glucksmann » doivent « travailler ensemble », dans une « logique de coalition », pour empêcher un second tour entre les extrêmes, selon BFMTV.",
+     "sources": [
+      "e6e23a35d0ba"
+     ]
+    },
+    {
+     "text": "Son raisonnement : « sur l'Europe, l'État de droit, l'économie de marché, le rejet des extrêmes, ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise ». Reste à trouver qui conduira cette coalition : il leur reviendra de trouver « un mode de départage », selon Europe 1.",
+     "sources": [
+      "1a821b03b87a"
+     ]
+    },
+    {
+     "text": "Le contexte, d'après Le Monde : à moins de six mois du premier tour, l'inquiétude gagne l'Élysée. Édouard Philippe a « dévissé » dans les derniers sondages au profit de Jean-Luc Mélenchon, et le camp présidentiel est menacé de ne pas figurer au second tour.",
+     "sources": [
+      "a77ecef32122"
+     ]
+    },
+    {
+     "text": "Pas de primaire, mais un programme commun : selon La Dépêche du Midi, qui s'appuie sur Le Figaro, Macron préférerait que les candidats travaillent d'abord à des compromis, qui serviraient de base à une candidature unique. Il laisserait à Philippe, Attal et Retailleau la liberté de ne pas défendre son bilan : « Il assume seul son bilan », dit son interlocuteur, selon BFMTV.",
+     "sources": [
+      "18822f896a99",
+      "e6e23a35d0ba"
+     ]
+    },
+    {
+     "text": "Les obstacles, selon Le HuffPost : Raphaël Glucksmann a déjà balayé l'idée le 2 novembre (« La droite et la gauche, ce n'est pas la même chose »), Édouard Philippe refuse tout processus de départage, qu'il juge être « une primaire de la division et de la confusion ». Le HuffPost rappelle aussi que Macron n'a lui-même jamais réussi à bâtir de telles coalitions.",
+     "sources": [
+      "fd9171b1778b"
+     ]
+    },
+    {
+     "text": "Sur l'écart entre les deux ailes, La Dépêche du Midi note que les divergences sont « considérables » sur les retraites, l'immigration ou la fiscalité. Europe 1 rappelle de son côté que le chef de l'État dit n'avoir pas vocation à s'immiscer dans la campagne.",
+     "sources": [
+      "18822f896a99",
+      "1a821b03b87a"
+     ]
+    }
+   ],
+   "perspectives": [],
+   "coverage": {
+    "articles": 5,
+    "outlets": 5
+   },
+   "image": {
+    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg",
+    "source": "BFMTV",
+    "article_url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
+    "article_id": "e6e23a35d0ba"
+   },
+   "id": 255,
+   "section": "presidentielle",
+   "reviewed_at": "2026-11-05T12:12:36+00:00",
+   "ai_generated": true,
+   "human_reviewed": true,
+   "photo": null,
+   "score": 5.21,
+   "sources": [
+    {
+     "id": "18822f896a99",
+     "name": "La Dépêche du Midi",
+     "kind": "media",
+     "title": "Présidentielle 2027 : Emmanuel Macron échafaude un plan pour empêcher un second tour Le Pen-Mélenchon, avec une alliance allant de Raphaël Glucksmann à David Lisnard",
+     "url": "https://www.ladepeche.fr/2026/11/05/presidentielle-2027-emmanuel-macron-echafaude-un-plan-pour-empecher-un-second-tour-le-pen-melenchon-avec-une-alliance-allant-de-raphael-glucksmann-a-13637069.php",
+     "published_at": "2026-11-05T06:59:59+00:00",
+     "snippet": "À quelques mois de la présidentielle, Emmanuel Macron chercherait à favoriser une vaste coalition allant de la gauche modérée à la droite pour empêcher une victoire de Marine Le Pen ou de Jean-Luc Mélenchon."
+    },
+    {
+     "id": "1a821b03b87a",
+     "name": "Europe 1",
+     "kind": "media",
+     "title": "Emmanuel Macron pour une «coalition» de David Lisnard à Raphaël Glucksmann avant la présidentielle",
+     "url": "https://www.europe1.fr/politique/emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle-1210223?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
+     "published_at": "2026-11-05T09:53:54+00:00",
+     "snippet": "Face au risque d'un duel entre les extrêmes à la présidentielle, Emmanuel Macron appelle les forces politiques d'un arc allant de la droite modérée à la gauche sociale-démocrate à \"travailler ensemble\" dès aujourd'hui dans une \"logique de coalition\". Emmanuel Macron estime que l'ensemble des forces politiques de David Lisnard à Raphaël Glucksmann doivent se mettre à \"travailler ensemble\", dans une \"logique de coalition\", pour empêcher un second tour entre les extrêmes, a indiqué jeudi un interlocuteur du chef de l'Etat à l'AFP. \"Il ne se résoud pas à un duel LFI/RN et pense que sur l’Europe, l"
+    },
+    {
+     "id": "a77ecef32122",
+     "name": "Le Monde",
+     "kind": "media",
+     "title": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
+     "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
+     "published_at": "2026-11-04T22:58:31+00:00",
+     "snippet": "Le chef de l’Etat estime que seule une coalition allant de Raphaël Glucksmann à David Lisnard permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle."
+    },
+    {
+     "id": "e6e23a35d0ba",
+     "name": "BFMTV",
+     "kind": "media",
+     "title": "\"Il ne se résout pas à un duel LFI/RN\": Emmanuel Macron pour une \"coalition\" de David Lisnard à Raphaël Glucksmann avant la présidentielle",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
+     "published_at": "2026-11-05T10:41:13+00:00",
+     "snippet": "Le président pense que \"ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise\", d'après l'un de ses interlocuteurs."
+    },
+    {
+     "id": "fd9171b1778b",
+     "name": "Le HuffPost",
+     "kind": "media",
+     "title": "Pour éviter un second tour Le Pen-Mélenchon en 2027, Macron propose une « coalition » au périmètre impossible",
+     "url": "https://www.huffingtonpost.fr/politique/article/pour-eviter-un-second-tour-le-pen-melenchon-en-2027-macron-propose-une-coalition-au-perimetre-impossible_352480.html",
+     "published_at": "2026-11-05T11:20:23+00:00",
+     "snippet": "Le chef de l’État jure qu’il ne veut pas s’immiscer dans la campagne mais distille malgré tout quelques idées. À la concrétisation très improbable."
+    }
+   ]
+  },
   {
    "headline": "Budget 2027 : l'Assemblée rejette la partie « recettes » par 458 voix contre zéro, le texte part au Sénat dans sa version initiale",
    "chapo": "Aucune voix pour, deux abstentions. Les amendements adoptés par les députés tombent. Le gouvernement n'a, à ce stade, pas de compromis en vue.",
@@ -69,7 +178,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 6.82,
+   "score": 5.21,
    "sources": [
     {
      "id": "09d0d7c35bdb",
@@ -115,115 +224,6 @@
      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
      "published_at": "2026-11-05T11:55:23+00:00",
      "snippet": "Par Maxence Kagni , le Jeudi 5 novembre 2026 à 12:47 Le projet de loi de finances pour l'année 2027 et le Budget de la Sécurité sociale ont été rejetés par l'Assemblée nationale. Calendrier, procédure, votes... LCP vous explique les prochaines étapes de l'automne budgétaire, qui va dans un premier temps se poursuivre au Sénat. Malgré son rejet unanime par l'Assemblée nationale ce mercredi, le projet de loi de finances 2027 continue son cheminement parlementaire, avec une question simple en toile de fond : la France aura-t-elle un Budget pour l'année 2027 ? LCP vous détaille les prochaines étap"
-    }
-   ]
-  },
-  {
-   "headline": "Macron veut une « coalition » de David Lisnard à Raphaël Glucksmann pour éviter un second tour Le Pen–Mélenchon",
-   "chapo": "Selon un interlocuteur du chef de l'État cité par l'AFP, Emmanuel Macron « ne se résout pas à un duel LFI/RN ». Les intéressés, eux, ne semblent pas pressés de s'y rallier.",
-   "points": [
-    {
-     "text": "Ce que rapporte l'AFP, d'après un interlocuteur de l'Élysée : Emmanuel Macron estime que les forces politiques « de Lisnard à Glucksmann » doivent « travailler ensemble », dans une « logique de coalition », pour empêcher un second tour entre les extrêmes, selon BFMTV.",
-     "sources": [
-      "e6e23a35d0ba"
-     ]
-    },
-    {
-     "text": "Son raisonnement : « sur l'Europe, l'État de droit, l'économie de marché, le rejet des extrêmes, ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise ». Reste à trouver qui conduira cette coalition : il leur reviendra de trouver « un mode de départage », selon Europe 1.",
-     "sources": [
-      "1a821b03b87a"
-     ]
-    },
-    {
-     "text": "Le contexte, d'après Le Monde : à moins de six mois du premier tour, l'inquiétude gagne l'Élysée. Édouard Philippe a « dévissé » dans les derniers sondages au profit de Jean-Luc Mélenchon, et le camp présidentiel est menacé de ne pas figurer au second tour.",
-     "sources": [
-      "a77ecef32122"
-     ]
-    },
-    {
-     "text": "Pas de primaire, mais un programme commun : selon La Dépêche du Midi, qui s'appuie sur Le Figaro, Macron préférerait que les candidats travaillent d'abord à des compromis, qui serviraient de base à une candidature unique. Il laisserait à Philippe, Attal et Retailleau la liberté de ne pas défendre son bilan : « Il assume seul son bilan », dit son interlocuteur, selon BFMTV.",
-     "sources": [
-      "18822f896a99",
-      "e6e23a35d0ba"
-     ]
-    },
-    {
-     "text": "Les obstacles, selon Le HuffPost : Raphaël Glucksmann a déjà balayé l'idée le 2 novembre (« La droite et la gauche, ce n'est pas la même chose »), Édouard Philippe refuse tout processus de départage, qu'il juge être « une primaire de la division et de la confusion ». Le HuffPost rappelle aussi que Macron n'a lui-même jamais réussi à bâtir de telles coalitions.",
-     "sources": [
-      "fd9171b1778b"
-     ]
-    },
-    {
-     "text": "Sur l'écart entre les deux ailes, La Dépêche du Midi note que les divergences sont « considérables » sur les retraites, l'immigration ou la fiscalité. Europe 1 rappelle de son côté que le chef de l'État dit n'avoir pas vocation à s'immiscer dans la campagne.",
-     "sources": [
-      "18822f896a99",
-      "1a821b03b87a"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YXKSGX_4KcH1yW6zNF0nG0b0QQU=/0x39:768x471/800x0/images/Emmanuel-Macron-devant-l-assemblee-generale-des-Nations-unies-a-New-York-le-22-septembre-2026-2352729.jpg",
-    "source": "BFMTV",
-    "article_url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
-    "article_id": "e6e23a35d0ba"
-   },
-   "id": 255,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-05T12:12:36+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 6.82,
-   "sources": [
-    {
-     "id": "18822f896a99",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Emmanuel Macron échafaude un plan pour empêcher un second tour Le Pen-Mélenchon, avec une alliance allant de Raphaël Glucksmann à David Lisnard",
-     "url": "https://www.ladepeche.fr/2026/11/05/presidentielle-2027-emmanuel-macron-echafaude-un-plan-pour-empecher-un-second-tour-le-pen-melenchon-avec-une-alliance-allant-de-raphael-glucksmann-a-13637069.php",
-     "published_at": "2026-11-05T06:59:59+00:00",
-     "snippet": "À quelques mois de la présidentielle, Emmanuel Macron chercherait à favoriser une vaste coalition allant de la gauche modérée à la droite pour empêcher une victoire de Marine Le Pen ou de Jean-Luc Mélenchon."
-    },
-    {
-     "id": "1a821b03b87a",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Emmanuel Macron pour une «coalition» de David Lisnard à Raphaël Glucksmann avant la présidentielle",
-     "url": "https://www.europe1.fr/politique/emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle-1210223?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-11-05T09:53:54+00:00",
-     "snippet": "Face au risque d'un duel entre les extrêmes à la présidentielle, Emmanuel Macron appelle les forces politiques d'un arc allant de la droite modérée à la gauche sociale-démocrate à \"travailler ensemble\" dès aujourd'hui dans une \"logique de coalition\". Emmanuel Macron estime que l'ensemble des forces politiques de David Lisnard à Raphaël Glucksmann doivent se mettre à \"travailler ensemble\", dans une \"logique de coalition\", pour empêcher un second tour entre les extrêmes, a indiqué jeudi un interlocuteur du chef de l'Etat à l'AFP. \"Il ne se résoud pas à un duel LFI/RN et pense que sur l’Europe, l"
-    },
-    {
-     "id": "a77ecef32122",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
-     "url": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
-     "published_at": "2026-11-04T22:58:31+00:00",
-     "snippet": "Le chef de l’Etat estime que seule une coalition allant de Raphaël Glucksmann à David Lisnard permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle."
-    },
-    {
-     "id": "e6e23a35d0ba",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "\"Il ne se résout pas à un duel LFI/RN\": Emmanuel Macron pour une \"coalition\" de David Lisnard à Raphaël Glucksmann avant la présidentielle",
-     "url": "https://www.bfmtv.com/politique/elections/presidentielle/il-ne-se-resout-pas-a-un-duel-lfi-rn-emmanuel-macron-pour-une-coalition-de-david-lisnard-a-raphael-glucksmann-avant-la-presidentielle_AD-202611050388.html",
-     "published_at": "2026-11-05T10:41:13+00:00",
-     "snippet": "Le président pense que \"ce qui unit de Lisnard à Glucksmann est plus fort que ce qui divise\", d'après l'un de ses interlocuteurs."
-    },
-    {
-     "id": "fd9171b1778b",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Pour éviter un second tour Le Pen-Mélenchon en 2027, Macron propose une « coalition » au périmètre impossible",
-     "url": "https://www.huffingtonpost.fr/politique/article/pour-eviter-un-second-tour-le-pen-melenchon-en-2027-macron-propose-une-coalition-au-perimetre-impossible_352480.html",
-     "published_at": "2026-11-05T11:20:23+00:00",
-     "snippet": "Le chef de l’État jure qu’il ne veut pas s’immiscer dans la campagne mais distille malgré tout quelques idées. À la concrétisation très improbable."
     }
    ]
   },
@@ -287,7 +287,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 5.46,
+   "score": 4.17,
    "sources": [
     {
      "id": "075ada595a36",
@@ -387,7 +387,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.63,
+   "score": 3.12,
    "sources": [
     {
      "id": "1336804cd586",
@@ -496,7 +496,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.54,
+   "score": 3.06,
    "sources": [
     {
      "id": "232ccb849111",
@@ -608,7 +608,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 3.54,
+   "score": 3.06,
    "sources": [
     {
      "id": "69b01d6989fa",
@@ -727,7 +727,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.91,
+   "score": 2.5,
    "sources": [
     {
      "id": "0cf0715e92ad",
@@ -828,7 +828,7 @@
    "ai_generated": true,
    "human_reviewed": true,
    "photo": null,
-   "score": 2.18,
+   "score": 1.87,
    "sources": [
     {
      "id": "0813c0e0c6af",
@@ -856,883 +856,6 @@
      "url": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html",
      "published_at": "2026-11-03T08:54:25+00:00",
      "snippet": "Opposé depuis des mois à ce mode de départage, Edouard Philippe avait de nouveau écarté « une primaire de la division » et de la « confusion », quelques jours après la proposition lancée par son concurrent."
-    }
-   ]
-  },
-  {
-   "headline": "Raphaël Arnault (LFI) entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, sa conférence à Lyon annulée",
-   "chapo": "Le député LFI a été entendu mercredi en audition libre. Il n'est pas mis en examen. Une mairie lyonnaise a retiré la salle de sa conférence du 5 novembre, après une demande d'interdiction du RN ; ses avocats la maintiennent ailleurs.",
-   "points": [
-    {
-     "text": "Raphaël Arnault, cofondateur de la Jeune Garde (mouvement antifasciste aujourd'hui dissous), a été entendu mercredi en audition libre par la Sous-direction antiterroriste, selon une source proche du dossier citée par Le HuffPost. Son avocate, Me Chirinne Ardakani, ne confirme ni n'infirme et dénonce une « campagne politique et médiatique de diffamation ».",
-     "sources": [
-      "fd0dfb02ccef"
-     ]
-    },
-    {
-     "text": "Le contexte : Quentin Deranque, militant d'extrême droite radicale, est mort en février à Lyon après avoir été frappé au sol par plusieurs personnes encagoulées, à la suite d'une bagarre entre ultragauche et ultradroite. Quatorze personnes ont été mises en examen pour meurtre ou complicité, dont des proches de Raphaël Arnault, selon Libération.",
-     "sources": [
-      "42a6430ec5d5"
-     ]
-    },
-    {
-     "text": "La famille de Quentin Deranque avait demandé son audition pour « association de malfaiteurs », selon Libération. Sur X, son avocate parle d'une « cabale politique et médiatique coordonnée de diffamation (…) visant à criminaliser » l'élu.",
-     "sources": [
-      "42a6430ec5d5"
-     ]
-    },
-    {
-     "text": "Le RN : la députée Tiffany Joncour a demandé au préfet du Rhône d'interdire sa conférence du 5 novembre : « Plusieurs de ses proches sont mis en examen dans cette affaire. Quelle indécence ! », selon CNews.",
-     "sources": [
-      "2b4b7d53dd74"
-     ]
-    },
-    {
-     "text": "La mairie du 8e arrondissement de Lyon, dirigée par l'écologiste Olivier Berzane, a annulé la réservation de la salle pour des raisons de « sécurité », la conférence étant « programmée un jour de forte mobilisation sociale », selon Le Parisien. Une autre conférence prévue à Rouen le 22 octobre avait été annulée pour les mêmes raisons.",
-     "sources": [
-      "713bd2a18095"
-     ]
-    },
-    {
-     "text": "Les avocats de la députée LFI Anaïs Belouassa-Cherifi, qui devait intervenir aussi, affirment que « la conférence sera maintenue, dans un nouveau lieu » et rappellent que « la liberté de réunion est une liberté fondamentale à valeur constitutionnelle ». LFI accuse le maire de Lyon Grégory Doucet d'avoir menti, selon Le Progrès.",
-     "sources": [
-      "713bd2a18095",
-      "c5cdbcb03209"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 5,
-    "outlets": 5
-   },
-   "image": {
-    "url": "https://focus.huffingtonpost.fr/2026/10/29/0/0/3726/2095/0/0/60/0/f620700_upload-1-f0vuypbnaryk-afp-20261020-d3vk4mg-v1-highres-francepoliticsparliamentbudget.jpg",
-    "source": "Le HuffPost",
-    "article_url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
-    "article_id": "fd0dfb02ccef"
-   },
-   "id": 231,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:32:25+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 3.01,
-   "sources": [
-    {
-     "id": "2b4b7d53dd74",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : la députée RN Tiffany Joncour réclame l'interdiction d'une conférence de Raphaël Arnault à Lyon",
-     "url": "https://www.cnews.fr/france/2026-10-28/mort-de-quentin-deranque-la-deputee-rn-tiffany-joncour-reclame-linterdiction-dune",
-     "published_at": "2026-10-28T22:15:02+00:00",
-     "snippet": "Alors que Raphaël Arnault doit tenir une conférence à Lyon pour la promotion de son livre, la députée RN du Rhône, Tiffany Joncour, a appelé à l'interdiction de l'événement, rappelant que l'Insoumis est le cofondateur de la Jeune Garde, dont deux membres sont mis en examen dans la mort de Quentin Deranque. Une conférence qui ne passe pas. La députée RN Tiffany Joncour a annoncé avoir demandé au préfet du Rhône d'interdire une conférence du député insoumis Raphaël Arnault prévue à Lyon le 5 novembre dans un local municipal. Pour rappel, Raphaël Arnault, cofondateur du mouvement antifasciste la "
-    },
-    {
-     "id": "42a6430ec5d5",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : le député LFI Raphaël Arnault auditionné par la Sous-direction antiterroriste",
-     "url": "https://www.liberation.fr/societe/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-auditionne-par-la-sous-direction-antiterroriste-20261029_RZ6DC6RDEFCAJDLPVLNZQIYC5Y/",
-     "published_at": "2026-10-29T10:11:23+00:00",
-     "snippet": "Le fondateur de la Jeune Garde - depuis dissoute - est dans la tourmente depuis février et la mort du militant d’extrême droite, frappé au sol par des antifascistes."
-    },
-    {
-     "id": "713bd2a18095",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Lyon : une mairie d’arrondissement annule une conférence du député LFI Raphaël Arnault pour des raisons de « sécurité »",
-     "url": "https://www.leparisien.fr/politique/lyon-une-mairie-darrondissement-annule-une-conference-du-depute-lfi-raphael-arnault-pour-des-raisons-de-securite-29-10-2026-HN5WVKPNVZDANKWMJNW5MZXRJ4.php",
-     "published_at": "2026-10-30T09:15:04+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c5cdbcb03209",
-     "name": "Le Progrès",
-     "kind": "media",
-     "title": "Lyon. La conférence du député Raphaël Arnault annulée, LFI accuse Grégory Doucet d’avoir menti",
-     "url": "https://www.leprogres.fr/politique/2026/10/29/la-conference-du-depute-raphael-arnault-annulee-lfi-accuse-gregory-doucet-d-avoir-menti",
-     "published_at": "2026-10-29T17:15:00+00:00",
-     "snippet": "Prévue le 5 novembre à Lyon, dans un contexte sécuritaire tendu, la conférence du député LFI ne pourra pas se tenir dans la salle municipale initialement prévue, sur décision du maire écologiste du 8e arrondissement."
-    },
-    {
-     "id": "fd0dfb02ccef",
-     "name": "Le HuffPost",
-     "kind": "media",
-     "title": "Mort de Quentin Deranque : Le député LFI Raphaël Arnault a été auditionné par la police antiterroriste",
-     "url": "https://www.huffingtonpost.fr/politique/article/mort-de-quentin-deranque-le-depute-lfi-raphael-arnault-a-ete-auditionne-par-la-police-antiterroriste_347726.html",
-     "published_at": "2026-10-29T13:56:39+00:00",
-     "snippet": "L’élu du Vaucluse a été interrogé par la Sous-direction antiterroriste (Sdat) sur la mort du militant d’extrême droite Quentin Deranque, survenue en février à Lyon."
-    }
-   ]
-  },
-  {
-   "headline": "PIB : l'économie française recule de 0,1 % au troisième trimestre, ce que dit Roland Lescure",
-   "chapo": "L'Insee annonce le 30 octobre une baisse du produit intérieur brut, alors qu'une légère hausse était attendue. Le ministre de l'Économie juge l'économie « à l'arrêt » et lie la reprise au vote du budget 2027.",
-   "points": [
-    {
-     "text": "Le PIB, qui mesure la richesse produite en France, a reculé de 0,1 % au troisième trimestre, après un recul de 0,2 % au premier et une stagnation au deuxième, selon l'Insee cité par Libération. Le Monde parle d'une baisse « attendue en légère hausse ».",
-     "sources": [
-      "ed57906168c7",
-      "70b8437e7172"
-     ]
-    },
-    {
-     "text": "Pourquoi : les exportations se contractent de 1,7 %, surtout dans les matériels de transport (-9,1 %), notamment l'aéronautique. La consommation des ménages progresse de 0,4 %, mais l'investissement recule de 0,6 %, selon Libération.",
-     "sources": [
-      "ed57906168c7"
-     ]
-    },
-    {
-     "text": "Récession ? Une récession « technique » correspond à deux trimestres de baisse d'affilée. « Il suffirait d'une petite révision à la baisse du deuxième trimestre pour que ce soit le cas », dit l'économiste Mathieu Plane, selon Le Monde. Les comptes révisés seront publiés fin novembre.",
-     "sources": [
-      "70b8437e7172"
-     ]
-    },
-    {
-     "text": "Roland Lescure sur France Info : « en 2026, l'économie française est à l'arrêt ». Il évoque une « conjonction inédite » de chocs : la canicule de l'été et les tensions autour du détroit d'Ormuz qui font monter les carburants, selon Nice-Matin.",
-     "sources": [
-      "2957d03c9367"
-     ]
-    },
-    {
-     "text": "Son message sur le budget : « si on n'a pas le redressement budgétaire qu'on a mis dans le budget, on ira dans le mur », avec un objectif de déficit public à 5 % du PIB en 2027, contre 5,4 % en 2026, mais « la France ne va pas à la crise », selon LCP.",
-     "sources": [
-      "5450a1967705"
-     ]
-    },
-    {
-     "text": "Les limites : l'adoption du budget est incertaine faute de majorité à l'Assemblée, l'exécutif pouvant recourir au 49.3 ou aux ordonnances, selon LCP. Le Monde note que les coupes budgétaires risquent d'affecter le pouvoir d'achat et la consommation. Dans les articles lus, aucune réaction de l'opposition n'était citée.",
-     "sources": [
-      "2957d03c9367",
-      "70b8437e7172"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/30/596/0/7143/3571/644/322/60/0/0cd51f4_upload-1-cechbep3o8pw-000-b97a2we.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
-    "article_id": "70b8437e7172"
-   },
-   "id": 228,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:32:34+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.41,
-   "sources": [
-    {
-     "id": "2957d03c9367",
-     "name": "Nice-Matin",
-     "kind": "media",
-     "title": "« La France ira dans le mur » : le ministre de l’Économie tire le signal d’alarme pour redresser impérativement les comptes et pointe une croissance « à l’arrêt »",
-     "url": "https://www.nicematin.com/economie/la-france-ira-dans-le-mur-le-ministre-de-l-economie-tire-le-signal-d-alarme-pour-redresser-imperativement-les-comptes-et-pointe-une-croissance-a-l-arret-10749139",
-     "published_at": "2026-10-30T08:37:02+00:00",
-     "snippet": "L’économie française, à l’arrêt, ne pourra redémarrer que si le redressement prévu par le gouvernement dans le budget 2027 a lieu, a prévenu vendredi le ministre français de l’Économie et des Finances, Roland Lescure."
-    },
-    {
-     "id": "5450a1967705",
-     "name": "LCP",
-     "kind": "media",
-     "title": "\"L'économie française est à l'arrêt\" et \"ira dans le mur\" sans un \"redressement budgétaire\", alerte Roland Lescure",
-     "url": "https://lcp.fr/actualites/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-un-redressement-budgetaire",
-     "published_at": "2026-10-30T09:15:08+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:27 Le ministre de l'Economie et des Finances, Roland Lescure, a jugé ce vendredi 30 octobre que l'économie française était à l'arrêt et que son redémarrage dépendait de l'adoption d'un budget pour 2027. Le produit intérieur brut (PIB) de la France a reculé de 0,1 % au troisième trimestre. \"Ça fait trois trimestres que la croissance n'est pas au rendez-vous\", a déclaré le ministre de l'Economie et des Finances, Roland Lescure, ce vendredi 30 octobre sur France Info. Selon les données tout juste publiées par l'Insee, le produit inté"
-    },
-    {
-     "id": "70b8437e7172",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Recul surprise du PIB au troisième trimestre, l’économie française flirte avec la récession",
-     "url": "https://www.lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
-     "published_at": "2026-10-30T08:26:42+00:00",
-     "snippet": "Le produit intérieur brut de la France a reculé de 0,1 % au troisième trimestre, a annoncé vendredi l’Insee, après avoir stagné au deuxième trimestre et reculé de 0,2 % au premier. Pour le ministre de l’économie, Roland Lescure, « l’économie française est à l’arrêt » et « ira dans le mur » sans « le redressement budgétaire qu’on a mis dans le budget »."
-    },
-    {
-     "id": "ed57906168c7",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Le PIB en recul au troisième trimestre, «l’économie française est à l’arrêt» reconnait Roland Lescure",
-     "url": "https://www.liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4/",
-     "published_at": "2026-10-30T07:33:47+00:00",
-     "snippet": "Invité à commenter les chiffres de la croissance, le ministre de l’Economie a bien dû constater l’atonie de la production française, vendredi 30 octobre."
-    }
-   ]
-  },
-  {
-   "headline": "Édouard Philippe placé sous le statut de témoin assisté dans l'enquête sur la communauté urbaine du Havre : ce que cela signifie",
-   "chapo": "Le 29 octobre, le candidat Horizons a été entendu toute la journée par deux juges d'instruction financiers. Ce statut est moins lourd qu'une mise en examen et n'est pas une condamnation ; la plaignante et son avocat disent vouloir que l'instruction continue.",
-   "points": [
-    {
-     "text": "L'enquête, ouverte à Paris, porte notamment sur des soupçons de détournement de fonds publics, de favoritisme et de harcèlement moral au sein de la communauté urbaine du Havre, dont Édouard Philippe est le président, selon LCP. BFMTV précise qu'il conteste l'ensemble des faits qui lui sont reprochés.",
-     "sources": [
-      "0f34d00e4634",
-      "d9518d973f6a"
-     ]
-    },
-    {
-     "text": "Le statut de témoin assisté est « moins incriminant qu'une mise en examen ». Il « peut être modifié au cours de l'enquête si des éléments nouveaux apparaissent », mais « en l'état, la perspective de poursuites judiciaires s'éloigne », selon BFMTV.",
-     "sources": [
-      "d9518d973f6a"
-     ]
-    },
-    {
-     "text": "Son avocat, Emmanuel Marsigny : « Édouard Philippe se félicite de cette décision favorable qui confirme qu'il n'y a rien à lui reprocher dans cette affaire », selon Libération.",
-     "sources": [
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Le point de départ : des plaintes d'une ancienne directrice générale adjointe de la communauté urbaine, déposées en 2023 puis en juin 2025. Elle a obtenu le statut de lanceuse d'alerte en janvier 2025, « contesté par Édouard Philippe », selon Libération.",
-     "sources": [
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Les faits visés : une convention de juillet 2020 pour animer la Cité numérique du Havre, confiée à l'association LH French Tech, seule candidate, pour 2,154 millions d'euros de compensation de service public, selon BFMTV. La plainte demande aussi à la justice d'étudier « si un pacte a été conclu » entre Édouard Philippe et la présidente de l'association, selon Libération.",
-     "sources": [
-      "d9518d973f6a",
-      "05ef43df5d68"
-     ]
-    },
-    {
-     "text": "Côté plaignante, son avocat Jérôme Karsenti : « Nous nous réjouissons que l'instruction suive son cours » malgré ce statut, car les faits « nous apparaissent graves », selon LCP. Anticor s'est aussi constituée partie civile, selon Le Monde.",
-     "sources": [
-      "0f34d00e4634",
-      "e2d03d24babf"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://lcp.fr/sites/lcp.fr/files/styles/rss/public/2026-03/Edouard%20Philippe_0.jpg?h=18d19069&itok=8FYgQ70T",
-    "source": "LCP",
-    "article_url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
-    "article_id": "0f34d00e4634"
-   },
-   "id": 227,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:32:28+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.41,
-   "sources": [
-    {
-     "id": "05ef43df5d68",
-     "name": "Libération",
-     "kind": "media",
-     "title": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
-     "url": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
-     "published_at": "2026-10-29T20:48:58+00:00",
-     "snippet": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020."
-    },
-    {
-     "id": "0f34d00e4634",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Soupçons de détournement de fonds publics: Édouard Philippe placé sous le statut de témoin assisté, une \"décision favorable\" réagit son avocat",
-     "url": "https://lcp.fr/actualites/soupcons-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de",
-     "published_at": "2026-10-30T09:15:08+00:00",
-     "snippet": "Par Anne-Charlotte Dusseaulx , le Vendredi 30 octobre 2026 à 09:59 Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a été placé sous le statut de témoin assisté, jeudi 29 octobre, dans l'enquête ouverte à Paris, notamment pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté d'agglomération du Havre, ville dont il est maire. Jeudi 29 octobre, Édouard Philippe a été entendu toute la journée par deux juges d'instruction financiers, dans une enquête ouverte à Paris notamment pour détournement de fonds publics, favoritisme et harcèlement m"
-    },
-    {
-     "id": "d9518d973f6a",
-     "name": "BFMTV",
-     "kind": "media",
-     "title": "Soupçons de détournement de fonds publics au Havre: Édouard Philippe placé sous le statut de témoin assisté",
-     "url": "https://www.bfmtv.com/politique/horizons/soupcons-de-detournement-de-fonds-publics-au-havre-edouard-philippe-place-sous-le-statut-de-temoin-assiste_AD-202610300165.html",
-     "published_at": "2026-10-30T06:19:11+00:00",
-     "snippet": "Édouard Philippe, candidat Horizons à la présidentielle et maire du Havre, a été placé ce jeudi 29 octobre 2026 sous le statut de témoin assisté dans une enquête pour détournement de fonds publics, favoritisme et harcèlement moral au sein de sa ville."
-    },
-    {
-     "id": "e2d03d24babf",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Anticor se constitue partie civile dans l’enquête sur Edouard Philippe",
-     "url": "https://www.lemonde.fr/societe/article/2026/10/29/anticor-se-constitue-partie-civile-dans-l-enquete-sur-edouard-philippe_6802341_3224.html",
-     "published_at": "2026-10-29T14:59:11+00:00",
-     "snippet": "Comme l’a appris « Le Monde », l’association anticorruption a effectué cette démarche le 20 octobre, dans l’information judiciaire ouverte en mai par le PNF sur d’éventuels contournements des règles du marché public au Havre."
-    }
-   ]
-  },
-  {
-   "headline": "Mélenchon annule le « 20 heures » de TF1 après l'interview d'Édouard Philippe : ce qui s'est dit, et ce que répond TF1",
-   "chapo": "Dimanche soir, Édouard Philippe a maintenu sur TF1 ses propos sur les jeunes issus de l'immigration dans les violences du 17 octobre. Jean-Luc Mélenchon a dit qu'il n'irait pas au « 20 heures » ; TF1 répond que sa venue était déjà annulée ou reportée. Les deux candidats se sont affrontés sur X.",
-   "points": [
-    {
-     "text": "Le point de départ : dans Le Point, après les émeutes du 17 octobre, Édouard Philippe avait jugé « patente » « la surreprésentation de jeunes issus de l'immigration » dans les violences et pointé « l'échec de l'intégration » depuis « plusieurs décennies », selon Le Monde.",
-     "sources": [
-      "b0dd86f84d2d"
-     ]
-    },
-    {
-     "text": "Sur TF1, interrogé par Anne-Claire Coudray, il a maintenu : « il y avait de fait un certain nombre et un nombre important de jeunes Français, sans doute, que je considère comme des Français issus de l'immigration. Ce qui traduit un sujet qu'on doit regarder les yeux dans les yeux », selon Le Parisien.",
-     "sources": [
-      "54007d910d79"
-     ]
-    },
-    {
-     "text": "Réaction de Jean-Luc Mélenchon sur X : « Anne-Claire Coudray reprend à son compte les calomnies racistes d'Édouard Philippe. Lequel déroule son discours dégoûtant sans être interrompu. Lundi, je n'irai pas au « 20 heures » de cette chaîne », selon Le Monde. Selon La Dépêche, il reproche à la journaliste de ne pas avoir contesté les propos.",
-     "sources": [
-      "b0dd86f84d2d",
-      "030fc36d73c1"
-     ]
-    },
-    {
-     "text": "Réponse de TF1 : Anne-Claire Coudray « a mené son entretien avec professionnalisme et rigueur ». La chaîne affirme que la venue de Mélenchon « avait été annulée/reportée » en « fin de semaine » et que « ce n'est pas une décision prise à l'issue de l'interview » ; ni LFI ni TF1 n'avaient annoncé cette invitation, selon Le Parisien. Un proche de Mélenchon assure qu'une interview était bien prévue dans la semaine, avant le meeting du Bourget.",
-     "sources": [
-      "54007d910d79",
-      "b0dd86f84d2d"
-     ]
-    },
-    {
-     "text": "Philippe sur X : « Pour vous, les pilleurs, d'où qu'ils viennent, étrangers ou français, sont des modèles d'intégration et les casseurs d'extrême gauche des victimes de la police. » Il juge que Mélenchon porte, « avec Madame Le Pen, une responsabilité immense dans la violence qui se répand en France », selon La Dépêche.",
-     "sources": [
-      "030fc36d73c1",
-      "14bffb576b2b"
-     ]
-    },
-    {
-     "text": "Mélenchon : « Vous avez ruiné le pays, martyrisé les Gilets jaunes, détruit l'école, et maintenant vous divisez le pays en mettant en cause l'éducation des jeunes Français parce qu'ils sont issus de l'immigration (…) Vous le faites par clientélisme racialiste », selon La Dépêche. Le JDD titre sur leur échange : « Vous avez ruiné le pays », « responsabilité immense dans la violence ».",
-     "sources": [
-      "030fc36d73c1",
-      "14bffb576b2b"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/31/626/0/7513/3756/644/322/60/0/0b77794_ftp-1-hlhezchwcqn3-afp-d4zl89c.jpg",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html",
-    "article_id": "b0dd86f84d2d"
-   },
-   "id": 235,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:32:12+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.41,
-   "sources": [
-    {
-     "id": "030fc36d73c1",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Il \"déroule son discours dégoûtant sans être interrompu\" : Jean-Luc Mélenchon s'en prend à Édouard Philippe et claque la porte du 20 heures de TF1",
-     "url": "https://www.ladepeche.fr/2026/11/02/presidentielle-2027-il-deroule-son-discours-degoutant-sans-etre-interrompu-jean-luc-melenchon-sen-prend-a-edouard-philippe-et-claque-la-porte-du-20-13631817.php",
-     "published_at": "2026-11-02T10:09:59+00:00",
-     "snippet": "Jean-Luc Mélenchon a annoncé qu'il ne participerait pas au journal de 20 heures de TF1 ce lundi 2 novembre, après des propos d'Édouard Philippe sur les jeunes issus de l'immigration. Les deux hommes se sont ensuite..."
-    },
-    {
-     "id": "14bffb576b2b",
-     "name": "Le JDD",
-     "kind": "media",
-     "title": "«Vous avez ruiné le pays», «responsabilité immense dans la violence»... Mélenchon et Philippe s’écharpent sur l'état de la France",
-     "url": "https://www.lejdd.fr/politique/vous-avez-ruine-le-pays-responsabilite-immense-dans-la-violence-melenchon-et-philippe-secharpent-sur-letat-de-la-france-187569",
-     "published_at": "2026-11-02T09:47:07+00:00",
-     "snippet": "Les propos d'Édouard Philippe liant immigration et violences urbaines ont suscité la colère de Jean-Luc Mélenchon. Les deux candidats à l'élection présidentielle se sont rejetés mutuellement la responsabilité de la crise actuelle."
-    },
-    {
-     "id": "54007d910d79",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : TF 1 défend le « professionnalisme » d’Anne-Claire Coudray face aux critiques de Jean-Luc Mélenchon",
-     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-tf-1-defend-le-professionnalisme-danne-claire-coudray-face-aux-critiques-de-jean-luc-melenchon-02-11-2026-AZAP3HF6OJDIHAP35SULUQARDY.php",
-     "published_at": "2026-11-02T17:13:34+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "b0dd86f84d2d",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
-     "url": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html",
-     "published_at": "2026-11-02T09:53:30+00:00",
-     "snippet": "« Anne-Claire Coudray a mené son entretien avec professionnalisme et rigueur », a réagi TF1 lundi, affirmant, par ailleurs, que la venue de M. Mélenchon au « 20 heures » avait été annulée dès la fin de la semaine et qu’il ne pouvait ainsi s’agir d’une décision prise en réaction à l’interview de M. Philippe."
-    }
-   ]
-  },
-  {
-   "headline": "Taxe au gigaoctet : comment 11 députés ont voté une taxe sur Netflix et Google, et pourquoi elle a peu de chances de survivre",
-   "chapo": "Le 30 octobre, dans un hémicycle quasi vide, l'Assemblée a adopté par 11 voix contre 10 un amendement socialiste taxant les données transmises aux internautes français. La mesure, qui n'est pas définitive, a déclenché un tollé.",
-   "points": [
-    {
-     "text": "Le principe : un amendement du député socialiste Laurent Lhardit au budget 2027 crée une « taxe sur les producteurs de données numériques » de 5,5 centimes par gigaoctet transmis aux abonnés français. La taxe serait payée par l'entreprise qui émet les données, pas par les particuliers, selon Europe 1.",
-     "sources": [
-      "2591b3a6aaa3"
-     ]
-    },
-    {
-     "text": "Un exemple chiffré : transmettre 100 Go coûterait 5,50 euros à la plateforme ; la contribution serait plafonnée à 15 % du chiffre d'affaires en France ou 2 % du chiffre d'affaires total. Pour une minisérie de huit épisodes sur téléphone, environ 9 centimes d'euros, selon les calculs de Libération.",
-     "sources": [
-      "2591b3a6aaa3",
-      "26d6dc64d597"
-     ]
-    },
-    {
-     "text": "La cible : Netflix, Google, Meta, Amazon et Akamai, qui concentreraient environ la moitié des données reçues en France selon l'Arcep. L'auteur espère 10 milliards d'euros de recettes et invoque l'« équité fiscale », selon Libération.",
-     "sources": [
-      "26d6dc64d597"
-     ]
-    },
-    {
-     "text": "Le vote : 11 voix pour (socialistes, écologistes, GDR, LFI) contre 10 (droite et RN), sur 35 députés présents, contre l'avis du gouvernement et du rapporteur général. « Tout le monde a été étonné, moi le premier », reconnaît Laurent Lhardit, selon Le Parisien.",
-     "sources": [
-      "6bccdb578dd2",
-      "2591b3a6aaa3"
-     ]
-    },
-    {
-     "text": "Le tollé : Xavier Niel (Free) qualifie les députés d'« ignares incompétents » ; Éric Larchevêque craint que les plateformes répercutent la facture sur les abonnements. Laurent Lhardit répond que la taxe n'est « à aucun moment attribuée aux consommateurs », selon Libération.",
-     "sources": [
-      "26d6dc64d597"
-     ]
-    },
-    {
-     "text": "Éric Coquerel (LFI) dit s'être « trompé de bouton » : deux élus insoumis ont voté pour, et deux abstentions de plus auraient fait tomber l'amendement. Numerama rappelle qu'il avait cosigné un texte similaire en 2024, ce qui ne prouve pas que son vote de vendredi était volontaire.",
-     "sources": [
-      "469cc7368f65"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 4,
-    "outlets": 4
-   },
-   "image": {
-    "url": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/31/10/080_hl_xbouzas_3357129_1_6ae5b129a537e.jpg",
-    "source": "Europe 1",
-    "article_url": "https://www.europe1.fr/politique/budget-2027-les-deputes-votent-une-taxe-au-gigaoctet-1197300?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-    "article_id": "2591b3a6aaa3"
-   },
-   "id": 240,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:31:59+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 2.41,
-   "sources": [
-    {
-     "id": "2591b3a6aaa3",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Budget 2027 : les députés votent une taxe au gigaoctet",
-     "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-votent-une-taxe-au-gigaoctet-1197300?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-31T09:42:00+00:00",
-     "snippet": "L’Assemblée nationale a adopté une taxe de 5,5 centimes par gigaoctet transmis aux internautes français. Portée par le député socialiste Laurent Lhardit, la mesure vise les fournisseurs de contenus numériques, mais elle n’est pas encore définitivement adoptée. Une nouvelle taxe ? Les députés ont adopté, vendredi 30 octobre 2026, l’amendement I-1358 au projet de loi de finances pour 2027. Déposé le 9 octobre par Laurent Lhardit, membre du groupe Socialistes et apparentés, le texte crée une \"taxe sur les producteurs de données numériques\". L’amendement a recueilli 11 voix contre 10, malgré les a"
-    },
-    {
-     "id": "26d6dc64d597",
-     "name": "Libération",
-     "kind": "media",
-     "title": "«Ces fous vont nous mettre au fond du ravin» : après le vote d’une taxe sur les données numériques, la colère d’utilisateurs et de patrons",
-     "url": "https://www.liberation.fr/politique/ces-fous-vont-nous-mettre-au-fond-du-ravin-apres-le-vote-dune-taxe-sur-les-donnees-numeriques-la-colere-dutilisateurs-et-de-patrons-20261102_I2BBRYQFHFDIBFPK344MVWZHVI/",
-     "published_at": "2026-11-02T15:21:51+00:00",
-     "snippet": "Voté vendredi à l’Assemblée, l’amendement au budget 2027 prévoit de taxer les producteurs de données numériques à hauteur de 5,5 centimes d’euros par gigaoctet. Beaucoup s’inquiètent du risque d’une répercussion sur la facture des usagers."
-    },
-    {
-     "id": "469cc7368f65",
-     "name": "Numerama",
-     "kind": "media",
-     "title": "« Trompés de bouton » : Éric Coquerel (LFI) désavoue son vote pour la taxe au gigaoctet",
-     "url": "https://www.numerama.com/politique/2365485-trompes-de-bouton-eric-coquerel-lfi-desavoue-son-vote-pour-la-taxe-au-gigaoctet.html",
-     "published_at": "2026-11-02T09:18:54+00:00",
-     "snippet": "Éric Coquerel (LFI) affirme s’être trompé de bouton en votant, vendredi 30 octobre, la taxe de 5,5 centimes par gigaoctet. Une note de la communauté sur X rappelle qu’il avait pourtant cosigné un texte similaire en 2024."
-    },
-    {
-     "id": "6bccdb578dd2",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Ils ont complètement pété les plombs » : à l’Assemblée, le vote d’une taxe sur les données numériques provoque un tollé",
-     "url": "https://www.leparisien.fr/politique/ils-ont-completement-pete-les-plombs-a-lassemblee-le-vote-dune-taxe-sur-les-donnees-numeriques-provoque-un-tolle-01-11-2026-RFIZL4AFJNGBZJ3AWKPY3O5RUI.php",
-     "published_at": "2026-11-02T17:13:34+00:00",
-     "snippet": ""
-    }
-   ]
-  },
-  {
-   "headline": "Christine Lagarde quittera la BCE le 7 février : pourquoi LFI et le RN accusent Macron de manœuvrer",
-   "chapo": "La présidente de la Banque centrale européenne partira neuf mois avant la fin de son mandat, en pleine campagne présidentielle française. Mélenchon et le RN y voient un moyen pour Emmanuel Macron de peser sur sa succession ; l'entourage du président répond qu'il s'agit d'un choix personnel.",
-   "points": [
-    {
-     "text": "Christine Lagarde a annoncé dans une vidéo qu'elle quittera la BCE le 7 février, neuf mois avant le terme de son mandat (octobre 2027) : « Je quitte cette institution avec le sentiment du devoir accompli et une BCE prête pour l'avenir », selon LCP.",
-     "sources": [
-      "63f768ec2362"
-     ]
-    },
-    {
-     "text": "Elle dit vouloir « avoir la liberté de parole, la liberté d'expression et la liberté de [s']engager sur des sujets qui ne relèvent pas de la politique monétaire ». Elle exclut de se présenter à la présidentielle, selon 20 Minutes.",
-     "sources": [
-      "2a323e8b686b"
-     ]
-    },
-    {
-     "text": "Pourquoi cela concerne la France : en partant le 7 février, Christine Lagarde laisse la possibilité à Emmanuel Macron de peser sur la désignation de son successeur avant la présidentielle, selon Europe 1. Les oppositions dénoncent « un verrouillage, avant une possible alternance ».",
-     "sources": [
-      "b3e28c55d2a5"
-     ]
-    },
-    {
-     "text": "Jean-Luc Mélenchon (LFI) : « Après le départ du gouverneur de la Banque de France avant terme pour permettre à Macron de nommer son assistant, voici le départ annoncé de Christine Lagarde » pour « permettre à Macron de négocier avec le chancelier la prochaine nomination », selon 20 Minutes. Éric Coquerel (LFI) : « Emmanuel Macron veut verrouiller la politique monétaire », selon LCP.",
-     "sources": [
-      "2a323e8b686b",
-      "63f768ec2362"
-     ]
-    },
-    {
-     "text": "Jean-Philippe Tanguy (RN) dénonce une « dérive illibérale » : Macron veut « verrouiller » la BCE « après avoir placé Emmanuel Moulin à la Banque de France et Amélie de Montchalin à la Cour des comptes », selon LCP.",
-     "sources": [
-      "63f768ec2362"
-     ]
-    },
-    {
-     "text": "Côté Élysée, un proche du président : « C'est un choix personnel » de Christine Lagarde ; « Il faut arrêter de voir le complot partout », selon 20 Minutes. Macron a salué son action en appelant à une transition « ordonnée et équilibrée ». Mais « à Francfort, Emmanuel Macron ne décide pas seul » : la France a déjà fourni deux des quatre présidents de la BCE, selon Europe 1.",
-     "sources": [
-      "2a323e8b686b",
-      "b3e28c55d2a5"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/Mq3eX-AxS8Cvsym2vON32ik/1200x768_29-octobre-2026-francfort-hesse-allemagne-la-presidente-de-la-banque-centrale-europeenne-bce-christine-lagarde-arrive-pour-une-conference-de-presse-a-l-issue-d-une-reunion-du-conseil-des-gouverneurs-a-francfort-sur-le-main-en-allemagne-image-de-credit-matias-basualdo-zuma-press-wire-20261029-zip-b332-013-zeus-2610291639",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4258761-20261029-depart-christine-lagarde-bce-melenchon-lfi-tanguy-rn-accusent-macron-etre-man-uvre?at_medium=display&at_campaign=149",
-    "article_id": "2a323e8b686b"
-   },
-   "id": 233,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:32:21+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.81,
-   "sources": [
-    {
-     "id": "2a323e8b686b",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Départ de Christine Lagarde de la BCE : Mélenchon (LFI) et Tanguy (RN) accusent Macron d’être à la manœuvre",
-     "url": "https://www.20minutes.fr/politique/4258761-20261029-depart-christine-lagarde-bce-melenchon-lfi-tanguy-rn-accusent-macron-etre-man-uvre?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-29T18:40:26+00:00",
-     "snippet": "Jean-Luc Mélenchon et Jean-Philippe Tanguy (RN) accusent Emmanuel Macron d’être derrière le départ anticipé de Christine Lagarde de la tête de la Banque centrale européenne (BCE)"
-    },
-    {
-     "id": "63f768ec2362",
-     "name": "LCP",
-     "kind": "media",
-     "title": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne",
-     "url": "https://lcp.fr/actualites/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-444496",
-     "published_at": "2026-10-30T09:15:08+00:00",
-     "snippet": "Par Maxence Kagni , le Jeudi 29 octobre 2026 à 16:36 Christine Lagarde a annoncé jeudi qu'elle quitterait début février 2027 son poste de présidente de la Banque centrale européenne (BCE). Le RN et LFI dénoncent une manoeuvre visant selon eux à permettre à Emmanuel Macron de participer aux négociations européennes pour trouver son successeur. Christine Lagarde annonce ce jeudi dans une vidéo qu'elle quitttera la présidence de la Banque centrale européenne (BCE) le 7 février prochain, soit neuf mois avant le terme officiel de son mandat, prévu en octobre 2027. \"Je quitte cette institution avec "
-    },
-    {
-     "id": "b3e28c55d2a5",
-     "name": "Europe 1",
-     "kind": "media",
-     "title": "Comment Emmanuel Macron compte peser dans la désignation du successeur de Christine Lagarde à la Banque centrale européenne",
-     "url": "https://www.europe1.fr/politique/comment-emmanuel-macron-compte-peser-dans-la-designation-du-successeur-de-christine-lagarde-a-la-banque-centrale-europeenne-1192710?at_medium=RSS%20feeds&amp;at_campaign=Flux%20Generique",
-     "published_at": "2026-10-30T05:32:00+00:00",
-     "snippet": "Alors que Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février prochain, neuf mois avant la fin de son mandat, Emmanuel Macron a déjà imaginé comment peser dans la désignation de son successeur. Le départ de Christine Lagarde est désormais officiel. La présidente de la BCE quittera son poste le 7 février, près de neuf mois avant la fin officielle de son mandat. Sa succession pourrait donc être tranchée avant la présidentielle française. Ses partenaires ne lui feront aucun cadeau Emmanuel Macron a salué jeudi son action, tout en appelant à une transition \"ordon"
-    }
-   ]
-  },
-  {
-   "headline": "La pétition pour fermer CNews dépasse 500 000 signatures : ce que cela permet, et ce que cela ne permet pas",
-   "chapo": "Lancée en juin, la pétition a explosé après l'attentat de Trappes. Le seuil ouvre la voie à un possible débat à l'Assemblée, mais n'entraîne ni fermeture de la chaîne ni vote automatique d'une loi. CNews dit ne pas commenter une « pétition politique ».",
-   "points": [
-    {
-     "text": "La pétition, déposée sur le site de l'Assemblée nationale, demande de « supprimer CNews de l'audiovisuel français ». Elle a dépassé 500 000 signatures le 2 novembre, alors qu'elle était à moins de 100 000 signatures numériques fin octobre, selon Le Monde.",
-     "sources": [
-      "26ad0db5d71e"
-     ]
-    },
-    {
-     "text": "Son auteur, un particulier, écrit que CNews est « une machine de propagande » et que « une fréquence publique, ça se mérite, ça ne se souille pas », selon Le Parisien. Il demande à l'Arcom de retirer à la chaîne sa convention TNT, en listant des « manquements au droit » ayant donné lieu à des rappels à l'ordre, selon LCP.",
-     "sources": [
-      "2d3869ad5f07",
-      "bba1e846d413"
-     ]
-    },
-    {
-     "text": "L'afflux de signatures coïncide avec l'attentat raciste de Trappes. Une partie de la gauche, dont le maire de Trappes Ali Rabeh, accuse les médias, CNews en particulier, d'une responsabilité dans le climat qui l'a précédé, selon Le Monde. Thomas Portes (La France insoumise) : « Depuis des années, cette pseudo 'chaîne' met une cible dans le dos des musulmans », selon LCP.",
-     "sources": [
-      "26ad0db5d71e",
-      "bba1e846d413"
-     ]
-    },
-    {
-     "text": "La réponse de CNews : « Nous ne ferons pas de commentaires sur cette pétition politique ». La chaîne, régulièrement accusée de promouvoir des thèmes d'extrême droite, le conteste et assure défendre la liberté d'expression, selon Le Monde. Elle avait été mise en demeure en juin par l'Arcom de corriger un « déséquilibre manifeste et durable » dans l'expression des courants d'opinion.",
-     "sources": [
-      "26ad0db5d71e"
-     ]
-    },
-    {
-     "text": "La suite : la pétition va à la commission des affaires culturelles, qui choisit de la classer ou de l'examiner ; puis la Conférence des présidents décide d'un éventuel débat en séance. Un débat n'aboutirait « aucunement à la fermeture de CNews », ni à un texte de loi automatique, selon LCP.",
-     "sources": [
-      "bba1e846d413"
-     ]
-    },
-    {
-     "text": "Les rapports de force : la droite et le RN comptent 23 sièges dans cette commission, le centre 21, la gauche 25, et la pétition est soutenue uniquement par la gauche, selon Le Parisien. Précédents : la pétition contre la loi Duplomb a donné lieu à un débat sans changement du texte ; celle sur l'usage légitime de l'arme a été classée sans suite.",
-     "sources": [
-      "2d3869ad5f07"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.lemde.fr/2026/10/19/750/0/5000/2500/644/322/60/0/d00686f_upload-1-1mtgvl0zmzum-2026-10-18-paris-pol-lemonde-17oct-jour-apres-114.JPG",
-    "source": "Le Monde",
-    "article_url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-500-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3236.html",
-    "article_id": "26ad0db5d71e"
-   },
-   "id": 237,
-   "section": "institutions",
-   "reviewed_at": "2026-11-02T17:32:06+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.81,
-   "sources": [
-    {
-     "id": "26ad0db5d71e",
-     "name": "Le Monde",
-     "kind": "media",
-     "title": "CNews : une pétition appelant à fermer la chaîne dépasse 500 000 signatures, ouvrant la voie à un débat à l’Assemblée nationale",
-     "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/cnews-une-petition-appelant-a-fermer-la-chaine-depasse-500-000-signatures-ouvrant-la-voie-a-un-debat-a-l-assemblee-nationale_6805256_3236.html",
-     "published_at": "2026-11-02T13:01:36+00:00",
-     "snippet": "« Nous ne ferons pas de commentaires sur cette pétition politique », a réagi CNews lundi. La chaîne du groupe Canal+ est régulièrement accusée de promouvoir les opinions et les thèmes d’extrême droite. L’organisation d’un débat passé le seuil de 500 000 signatures n’est toutefois pas systématique, une commission devra se prononcer en décidant de la classer ou de l’examiner."
-    },
-    {
-     "id": "2d3869ad5f07",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Plus de 550 000 signatures recueillies : quelles sont les prochaines étapes pour la pétition visant à fermer CNews ?",
-     "url": "https://www.leparisien.fr/politique/plus-de-550-000-signatures-recueillies-quelles-sont-les-prochaines-etapes-pour-la-petition-visant-a-fermer-cnews-02-11-2026-WJSU3T4ZHZAH5O3DXUY6NX4TY4.php",
-     "published_at": "2026-11-02T17:13:34+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "bba1e846d413",
-     "name": "LCP",
-     "kind": "media",
-     "title": "La pétition demandant la fermeture de CNews dépasse 500.000 signatures, première étape vers un éventuel débat dans l'hémicycle de l'Assemblée",
-     "url": "https://lcp.fr/actualites/la-petition-demandant-la-fermeture-de-cnews-depasse-500000-signatures-premiere-etape",
-     "published_at": "2026-11-02T17:13:39+00:00",
-     "snippet": "Par Raphaël Marchal , le Lundi 2 novembre 2026 à 12:58 La pétition demandant la fermeture de CNews a franchi, ce lundi 2 novembre, le cap des 500 000 signatures sur le site de l'Assemblée nationale qui accueille des pétitions citoyennes. Un seuil qui ouvre la voie à un éventuel débat dans l'hémicycle du Palais-Bourbon. Un succès fulgurant. Quelques mois après avoir été déposée sur la plateforme de l'Assemblée nationale dédiée aux pétitions citoyennes, l'une d'entre elles demandant à \"supprimer CNews de l'audiovisuel français\" a recueilli plusieurs centaines de milliers de signatures vérifiées "
-    }
-   ]
-  },
-  {
-   "headline": "Lisnard : « ni avec les macronistes, ni avec le RN » ; ce que lui reprochent Fesneau et Copé",
-   "chapo": "Accusé de proximité avec l'extrême droite, le maire de Cannes a affirmé dimanche sur X qu'il ne gouvernerait avec aucun des deux camps. Marc Fesneau et Jean-François Copé lui reprochent le flou, et la question de la primaire reste ouverte.",
-   "points": [
-    {
-     "text": "David Lisnard, patron de Nouvelle Énergie : « Ma démarche est INDÉPENDANTE comme ma droite est indépendante ». Il dit qu'il ne s'alliera « ni avec les macronistes ni avec le RN. Cela a toujours été clair et net », selon 20 Minutes.",
-     "sources": [
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Pourquoi cette clarification : Marc Fesneau (MoDem) l'a accusé dans La Tribune Dimanche de « préparer la grande alliance avec l'extrême droite, comme Sarah Knafo », ce qui justifierait son exclusion d'une primaire du centre et de la droite, selon 20 Minutes.",
-     "sources": [
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Jean-François Copé (LR) sur BFMTV : « Quelque chose qui me gêne, c'est sa proximité avec Éric Ciotti » ; « quand on fait un appel du pied à Éric Ciotti (…) on fait un appel du pied à Le Pen ». Pour lui, « le mur doit être totalement étanche », selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    },
-    {
-     "text": "Lisnard a plusieurs fois appelé Ciotti à rompre son alliance avec le RN pour le rejoindre, et il a pris ses distances avec Marine Le Pen sur l'économie : « Qu'on m'explique comment on va relancer la prospérité en France et réduire les dépenses avec la retraite telle qu'elle est proposée par le RN », selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    },
-    {
-     "text": "Sa ligne sur la primaire : elle doit être ouverte aux candidats « qui se réclament de la droite et du centre ». Il ne demande pas aux perdants de suivre le gagnant, « mais de ne pas nuire à sa campagne », selon CNews. Il interpelle Édouard Philippe, « le dernier à refuser », pour qu'il clarifie « son périmètre », selon 20 Minutes.",
-     "sources": [
-      "2c2f1cf0192a",
-      "c8a951bf65a6"
-     ]
-    },
-    {
-     "text": "Copé est sceptique : « il n'y aura pas de primaire, c'est écrit », car les prétendants « ne sont pas d'accord sur qui on met dans la primaire » : Attal voudrait Glucksmann, Lisnard accueillerait Sarah Knafo, Philippe est contre, selon Le Parisien.",
-     "sources": [
-      "c090fa7b607c"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/UNOmSqV3QuGHd_dZhcfbCCk/1200x768_david-lisnard-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-visite-le-35e-sommet-de-l-elevage-a-cournon-d-auvergne-dans-le-centre-de-la-france-le-8-octobre-2026-david-lisnard-president-de-nouvelle-energie-maire-de-cannes-president-de-l-association-des-maires-de-france-et-candidat-a-l-election-presidentielle-de-2027-a-visite-le-35eme-sommet-de-l-elevage-a-cournon-d-auvergne-le-jeudi-8-octobre-2026-alain-robert-1y8a1762-credit-alain-robert-sipa-2610081948",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
-    "article_id": "c8a951bf65a6"
-   },
-   "id": 238,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:32:04+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.81,
-   "sources": [
-    {
-     "id": "2c2f1cf0192a",
-     "name": "CNews",
-     "kind": "media",
-     "title": "Présidentielle 2027 : «Je ne gouvernerai ni avec les \"macronistes\" ni avec le RN», annonce David Lisnard",
-     "url": "https://www.cnews.fr/france/2026-11-02/presidentielle-2027-je-ne-gouvernerai-ni-avec-les-macronistes-ni-avec-le-rn",
-     "published_at": "2026-11-02T13:13:22+00:00",
-     "snippet": "Le candidat à l'élection présidentielle David Lisnard s'est défendu dimanche de vouloir gouverner avec le RN ou avec des «macronistes», alors qu'il est accusé par plusieurs personnalités d'entretenir une proximité avec l'extrême droite et le bloc central. «Ma démarche est INDÉPENDANTE comme ma droite est indépendante». C’est avec ces mots que le maire de Cannes, David Lisnard, a clarifié sa position dans un long post X publié dimanche promettant qu'il ne gouvernerait «ni avec les macronistes ni avec le RN». Une clarification qui survient après des accusations de proximité avec ces deux forces "
-    },
-    {
-     "id": "c090fa7b607c",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "Présidentielle 2027 : Jean-François Copé accuse David Lisnard de ne pas être « très clair » sur sa ligne vis-à-vis du RN",
-     "url": "https://www.leparisien.fr/politique/presidentielle-2027-jean-francois-cope-accuse-david-lisnard-de-ne-pas-etre-tres-clair-sur-sa-ligne-vis-a-vis-du-rn-01-11-2026-F3KPHEL6ZBGENJMH72VAQEZAEA.php",
-     "published_at": "2026-11-02T17:13:34+00:00",
-     "snippet": ""
-    },
-    {
-     "id": "c8a951bf65a6",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "Accusé de complaisance avec l’extrême droite, David Lisnard récuse tout accord avec le RN",
-     "url": "https://www.20minutes.fr/politique/4259571-20261102-accuse-complaisance-extreme-droite-david-lisnard-recuse-tout-accord-rn?at_medium=display&at_campaign=149",
-     "published_at": "2026-11-02T06:15:30+00:00",
-     "snippet": "Pointé du doigt par le centre pour ses ambiguïtés supposées avec l’extrême droite, le maire de Cannes et candidat à la présidentielle David Lisnard a exclu dimanche toute gouvernance avec le Rassemblement national"
-    }
-   ]
-  },
-  {
-   "headline": "2,3 millions d'euros pour le futur bureau de Macron : ce que prévoit le budget, et la demande de Ruffin de supprimer les avantages des ex-présidents",
-   "chapo": "Un rapport parlementaire révélé par Politico prévoit une provision de 2,3 millions d'euros pour installer Emmanuel Macron après l'Élysée. François Ruffin, candidat de gauche, demande de supprimer tous les avantages des anciens présidents. L'entourage présidentiel parle d'une procédure préventive.",
-   "points": [
-    {
-     "text": "Ce que prévoit le budget : une provision de 2,3 millions d'euros pour le futur bureau d'Emmanuel Macron, qui doit financer un bail de six ans et la sécurisation des lieux, selon 20 Minutes. Ce n'est pas une somme versée à Emmanuel Macron : c'est une provision destinée à préparer son installation, selon La Dépêche du Midi.",
-     "sources": [
-      "53d1eab42c1e",
-      "8db17cb47975"
-     ]
-    },
-    {
-     "text": "La réponse de l'entourage présidentiel : une « procédure préventive des services, fondée sur les expériences des présidents passés ». Aucun bureau n'aurait encore été choisi, selon La Dépêche du Midi. Le Parisien parle d'une « procédure classique ».",
-     "sources": [
-      "8db17cb47975",
-      "e8bad547fea8"
-     ]
-    },
-    {
-     "text": "À quoi ont droit les anciens présidents : des locaux dont le loyer est pris en charge par l'État, une voiture avec chauffeur, un cabinet de sept collaborateurs et des frais de réception, selon 20 Minutes. Ce « soutien matériel et humain » est à vie et encadré par un décret de 2016, selon Le Parisien.",
-     "sources": [
-      "53d1eab42c1e",
-      "e8bad547fea8"
-     ]
-    },
-    {
-     "text": "Ce que cela coûte : Nicolas Sarkozy et François Hollande ont coûté ensemble 1,42 million d'euros en 2025 (756 463 euros pour le premier, 665 477 pour le second), selon le rapport parlementaire cité par La Dépêche du Midi.",
-     "sources": [
-      "8db17cb47975"
-     ]
-    },
-    {
-     "text": "François Ruffin sur BFMTV : « Vu son bilan, il ne devrait plus y avoir un rond pour Macron à la sortie de l'Élysée ». Il réclame « qu'il n'y ait plus un avantage pour les anciens présidents » et dit que « l'exemple doit venir d'en haut », selon 20 Minutes. Il promet de se rémunérer au Smic s'il est élu.",
-     "sources": [
-      "53d1eab42c1e"
-     ]
-    },
-    {
-     "text": "Le contexte : début 2026, un décret a mis fin aux avantages à vie des anciens Premiers ministres et ministres de l'Intérieur, limités à dix ou deux ans selon la fonction ; les ex-présidents gardent un « soutien matériel et humain » à vie. Ruffin avait déposé l'été dernier une proposition de loi pour que les anciens présidents « redeviennent des citoyens ordinaires », selon Le Parisien.",
-     "sources": [
-      "e8bad547fea8"
-     ]
-    }
-   ],
-   "perspectives": [],
-   "coverage": {
-    "articles": 3,
-    "outlets": 3
-   },
-   "image": {
-    "url": "https://img.20mn.fr/tmw9mQJ6Te6bBonIY5nkVyk/1200x768_le-depute-de-la-france-insoumise-francois-ruffin-est-rendu-lundi-soir-10-juin-2024-a-paris-place-de-la-republique-avec-sophie-taille-polian-deputee-les-ecologistes-a-la-manifestation-contre-l-extreme-droite-suite-aux-resultats-du-rassemblement-national-lors-des-elections-europeennes-et-suite-a-la-dissolution-de-l-assemblee-nationale-annoncee-par-emmanuel-macron-paris-france-11-06-2024-france-le-depute-insoumis-francois-ruffin-a-participe-a-la-manifestation-contre-l-extreme-droite-sur-la-place-de-la-republique-a-paris-avec-sophie-taille-polian-deputee-les-ecologistes-lundi-soir-10-juin-2024-a-la-suite-des-resultats-du-rassemblement-national-pour-les-elections-europeennes-et-de-la-dissolution-de-l-assemblee-nationale-annoncee-par-emmanuel-macron-paris-france-11-06-2024-04-harsin-fruffinmanif-contre-extreme-droite004-credit-isa-harsin-sipa-2406110148",
-    "source": "20 Minutes",
-    "article_url": "https://www.20minutes.fr/politique/4259071-20261030-devrait-plus-avoir-rond-ruffin-offusque-provision-2-3-millions-futur-bureau-macron?at_medium=display&at_campaign=149",
-    "article_id": "53d1eab42c1e",
-    "focus_x": 0.49,
-    "focus_y": 0.018310546875
-   },
-   "id": 243,
-   "section": "presidentielle",
-   "reviewed_at": "2026-11-02T17:31:51+00:00",
-   "ai_generated": true,
-   "human_reviewed": true,
-   "photo": null,
-   "score": 1.81,
-   "sources": [
-    {
-     "id": "53d1eab42c1e",
-     "name": "20 Minutes",
-     "kind": "media",
-     "title": "« Il ne devrait plus avoir un rond »… Ruffin s’offusque d’une « provision » de 2,3 millions pour le futur bureau de Macron",
-     "url": "https://www.20minutes.fr/politique/4259071-20261030-devrait-plus-avoir-rond-ruffin-offusque-provision-2-3-millions-futur-bureau-macron?at_medium=display&at_campaign=149",
-     "published_at": "2026-10-30T18:11:17+00:00",
-     "snippet": "François Ruffin dénonce la somme allouée aux travaux du futur bureau d’Emmanuel Macron. Il souhaite mettre fin aux avantages des anciens présidents"
-    },
-    {
-     "id": "8db17cb47975",
-     "name": "La Dépêche du Midi",
-     "kind": "media",
-     "title": "Emmanuel Macron : 2,3 millions d'euros prévus pour ses futurs bureaux, lorsqu'il quittera l'Élysée... François Ruffin demande \"qu'il n'y ait plus un avantage pour les anciens présidents\"",
-     "url": "https://www.ladepeche.fr/2026/10/30/emmanuel-macron-23-millions-deuros-prevus-pour-ses-futurs-bureaux-lorsquil-quittera-lelysee-francois-ruffin-demande-quil-ny-ait-plus-un-avantage-pour-13628290.php",
-     "published_at": "2026-10-30T16:31:57+00:00",
-     "snippet": "Alors qu'Emmanuel Macron quittera l'Élysée en mai 2027, une enveloppe de 2,3 millions d'euros est déjà prévue pour ses futurs bureaux. Une dépense qui fait bondir François Ruffin. Le candidat à la présidentielle..."
-    },
-    {
-     "id": "e8bad547fea8",
-     "name": "Le Parisien",
-     "kind": "media",
-     "title": "« Il ne devrait plus y avoir un rond pour Macron à la sortie de l’Élysée » : François Ruffin appelle à supprimer les avantages des anciens présidents",
-     "url": "https://www.leparisien.fr/elections/presidentielle/il-ne-devrait-plus-y-avoir-un-rond-pour-macron-a-la-sortie-de-lelysee-francois-ruffin-appelle-a-supprimer-les-avantages-des-anciens-presidents-30-10-2026-UEVLENEICRH6VEETIXIEF2MSIY.php",
-     "published_at": "2026-10-31T11:30:29+00:00",
-     "snippet": ""
     }
    ]
   }
